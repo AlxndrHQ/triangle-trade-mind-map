@@ -82,3 +82,14 @@ G4 Africa:
 - kingdom-of-dahomey, francisco-felix-de-souza, port-ouidah, asante-empire, oyo-empire, kingdom-of-kongo, afonso-i-of-kongo, queen-nzinga, aro-confederacy, kingdom-of-bonny, old-calabar-efik, jaja-of-opobo, kosoko-of-lagos, madam-tinubu, caulker-family, akwamu-kingdom
 G5 Americas:
 - dewolf-family, brown-family-providence, brown-university, aaron-lopez, peter-faneuil, royall-family, henry-laurens, georgetown-university, franklin-and-armfield, lehman-brothers, jpmorgan-chase, wells-fargo-wachovia, aetna, new-york-life, brown-brothers-harriman, julian-de-zulueta, joaquim-pereira-marinho, clotilda-meaher, port-newport, port-charleston, port-rio-valongo, port-salvador, port-havana, pedro-blanco
+
+## ROUND 3 ADDITIONS (these override the lists above)
+New categories: "Enslaved & Free Black Lives" and "Arab, Saharan & Indian Ocean".
+New roles: "Captain & Crew", "Enslaved & Survivor", "Free & Abolitionist".
+For people in "Enslaved & Free Black Lives" the fields mean:
+- role_summary → their story: how they were captured/enslaved/freed, what they endured, what they did.
+- legacy → descendants and memory today (descendant groups, memorials, books, DNA/genealogy projects, place names).
+- scale → how much documentation/impact their story has: "Minor" (a name in a record), "Significant", "Major" (widely documented), "Dominant" (a defining figure, e.g. Douglass); scaleNote explains the sources (narrative, ledger, interview).
+- start/end = years enslaved or active (end null only if an organisation/community still exists).
+Captains and crew use their usual category ("European Families"/"American Families") with role "Captain & Crew".
+Ships, voyages, slave pens and revolts are ENTITIES (kind "Ship / voyage", "Revolt / uprising", "Slave pen / market").

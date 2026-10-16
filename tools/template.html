@@ -16,7 +16,7 @@
   --bg:#FAFAF7; --bg2:#F3F2EC; --text:#1F1D18; --text2:#1f1d18d9; --muted:#6B6960; --dim:#9C998E;
   --line:#E8E6DF; --line2:#D8D5CB; --accent:#8A5A2B; --accent-soft:#8a5a2b1a;
   --edge:#C4C1B6; --edge-strong:#8F8C82;
-  --c-eu:#2a78d6; --c-co:#eb6834; --c-af:#1baf7a; --c-cr:#eda100; --c-am:#6250d6;
+  --c-eu:#2a78d6; --c-co:#eb6834; --c-af:#1baf7a; --c-cr:#eda100; --c-am:#6250d6; --c-en:#e87ba4; --c-ar:#008300;
   --doc:#3C7A5E; --pattern:#8A5A2B; --scrim:#1f1d1826; --bar:#8A5A2B;
   --serif:'Iowan Old Style','Apple Garamond',Georgia,serif;
   --sans:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;
@@ -28,7 +28,7 @@
     --bg:#0E0E10; --bg2:#151518; --text:#E8E6DF; --text2:#e8e6dfd9; --muted:#8A8A92; --dim:#5E5E66;
     --line:#26262B; --line2:#34343A; --accent:#C9A875; --accent-soft:#c9a8751f;
     --edge:#36363D; --edge-strong:#5E5E66;
-    --c-eu:#3987e5; --c-co:#d95926; --c-af:#199e70; --c-cr:#c98500; --c-am:#9085e9;
+    --c-eu:#3987e5; --c-co:#d95926; --c-af:#199e70; --c-cr:#c98500; --c-am:#9085e9; --c-en:#d55181; --c-ar:#008300;
     --doc:#7FB89B; --pattern:#C9A875; --scrim:#00000099; --bar:#C9A875;
     color-scheme:dark;
   }
@@ -37,7 +37,7 @@
   --bg:#0E0E10; --bg2:#151518; --text:#E8E6DF; --text2:#e8e6dfd9; --muted:#8A8A92; --dim:#5E5E66;
   --line:#26262B; --line2:#34343A; --accent:#C9A875; --accent-soft:#c9a8751f;
   --edge:#36363D; --edge-strong:#5E5E66;
-  --c-eu:#3987e5; --c-co:#d95926; --c-af:#199e70; --c-cr:#c98500; --c-am:#9085e9;
+  --c-eu:#3987e5; --c-co:#d95926; --c-af:#199e70; --c-cr:#c98500; --c-am:#9085e9; --c-en:#d55181; --c-ar:#008300;
   --doc:#7FB89B; --pattern:#C9A875; --scrim:#00000099; --bar:#C9A875;
   color-scheme:dark;
 }
@@ -99,6 +99,7 @@ svg.zoomed .elabel{opacity:.85}
 .node.profile text{font:400 12.5px var(--serif);fill:var(--text)}
 .node.profile .ring{fill:var(--bg);stroke:var(--c);stroke-width:1.2}
 .node.profile .core{fill:var(--c)}
+.node.profile .ring2{fill:none;stroke:var(--c);stroke-width:.8}
 .node.profile.co .ring{stroke-width:2.2}
 .node.profile.est .ring{stroke-dasharray:3 2.5}
 .node.entity .box{fill:var(--bg);stroke:var(--edge-strong);stroke-width:1}
@@ -333,7 +334,7 @@ ol.steps li b,ul.bul li b{color:var(--text);font-weight:600}
 <div id="app">
   <header class="top">
     <div class="row1">
-      <div class="brand"><h1>The Triangle Trade</h1><small>Players · Families · Companies · 1492–Today</small></div>
+      <div class="brand"><h1>The Triangle Trade</h1><small>Players · Families · Companies · The Enslaved · 1492–Today</small></div>
       <label class="search" aria-label="Search">
         <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
         <input id="q" type="search" placeholder="Search families, companies, ports, kingdoms…" autocomplete="off" spellcheck="false">
@@ -403,7 +404,7 @@ const EMBEDDED_DATA = /*DATA-START*/{"records":[],"events":[]}/*DATA-END*/;
 
 const SITE = 'The Triangle Trade';
 const META = {
-  disclaimer: "Educational dossiers compiled from public scholarship (SlaveVoyages, UCL Legacies of British Slavery, national archives, museum and university reports). Scale ratings are relative and marked “est.” where they are estimates. Items tagged INTERPRETIVE are historians’ readings or contested claims, not documented facts. Inclusion of a modern institution reflects its documented historical ties or its own acknowledgement, not present-day wrongdoing."
+  disclaimer: "Educational dossiers compiled from public scholarship (SlaveVoyages, UCL Legacies of British Slavery, national archives, museum and university reports). Scale ratings are relative and marked “est.” where they are estimates; for enslaved and free Black people the rating describes how well documented a life is, not its worth. Items tagged INTERPRETIVE are historians’ readings or contested claims, not documented facts. Inclusion of a modern institution reflects its documented historical ties or its own acknowledgement, not present-day wrongdoing."
 };
 /* SlaveVoyages “Estimates” database, 1501–1866 (approximate; rounded). */
 const SV = {
@@ -441,10 +442,17 @@ const CATS = {
   'Companies & Banks':       {short:'Company / Bank',color:'var(--c-co)'},
   'African States & Families':{short:'African',      color:'var(--c-af)'},
   'Crowns & Explorers':      {short:'Crown / Explorer',color:'var(--c-cr)'},
-  'American Families':       {short:'American',     color:'var(--c-am)'}
+  'American Families':       {short:'American',     color:'var(--c-am)'},
+  'Enslaved & Free Black Lives':{short:'Enslaved / Free Black', color:'var(--c-en)', shape:'double'},
+  'Arab, Saharan & Indian Ocean':{short:'Arab / Saharan / Indian Ocean', color:'var(--c-ar)', shape:'diamond'}
 };
-const BANDS = ['Crowns & Explorers','European Families','Companies & Banks','African States & Families','American Families'];
-const ROLES = ['Explorer & Crown','Trader & Shipper','Planter & Enslaver','Financier & Insurer','Ruler & Supplier','Broker & Agent'];
+const isLife = n => n?.category==='Enslaved & Free Black Lives';
+/* section labels: perpetrators get "role in the trade"; enslaved and free Black people get their own story */
+const LBL = n => isLife(n)
+  ? {role:'Their Story', legacy:'Memory & Descendants Today', scale:'Documentation', eyebrow:'Life'}
+  : {role:'Role in the Trade', legacy:'Where the Wealth Went · Legacy Today', scale:'Scale', eyebrow:''};
+const BANDS = ['Crowns & Explorers','European Families','Companies & Banks','Arab, Saharan & Indian Ocean','African States & Families','American Families','Enslaved & Free Black Lives'];
+const ROLES = ['Explorer & Crown','Trader & Shipper','Captain & Crew','Planter & Enslaver','Financier & Insurer','Ruler & Supplier','Broker & Agent','Enslaved & Survivor','Free & Abolitionist'];
 const SCALE = {Minor:{r:9,rank:0}, Significant:{r:12,rank:1}, Major:{r:17,rank:2}, Dominant:{r:24,rank:3}};
 const PERIODS = [
   {k:'p1', label:'1492–1600', from:1400, to:1599, title:'Iberian age: Vespucci, Columbus, the first asientos'},
@@ -741,7 +749,9 @@ const tlBandY = cat => { const i=BANDS.indexOf(cat), n=BANDS.length; return TL_H
 let yearX = null;
 
 function renderLegend(){
-  const cats = Object.entries(CATS).map(([k,c])=>`<div class="it"><span class="sw" style="background:${c.color}"></span>${esc(k)}</div>`).join('');
+  const sw = c => c.shape==='diamond' ? `<span class="sw" style="background:${c.color};border-radius:1px;transform:rotate(45deg) scale(.85)"></span>`
+    : c.shape==='double' ? `<span class="sw" style="background:${c.color};box-shadow:0 0 0 1.5px var(--bg),0 0 0 2.5px ${c.color}"></span>` : `<span class="sw" style="background:${c.color}"></span>`;
+  const cats = Object.entries(CATS).map(([k,c])=>`<div class="it">${sw(c)}${esc(k)}</div>`).join('');
   const sizes = Object.entries(SCALE).map(([k,t])=>`<span class="sz"><i style="width:${t.r}px;height:${t.r}px"></i>${esc(k)}</span>`).join('');
   document.getElementById('legend').innerHTML = `<h4>Group</h4>${cats}
     <div class="it"><span class="sq"></span>Port / fort / ship / institution</div>
@@ -823,7 +833,10 @@ function renderMap(){
       .on('end',(ev,d)=>{ if(!ev.active) G.sim.alphaTarget(0); d.fx=null; d.fy=null; }));
 
   const prof=node.filter(d=>d._kind==='profile');
-  prof.append('circle').attr('class','ring').attr('r',d=>d.r);
+  const shp=d=>CATS[d.category]?.shape;
+  prof.filter(d=>shp(d)==='double').append('circle').attr('class','ring2').attr('r',d=>d.r+3.5);
+  prof.filter(d=>shp(d)!=='diamond').append('circle').attr('class','ring').attr('r',d=>d.r);
+  prof.filter(d=>shp(d)==='diamond').append('rect').attr('class','ring').attr('x',d=>-d.r*.82).attr('y',d=>-d.r*.82).attr('width',d=>d.r*1.64).attr('height',d=>d.r*1.64).attr('transform','rotate(45)');
   prof.append('circle').attr('class','core').attr('r',d=>Math.max(2.5,d.r*.3));
   prof.append('text').attr('text-anchor','middle').attr('dy',d=>d.r+15).text(d=>d.name);
   const boxed=node.filter(d=>d.hw);
@@ -857,7 +870,7 @@ function renderMap(){
 function applyLayout(reheat){
   if(!G.sim) return;
   const {w,h}=G, sim=G.sim;
-  const quad={'Crowns & Explorers':[.5,.18],'European Families':[.2,.3],'Companies & Banks':[.8,.3],'African States & Families':[.3,.78],'American Families':[.72,.78]};
+  const quad={'Crowns & Explorers':[.5,.15],'European Families':[.2,.28],'Companies & Banks':[.8,.28],'Arab, Saharan & Indian Ocean':[.88,.68],'African States & Families':[.15,.72],'American Families':[.55,.85],'Enslaved & Free Black Lives':[.5,.55]};
   sim.force('center', state.layout==='force' ? d3.forceCenter(w/2,h/2) : null);
   if(state.layout==='cluster'){
     sim.force('x',d3.forceX(d=>w*(quad[d.home?.cat]||[.5,.5])[0]).strength(d=>d._kind==='profile'?.18:.08));
@@ -924,10 +937,10 @@ function card(p){
     <h3>${hl(p.name)}</h3>
     <div class="life">${hl(p.nation||'')}${p.base?' · '+hl(p.base):''}</div>
     <div class="kpis">
-      <div class="kpi"><label>Scale</label><b class="mono">${esc(scaleLabel(p))}</b></div>
+      <div class="kpi"><label>${LBL(p).scale}</label><b class="mono">${esc(scaleLabel(p))}</b></div>
       <div class="kpi"><label>Lifespan / span</label><b>${esc(p.lifespan||'—')}</b></div>
     </div>
-    <p class="bt"><label>Role in the trade</label>${hl(p.role_summary||'')}</p>
+    <p class="bt"><label>${isLife(p)?'Their story':'Role in the trade'}</label>${hl(p.role_summary||'')}</p>
   </article>`;
 }
 document.addEventListener('click',e=>{ const c=e.target.closest('.card[data-id]'); if(c) openNode(c.dataset.id); });
@@ -962,7 +975,7 @@ function renderChron(){
   document.getElementById('grid').innerHTML = `
     <div class="gridhead"><h2>Chronology, 1492 to Today</h2><span class="meta">${evs.length} of ${DATA.events.length} events</span></div>
     ${filterNote()}
-    <p class="lede">From Amerigo Vespucci’s first voyages to the apologies and reparations debates of the 2020s. Each event links to the players involved, and every entry cites a source.</p>
+    <p class="lede">From Amerigo Vespucci’s first voyages, through the lives of the people who were trafficked and those who resisted, to the apologies and reparations debates of the 2020s. Each event links to the players involved, and every entry cites a source.</p>
     ${PERIODS.map(P=>{ const list=evs.filter(e=>e.year>=P.from&&e.year<=P.to); if(!list.length) return '';
       return `<h3 class="subh">${esc(P.label)} · ${esc(P.title)}<span class="n">${list.length}</span></h3><div class="chron">${list.map(ev=>`<div class="ev"><div class="yr">${ev.year}</div><div>
         <h4>${hl(ev.title)}</h4><p>${hl(ev.text||'')}</p>${ev.ids.length?`<div class="ppl">${ppl(ev)}</div>`:''}
@@ -1057,20 +1070,20 @@ function dossierHTML(n){
     <div class="life">${(n.aliases||[]).length?'“'+esc(n.aliases[0])+'” · ':''}${esc(n.lifespan||'')}${n.base?' · '+esc(n.base):''}</div>
     <div class="dbadges">
       <div class="dbadge"><label>Role</label>${esc(n.role||'—')}</div>
-      <div class="dbadge"><label>Active in the trade</label>${esc(activeLabel(n))}</div>
-      <div class="dbadge"><label>Scale</label>${esc(scaleLabel(n))}</div>
+      <div class="dbadge"><label>${isLife(n)?'Years':'Active in the trade'}</label>${esc(activeLabel(n))}</div>
+      <div class="dbadge"><label>${LBL(n).scale}</label>${esc(scaleLabel(n))}</div>
     </div>
   </div>
   <div class="dbody">
     ${n.scaleNote?`<div class="note">${esc(n.scaleNote)}</div>`:''}
     <section class="sec" style="margin-top:8px"><h3><span class="num">01</span>Origins</h3><p>${esc(n.origins||'')}</p></section>
-    <section class="sec"><h3><span class="num">02</span>Role in the Trade</h3>
+    <section class="sec"><h3><span class="num">02</span>${LBL(n).role}</h3>
       <blockquote class="callout">${esc(n.role_summary||'')}</blockquote>${bullets(n.roleDetail,'ol')}</section>
-    <section class="sec"><h3><span class="num">03</span>Where the Wealth Went · Legacy Today</h3>
+    <section class="sec"><h3><span class="num">03</span>${LBL(n).legacy}</h3>
       <blockquote class="callout">${esc(n.legacy||'')}</blockquote>${bullets(n.legacyDetail,'ul')}</section>
     <section class="sec"><h3><span class="num">04</span>Connected Network</h3>${networkList(n.id)}</section>
     ${sh&&sh.size>=2?`<section class="sec"><h3><span class="num">${nx()}</span>Players Tied to This Firm</h3><ul class="who">${[...sh.entries()].sort((a,b)=>a[1].length-b[1].length).map(([p,path])=>`<li><button data-go="${esc(p)}"><span class="d" style="background:${catColor(DATA.byId[p])}"></span><span class="nm">${esc(DATA.byId[p].name)}</span><span class="via">${path.length>2?esc('via '+path.slice(1,-1).map(id=>DATA.byId[id].name).join(' → ')):'direct'}</span></button></li>`).join('')}</ul></section>`:''}
-    ${ov.length?`<section class="sec"><h3><span class="num">${nx()}</span>Overlaps With Other Players</h3><ul class="who">${ov.map(({other,path})=>`<li><button data-go="${esc(other)}"><span class="d" style="background:${catColor(DATA.byId[other])}"></span><span class="nm">${esc(DATA.byId[other].name)}</span><span class="via">${esc(viaText(path))}</span></button></li>`).join('')}</ul></section>`:''}
+    ${ov.length?`<section class="sec"><h3><span class="num">${nx()}</span>Overlaps With Other People</h3><ul class="who">${ov.map(({other,path})=>`<li><button data-go="${esc(other)}"><span class="d" style="background:${catColor(DATA.byId[other])}"></span><span class="nm">${esc(DATA.byId[other].name)}</span><span class="via">${esc(viaText(path))}</span></button></li>`).join('')}</ul></section>`:''}
     ${eventsList(n.id,nx())}
     ${srcList(n)}
     <p class="disc">${esc(META.disclaimer)}</p>

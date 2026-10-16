@@ -1,6 +1,6 @@
 # The Triangle Trade — Mind Map of the Players, 1492–Today
 
-An interactive mind map and set of dossiers on the people, families, states and companies that built, financed and profited from the transatlantic slave trade. It starts in 1492 with Amerigo Vespucci and the Seville merchant houses, and runs to the apologies, reparations debates and successor institutions of today.
+An interactive mind map and set of dossiers on the people, families, states and companies that built, financed and profited from the transatlantic slave trade, and on the people it enslaved, the people who survived and resisted it, and the parallel Arab, trans-Saharan and Indian Ocean trades. It starts in 1492 with Amerigo Vespucci and the Seville merchant houses, and runs to the apologies, reparations debates and successor institutions of today.
 
 **Live site:** https://alxndrhq.github.io/triangle-trade-mind-map/
 
@@ -9,7 +9,7 @@ An interactive mind map and set of dossiers on the people, families, states and 
 | Tab | What it shows |
 |---|---|
 | **Web** (`#/web`) | A force-directed network of players (circles) and places/institutions (boxes). The **Timeline** layout (`#/web/timeline`) lays everything out left to right from 1492 to today. |
-| **Directory** (`#/directory`) | Dossier cards grouped by European families, African states & families, American families, companies & banks, and crowns & explorers. |
+| **Directory** (`#/directory`) | Dossier cards in seven groups: European families; African states & families; American families; companies & banks; crowns & explorers; enslaved & free Black lives; and Arab, Saharan & Indian Ocean traders. |
 | **Chronology** (`#/chronology`) | Dated events from 1492 to today, each linked to its players and a source, plus SlaveVoyages estimates "by the numbers". |
 | **Overlaps** (`#/overlaps`) | Companies, ports, forts and institutions shared by two or more players, and the direct ties that cross the triangle. |
 | **Map** (`#/map`) | Players pinned to their bases. The **Triangle Routes** layer (`#/map/routes`) draws the three legs and the direct Brazil–Africa trade. |
@@ -32,7 +32,7 @@ The records draw on mainstream scholarship and archives: the [SlaveVoyages](http
 
 ## Rebuilding
 
-`research/g1.json … g9.json` are the source files, one per research group: Iberia & explorers, Britain, continental Europe, African states, the Americas, African trading families, US planter families, Dutch/Portuguese/German/Swiss families, and financiers & legacy today. `research/SCHEMA.md` is the record format. To merge them, check links, and regenerate `data.json` plus the embedded copy in `index.html`, run:
+`research/g1.json … g12.json` are the source files, one per research group: Iberia & explorers, Britain, continental Europe, African states, the Americas, African trading families, US planter families, Dutch/Portuguese/German/Swiss families, financiers & legacy today, the Middle Passage (survivors, captains, crews, ships), enslaved and free Black lives, and the Arab, trans-Saharan and Indian Ocean trades. `research/SCHEMA.md` is the record format. To merge them, check links, and regenerate `data.json` plus the embedded copy in `index.html`, run:
 
 ```sh
 python3 tools/build.py research .

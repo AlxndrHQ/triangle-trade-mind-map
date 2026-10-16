@@ -1,0 +1,2422 @@
+{
+ "records": [
+  {
+   "id": "busaidi-dynasty",
+   "name": "Āl Bū Saʿīd (Busaidi) dynasty of Oman and Zanzibar",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Oman / Zanzibar",
+   "scale": "Dominant",
+   "scaleBasis": "estimated",
+   "scaleNote": "The Busaidi state taxed and protected the main 19th-century East African slave market at Zanzibar; Sheriff and Alpers estimate tens of thousands of captives a year passed through the Zanzibar customs by the 1860s (figures vary by source and are reconstructed from British consular reports).",
+   "start": 1749,
+   "end": 1964,
+   "lifespan": "1749–1964 (Zanzibar line 1856–1964)",
+   "base": "Muscat, Oman, and Zanzibar Town",
+   "geo": [
+    23.588,
+    58.383
+   ],
+   "aliases": [
+    "Al Busaid",
+    "Sultans of Muscat and Oman",
+    "Sultans of Zanzibar"
+   ],
+   "origins": "An Omani dynasty that took power in Muscat c. 1749 after expelling the Persians and inherited Oman's claims to the Swahili coast, won from the Portuguese in the late 17th century. Under Sayyid Saʿīd it shifted its commercial centre to Zanzibar.",
+   "role_summary": "The dynasty's rulers licensed caravans, farmed out customs to Indian financiers, and drew revenue from a per-head duty on enslaved people imported to Zanzibar. Enslaved Africans worked Zanzibar and Pemba's clove plantations and were re-exported to Arabia, the Gulf, Madagascar and the French islands.",
+   "roleDetail": [
+    {
+     "t": "Taxed the Zanzibar slave market.",
+     "d": "Customs on captives and ivory, collected by Indian revenue farmers, were a core income of the sultanate until the 1873 closure (Sheriff).",
+     "basis": "documented"
+    },
+    {
+     "t": "Built a plantation slave society.",
+     "d": "From c. 1828 Zanzibar and Pemba became the world's largest clove producers, worked largely by enslaved mainlanders, per Britannica.",
+     "basis": "documented"
+    },
+    {
+     "t": "Negotiated with British abolition.",
+     "d": "Successive treaties (1822 Moresby, 1845 Hamerton, 1873 Frere) narrowed and finally closed the seaborne trade under British naval pressure.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Britain declared a protectorate over Zanzibar in 1890 and slavery's legal status was abolished there in 1897 (concubines only in 1909). The Zanzibar line was overthrown in the 1964 revolution, whose violence was partly framed around the racial and class legacies of slavery; the Omani branch still rules Oman.",
+   "legacyDetail": [
+    {
+     "t": "Oman's ruling house continues.",
+     "d": "The Al Said who rule Oman today descend from the same dynasty; the Zanzibar sultanate ended in January 1964.",
+     "basis": "documented"
+    },
+    {
+     "t": "Contested memory.",
+     "d": "In Tanzania, the Arab/Omani role in slavery remains a sensitive political theme, tied to memories of the 1964 revolution.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Āl Bū Saʿīd dynasty",
+     "url": "https://www.britannica.com/topic/Al-Bu-Said-dynasty"
+    },
+    {
+     "label": "Britannica — Sayyid Saʿīd ibn Sulṭān",
+     "url": "https://www.britannica.com/biography/Sayyid-Said-ibn-Sultan"
+    },
+    {
+     "label": "Wikipedia — Sultanate of Zanzibar",
+     "url": "https://en.wikipedia.org/wiki/Sultanate_of_Zanzibar"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sayyid-said-bin-sultan",
+     "type": "family",
+     "label": "ruler 1806–56"
+    },
+    {
+     "id": "barghash-bin-said",
+     "type": "family",
+     "label": "sultan 1870–88"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "ownership",
+     "label": "taxed and protected the market"
+    },
+    {
+     "id": "jairam-sewji",
+     "type": "finance",
+     "label": "customs farmer & banker"
+    },
+    {
+     "id": "moresby-treaty-1822",
+     "type": "political",
+     "label": "signatory"
+    },
+    {
+     "id": "hamerton-treaty-1845",
+     "type": "political",
+     "label": "signatory"
+    },
+    {
+     "id": "frere-treaty-1873",
+     "type": "political",
+     "label": "signatory"
+    }
+   ]
+  },
+  {
+   "id": "sayyid-said-bin-sultan",
+   "name": "Sayyid Saʿīd ibn Sulṭān",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Oman / Zanzibar",
+   "scale": "Dominant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Britannica credits him with making Zanzibar 'the commercial capital of the western Indian Ocean'; the slave-worked clove economy and caravan trade he fostered expanded East African slave exports sharply in 1830–56 (Sheriff, Alpers; volumes estimated).",
+   "start": 1806,
+   "end": 1856,
+   "lifespan": "1791–1856",
+   "base": "Zanzibar Town (from c. 1832/1840)",
+   "geo": [
+    -6.163,
+    39.188
+   ],
+   "aliases": [
+    "Said bin Sultan",
+    "Seyyid Said"
+   ],
+   "origins": "Born in Oman in 1791, he seized sole power in Muscat in 1806. Seeing the wealth of the East African coast, he campaigned against Mombasa's Mazrui rulers and made Zanzibar his main residence from the 1830s.",
+   "role_summary": "He promoted clove planting on Zanzibar and Pemba from c. 1828, worked by enslaved Africans, and encouraged Indian financiers and Omani-Swahili caravans into the mainland interior for ivory and captives. He signed the Moresby (1822) and Hamerton (1845) treaties limiting, but not ending, the trade.",
+   "roleDetail": [
+    {
+     "t": "Clove boom on slave labour.",
+     "d": "Britannica: from 1828 he developed Zanzibar and Pemba into the world's largest clove producers; the plantations depended on enslaved mainland Africans.",
+     "basis": "documented"
+    },
+    {
+     "t": "Invited Indian capital.",
+     "d": "He farmed customs to Kutchi merchants such as Jairam Shivji, whose credit financed inland caravans (Wint; Sheriff).",
+     "basis": "documented"
+    },
+    {
+     "t": "Accepted limited abolition treaties.",
+     "d": "Under British pressure he banned sales to Christians (1822) and export beyond his African dominions (1845), keeping the internal trade legal.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "On his death in 1856 his realm split between sons Majid (Zanzibar) and Thuwayni (Oman), confirmed by the 1861 Canning Award. Zanzibar's Stone Town, a UNESCO World Heritage Site, largely reflects the wealth of his era.",
+   "legacyDetail": [
+    {
+     "t": "Split of Oman and Zanzibar.",
+     "d": "The 1861 Canning Award made the African dominions a separate sultanate.",
+     "basis": "documented"
+    },
+    {
+     "t": "Stone Town heritage.",
+     "d": "UNESCO lists Zanzibar's Stone Town, whose 19th-century fabric grew from the clove, ivory and slave trades.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Sayyid Saʿīd ibn Sulṭān",
+     "url": "https://www.britannica.com/biography/Sayyid-Said-ibn-Sultan"
+    },
+    {
+     "label": "Wikipedia — Said bin Sultan",
+     "url": "https://en.wikipedia.org/wiki/Said_bin_Sultan"
+    },
+    {
+     "label": "Oxford Research Encyclopedia of African History — The 19th Century Slave Trade in Eastern Africa",
+     "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-598"
+    }
+   ],
+   "connections": [
+    {
+     "id": "busaidi-dynasty",
+     "type": "family",
+     "label": "ruler of the dynasty"
+    },
+    {
+     "id": "jairam-sewji",
+     "type": "finance",
+     "label": "customs farmer"
+    },
+    {
+     "id": "moresby-treaty-1822",
+     "type": "political",
+     "label": "signed 1822"
+    },
+    {
+     "id": "hamerton-treaty-1845",
+     "type": "political",
+     "label": "signed 1845"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "ownership",
+     "label": "market grew under his rule"
+    },
+    {
+     "id": "port-kilwa",
+     "type": "trade",
+     "label": "Kilwa caravans supplied Zanzibar"
+    },
+    {
+     "id": "barghash-bin-said",
+     "type": "family",
+     "label": "son"
+    }
+   ]
+  },
+  {
+   "id": "barghash-bin-said",
+   "name": "Barghash bin Saʿīd",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Zanzibar",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "As sultan he presided over Zanzibar's trade until signing the 1873 Frere treaty, which banned seaborne slave exports from the mainland and closed the Zanzibar slave market (Britannica; The National Archives).",
+   "start": 1870,
+   "end": 1888,
+   "lifespan": "c. 1837–1888",
+   "base": "Zanzibar Town",
+   "geo": [
+    -6.163,
+    39.188
+   ],
+   "aliases": [
+    "Sayyid Barghash"
+   ],
+   "origins": "A son of Sayyid Saʿīd, he attempted a coup against his brother Majid in 1859 and was exiled to Bombay. He succeeded Majid in 1870.",
+   "role_summary": "He initially resisted British demands, but under the threat of naval blockade signed the treaty of 5 June 1873 negotiated by Sir Bartle Frere and consul John Kirk, closing the Zanzibar market. In 1876 he issued proclamations against slave caravans on the mainland, though slavery itself stayed legal.",
+   "roleDetail": [
+    {
+     "t": "Closed the Zanzibar market (1873).",
+     "d": "The Frere treaty banned the transport of enslaved people by sea from the mainland and closed public markets in his dominions.",
+     "basis": "documented"
+    },
+    {
+     "t": "Signed under coercion.",
+     "d": "Accounts agree Britain threatened a blockade of Zanzibar to force agreement; the treaty alienated Omani planters.",
+     "basis": "documented"
+    },
+    {
+     "t": "Trade continued overland and covertly.",
+     "d": "Smuggling by dhow and overland caravans to the Somali coast continued after 1873, per Kirk's own reports.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Barghash built the Beit al-Ajaib ('House of Wonders') and modernised Zanzibar Town, but lost mainland territory to German and British partition in 1885–86. The Anglican Christ Church Cathedral now stands on the site of the market he closed.",
+   "legacyDetail": [
+    {
+     "t": "Christ Church on the market site.",
+     "d": "The Universities' Mission to Central Africa bought the market ground in 1873 and laid the cathedral's foundation stone on Christmas Day 1873.",
+     "basis": "documented"
+    },
+    {
+     "t": "Partition of his mainland.",
+     "d": "His loss of the coastal hinterland to German East Africa helped end Zanzibar's role as the caravan hub.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Barghash",
+     "url": "https://www.britannica.com/biography/Barghash"
+    },
+    {
+     "label": "Wikipedia — Barghash bin Said of Zanzibar",
+     "url": "https://en.wikipedia.org/wiki/Barghash_bin_Said_of_Zanzibar"
+    },
+    {
+     "label": "The National Archives (UK) — The last slave market: Dr John Kirk and the struggle to end the African slave trade",
+     "url": "https://media.nationalarchives.gov.uk/index.php/the-last-slave-market-dr-john-kirk-and-the-struggle-to-end-the-african-slave-trade/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "busaidi-dynasty",
+     "type": "family",
+     "label": "sultan 1870–88"
+    },
+    {
+     "id": "frere-treaty-1873",
+     "type": "political",
+     "label": "signed 5 June 1873"
+    },
+    {
+     "id": "john-kirk",
+     "type": "political",
+     "label": "pressed by British consul"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "ownership",
+     "label": "closed the market"
+    },
+    {
+     "id": "tippu-tip",
+     "type": "political",
+     "label": "nominal overlord of his inland state"
+    },
+    {
+     "id": "tharia-topan",
+     "type": "finance",
+     "label": "customs chief from 1876"
+    }
+   ]
+  },
+  {
+   "id": "tippu-tip",
+   "name": "Tippu Tip (Ḥamad bin Muḥammad al-Murjebi)",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Trader & Shipper",
+   "nation": "Zanzibar / eastern Congo",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Britannica calls him the most prominent late-19th-century Arab-Swahili trader in Central Africa, leading caravans of up to c. 4,000 men; ivory was his chief interest but his raids and caravans produced large numbers of captives (numbers undocumented).",
+   "start": 1858,
+   "end": 1890,
+   "lifespan": "c. 1832/1837–1905",
+   "base": "Kasongo, eastern Congo, and Zanzibar",
+   "geo": [
+    -4.45,
+    26.667
+   ],
+   "aliases": [
+    "Tippu Tib",
+    "Hamed bin Muhammed el Murjebi"
+   ],
+   "origins": "Born in Zanzibar to an Omani-Swahili trading family with Nyamwezi connections, he joined his father's caravans to the interior as a young man. By the late 1860s he led large armed expeditions.",
+   "role_summary": "He built a loosely organised trading state in the Maniema region of the eastern Congo basin, extracting ivory and captives through raids, alliances and tribute; captives carried ivory to the coast and many were sold. He helped Stanley (1876–77) and in 1887 accepted appointment by King Leopold II as governor of the Stanley Falls district of the Congo Free State.",
+   "roleDetail": [
+    {
+     "t": "Ivory first, captives alongside.",
+     "d": "Britannica stresses ivory as his main goal; captives were seized in raids and used as porters, plantation workers and trade goods.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Governor for Leopold II.",
+     "d": "In 1887 he became governor of the Falls district of the Congo Free State, an arrangement that collapsed; he left in 1890.",
+     "basis": "documented"
+    },
+    {
+     "t": "Wrote his own life.",
+     "d": "His Swahili autobiography (Maisha ya Hamed bin Muhammed el Murjebi) is a rare first-person source from a slave and ivory trader.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He retired to Zanzibar, where he died in 1905, wealthy from clove plantations worked by enslaved people. Leopold's Congo Free State later used the 'Arab slave trade' as justification for its own violent conquest (1892–94), a propaganda framing historians now treat critically.",
+   "legacyDetail": [
+    {
+     "t": "Used in colonial propaganda.",
+     "d": "Belgian 'anti-slavery' campaigns against the Arab-Swahili traders legitimised Leopold's own forced-labour regime.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "His house in Stone Town.",
+     "d": "Tippu Tip's house survives in Zanzibar's Stone Town as a landmark.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Tippu Tib",
+     "url": "https://www.britannica.com/biography/Tippu-Tib"
+    },
+    {
+     "label": "Wikipedia — Tippu Tip",
+     "url": "https://en.wikipedia.org/wiki/Tippu_Tip"
+    },
+    {
+     "label": "Oxford Research Encyclopedia of African History — The 19th Century Slave Trade in Eastern Africa",
+     "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-598"
+    }
+   ],
+   "connections": [
+    {
+     "id": "barghash-bin-said",
+     "type": "political",
+     "label": "Zanzibar overlord"
+    },
+    {
+     "id": "central-caravan-route-bagamoyo",
+     "type": "trade",
+     "label": "caravans to the coast"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "trade",
+     "label": "captives sold via Zanzibar"
+    },
+    {
+     "id": "david-livingstone",
+     "type": "political",
+     "label": "met Livingstone 1867"
+    },
+    {
+     "id": "tharia-topan",
+     "type": "finance",
+     "label": "financier of his caravans"
+    },
+    {
+     "id": "brussels-act-1890",
+     "type": "political",
+     "label": "target of 1890 act"
+    }
+   ]
+  },
+  {
+   "id": "jairam-sewji",
+   "name": "Jairam Shivji (Jairam Sewji) and firm",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Financier & Insurer",
+   "nation": "Zanzibar (Kutchi/Gujarati)",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "His firm held the Zanzibar customs farm for most of 1835–1876 and, by 1850, contracts from Cape Delgado to Mogadishu; this put the duties on captives and ivory, and credit for caravans, in its hands (Wikipedia citing Sheriff; Wint).",
+   "start": 1819,
+   "end": 1876,
+   "lifespan": "c. 1792–1866 (firm active to 1876)",
+   "base": "Zanzibar Town and Muscat",
+   "geo": [
+    -6.163,
+    39.188
+   ],
+   "aliases": [
+    "Jairam Senji",
+    "Jiram Sewji",
+    "Shivji Topan firm"
+   ],
+   "origins": "A Bhatia merchant from Kutch in western India, from a family that first won the Zanzibar customs contract in 1819. He became adviser and banker to Sayyid Saʿīd.",
+   "role_summary": "As customs farmer he collected duties on goods and captives entering Zanzibar, and as banker advanced trade goods on credit to Arab and Swahili caravan leaders whose expeditions returned with ivory and enslaved people. Indian credit was thus a hidden engine of the East African trade, though most Indian financiers did not themselves deal in captives directly.",
+   "roleDetail": [
+    {
+     "t": "Customs farm 1835–c.1876.",
+     "d": "Shivji's firm regained the Zanzibar customs contract in 1835 and expanded it along the coast, including Mombasa (1837) and Mafia and Lindi (1840s).",
+     "basis": "documented"
+    },
+    {
+     "t": "Credit behind the caravans.",
+     "d": "Oxford Research Encyclopedia (Wint) describes Gujarati credit networks financing the caravan trade.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "British-subject status.",
+     "d": "From the 1860s British consuls treated Indians in Zanzibar as British subjects and pressed them to free enslaved people they held.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The firm lost the customs farm in 1876 to Tharia Topan. Christ Church Zanzibar's history records that part of the old slave-market site was given by 'Mr Jairam Senji', an ironic coda.",
+   "legacyDetail": [
+    {
+     "t": "Gave part of the cathedral land.",
+     "d": "Accounts of Christ Church Cathedral record part of the 1873 market site as a gift from a Hindu merchant named Jairam Senji (Sewji's firm).",
+     "basis": "documented"
+    },
+    {
+     "t": "Indian Ocean finance remembered.",
+     "d": "Recent scholarship stresses South Asian finance in African slaving rather than an exclusively 'Arab' trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Jairam Shivji",
+     "url": "https://en.wikipedia.org/wiki/Jairam_Shivji"
+    },
+    {
+     "label": "Oxford Research Encyclopedia of African History — Financing the Indian Ocean Slave Trade (Hollian Wint)",
+     "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-907"
+    },
+    {
+     "label": "Wikipedia — Christ Church, Zanzibar",
+     "url": "https://en.wikipedia.org/wiki/Christ_Church,_Zanzibar"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sayyid-said-bin-sultan",
+     "type": "finance",
+     "label": "banker & adviser"
+    },
+    {
+     "id": "busaidi-dynasty",
+     "type": "finance",
+     "label": "customs farm"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "finance",
+     "label": "collected duties"
+    },
+    {
+     "id": "tharia-topan",
+     "type": "trade",
+     "label": "Topan rose in his firm"
+    },
+    {
+     "id": "tippu-tip",
+     "type": "finance",
+     "label": "Indian credit to caravans"
+    }
+   ]
+  },
+  {
+   "id": "tharia-topan",
+   "name": "Tharia Topan",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Financier & Insurer",
+   "nation": "Zanzibar (Kutchi/Gujarati)",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Head of Zanzibar customs from c. 1876 (sources differ, c. 1875–80) and a leading financier of caravans and of European explorers; direct slave dealing is not documented, so his scale reflects financing rather than trafficking.",
+   "start": 1850,
+   "end": 1891,
+   "lifespan": "1823–1891",
+   "base": "Zanzibar Town",
+   "geo": [
+    -6.163,
+    39.188
+   ],
+   "aliases": [
+    "Sir Tharia Topan"
+   ],
+   "origins": "A Khoja Ismaili from Kutch who arrived in Zanzibar poor and worked for Jairam Shivji's firm. He built his own trade in cloves, ivory and spices.",
+   "role_summary": "He financed caravans, supplied explorers including Stanley, and from 1876 held the customs of Zanzibar under Barghash. He is often named as a financier of Tippu Tip's ventures.",
+   "roleDetail": [
+    {
+     "t": "Customs chief from 1876.",
+     "d": "Head of Zanzibar customs from c. 1876, succeeding Jairam Shivji's firm; sources differ on the exact span (c. 1875–80).",
+     "basis": "documented"
+    },
+    {
+     "t": "Financed interior trade.",
+     "d": "Banked caravans and European expeditions; ties to Tippu Tip are reported but less securely documented.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Knighted by Britain in 1890, he funded a hospital in Zanzibar and helped settle Ismaili migrants in East Africa, a community whose descendants remain prominent in the region.",
+   "legacyDetail": [
+    {
+     "t": "Knighthood and philanthropy.",
+     "d": "Britain knighted him in 1890 (his family recalls it as recognition of help against slavery). He began a hospital in Stone Town in the 1880s, completed after his death in Bombay in 1891; it later became the Aga Khan Polyclinic.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "The Institute of Ismaili Studies — The Voices of History: From Zanzibar to London (Farouk Topan on Sir Tharia Topan)",
+     "url": "https://iis.ac.uk/learning-centre/multimedia/the-voices-of-history-episode-1"
+    },
+    {
+     "label": "Oxford Research Encyclopedia of African History — Financing the Indian Ocean Slave Trade (Hollian Wint)",
+     "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-907"
+    },
+    {
+     "label": "Wikipedia — Tharia Topan",
+     "url": "https://en.wikipedia.org/wiki/Tharia_Topan"
+    }
+   ],
+   "connections": [
+    {
+     "id": "jairam-sewji",
+     "type": "trade",
+     "label": "trained in his firm"
+    },
+    {
+     "id": "barghash-bin-said",
+     "type": "finance",
+     "label": "customs chief"
+    },
+    {
+     "id": "tippu-tip",
+     "type": "finance",
+     "label": "caravan finance"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "finance",
+     "label": "Zanzibar customs"
+    }
+   ]
+  },
+  {
+   "id": "swahili-coast-merchants",
+   "name": "Swahili coast merchants and the sultans of Kilwa",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Broker & Agent",
+   "nation": "Swahili coast",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Kilwa recovered in the 18th century largely through the slave trade, supplying French Mascarene planters from the 1770s and then Zanzibar; Alpers and Sheriff reconstruct thousands of captives a year through Kilwa by the mid-19th century.",
+   "start": 1000,
+   "end": 1900,
+   "lifespan": "c. 1000–1900",
+   "base": "Kilwa Kisiwani / Kilwa Kivinje",
+   "geo": [
+    -8.957,
+    39.512
+   ],
+   "aliases": [
+    "Waswahili traders",
+    "Kilwa sultanate"
+   ],
+   "origins": "Muslim, African-rooted urban merchant communities of the East African coast, intermarried with Arab and Persian traders, ran Indian Ocean trade in gold and ivory from medieval times. Kilwa was among the richest Swahili towns until the Portuguese sack of 1505.",
+   "role_summary": "Swahili traders bought captives from Yao, Makua and Nyamwezi suppliers inland and sold them to Arab, Indian, French and Portuguese buyers. In the late 18th century Kilwa became the main supplier of enslaved labour to the French Mascarenes, and in the 19th to Zanzibar's clove plantations.",
+   "roleDetail": [
+    {
+     "t": "Medieval trade in people was small.",
+     "d": "Slaves were one export among gold and ivory before 1700; volume rose sharply only in the 18th–19th centuries (Swahili Coast ORE).",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Kilwa feeds the French islands.",
+     "d": "From the 1770s French traders bought captives at Kilwa for Île de France and Bourbon (Alpers).",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Yao and Makua suppliers.",
+     "d": "Britannica notes Yao traders' networks from the Lake Malawi region to Kilwa and Mozambique Island.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Swahili culture and language spread inland along caravan routes partly through this trade. Kilwa Kisiwani's ruins are a UNESCO World Heritage Site.",
+   "legacyDetail": [
+    {
+     "t": "UNESCO ruins.",
+     "d": "The Ruins of Kilwa Kisiwani and Songo Mnara were inscribed by UNESCO and removed from the danger list after conservation.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Oxford Research Encyclopedia of African History — Slave Trade and Urban Slavery on the Swahili Coast",
+     "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-887"
+    },
+    {
+     "label": "Britannica — Kilwa",
+     "url": "https://www.britannica.com/place/Kilwa"
+    },
+    {
+     "label": "UNESCO World Heritage Centre — Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+     "url": "https://whc.unesco.org/en/list/144/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-kilwa",
+     "type": "ownership",
+     "label": "home port"
+    },
+    {
+     "id": "mascarene-islands",
+     "type": "trade",
+     "label": "supplied French planters"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "trade",
+     "label": "supplied Zanzibar"
+    },
+    {
+     "id": "island-of-mozambique",
+     "type": "trade",
+     "label": "competing coast market"
+    },
+    {
+     "id": "sayyid-said-bin-sultan",
+     "type": "political",
+     "label": "under Omani suzerainty"
+    }
+   ]
+  },
+  {
+   "id": "mahe-de-la-bourdonnais",
+   "name": "Bertrand-François Mahé de La Bourdonnais",
+   "category": "Crowns & Explorers",
+   "role": "Planter & Enslaver",
+   "nation": "France",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "As governor of the French Mascarenes (1735–46) he built Île de France into a slave plantation and naval colony; the enslaved population of the islands grew from c. 7,200 (1735) to c. 133,000 (1807) (Richard B. Allen's estimates).",
+   "start": 1735,
+   "end": 1746,
+   "lifespan": "1699–1753",
+   "base": "Port Louis, Île de France (Mauritius)",
+   "geo": [
+    -20.161,
+    57.501
+   ],
+   "origins": "A Breton naval officer in the service of the Compagnie des Indes. Appointed governor-general of Île de France and Bourbon in 1735.",
+   "role_summary": "He developed Port Louis, sugar and food production, and imported enslaved labour from Madagascar, Mozambique, West Africa and India for Compagnie des Indes projects on the islands.",
+   "roleDetail": [
+    {
+     "t": "Company governor.",
+     "d": "He governed the Mascarenes for the Compagnie des Indes 1735–46.",
+     "basis": "documented"
+    },
+    {
+     "t": "Expanded enslaved workforce.",
+     "d": "His public works and plantations relied on enslaved people bought from Madagascar and the East African coast.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He is still commemorated with a statue in Port Louis and as a founder of Mauritius; Mauritian debates over slavery memory increasingly question that commemoration.",
+   "legacyDetail": [
+    {
+     "t": "Statue in Port Louis.",
+     "d": "A statue of La Bourdonnais stands on Port Louis's waterfront.",
+     "basis": "documented"
+    },
+    {
+     "t": "Debate over founders.",
+     "d": "Mauritian commemoration of slavery (1 February, Le Morne) sits alongside colonial founder memorials.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Bertrand-François Mahé, comte de La Bourdonnais",
+     "url": "https://www.britannica.com/print/article/326241"
+    },
+    {
+     "label": "Britannica — Port Louis",
+     "url": "https://www.britannica.com/place/Port-Louis"
+    },
+    {
+     "label": "Wikipedia — Indian Ocean slave trade",
+     "url": "https://en.wikipedia.org/wiki/Indian_Ocean_slave_trade"
+    }
+   ],
+   "connections": [
+    {
+     "id": "compagnie-des-indes",
+     "type": "charter",
+     "label": "company governor"
+    },
+    {
+     "id": "mascarene-islands",
+     "type": "plantation",
+     "label": "governor 1735–46"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "charter",
+     "label": "royal colony"
+    },
+    {
+     "id": "island-of-mozambique",
+     "type": "trade",
+     "label": "bought captives from Mozambique"
+    }
+   ],
+   "aliases": []
+  },
+  {
+   "id": "moulay-ismail",
+   "name": "Moulay Ismāʿīl ibn Sharīf",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Morocco",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Britannica says his ʿAbīd al-Bukhārī grew to about 150,000 men at its peak; that figure and the force's servile status are contested (e.g. Calderón 2023). He also held European captives seized by corsairs.",
+   "start": 1672,
+   "end": 1727,
+   "lifespan": "1645/46–1727",
+   "base": "Meknès, Morocco",
+   "geo": [
+    33.895,
+    -5.555
+   ],
+   "aliases": [
+    "Mulay Ismail"
+   ],
+   "origins": "Second ruler of the ʿAlawī dynasty, proclaimed sultan in 1672 after his half-brother's death. He spent decades suppressing rivals and rebellions.",
+   "role_summary": "From 1673 he built the ʿAbīd al-Bukhārī, a standing army of Black Moroccans—freeborn people forcibly enrolled and enslaved people bought or conscripted—whose children were bred and trained for service. He also used European captives, ransomed or enslaved, on his palace works at Meknès.",
+   "roleDetail": [
+    {
+     "t": "ʿAbīd al-Bukhārī.",
+     "d": "Britannica: an army of freeborn Black Moroccans and sub-Saharan slaves purchased or impressed, their sons trained in special schools.",
+     "basis": "documented"
+    },
+    {
+     "t": "Racialised enslavement controversy.",
+     "d": "Moroccan ulama protested his enslavement of free Black Muslims (the haratin), a famous early debate on race and slavery in Islamic law.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "European captives.",
+     "d": "Corsair captives such as Thomas Pellow worked on his building projects and in his army.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "After his death the ʿAbīd became kingmakers and brigands; they were later reorganised. His imperial city of Meknès is a UNESCO World Heritage Site.",
+   "legacyDetail": [
+    {
+     "t": "Meknès heritage.",
+     "d": "The historic city of Meknès, built largely with forced labour, is UNESCO-listed.",
+     "basis": "documented"
+    },
+    {
+     "t": "Debate over the 'Black Guard'.",
+     "d": "Historians debate how far the ʿAbīd were enslaved soldiers versus a privileged military caste.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — ʿAlawī dynasty",
+     "url": "https://www.britannica.com/topic/Alawi-dynasty"
+    },
+    {
+     "label": "Wikipedia — Black Guard (ʿAbīd al-Bukhārī)",
+     "url": "https://en.wikipedia.org/wiki/Black_Guard"
+    },
+    {
+     "label": "Wikipedia — Ismail Ibn Sharif",
+     "url": "https://en.wikipedia.org/wiki/Ismail_Ibn_Sharif"
+    }
+   ],
+   "connections": [
+    {
+     "id": "thomas-pellow",
+     "type": "plantation",
+     "label": "held Pellow captive"
+    },
+    {
+     "id": "barbary-regencies",
+     "type": "political",
+     "label": "Salé corsairs"
+    },
+    {
+     "id": "trans-saharan-caravan-routes",
+     "type": "trade",
+     "label": "bought captives via the Sahara"
+    },
+    {
+     "id": "bamana-empire-segou",
+     "type": "parallel",
+     "label": "Sahelian military slavery"
+    }
+   ]
+  },
+  {
+   "id": "sokoto-caliphate",
+   "name": "Sokoto Caliphate",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Sokoto Caliphate (Hausaland)",
+   "scale": "Dominant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Lovejoy calls it one of the largest slave societies in modern history; Lovejoy estimates at least 1 million and perhaps as many as 2.5 million enslaved people by c. 1900, assuming a quarter to a half of the population was enslaved (Lovejoy and Hogendorn). Its wars also produced Hausa captives sold south into the Atlantic trade.",
+   "start": 1804,
+   "end": 1903,
+   "lifespan": "1804–1903 (sultanate continues)",
+   "base": "Sokoto, northern Nigeria",
+   "geo": [
+    13.06,
+    5.239
+   ],
+   "aliases": [
+    "Fulani Empire",
+    "Usman dan Fodio's caliphate"
+   ],
+   "origins": "Founded by the Fulani scholar Usman dan Fodio, whose jihad (1804–08) overthrew the Hausa kings. His son Muḥammad Bello became the first sultan.",
+   "role_summary": "Jihad and later annual campaigns against non-Muslim and 'apostate' neighbours captured large numbers of people, who were settled on plantations (ribats) or traded north across the Sahara and south to the coast. Some Muslim captives—Hausa, Nupe, Yoruba—reached Bahia, where they took part in the 1835 Malê revolt.",
+   "roleDetail": [
+    {
+     "t": "Massive internal slavery.",
+     "d": "Lovejoy: enslaved people produced grain, cotton and indigo on plantations around Sokoto, Kano and Zaria.",
+     "basis": "documented"
+    },
+    {
+     "t": "Feeding the Atlantic.",
+     "d": "The jihad's spread into Yorubaland (Ilorin, c. 1817) helped collapse Oyo, sending many Yoruba and Hausa captives to Bahia (Lovejoy; Reis).",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Islamic law limits.",
+     "d": "Usman dan Fodio forbade the enslavement of free Muslims, though Lovejoy shows this was often ignored.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "British conquest in 1903 ended the caliphate's independence; colonial authorities moved slowly, and slavery was not finally abolished in Northern Nigeria until 1936. The Sultan of Sokoto remains the spiritual leader of Nigeria's Muslims.",
+   "legacyDetail": [
+    {
+     "t": "Slow colonial abolition.",
+     "d": "Lovejoy and Hogendorn document the 'slow death of slavery' in Northern Nigeria, legally ending only in 1936.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sultanate continues.",
+     "d": "The Sultan of Sokoto is still Nigeria's senior Muslim authority.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Usman dan Fodio",
+     "url": "https://www.britannica.com/biography/Usman-dan-Fodio"
+    },
+    {
+     "label": "Cambridge Core — Lovejoy, Transformations in Slavery, ch. 9: Slavery in the Savanna during the Era of the Jihads",
+     "url": "https://www.cambridge.org/core/books/abs/transformations-in-slavery/slavery-in-the-savanna-during-the-era-of-the-jihads/70D03BDD50CB34032F3782E69F4F35C9"
+    },
+    {
+     "label": "Wikipedia — Sokoto Caliphate",
+     "url": "https://en.wikipedia.org/wiki/Sokoto_Caliphate"
+    }
+   ],
+   "connections": [
+    {
+     "id": "oyo-empire",
+     "type": "political",
+     "label": "jihad helped topple Oyo"
+    },
+    {
+     "id": "male-revolt-1835",
+     "type": "trade",
+     "label": "captives reached Bahia"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "Hausa captives shipped to Bahia"
+    },
+    {
+     "id": "bornu-al-kanemi",
+     "type": "political",
+     "label": "rival jihad state"
+    },
+    {
+     "id": "trans-saharan-caravan-routes",
+     "type": "trade",
+     "label": "exports north"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "parallel",
+     "label": "fellow jihad state"
+    },
+    {
+     "id": "port-lagos",
+     "type": "trade",
+     "label": "captives via Lagos"
+    }
+   ]
+  },
+  {
+   "id": "bornu-al-kanemi",
+   "name": "Kanem-Bornu and the al-Kanemi dynasty",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Bornu",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Britannica's slavery article estimates the enslaved share of Bornu's population at perhaps 40% (1580–1890); Bornu was the main supplier of captives to Fezzan and Tripoli in the 19th century.",
+   "start": 1380,
+   "end": 1893,
+   "lifespan": "c. 1380–1893 (Sayfawa to 1846; al-Kanemi shehus thereafter)",
+   "base": "Kukawa, Bornu",
+   "geo": [
+    12.927,
+    13.565
+   ],
+   "aliases": [
+    "Bornu Empire",
+    "Shehus of Bornu",
+    "Muhammad al-Amin al-Kanemi"
+   ],
+   "origins": "An ancient Sahelian Muslim state around Lake Chad, ruled by the Sayfawa dynasty for centuries. After Fulani jihadists sacked its capital in 1808, the scholar-warrior Muḥammad al-Amīn al-Kānemī repelled them and became effective ruler.",
+   "role_summary": "Bornu raided its southern neighbours and exported captives across the Sahara via Fezzan to Tripoli in exchange for horses, firearms and goods. Leo Africanus reported horses priced at up to 20 slaves each.",
+   "roleDetail": [
+    {
+     "t": "Horses for captives.",
+     "d": "Britannica: captives from southern raids were used locally and sent north for horses, armour and copper.",
+     "basis": "documented"
+    },
+    {
+     "t": "Main supplier to Tripoli.",
+     "d": "19th-century observers (Lyon, Barth) tied the Tripoli–Fezzan trade to Bornu raids.",
+     "basis": "documented"
+    },
+    {
+     "t": "Rival to Sokoto.",
+     "d": "Al-Kanemi contested the legitimacy of the Sokoto jihad in a famous exchange of letters with Muḥammad Bello.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Rabih az-Zubayr conquered Bornu in 1893 and destroyed Kukawa; the al-Kanemi line was restored under colonial rule and the Shehu of Borno remains a traditional ruler in Nigeria.",
+   "legacyDetail": [
+    {
+     "t": "Shehu of Borno today.",
+     "d": "The al-Kanemi dynasty still holds the title Shehu of Borno at Maiduguri.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica Kids — Kanem-Bornu",
+     "url": "https://kids.britannica.com/students/article/Kanem-Bornu/327929"
+    },
+    {
+     "label": "Wikipedia — Bornu Empire",
+     "url": "https://en.wikipedia.org/wiki/Bornu_Empire"
+    },
+    {
+     "label": "Wikipedia — Trans-Saharan slave trade (survey of estimates)",
+     "url": "https://en.wikipedia.org/wiki/Trans-Saharan_slave_trade"
+    }
+   ],
+   "connections": [
+    {
+     "id": "trans-saharan-caravan-routes",
+     "type": "trade",
+     "label": "Bornu–Fezzan road"
+    },
+    {
+     "id": "fezzan-murzuq-traders",
+     "type": "trade",
+     "label": "supplied Murzuq"
+    },
+    {
+     "id": "sokoto-caliphate",
+     "type": "political",
+     "label": "rival"
+    },
+    {
+     "id": "rabih-az-zubayr",
+     "type": "political",
+     "label": "conquered by Rabih 1893"
+    }
+   ]
+  },
+  {
+   "id": "fezzan-murzuq-traders",
+   "name": "Fezzan rulers and Murzuq caravan merchants",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Broker & Agent",
+   "nation": "Fezzan (Libya)",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Murzuq was the main relay on the Bornu–Tripoli road; Britannica calls Murzuq a centre of the slave and arms trade; early-19th-century British observers reported several thousand captives a year reaching Tripoli, mostly via Fezzan (contemporary estimates vary and are not precise).",
+   "start": 1550,
+   "end": 1900,
+   "lifespan": "c. 1550–1900",
+   "base": "Murzuq, Fezzan",
+   "geo": [
+    25.917,
+    13.917
+   ],
+   "aliases": [
+    "Awlad Muhammad dynasty",
+    "Ghadames merchants"
+   ],
+   "origins": "The Awlad Muhammad dynasty made Murzuq their capital in the 16th century, diverting trade from older Zawila. Fezzan later fell under Tripoli's Qaramanli and then direct Ottoman rule.",
+   "role_summary": "Fezzani and Ghadamesi merchants organised caravans that marched captives from Bornu and Hausaland across the desert to Tripoli, from where many were shipped to Ottoman ports. Death rates on the desert crossing were high.",
+   "roleDetail": [
+    {
+     "t": "Relay of the Bornu road.",
+     "d": "Northern routes converged at Murzuq and continued south as 'the Bornu route' to Kanem, Bornu and Wadai.",
+     "basis": "documented"
+    },
+    {
+     "t": "Ottoman suppression came late.",
+     "d": "Ottoman decrees against the trade (1857) were weakly enforced; Fezzan's slave trade persisted to the 1890s.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Bones along desert routes, recorded by 19th-century travellers, became symbols of the trade's toll. Black Libyan communities in Fezzan partly descend from enslaved people.",
+   "legacyDetail": [
+    {
+     "t": "Descendant communities.",
+     "d": "Many Black Libyans in the Fezzan trace descent to enslaved people brought by the caravan trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Murzuk",
+     "url": "https://www.britannica.com/place/Murzuk"
+    },
+    {
+     "label": "Britannica — Fezzan",
+     "url": "https://www.britannica.com/place/Fezzan"
+    },
+    {
+     "label": "Wikipedia — Trans-Saharan slave trade",
+     "url": "https://en.wikipedia.org/wiki/Trans-Saharan_slave_trade"
+    }
+   ],
+   "connections": [
+    {
+     "id": "trans-saharan-caravan-routes",
+     "type": "ownership",
+     "label": "controlled the Murzuq relay"
+    },
+    {
+     "id": "bornu-al-kanemi",
+     "type": "trade",
+     "label": "bought Bornu captives"
+    },
+    {
+     "id": "barbary-regencies",
+     "type": "trade",
+     "label": "delivered to Tripoli"
+    }
+   ]
+  },
+  {
+   "id": "muhammad-ali-egypt",
+   "name": "Muḥammad ʿAlī Pasha and the Khedivate of Egypt",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Ottoman Egypt",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Egypt's 1820–21 conquest of Sudan aimed partly at enslaved soldiers; surveys cite c. 20,000 Sudanese captives a year reaching Egypt in the early period (estimates contested).",
+   "start": 1820,
+   "end": 1885,
+   "lifespan": "c. 1769–1849 (dynasty to 1952)",
+   "base": "Cairo, Egypt",
+   "geo": [
+    30.044,
+    31.236
+   ],
+   "aliases": [
+    "Turkiyya",
+    "Khedives Ismaʿil and Tawfiq"
+   ],
+   "origins": "An Albanian-born Ottoman officer who became governor of Egypt in 1805 and founded a dynasty. He sought a modern army independent of Ottoman Turkish troops.",
+   "role_summary": "He invaded Sudan in 1820 to obtain gold and captives for a slave army (the jihadiyya); the Turco-Egyptian regime then raided the Nuba Mountains and the south, and private traders like al-Zubayr built slaving empires under its umbrella. Under British pressure, Khedive Ismāʿīl later hired Europeans such as Charles Gordon to suppress the trade.",
+   "roleDetail": [
+    {
+     "t": "Conquest for soldiers.",
+     "d": "The 1820–24 conquest sought Sudanese recruits for a new army; raids targeted the Nuba Mountains and the south.",
+     "basis": "documented"
+    },
+    {
+     "t": "Licensed private slavers.",
+     "d": "In 1873 Khedive Ismāʿīl recognised al-Zubayr as governor of Bahr al-Ghazal.",
+     "basis": "documented"
+    },
+    {
+     "t": "Anti-slavery convention 1877.",
+     "d": "Egypt signed an Anglo-Egyptian convention against the slave trade in 1877.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Turco-Egyptian rule and its slave raiding fed the Mahdist uprising of 1881–85. The racialised 'abid/slave' language of northern Sudan toward southerners is traced by historians to this period.",
+   "legacyDetail": [
+    {
+     "t": "Roots of Sudanese divides.",
+     "d": "Historians link enduring north–south hierarchies in Sudan to 19th-century slave raiding.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Turco-Egyptian conquest of Sudan (1820–1824)",
+     "url": "https://en.wikipedia.org/wiki/Turco-Egyptian_conquest_of_Sudan_(1820%E2%80%931824)"
+    },
+    {
+     "label": "Wikipedia — Trans-Saharan slave trade (survey of estimates)",
+     "url": "https://en.wikipedia.org/wiki/Trans-Saharan_slave_trade"
+    }
+   ],
+   "connections": [
+    {
+     "id": "zubayr-pasha",
+     "type": "charter",
+     "label": "made him governor 1873"
+    },
+    {
+     "id": "red-sea-slave-route",
+     "type": "trade",
+     "label": "Sudanese captives via the Red Sea"
+    },
+    {
+     "id": "trans-saharan-caravan-routes",
+     "type": "trade",
+     "label": "Darb al-Arbaʿin to Egypt"
+    }
+   ]
+  },
+  {
+   "id": "zubayr-pasha",
+   "name": "Al-Zubayr Raḥma Manṣūr (Zubayr Pasha)",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Trader & Shipper",
+   "nation": "Sudan",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "From 1856 he built a network of fortified trading stations (zaribas) and a private army controlling much of Bahr al-Ghazal and parts of today's Chad and CAR; British writers called him the 'Slaver King' (numbers undocumented).",
+   "start": 1856,
+   "end": 1878,
+   "lifespan": "c. 1830–1913",
+   "base": "Dem Zubayr, Bahr al-Ghazal",
+   "geo": [
+    7.717,
+    26.2
+   ],
+   "aliases": [
+    "Zobeir Pasha",
+    "Sebehr Rahma"
+   ],
+   "origins": "Born near Khartoum to the Jaʿaliyyin Arab tribe. He went south in 1856 as a trader in ivory and captives.",
+   "role_summary": "His armed zaribas raided and traded for ivory and captives, sending people north to Egypt and to Red Sea markets. Khedive Ismāʿīl recognised him as governor of Bahr al-Ghazal in 1873; he conquered Darfur in 1874 but was then detained in Cairo, while Gordon crushed his son Sulayman's revolt (1878–79).",
+   "roleDetail": [
+    {
+     "t": "Private slaving state.",
+     "d": "Zaribas with private armies controlled trade routes and supplied captives.",
+     "basis": "documented"
+    },
+    {
+     "t": "Co-opted by Egypt.",
+     "d": "Made governor and pasha in 1873; detained in Cairo from 1875.",
+     "basis": "documented"
+    },
+    {
+     "t": "Interned by Britain.",
+     "d": "Arrested in 1885 and held at Gibraltar for alleged correspondence with the Mahdi; released 1887.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He died at his estates near Khartoum in 1913. His former slave-soldier Rabih carried his methods west to Lake Chad.",
+   "legacyDetail": [
+    {
+     "t": "Rabih az-Zubayr.",
+     "d": "Rabih, once a commander in Zubayr's forces, built his own slaving state around Lake Chad.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Zubayr Pasha",
+     "url": "https://www.britannica.com/biography/Zubayr-Pasha"
+    },
+    {
+     "label": "CUNY Academic Works — Zachary Berman, Owing and Owning: Zubayr Pasha, Slavery, and Empire in Nineteenth-Century Sudan (2017)",
+     "url": "https://academicworks.cuny.edu/gc_etds/1779"
+    },
+    {
+     "label": "Wikipedia — Al-Zubayr Rahma Mansur",
+     "url": "https://en.wikipedia.org/wiki/Al-Zubayr_Rahma_Mansur"
+    }
+   ],
+   "connections": [
+    {
+     "id": "muhammad-ali-egypt",
+     "type": "charter",
+     "label": "governor under the Khedive"
+    },
+    {
+     "id": "rabih-az-zubayr",
+     "type": "ownership",
+     "label": "Rabih served in his forces"
+    },
+    {
+     "id": "red-sea-slave-route",
+     "type": "trade",
+     "label": "captives to Red Sea markets"
+    }
+   ]
+  },
+  {
+   "id": "rabih-az-zubayr",
+   "name": "Rābiḥ az-Zubayr",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Lake Chad / Bornu",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Conquered Bornu in 1893 and ran a slave-raiding military state until killed by the French at Kousseri in 1900 (Britannica); captive numbers are not documented.",
+   "start": 1879,
+   "end": 1900,
+   "lifespan": "c. 1842–1900",
+   "base": "Dikwa, Bornu",
+   "geo": [
+    12.033,
+    13.917
+   ],
+   "aliases": [
+    "Rabah Zobeir"
+   ],
+   "origins": "A Sudanese commander (enslaved as a child, per Britannica) in al-Zubayr's forces. After Sulayman's defeat in 1879 he led his men west.",
+   "role_summary": "He raided Dar al-Kuti, Bagirmi and Wadai borderlands for captives, then took Bornu in 1893, sacking Kukawa and ruling from Dikwa. Captives were used as soldiers and traded north.",
+   "roleDetail": [
+    {
+     "t": "Conquest of Bornu.",
+     "d": "Britannica: occupied Bornu in 1893, sacking Kukawa and making Dikwa his capital.",
+     "basis": "documented"
+    },
+    {
+     "t": "Killed by France.",
+     "d": "His army was routed and he died at Kousseri in 1900.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His defeat opened Lake Chad to French, British and German partition. His career is a stark example of late-19th-century Sahelian slave raiding at the moment of European conquest.",
+   "legacyDetail": [
+    {
+     "t": "Partition of Lake Chad.",
+     "d": "French victory at Kousseri (1900) led to the division of Bornu among colonial powers.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Rābiḥ az-Zubayr",
+     "url": "https://www.britannica.com/biography/Rabih-az-Zubayr"
+    },
+    {
+     "label": "Britannica — Dikwa",
+     "url": "https://www.britannica.com/place/Dikwa"
+    },
+    {
+     "label": "Britannica — History of Chad",
+     "url": "https://www.britannica.com/topic/history-of-Chad"
+    }
+   ],
+   "connections": [
+    {
+     "id": "zubayr-pasha",
+     "type": "ownership",
+     "label": "former commander"
+    },
+    {
+     "id": "bornu-al-kanemi",
+     "type": "political",
+     "label": "conquered Bornu 1893"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "political",
+     "label": "defeated by French 1900"
+    }
+   ]
+  },
+  {
+   "id": "barbary-regencies",
+   "name": "Barbary corsair states (Algiers, Tunis, Tripoli, Salé)",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Ottoman North Africa / Morocco",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Robert C. Davis estimates 1–1.25 million Europeans enslaved by North African corsairs between c. 1530 and 1780; his method (replacement rates) is debated and many historians consider it high.",
+   "start": 1500,
+   "end": 1830,
+   "lifespan": "c. 1500–1830",
+   "base": "Algiers",
+   "geo": [
+    36.776,
+    3.059
+   ],
+   "aliases": [
+    "Barbary pirates",
+    "Regency of Algiers",
+    "Republic of Salé"
+   ],
+   "origins": "Ottoman-affiliated regencies of Algiers, Tunis and Tripoli, and Moroccan Salé, licensed privateers (corsairs) in a long Mediterranean war with Christian states, which themselves enslaved Muslims on galleys.",
+   "role_summary": "Corsairs seized ships and raided coasts as far as Ireland and Iceland, enslaving crews and villagers for labour, galleys, ransom and households. From the 1780s they captured US merchant sailors, leading to tribute treaties (1795) and the Barbary Wars.",
+   "roleDetail": [
+    {
+     "t": "Ransom economy.",
+     "d": "Many captives were ransomed through religious orders or state payments; others converted and stayed.",
+     "basis": "documented"
+    },
+    {
+     "t": "Two-way Mediterranean slavery.",
+     "d": "Christian states (Malta, Livorno, Spain) also enslaved Muslims; Davis frames it as mutual 'faith slavery'.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Ended by force and conquest.",
+     "d": "The 1816 Anglo-Dutch bombardment freed over 1,000 captives; French conquest of Algiers in 1830 ended the system.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Barbary captivity shaped early US naval policy and the founding of the Navy. The topic is sometimes misused online to minimise the Atlantic trade; the scales, racial logic and hereditary status of the two systems differed greatly.",
+   "legacyDetail": [
+    {
+     "t": "US Navy origins.",
+     "d": "Congress's 1794 Naval Act responded to Algerian captures of US sailors.",
+     "basis": "documented"
+    },
+    {
+     "t": "Misused in modern polemic.",
+     "d": "Historians caution against 'white slavery' narratives that equate Barbary captivity with the hereditary, racialised Atlantic system.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Ohio State University News — Research reveals massive extent of slavery between Muslims and Christians (Robert C. Davis)",
+     "url": "https://news.osu.edu/research-reveals-massive-extent-of-slavery-between-muslims-christians-for-three-centuries/"
+    },
+    {
+     "label": "US Office of the Historian — Barbary Wars, 1801–1805 and 1815–1816",
+     "url": "https://history.state.gov/milestones/1801-1829/barbary-wars"
+    },
+    {
+     "label": "Wikipedia — Barbary slave trade",
+     "url": "https://en.wikipedia.org/wiki/Barbary_slave_trade"
+    }
+   ],
+   "connections": [
+    {
+     "id": "murat-reis",
+     "type": "ownership",
+     "label": "Salé/Algiers corsair"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "Barbary War 1801–05"
+    },
+    {
+     "id": "moulay-ismail",
+     "type": "political",
+     "label": "Moroccan sultan's corsairs"
+    },
+    {
+     "id": "fezzan-murzuq-traders",
+     "type": "trade",
+     "label": "Tripoli also traded Saharan captives"
+    },
+    {
+     "id": "house-of-orange",
+     "type": "political",
+     "label": "Dutch squadron at Algiers 1816"
+    }
+   ]
+  },
+  {
+   "id": "murat-reis",
+   "name": "Murat Reis the Younger (Jan Janszoon)",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Captain & Crew",
+   "nation": "Netherlands / Salé",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Took part in the 1627 corsair raids on Iceland and led the 1631 Sack of Baltimore, Ireland, in which over 100 villagers (c. 107) were taken to Algiers (History Ireland).",
+   "start": 1618,
+   "end": 1641,
+   "lifespan": "c. 1570–after 1641",
+   "base": "Salé, Morocco",
+   "geo": [
+    34.035,
+    -6.8
+   ],
+   "aliases": [
+    "Jan Janszoon van Haarlem"
+   ],
+   "origins": "A Dutch sailor from Haarlem captured by corsairs in 1618, he converted to Islam and became a corsair captain at Algiers and Salé, later admiral of the Republic of Salé.",
+   "role_summary": "He commanded raids that enslaved Europeans for sale in North African markets, including the Sack of Baltimore (1631). His career shows that 'Barbary' corsairing drew heavily on European renegades.",
+   "roleDetail": [
+    {
+     "t": "Sack of Baltimore 1631.",
+     "d": "Corsairs under his command took villagers from Baltimore, County Cork, to Algiers; few returned.",
+     "basis": "documented"
+    },
+    {
+     "t": "A Dutch renegade.",
+     "d": "European converts were prominent among corsair captains.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Baltimore commemorates the raid; Murat Reis is a figure of fascination in Dutch, Irish and Moroccan popular history.",
+   "legacyDetail": [
+    {
+     "t": "Memory in Ireland.",
+     "d": "The 1631 sack is remembered locally in Baltimore, Co. Cork.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "History Ireland — From Baltimore to Barbary: the 1631 sack of Baltimore",
+     "url": "https://historyireland.com/?p=4767"
+    },
+    {
+     "label": "Wikipedia — Murat Reis the Younger",
+     "url": "https://en.wikipedia.org/wiki/Murat_Reis_the_Younger"
+    }
+   ],
+   "connections": [
+    {
+     "id": "barbary-regencies",
+     "type": "voyage",
+     "label": "corsair captain"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "parallel",
+     "label": "Dutch origins"
+    }
+   ]
+  },
+  {
+   "id": "thomas-pellow",
+   "name": "Thomas Pellow",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Enslaved & Survivor",
+   "nation": "Britain / Morocco",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "His 1740 narrative of 23 years' captivity in Morocco is one of the best-known Barbary captivity accounts.",
+   "start": 1715,
+   "end": 1738,
+   "lifespan": "1704–?",
+   "base": "Meknès, Morocco",
+   "geo": [
+    33.895,
+    -5.555
+   ],
+   "origins": "A Cornish boy from Penryn, captured at sea by Salé corsairs in 1715 (some sources say 1716) aged about eleven.",
+   "role_summary": "Enslaved by Moulay Ismāʿīl, he was forced to convert, served in the sultan's household and army, and escaped in 1738, returning to Cornwall. His narrative describes European captives' labour at Meknès.",
+   "roleDetail": [
+    {
+     "t": "Captured at eleven.",
+     "d": "Taken by Salé corsairs in 1715 and given to Moulay Ismāʿīl.",
+     "basis": "documented"
+    },
+    {
+     "t": "Escaped 1738.",
+     "d": "After 23 years he escaped and published his story in c. 1740.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Giles Milton's 'White Gold' (2004) popularised his story. Historians use it carefully, as captivity narratives were shaped for European readers.",
+   "legacyDetail": [
+    {
+     "t": "Narrative as source.",
+     "d": "Captivity narratives are valuable but partisan sources.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historic UK — The Remarkable Life of Thomas Pellow",
+     "url": "https://historic-uk.com/HistoryUK/HistoryofBritain/Thomas-Pellow-Barbary-Slave"
+    },
+    {
+     "label": "Ohio State University News — Research reveals massive extent of slavery between Muslims and Christians (Robert C. Davis)",
+     "url": "https://news.osu.edu/research-reveals-massive-extent-of-slavery-between-muslims-christians-for-three-centuries/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "moulay-ismail",
+     "type": "plantation",
+     "label": "enslaved by the sultan"
+    },
+    {
+     "id": "barbary-regencies",
+     "type": "trade",
+     "label": "captured by Salé corsairs"
+    }
+   ],
+   "aliases": []
+  },
+  {
+   "id": "menelik-ii",
+   "name": "Menelik II of Ethiopia and the Red Sea trade",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Ethiopia",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ethiopia and its southern frontier (Oromo, Sidama, Gurage) supplied much of the 19th-century Red Sea trade, estimated at c. 500,000 people for the century (Miran, cited); Menelik banned the open trade but southern expansion produced many captives.",
+   "start": 1865,
+   "end": 1913,
+   "lifespan": "1844–1913",
+   "base": "Addis Ababa",
+   "geo": [
+    9.03,
+    38.74
+   ],
+   "origins": "King of Shewa from 1865 and Emperor of Ethiopia from 1889. He defeated Italy at Adwa in 1896.",
+   "role_summary": "His southward conquests incorporated Oromo and other peoples, many of whom were enslaved and traded internally and to Red Sea and Gulf markets, despite his formal prohibitions (1876, 1889). Taxes on the trade benefited the state and nobility.",
+   "roleDetail": [
+    {
+     "t": "Formal bans, persistent trade.",
+     "d": "Menelik outlawed the open slave trade, yet Oromo captives were still sold in large numbers in Yemen around 1900.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Gendered demand.",
+     "d": "Abir notes the Red Sea trade mainly supplied young women for Arabian households and harems.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Slavery was abolished in Ethiopia in 1942 under Haile Selassie, after the issue had been used by Italy to justify its 1935 invasion. Oromo scholars (Mekuria Bulcha) document the Oromo diaspora created by the trade.",
+   "legacyDetail": [
+    {
+     "t": "Abolition 1942.",
+     "d": "Ethiopia formally abolished slavery in 1942; it had joined the League of Nations in 1923 on condition of ending it.",
+     "basis": "documented"
+    },
+    {
+     "t": "Used by Fascist Italy.",
+     "d": "Mussolini cited Ethiopian slavery as a pretext for invasion — another example of abolition rhetoric serving empire.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Menilek II",
+     "url": "https://www.britannica.com/biography/Menilek-II"
+    },
+    {
+     "label": "Wikipedia — Slavery in Ethiopia",
+     "url": "https://en.wikipedia.org/wiki/Slavery_in_Ethiopia"
+    }
+   ],
+   "connections": [
+    {
+     "id": "red-sea-slave-route",
+     "type": "trade",
+     "label": "supplied Red Sea markets"
+    },
+    {
+     "id": "muhammad-ali-egypt",
+     "type": "political",
+     "label": "Egyptian–Ethiopian rivalry"
+    }
+   ],
+   "aliases": []
+  },
+  {
+   "id": "john-kirk",
+   "name": "Sir John Kirk",
+   "category": "Crowns & Explorers",
+   "role": "Free & Abolitionist",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "As British consul (1866–87) he negotiated the 1873 treaty that closed the Zanzibar slave market (Britannica; The National Archives).",
+   "start": 1866,
+   "end": 1887,
+   "lifespan": "1832–1922",
+   "base": "Zanzibar Town",
+   "geo": [
+    -6.163,
+    39.188
+   ],
+   "origins": "A Scottish doctor and botanist who accompanied David Livingstone's Zambezi expedition (1858–63).",
+   "role_summary": "As agent and consul-general in Zanzibar he pressed Sultan Barghash to sign the 1873 treaty, monitored smuggling, and documented the trade in letters to the Anti-Slavery Society. He also advanced British imperial interests, helping prepare the protectorate.",
+   "roleDetail": [
+    {
+     "t": "Closed the market.",
+     "d": "Concluded the 1873 anti-slave-trade treaty with Barghash.",
+     "basis": "documented"
+    },
+    {
+     "t": "Abolition and empire.",
+     "d": "His anti-slavery diplomacy was also a lever for British influence over Zanzibar.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His papers are held by the National Library of Scotland. He is remembered both as an abolitionist and as an architect of British influence in East Africa.",
+   "legacyDetail": [
+    {
+     "t": "Kirk Papers.",
+     "d": "The National Library of Scotland holds his correspondence on the slave trade.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Sir John Kirk",
+     "url": "https://www.britannica.com/biography/John-Kirk"
+    },
+    {
+     "label": "The National Archives (UK) — The last slave market: Dr John Kirk and the struggle to end the African slave trade",
+     "url": "https://media.nationalarchives.gov.uk/index.php/the-last-slave-market-dr-john-kirk-and-the-struggle-to-end-the-african-slave-trade/"
+    },
+    {
+     "label": "National Library of Scotland — Out of Africa: The Kirk Papers",
+     "url": "https://digital.nls.uk/kirk/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "frere-treaty-1873",
+     "type": "political",
+     "label": "negotiated the treaty"
+    },
+    {
+     "id": "barghash-bin-said",
+     "type": "political",
+     "label": "pressed the sultan"
+    },
+    {
+     "id": "david-livingstone",
+     "type": "voyage",
+     "label": "Zambezi expedition"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "political",
+     "label": "secured closure"
+    }
+   ],
+   "aliases": []
+  },
+  {
+   "id": "david-livingstone",
+   "name": "David Livingstone",
+   "category": "Crowns & Explorers",
+   "role": "Free & Abolitionist",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "His report of the Nyangwe massacre (15 July 1871), in which Arab-Swahili traders' men killed hundreds at a market, helped spur the 1873 closure of the Zanzibar market.",
+   "start": 1841,
+   "end": 1873,
+   "lifespan": "1813–1873",
+   "base": "Ujiji (Lake Tanganyika) on his last journey",
+   "geo": [
+    -4.912,
+    29.676
+   ],
+   "origins": "A Scottish missionary-doctor of the London Missionary Society who explored southern and central Africa from 1841.",
+   "role_summary": "He publicised the East African slave trade, calling it an 'open sore', and urged 'Christianity, commerce and civilisation' as a remedy. His account of Nyangwe, carried home by Stanley, caused outrage in Britain in 1872.",
+   "roleDetail": [
+    {
+     "t": "Nyangwe 1871.",
+     "d": "His diary records 300–500 killed, mostly women at market; recent spectral imaging of the diary (Livingstone Online) shows his own party may have been implicated.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Relied on slave traders.",
+     "d": "He travelled with and was supplied by Arab-Swahili traders, including Tippu Tip.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His death in 1873 and burial in Westminster Abbey made him an icon of Victorian anti-slavery, later used to justify colonial expansion in Africa.",
+   "legacyDetail": [
+    {
+     "t": "Livingstone Online.",
+     "d": "A critical digital edition of his 1871 field diary revises his published account.",
+     "basis": "documented"
+    },
+    {
+     "t": "Abolition as empire's rationale.",
+     "d": "His legacy was mobilised for British colonialism in Central Africa.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — David Livingstone: The Zambezi expedition",
+     "url": "https://www.britannica.com/biography/David-Livingstone/The-Zambezi-expedition"
+    },
+    {
+     "label": "Livingstone Online — Livingstone in 1871",
+     "url": "https://livingstoneonline.org/node/233"
+    },
+    {
+     "label": "Smithsonian Libraries — David Livingstone and the Other Slave Trade, Part III",
+     "url": "https://blog.library.si.edu/blog/2013/10/23/david-livingstone-and-the-other-slave-trade-part-iii-the-slaver-and-the-abolitionist/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "tippu-tip",
+     "type": "political",
+     "label": "met 1867"
+    },
+    {
+     "id": "john-kirk",
+     "type": "voyage",
+     "label": "Zambezi companion"
+    },
+    {
+     "id": "frere-treaty-1873",
+     "type": "political",
+     "label": "his reports spurred treaty"
+    },
+    {
+     "id": "island-of-mozambique",
+     "type": "political",
+     "label": "condemned Portuguese slaving"
+    }
+   ],
+   "aliases": []
+  },
+  {
+   "id": "zanzibar-slave-market",
+   "name": "Zanzibar slave market (Mkunazini) and Christ Church Cathedral",
+   "kind": "Slave pen / market",
+   "description": "The main open slave market of 19th-century East Africa, in Stone Town, where captives from the mainland were sold for Zanzibar and Pemba clove plantations and for export to Arabia and the Gulf. It was closed under the 1873 Frere treaty; the Universities' Mission to Central Africa bought the site and laid the foundation of Christ Church Cathedral on Christmas Day 1873, with the altar reputedly over the whipping post. A memorial of chained figures and holding cells now forms a heritage site there.",
+   "start": 1830,
+   "geo": [
+    -6.164,
+    39.191
+   ],
+   "connections": [
+    {
+     "id": "busaidi-dynasty",
+     "type": "ownership",
+     "label": "taxed by the sultanate"
+    },
+    {
+     "id": "frere-treaty-1873",
+     "type": "legacy",
+     "label": "closed 1873"
+    },
+    {
+     "id": "jairam-sewji",
+     "type": "legacy",
+     "label": "part of site given by Jairam Senji"
+    },
+    {
+     "id": "central-caravan-route-bagamoyo",
+     "type": "trade",
+     "label": "captives arrived via Bagamoyo"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "port-kilwa",
+   "name": "Kilwa Kisiwani and Kilwa Kivinje",
+   "kind": "Port",
+   "description": "Medieval Swahili city-state, sacked by the Portuguese in 1505, which revived in the 18th century chiefly through the slave trade. From the 1770s Kilwa supplied French Mascarene planters; in the 19th century Kilwa Kivinje on the mainland was the leading export point for captives bound for Zanzibar. Kilwa Kisiwani's ruins are a UNESCO World Heritage Site.",
+   "start": 1000,
+   "geo": [
+    -8.957,
+    39.512
+   ],
+   "connections": [
+    {
+     "id": "swahili-coast-merchants",
+     "type": "ownership",
+     "label": "Swahili port"
+    },
+    {
+     "id": "mascarene-islands",
+     "type": "trade",
+     "label": "supplied French islands"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "trade",
+     "label": "shipped captives to Zanzibar"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "sacked 1505"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "island-of-mozambique",
+   "name": "Island of Mozambique (Ilha de Moçambique)",
+   "kind": "Port",
+   "description": "Portuguese capital of Mozambique from the 16th century, with the Fortress of São Sebastião; UNESCO notes it became a slave-trading port from the second half of the 18th century. Captives from the Makua and Yao interior were shipped to Brazil, the French Mascarenes, Cuba and elsewhere. It is a UNESCO World Heritage Site and a site in the Routes of Enslaved Peoples programme.",
+   "start": 1507,
+   "geo": [
+    -15.035,
+    40.733
+   ],
+   "connections": [
+    {
+     "id": "crown-of-portugal",
+     "type": "ownership",
+     "label": "Portuguese colony"
+    },
+    {
+     "id": "mozambique-brazil-route",
+     "type": "trade",
+     "label": "embarkation point"
+    },
+    {
+     "id": "mascarene-islands",
+     "type": "trade",
+     "label": "supplied French planters"
+    },
+    {
+     "id": "portugal-abolition-1836-1869",
+     "type": "legacy",
+     "label": "illegal trade after 1836"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "mozambique-brazil-route",
+   "name": "Mozambique–Brazil slave route (Southeast Africa to the Atlantic)",
+   "kind": "Route",
+   "description": "The main interplay between Indian Ocean and Atlantic slaving: SlaveVoyages estimates roughly half a million captives embarked from Southeast Africa and the Indian Ocean islands for the Americas, overwhelmingly after 1800 and mostly landed at Rio de Janeiro. The voyage around the Cape was long and mortality high (some recorded voyages exceeded 30%). The trade peaked c. 1811–1830 and continued illegally until Brazil's 1850 law.",
+   "start": 1645,
+   "geo": [
+    -15.035,
+    40.733
+   ],
+   "connections": [
+    {
+     "id": "island-of-mozambique",
+     "type": "trade",
+     "label": "embarkation"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "main landing at Rio"
+    },
+    {
+     "id": "eusebio-de-queiros-law-1850",
+     "type": "legacy",
+     "label": "ended by 1850 law"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "Portuguese colonial trade"
+    },
+    {
+     "id": "port-lisbon",
+     "type": "trade",
+     "label": "Portuguese imperial network"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "mascarene-islands",
+   "name": "French Mascarenes: Île de France (Mauritius) and Île Bourbon (Réunion)",
+   "kind": "Colony / plantation",
+   "description": "French Indian Ocean plantation colonies whose enslaved population grew from c. 7,200 (1735) to c. 133,000 (1807); Allen estimates 336,000–388,000 enslaved people were brought to the islands 1670–1848, mainly from Madagascar and East Africa. Mauritius passed to Britain in 1810 (emancipation 1835); in Réunion abolition was proclaimed on 20 December 1848, after which planters recruited 'engagés' from India, Madagascar, the Comoros and Mozambique under contracts critics likened to a disguised slave trade. Le Morne, Mauritius (UNESCO, 2008) commemorates maroon resistance.",
+   "start": 1665,
+   "geo": [
+    -20.161,
+    57.501
+   ],
+   "connections": [
+    {
+     "id": "compagnie-des-indes",
+     "type": "ownership",
+     "label": "Company colony to 1767"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "ownership",
+     "label": "royal colony"
+    },
+    {
+     "id": "mahe-de-la-bourdonnais",
+     "type": "plantation",
+     "label": "governor 1735–46"
+    },
+    {
+     "id": "port-kilwa",
+     "type": "trade",
+     "label": "captives from Kilwa"
+    },
+    {
+     "id": "island-of-mozambique",
+     "type": "trade",
+     "label": "captives from Mozambique"
+    },
+    {
+     "id": "code-noir",
+     "type": "charter",
+     "label": "Code Noir of 1723 for the islands"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "trans-saharan-caravan-routes",
+   "name": "Trans-Saharan slave caravan routes (Bornu–Fezzan–Tripoli, Darb al-Arbaʿin, Timbuktu–Morocco)",
+   "kind": "Route",
+   "description": "Desert roads that carried captives from the Sahel to North Africa, Egypt and the Ottoman world from the 7th to the early 20th century. Ralph Austen's widely cited 'tentative census' reconstructions (1979, revised 1992) give roughly 7 million people for c. 650–1900; Olivier Pétré-Grenouilleau, building on Austen, cites c. 9 million. Early figures are inference from a thin record and all such totals are contested. Unlike the Atlantic trade, most captives were women and children destined for domestic service and concubinage; some boys were castrated before crossing, with high mortality.",
+   "start": 650,
+   "geo": [
+    25.917,
+    13.917
+   ],
+   "connections": [
+    {
+     "id": "fezzan-murzuq-traders",
+     "type": "ownership",
+     "label": "Murzuq relay"
+    },
+    {
+     "id": "bornu-al-kanemi",
+     "type": "trade",
+     "label": "main southern supplier"
+    },
+    {
+     "id": "sokoto-caliphate",
+     "type": "trade",
+     "label": "Hausa captives north"
+    },
+    {
+     "id": "moulay-ismail",
+     "type": "trade",
+     "label": "Timbuktu–Morocco road"
+    },
+    {
+     "id": "bamana-empire-segou",
+     "type": "trade",
+     "label": "Niger bend supply"
+    },
+    {
+     "id": "muhammad-ali-egypt",
+     "type": "trade",
+     "label": "Darb al-Arbaʿin to Egypt"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "red-sea-slave-route",
+   "name": "Red Sea and Gulf of Aden slave route (Massawa, Suakin, Tajura to Jeddah and Mocha)",
+   "kind": "Route",
+   "description": "Sea routes carrying Ethiopian, Oromo and Sudanese captives to Arabia, the Hijaz and the Ottoman world; scholars estimate around 500,000 people in the 19th century alone. The trade supplied mainly young women and boys for households, and suppression took roughly a century, continuing into the 1930s. Austen's separate estimates for the Red Sea and East African (Indian Ocean) exports, c. 800–1900, together come to roughly 4 million or more; syntheses building on his work go as high as c. 8 million (Pétré-Grenouilleau). These figures are contested.",
+   "start": 650,
+   "geo": [
+    15.609,
+    39.45
+   ],
+   "connections": [
+    {
+     "id": "menelik-ii",
+     "type": "trade",
+     "label": "Ethiopian supply"
+    },
+    {
+     "id": "muhammad-ali-egypt",
+     "type": "trade",
+     "label": "Egyptian-controlled ports"
+    },
+    {
+     "id": "zubayr-pasha",
+     "type": "trade",
+     "label": "Sudanese captives"
+    },
+    {
+     "id": "brussels-act-1890",
+     "type": "legacy",
+     "label": "targeted by 1890 act"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "central-caravan-route-bagamoyo",
+   "name": "Central caravan route (Ujiji–Tabora–Bagamoyo)",
+   "kind": "Route",
+   "description": "The main 19th-century caravan road from Lake Tanganyika through Unyamwezi (Tabora) to the coast at Bagamoyo, opposite Zanzibar, used for ivory and captives; enslaved people often carried the ivory. Nyamwezi porters, Arab-Swahili traders and Indian financiers all shaped it. It is on Tanzania's UNESCO World Heritage tentative list as 'The Central Slave and Ivory Trade Route'.",
+   "start": 1820,
+   "geo": [
+    -6.442,
+    38.904
+   ],
+   "connections": [
+    {
+     "id": "tippu-tip",
+     "type": "trade",
+     "label": "caravans"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "trade",
+     "label": "ferried to Zanzibar"
+    },
+    {
+     "id": "david-livingstone",
+     "type": "voyage",
+     "label": "his body carried down it 1874"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "moresby-treaty-1822",
+   "name": "Moresby Treaty (1822)",
+   "kind": "Charter / law / treaty",
+   "description": "Agreement between Captain Fairfax Moresby (for the Governor of Mauritius) and Sayyid Saʿīd forbidding the sale of enslaved people from Omani dominions to Christians and setting a line beyond which Omani slave ships could be seized. It aimed above all to cut supply to the French Mascarenes and to British India, not to end the Arab trade.",
+   "start": 1822,
+   "connections": [
+    {
+     "id": "sayyid-said-bin-sultan",
+     "type": "political",
+     "label": "signatory"
+    },
+    {
+     "id": "mascarene-islands",
+     "type": "political",
+     "label": "cut supply to French islands"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "legacy",
+     "label": "extension of British suppression"
+    },
+    {
+     "id": "hamerton-treaty-1845",
+     "type": "legacy",
+     "label": "tightened 1845"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "hamerton-treaty-1845",
+   "name": "Hamerton Treaty (1845)",
+   "kind": "Charter / law / treaty",
+   "description": "Negotiated by British consul Atkins Hamerton, it bound Sayyid Saʿīd to prohibit the export of enslaved people from his African dominions to Arabia and beyond, effective 1847, while the coastal trade between Kilwa and Lamu and Zanzibar stayed legal. Enforcement by the Royal Navy was patchy.",
+   "start": 1845,
+   "connections": [
+    {
+     "id": "sayyid-said-bin-sultan",
+     "type": "political",
+     "label": "signatory"
+    },
+    {
+     "id": "moresby-treaty-1822",
+     "type": "legacy",
+     "label": "successor"
+    },
+    {
+     "id": "frere-treaty-1873",
+     "type": "legacy",
+     "label": "superseded 1873"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "frere-treaty-1873",
+   "name": "Frere Treaty (Anglo-Zanzibari treaty of 5 June 1873)",
+   "kind": "Charter / law / treaty",
+   "description": "Treaty negotiated by Sir Bartle Frere's mission and consul John Kirk, signed by Sultan Barghash under threat of a British naval blockade. It banned the seaborne transport of enslaved people from the mainland and closed public slave markets in Zanzibar's dominions, though slavery itself remained legal until 1897.",
+   "start": 1873,
+   "connections": [
+    {
+     "id": "barghash-bin-said",
+     "type": "political",
+     "label": "signatory"
+    },
+    {
+     "id": "john-kirk",
+     "type": "political",
+     "label": "negotiator"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "legacy",
+     "label": "closed the market"
+    },
+    {
+     "id": "david-livingstone",
+     "type": "political",
+     "label": "Nyangwe report as spur"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "male-revolt-1835",
+   "name": "Malê Revolt, Salvador da Bahia (1835)",
+   "kind": "Revolt / uprising",
+   "description": "Uprising of enslaved and freed African Muslims (Malês, from Yoruba 'imale') in Salvador on 24–25 January 1835, during Ramadan; João José Reis calls it the most effective urban slave revolt in the Americas. Many participants were Yoruba (Nagô) and Hausa people enslaved in the wars of Oyo's collapse and the Sokoto jihad. After defeat, several hundred Africans were deported to West Africa, many joining Afro-Brazilian communities at Lagos and Ouidah.",
+   "start": 1835,
+   "geo": [
+    -12.971,
+    -38.511
+   ],
+   "connections": [
+    {
+     "id": "port-salvador",
+     "type": "ownership",
+     "label": "took place in Salvador"
+    },
+    {
+     "id": "sokoto-caliphate",
+     "type": "trade",
+     "label": "jihad captives"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "trade",
+     "label": "Yoruba war captives"
+    },
+    {
+     "id": "aguda-merchant-community",
+     "type": "legacy",
+     "label": "deportees returned to the Bight of Benin"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "brussels-act-1890",
+   "name": "Brussels Conference Act (1890)",
+   "kind": "Charter / law / treaty",
+   "description": "International convention of European powers, the US, the Ottoman Empire, Persia and Zanzibar against the African slave trade by land and sea, including the Red Sea and Indian Ocean. It also justified colonial occupation of the African interior as anti-slavery action, notably by Leopold II's Congo Free State.",
+   "start": 1890,
+   "connections": [
+    {
+     "id": "tippu-tip",
+     "type": "political",
+     "label": "aimed at Arab-Swahili traders"
+    },
+    {
+     "id": "red-sea-slave-route",
+     "type": "political",
+     "label": "maritime zone"
+    },
+    {
+     "id": "busaidi-dynasty",
+     "type": "political",
+     "label": "Zanzibar a signatory"
+    }
+   ],
+   "type": "entity"
+  }
+ ],
+ "events": [
+  {
+   "year": 1631,
+   "title": "Sack of Baltimore",
+   "text": "Corsairs under Murat Reis seized over 100 villagers from Baltimore, Co. Cork, and took them to Algiers.",
+   "ids": [
+    "murat-reis",
+    "barbary-regencies"
+   ],
+   "source": {
+    "label": "History Ireland — From Baltimore to Barbary: the 1631 sack of Baltimore",
+    "url": "https://historyireland.com/?p=4767"
+   }
+  },
+  {
+   "year": 1673,
+   "title": "Moulay Ismāʿīl founds the ʿAbīd al-Bukhārī",
+   "text": "Morocco's sultan began building a Black slave army, eventually perhaps c. 150,000 strong per Britannica (figure contested).",
+   "ids": [
+    "moulay-ismail"
+   ],
+   "source": {
+    "label": "Britannica — ʿAlawī dynasty",
+    "url": "https://www.britannica.com/topic/Alawi-dynasty"
+   }
+  },
+  {
+   "year": 1795,
+   "title": "US treaty with Algiers frees captive sailors",
+   "text": "The US agreed to pay tribute to Algiers in return for the release of American sailors held there.",
+   "ids": [
+    "barbary-regencies",
+    "thomas-jefferson"
+   ],
+   "source": {
+    "label": "US Office of the Historian — Barbary Wars, 1801–1805 and 1815–1816",
+    "url": "https://history.state.gov/milestones/1801-1829/barbary-wars"
+   }
+  },
+  {
+   "year": 1804,
+   "title": "Usman dan Fodio's jihad begins",
+   "text": "The Fulani-led jihad overthrew the Hausa kings and created the Sokoto Caliphate, whose wars produced captives for internal slavery, the Sahara and the Atlantic.",
+   "ids": [
+    "sokoto-caliphate",
+    "bornu-al-kanemi",
+    "oyo-empire"
+   ],
+   "source": {
+    "label": "Britannica — Usman dan Fodio",
+    "url": "https://www.britannica.com/biography/Usman-dan-Fodio"
+   }
+  },
+  {
+   "year": 1816,
+   "title": "Bombardment of Algiers",
+   "text": "An Anglo-Dutch fleet under Lord Exmouth bombarded Algiers; the Dey freed 1,083 Christian captives.",
+   "ids": [
+    "barbary-regencies",
+    "house-of-orange"
+   ],
+   "source": {
+    "label": "Wikipedia — Bombardment of Algiers (1816)",
+    "url": "https://en.wikipedia.org/wiki/Bombardment_of_Algiers_(1816)"
+   }
+  },
+  {
+   "year": 1820,
+   "title": "Egypt invades Sudan",
+   "text": "Muḥammad ʿAlī's forces invaded Sudan seeking gold and enslaved recruits, opening decades of slave raiding.",
+   "ids": [
+    "muhammad-ali-egypt"
+   ],
+   "source": {
+    "label": "Wikipedia — Turco-Egyptian conquest of Sudan (1820–1824)",
+    "url": "https://en.wikipedia.org/wiki/Turco-Egyptian_conquest_of_Sudan_(1820%E2%80%931824)"
+   }
+  },
+  {
+   "year": 1822,
+   "title": "Moresby Treaty",
+   "text": "Sayyid Saʿīd agreed to stop sales of enslaved people to Christians, aimed at the French Mascarene trade.",
+   "ids": [
+    "moresby-treaty-1822",
+    "sayyid-said-bin-sultan",
+    "mascarene-islands"
+   ],
+   "source": {
+    "label": "Wikipedia — Moresby Treaty",
+    "url": "https://en.wikipedia.org/wiki/Moresby_Treaty"
+   }
+  },
+  {
+   "year": 1835,
+   "title": "Malê Revolt in Bahia",
+   "text": "African Muslims, many captured in the Sokoto jihad and Oyo wars, rose in Salvador; hundreds were later deported to Africa.",
+   "ids": [
+    "male-revolt-1835",
+    "port-salvador",
+    "sokoto-caliphate"
+   ],
+   "source": {
+    "label": "BlackPast — The Malê Rebellion in Brazil (1835)",
+    "url": "https://www.blackpast.org/global-african-history/the-male-rebellion-in-brazil-1835/"
+   }
+  },
+  {
+   "year": 1845,
+   "title": "Hamerton Treaty",
+   "text": "Sayyid Saʿīd agreed to ban slave exports from his African dominions to Arabia, leaving the coastal trade legal.",
+   "ids": [
+    "hamerton-treaty-1845",
+    "sayyid-said-bin-sultan"
+   ],
+   "source": {
+    "label": "Wikipedia — Hamerton Treaty",
+    "url": "https://en.wikipedia.org/wiki/Hamerton_Treaty"
+   }
+  },
+  {
+   "year": 1848,
+   "title": "Abolition in Réunion; engagés follow",
+   "text": "Abolition was proclaimed in Réunion on 20 December 1848; planters turned to indentured 'engagés' from India, Madagascar and East Africa.",
+   "ids": [
+    "mascarene-islands",
+    "crown-of-france"
+   ],
+   "source": {
+    "label": "Portail de l'esclavage de La Réunion",
+    "url": "https://www.portail-esclavage-reunion.fr/en/"
+   }
+  },
+  {
+   "year": 1850,
+   "title": "Brazil's Eusébio de Queirós law",
+   "text": "Brazil's effective ban on imports ended the Mozambique–Brazil Atlantic route, pushing Southeast African captives toward Indian Ocean markets instead.",
+   "ids": [
+    "mozambique-brazil-route",
+    "eusebio-de-queiros-law-1850",
+    "port-rio-valongo"
+   ],
+   "source": {
+    "label": "SlaveVoyages — Trans-Atlantic Slave Trade Estimates",
+    "url": "https://www.slavevoyages.org/assessment/estimates"
+   }
+  },
+  {
+   "year": 1871,
+   "title": "Nyangwe massacre",
+   "text": "Livingstone witnessed traders' gunmen kill hundreds at Nyangwe market; his report caused outrage in Britain.",
+   "ids": [
+    "david-livingstone",
+    "tippu-tip"
+   ],
+   "source": {
+    "label": "Livingstone Online — Livingstone in 1871",
+    "url": "https://livingstoneonline.org/node/233"
+   }
+  },
+  {
+   "year": 1873,
+   "title": "Zanzibar slave market closed",
+   "text": "Under threat of blockade, Sultan Barghash signed the Frere treaty on 5 June; the UMCA began Christ Church on the market site that Christmas.",
+   "ids": [
+    "frere-treaty-1873",
+    "barghash-bin-said",
+    "john-kirk",
+    "zanzibar-slave-market"
+   ],
+   "source": {
+    "label": "The National Archives (UK) — The last slave market: Dr John Kirk and the struggle to end the African slave trade",
+    "url": "https://media.nationalarchives.gov.uk/index.php/the-last-slave-market-dr-john-kirk-and-the-struggle-to-end-the-african-slave-trade/"
+   }
+  },
+  {
+   "year": 1890,
+   "title": "Brussels Anti-Slavery Act",
+   "text": "European powers, the Ottoman Empire, Persia and Zanzibar agreed measures against the land and sea slave trade, also legitimising colonial conquest.",
+   "ids": [
+    "brussels-act-1890",
+    "tippu-tip",
+    "red-sea-slave-route"
+   ],
+   "source": {
+    "label": "Wikipedia — Brussels Conference Act of 1890",
+    "url": "https://en.wikipedia.org/wiki/Brussels_Conference_Act_of_1890"
+   }
+  }
+ ]
+}

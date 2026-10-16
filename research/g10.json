@@ -1,0 +1,2207 @@
+{
+ "records": [
+  {
+   "id": "olaudah-equiano",
+   "name": "Olaudah Equiano (Gustavus Vassa)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Bight of Biafra (Igbo)",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Author of the best-known Middle Passage narrative (1789; nine British editions in his lifetime) and a leader of London's Black abolitionists; his African birth is debated by scholars.",
+   "start": 1756,
+   "end": 1797,
+   "lifespan": "c. 1745–1797",
+   "base": "London, Britain",
+   "geo": [
+    51.507,
+    -0.128
+   ],
+   "aliases": [
+    "Gustavus Vassa",
+    "Gustavus Vassa the African"
+   ],
+   "origins": "By his own account Equiano was born in an Igbo village in the hinterland of the Bight of Biafra (today south-eastern Nigeria), kidnapped with his sister at about eleven and passed through African owners to the coast. He was shipped to Barbados and then Virginia.",
+   "role_summary": "Sold to Royal Navy lieutenant Michael Pascal, who renamed him Gustavus Vassa, he served at sea in the Seven Years' War, was sold to the Quaker merchant Robert King of Montserrat and bought his own freedom in 1766. In London he alerted Granville Sharp to the Zong killings (1783), was briefly commissary for the Sierra Leone resettlement (1786–87) and published 'The Interesting Narrative' (1789), touring Britain and Ireland to sell it and argue for abolition.",
+   "roleDetail": [
+    {
+     "t": "Self-purchase, 1766.",
+     "d": "He bought his freedom from Robert King for £40, money earned through small trading on King's ships.",
+     "basis": "documented"
+    },
+    {
+     "t": "The Interesting Narrative (1789).",
+     "d": "Its description of the slave-ship hold became one of the most quoted Middle Passage testimonies of the abolition campaign.",
+     "basis": "documented"
+    },
+    {
+     "t": "Birthplace debate.",
+     "d": "Vincent Carretta found a 1759 baptismal record and a 1773 naval muster giving his birthplace as (South) Carolina, and suggests the African chapters may draw on others' testimony; critics such as Paul Lovejoy argue the Igbo account is credible and the records unreliable. The question is unresolved.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Equiano married Susannah Cullen in 1792; their daughter Anna Maria died young, and Joanna Vassa survived to inherit his estate. He is commemorated by plaques in London and elsewhere, and his narrative is read in schools and universities in Britain, Nigeria and the United States.",
+   "legacyDetail": [
+    {
+     "t": "Burial unknown.",
+     "d": "Westminster Abbey notes that his place of burial is not recorded.",
+     "basis": "documented"
+    },
+    {
+     "t": "Credited role in abolition.",
+     "d": "His book is widely credited with helping build support for the 1807 Act, though it was one voice among many.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Westminster Abbey — Olaudah Equiano (Gustavus Vassa)",
+     "url": "https://westminster-abbey.org/abbey-commemorations/commemorations/olaudah-equiano-gustavus-vassa"
+    },
+    {
+     "label": "UNC Documenting the American South — The Interesting Narrative (summary)",
+     "url": "https://docsouth.unc.edu/neh/equiano1/summary.html"
+    },
+    {
+     "label": "Wikipedia — Olaudah Equiano",
+     "url": "https://en.wikipedia.org/wiki/Olaudah_Equiano"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sons-of-africa",
+     "type": "ownership",
+     "label": "leading member"
+    },
+    {
+     "id": "ottobah-cugoano",
+     "type": "political",
+     "label": "fellow campaigner"
+    },
+    {
+     "id": "zong-ship",
+     "type": "political",
+     "label": "alerted Granville Sharp, 1783"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "lived and published in London"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "political",
+     "label": "campaign helped build support"
+    },
+    {
+     "id": "sailors-of-the-slave-trade",
+     "type": "parallel",
+     "label": "served as a seaman"
+    }
+   ]
+  },
+  {
+   "id": "ottobah-cugoano",
+   "name": "Quobna Ottobah Cugoano",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Gold Coast (Fante)",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Author of 'Thoughts and Sentiments on the Evil and Wicked Traffic of the Slavery' (1787), the most radical abolitionist book of its era by an African author; little is known of his later life.",
+   "start": 1770,
+   "end": 1791,
+   "lifespan": "c. 1757–after 1791",
+   "base": "London, Britain",
+   "geo": [
+    51.507,
+    -0.128
+   ],
+   "aliases": [
+    "John Stuart",
+    "Quobna Ottobah Cugoano"
+   ],
+   "origins": "Born in the Fante town of Ajumako (present-day Ghana), Cugoano was kidnapped at about thirteen in 1770 and taken to Cape Coast, where he was sold to Europeans and shipped to Grenada.",
+   "role_summary": "After about a year on Grenada plantations he was taken to England in 1772 by Alexander Campbell, baptised John Stuart in 1773 and became free, working as a servant to the painters Richard and Maria Cosway. With Equiano he was a founder of the Sons of Africa and in 1787 published a book demanding immediate abolition and emancipation and arguing that the enslaved had a right to resist.",
+   "roleDetail": [
+    {
+     "t": "Cape Coast to Grenada.",
+     "d": "His book describes his kidnapping, the Cape Coast fort, and the screams of captives as the ship sailed.",
+     "basis": "documented"
+    },
+    {
+     "t": "Immediate emancipation.",
+     "d": "Unlike most British campaigners of 1787, who targeted only the trade, he called for the end of slavery itself.",
+     "basis": "documented"
+    },
+    {
+     "t": "Rescue of Harry Demane (1786).",
+     "d": "He and Granville Sharp helped stop the forced shipment of a Black man from London to the Caribbean.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Cugoano disappears from the record after 1791; his date and place of death are unknown. His book is now a core text in histories of Black political thought and is studied in philosophy as well as history.",
+   "legacyDetail": [
+    {
+     "t": "Philosophical canon.",
+     "d": "The Stanford Encyclopedia of Philosophy now carries an entry on him as a political philosopher.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Stanford Encyclopedia of Philosophy — Ottobah Cugoano",
+     "url": "https://plato.stanford.edu/entries/cugoano/"
+    },
+    {
+     "label": "London Museum — Ottobah Cugoano: a powerful critic of slavery",
+     "url": "https://www.londonmuseum.org.uk/collections/london-stories/ottobah-cugoano-powerful-critic-slavery/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "olaudah-equiano",
+     "type": "political",
+     "label": "Sons of Africa co-founder"
+    },
+    {
+     "id": "sons-of-africa",
+     "type": "ownership",
+     "label": "co-founder"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "sold at Cape Coast, 1770"
+    },
+    {
+     "id": "fante-confederacy",
+     "type": "family",
+     "label": "born among the Fante"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "lived in London"
+    }
+   ]
+  },
+  {
+   "id": "ayuba-suleiman-diallo",
+   "name": "Ayuba Suleiman Diallo (Job ben Solomon)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Senegambia (Fula, Bundu)",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Subject of Thomas Bluett's 'Some Memoirs of the Life of Job' (1734) and of William Hoare's 1733 portrait, the earliest known British oil portrait of a freed enslaved African Muslim.",
+   "start": 1731,
+   "end": 1734,
+   "lifespan": "c. 1701–1773",
+   "base": "Bundu (eastern Senegal)",
+   "geo": [
+    14.5,
+    -12.2
+   ],
+   "aliases": [
+    "Job ben Solomon",
+    "Job Jalla"
+   ],
+   "origins": "Son of a Muslim cleric of Bundu in the Senegal–Gambia hinterland, Ayuba was a literate Fula trader who had himself travelled to the Gambia in 1730/31 to sell two enslaved people to an English captain.",
+   "role_summary": "On the way home he was seized by Mandinka raiders and sold to the same English ship, which carried him to Annapolis, Maryland, where he worked on a tobacco farm. After an escape attempt he was jailed in Kent County, where Thomas Bluett noted his Arabic writing; a letter he wrote to his father reached James Oglethorpe of the Royal African Company, who arranged his purchase. In London he was received by scholars and the royal family before returning to Gambia on a Company ship in 1734.",
+   "roleDetail": [
+    {
+     "t": "Captured as a trader.",
+     "d": "His story shows how African merchants could themselves be swept into the trade they took part in.",
+     "basis": "documented"
+    },
+    {
+     "t": "Freed through the Royal African Company.",
+     "d": "Oglethorpe bought him; a London subscription repaid his purchase and costs, and he went home as a Company associate.",
+     "basis": "documented"
+    },
+    {
+     "t": "The portrait.",
+     "d": "Hoare's portrait shows him with a Qur'an he wrote out from memory; it is on long-term loan from Qatar Museums to the National Portrait Gallery.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Ayuba lived until c. 1773 in Bundu, corresponding with British contacts. His portrait was bought by Qatar Museums in 2009, placed under a UK export bar and lent to the National Portrait Gallery, where it has been shown and toured since 2011.",
+   "legacyDetail": [
+    {
+     "t": "Earliest British portrait of a freed African.",
+     "d": "Displayed and toured by the National Portrait Gallery as a key image of Black British history.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UNC Documenting the American South — Thomas Bluett, Some Memoirs of the Life of Job (1734)",
+     "url": "https://docsouth.unc.edu/neh/bluett/summary.html"
+    },
+    {
+     "label": "SlaveVoyages — Ayuba Suleiman Diallo and Slavery in the Atlantic World",
+     "url": "https://legacy.slavevoyages.org/blog/ayuba-suleiman-diallo-and-slavery-atlantic-world"
+    },
+    {
+     "label": "National Portrait Gallery — Ayuba Suleiman Diallo",
+     "url": "https://www.npg.org.uk/collections/search/portrait/mw202604"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "charter",
+     "label": "freed and repatriated by RAC"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "received in London, 1733"
+    }
+   ]
+  },
+  {
+   "id": "abd-al-rahman-ibrahima",
+   "name": "Abd al-Rahman Ibrahima Ibn Sori",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Upper Guinea (Fula, Futa Jallon)",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Enslaved for c. 40 years in Mississippi; his release became a national cause in 1828 and is documented in newspapers, letters and the 2007 PBS film 'Prince Among Slaves'.",
+   "start": 1788,
+   "end": 1828,
+   "lifespan": "c. 1762–1829",
+   "base": "Natchez, Mississippi",
+   "geo": [
+    31.56,
+    -91.403
+   ],
+   "aliases": [
+    "Prince",
+    "Abdul Rahman Ibrahima"
+   ],
+   "origins": "A son of the almaami (ruler) of the Islamic state of Futa Jallon in present-day Guinea, he studied in Timbuktu and became a cavalry commander.",
+   "role_summary": "Captured in an ambush in 1788, he was sold to British traders, shipped across the Atlantic and eventually sold to Thomas Foster near Natchez, where he worked for some forty years, becoming the plantation's overseer and marrying an enslaved woman, Isabella. Newspaper editor Andrew Marschalk forwarded an Arabic letter he wrote; interest from the Sultan of Morocco led President John Quincy Adams's administration to arrange his release in 1828.",
+   "roleDetail": [
+    {
+     "t": "Called 'Prince'.",
+     "d": "His royal birth was known in Natchez but brought no freedom for decades.",
+     "basis": "documented"
+    },
+    {
+     "t": "Fundraising tour, 1828.",
+     "d": "Freed with Isabella, he toured northern cities to raise money to buy his children, but most remained enslaved.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He sailed for Liberia with the American Colonization Society and died in Monrovia in 1829 before reaching Futa Jallon. Some descendants were later freed and joined him in Liberia; others remained in Mississippi. Natchez unveiled a historical marker to him in 2025.",
+   "legacyDetail": [
+    {
+     "t": "'Prince Among Slaves'.",
+     "d": "Terry Alford's 1977 biography and a 2007 PBS film brought his story to wide audiences.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Mississippi History Now — A Prince Enslaved in Southwest Mississippi",
+     "url": "https://mshistorynow.mdah.ms.gov/issue/prince-enslaved-southwest-mississippi-story-abdul-rahman-ibrahima-1762-1829"
+    },
+    {
+     "label": "Mississippi Today — Natchez honors 'prince among slaves' (2025)",
+     "url": "https://mississippitoday.org/2025/10/27/natchez-honors-prince-among-slaves/"
+    },
+    {
+     "label": "Wikipedia — Abdulrahman Ibrahim Ibn Sori",
+     "url": "https://en.wikipedia.org/wiki/Abdulrahman_Ibrahim_Ibn_Sori"
+    }
+   ],
+   "connections": [
+    {
+     "id": "futa-jallon-imamate",
+     "type": "family",
+     "label": "son of the almaami"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "shipped to the lower Mississippi"
+    }
+   ]
+  },
+  {
+   "id": "omar-ibn-said",
+   "name": "Omar ibn Said",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Senegambia (Fula, Futa Toro)",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Wrote 'The Life of Omar ibn Said' (1831), the only known autobiography written in Arabic by a person enslaved in the US; the Library of Congress acquired his papers in 2017.",
+   "start": 1807,
+   "end": 1864,
+   "lifespan": "c. 1770–1864",
+   "base": "Bladen County / Fayetteville, North Carolina",
+   "geo": [
+    35.053,
+    -78.878
+   ],
+   "aliases": [
+    "Umar ibn Sayyid",
+    "Uncle Moreau",
+    "Prince Omeroh"
+   ],
+   "origins": "Born to a wealthy Muslim family in Futa Toro on the Senegal River, Omar studied for some 25 years and worked as a scholar and teacher.",
+   "role_summary": "Captured in war in 1807 at about 37, he was shipped to Charleston, South Carolina, in the last months before the US import ban. He escaped a cruel enslaver in 1810 and walked to Fayetteville, North Carolina, where he was jailed; James Owen of Bladen County then bought him. He lived the rest of his life enslaved by the Owen family, who presented him as a Christian convert, while he continued writing in Arabic, including Qur'anic passages.",
+   "roleDetail": [
+    {
+     "t": "Arabic writings in jail.",
+     "d": "The Arabic he wrote on the walls of the Fayetteville jail drew local attention to him.",
+     "basis": "documented"
+    },
+    {
+     "t": "Autobiography, 1831.",
+     "d": "His 15-page text opens with a Qur'anic sura (al-Mulk) on God's sovereignty, read by scholars as a quiet comment on his enslavement.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His papers (42 documents) are digitised by the Library of Congress. A Fayetteville mosque was renamed Masjid Omar ibn Sayyid, a North Carolina highway marker commemorates him, and an opera, 'Omar' by Rhiannon Giddens and Michael Abels, won the 2023 Pulitzer Prize for Music.",
+   "legacyDetail": [
+    {
+     "t": "Library of Congress acquisition (2017).",
+     "d": "The Omar ibn Said Collection was put online in 2019.",
+     "basis": "documented"
+    },
+    {
+     "t": "Pulitzer-winning opera.",
+     "d": "'Omar' premiered at Spoleto Festival USA in Charleston in 2022.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NCpedia — Said, Omar Ibn",
+     "url": "https://www.ncpedia.org/biography/said-omar-ibn"
+    },
+    {
+     "label": "Library of Congress — The Life of Omar Ibn Said (manuscript record)",
+     "url": "https://www.loc.gov/item/2018662630/"
+    },
+    {
+     "label": "UNC Documenting the American South — Omar ibn Said collection",
+     "url": "https://docsouth.unc.edu/nc/omarsaid/menu.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "landed at Charleston, 1807"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "imported months before ban"
+    }
+   ]
+  },
+  {
+   "id": "venture-smith",
+   "name": "Venture Smith (Broteer Furro)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Gold Coast hinterland ('Dukandarra')",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "His 1798 'Narrative', dictated to Elisha Niles, is among the earliest African-American slave narratives; his grave and land records survive in Connecticut.",
+   "start": 1737,
+   "end": 1765,
+   "lifespan": "c. 1729–1805",
+   "base": "East Haddam, Connecticut",
+   "geo": [
+    41.453,
+    -72.461
+   ],
+   "aliases": [
+    "Broteer Furro",
+    "Venture"
+   ],
+   "origins": "Born Broteer, son of a ruler in 'Dukandarra' in the West African interior (location uncertain), he was captured as a child of about eight when raiders attacked his father's town.",
+   "role_summary": "Marched to the coast and sold at Anomabu on the Gold Coast to Robertson Mumford, steward of a Rhode Island ship, for four gallons of rum and a piece of calico, he was named 'Venture' as Mumford's private venture. Taken via Barbados to Rhode Island and Fishers Island, he was sold several times before Oliver Smith of Stonington let him buy his freedom in 1765; he then bought his wife Meg and their children.",
+   "roleDetail": [
+    {
+     "t": "Bought his freedom and family.",
+     "d": "He paid for himself, his wife and children and others, then acquired more than 100 acres in East Haddam.",
+     "basis": "documented"
+    },
+    {
+     "t": "Rhode Island ship.",
+     "d": "His narrative and later research link him to a Newport-area voyage (often identified as the Charming Susanna).",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He died in 1805 and is buried at First Church cemetery, East Haddam, under a stone calling him 'son of a king'. Descendants hold an annual Venture Smith Day and family reunions; a 2006 exhumation for DNA study did not yield usable results.",
+   "legacyDetail": [
+    {
+     "t": "Descendants keep the story alive.",
+     "d": "Connecticut Public reported on descendants' work to teach his narrative (2024).",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UNC Documenting the American South — A Narrative of the Life and Adventures of Venture",
+     "url": "https://docsouth.unc.edu/neh/venture2/venture2.html"
+    },
+    {
+     "label": "ConnecticutHistory.org — Venture Smith: from slavery to freedom",
+     "url": "https://connecticuthistory.org/venture-smith-from-slavery-to-freedom"
+    },
+    {
+     "label": "Connecticut Public — Descendants keep Venture Smith's story alive (2024)",
+     "url": "https://www.ctpublic.org/2024-03-15/slavery-connecticut-venture-smith-narrative-descendants"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-newport",
+     "type": "voyage",
+     "label": "carried on a Rhode Island ship"
+    },
+    {
+     "id": "fante-confederacy",
+     "type": "trade",
+     "label": "sold at Anomabu, Fante coast"
+    }
+   ]
+  },
+  {
+   "id": "phillis-wheatley",
+   "name": "Phillis Wheatley",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Senegambia (probably Wolof or Fula)",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "First African American (and among the first American women) to publish a book of poetry, 'Poems on Various Subjects, Religious and Moral' (London, 1773); her ship and purchase are documented.",
+   "start": 1761,
+   "end": 1773,
+   "lifespan": "c. 1753–1784",
+   "base": "Boston, Massachusetts",
+   "geo": [
+    42.36,
+    -71.059
+   ],
+   "aliases": [
+    "Phillis Wheatley Peters"
+   ],
+   "origins": "Born around 1753 in West Africa, most likely in present-day Senegal or Gambia, she was taken at about seven or eight.",
+   "role_summary": "She arrived in Boston on 11 July 1761 aboard the slave ship Phillis, owned by Timothy Fitch and captained by Peter Gwinn, and was bought by the merchant John Wheatley for his wife Susanna, who named her after the ship. Taught to read English, Latin and the Bible, she published her first poem in 1767 and travelled to London in 1773 where her book appeared; she was freed shortly afterwards and in 1776 met George Washington.",
+   "roleDetail": [
+    {
+     "t": "Named after the ship.",
+     "d": "Her first name came from the vessel that carried her across the Atlantic.",
+     "basis": "documented"
+    },
+    {
+     "t": "Doubted by Boston elites.",
+     "d": "Her book carried an attestation by 18 Boston men that she had written the poems; Jefferson later dismissed her work.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "She married John Peters, struggled to publish a second volume and died in poverty in Boston in 1784. She is honoured in the Boston Women's Memorial (2003), a London blue plaque (2019) and a US postage stamp (2026), and is now read as a founding figure of African-American literature.",
+   "legacyDetail": [
+    {
+     "t": "Memorials.",
+     "d": "Boston Women's Memorial sculpture, schools and YWCAs bear her name.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Poets.org — Phillis Wheatley",
+     "url": "https://poets.org/poet/phillis-wheatley"
+    },
+    {
+     "label": "Society of Early Americanists — Wheatley Chronology",
+     "url": "https://www.societyofearlyamericanists.org/wp-content/uploads/2020/08/Wheatley-Chronology.pdf"
+    },
+    {
+     "label": "Wikipedia — Phillis Wheatley",
+     "url": "https://en.wikipedia.org/wiki/Phillis_Wheatley"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "received at Cambridge HQ, 1776"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "book published in London, 1773"
+    }
+   ]
+  },
+  {
+   "id": "mahommah-gardo-baquaqua",
+   "name": "Mahommah Gardo Baquaqua",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Bight of Benin (Djougou, northern Benin)",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "His 'Biography' (Detroit, 1854), edited by Samuel Moore, is the only known first-person narrative of a person enslaved in Brazil published in English; re-edited by Robin Law and Paul Lovejoy (2001/2007).",
+   "start": 1845,
+   "end": 1847,
+   "lifespan": "c. 1824/30–after 1857",
+   "base": "Pernambuco, Brazil (enslaved)",
+   "geo": [
+    -8.054,
+    -34.881
+   ],
+   "aliases": [
+    "Baquaqua"
+   ],
+   "origins": "Born to a Muslim trading family in Zoogoo (Djougou), in present-day northern Benin, he served as a bodyguard to a local ruler before being captured in the mid-1840s.",
+   "role_summary": "Taken south to Ouidah and shipped to Pernambuco, Brazil, he was sold to a baker who abused him, then to a ship captain in Rio de Janeiro. In 1847 his ship sailed to New York, where Black and white abolitionists went to court for him and the crew; he escaped to Haiti, converted to Christianity with Baptist missionaries, studied at New York Central College and dictated his life story.",
+   "roleDetail": [
+    {
+     "t": "Middle Passage testimony.",
+     "d": "His description of the hold on the voyage from Ouidah to Brazil is a rare first-person account of the illegal South Atlantic trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Freedom through New York.",
+     "d": "Abolitionists' legal action after his ship docked in 1847 enabled his escape.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He was last recorded in Britain in 1857, still hoping to return to Africa; his fate is unknown. His narrative is studied in Brazil, Benin and North America and has been republished in Portuguese.",
+   "legacyDetail": [
+    {
+     "t": "Scholarly recovery.",
+     "d": "Law and Lovejoy traced his life through Djougou, Brazil and New York archives.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UNC Documenting the American South — Biography of Mahommah G. Baquaqua (summary)",
+     "url": "https://docsouth.unc.edu/neh/baquaqua/summary.html"
+    },
+    {
+     "label": "Project MUSE — The Biography of Mahommah Gardo Baquaqua",
+     "url": "https://muse.jhu.edu/article/221096/pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "embarked at Ouidah"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "trade",
+     "label": "passed through Dahomey to coast"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "resold in Rio de Janeiro"
+    }
+   ]
+  },
+  {
+   "id": "sengbe-pieh",
+   "name": "Sengbe Pieh (Joseph Cinqué)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Sierra Leone & Upper Guinea (Mende)",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Leader of the 1839 Amistad revolt; the case (United States v. The Amistad, 1841) is one of the most documented slave-trade cases, with court records at the US National Archives.",
+   "start": 1839,
+   "end": 1842,
+   "lifespan": "c. 1814–c. 1879",
+   "base": "Mende country, Sierra Leone",
+   "geo": [
+    7.95,
+    -11.75
+   ],
+   "aliases": [
+    "Joseph Cinqué",
+    "Cinque",
+    "Singbe"
+   ],
+   "origins": "A Mende rice farmer, married with three children, he was seized in 1839 (by his account for a debt) and sold through the Vai ruler King Siaka to the Spanish trader Pedro Blanco at the Gallinas.",
+   "role_summary": "He was shipped illegally on the Portuguese slaver Tecora to Havana, where José Ruiz and Pedro Montes bought him and 52 others under false papers and put them aboard the schooner Amistad. In July 1839 he led the uprising that killed Captain Ramón Ferrer and the cook; the ship was seized off Long Island, and after two years of litigation the US Supreme Court ruled in March 1841 that the Africans had been illegally enslaved and were free.",
+   "roleDetail": [
+    {
+     "t": "Illegal from the start.",
+     "d": "Spain had banned slave imports to Cuba from 1820; the 'ladino' papers falsely called the captives long-resident Cubans.",
+     "basis": "documented"
+    },
+    {
+     "t": "Defence by John Quincy Adams.",
+     "d": "Adams and Roger Sherman Baldwin argued the case before the Supreme Court.",
+     "basis": "documented"
+    },
+    {
+     "t": "Return, 1842.",
+     "d": "Thirty-five survivors sailed home with missionaries in late 1841, reaching Freetown in January 1842.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Back in Sierra Leone he found his family gone amid war; little is certain about his later life and claims that he became a slave trader are considered implausible by historians. He has appeared on Sierra Leone's banknotes, has statues in New Haven and Hartford, and the replica schooner Amistad sails from Connecticut as an education ship.",
+   "legacyDetail": [
+    {
+     "t": "National hero in Sierra Leone.",
+     "d": "His portrait on currency marks his status as a symbol of resistance.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "US National Archives — Teaching With Documents: The Amistad Case",
+     "url": "https://www.archives.gov/education/lessons/amistad"
+    },
+    {
+     "label": "National Park Service — Amistad: How it Began (source list and travel itinerary)",
+     "url": "https://www.nps.gov/subjects/travelamistad/index.htm"
+    },
+    {
+     "label": "Wikipedia — Sengbe Pieh",
+     "url": "https://en.wikipedia.org/wiki/Sengbe_Pieh"
+    }
+   ],
+   "connections": [
+    {
+     "id": "amistad-ship",
+     "type": "voyage",
+     "label": "led the 1839 revolt"
+    },
+    {
+     "id": "gallinas-lomboko",
+     "type": "trade",
+     "label": "held at Lomboko barracoons"
+    },
+    {
+     "id": "pedro-blanco",
+     "type": "trade",
+     "label": "sold to Blanco"
+    },
+    {
+     "id": "king-siaka-gallinas",
+     "type": "trade",
+     "label": "passed through Siaka's trade"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "sold in Havana"
+    },
+    {
+     "id": "ramon-ferrer",
+     "type": "political",
+     "label": "killed in the revolt"
+    }
+   ]
+  },
+  {
+   "id": "kossola-cudjo-lewis",
+   "name": "Oluale Kossola (Cudjo Lewis)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Bight of Benin (Yoruba, Isha)",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Interviewed by Zora Neale Hurston (1927–28) for 'Barracoon' (written 1931, published 2018); her 1928 film of him is among the very few moving images of a Middle Passage survivor (Redoshi was filmed in 1938).",
+   "start": 1860,
+   "end": 1865,
+   "lifespan": "c. 1841–1935",
+   "base": "Africatown, Mobile, Alabama",
+   "geo": [
+    30.733,
+    -88.055
+   ],
+   "aliases": [
+    "Cudjo Lewis",
+    "Kossula"
+   ],
+   "origins": "Kossola was Yoruba of the Isha sub-group from the Banté region of present-day Benin. In 1860 a Dahomean army attacked his town, killing many, and marched survivors to Ouidah.",
+   "role_summary": "Held about three weeks in a barracoon at Ouidah, he was sold to William Foster and carried on the Clotilda to Mobile in July 1860, decades after the US ban. Enslaved by James Meaher until Union troops arrived in 1865, he and fellow survivors asked Timothy Meaher for land as reparation and were refused; they bought land and founded African Town.",
+   "roleDetail": [
+    {
+     "t": "Denied land.",
+     "d": "His request to Meaher for land is one of the earliest recorded reparations demands by survivors of the trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sued a railroad, 1902.",
+     "d": "Injured by a train, he sued the railroad company for damages.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He died in 1935 and is buried in Africatown's Old Plateau Cemetery. Descendants still live in Mobile, the Africatown Heritage House (opened 2023) features his story, and Hurston's 'Barracoon' became a bestseller.",
+   "legacyDetail": [
+    {
+     "t": "'Barracoon' (2018).",
+     "d": "Hurston's book, unpublished for 87 years, gives his account in his own dialect.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia of Alabama — Cudjo Lewis",
+     "url": "https://encyclopediaofalabama.org/article/cudjo-lewis/"
+    },
+    {
+     "label": "Smithsonian Magazine — Zora Neale Hurston's 'Barracoon'",
+     "url": "https://www.smithsonianmag.com/arts-culture/zora-neale-hurston-barracoon-last-survivor-slave-trade-180968944/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "clotilda-meaher",
+     "type": "voyage",
+     "label": "carried on the Clotilda"
+    },
+    {
+     "id": "africatown",
+     "type": "ownership",
+     "label": "co-founder"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "held at Ouidah barracoon"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "trade",
+     "label": "captured by Dahomey"
+    },
+    {
+     "id": "william-foster",
+     "type": "voyage",
+     "label": "bought by Foster"
+    }
+   ]
+  },
+  {
+   "id": "redoshi-sally-smith",
+   "name": "Redoshi (Sally Smith)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Bight of Benin (West Africa, exact people uncertain)",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Identified in 2019 by Hannah Durkin from census records, a memoir by Amelia Boynton Robinson and a 1938 USDA film; long thought the last Clotilda survivor.",
+   "start": 1860,
+   "end": 1865,
+   "lifespan": "c. 1848–1937",
+   "base": "Bogue Chitto, Dallas County, Alabama",
+   "geo": [
+    32.35,
+    -87.12
+   ],
+   "aliases": [
+    "Sally Smith"
+   ],
+   "origins": "Kidnapped at about twelve in a raid on her village in West Africa in 1860, she was taken to Ouidah.",
+   "role_summary": "Shipped on the Clotilda, she was bought by Washington M. Smith, a Selma banker who owned a plantation at Bogue Chitto, and forced into marriage with an older African man. After emancipation she remained on the land with her husband and daughter, farming and keeping her African identity.",
+   "roleDetail": [
+    {
+     "t": "Filmed in 1938.",
+     "d": "She appears in the USDA film 'The Negro Farmer' — the only known footage of a female Middle Passage survivor.",
+     "basis": "documented"
+    },
+    {
+     "t": "Recovered by research.",
+     "d": "Durkin's 2019 article in Slavery & Abolition named her and traced her life.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "She died in 1937. Her story is part of the wider Clotilda descendant movement around Africatown and Selma, and of the 2022 film 'Descendant'.",
+   "legacyDetail": [
+    {
+     "t": "Revised 'last survivor'.",
+     "d": "Durkin later identified Matilda McCrear as outliving her by three years.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Smithsonian Magazine — Researcher identifies last American woman to survive the African slave trade",
+     "url": "https://www.smithsonianmag.com/smart-news/researcher-identifies-last-american-woman-survive-african-slave-trade-180971879/"
+    },
+    {
+     "label": "History.com — The last slave ship survivor: Redoshi",
+     "url": "https://www.history.com/articles/last-slave-ship-survivor-redoshi-clotilda"
+    }
+   ],
+   "connections": [
+    {
+     "id": "clotilda-meaher",
+     "type": "voyage",
+     "label": "carried on the Clotilda"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "embarked at Ouidah"
+    },
+    {
+     "id": "matilda-mccrear",
+     "type": "family",
+     "label": "fellow Clotilda survivor"
+    }
+   ]
+  },
+  {
+   "id": "matilda-mccrear",
+   "name": "Matilda McCrear (Àbáké)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Bight of Benin (Yoruba)",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Identified by Hannah Durkin (2020) as the last known survivor of the transatlantic slave trade, mainly from a 1931 Selma Times-Journal interview and census data.",
+   "start": 1860,
+   "end": 1865,
+   "lifespan": "c. 1857–1940",
+   "base": "Selma, Alabama",
+   "geo": [
+    32.407,
+    -87.021
+   ],
+   "aliases": [
+    "Àbáké",
+    "Matilda Creagh"
+   ],
+   "origins": "Born Àbáké around 1857, a Yoruba child, she was taken at about two with her mother Gracie and sisters.",
+   "role_summary": "Carried on the Clotilda, she, her mother and one sister were bought by Memorable Walker Creagh and enslaved near Selma; two other sisters were sold away and never seen again. After emancipation she took the name McCrear, kept Yoruba hair-wrapping traditions, had a long partnership with a German-born man, Jacob Schuler, and raised many children.",
+   "roleDetail": [
+    {
+     "t": "Claim for compensation, 1931.",
+     "d": "In her 70s she walked to Selma's courthouse to seek compensation as a Clotilda survivor; the claim was dismissed.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "She died in January 1940 in poverty. Her grandson Johnny Crear learned of her Clotilda origins only from Durkin's research; the Equal Justice Initiative and others now commemorate her.",
+   "legacyDetail": [
+    {
+     "t": "Last known survivor.",
+     "d": "Her death in 1940 is the latest documented for anyone carried in the transatlantic trade.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Equal Justice Initiative — Remembering the last survivor of the transatlantic slave trade",
+     "url": "https://eji.org/news/remembering-the-last-survivor-of-the-transatlantic-slave-trade/"
+    },
+    {
+     "label": "Archaeology Magazine — Survivor of transatlantic trade identified (2020)",
+     "url": "https://archaeology.org/news/2020/03/25/200326-transatlantic-trade-survivor/"
+    },
+    {
+     "label": "Wikipedia — Matilda McCrear",
+     "url": "https://en.wikipedia.org/wiki/Matilda_McCrear"
+    }
+   ],
+   "connections": [
+    {
+     "id": "clotilda-meaher",
+     "type": "voyage",
+     "label": "carried on the Clotilda"
+    },
+    {
+     "id": "redoshi-sally-smith",
+     "type": "family",
+     "label": "fellow survivor near Selma"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "embarked at Ouidah"
+    }
+   ]
+  },
+  {
+   "id": "belinda-sutton",
+   "name": "Belinda Sutton",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Gold Coast / Volta region (probably Ewe or Akan)",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Her 1783 petition to the Massachusetts General Court is one of the earliest successful claims for reparations by a formerly enslaved person in North America.",
+   "start": 1724,
+   "end": 1793,
+   "lifespan": "c. 1712–after 1793",
+   "base": "Medford, Massachusetts",
+   "geo": [
+    42.418,
+    -71.106
+   ],
+   "aliases": [
+    "Belinda Royall",
+    "Belinda"
+   ],
+   "origins": "Her petition says she was kidnapped at about twelve from a village near the Volta River (in present-day Ghana or Togo) and survived the crossing.",
+   "role_summary": "She was enslaved by the Royall family, first in Antigua and then at their Medford estate, for some fifty years. Isaac Royall Jr fled as a Loyalist in 1775; in February 1783 she dictated a petition asking for an allowance from his confiscated estate 'which has been augmented by her servitude', signing with her mark.",
+   "roleDetail": [
+    {
+     "t": "Pension granted.",
+     "d": "The legislature awarded her an annual pension (c. £15), but payments lapsed and she had to petition repeatedly over a decade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Name of her own.",
+     "d": "Research found her married name, Sutton, now used in preference to her enslaver's surname.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Her petition is widely reprinted as an early reparations text, and the Royall House and Slave Quarters museum in Medford interprets her life.",
+   "legacyDetail": [
+    {
+     "t": "Reparations precedent.",
+     "d": "Historians cite her award in modern reparations debates.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Royall House and Slave Quarters — Belinda Sutton and her petitions",
+     "url": "https://royallhouse.org/slavery/belinda-sutton-and-her-petitions/"
+    },
+    {
+     "label": "Medford Historical Society — The mark of Belinda Sutton",
+     "url": "https://medfordhistorical.org/africa-to-medford/the-mark-of-belinda-sutton/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royall-family",
+     "type": "plantation",
+     "label": "enslaved by the Royalls"
+    },
+    {
+     "id": "royall-house-medford",
+     "type": "plantation",
+     "label": "enslaved at Medford estate"
+    },
+    {
+     "id": "caricom-reparations-commission",
+     "type": "parallel",
+     "label": "early reparations claim"
+    }
+   ]
+  },
+  {
+   "id": "john-newton",
+   "name": "John Newton",
+   "category": "European Families",
+   "role": "Captain & Crew",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Mate and then master on four Liverpool slaving voyages 1748–54 (Brownlow, Duke of Argyle, African), per his journals and SlaveVoyages; later a leading clerical voice for abolition.",
+   "start": 1745,
+   "end": 1754,
+   "lifespan": "1725–1807",
+   "base": "Liverpool / Olney / London",
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "aliases": [],
+   "origins": "A sailor's son from Wapping, Newton was pressed into the Royal Navy, then worked for a slave trader on the Plantain Islands off Sierra Leone, where he was himself mistreated. A storm in 1748 began his evangelical conversion, but he stayed in the trade.",
+   "role_summary": "He commanded the Duke of Argyle (1750) and the African (1752–54) for Liverpool merchant Joseph Manesty, buying captives along the Windward and Sierra Leone coasts and suppressing attempted revolts with chains and thumbscrews, as his own journal records. Ill health ended his sea career in 1754.",
+   "roleDetail": [
+    {
+     "t": "Captain's journal.",
+     "d": "His logs of 1750–54 are a key source on buying and holding captives on the Sierra Leone coast.",
+     "basis": "documented"
+    },
+    {
+     "t": "Late repentance.",
+     "d": "In 'Thoughts upon the African Slave Trade' (1788) he confessed his role and testified to Parliament; he had not opposed the trade while in it.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Ordained in 1764, he wrote 'Amazing Grace' for the Olney Hymns (1779) and mentored William Wilberforce. He died in 1807, the year the British trade was abolished; the hymn's popularity has often obscured his slaving years.",
+   "legacyDetail": [
+    {
+     "t": "'Amazing Grace'.",
+     "d": "The hymn is frequently, but inaccurately, presented as written in response to the slave trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Royal Museums Greenwich — Thoughts upon the African Slave Trade",
+     "url": "https://www.rmg.co.uk/collections/library/rmgl-149481"
+    },
+    {
+     "label": "Rochester Cathedral — John Newton (1725–1807)",
+     "url": "https://www.rochestercathedral.org/research/johnnewton"
+    },
+    {
+     "label": "Wikipedia — John Newton",
+     "url": "https://en.wikipedia.org/wiki/John_Newton"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "voyage",
+     "label": "sailed for Liverpool owners"
+    },
+    {
+     "id": "sailors-of-the-slave-trade",
+     "type": "voyage",
+     "label": "pressed seaman turned captain"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "political",
+     "label": "testified for abolition"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "traded on Sierra Leone coast"
+    }
+   ]
+  },
+  {
+   "id": "hugh-crow",
+   "name": "Hugh Crow",
+   "category": "European Families",
+   "role": "Captain & Crew",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Made 13 slaving voyages 1782–1807, seven as master, mostly to Bonny; commanded the Kitty's Amelia, the last legal British slaver (per his 1830 Memoirs and SlaveVoyages).",
+   "start": 1782,
+   "end": 1808,
+   "lifespan": "1765–1829",
+   "base": "Liverpool, Britain",
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "aliases": [
+    "Mind-the-eye Crow"
+   ],
+   "origins": "Born in Ramsey, Isle of Man, Crow went to sea young, lost an eye, and entered Liverpool's African trade in the 1780s.",
+   "role_summary": "He traded mainly at Bonny in the Bight of Biafra, where he dealt with King Opobo (Pepple) and described the town's merchants and customs. In July 1807 he sailed the Kitty's Amelia from Liverpool under clearance granted before the 1 May ban, delivering captives to Jamaica in 1808.",
+   "roleDetail": [
+    {
+     "t": "Last legal voyage.",
+     "d": "The Kitty's Amelia carried several hundred captives from Bonny to Jamaica after the Act passed.",
+     "basis": "documented"
+    },
+    {
+     "t": "Defender of the trade.",
+     "d": "His posthumous Memoirs (1830) argue the trade was humane — a self-serving account.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Crow retired in 1808 and died in Liverpool in 1829. His Memoirs remain a much-used, if partisan, source on Bonny and on the end of the legal British trade.",
+   "legacyDetail": [
+    {
+     "t": "Reprinted 2007.",
+     "d": "The Bodleian Library reissued his Memoirs for the bicentenary of abolition.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Business History Explorer — Memoirs of Captain Hugh Crow",
+     "url": "https://businesshistoryexplorer.businessarchivescouncil.org.uk/publications/14249"
+    },
+    {
+     "label": "HathiTrust — Memoirs of the late Captain Hugh Crow of Liverpool (1830)",
+     "url": "https://catalog.hathitrust.org/Record/011820043"
+    },
+    {
+     "label": "Wikipedia — Hugh Crow",
+     "url": "https://www.wikipedia.org/wiki/Hugh_Crow"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "voyage",
+     "label": "Liverpool captain"
+    },
+    {
+     "id": "port-bonny",
+     "type": "trade",
+     "label": "traded at Bonny"
+    },
+    {
+     "id": "kingdom-of-bonny",
+     "type": "trade",
+     "label": "dealt with Pepple kings"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "political",
+     "label": "last legal voyage under the Act"
+    },
+    {
+     "id": "sailors-of-the-slave-trade",
+     "type": "voyage",
+     "label": "career slaving seaman"
+    }
+   ]
+  },
+  {
+   "id": "thomas-phillips-hannibal",
+   "name": "Thomas Phillips",
+   "category": "European Families",
+   "role": "Captain & Crew",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Commanded one slaving voyage (Hannibal, 1693–95) on which c. 328 of c. 700 captives died (per his journal and SlaveVoyages); his journal is a standard primary source.",
+   "start": 1693,
+   "end": 1695,
+   "lifespan": "fl. 1690s (from Brecon, Wales)",
+   "base": "London, Britain",
+   "geo": [
+    51.507,
+    -0.128
+   ],
+   "aliases": [],
+   "origins": "A Welsh mariner from Brecon, Phillips commanded the London ship Hannibal, chartered under contract with the Royal African Company.",
+   "role_summary": "He bought c. 700 captives at Ouidah (then capital of the Hueda kingdom) and at Cape Coast and shipped them via São Tomé to Barbados; c. 320–330 died, chiefly of dysentery and smallpox, and some 36 of his crew died too. His journal describes branding, chaining and his 'loss' with frank commercial regret.",
+   "roleDetail": [
+    {
+     "t": "A voyage of mass death.",
+     "d": "Mortality of almost half was extreme even for the period.",
+     "basis": "documented"
+    },
+    {
+     "t": "Reading the captives' 'loss' as cost.",
+     "d": "Phillips complained the RAC paid no freight for the dead — showing how deaths were costed.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His journal was published in Churchill's 'Collection of Voyages' (1732) and is reproduced in many textbooks. Brecon historians have recently researched his crew.",
+   "legacyDetail": [
+    {
+     "t": "Textbook source.",
+     "d": "Excerpts are a staple of world-history readers on the Middle Passage.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Brecon & Radnor History — Voyage of Despair (the Hannibal)",
+     "url": "https://www.brh.org.uk/site/pamphleteer/voyage-of-despair"
+    },
+    {
+     "label": "Wikipedia — Hannibal (slave ship)",
+     "url": "https://en.wikipedia.org/wiki/Hannibal_(slave_ship)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hannibal-ship",
+     "type": "voyage",
+     "label": "commanded"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "charter",
+     "label": "sailed under RAC contract"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "bought captives at Whydah"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "traded at Cape Coast"
+    },
+    {
+     "id": "port-london",
+     "type": "voyage",
+     "label": "sailed from London"
+    }
+   ]
+  },
+  {
+   "id": "luke-collingwood",
+   "name": "Luke Collingwood",
+   "category": "European Families",
+   "role": "Captain & Crew",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Commanded only one voyage, the Zong (1781), on which more than 130 captives were thrown overboard on his orders.",
+   "start": 1781,
+   "end": 1781,
+   "lifespan": "d. 1781",
+   "base": "Liverpool, Britain",
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "aliases": [],
+   "origins": "Previously the surgeon on Gregson's ship William, Collingwood had no experience as a captain when the Gregson syndicate gave him command of the captured Dutch ship Zorg (renamed Zong) off Cape Coast in 1781.",
+   "role_summary": "Overloaded with c. 440 captives, the Zong lost its way, missed Jamaica and ran short of water; from 29 November 1781 Collingwood and his crew threw more than 130 sick and healthy Africans into the sea so the loss could be claimed on insurance. One man climbed back aboard.",
+   "roleDetail": [
+    {
+     "t": "Killing for insurance.",
+     "d": "Under 'general average', jettisoned cargo could be claimed — deaths from illness could not.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Collingwood died soon after reaching Jamaica, before the court cases. No one was prosecuted for the killings.",
+   "legacyDetail": [
+    {
+     "t": "No prosecution.",
+     "d": "Granville Sharp tried to bring murder charges but the authorities refused.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Understanding Slavery Initiative — The Zong",
+     "url": "https://understandingslavery.com/casestudy/the-zong/"
+    },
+    {
+     "label": "Lancaster City Council — Biographies of individuals involved in the Zong",
+     "url": "https://www.lancaster.gov.uk/assets/attach/13394/Biographies-of-individuals-involved-in-the-Zong.pdf"
+    },
+    {
+     "label": "Wikipedia — Zong massacre",
+     "url": "https://en.wikipedia.org/wiki/Zong_massacre"
+    }
+   ],
+   "connections": [
+    {
+     "id": "zong-ship",
+     "type": "voyage",
+     "label": "captain"
+    },
+    {
+     "id": "gregson-family",
+     "type": "voyage",
+     "label": "employed by syndicate"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "took command off Cape Coast"
+    }
+   ]
+  },
+  {
+   "id": "gregson-family",
+   "name": "Gregson syndicate (William, John & James Gregson)",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "William Gregson had interests in c. 150 slave voyages over 50 years (per Richardson); his ships carried c. 58,000 Africans, of whom c. 9,100 died (per Dalton 2021).",
+   "start": 1747,
+   "end": 1800,
+   "lifespan": "William Gregson 1721–1800",
+   "base": "Liverpool, Britain",
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "aliases": [
+    "William Gregson",
+    "Gregson v Gilbert"
+   ],
+   "origins": "William Gregson began as a rope-maker and became one of Liverpool's leading slave merchants, serving as mayor in 1762; his son John was mayor in 1784.",
+   "role_summary": "The syndicate of William, John and James Gregson, son-in-law George Case, Edward Wilson and James Aspinall owned the Zong. After the massacre they claimed c. £30 a head from their underwriters; a jury found for them in 1783, but Lord Mansfield ordered a new trial in Gregson v Gilbert after evidence that the water shortage was the crew's fault.",
+   "roleDetail": [
+    {
+     "t": "Zong claim.",
+     "d": "Their insurance suit turned c. 132 murders into a commercial dispute over 'cargo'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Diversified into finance.",
+     "d": "Gregson moved into banking and insurance late in his career.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Zong did not end the Gregsons' business. Gregson Street in Everton, Liverpool, still bears the family name; the case is now a central symbol in British memory of slavery.",
+   "legacyDetail": [
+    {
+     "t": "Street name.",
+     "d": "Gregson Street, Everton, is named after William Gregson.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Lancaster City Council — Biographies of individuals involved in the Zong",
+     "url": "https://www.lancaster.gov.uk/assets/attach/13394/Biographies-of-individuals-involved-in-the-Zong.pdf"
+    },
+    {
+     "label": "Wikipedia — William Gregson (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/William_Gregson_(slave_trader)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "zong-ship",
+     "type": "ownership",
+     "label": "owned the Zong"
+    },
+    {
+     "id": "luke-collingwood",
+     "type": "voyage",
+     "label": "appointed captain"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool slave merchants"
+    }
+   ]
+  },
+  {
+   "id": "alexander-falconbridge",
+   "name": "Alexander Falconbridge",
+   "category": "European Families",
+   "role": "Captain & Crew",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Surgeon on four Bristol slaving voyages 1782–87; his 'Account of the Slave Trade on the Coast of Africa' (1788) and parliamentary evidence were key abolitionist testimony.",
+   "start": 1782,
+   "end": 1787,
+   "lifespan": "c. 1760–1792",
+   "base": "Bristol, Britain",
+   "geo": [
+    51.454,
+    -2.588
+   ],
+   "aliases": [],
+   "origins": "A young surgeon, Falconbridge signed on to Bristol slave ships to earn a living, sailing mainly to Bonny and New Calabar.",
+   "role_summary": "He described the packing of captives below decks, the dancing forced on them, the use of speculums to force-feed those who refused food, and the disease he treated. Recruited by Thomas Clarkson, he accompanied him to collect evidence and testified before Parliament in 1790.",
+   "roleDetail": [
+    {
+     "t": "Eyewitness surgeon.",
+     "d": "His account of the hold so foul he nearly fainted was widely reprinted.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sierra Leone.",
+     "d": "He was sent by the St George's Bay Company to Sierra Leone in 1791 and died at Freetown in 1792.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His wife Anna Maria Falconbridge published a critical 'Narrative of Two Voyages to the River Sierra Leone' (1794). His Account is now freely available and widely used in schools.",
+   "legacyDetail": [
+    {
+     "t": "Classroom source.",
+     "d": "Excerpts are a standard Middle Passage document.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Project Gutenberg — An Account of the Slave Trade on the Coast of Africa (1788)",
+     "url": "https://www.gutenberg.org/ebooks/69178"
+    },
+    {
+     "label": "Wikipedia — Alexander Falconbridge",
+     "url": "https://en.wikipedia.org/wiki/Alexander_Falconbridge"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-bristol",
+     "type": "voyage",
+     "label": "sailed from Bristol"
+    },
+    {
+     "id": "port-bonny",
+     "type": "trade",
+     "label": "witnessed trade at Bonny"
+    },
+    {
+     "id": "sailors-of-the-slave-trade",
+     "type": "political",
+     "label": "evidence for Clarkson"
+    },
+    {
+     "id": "brookes-ship",
+     "type": "parallel",
+     "label": "evidence used by the same campaign"
+    }
+   ]
+  },
+  {
+   "id": "james-field-stanfield",
+   "name": "James Field Stanfield",
+   "category": "European Families",
+   "role": "Captain & Crew",
+   "nation": "Britain (Irish-born)",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Common sailor on one Liverpool voyage to Benin (1774–76); 'Observations on a Guinea Voyage' (1788) is the first published account by an ordinary seaman.",
+   "start": 1774,
+   "end": 1776,
+   "lifespan": "c. 1749–1824",
+   "base": "Liverpool, Britain",
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "aliases": [],
+   "origins": "Born in Ireland and educated in France for the priesthood, Stanfield went to sea instead and signed on to a Liverpool ship bound for Benin in 1774.",
+   "role_summary": "He spent months at a trading post in the Kingdom of Benin while captives were assembled and then sailed to Jamaica, witnessing the deaths of captives and crew alike; he was one of only a few crew survivors. His letters to Clarkson, published by the abolition society in 1788, and his poem 'The Guinea Voyage' (1789) exposed the brutality toward sailors as well as Africans.",
+   "roleDetail": [
+    {
+     "t": "Sailor's eye view.",
+     "d": "He stressed the beating, starvation and death of seamen, supporting Clarkson's argument that the trade was a 'grave' for sailors.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He became an actor and theatre manager in northern England; his son, the marine painter Clarkson Stanfield, was named after Thomas Clarkson.",
+   "legacyDetail": [
+    {
+     "t": "Named for Clarkson.",
+     "d": "Clarkson Stanfield RA (1793–1867) carried the abolitionist's name.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Letter the Third, from Observations on a Guinea Voyage (1788)",
+     "url": "https://encyclopediavirginia.org/entries/letter-the-third-an-excerpt-from-observations-on-a-guinea-voyage-in-a-series-of-letters-addressed-to-the-rev-thomas-clarkson-by-james-field-stanfield-1788/"
+    },
+    {
+     "label": "Irish Times — The Irishman determined to expose the slave trade (2024)",
+     "url": "https://www.irishtimes.com/abroad/2024/01/12/the-irishman-determined-to-expose-the-slave-trade/"
+    },
+    {
+     "label": "Wikipedia — James Field Stanfield",
+     "url": "https://en.wikipedia.org/wiki/James_Field_Stanfield"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "voyage",
+     "label": "sailed from Liverpool"
+    },
+    {
+     "id": "sailors-of-the-slave-trade",
+     "type": "political",
+     "label": "seaman witness"
+    }
+   ]
+  },
+  {
+   "id": "william-foster",
+   "name": "William Foster",
+   "category": "American Families",
+   "role": "Captain & Crew",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Built and captained the Clotilda, the last known slave ship to reach the US (1860, 110 captives); fined $1,000, the only penalty imposed on anyone involved.",
+   "start": 1860,
+   "end": 1860,
+   "lifespan": "1825–1901",
+   "base": "Mobile, Alabama",
+   "geo": [
+    30.695,
+    -88.04
+   ],
+   "aliases": [],
+   "origins": "Born in Nova Scotia, Foster became a Mobile shipbuilder and in 1855 built the two-masted schooner Clotilda for the Gulf trade.",
+   "role_summary": "Hired by Timothy Meaher, he sailed to Ouidah in 1860 and bought 110 captives from Dahomey's trade, leaving 15 behind when he sighted steamers. He landed them up the Mobile River in July 1860, then burned and scuttled the ship to destroy evidence, keeping some captives himself.",
+   "roleDetail": [
+    {
+     "t": "Journal of 1860.",
+     "d": "Foster's own account of the voyage survives and was used in the wreck identification.",
+     "basis": "documented"
+    },
+    {
+     "t": "Token punishment.",
+     "d": "He was fined $1,000 for failing to pay duties/conspiracy; the slave-trading charges were dropped.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He died in Mobile in 1901. The wreck he scuttled was identified in 2019 and is now protected; its discovery revived Clotilda descendant activism.",
+   "legacyDetail": [
+    {
+     "t": "Wreck found.",
+     "d": "Alabama Historical Commission identified the Clotilda in May 2019.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia of Alabama — Clotilda",
+     "url": "https://encyclopediaofalabama.org/article/emclotilda-em"
+    },
+    {
+     "label": "National Geographic — Clotilda, America's last slave ship",
+     "url": "https://www.nationalgeographic.com/magazine/article/clotilda-americas-last-slave-ship-stole-them-from-home-it-couldnt-steal-their-identities-feature"
+    }
+   ],
+   "connections": [
+    {
+     "id": "clotilda-meaher",
+     "type": "voyage",
+     "label": "captained for Meaher"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "bought captives at Ouidah"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "trade",
+     "label": "bought from Dahomey's trade"
+    },
+    {
+     "id": "glele-of-dahomey",
+     "type": "trade",
+     "label": "traded in Glele's reign"
+    },
+    {
+     "id": "kossola-cudjo-lewis",
+     "type": "voyage",
+     "label": "carried Kossola"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "violated federal ban"
+    }
+   ]
+  },
+  {
+   "id": "ramon-ferrer",
+   "name": "Ramón Ferrer",
+   "category": "European Families",
+   "role": "Captain & Crew",
+   "nation": "Spain (Cuba)",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Captain and owner of the coastal schooner Amistad; killed in the 1839 revolt. Known from the Amistad court records.",
+   "start": 1839,
+   "end": 1839,
+   "lifespan": "d. 1839",
+   "base": "Havana, Cuba",
+   "geo": [
+    23.136,
+    -82.359
+   ],
+   "aliases": [
+    "Ramón Ferrer"
+   ],
+   "origins": "A Spanish mariner in Cuba, Ferrer owned and commanded La Amistad, a schooner used in the Cuban coastal trade.",
+   "role_summary": "In late June 1839 he took on 53 Africans newly landed illegally from the Tecora, plus Ruiz and Montes, for a voyage from Havana to Puerto Príncipe. In the revolt led by Sengbe Pieh he and the cook Celestino were killed; his enslaved cabin boy Antonio survived and testified.",
+   "roleDetail": [
+    {
+     "t": "Part of the illegal pipeline.",
+     "d": "Coastal schooners like the Amistad distributed newly imported Africans under false 'ladino' papers.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His heirs' claims, and Spain's demand for the ship and 'cargo', fed a diplomatic dispute that lasted into the 1850s.",
+   "legacyDetail": [
+    {
+     "t": "Spanish claims.",
+     "d": "Spain pressed the US for compensation for years after 1841.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "US National Archives — Teaching With Documents: The Amistad Case",
+     "url": "https://www.archives.gov/education/lessons/amistad"
+    },
+    {
+     "label": "Wikipedia — La Amistad",
+     "url": "https://en.wikipedia.org/wiki/La_Amistad"
+    }
+   ],
+   "connections": [
+    {
+     "id": "amistad-ship",
+     "type": "ownership",
+     "label": "owner-captain"
+    },
+    {
+     "id": "port-havana",
+     "type": "voyage",
+     "label": "sailed from Havana"
+    },
+    {
+     "id": "sengbe-pieh",
+     "type": "political",
+     "label": "killed in revolt"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "zong-ship",
+   "name": "The Zong (1781) and Gregson v Gilbert (1783)",
+   "kind": "Ship / voyage",
+   "start": 1781,
+   "description": "Liverpool-owned slave ship whose crew threw more than 130 Africans overboard from 29 November 1781 so the owners could claim insurance. The owners won a jury verdict in 1783; on the insurers' appeal (Gregson v Gilbert) Lord Mansfield ordered a new trial. Equiano and Granville Sharp publicised the case, which became a turning point for British abolitionism.",
+   "connections": [
+    {
+     "id": "gregson-family",
+     "type": "ownership",
+     "label": "owned by Gregson syndicate"
+    },
+    {
+     "id": "luke-collingwood",
+     "type": "voyage",
+     "label": "commanded"
+    },
+    {
+     "id": "olaudah-equiano",
+     "type": "political",
+     "label": "Equiano alerted Sharp"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "voyage",
+     "label": "Liverpool ship"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "taken over off Cape Coast"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "brookes-ship",
+   "name": "The Brookes (Brooks) and the 1788 diagram",
+   "kind": "Ship / voyage",
+   "start": 1781,
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "description": "Liverpool slave ship owned by Joseph Brooks Jr. In late 1788 the Plymouth abolition society (William Elford) published a plan showing captives packed in its decks; the London committee reissued it in 1789 and thousands of copies circulated in Britain, France and the US. It is a schematic projection based on official measurements, not a record of one voyage.",
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "voyage",
+     "label": "Liverpool ship"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "political",
+     "label": "image used in abolition campaign"
+    },
+    {
+     "id": "sailors-of-the-slave-trade",
+     "type": "parallel",
+     "label": "same evidence campaign"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "amistad-ship",
+   "name": "La Amistad (1839)",
+   "kind": "Revolt / uprising",
+   "start": 1839,
+   "geo": [
+    41.07,
+    -71.95
+   ],
+   "description": "Cuban coastal schooner on which 53 Mende and other West Africans, illegally imported via the Tecora, rose up in July 1839. Seized off Long Island by the USS Washington, the Africans were held in Connecticut; in March 1841 the US Supreme Court (United States v. The Amistad) ruled them free, and survivors returned to Sierra Leone in 1842.",
+   "connections": [
+    {
+     "id": "sengbe-pieh",
+     "type": "voyage",
+     "label": "revolt led by Sengbe Pieh"
+    },
+    {
+     "id": "ramon-ferrer",
+     "type": "ownership",
+     "label": "owner-captain"
+    },
+    {
+     "id": "port-havana",
+     "type": "voyage",
+     "label": "sailed from Havana"
+    },
+    {
+     "id": "gallinas-lomboko",
+     "type": "trade",
+     "label": "captives from Lomboko"
+    },
+    {
+     "id": "pedro-blanco",
+     "type": "trade",
+     "label": "sold by Blanco"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "henrietta-marie",
+   "name": "Henrietta Marie (wreck, 1700)",
+   "kind": "Ship / voyage",
+   "start": 1699,
+   "geo": [
+    24.58,
+    -82.15
+   ],
+   "description": "London slave ship that sold 191 captives from New Calabar in Jamaica in 1700 (per the Mel Fisher Maritime Museum) and sank on the return leg near the Marquesas Keys, Florida. Found by Mel Fisher's salvors in 1972 and excavated 1983–85, it yielded shackles (some child-sized), trade beads and its bell; it is the largest archaeological collection from an early slave ship. The National Association of Black Scuba Divers placed an underwater memorial there in the early 1990s.",
+   "connections": [
+    {
+     "id": "port-london",
+     "type": "voyage",
+     "label": "sailed from London"
+    },
+    {
+     "id": "amachree-dynasty",
+     "type": "trade",
+     "label": "bought captives at New Calabar"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "sao-jose-paquete-de-africa",
+   "name": "São José Paquete de África (wreck, 1794)",
+   "kind": "Ship / voyage",
+   "start": 1794,
+   "geo": [
+    -33.951,
+    18.376
+   ],
+   "description": "Portuguese slave ship that left Lisbon in April 1794, loaded c. 400–500 captives at Mozambique Island for Brazil, and wrecked off Cape Town on 27 December 1794; c. 212 Africans died and survivors were sold at the Cape. Its identification by the Slave Wrecks Project (Smithsonian NMAAHC, Iziko Museums and partners), confirmed in 2014 and announced in June 2015, marked the first time archaeological evidence was recovered from a slave ship known to have sunk with captives aboard; soil from Mozambique Island was scattered over the site.",
+   "connections": [
+    {
+     "id": "port-lisbon",
+     "type": "voyage",
+     "label": "sailed from Lisbon"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "Portuguese-flag slaver"
+    },
+    {
+     "id": "slavevoyages-database",
+     "type": "legacy",
+     "label": "researched with SlaveVoyages"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "hannibal-ship",
+   "name": "The Hannibal (1693–1695)",
+   "kind": "Ship / voyage",
+   "start": 1693,
+   "description": "London ship commanded by Thomas Phillips under contract with the Royal African Company. It bought c. 700 captives at Ouidah and Cape Coast; c. 328 died before reaching Barbados, mainly of dysentery and smallpox, along with many of the crew. Phillips's journal (1732) is a classic Middle Passage source.",
+   "connections": [
+    {
+     "id": "thomas-phillips-hannibal",
+     "type": "voyage",
+     "label": "commanded"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "charter",
+     "label": "RAC contract"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "bought captives at Whydah"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "creole-revolt",
+   "name": "Creole revolt (1841)",
+   "kind": "Revolt / uprising",
+   "start": 1841,
+   "geo": [
+    25.06,
+    -77.345
+   ],
+   "description": "In November 1841 Madison Washington and 18 others seized the brig Creole, carrying c. 135 enslaved people in the domestic trade from Richmond to New Orleans, and sailed to Nassau in the British Bahamas. British officials freed almost all of them under the 1833 Abolition Act, sparking an Anglo-American dispute; it is often called the most successful slave revolt in US history.",
+   "connections": [
+    {
+     "id": "port-new-orleans",
+     "type": "voyage",
+     "label": "bound for New Orleans"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "political",
+     "label": "freed under British law"
+    },
+    {
+     "id": "amistad-ship",
+     "type": "parallel",
+     "label": "shipboard revolt"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "slavevoyages-database",
+   "name": "SlaveVoyages (Trans-Atlantic Slave Trade Database)",
+   "kind": "Database / research",
+   "start": 1999,
+   "geo": [
+    33.79,
+    -84.324
+   ],
+   "description": "Collaborative database begun by David Eltis and David Richardson (CD-ROM 1999, online 2008, now based at Rice and Emory and partners) documenting c. 36,000 transatlantic and c. 10,000 intra-American slaving voyages. Its estimates put the trade at c. 12.5 million people embarked and c. 10.7 million landed, 1501–1866.",
+   "connections": [
+    {
+     "id": "african-origins-database",
+     "type": "legacy",
+     "label": "sister database"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "parallel",
+     "label": "companion research database"
+    },
+    {
+     "id": "international-slavery-museum",
+     "type": "parallel",
+     "label": "used in museum displays"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "african-origins-database",
+   "name": "African Origins (African Names Database)",
+   "kind": "Database / research",
+   "start": 2009,
+   "geo": [
+    33.79,
+    -84.324
+   ],
+   "description": "Part of SlaveVoyages, it records names, ages, sex and ships of c. 91,000 Africans freed from captured slave ships by the Mixed Commission courts at Havana and Freetown (1808–1862), from Sierra Leone and UK National Archives registers. It invites speakers of African languages to help identify the likely origins of each name.",
+   "connections": [
+    {
+     "id": "slavevoyages-database",
+     "type": "legacy",
+     "label": "part of SlaveVoyages"
+    },
+    {
+     "id": "port-havana",
+     "type": "political",
+     "label": "Havana Mixed Commission records"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "sailors-of-the-slave-trade",
+   "name": "Sailors of the slave trade (crimps, debt and death)",
+   "kind": "Labour / crew",
+   "start": 1787,
+   "geo": [
+    51.452,
+    -2.59
+   ],
+   "description": "Slave-ship crews were often recruited through crimps and tavern debt in ports such as Bristol's Marsh Street, and some through impressment. Thomas Clarkson, gathering evidence in Bristol and Liverpool in 1787 (using the Seven Stars pub and port muster rolls), showed that sailor death rates on slaving voyages far exceeded other trades; his tables were printed in the 1789 Privy Council report and became a key abolitionist argument.",
+   "connections": [
+    {
+     "id": "port-bristol",
+     "type": "trade",
+     "label": "Bristol crews"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool crews"
+    },
+    {
+     "id": "alexander-falconbridge",
+     "type": "political",
+     "label": "witness"
+    },
+    {
+     "id": "james-field-stanfield",
+     "type": "political",
+     "label": "witness"
+    },
+    {
+     "id": "john-newton",
+     "type": "voyage",
+     "label": "pressed seaman"
+    },
+    {
+     "id": "hugh-crow",
+     "type": "voyage",
+     "label": "career seaman"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "sons-of-africa",
+   "name": "Sons of Africa",
+   "kind": "Abolitionist organisation",
+   "start": 1787,
+   "geo": [
+    51.507,
+    -0.128
+   ],
+   "description": "London group of Black abolitionists active in the late 1780s–1790s, including Olaudah Equiano and Ottobah Cugoano, who wrote public letters to newspapers, MPs and campaigners such as Granville Sharp in support of abolition.",
+   "connections": [
+    {
+     "id": "olaudah-equiano",
+     "type": "ownership",
+     "label": "member"
+    },
+    {
+     "id": "ottobah-cugoano",
+     "type": "ownership",
+     "label": "member"
+    },
+    {
+     "id": "port-london",
+     "type": "political",
+     "label": "based in London"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1694,
+   "title": "Hannibal reaches Barbados",
+   "text": "Thomas Phillips's ship lands c. 372 survivors of c. 700 captives bought at Ouidah; c. 328 died on the crossing.",
+   "ids": [
+    "hannibal-ship",
+    "thomas-phillips-hannibal",
+    "royal-african-company",
+    "port-ouidah"
+   ],
+   "source": {
+    "label": "Brecon & Radnor History — Voyage of Despair",
+    "url": "https://www.brh.org.uk/site/pamphleteer/voyage-of-despair"
+   }
+  },
+  {
+   "year": 1700,
+   "title": "Henrietta Marie sinks off Florida",
+   "text": "After selling 191 captives from New Calabar in Jamaica, the London slaver wrecks near the Marquesas Keys.",
+   "ids": [
+    "henrietta-marie",
+    "port-london"
+   ],
+   "source": {
+    "label": "WLRN — Henrietta Marie slave ship, Key West (2024)",
+    "url": "https://www.wlrn.org/arts-culture/2024-11-27/henrietta-marie-slave-ship-key-west"
+   }
+  },
+  {
+   "year": 1733,
+   "title": "Ayuba Suleiman Diallo freed and painted",
+   "text": "Bought out of slavery in Maryland through the Royal African Company, Ayuba sits for William Hoare in London before returning to Gambia in 1734.",
+   "ids": [
+    "ayuba-suleiman-diallo",
+    "royal-african-company"
+   ],
+   "source": {
+    "label": "UNC DocSouth — Bluett, Some Memoirs of the Life of Job",
+    "url": "https://docsouth.unc.edu/neh/bluett/summary.html"
+   }
+  },
+  {
+   "year": 1761,
+   "title": "The Phillis lands a Senegambian child in Boston",
+   "text": "The girl later known as Phillis Wheatley is bought by John Wheatley; her 'Poems' appear in London in 1773.",
+   "ids": [
+    "phillis-wheatley"
+   ],
+   "source": {
+    "label": "Society of Early Americanists — Wheatley Chronology",
+    "url": "https://www.societyofearlyamericanists.org/wp-content/uploads/2020/08/Wheatley-Chronology.pdf"
+   }
+  },
+  {
+   "year": 1781,
+   "title": "Zong massacre",
+   "text": "From 29 November the crew of the Liverpool ship Zong throw more than 130 Africans overboard to claim insurance.",
+   "ids": [
+    "zong-ship",
+    "luke-collingwood",
+    "gregson-family",
+    "olaudah-equiano"
+   ],
+   "source": {
+    "label": "Understanding Slavery Initiative — The Zong",
+    "url": "https://understandingslavery.com/casestudy/the-zong/"
+   }
+  },
+  {
+   "year": 1783,
+   "title": "Gregson v Gilbert and Belinda's petition",
+   "text": "Lord Mansfield hears the Zong insurance appeal in London; in Massachusetts, Belinda Sutton petitions for and wins a pension from her enslaver's estate.",
+   "ids": [
+    "zong-ship",
+    "gregson-family",
+    "belinda-sutton",
+    "royall-family"
+   ],
+   "source": {
+    "label": "Royall House — Belinda Sutton and her petitions",
+    "url": "https://royallhouse.org/slavery/belinda-sutton-and-her-petitions/"
+   }
+  },
+  {
+   "year": 1788,
+   "title": "Testimony from the ships",
+   "text": "Falconbridge's 'Account', Stanfield's 'Observations', Newton's 'Thoughts' and the Plymouth Brookes diagram are published as Clarkson gathers sailors' evidence.",
+   "ids": [
+    "alexander-falconbridge",
+    "james-field-stanfield",
+    "john-newton",
+    "brookes-ship",
+    "sailors-of-the-slave-trade"
+   ],
+   "source": {
+    "label": "Royal Museums Greenwich — Plan and Sections of a Slave Ship (Brooks)",
+    "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-254967"
+   }
+  },
+  {
+   "year": 1789,
+   "title": "Equiano's Interesting Narrative",
+   "text": "Equiano publishes his autobiography, two years after Cugoano's 'Thoughts and Sentiments', strengthening the Sons of Africa's campaign.",
+   "ids": [
+    "olaudah-equiano",
+    "ottobah-cugoano",
+    "sons-of-africa"
+   ],
+   "source": {
+    "label": "UNC DocSouth — The Interesting Narrative",
+    "url": "https://docsouth.unc.edu/neh/equiano1/summary.html"
+   }
+  },
+  {
+   "year": 1794,
+   "title": "São José wrecks off Cape Town",
+   "text": "The Portuguese slaver from Mozambique breaks up on rocks; c. 212 captives drown. Its identification by the Slave Wrecks Project was announced in 2015.",
+   "ids": [
+    "sao-jose-paquete-de-africa",
+    "port-lisbon",
+    "slavevoyages-database"
+   ],
+   "source": {
+    "label": "National Geographic — A shipwreck off Cape Town reveals the horrors of the slave trade",
+    "url": "https://www.nationalgeographic.com/history/article/slave-ship-shipwreck-transatlantic-slave-trade"
+   }
+  },
+  {
+   "year": 1807,
+   "title": "Kitty's Amelia: the last legal British slaver",
+   "text": "Hugh Crow sails from Liverpool for Bonny under clearance issued before the ban took effect, the same year Omar ibn Said is landed at Charleston.",
+   "ids": [
+    "hugh-crow",
+    "port-liverpool",
+    "port-bonny",
+    "omar-ibn-said",
+    "slave-trade-act-1807"
+   ],
+   "source": {
+    "label": "Business History Explorer — Memoirs of Captain Hugh Crow",
+    "url": "https://businesshistoryexplorer.businessarchivescouncil.org.uk/publications/14249"
+   }
+  },
+  {
+   "year": 1839,
+   "title": "Amistad revolt",
+   "text": "Sengbe Pieh leads 53 Africans in seizing the Amistad off Cuba; Captain Ramón Ferrer is killed.",
+   "ids": [
+    "amistad-ship",
+    "sengbe-pieh",
+    "ramon-ferrer",
+    "gallinas-lomboko"
+   ],
+   "source": {
+    "label": "US National Archives — The Amistad Case",
+    "url": "https://www.archives.gov/education/lessons/amistad"
+   }
+  },
+  {
+   "year": 1841,
+   "title": "Amistad ruling and the Creole revolt",
+   "text": "In March the Supreme Court frees the Amistad Africans; in November enslaved people seize the Creole and win freedom in Nassau.",
+   "ids": [
+    "amistad-ship",
+    "sengbe-pieh",
+    "creole-revolt"
+   ],
+   "source": {
+    "label": "History.com — The Creole: the most successful slave revolt in US history",
+    "url": "https://www.history.com/news/creole-most-successful-slave-rebellion-1841"
+   }
+  },
+  {
+   "year": 1860,
+   "title": "Clotilda lands 110 captives at Mobile",
+   "text": "William Foster burns his ship after landing Kossola, Redoshi, Àbáké (Matilda McCrear) and others bought at Ouidah.",
+   "ids": [
+    "william-foster",
+    "clotilda-meaher",
+    "kossola-cudjo-lewis",
+    "redoshi-sally-smith",
+    "matilda-mccrear",
+    "port-ouidah"
+   ],
+   "source": {
+    "label": "Encyclopedia of Alabama — Clotilda",
+    "url": "https://encyclopediaofalabama.org/article/emclotilda-em"
+   }
+  },
+  {
+   "year": 1940,
+   "title": "Death of the last known survivor",
+   "text": "Matilda McCrear dies in Selma, Alabama, the last known person carried in the transatlantic trade.",
+   "ids": [
+    "matilda-mccrear"
+   ],
+   "source": {
+    "label": "Equal Justice Initiative — Remembering the last survivor",
+    "url": "https://eji.org/news/remembering-the-last-survivor-of-the-transatlantic-slave-trade/"
+   }
+  }
+ ]
+}

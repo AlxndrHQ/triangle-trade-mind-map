@@ -1,0 +1,2540 @@
+{
+ "records": [
+  {
+   "id": "frederick-douglass",
+   "name": "Frederick Douglass",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "A defining figure: three autobiographies (1845, 1855, 1881), decades of speeches and newspapers, and a National Historic Site; his Wye House childhood is documented in his own Narrative.",
+   "start": 1818,
+   "end": 1895,
+   "lifespan": "1818–1895",
+   "base": "Talbot County and Baltimore, Maryland",
+   "geo": [
+    38.774,
+    -76.076
+   ],
+   "aliases": [
+    "Frederick Augustus Washington Bailey"
+   ],
+   "origins": "Born enslaved in February 1818 in Talbot County on Maryland's Eastern Shore, the son of Harriet Bailey and an unnamed white man. His owner, Aaron Anthony, was clerk and chief overseer for Colonel Edward Lloyd V, and as a small child Douglass lived on Lloyd's home plantation, Wye House.",
+   "role_summary": "Sent to Baltimore at about eight, he learned to read in Hugh Auld's household and later worked in the Fells Point shipyards; returned to the Eastern Shore, he was hired out to the 'slave-breaker' Edward Covey and fought back. On 3 September 1838 he escaped by train and ferry dressed as a sailor, with help from Anna Murray, reaching New York in under a day, and became the most influential Black abolitionist, editor and orator of the century.",
+   "roleDetail": [
+    {
+     "t": "Childhood at Wye House.",
+     "d": "His Narrative describes the Lloyd estate's 'Great House Farm', the whipping of his aunt Hester and the hunger of enslaved children; scholars place him there c. 1824–1826.",
+     "basis": "documented"
+    },
+    {
+     "t": "Literacy in Baltimore.",
+     "d": "Sophia Auld began teaching him the alphabet until her husband forbade it; Douglass kept learning from street boys and bought The Columbian Orator at about twelve.",
+     "basis": "documented"
+    },
+    {
+     "t": "Escape and voice.",
+     "d": "After escaping in 1838 he settled in New Bedford, lectured for the Massachusetts Anti-Slavery Society, published his Narrative (1845) and founded The North Star (1847); British supporters bought his legal freedom in 1846.",
+     "basis": "documented"
+    },
+    {
+     "t": "Public office.",
+     "d": "He recruited Black soldiers in the Civil War, became US Marshal for DC (1877), Recorder of Deeds (1881) and US Minister to Haiti (1889–1891).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Cedar Hill, his Anacostia home, is the Frederick Douglass National Historic Site. Descendants, including Kenneth B. Morris Jr. (also a descendant of Booker T. Washington), run Frederick Douglass Family Initiatives against modern slavery. Bronze statues of Douglass and Harriet Tubman were installed in the Maryland State House's Old House of Delegates chamber in 2020.",
+   "legacyDetail": [
+    {
+     "t": "Descendants' organisation.",
+     "d": "Frederick Douglass Family Initiatives, founded 2007 in Rochester, NY, works on anti-trafficking education and its 'One Million Abolitionists' book project.",
+     "basis": "documented"
+    },
+    {
+     "t": "Return to Wye House.",
+     "d": "Douglass revisited the Eastern Shore in 1877–1881, meeting his former owner Thomas Auld and visiting Wye House; the Lloyd estate is still in the family and archaeology there has used his descriptions.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Frederick Douglass (Frederick Douglass NHS)",
+     "url": "https://www.nps.gov/frdo/learn/historyculture/frederickdouglass.htm"
+    },
+    {
+     "label": "Docsouth (UNC) — Narrative of the Life of Frederick Douglass (1845)",
+     "url": "https://docsouth.unc.edu/neh/douglass/menu.html"
+    },
+    {
+     "label": "Britannica — Frederick Douglass",
+     "url": "https://www.britannica.com/biography/Frederick-Douglass"
+    },
+    {
+     "label": "AAIHS — The Legacy of Frederick Douglass: an interview with Kenneth B. Morris Jr.",
+     "url": "https://www.aaihs.org/the-legacy-of-frederick-douglass-an-interview-with-kenneth-b-morris-jr/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "plantation",
+     "label": "enslaved as a child on Edward Lloyd V's estate"
+    },
+    {
+     "id": "wye-house",
+     "type": "plantation",
+     "label": "lived at Wye House c. 1824–1826"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "plantation",
+     "label": "enslaved in Fells Point; escaped 1838"
+    },
+    {
+     "id": "harriet-tubman",
+     "type": "political",
+     "label": "fellow Eastern Shore abolitionist; 1868 tribute letter"
+    },
+    {
+     "id": "henry-highland-garnet",
+     "type": "political",
+     "label": "debated Garnet's 1843 call to rebellion"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "sheltered freedom seekers in Rochester"
+    },
+    {
+     "id": "frederick-douglass-nhs",
+     "type": "legacy",
+     "label": "Cedar Hill home preserved by NPS"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "legacy",
+     "label": "native state abolished slavery 1864"
+    }
+   ]
+  },
+  {
+   "id": "harriet-tubman",
+   "name": "Harriet Tubman",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by Sarah Bradford's 1869/1886 biographies, Maryland court and estate records, Civil War pension files and modern biographies (Kate Clifford Larson, 2004); a National Historical Park bears her name.",
+   "start": 1822,
+   "end": 1913,
+   "lifespan": "c. 1822–1913",
+   "base": "Dorchester County, Maryland",
+   "geo": [
+    38.502,
+    -76.152
+   ],
+   "aliases": [
+    "Araminta 'Minty' Ross",
+    "Harriet Ross Tubman Davis",
+    "'Moses'"
+   ],
+   "origins": "Born Araminta Ross around 1822 in Dorchester County on Maryland's Eastern Shore, enslaved by the Brodess family; several of her sisters were sold away. As a teenager she suffered a severe head injury when an overseer threw a weight at another enslaved person.",
+   "role_summary": "Fearing sale after her owner's death, she escaped alone to Philadelphia in 1849, then returned repeatedly to the Eastern Shore to lead out family and others. In the Civil War she worked as a nurse, scout and spy for the Union and guided the Combahee River Raid in South Carolina on 2 June 1863, which freed about 750 people.",
+   "roleDetail": [
+    {
+     "t": "Underground Railroad conductor.",
+     "d": "Larson's archival research documents about 13 trips back to Maryland bringing out roughly 70 people, mostly family and friends, and instructions to some 50–60 others who escaped on their own; the older claim of '300 people in 19 trips' (Bradford) is an exaggeration.",
+     "basis": "documented"
+    },
+    {
+     "t": "Combahee River Raid.",
+     "d": "Per the NPS she was the only woman to lead an armed military operation in the war, guiding Union gunboats and Black troops up the Combahee; c. 750 people were freed.",
+     "basis": "documented"
+    },
+    {
+     "t": "Later life.",
+     "d": "She settled in Auburn, NY, fought for a war pension, supported women's suffrage and opened a home for elderly African Americans before dying in 1913.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Harriet Tubman Underground Railroad National Historical Park and the Maryland state park visitor centre interpret her Dorchester County landscape. A Tubman statue joined Douglass in the Maryland State House in 2020, and a Treasury redesign of the $20 note featuring her has been announced and delayed more than once.",
+   "legacyDetail": [
+    {
+     "t": "National parks in two states.",
+     "d": "A national monument was proclaimed in Maryland in 2013 and national historical parks were established in Maryland and Auburn, NY, in 2014.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Maryland: Harriet Tubman Underground Railroad National Historical Park",
+     "url": "https://www.nps.gov/articles/tubman.htm"
+    },
+    {
+     "label": "Maryland State Archives — Harriet Ross Tubman Davis (MSA SC 5496-13562)",
+     "url": "https://msa.maryland.gov/msa/speccol/sc5400/sc5496/013500/013562/013562.html"
+    },
+    {
+     "label": "National Archives — Harriet Tubman",
+     "url": "https://www.archives.gov/research/african-americans/individuals/harriet-tubman"
+    },
+    {
+     "label": "National Trust for Historic Preservation — Interview: Kate Clifford Larson on Harriet Tubman",
+     "url": "https://savingplaces.org/stories/interview-kate-clifford-larson-helping-put-harriet-tubman-on-the-map/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "best-known conductor"
+    },
+    {
+     "id": "harriet-tubman-ugrr-park",
+     "type": "legacy",
+     "label": "national historical park, Dorchester County"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "political",
+     "label": "fellow Maryland-born abolitionist"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "legacy",
+     "label": "Maryland abolished slavery during the war she fought in"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "political",
+     "label": "brought her niece's family out via Baltimore (1850)"
+    }
+   ]
+  },
+  {
+   "id": "josiah-henson",
+   "name": "Josiah Henson",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "His 1849 narrative (expanded 1858, 1876–81), Canadian records and the Riley farm site document his life; Harriet Beecher Stowe cited him as a source for Uncle Tom's Cabin.",
+   "start": 1789,
+   "end": 1883,
+   "lifespan": "1789–1883",
+   "base": "Isaac Riley farm, North Bethesda, Montgomery County, Maryland",
+   "geo": [
+    39.043,
+    -77.112
+   ],
+   "aliases": [
+    "'Uncle Tom'"
+   ],
+   "origins": "Born enslaved in 1789 in Charles County, Maryland; as a child he saw his family sold apart at an estate sale. He was bought by Isaac Riley and grew up on Riley's farm in Montgomery County, becoming its overseer and a Methodist preacher.",
+   "role_summary": "Sent by Riley to walk other enslaved people to Kentucky, he declined a chance to free them in Ohio, later saying he regretted it. After being cheated out of a purchase of his own freedom and taken to New Orleans to be sold — a sale averted only when his owner's nephew fell ill — he escaped with his wife and children in 1830, reaching Upper Canada on 28 October 1830 via the Underground Railroad.",
+   "roleDetail": [
+    {
+     "t": "Dawn Settlement.",
+     "d": "Near Dresden, Ontario, he helped found the Dawn community and the British-American Institute, a school for formerly enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "t": "Return trips.",
+     "d": "By his own account he went back into the US to help about 118 people escape.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "The 'Uncle Tom' link.",
+     "d": "Stowe's Key to Uncle Tom's Cabin (1853) named him as a model; the novel's passive character distorts Henson, who actively resisted.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Josiah Henson Museum and Park, on the surviving Riley farmhouse in North Bethesda, is run by Montgomery Parks and opened as a museum in 2021. In Dresden, Ontario, his home is the Josiah Henson Museum of African-Canadian History (formerly 'Uncle Tom's Cabin Historic Site').",
+   "legacyDetail": [
+    {
+     "t": "Maryland museum.",
+     "d": "Montgomery County parks bought the Riley/Bolten House in 2006; it is on the National Register of Historic Places.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Montgomery Parks — Josiah Henson Museum & Park",
+     "url": "https://www.montgomeryparks.org/parks-and-trails/josiah-henson-museum-park/"
+    },
+    {
+     "label": "Docsouth (UNC) — The Life of Josiah Henson (1849)",
+     "url": "https://docsouth.unc.edu/neh/henson49/menu.html"
+    },
+    {
+     "label": "Dictionary of Canadian Biography — Henson, Josiah",
+     "url": "https://www.biographi.ca/en/bio/henson_josiah_11E.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "escaped to Canada 1830; later guided others"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "parallel",
+     "label": "fellow Maryland narrative author"
+    },
+    {
+     "id": "maryland-slave-law-1664",
+     "type": "parallel",
+     "label": "enslaved under Maryland's lifelong-slavery regime"
+    }
+   ]
+  },
+  {
+   "id": "benjamin-banneker",
+   "name": "Benjamin Banneker",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his almanacs (1792–1797), his surviving journal, the 1791 Banneker–Jefferson correspondence and the federal district survey records.",
+   "start": 1731,
+   "end": 1806,
+   "lifespan": "1731–1806",
+   "base": "Ellicott's Lower Mills (Oella), Baltimore County, Maryland",
+   "geo": [
+    39.272,
+    -76.783
+   ],
+   "aliases": [],
+   "origins": "Born free in 1731 in Baltimore County to Mary Banneky, a free woman, and Robert, a formerly enslaved African; tradition holds his grandmother Molly Welsh was an English indentured servant who married an African man she had bought and freed. He farmed tobacco on the family's land and taught himself mathematics and astronomy.",
+   "role_summary": "He built a wooden striking clock as a young man and, with instruments lent by the Quaker Ellicott family, taught himself astronomy. In 1791 he assisted Andrew Ellicott on the survey of the new federal district, then published almanacs that abolitionists promoted as proof of Black intellectual equality.",
+   "roleDetail": [
+    {
+     "t": "Letter to Jefferson.",
+     "d": "On 19 August 1791 he sent Thomas Jefferson his almanac manuscript and a letter attacking the hypocrisy of slavery under the Declaration's principles; Jefferson replied on 30 August.",
+     "basis": "documented"
+    },
+    {
+     "t": "Federal district survey.",
+     "d": "He worked for about three months in 1791 on Ellicott's survey of the boundaries of the District of Columbia.",
+     "basis": "documented"
+    },
+    {
+     "t": "Almanacs.",
+     "d": "His almanacs were published from 1792 to 1797 in Baltimore and other cities, the 1793 edition reprinting the Jefferson exchange.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Benjamin Banneker Historical Park and Museum in Oella (Baltimore County) stands on his farm site with a replica cabin; most of his possessions were destroyed when his house burned on the day of his funeral in 1806. Schools, a DC park and a US postage stamp (1980) honour him.",
+   "legacyDetail": [
+    {
+     "t": "Myths to avoid.",
+     "d": "Popular claims that he redrew L'Enfant's plan of Washington from memory are not supported by evidence.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Founders Online — To Thomas Jefferson from Benjamin Banneker, 19 August 1791",
+     "url": "https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
+    },
+    {
+     "label": "Encyclopedia Virginia — Letter from Benjamin Banneker to Thomas Jefferson (1791)",
+     "url": "https://encyclopediavirginia.org/primary-documents/letter-from-benjamin-banneker-to-thomas-jefferson-august-19-1791/"
+    },
+    {
+     "label": "Britannica — Benjamin Banneker",
+     "url": "https://www.britannica.com/biography/Benjamin-Banneker"
+    }
+   ],
+   "connections": [
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "1791 letter challenging Jefferson on slavery"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "surveyed the federal district Washington selected (1791)"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "almanacs printed in Baltimore"
+    }
+   ]
+  },
+  {
+   "id": "georgetown-272",
+   "name": "The Georgetown 272 (GU272)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by the 1838 bill of sale and Jesuit records in the Georgetown Slavery Archive; the Georgetown Memory Project has identified 200+ of those sold and thousands of living descendants.",
+   "start": 1717,
+   "end": 1865,
+   "lifespan": "Enslaved on Maryland Jesuit plantations c. 1717–1838; in Louisiana 1838–1865",
+   "base": "Jesuit plantations of southern Maryland (White Marsh, St. Inigoes, Newtown, St. Thomas Manor)",
+   "geo": [
+    38.907,
+    -77.072
+   ],
+   "aliases": [
+    "GU272",
+    "Jesuit plantation community",
+    "Isaac Hawkins",
+    "Cornelius Hawkins"
+   ],
+   "origins": "The Maryland Province of the Society of Jesus held enslaved families for over a century on plantations in Prince George's, St. Mary's and Charles counties, whose income supported Jesuit institutions including Georgetown College. Many of the families had been Catholic for generations.",
+   "role_summary": "In 1838 Jesuit leaders Thomas Mulledy and William McSherry sold 272 men, women and children to Louisiana planters Henry Johnson and Jesse Batey for about $115,000, partly to pay Georgetown's debts. Families were shipped from Alexandria to New Orleans and forced to work sugar and cotton plantations in Ascension, Iberville and Terrebonne parishes; some escaped being sent.",
+   "roleDetail": [
+    {
+     "t": "Isaac Hawkins.",
+     "d": "Isaac Hawkins, 65, is the first person named in the 1838 articles of agreement; Georgetown renamed a building Isaac Hawkins Hall in 2017.",
+     "basis": "documented"
+    },
+    {
+     "t": "Cornelius 'Neely' Hawkins.",
+     "d": "Sold as a boy of about 13, he was taken to Maringouin, Louisiana, where his gravestone survives; his descendant, journalist Maxine Crump, learned of him through the Georgetown Memory Project in 2016.",
+     "basis": "documented"
+    },
+    {
+     "t": "Proceeds to the college.",
+     "d": "Georgetown's 2016 working group found that part of the proceeds paid off the college's debts; the sale was opposed by some Jesuits at the time.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Georgetown apologised in 2017, renamed two buildings, offers admissions preference to descendants and created a Reconciliation Fund after a 2019 student referendum. In 2021 the Jesuits pledged $100m toward the Descendants Truth & Reconciliation Foundation, with a $1bn goal. Descendants organise through the GU272 Descendants Association and research ancestry via the American Ancestors GU272 database.",
+   "legacyDetail": [
+    {
+     "t": "Descendant community.",
+     "d": "In Maringouin, Louisiana, many residents descend from those sold in 1838.",
+     "basis": "documented"
+    },
+    {
+     "t": "Genealogy tools.",
+     "d": "American Ancestors (NEHGS) and the Georgetown Memory Project maintain searchable GU272 family trees.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Georgetown University — Isaac Hawkins Hall renaming",
+     "url": "https://www.georgetown.edu/news/isaac-hawkins-hall"
+    },
+    {
+     "label": "Georgetown Slavery Archive — Descendants' Stories",
+     "url": "https://slaveryarchive.georgetown.edu/collections/show/5"
+    },
+    {
+     "label": "American Ancestors — How to Find Your GU272 Ancestor",
+     "url": "https://gu272.americanancestors.org/how-find-your-gu272-ancestor"
+    }
+   ],
+   "connections": [
+    {
+     "id": "georgetown-university",
+     "type": "plantation",
+     "label": "sold in 1838 to pay college debts"
+    },
+    {
+     "id": "descendants-truth-reconciliation-foundation",
+     "type": "legacy",
+     "label": "Jesuit $100m reparations pledge (2021)"
+    },
+    {
+     "id": "gu272-descendants-association",
+     "type": "legacy",
+     "label": "descendant organisation"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "shipped to New Orleans, 1838"
+    },
+    {
+     "id": "carroll-family",
+     "type": "parallel",
+     "label": "fellow Maryland Catholic slaveholders"
+    }
+   ]
+  },
+  {
+   "id": "daniel-coker",
+   "name": "Daniel Coker",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his 1810 Dialogue Between a Virginian and an African Minister, AME records and his published 1820 Journal of the voyage to Africa.",
+   "start": 1780,
+   "end": 1846,
+   "lifespan": "1780–1846",
+   "base": "Baltimore, Maryland",
+   "geo": [
+    39.29,
+    -76.612
+   ],
+   "aliases": [
+    "Isaac Wright"
+   ],
+   "origins": "Born Isaac Wright in Frederick County, Maryland, to an enslaved father and an English indentured mother; he escaped to New York, became a Methodist preacher, and returned to Baltimore under a new name, where his freedom was later purchased.",
+   "role_summary": "He taught at the African school of Baltimore's Sharp Street church and led Black Methodists out of white-controlled churches to form Bethel in Baltimore. At the 1816 Philadelphia convention founding the AME Church he was elected its first bishop but stepped aside for Richard Allen. In 1820 he sailed on the Elizabeth with the first American Colonization Society emigrants and stayed in Sierra Leone as a missionary and colonial administrator.",
+   "roleDetail": [
+    {
+     "t": "Anti-slavery pamphlet.",
+     "d": "His 1810 Dialogue Between a Virginian and an African Minister is one of the earliest anti-slavery pamphlets by an African American.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bishop who declined.",
+     "d": "Elected bishop at the 1816 AME convention, he declined or resigned the next day; reasons are disputed.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Sierra Leone.",
+     "d": "After the deadly Sherbro landing in 1820 he settled at Hastings near Freetown, where he died in 1846.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Bethel AME Church in Baltimore traces its founding to Coker's congregation. He is remembered in both AME and Sierra Leonean church history.",
+   "legacyDetail": [
+    {
+     "t": "Baltimore's Bethel AME.",
+     "d": "Bethel AME, now on Druid Hill Avenue, is one of the oldest Black congregations in Maryland.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historical Society of Pennsylvania — Daniel Coker, 1780–1846",
+     "url": "https://digitallibrary.hsp.org/Detail/entities/ENT.000004094"
+    },
+    {
+     "label": "EBSCO Research Starters — Daniel Coker",
+     "url": "https://www.ebsco.com/research-starters/history/daniel-coker/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ame-church",
+     "type": "ownership",
+     "label": "co-founder; first bishop-elect 1816"
+    },
+    {
+     "id": "richard-allen",
+     "type": "political",
+     "label": "allied in the 1816 AME founding"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "political",
+     "label": "led Baltimore's Black Methodists"
+    },
+    {
+     "id": "paul-cuffe",
+     "type": "parallel",
+     "label": "fellow promoter of emigration to Sierra Leone"
+    }
+   ]
+  },
+  {
+   "id": "henry-highland-garnet",
+   "name": "Henry Highland Garnet",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his speeches (the 1843 Address to the Slaves; the 1865 Memorial Discourse), James McCune Smith's 1865 biography and convention records.",
+   "start": 1815,
+   "end": 1882,
+   "lifespan": "1815–1882",
+   "base": "New Market (Chesterville), Kent County, Maryland",
+   "geo": [
+    39.27,
+    -75.93
+   ],
+   "aliases": [],
+   "origins": "Born enslaved in 1815 in Kent County on Maryland's Eastern Shore. In 1824 his family obtained permission to attend a funeral and instead escaped north, settling in New York City, where he attended the African Free School.",
+   "role_summary": "A Presbyterian minister, he called in 1843 at the National Negro Convention in Buffalo for enslaved people to resist their enslavers ('Let your motto be resistance!'), a speech Frederick Douglass and others then opposed as too radical. On 12 February 1865 he became the first African American to preach in the US Capitol, in the House chamber.",
+   "roleDetail": [
+    {
+     "t": "Address to the Slaves (1843).",
+     "d": "The convention narrowly declined to endorse the speech; it was published in 1848 with David Walker's Appeal.",
+     "basis": "documented"
+    },
+    {
+     "t": "Emigration and mission.",
+     "d": "He supported the African Civilization Society and was appointed US Minister to Liberia in 1881, dying there in 1882.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Garnet is commemorated in Kent County, Maryland, and his 1865 sermon was reissued in 2020 as 'Let the Monster Perish'. Schools in Maryland and New York bear his name.",
+   "legacyDetail": [
+    {
+     "t": "First in the Capitol.",
+     "d": "His House sermon came days after Congress passed the Thirteenth Amendment.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "BlackPast — Henry Highland Garnet (1815–1882)",
+     "url": "https://new.blackpast.org/aah/garnet-henry-highland-1815-1881"
+    },
+    {
+     "label": "Common Sense for the Eastern Shore — 'Let the Monster Perish!' Garnet's 1865 address",
+     "url": "https://commonsenseeasternshore.org/let-the-monster-perish-the-rev-henry-highland-garnets-1865-address-in-the-congressional-chapel"
+    },
+    {
+     "label": "Britannica — Henry Highland Garnet",
+     "url": "https://www.britannica.com/biography/Henry-Highland-Garnet"
+    }
+   ],
+   "connections": [
+    {
+     "id": "frederick-douglass",
+     "type": "political",
+     "label": "rival strategies at the 1843 convention"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "family escaped from Maryland 1824"
+    },
+    {
+     "id": "freedoms-journal",
+     "type": "parallel",
+     "label": "New York Black press and activist circle"
+    }
+   ]
+  },
+  {
+   "id": "hemings-family",
+   "name": "Hemings family (Elizabeth and Sally Hemings)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented in Jefferson's Farm Book and memoranda, Madison Hemings's 1873 recollections, the 1998 Y-DNA study and the Thomas Jefferson Foundation's 2000 report; Getting Word has interviewed 200+ Monticello descendants.",
+   "start": 1735,
+   "end": 1873,
+   "lifespan": "Elizabeth Hemings c. 1735–1807; Sally Hemings 1773–1835",
+   "base": "Monticello, Albemarle County, Virginia",
+   "geo": [
+    38.011,
+    -78.453
+   ],
+   "aliases": [
+    "Sally Hemings",
+    "Elizabeth (Betty) Hemings",
+    "James Hemings",
+    "Madison Hemings",
+    "Eston Hemings"
+   ],
+   "origins": "Elizabeth Hemings, the daughter of an African woman and an English sea captain, was enslaved by John Wayles, with whom she had six children including Sally; that made Sally the half-sister of Jefferson's wife Martha Wayles. The family came to Jefferson through the Wayles inheritance in 1774.",
+   "role_summary": "Sally Hemings accompanied Jefferson's daughter to Paris in 1787, where she could have claimed freedom; by Madison Hemings's account she returned in 1789 after Jefferson promised to free their children. She had at least six children, four of whom survived — Beverly, Harriet, Madison and Eston — all of whom left slavery: two allowed to leave in 1822, two freed by Jefferson's will in 1826. Her brother James, trained as a chef in Paris, negotiated his freedom in 1796.",
+   "roleDetail": [
+    {
+     "t": "Never legally freed.",
+     "d": "Sally Hemings was never formally emancipated; after 1826 Jefferson's daughter Martha Randolph gave her 'her time' and she lived with her sons in Charlottesville until 1835.",
+     "basis": "documented"
+    },
+    {
+     "t": "Paternity evidence.",
+     "d": "A 1998 DNA study linked Eston Hemings's male-line descendants to the Jefferson male line; the Foundation concluded in 2000 that Jefferson very likely fathered Eston and probably all six children.",
+     "basis": "documented"
+    },
+    {
+     "t": "Consent and power.",
+     "d": "She was about 14–16 when the relationship began; historians stress she was enslaved and could not freely consent.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Monticello opened 'The Life of Sally Hemings' exhibit in 2018 in a room tradition associates with her, and its Getting Word oral-history project (since 1993) records Hemings and other descendant families, some of whom attend Monticello reunions. Descendants of Madison and Eston carry family histories through up to eight generations.",
+   "legacyDetail": [
+    {
+     "t": "Getting Word.",
+     "d": "Most Getting Word interviewees trace descent to Elizabeth Hemings.",
+     "basis": "documented"
+    },
+    {
+     "t": "Changed interpretation.",
+     "d": "Monticello's signage and tours now state that Jefferson fathered Hemings's children.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Monticello — The Life of Sally Hemings",
+     "url": "https://www.monticello.org/sallyhemings/"
+    },
+    {
+     "label": "Monticello Getting Word — Sally Hemings",
+     "url": "https://gettingword.monticello.org/people/sally-hemings/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Sally Hemings (1773–1835)",
+     "url": "https://encyclopediavirginia.org/entries/hemings-sally-1773-1835/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "thomas-jefferson",
+     "type": "plantation",
+     "label": "enslaved by Jefferson; Sally bore his children"
+    },
+    {
+     "id": "monticello",
+     "type": "plantation",
+     "label": "lived and worked at Monticello"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "parallel",
+     "label": "Paris 1787–89, where slavery had no legal basis"
+    },
+    {
+     "id": "benjamin-banneker",
+     "type": "parallel",
+     "label": "Jefferson's contradictions on race, 1791"
+    }
+   ]
+  },
+  {
+   "id": "ona-judge",
+   "name": "Ona Judge",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by Washington's correspondence and runaway advertisements, plus her own interviews in the Granite Freeman (1845) and The Liberator (1847); Erica Armstrong Dunbar's Never Caught (2017).",
+   "start": 1773,
+   "end": 1796,
+   "lifespan": "c. 1773–1848",
+   "base": "Mount Vernon, Virginia; later Greenland, New Hampshire",
+   "geo": [
+    38.708,
+    -77.086
+   ],
+   "aliases": [
+    "Oney Judge",
+    "Ona Judge Staines"
+   ],
+   "origins": "Born at Mount Vernon around 1773 to Betty, an enslaved seamstress, and Andrew Judge, an English indentured tailor. As a 'dower' slave of the Custis estate she belonged to Martha Washington's first husband's heirs, not to Washington himself.",
+   "role_summary": "A personal attendant to Martha Washington at the President's House in Philadelphia, she fled on 21 May 1796 after learning she was to be given to Martha's granddaughter Eliza Custis. Free Black Philadelphians helped her board a ship to Portsmouth, New Hampshire; Washington twice tried to recover her through agents, but she refused to return and lived free, though legally a fugitive, until her death in 1848.",
+   "roleDetail": [
+    {
+     "t": "Rotation to evade Pennsylvania law.",
+     "d": "The Washingtons rotated enslaved household workers out of Pennsylvania to avoid its 1780 gradual abolition law's six-month residency rule.",
+     "basis": "documented"
+    },
+    {
+     "t": "Pursuit.",
+     "d": "Washington's agent Joseph Whipple met her in 1796 and his nephew Burwell Bassett tried again in 1799; Senator John Langdon reportedly warned her.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Her story is told at Mount Vernon and the President's House site in Philadelphia, and in Dunbar's Never Caught. She married sailor Jack Staines in 1797; her children predeceased her.",
+   "legacyDetail": [
+    {
+     "t": "Her own words.",
+     "d": "Her 1840s interviews are rare first-person testimony from someone enslaved by a US president.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Mount Vernon — Ona Judge",
+     "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/ona-judge"
+    },
+    {
+     "label": "House Divided (Dickinson College) — Ona Judge defies President George Washington",
+     "url": "https://housedivided.dickinson.edu/sites/ugrr/?p=2769"
+    },
+    {
+     "label": "BlackPast — Judge, Ona 'Oney' (1773–1848)",
+     "url": "https://www.blackpast.org/african-american-history/judge-ona-oney-1773-1848/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "plantation",
+     "label": "escaped from the Washington household, 1796"
+    },
+    {
+     "id": "custis-family",
+     "type": "plantation",
+     "label": "legally a Custis 'dower' slave"
+    },
+    {
+     "id": "mount-vernon",
+     "type": "plantation",
+     "label": "born at Mount Vernon"
+    },
+    {
+     "id": "william-lee",
+     "type": "parallel",
+     "label": "fellow member of Washington's enslaved household"
+    }
+   ]
+  },
+  {
+   "id": "william-lee",
+   "name": "William Lee",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by Washington's purchase records (1768), wartime accounts, John Trumbull's 1780 portrait and Washington's 1799 will.",
+   "start": 1768,
+   "end": 1799,
+   "lifespan": "c. 1750–1810 (death date uncertain)",
+   "base": "Mount Vernon, Virginia",
+   "geo": [
+    38.708,
+    -77.086
+   ],
+   "aliases": [
+    "Billy Lee"
+   ],
+   "origins": "Bought by George Washington in 1768, along with his brother Frank, from the estate of Mary Lee of Westmoreland County. He became Washington's personal valet and huntsman.",
+   "role_summary": "Lee was at Washington's side throughout the Revolutionary War, from Cambridge to Yorktown, and appears beside him in Trumbull's portrait. Knee injuries later disabled him; in his 1799 will Washington freed him immediately — the only person so freed — with a $30 annual annuity, citing his 'faithful services during the Revolutionary War'. He remained at Mount Vernon as a shoemaker.",
+   "roleDetail": [
+    {
+     "t": "Freed by will.",
+     "d": "The other people Washington held were to be freed after Martha's death; the 150+ 'dower' people of the Custis estate were not his to free.",
+     "basis": "documented"
+    },
+    {
+     "t": "Marriage request.",
+     "d": "Lee asked Washington in 1784 to bring his wife Margaret Thomas, a free Black woman from Philadelphia, to Mount Vernon.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Mount Vernon interprets his life in its slavery exhibitions and at the Slave Memorial and burial ground (memorial dedicated 1983).",
+   "legacyDetail": [
+    {
+     "t": "Uncertain death date.",
+     "d": "Sources give 1810, 1811 or 1828.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Mount Vernon — William (Billy) Lee",
+     "url": "https://www.mountvernon.org/digital-encyclopedia/article/william-billy-lee"
+    },
+    {
+     "label": "Mount Vernon — George Washington's Will",
+     "url": "https://mountvernon.org/george-washington/slavery/george-washingtons-will"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "plantation",
+     "label": "enslaved valet; freed by 1799 will"
+    },
+    {
+     "id": "mount-vernon",
+     "type": "plantation",
+     "label": "lived and died at Mount Vernon"
+    },
+    {
+     "id": "custis-family",
+     "type": "parallel",
+     "label": "Custis dower people excluded from Washington's will"
+    }
+   ]
+  },
+  {
+   "id": "nat-turner",
+   "name": "Nat Turner",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "The deadliest US slave revolt; documented by trial records, Thomas R. Gray's The Confessions of Nat Turner (1831) and Virginia legislative debates.",
+   "start": 1800,
+   "end": 1831,
+   "lifespan": "1800–1831",
+   "base": "Southampton County, Virginia",
+   "geo": [
+    36.716,
+    -77.068
+   ],
+   "aliases": [],
+   "origins": "Born enslaved in Southampton County in 1800, he learned to read, became a lay preacher known for visions, and was sold or passed between several local owners, separated from his wife.",
+   "role_summary": "On the night of 21–22 August 1831 he led a band that grew to some 60–70 people from farm to farm, killing about 55 white people, before militia defeated them near Jerusalem (now Courtland). Turner hid for two months; captured on 30 October, he was hanged on 11 November 1831. Trials condemned dozens; vigilantes and militia killed scores of Black people, many uninvolved.",
+   "roleDetail": [
+    {
+     "t": "Trials.",
+     "d": "Per Encyclopedia Virginia, 30 enslaved people and one free Black man were condemned; 19 were executed and others transported.",
+     "basis": "documented"
+    },
+    {
+     "t": "The Confessions.",
+     "d": "Gray's pamphlet is the main source for Turner's words; historians debate how much reflects Gray.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Backlash.",
+     "d": "Virginia debated gradual emancipation in 1831–32 and rejected it; it and other states then tightened laws on Black literacy, preaching and assembly.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Turner's Bible is displayed at the National Museum of African American History and Culture. His revolt remains contested in memory, from William Styron's 1967 novel to the 2016 film The Birth of a Nation.",
+   "legacyDetail": [
+    {
+     "t": "Southampton memory.",
+     "d": "A state historical marker in Southampton County notes the revolt; there is no monument to the rebels.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Nat Turner's Revolt (1831)",
+     "url": "https://encyclopediavirginia.org/entries/turners-revolt-nat-1831/"
+    },
+    {
+     "label": "Library of Virginia — 'To Be Hung by the Neck': Nat Turner",
+     "url": "https://www.lva.virginia.gov/exhibits/DeathLiberty/natturner/index.htm"
+    },
+    {
+     "label": "Britannica — Nat Turner",
+     "url": "https://www.britannica.com/biography/Nat-Turner"
+    }
+   ],
+   "connections": [
+    {
+     "id": "gabriel-prosser",
+     "type": "parallel",
+     "label": "Virginia revolt tradition"
+    },
+    {
+     "id": "denmark-vesey",
+     "type": "parallel",
+     "label": "1822 Charleston plot"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "parallel",
+     "label": "resistance by revolt vs flight"
+    }
+   ]
+  },
+  {
+   "id": "gabriel-prosser",
+   "name": "Gabriel (Gabriel's Conspiracy)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by Henrico County court records, Governor James Monroe's correspondence and trial testimony.",
+   "start": 1776,
+   "end": 1800,
+   "lifespan": "1776–1800",
+   "base": "Brookfield plantation, Henrico County (near Richmond), Virginia",
+   "geo": [
+    37.541,
+    -77.436
+   ],
+   "aliases": [
+    "Gabriel Prosser"
+   ],
+   "origins": "Born enslaved in 1776 on Thomas Prosser's Brookfield tobacco plantation outside Richmond; he became a literate, skilled blacksmith often hired out in the city. In 1799 he was branded for fighting a white man, escaping hanging only through 'benefit of clergy'.",
+   "role_summary": "In 1800 he organised enslaved and some free workers around Richmond to seize the capitol and armoury, take Governor Monroe hostage and demand freedom, invoking revolutionary ideals. A storm on 30 August delayed the rising and two enslaved men, Tom and Pharoah, betrayed it; Gabriel fled by schooner to Norfolk but was caught and hanged on 10 October 1800, one of 26 executed.",
+   "roleDetail": [
+    {
+     "t": "Contemporary ideals.",
+     "d": "Testimony suggests the rebels drew on the American and Haitian revolutions and sought allies among poor whites.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Pardon.",
+     "d": "In 2007 Governor Tim Kaine issued an informal pardon for Gabriel and those executed with him.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Richmond has a historical marker and Gabriel is commemorated on the Richmond Slave Trail; the 2007 pardon was symbolic.",
+   "legacyDetail": [
+    {
+     "t": "Virginia law tightened.",
+     "d": "The plot led Virginia in 1806 to require newly freed people to leave the state within a year.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Gabriel's Conspiracy (1800)",
+     "url": "https://encyclopediavirginia.org/entries/gabriels-conspiracy-1800/"
+    },
+    {
+     "label": "Library of Virginia — Gabriel's Conspiracy",
+     "url": "https://www.lva.virginia.gov/exhibits/DeathLiberty/gabriel/index.htm"
+    },
+    {
+     "label": "Founders Online — James T. Callender to Jefferson, 1800",
+     "url": "https://founders.archives.gov/documents/Jefferson/01-32-02-0090"
+    }
+   ],
+   "connections": [
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "reported to Jefferson during the 1800 election"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "political",
+     "label": "Haitian Revolution inspired and alarmed Virginians"
+    },
+    {
+     "id": "nat-turner",
+     "type": "parallel",
+     "label": "later Virginia revolt"
+    }
+   ]
+  },
+  {
+   "id": "angela-1619",
+   "name": "Angela and the Africans of 1619",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "Ndongo/Angola",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Known from John Rolfe's 1619 letter ('20. and odd Negroes'), the 1624/25 Virginia muster and Spanish/Portuguese shipping records; Angela appears only as a name in the muster.",
+   "start": 1619,
+   "end": 1625,
+   "lifespan": "Captured c. 1618–1619; Angela recorded at Jamestown 1625",
+   "base": "Point Comfort (Fort Monroe) and Jamestown, Virginia",
+   "geo": [
+    37.003,
+    -76.307
+   ],
+   "aliases": [
+    "Angelo",
+    "'20 and odd Negroes'"
+   ],
+   "origins": "They were Kimbundu-speaking people of the Kingdom of Ndongo, captured during Portuguese Angola's 1618–1620 wars (with Imbangala allies) against Ndongo and shipped from Luanda on the São João Bautista toward Veracruz.",
+   "role_summary": "English privateers White Lion and Treasurer attacked the Portuguese ship in the Gulf of Mexico and took about 60 captives. In late August 1619 the White Lion traded '20 and odd' of them at Point Comfort for food; days later the Treasurer arrived and left a few, including Angela, who by 1625 lived in the Jamestown household of Captain William Peirce.",
+   "roleDetail": [
+    {
+     "t": "Status contested.",
+     "d": "Whether the first Africans were treated as lifelong slaves or as servants who could become free varied; Virginia law made slavery hereditary only from 1662.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Christian names.",
+     "d": "Names like Angela and Antonio suggest some had been baptised in Angola by the Portuguese.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Jamestown archaeology.",
+     "d": "Jamestown Rediscovery has excavated the 'Angela Site' on the Peirce property.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Fort Monroe National Monument (2011) marks the landing; the 2019 commemoration of 400 years ('1619') was national, and an African Landing Memorial is being built at Fort Monroe.",
+   "legacyDetail": [
+    {
+     "t": "1619 as symbol.",
+     "d": "The date has become a focus of national debate, including the 2019 '1619 Project'; historians note Africans were in Spanish Florida earlier.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Arrival of the First Africans in 1619",
+     "url": "https://www.nps.gov/articles/000/arrival-of-the-first-africans-in-1619.htm"
+    },
+    {
+     "label": "Encyclopedia Virginia — Africans, Virginia's First",
+     "url": "https://encyclopediavirginia.org/entries/africans-virginias-first/"
+    },
+    {
+     "label": "Fort Monroe Authority — 1619 African Landing Memorial",
+     "url": "https://fortmonroe.org/place_to_visit/1619-african-landing-memorial/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "queen-nzinga",
+     "type": "political",
+     "label": "captured in the wars against Ndongo"
+    },
+    {
+     "id": "port-luanda",
+     "type": "voyage",
+     "label": "shipped from Luanda on the São João Bautista"
+    },
+    {
+     "id": "imbangala-kasanje",
+     "type": "trade",
+     "label": "Imbangala allies of the Portuguese took captives"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "Portuguese Angola's war and trade"
+    },
+    {
+     "id": "fort-monroe-1619-landing",
+     "type": "legacy",
+     "label": "landing site memorial"
+    },
+    {
+     "id": "anthony-johnson",
+     "type": "parallel",
+     "label": "contemporaneous early African in Virginia"
+    }
+   ]
+  },
+  {
+   "id": "anthony-johnson",
+   "name": "Anthony Johnson",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented in Virginia muster and Northampton County court records, including the 1655 Johnson v. Casor ruling; often cited, sometimes misleadingly, as 'the first slaveowner'.",
+   "start": 1621,
+   "end": 1670,
+   "lifespan": "c. 1600–1670",
+   "base": "Pungoteague Creek, Northampton County, Virginia; later Somerset County, Maryland",
+   "geo": [
+    37.632,
+    -75.811
+   ],
+   "aliases": [
+    "Antonio a Negro"
+   ],
+   "origins": "Brought to Virginia in 1621 as 'Antonio a Negro', probably originally from Angola, he worked on the Bennett plantation, survived the 1622 Powhatan attack, married a woman named Mary, and by about the 1640s had gained his freedom.",
+   "role_summary": "By 1651 he held about 250 acres on the Eastern Shore, partly through headrights. In 1653–1655 John Casor, a Black man in his service, claimed his indenture had expired; the Northampton court ruled in March 1655 that Casor belonged to Johnson for life. The Johnsons moved to Somerset County, Maryland, in the 1660s, where he died about 1670.",
+   "roleDetail": [
+    {
+     "t": "The Casor case in context.",
+     "d": "Johnson v. Casor (1655) is often described as the first civil case in the English colonies to hold a person who had committed no crime in lifelong servitude (John Punch had been sentenced to life servitude as a punishment in 1640). It was not the legal origin of slavery in Virginia, and white planters held far more people.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Land lost after death.",
+     "d": "In 1670 a Virginia jury ruled his land could escheat because he was 'a Negroe and by consequence an alien'.",
+     "basis": "documented"
+    },
+    {
+     "t": "'Angola' farm.",
+     "d": "His grandson John Johnson named his Maryland farm 'Angola'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His story shows that free Black property-holding was possible in early Virginia before laws hardened race-based slavery. It is frequently misused online to downplay white slaveholding; mainstream historians treat it as an exception within a closing window.",
+   "legacyDetail": [
+    {
+     "t": "Misuse.",
+     "d": "Claims that Johnson was 'the first slaveowner in America' are wrong: Africans were enslaved in Spanish and Portuguese America a century earlier, and in Virginia people were held in lifelong bondage before 1655; laws made slavery hereditary and racial from 1662.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Facing History & Ourselves — Anthony Johnson: A Man in Control of His Own Life",
+     "url": "https://www.facinghistory.org/reconstruction-era/anthony-johnson-man-control-his-own"
+    },
+    {
+     "label": "Encyclopedia Virginia — Africans, Virginia's First",
+     "url": "https://encyclopediavirginia.org/entries/africans-virginias-first/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "maryland-slave-law-1664",
+     "type": "parallel",
+     "label": "moved to Maryland as lifelong slavery became law"
+    },
+    {
+     "id": "angela-1619",
+     "type": "parallel",
+     "label": "early African arrival in Virginia"
+    },
+    {
+     "id": "port-luanda",
+     "type": "voyage",
+     "label": "probable Angolan origin"
+    }
+   ]
+  },
+  {
+   "id": "denmark-vesey",
+   "name": "Denmark Vesey",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Known from the 1822 Charleston court proceedings and official accounts; historian Michael P. Johnson (2001) argued the plot was largely constructed by the court, a view other historians dispute.",
+   "start": 1781,
+   "end": 1822,
+   "lifespan": "c. 1767–1822",
+   "base": "Charleston, South Carolina",
+   "geo": [
+    32.776,
+    -79.931
+   ],
+   "aliases": [
+    "Telemaque"
+   ],
+   "origins": "Enslaved as a boy in the Caribbean (probably St Thomas), he was bought by Charleston slave-ship captain Joseph Vesey. In 1799 he won a city lottery prize and in 1800 bought his freedom, working as a carpenter.",
+   "role_summary": "A leader in Charleston's African Methodist congregation (forerunner of Mother Emanuel AME), he was accused in 1822 of planning a rising of enslaved people to seize the city and possibly sail for Haiti. Betrayed before it began, he and dozens of others were tried by a special court; 35 were hanged, including Vesey, and dozens more deported.",
+   "roleDetail": [
+    {
+     "t": "Plot or panic?",
+     "d": "Michael P. Johnson (William and Mary Quarterly, 2001) argued that frightened officials and the court largely constructed the conspiracy from coerced testimony; Douglas Egerton, Robert Paquette and others reply that a real plan existed. The scale of the plot remains debated.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Church destroyed.",
+     "d": "Authorities closed the African church, which was destroyed; the congregation met in secret until 1865.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "A Vesey monument was unveiled in Charleston's Hampton Park in 2014. Mother Emanuel AME, which traces its roots to his congregation, was the site of the 2015 racist massacre of nine worshippers.",
+   "legacyDetail": [
+    {
+     "t": "Charleston's memory.",
+     "d": "The International African American Museum (2023) interprets Charleston's slavery history, including Vesey.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Denmark Vesey",
+     "url": "https://www.nps.gov/people/denmark-vesey.htm"
+    },
+    {
+     "label": "NPS — Mother Emanuel AME Church",
+     "url": "https://www.nps.gov/places/south-carolina-mother-emanuel-ame-church.htm"
+    },
+    {
+     "label": "Britannica — Denmark Vesey",
+     "url": "https://www.britannica.com/biography/Denmark-Vesey"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-charleston",
+     "type": "plantation",
+     "label": "enslaved and free in Charleston"
+    },
+    {
+     "id": "ame-church",
+     "type": "ownership",
+     "label": "leader of Charleston's AME congregation"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "political",
+     "label": "reportedly hoped for refuge in Haiti"
+    },
+    {
+     "id": "international-african-american-museum",
+     "type": "legacy",
+     "label": "interpreted in Charleston museum"
+    },
+    {
+     "id": "nat-turner",
+     "type": "parallel",
+     "label": "later revolt"
+    }
+   ]
+  },
+  {
+   "id": "william-ellison",
+   "name": "William Ellison",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per Johnson & Roark's Black Masters (1984) and the South Carolina Encyclopedia, he held 63 enslaved people in 1860, the most of any free Black person in South Carolina.",
+   "start": 1816,
+   "end": 1861,
+   "lifespan": "c. 1790–1861",
+   "base": "Stateburg, Sumter District, South Carolina",
+   "geo": [
+    33.958,
+    -80.528
+   ],
+   "aliases": [
+    "April Ellison"
+   ],
+   "origins": "Born enslaved as April around 1790 in South Carolina, possibly the son of his owner, he was apprenticed to cotton-gin maker William McCreight. He bought his own freedom in 1816 and changed his name to William.",
+   "role_summary": "Ellison built a successful cotton-gin business at Stateburg, then bought land and enslaved people, becoming a cotton planter with about 900 acres and 63 enslaved people by 1860. He bought freedom for his wife and children but not for others he held; at the start of the Civil War his family supported the Confederacy.",
+   "roleDetail": [
+    {
+     "t": "Rare but real.",
+     "d": "Black slaveholders were few; many held only family members to protect them, but Ellison held people for profit like his white neighbours.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Holy Cross pew.",
+     "d": "The family held a pew on the main floor of Stateburg's Holy Cross Episcopal Church, a marker of status.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His story, reconstructed from family letters found in his house, is studied as an example of how free people of colour navigated a slave society. It is sometimes misused to minimise slavery; historians stress how exceptional he was.",
+   "legacyDetail": [
+    {
+     "t": "Black Masters.",
+     "d": "Michael P. Johnson and James L. Roark's Black Masters (1984) is the main study, based on the Ellison family papers.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "South Carolina Encyclopedia — Ellison, William",
+     "url": "https://www.scencyclopedia.org/sce/entries/ellison-william/"
+    },
+    {
+     "label": "South Carolina Public Radio — E is for Ellison, William (ca. 1790–1861)",
+     "url": "https://www.southcarolinapublicradio.org/show/south-carolina-from-a-to-z/2023-05-18/e-is-for-ellison-william-ca-1790-1861"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "South Carolina cotton economy"
+    },
+    {
+     "id": "anthony-johnson",
+     "type": "parallel",
+     "label": "free Black slaveholder in an earlier era"
+    },
+    {
+     "id": "hampton-family",
+     "type": "parallel",
+     "label": "fellow South Carolina cotton planters"
+    }
+   ]
+  },
+  {
+   "id": "paul-cuffe",
+   "name": "Paul Cuffe",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his ships' papers, letters, the 1780 Dartmouth tax petition and the 1815 Traveller manifest (National Archives).",
+   "start": 1759,
+   "end": 1817,
+   "lifespan": "1759–1817",
+   "base": "Westport, Massachusetts",
+   "geo": [
+    41.58,
+    -71.083
+   ],
+   "aliases": [],
+   "origins": "Born free on Cuttyhunk Island in 1759 to Kofi (Cuffe Slocum), an Akan man from West Africa who had been enslaved and freed, and Ruth Moses, a Wampanoag woman. He went to sea as a teenager.",
+   "role_summary": "In 1780 he and his brother petitioned Massachusetts against taxation of Black men who could not vote. He built a fleet and a fortune in coastal and Atlantic trade with largely Black and Native crews. Hoping to link African Americans with Sierra Leone, he sailed there in 1811 and in 1815 carried 38 Black emigrants on his brig Traveller, largely at his own expense.",
+   "roleDetail": [
+    {
+     "t": "Met President Madison.",
+     "d": "When customs seized the Traveller in 1812, he went to Washington and Madison ordered it released.",
+     "basis": "documented"
+    },
+    {
+     "t": "Quaker and businessman.",
+     "d": "A Quaker, he built a racially integrated school in Westport.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He is commemorated in Westport, Massachusetts, by the Paul Cuffe Heritage project and a memorial at the Westport Friends Meeting House, where he is buried.",
+   "legacyDetail": [
+    {
+     "t": "Emigration debates.",
+     "d": "His Sierra Leone scheme preceded the American Colonization Society, which many Black Americans later opposed.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Paul Cuffe Heritage — paulcuffe.org",
+     "url": "https://www.paulcuffe.org/"
+    },
+    {
+     "label": "Encyclopedia.com — Cuffe, Paul",
+     "url": "https://www.encyclopedia.com/history/historians-and-chronicles/historians-miscellaneous-biographies/paul-cuffe"
+    }
+   ],
+   "connections": [
+    {
+     "id": "james-forten",
+     "type": "political",
+     "label": "allies on Sierra Leone emigration"
+    },
+    {
+     "id": "daniel-coker",
+     "type": "parallel",
+     "label": "fellow emigrationist"
+    },
+    {
+     "id": "asante-empire",
+     "type": "family",
+     "label": "father Kofi was Akan-born (tradition)"
+    }
+   ]
+  },
+  {
+   "id": "james-forten",
+   "name": "James Forten",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his business records, the 1813 Letters from a Man of Colour, convention minutes and Julie Winch's biography A Gentleman of Color (2002).",
+   "start": 1766,
+   "end": 1842,
+   "lifespan": "1766–1842",
+   "base": "Philadelphia, Pennsylvania",
+   "geo": [
+    39.952,
+    -75.165
+   ],
+   "aliases": [],
+   "origins": "Born free in Philadelphia in 1766, he attended Anthony Benezet's Quaker school. At about 14 he served as a powder boy on the privateer Royal Louis and spent months on the British prison ship Jersey.",
+   "role_summary": "He took over sailmaker Robert Bridges's loft in 1798 and became one of the wealthiest Black Americans, employing Black and white workers. He fought Pennsylvania laws to restrict Black migration, led opposition to the American Colonization Society from 1817 and largely financed William Lloyd Garrison's The Liberator in 1831.",
+   "roleDetail": [
+    {
+     "t": "Letters from a Man of Colour (1813).",
+     "d": "His pamphlet attacked a proposed Pennsylvania bill to register Black residents.",
+     "basis": "documented"
+    },
+    {
+     "t": "Petition to Congress.",
+     "d": "He signed the 1799–1800 petition from Philadelphia's free Black community against the slave trade and the Fugitive Slave Act.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His granddaughter Charlotte Forten Grimké taught freedpeople during the Civil War; the 'Founding Black family' was the subject of a 2023 Museum of the American Revolution exhibition.",
+   "legacyDetail": [
+    {
+     "t": "Philadelphia family.",
+     "d": "His daughters Margaretta, Sarah and Harriet were founders of the Philadelphia Female Anti-Slavery Society.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia.com — Forten, James",
+     "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/forten-james"
+    },
+    {
+     "label": "Britannica — James Forten",
+     "url": "https://www.britannica.com/biography/James-Forten"
+    }
+   ],
+   "connections": [
+    {
+     "id": "richard-allen",
+     "type": "political",
+     "label": "anti-colonization meeting at Bethel, 1817"
+    },
+    {
+     "id": "free-african-society",
+     "type": "political",
+     "label": "Philadelphia free Black leadership"
+    },
+    {
+     "id": "paul-cuffe",
+     "type": "political",
+     "label": "Sierra Leone correspondence"
+    },
+    {
+     "id": "freedoms-journal",
+     "type": "finance",
+     "label": "supported the Black press"
+    }
+   ]
+  },
+  {
+   "id": "richard-allen",
+   "name": "Richard Allen",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his autobiography (1833), Mother Bethel records, the 1794 yellow fever narrative and AME founding minutes.",
+   "start": 1760,
+   "end": 1831,
+   "lifespan": "1760–1831",
+   "base": "Philadelphia, Pennsylvania",
+   "geo": [
+    39.943,
+    -75.152
+   ],
+   "aliases": [],
+   "origins": "Born enslaved in 1760 in the Philadelphia household of Benjamin Chew and sold with his family to Stokley Sturgis in Delaware. Converted by Methodists, he bought his freedom around 1780.",
+   "role_summary": "With Absalom Jones he founded the Free African Society in 1787 and led Black worshippers out of St. George's Methodist Church after segregation. He opened Bethel church in 1794 on land he bought, which became Mother Bethel, and in 1816 led independent Black Methodist congregations to form the African Methodist Episcopal Church, serving as its first bishop.",
+   "roleDetail": [
+    {
+     "t": "1793 yellow fever.",
+     "d": "Allen and Jones organised Black nurses and gravediggers during the epidemic and published a 1794 rebuttal to accusations of profiteering.",
+     "basis": "documented"
+    },
+    {
+     "t": "Underground Railroad station.",
+     "d": "Mother Bethel sheltered freedom seekers; Allen also opposed the American Colonization Society.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Mother Bethel AME is described as the oldest property continuously owned by African Americans in the US; Allen's tomb is in its basement museum. The AME Church is now a global denomination with members on several continents.",
+   "legacyDetail": [
+    {
+     "t": "Walkout date debated.",
+     "d": "The St. George's walkout is traditionally dated 1787 but some historians place it in 1792–93.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Mother Bethel AME Church",
+     "url": "https://www.motherbethel.org/"
+    },
+    {
+     "label": "NPS — Preamble and Articles of Association of the Free African Society",
+     "url": "https://www.nps.gov/articles/000/inde-preamble-and-articles-of-association-for-the-free-african-society.htm"
+    },
+    {
+     "label": "Britannica — Richard Allen",
+     "url": "https://www.britannica.com/biography/Richard-Allen"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ame-church",
+     "type": "ownership",
+     "label": "founder and first bishop (1816)"
+    },
+    {
+     "id": "free-african-society",
+     "type": "ownership",
+     "label": "co-founder, 1787"
+    },
+    {
+     "id": "daniel-coker",
+     "type": "political",
+     "label": "1816 AME convention"
+    },
+    {
+     "id": "james-forten",
+     "type": "political",
+     "label": "Philadelphia anti-colonization leaders"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "Mother Bethel sheltered fugitives"
+    }
+   ]
+  },
+  {
+   "id": "prince-hall",
+   "name": "Prince Hall",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his 1770 manumission, the 1777 petition (Massachusetts Archives) and African Lodge records; early life details are uncertain.",
+   "start": 1770,
+   "end": 1807,
+   "lifespan": "c. 1735–1807",
+   "base": "Boston, Massachusetts",
+   "geo": [
+    42.36,
+    -71.058
+   ],
+   "aliases": [],
+   "origins": "Enslaved in Boston by William Hall, a leather-dresser, he was freed in 1770. He worked as a leather worker and caterer.",
+   "role_summary": "In 1775 he and 14 other free Black men were initiated into a British army Masonic lodge and formed African Lodge No. 1, later chartered by the Grand Lodge of England (warrant 1784, received 1787). In January 1777 he and seven others petitioned the Massachusetts legislature to abolish slavery, and in 1788 he protested the kidnapping of Black Bostonians into slavery.",
+   "roleDetail": [
+    {
+     "t": "Revolutionary-era petitions.",
+     "d": "His petitions used the language of natural rights against slavery and for Black schooling.",
+     "basis": "documented"
+    },
+    {
+     "t": "Revolutionary War service.",
+     "d": "Several men named Prince Hall appear in records; whether he served is uncertain.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Prince Hall Freemasonry, with grand lodges across the US and abroad, is one of the oldest Black fraternal organisations. He is buried at Copp's Hill, Boston.",
+   "legacyDetail": [
+    {
+     "t": "Living institution.",
+     "d": "Prince Hall grand lodges remain active civic organisations.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "National Constitution Center — Prince Hall petition to the Massachusetts Legislature (1777)",
+     "url": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/prince-hall-petition-to-the-massachusetts-legislature"
+    },
+    {
+     "label": "Encyclopedia.com — Hall, Prince",
+     "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/hall-prince-2"
+    }
+   ],
+   "connections": [
+    {
+     "id": "elizabeth-freeman",
+     "type": "parallel",
+     "label": "Massachusetts freedom struggle"
+    },
+    {
+     "id": "royall-family",
+     "type": "parallel",
+     "label": "Boston-area slaveholders petitioned against"
+    },
+    {
+     "id": "faneuil-hall",
+     "type": "parallel",
+     "label": "Boston's slave-trade-linked civic hall"
+    }
+   ]
+  },
+  {
+   "id": "elizabeth-freeman",
+   "name": "Elizabeth Freeman (Mum Bett)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by Berkshire County court records of Brom and Bett v. Ashley (1781) and accounts by Catharine Sedgwick.",
+   "start": 1742,
+   "end": 1781,
+   "lifespan": "c. 1742–1829",
+   "base": "Sheffield, Berkshire County, Massachusetts",
+   "geo": [
+    42.11,
+    -73.355
+   ],
+   "aliases": [
+    "Mum Bett",
+    "Mumbet"
+   ],
+   "origins": "Born enslaved around 1742–44 in New York, she was held by Colonel John Ashley in Sheffield, Massachusetts. Tradition says she was struck with a hot shovel by Ashley's wife.",
+   "role_summary": "After hearing the new Massachusetts constitution of 1780 declare all men 'born free and equal', she sought out lawyer Theodore Sedgwick. In Brom and Bett v. Ashley the county court on 22 August 1781 ruled them free and awarded 30 shillings damages. She took the name Elizabeth Freeman and worked as a paid servant and well-known midwife.",
+   "roleDetail": [
+    {
+     "t": "Test case.",
+     "d": "With Quock Walker's cases (1781–83), her suit helped end slavery in Massachusetts by judicial interpretation.",
+     "basis": "documented"
+    },
+    {
+     "t": "Co-plaintiff.",
+     "d": "A man named Brom, also enslaved by Ashley, joined the suit, perhaps because a woman's standing was weaker.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "She is buried in the Sedgwick family plot in Stockbridge; a statue was unveiled in Sheffield in 2022. Her story is taught as a founding moment of Massachusetts abolition.",
+   "legacyDetail": [
+    {
+     "t": "Portrait.",
+     "d": "A 1811 watercolour miniature by Susan Sedgwick is at the Massachusetts Historical Society.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Mass Moments — Jury Decides in Favor of Elizabeth 'Mum Bett' Freeman",
+     "url": "https://www.massmoments.org/moment-details/jury-decides-in-favor-of-elizabeth-mum-bett-freeman.html"
+    },
+    {
+     "label": "Massachusetts Women's History — Elizabeth Freeman (Mum Bett)",
+     "url": "https://mawomenshistory.org/resources/biographies/elizabeth-freeman-mum-bett-c1744-1828"
+    }
+   ],
+   "connections": [
+    {
+     "id": "prince-hall",
+     "type": "parallel",
+     "label": "Massachusetts anti-slavery petitions"
+    },
+    {
+     "id": "royall-family",
+     "type": "parallel",
+     "label": "Massachusetts slaveholding context"
+    }
+   ]
+  },
+  {
+   "id": "solomon-northup",
+   "name": "Solomon Northup",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented by his 1853 narrative Twelve Years a Slave (verified by Sue Eakin's research), New York and DC court records of the kidnapping case.",
+   "start": 1841,
+   "end": 1853,
+   "lifespan": "1807/08–after 1857",
+   "base": "Saratoga Springs, New York (enslaved at Bayou Boeuf, Louisiana)",
+   "geo": [
+    43.083,
+    -73.785
+   ],
+   "aliases": [
+    "'Platt'"
+   ],
+   "origins": "Born free in Minerva, New York, the son of a formerly enslaved man, he was a farmer, carpenter and violinist living with his wife and three children in Saratoga Springs.",
+   "role_summary": "In 1841 two men lured him to Washington with offers of work, drugged him and sold him to slave trader James H. Birch, who held him in the Williams slave pen within sight of the Capitol. Shipped via Richmond to New Orleans and sold as 'Platt', he was enslaved for twelve years in Louisiana's Red River region, ten of them under the brutal Edwin Epps, until a Canadian carpenter carried letters north and New York's governor sent an agent who freed him on 3 January 1853.",
+   "roleDetail": [
+    {
+     "t": "No justice.",
+     "d": "Birch was tried in Washington in 1853 but acquitted; Black testimony was barred.",
+     "basis": "documented"
+    },
+    {
+     "t": "Domestic slave trade.",
+     "d": "His sale shows the interstate trade from the Chesapeake to the Deep South at work.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Twelve Years a Slave sold about 30,000 copies in its first years and became an Oscar-winning film in 2013. Saratoga Springs holds an annual Solomon Northup Day; his date and place of death are unknown.",
+   "legacyDetail": [
+    {
+     "t": "Annotated edition.",
+     "d": "Sue Eakin and Joseph Logsdon's 1968 annotated edition confirmed many details from Louisiana records.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Docsouth (UNC) — Twelve Years a Slave (1853)",
+     "url": "https://docsouth.unc.edu/fpn/northup/menu.html"
+    },
+    {
+     "label": "Learning for Justice — The Kidnapping Case (1853)",
+     "url": "https://archive.learningforjustice.org/classroom-resources/texts/hard-history/the-kidnapping-case-solomon-northrup"
+    },
+    {
+     "label": "Britannica — Solomon Northup",
+     "url": "https://www.britannica.com/biography/Solomon-Northup"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "sold in New Orleans, 1841"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "parallel",
+     "label": "same Chesapeake-to-Louisiana trade"
+    },
+    {
+     "id": "georgetown-272",
+     "type": "parallel",
+     "label": "shipped south like the 1838 Jesuit sale"
+    },
+    {
+     "id": "freedom-house-alexandria",
+     "type": "parallel",
+     "label": "DC-area slave-trading pens"
+    }
+   ]
+  },
+  {
+   "id": "toussaint-louverture",
+   "name": "Toussaint Louverture",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Caribbean",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Defining figure of the Haitian Revolution, documented by his letters, proclamations, the 1801 constitution and French colonial archives.",
+   "start": 1791,
+   "end": 1803,
+   "lifespan": "c. 1743–1803",
+   "base": "Bréda plantation, Haut-du-Cap, Saint-Domingue",
+   "geo": [
+    19.759,
+    -72.2
+   ],
+   "aliases": [
+    "François-Dominique Toussaint Bréda"
+   ],
+   "origins": "Born enslaved around 1743 on the Bréda plantation near Cap-Français, he became a coachman and livestock steward and was freed by about 1776. Archival work shows that, as a free man, he leased a small coffee plantation worked by enslaved people.",
+   "role_summary": "After the 1791 uprising in the northern plain he rose as a commander, first allied with Spain, then from 1794 with the French Republic after it abolished slavery. He defeated British and Spanish forces and rivals, and his 1801 constitution made him governor-general for life. Napoleon sent an expedition to restore control; Toussaint was seized during a parley in June 1802 and died imprisoned at Fort de Joux on 7 April 1803.",
+   "roleDetail": [
+    {
+     "t": "Forced labour regime.",
+     "d": "He kept plantation production going with compulsory labour for the formerly enslaved, a contested legacy.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Revolution completed by others.",
+     "d": "Jean-Jacques Dessalines declared Haitian independence on 1 January 1804.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Haiti became the first state founded by formerly enslaved people, then paid France a crippling indemnity from 1825. Toussaint is honoured in Haiti, France (a plaque in the Panthéon, 1998) and across the Black Atlantic.",
+   "legacyDetail": [
+    {
+     "t": "Global symbol.",
+     "d": "Abolitionists and later anti-colonial writers, notably C. L. R. James (The Black Jacobins, 1938), made him an emblem of liberation.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Toussaint Louverture",
+     "url": "https://www.britannica.com/biography/Toussaint-Louverture"
+    },
+    {
+     "label": "History Hit — 10 Facts About Toussaint Louverture",
+     "url": "https://www.historyhit.com/facts-about-toussaint-louverture/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "saint-domingue",
+     "type": "plantation",
+     "label": "born enslaved on the Bréda plantation"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "political",
+     "label": "fought for, then against, France"
+    },
+    {
+     "id": "code-noir",
+     "type": "political",
+     "label": "overthrew the Code Noir regime"
+    },
+    {
+     "id": "haiti-independence-debt",
+     "type": "legacy",
+     "label": "independent Haiti later forced to pay France"
+    },
+    {
+     "id": "gabriel-prosser",
+     "type": "political",
+     "label": "revolution inspired US rebels"
+    },
+    {
+     "id": "denmark-vesey",
+     "type": "political",
+     "label": "Haiti as refuge in Vesey's plot"
+    }
+   ]
+  },
+  {
+   "id": "nanny-of-the-maroons",
+   "name": "Nanny of the Maroons",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Caribbean",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Few documents (British military reports, a 1740 land patent) survive; most of her story comes from Maroon oral tradition, so scale reflects impact more than records.",
+   "start": 1720,
+   "end": 1740,
+   "lifespan": "c. 1686–c. 1755 (uncertain)",
+   "base": "Nanny Town / Moore Town, Blue Mountains, Jamaica",
+   "geo": [
+    18.077,
+    -76.427
+   ],
+   "aliases": [
+    "Queen Nanny",
+    "Grandy Nanny"
+   ],
+   "origins": "Oral tradition holds she was an Akan (often said Asante) woman, born in West Africa and brought to Jamaica enslaved, who escaped to the Blue Mountains.",
+   "role_summary": "She led the Windward Maroons, who fought British forces for years during the First Maroon War from mountain strongholds including Nanny Town, which the British attacked in the 1730s. The Windward Maroons made peace in 1739–40 (Quao's treaty is variously dated June 1739 or April 1740), and a 1740 patent granted Nanny and her people 500 acres, where Moore Town stands.",
+   "roleDetail": [
+    {
+     "t": "Spiritual and military leader.",
+     "d": "Oral history credits her with obeah power and guerrilla tactics.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Treaty terms.",
+     "d": "The treaties guaranteed Maroon freedom and land but required Maroons to return future runaways.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Jamaica designated her a National Hero in 1975 (the Order was conferred in 1976), the only woman so honoured; she appears on the $500 banknote. Moore Town's Maroon heritage is recognised by UNESCO as Intangible Cultural Heritage (2008) and the Blue and John Crow Mountains are a World Heritage Site (2015).",
+   "legacyDetail": [
+    {
+     "t": "Maroon communities today.",
+     "d": "Moore Town Maroons maintain their own leadership and traditions.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Royal Museums Greenwich — Nanny of the Maroons",
+     "url": "https://www.rmg.co.uk/stories/maritime-history/nanny-maroons"
+    },
+    {
+     "label": "Understanding Slavery Initiative — Nanny and the Maroons",
+     "url": "https://understandingslavery.com/casestudy/nanny-and-the-maroons/"
+    },
+    {
+     "label": "Jamaica Gleaner — Nanny was real, not myth: Gov’t conferred Order of National Hero on Nanny in 1976",
+     "url": "https://jamaica-gleaner.com/article/lead-stories/20181012/nanny-was-real-not-myth-govt-conferred-order-national-hero-nanny-1976"
+    }
+   ],
+   "connections": [
+    {
+     "id": "asante-empire",
+     "type": "family",
+     "label": "Akan/Asante origin in oral tradition"
+    },
+    {
+     "id": "beckford-family",
+     "type": "parallel",
+     "label": "Jamaica's planter class she fought"
+    },
+    {
+     "id": "zumbi-dos-palmares",
+     "type": "parallel",
+     "label": "maroon resistance"
+    },
+    {
+     "id": "caricom-reparations-commission",
+     "type": "legacy",
+     "label": "Caribbean reparations movement"
+    }
+   ]
+  },
+  {
+   "id": "zumbi-dos-palmares",
+   "name": "Zumbi dos Palmares",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "Brazil",
+   "scale": "Dominant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A defining figure of Brazilian Black resistance; documented through Portuguese colonial correspondence and expedition reports, though much of his biography is uncertain.",
+   "start": 1678,
+   "end": 1695,
+   "lifespan": "c. 1655–1695",
+   "base": "Serra da Barriga, Alagoas (then Pernambuco), Brazil",
+   "geo": [
+    -9.27,
+    -36.07
+   ],
+   "aliases": [
+    "Zumbi"
+   ],
+   "origins": "Accounts say he was born free in Palmares around 1655, captured as a child by a Portuguese expedition and raised by a priest, then returned to Palmares as a teenager; this tradition rests on thin evidence.",
+   "role_summary": "He rejected the 1678 peace treaty that his predecessor Ganga Zumba made with Pernambuco's governor, and led Palmares in continued war. In 1694 forces under the bandeirante Domingos Jorge Velho destroyed the capital, Macaco; Zumbi was betrayed and killed on 20 November 1695, and his head displayed in Recife.",
+   "roleDetail": [
+    {
+     "t": "Leader of Palmares.",
+     "d": "Palmares was a confederation of quilombos holding thousands of people for most of the 17th century.",
+     "basis": "documented"
+    },
+    {
+     "t": "Childhood with a priest.",
+     "d": "The story that he was raised by Father António Melo is widely repeated but weakly sourced.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "20 November is Brazil's Dia Nacional de Zumbi e da Consciência Negra, made a national holiday by Law 14.759 of December 2023. Serra da Barriga hosts the Parque Memorial Quilombo dos Palmares, and Zumbi is inscribed in the Book of Heroes of the Fatherland.",
+   "legacyDetail": [
+    {
+     "t": "Black movement symbol.",
+     "d": "The date was proposed in 1971 by Grupo Palmares in Porto Alegre as an alternative to 13 May abolition day.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Agência Brasil — Zumbi dos Palmares: a 17th century leader's death is celebrated",
+     "url": "https://memoria.ebc.com.br/agenciabrasil/noticia/2003-11-20/zumbi-dos-palmares-17th-century-negro-leaders-death-celebrated"
+    },
+    {
+     "label": "Britannica — Zumbi",
+     "url": "https://www.britannica.com/biography/Zumbi"
+    }
+   ],
+   "connections": [
+    {
+     "id": "quilombo-dos-palmares",
+     "type": "ownership",
+     "label": "last king of Palmares"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "fought Portuguese colonial forces"
+    },
+    {
+     "id": "lei-aurea-1888",
+     "type": "legacy",
+     "label": "Black Consciousness Day chosen over 13 May abolition"
+    },
+    {
+     "id": "nanny-of-the-maroons",
+     "type": "parallel",
+     "label": "maroon resistance"
+    }
+   ]
+  },
+  {
+   "id": "underground-railroad",
+   "name": "Underground Railroad",
+   "type": "entity",
+   "kind": "Resistance network",
+   "description": "A loose network of routes, safe houses and people — mostly free and enslaved African Americans, with white and Quaker allies — that helped freedom seekers escape slavery to the free states, Canada, Mexico and elsewhere, especially from the 1830s to 1865. Maryland's Eastern Shore and Baltimore were major points of departure. The NPS Network to Freedom programme (1998) now recognises hundreds of documented sites.",
+   "start": 1830,
+   "geo": [
+    39.952,
+    -75.165
+   ],
+   "connections": [
+    {
+     "id": "harriet-tubman",
+     "type": "political",
+     "label": "conductor"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "political",
+     "label": "escaped 1838; aided others"
+    },
+    {
+     "id": "josiah-henson",
+     "type": "political",
+     "label": "escaped to Canada 1830"
+    },
+    {
+     "id": "richard-allen",
+     "type": "political",
+     "label": "Mother Bethel a station"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "political",
+     "label": "escape route by rail and ship"
+    },
+    {
+     "id": "harriet-tubman-ugrr-park",
+     "type": "legacy",
+     "label": "NPS park"
+    }
+   ]
+  },
+  {
+   "id": "ame-church",
+   "name": "African Methodist Episcopal (AME) Church and Mother Bethel",
+   "type": "entity",
+   "kind": "University / church",
+   "description": "Richard Allen opened Bethel church in Philadelphia in 1794 on land he bought; it is the 'Mother Bethel' of the AME Church, founded in 1816 when Black Methodist congregations from Philadelphia, Baltimore and elsewhere united as the first independent Black denomination in the US. Charleston's AME congregation, linked to Denmark Vesey, was suppressed in 1822 and refounded as Mother Emanuel. The church remains a major international denomination.",
+   "start": 1794,
+   "geo": [
+    39.943,
+    -75.152
+   ],
+   "connections": [
+    {
+     "id": "richard-allen",
+     "type": "ownership",
+     "label": "founder and first bishop"
+    },
+    {
+     "id": "daniel-coker",
+     "type": "ownership",
+     "label": "Baltimore co-founder"
+    },
+    {
+     "id": "denmark-vesey",
+     "type": "ownership",
+     "label": "Charleston congregation"
+    },
+    {
+     "id": "free-african-society",
+     "type": "legacy",
+     "label": "grew out of the Free African Society"
+    },
+    {
+     "id": "port-charleston",
+     "type": "political",
+     "label": "Mother Emanuel AME"
+    }
+   ]
+  },
+  {
+   "id": "free-african-society",
+   "name": "Free African Society (Philadelphia) and St. Thomas's African Episcopal Church",
+   "type": "entity",
+   "kind": "Mutual aid society",
+   "description": "Founded in April 1787 by Richard Allen and Absalom Jones (1746–1818) as a mutual aid society for Philadelphia's free Black community. Jones, born enslaved in Delaware and self-purchased in 1784, led the African Episcopal Church of St. Thomas (opened 1794), was ordained the first Black Episcopal priest in 1802, led the 1799–1800 petition to Congress against the slave trade, and preached a Thanksgiving sermon on 1 January 1808 when the US ban on the slave trade took effect.",
+   "start": 1787,
+   "geo": [
+    39.947,
+    -75.147
+   ],
+   "connections": [
+    {
+     "id": "richard-allen",
+     "type": "ownership",
+     "label": "co-founder 1787"
+    },
+    {
+     "id": "james-forten",
+     "type": "political",
+     "label": "co-signed 1800 petition"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "Jones's 1808 thanksgiving sermon"
+    },
+    {
+     "id": "ame-church",
+     "type": "legacy",
+     "label": "Methodist members formed Bethel"
+    }
+   ]
+  },
+  {
+   "id": "freedoms-journal",
+   "name": "Freedom's Journal (1827–1829)",
+   "type": "entity",
+   "kind": "Newspaper",
+   "description": "The first African American-owned and -edited newspaper in the US, launched in New York on 16 March 1827 by Samuel Cornish and John Russwurm ('We wish to plead our own cause'). It had agents across the North, the upper South, Canada, Britain and Haiti. After Russwurm turned to colonisation and left for Liberia in 1829, Cornish relaunched it as The Rights of All.",
+   "start": 1827,
+   "geo": [
+    40.713,
+    -74.006
+   ],
+   "connections": [
+    {
+     "id": "james-forten",
+     "type": "finance",
+     "label": "Philadelphia supporter of the Black press"
+    },
+    {
+     "id": "henry-highland-garnet",
+     "type": "parallel",
+     "label": "New York Black activism"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "legacy",
+     "label": "forerunner of The North Star"
+    }
+   ]
+  },
+  {
+   "id": "quilombo-dos-palmares",
+   "name": "Quilombo dos Palmares",
+   "type": "entity",
+   "kind": "Maroon state / quilombo",
+   "description": "The largest and longest-lasting maroon community in the Americas, formed by people escaping sugar plantations in Pernambuco from about 1600 and holding thousands of inhabitants in the Serra da Barriga region. It resisted Dutch (1640s) and Portuguese expeditions for most of the century, under leaders including Ganga Zumba and Zumbi, until its destruction in 1694–95. Serra da Barriga is now a national memorial park.",
+   "start": 1605,
+   "geo": [
+    -9.27,
+    -36.07
+   ],
+   "connections": [
+    {
+     "id": "zumbi-dos-palmares",
+     "type": "ownership",
+     "label": "last leader"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "Dutch Brazil expeditions against Palmares, 1640s"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "destroyed by Portuguese colonial forces"
+    },
+    {
+     "id": "joao-fernandes-vieira",
+     "type": "parallel",
+     "label": "Pernambuco sugar planter elite"
+    }
+   ]
+  },
+  {
+   "id": "male-revolt-1835",
+   "name": "Malê Revolt, Salvador (1835)",
+   "type": "entity",
+   "kind": "Revolt / uprising",
+   "description": "On the night of 24–25 January 1835, during Ramadan, some 600 enslaved and freed Africans, led by Muslims (malês) mostly of Yoruba (Nagô) and Hausa origin, rose in Salvador da Bahia and fought troops in the streets before being defeated. Per historian João José Reis, dozens of rebels died; four men were executed by firing squad on 14 May 1835, and hundreds were flogged, imprisoned or deported to Africa. Luísa Mahin, celebrated as a leader and mother of abolitionist Luiz Gama, is known only from her son's writings, and historians question her role.",
+   "start": 1835,
+   "geo": [
+    -12.971,
+    -38.511
+   ],
+   "connections": [
+    {
+     "id": "port-salvador",
+     "type": "political",
+     "label": "uprising in Salvador"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "trade",
+     "label": "Oyo's collapse sent many Yoruba captives to Bahia"
+    },
+    {
+     "id": "joaquim-pereira-marinho",
+     "type": "parallel",
+     "label": "Salvador slave-trading elite"
+    },
+    {
+     "id": "aguda-merchant-community",
+     "type": "legacy",
+     "label": "deportees joined returnee communities in Benin and Lagos"
+    }
+   ]
+  },
+  {
+   "id": "harriet-tubman-ugrr-park",
+   "name": "Harriet Tubman Underground Railroad National Historical Park and State Park",
+   "type": "entity",
+   "kind": "Legacy / memorial",
+   "description": "Proclaimed a national monument in 2013 and a national historical park in 2014, the 480-acre park in Dorchester County, Maryland, preserves landscapes of Tubman's early life, including Joseph Stewart's Canal, dug by enslaved and free Black workers. A Maryland state park visitor centre opened in 2017; the Harriet Tubman Underground Railroad Byway links sites across the Eastern Shore.",
+   "start": 2013,
+   "geo": [
+    38.443,
+    -76.137
+   ],
+   "connections": [
+    {
+     "id": "harriet-tubman",
+     "type": "legacy",
+     "label": "commemorates Tubman"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "legacy",
+     "label": "interprets escape routes"
+    }
+   ]
+  },
+  {
+   "id": "frederick-douglass-nhs",
+   "name": "Frederick Douglass National Historic Site (Cedar Hill)",
+   "type": "entity",
+   "kind": "Legacy / memorial",
+   "description": "Douglass's home in Anacostia, Washington DC, from 1877 until his death in 1895. Helen Pitts Douglass and the National Association of Colored Women preserved it, and it became an NPS site in 1962.",
+   "start": 1962,
+   "geo": [
+    38.863,
+    -76.985
+   ],
+   "connections": [
+    {
+     "id": "frederick-douglass",
+     "type": "legacy",
+     "label": "his last home"
+    }
+   ]
+  },
+  {
+   "id": "fort-monroe-1619-landing",
+   "name": "Point Comfort / Fort Monroe National Monument and 1619 African Landing Memorial",
+   "type": "entity",
+   "kind": "Legacy / memorial",
+   "description": "Point Comfort, where the White Lion landed '20 and odd' Africans in August 1619, later became Fort Monroe, where three self-emancipated men sought Union protection in 1861 and were declared 'contraband of war'. Fort Monroe became a National Monument in 2011, and an African Landing Memorial is under development.",
+   "start": 2011,
+   "geo": [
+    37.003,
+    -76.307
+   ],
+   "connections": [
+    {
+     "id": "angela-1619",
+     "type": "legacy",
+     "label": "commemorates the 1619 landing"
+    }
+   ]
+  },
+  {
+   "id": "gu272-descendants-association",
+   "name": "GU272 Descendants Association and Georgetown descendant programmes",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Descendants of the 272 people sold by the Maryland Jesuits in 1838 organised after the 2016 revelations, pressing Georgetown and the Jesuits for reparative action. Outcomes include Georgetown's 2017 apology and admissions preference, the 2019 student-backed Reconciliation Fund, and the Jesuits' 2021 $100m pledge to the Descendants Truth & Reconciliation Foundation.",
+   "start": 2016,
+   "geo": [
+    30.491,
+    -91.519
+   ],
+   "connections": [
+    {
+     "id": "georgetown-272",
+     "type": "legacy",
+     "label": "represents descendants"
+    },
+    {
+     "id": "georgetown-university",
+     "type": "legacy",
+     "label": "reparative demands"
+    },
+    {
+     "id": "descendants-truth-reconciliation-foundation",
+     "type": "legacy",
+     "label": "partner foundation"
+    },
+    {
+     "id": "hr-40",
+     "type": "parallel",
+     "label": "national reparations debate"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1619,
+   "title": "'20 and odd' Africans reach Point Comfort",
+   "text": "English privateers trade Ndongo captives seized from the Portuguese São João Bautista for food at Point Comfort, Virginia; Angela arrives days later on the Treasurer.",
+   "ids": [
+    "angela-1619",
+    "fort-monroe-1619-landing",
+    "queen-nzinga",
+    "port-luanda"
+   ],
+   "source": {
+    "label": "NPS — Arrival of the First Africans in 1619",
+    "url": "https://www.nps.gov/articles/000/arrival-of-the-first-africans-in-1619.htm"
+   }
+  },
+  {
+   "year": 1695,
+   "title": "Zumbi killed; Palmares falls",
+   "text": "After the 1694 destruction of Macaco, Zumbi is betrayed and killed on 20 November 1695.",
+   "ids": [
+    "zumbi-dos-palmares",
+    "quilombo-dos-palmares"
+   ],
+   "source": {
+    "label": "Agência Brasil — Zumbi dos Palmares",
+    "url": "https://memoria.ebc.com.br/agenciabrasil/noticia/2003-11-20/zumbi-dos-palmares-17th-century-negro-leaders-death-celebrated"
+   }
+  },
+  {
+   "year": 1740,
+   "title": "Windward Maroons make peace",
+   "text": "Nanny's Windward Maroons make peace with the British and receive a 500-acre land grant, later Moore Town.",
+   "ids": [
+    "nanny-of-the-maroons"
+   ],
+   "source": {
+    "label": "Royal Museums Greenwich — Nanny of the Maroons",
+    "url": "https://www.rmg.co.uk/stories/maritime-history/nanny-maroons"
+   }
+  },
+  {
+   "year": 1781,
+   "title": "Brom and Bett v. Ashley",
+   "text": "A Berkshire County jury frees Elizabeth Freeman and Brom under the 1780 Massachusetts constitution.",
+   "ids": [
+    "elizabeth-freeman"
+   ],
+   "source": {
+    "label": "Mass Moments — Jury Decides in Favor of Elizabeth Freeman",
+    "url": "https://www.massmoments.org/moment-details/jury-decides-in-favor-of-elizabeth-mum-bett-freeman.html"
+   }
+  },
+  {
+   "year": 1787,
+   "title": "Free African Society founded",
+   "text": "Richard Allen and Absalom Jones found a mutual aid society in Philadelphia, root of Mother Bethel and St. Thomas's.",
+   "ids": [
+    "richard-allen",
+    "free-african-society",
+    "ame-church"
+   ],
+   "source": {
+    "label": "NPS — Free African Society articles",
+    "url": "https://www.nps.gov/articles/000/inde-preamble-and-articles-of-association-for-the-free-african-society.htm"
+   }
+  },
+  {
+   "year": 1791,
+   "title": "Banneker writes to Jefferson; Saint-Domingue rises",
+   "text": "In August Benjamin Banneker challenges Jefferson on slavery; days later enslaved people rise in northern Saint-Domingue, the start of the revolution Toussaint Louverture would lead.",
+   "ids": [
+    "benjamin-banneker",
+    "thomas-jefferson",
+    "toussaint-louverture",
+    "saint-domingue"
+   ],
+   "source": {
+    "label": "Founders Online — Banneker to Jefferson, 19 August 1791",
+    "url": "https://founders.archives.gov/documents/Jefferson/01-22-02-0049"
+   }
+  },
+  {
+   "year": 1796,
+   "title": "Ona Judge escapes the President's House",
+   "text": "On 21 May Ona Judge flees the Washingtons in Philadelphia and reaches Portsmouth, New Hampshire.",
+   "ids": [
+    "ona-judge",
+    "george-washington"
+   ],
+   "source": {
+    "label": "Mount Vernon — Ona Judge",
+    "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/ona-judge"
+   }
+  },
+  {
+   "year": 1800,
+   "title": "Gabriel's Conspiracy",
+   "text": "A planned rising near Richmond is delayed by a storm and betrayed; Gabriel and 25 others are hanged.",
+   "ids": [
+    "gabriel-prosser"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Gabriel's Conspiracy (1800)",
+    "url": "https://encyclopediavirginia.org/entries/gabriels-conspiracy-1800/"
+   }
+  },
+  {
+   "year": 1816,
+   "title": "AME Church founded",
+   "text": "Black Methodists from Philadelphia, Baltimore and elsewhere found the African Methodist Episcopal Church; Richard Allen becomes bishop after Daniel Coker steps aside.",
+   "ids": [
+    "ame-church",
+    "richard-allen",
+    "daniel-coker"
+   ],
+   "source": {
+    "label": "Mother Bethel AME Church",
+    "url": "https://www.motherbethel.org/"
+   }
+  },
+  {
+   "year": 1822,
+   "title": "Denmark Vesey plot crushed in Charleston",
+   "text": "Scores of Black Charlestonians are arrested; 35, including Vesey, are hanged and the AME church destroyed.",
+   "ids": [
+    "denmark-vesey",
+    "port-charleston",
+    "ame-church"
+   ],
+   "source": {
+    "label": "NPS — Denmark Vesey",
+    "url": "https://www.nps.gov/people/denmark-vesey.htm"
+   }
+  },
+  {
+   "year": 1831,
+   "title": "Nat Turner's revolt",
+   "text": "Turner's revolt in Southampton County kills about 55 white people; brutal reprisals and new restrictive laws follow.",
+   "ids": [
+    "nat-turner"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Nat Turner's Revolt (1831)",
+    "url": "https://encyclopediavirginia.org/entries/turners-revolt-nat-1831/"
+   }
+  },
+  {
+   "year": 1835,
+   "title": "Malê Revolt in Salvador",
+   "text": "African Muslims lead an urban uprising in Salvador da Bahia, followed by executions, floggings and deportations.",
+   "ids": [
+    "male-revolt-1835",
+    "port-salvador"
+   ],
+   "source": {
+    "label": "Enslaved.org — Malê revolt story",
+    "url": "https://enslaved.org/fullStory/16-23-106163/"
+   }
+  },
+  {
+   "year": 1838,
+   "title": "Maryland Jesuits sell 272 people",
+   "text": "The Jesuits sell 272 enslaved people from their Maryland plantations to Louisiana planters for about $115,000, partly to pay Georgetown's debts.",
+   "ids": [
+    "georgetown-272",
+    "georgetown-university"
+   ],
+   "source": {
+    "label": "Georgetown Slavery Archive — Descendants' Stories",
+    "url": "https://slaveryarchive.georgetown.edu/collections/show/5"
+   }
+  },
+  {
+   "year": 1838,
+   "title": "Frederick Douglass escapes Baltimore",
+   "text": "On 3 September Douglass leaves Baltimore by train, disguised as a sailor, and reaches New York within a day.",
+   "ids": [
+    "frederick-douglass",
+    "port-baltimore"
+   ],
+   "source": {
+    "label": "NPS — Frederick Douglass",
+    "url": "https://www.nps.gov/frdo/learn/historyculture/frederickdouglass.htm"
+   }
+  },
+  {
+   "year": 1849,
+   "title": "Harriet Tubman escapes Dorchester County",
+   "text": "Tubman escapes to Philadelphia and soon begins returning to Maryland to lead family members and others north.",
+   "ids": [
+    "harriet-tubman",
+    "underground-railroad"
+   ],
+   "source": {
+    "label": "Maryland State Archives — Harriet Ross Tubman Davis",
+    "url": "https://msa.maryland.gov/msa/speccol/sc5400/sc5496/013500/013562/013562.html"
+   }
+  },
+  {
+   "year": 2016,
+   "title": "Georgetown 272 descendants come forward",
+   "text": "Reporting and the Georgetown Memory Project trace living descendants of the 1838 sale, leading to Georgetown's 2017 apology and later a $100m Jesuit pledge (2021).",
+   "ids": [
+    "georgetown-272",
+    "gu272-descendants-association",
+    "descendants-truth-reconciliation-foundation"
+   ],
+   "source": {
+    "label": "Georgetown University — Isaac Hawkins Hall",
+    "url": "https://www.georgetown.edu/news/isaac-hawkins-hall"
+   }
+  }
+ ]
+}
