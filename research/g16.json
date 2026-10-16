@@ -105,7 +105,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Asante kingdom survives within Ghana, and Otumfuo Nana Osei Tutu II, enstooled in 1999, holds the Golden Stool. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "The Asante kingdom survives within Ghana, and Otumfuo Nana Osei Tutu II, enstooled in 1999, holds the Golden Stool. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Otumfuo Nana Osei Tutu II",
+     "relation": "reigning holder of the Golden Stool (title-heir of the Asante kings)",
+     "role": "16th Asantehene since 26 April 1999; silver jubilee 2024",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Ghana News Agency — Akwasidae-kese durbar climaxes Otumfuo Osei Tutu II's 25th anniversary (2024)",
+      "url": "https://gna.org.gh/2024/05/akwasidae-kese-durbar-to-climax-otumfuo-osei-tutu-iis-25th-anniversary/"
+     }
+    }
+   ]
   },
   {
    "id": "akitoye-of-lagos",
@@ -232,7 +246,21 @@
      "basis": "documented"
     }
    ],
-   "today": "His descendants through Dosunmu remain central to the Lagos royal house; the present Oba of Lagos is Rilwan Akiolu (since 2003). Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "His descendants through Dosunmu remain central to the Lagos royal house; the present Oba of Lagos is Rilwan Akiolu (since 2003). Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Oba Rilwan Akiolu I",
+     "relation": "holder of the Lagos throne once held by Akitoye, Kosoko and Dosunmu; his own eligibility was challenged in court and upheld (2017)",
+     "role": "Oba of Lagos since 2003",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "ThisDay — Lagos kingmaker defends Oba Akiolu's ascendance to throne (2017)",
+      "url": "https://thisdaylive.com/index.php/2017/07/12/lagos-kingmaker-defends-oba-akiolus-ascendance-to-throne"
+     }
+    }
+   ]
   },
   {
    "id": "william-dappa-pepple",
@@ -331,7 +359,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Pepple dynasty still reigns in Grand Bonny under King Edward Asimini William Dappa Pepple III (Perekule XI). Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "The Pepple dynasty still reigns in Grand Bonny under King Edward Asimini William Dappa Pepple III (Perekule XI). Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "King Edward Asimini William Dappa Pepple III (Perekule XI)",
+     "relation": "head of the Pepple (Perekule) royal house of Grand Bonny",
+     "role": "Amanyanabo of Grand Bonny since 1996; 60th birthday thanksgiving 2025",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Kingdom of Bonny",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bonny"
+     }
+    }
+   ]
   },
   {
    "id": "eyo-honesty-ii",
@@ -640,7 +682,21 @@
      "basis": "documented"
     }
    ],
-   "today": "In February 2022 Georges Collinet Béhanzin was enthroned at Abomey as Dada Dèwènondè Gbéhanzin, chosen by agreement among the rival royal lineages. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "In February 2022 Georges Collinet Béhanzin was enthroned at Abomey as Dada Dèwènondè Gbéhanzin, chosen by agreement among the rival royal lineages. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Dada Dèwènondè Gbéhanzin (Georges Collinet Béhanzin)",
+     "relation": "descendant of King Béhanzin; chosen by agreement of three rival lineages",
+     "role": "King of Dahomey (ceremonial, Abomey) since February 2022",
+     "sector": "Royalty & titles",
+     "year": 2022,
+     "basis": "documented",
+     "source": {
+      "label": "Benin Web TV — Georges Collinet Béhanzin intronisé au palais de Djimè (2022)",
+      "url": "https://beninwebtv.bj/benin-georges-collinet-behanzin-intronise-ce-lundi-au-palais-de-djime/"
+     }
+    }
+   ]
   },
   {
    "id": "ahmad-bin-said-al-busaidi",
@@ -733,7 +789,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The dynasty he founded rules Oman today under Sultan Haitham bin Tariq. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "The dynasty he founded rules Oman today under Sultan Haitham bin Tariq. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Sultan Haitham bin Tariq Al Said",
+     "relation": "member of the Al Bu Said dynasty founded by Ahmad bin Said; descendant of Sayyid Said's Muscat line",
+     "role": "Sultan and Prime Minister of Oman since 2020",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Haitham bin Tariq",
+      "url": "https://en.wikipedia.org/wiki/Haitham_bin_Tariq"
+     }
+    }
+   ]
   },
   {
    "id": "majid-bin-said",
@@ -839,7 +909,33 @@
      "basis": "documented"
     }
    ],
-   "today": "The Zanzibar sultanate he founded ended in the 1964 revolution. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "The Zanzibar sultanate he founded ended in the 1964 revolution. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Sayyid Ali bin Jamshid Al Said",
+     "relation": "son of Jamshid bin Abdullah, last Sultan of Zanzibar (d. 30 Dec 2024); head of the former Zanzibar royal line",
+     "role": "Pretender to the abolished Zanzibar sultanate since 2024 (no office)",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — List of sultans of Zanzibar",
+      "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_Zanzibar"
+     }
+    },
+    {
+     "name": "Jamshid bin Abdullah (1929–2024)",
+     "relation": "last reigning Sultan of Zanzibar, of the Busaidi line",
+     "role": "Deposed 1964; lived in exile, latterly in Muscat; died 30 December 2024",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Jamshid bin Abdullah",
+      "url": "https://en.wikipedia.org/wiki/Jamshid_bin_Abdullah"
+     }
+    }
+   ]
   },
   {
    "id": "sefu-bin-hamid",
@@ -1039,7 +1135,21 @@
      "basis": "documented"
     }
    ],
-   "today": "His descendants hold the Sokoto Sultanate; Sa'adu Abubakar has been Sultan since 2006. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "His descendants hold the Sokoto Sultanate; Sa'adu Abubakar has been Sultan since 2006. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Sultan Muhammadu Sa'ad Abubakar III",
+     "relation": "descendant of Usman dan Fodio; 20th Sultan of Sokoto",
+     "role": "Sultan of Sokoto since 2006; President-General of the Nigerian Supreme Council for Islamic Affairs",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Sa'adu Abubakar",
+      "url": "https://en.wikipedia.org/wiki/Sa%27adu_Abubakar"
+     }
+    }
+   ]
   },
   {
    "id": "muhammad-al-amin-al-kanemi",
@@ -1138,7 +1248,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The al-Kanemi line still provides the Shehu of Borno. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "The al-Kanemi line still provides the Shehu of Borno. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Shehu Abubakar ibn Umar Garbai El-Kanemi",
+     "relation": "descendant of Muhammad al-Amin al-Kanemi; son of Shehu Umar ibn Abubakar Garbai",
+     "role": "Shehu of Borno since 2009",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Abubakar ibn Umar Garba el-Kanemi",
+      "url": "https://en.wikipedia.org/wiki/Abubakar_ibn_Umar_Garba_el-Kanemi"
+     }
+    }
+   ]
   },
   {
    "id": "ismail-pasha-egypt",
@@ -1246,7 +1370,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Muhammad Ali dynasty's monarchy was abolished in 1953; Fuad II is its senior member. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "The Muhammad Ali dynasty's monarchy was abolished in 1953; Fuad II is its senior member. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Fuad II",
+     "relation": "senior member of the Muhammad Ali dynasty; great-grandson of Khedive Ismail",
+     "role": "Last King of Egypt (as an infant, 1952–53); head of the former royal house",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Fuad II of Egypt",
+      "url": "https://en.wikipedia.org/wiki/Fuad_II_of_Egypt"
+     }
+    }
+   ]
   },
   {
    "id": "thomas-corker",
@@ -1341,7 +1479,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Caulker descendants live mainly in Bonthe and Shenge, Sierra Leone; no private living individuals are named here. Present-day descendants carry no guilt for their ancestors' slave trading."
+   "today": "Caulker descendants live mainly in Bonthe and Shenge, Sierra Leone; no private living individuals are named here. Present-day descendants carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Paramount Chief Charles B. Caulker",
+     "relation": "member of the Caulker ruling family descended from Thomas Corker",
+     "role": "Paramount Chief of Bumpe Chiefdom, Moyamba District, Sierra Leone (in office over 35 years by c.2020)",
+     "sector": "Royalty & titles",
+     "year": 2020,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Charles B. Caulker",
+      "url": "https://en.wikipedia.org/wiki/Charles_B._Caulker"
+     }
+    }
+   ]
   },
   {
    "id": "anne-pepin",

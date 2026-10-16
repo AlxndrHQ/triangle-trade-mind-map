@@ -175,7 +175,69 @@
      "id": "bank-of-england"
     }
    ],
-   "today": "The peerages of Baron Ashburton, Baron Northbrook, Baron Revelstoke and Earl of Cromer are still held by Baring descendants, though the family no longer controls a bank. Barings collapsed in 1995 and was bought by ING for £1. The family name lives on in the Baring Foundation (a charity set up in 1969), the Baring Archive, and the asset manager Barings. Baring Asset Management and ING fund a University of Leeds PhD, begun in 2022, on Baring Brothers' involvement with slavery."
+   "today": "The peerages of Baron Ashburton, Baron Northbrook, Baron Revelstoke and Earl of Cromer are still held by Baring descendants, though the family no longer controls a bank. Barings collapsed in 1995 and was bought by ING for £1. The family name lives on in the Baring Foundation (a charity set up in 1969), the Baring Archive, and the asset manager Barings. Baring Asset Management and ING fund a University of Leeds PhD, begun in 2022, on Baring Brothers' involvement with slavery. Current Baring peers include the 6th Baron Northbrook, the 8th Baron Ashburton, the 4th Earl of Cromer, the 7th Baron Revelstoke and the 2nd Baron Howick of Glendale; the last hereditary Baring seat in the Lords (Lord Northbrook's) ended on 29 April 2026 under the House of Lords (Hereditary Peers) Act 2026.",
+   "today_people": [
+    {
+     "name": "Francis Baring, 6th Baron Northbrook",
+     "relation": "descendant of Sir Francis Baring via Thomas Baring; head of the British branch of the family",
+     "role": "Hereditary peer; former Conservative whip; co-founder of Mars Asset Management; sat in the Lords from 1990 until excluded on 29 April 2026 under the House of Lords (Hereditary Peers) Act 2026 (Royal Assent 18 March 2026)",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "UK Parliament — Lord Northbrook (member record)",
+      "url": "https://members.parliament.uk/member/3191"
+     }
+    },
+    {
+     "name": "Mark Baring, 8th Baron Ashburton",
+     "relation": "descendant of Alexander Baring, 1st Baron Ashburton (son of Sir Francis); succeeded 2020",
+     "role": "Businessman; hereditary peer (son of Sir John Baring, 7th Baron, chairman of Baring Brothers)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Mark Baring, 8th Baron Ashburton",
+      "url": "https://en.wikipedia.org/wiki/Mark_Baring,_8th_Baron_Ashburton"
+     }
+    },
+    {
+     "name": "Evelyn Baring, 4th Earl of Cromer",
+     "relation": "descendant of Henry Baring via Evelyn Baring, 1st Earl of Cromer; succeeded 1991",
+     "role": "Hereditary peer",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Earl of Cromer",
+      "url": "https://en.wikipedia.org/wiki/Earl_of_Cromer"
+     }
+    },
+    {
+     "name": "Alexander Baring, 7th Baron Revelstoke",
+     "relation": "descendant of Edward Baring, 1st Baron Revelstoke (Barings senior partner)",
+     "role": "Hereditary peer (title holder per Baring family genealogy)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Baring family",
+      "url": "https://en.wikipedia.org/wiki/Baring_family"
+     }
+    },
+    {
+     "name": "Charles Baring, 2nd Baron Howick of Glendale",
+     "relation": "grandson of Evelyn Baring, 1st Earl of Cromer",
+     "role": "Hereditary peer",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Baring family",
+      "url": "https://en.wikipedia.org/wiki/Baring_family"
+     }
+    }
+   ]
   },
   {
    "id": "baring-brothers",
@@ -355,7 +417,33 @@
      "basis": "documented"
     }
    ],
-   "today": "The banking business went to ING in 1995. The asset-management arm, sold to MassMutual and Northern Trust in 2005, still trades under the Barings name. The Baring Foundation and The Baring Archive survive. Baring Asset Management and ING Bank fund a University of Leeds PhD on 'Barings Bank and the Atlantic Slave Trade', begun in 2022; no corporate apology has been found."
+   "today": "The banking business went to ING in 1995. The asset-management arm, sold to MassMutual and Northern Trust in 2005, still trades under the Barings name. The Baring Foundation and The Baring Archive survive. Baring Asset Management and ING Bank fund a University of Leeds PhD on 'Barings Bank and the Atlantic Slave Trade', begun in 2022; no corporate apology has been found.",
+   "today_people": [
+    {
+     "name": "Mike Freno",
+     "relation": "chief executive of Barings, the asset manager that kept the Barings name",
+     "role": "Chairman, President & CEO of Barings (MassMutual subsidiary, c. $500bn AUM in 2026); not a family member",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Barings — Michael Freno (leadership profile)",
+      "url": "https://www.barings.com/fr-fr/institutional/about/team/michael-freno"
+     }
+    },
+    {
+     "name": "Francis Baring, 6th Baron Northbrook",
+     "relation": "descendant of Sir Francis Baring via Thomas Baring; head of the British branch of the family",
+     "role": "Hereditary peer; former Conservative whip; co-founder of Mars Asset Management; sat in the Lords from 1990 until excluded on 29 April 2026 under the House of Lords (Hereditary Peers) Act 2026 (Royal Assent 18 March 2026)",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "UK Parliament — Lord Northbrook (member record)",
+      "url": "https://members.parliament.uk/member/3191"
+     }
+    }
+   ]
   },
   {
    "id": "lloyds-banking-group",
@@ -507,7 +595,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Lloyds Banking Group plc is one of the UK's largest retail banking groups (Lloyds Bank, Halifax, Bank of Scotland, Scottish Widows). In June 2020, after press reports drawing on the UCL LBS database, a spokeswoman said 'we can't be proud of it all' and that the bank stands 'against racism, slavery and discrimination in all its forms'. A 2023 University of Glasgow study by Stephen Mullen for the Corra Foundation (a charity funded from Lloyds TSB) concluded that the group's commercial success depended in part on Atlantic slavery; no formal corporate apology or reparations scheme has been documented."
+   "today": "Lloyds Banking Group plc is one of the UK's largest retail banking groups (Lloyds Bank, Halifax, Bank of Scotland, Scottish Widows). In June 2020, after press reports drawing on the UCL LBS database, a spokeswoman said 'we can't be proud of it all' and that the bank stands 'against racism, slavery and discrimination in all its forms'. A 2023 University of Glasgow study by Stephen Mullen for the Corra Foundation (a charity funded from Lloyds TSB) concluded that the group's commercial success depended in part on Atlantic slavery; no formal corporate apology or reparations scheme has been documented.",
+   "today_people": []
   },
   {
    "id": "natwest-group",
@@ -690,7 +779,21 @@
      "id": "chicago-slavery-era-ordinance"
     }
    ],
-   "today": "NatWest Group plc (NatWest, Royal Bank of Scotland, Coutts) runs a Heritage Hub page on 'Enslavement and Colonialism' that names Hankey & Co, Prescott's, Smith, Payne & Smiths and seven Bristol banks and publishes digitised sources. In June 2020 an RBS spokeswoman said these 'important and painful issues have a place in our history' and that 'we recognise our responsibility to engage with that', and pledged a BAME-led review and support for minority-ethnic groups; no formal apology or reparations programme has been documented. The Smith banking family's descendants include the Barons Carrington (see Smith, Payne & Smiths)."
+   "today": "NatWest Group plc (NatWest, Royal Bank of Scotland, Coutts) runs a Heritage Hub page on 'Enslavement and Colonialism' that names Hankey & Co, Prescott's, Smith, Payne & Smiths and seven Bristol banks and publishes digitised sources. In June 2020 an RBS spokeswoman said these 'important and painful issues have a place in our history' and that 'we recognise our responsibility to engage with that', and pledged a BAME-led review and support for minority-ethnic groups; no formal apology or reparations programme has been documented. The Smith banking family's descendants include the Barons Carrington (see Smith, Payne & Smiths).",
+   "today_people": [
+    {
+     "name": "Rupert Carington, 7th Baron Carrington",
+     "relation": "head of the Carrington branch of the Smith banking family (Smith, Payne & Smiths)",
+     "role": "Banker; Lord Great Chamberlain since 2022 (officiated at the 2023 coronation); former crossbench hereditary peer whose Lords seat ended on 29 April 2026, though he keeps the ceremonial office",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Rupert Carington, 7th Baron Carrington",
+      "url": "https://en.wikipedia.org/wiki/Rupert_Carington,_7th_Baron_Carrington"
+     }
+    }
+   ]
   },
   {
    "id": "hankey-family",
@@ -854,7 +957,8 @@
      "id": "natwest-group"
     }
    ],
-   "today": "Hankey & Co. survives only as a constituent of NatWest Group. NatWest's heritage pages state that the Hankeys profited from a West India trade wholly reliant on enslaved Africans. The Bank of England's 2020 apology and portrait review covered former governors, including Thomson Hankey. No publicly documented descendants have spoken about the link."
+   "today": "Hankey & Co. survives only as a constituent of NatWest Group. NatWest's heritage pages state that the Hankeys profited from a West India trade wholly reliant on enslaved Africans. The Bank of England's 2020 apology and portrait review covered former governors, including Thomson Hankey. No publicly documented descendants have spoken about the link.",
+   "today_people": []
   },
   {
    "id": "hsbc",
@@ -1014,7 +1118,8 @@
      "basis": "documented"
     }
    ],
-   "today": "HSBC Holdings plc is one of the world's largest banking groups and Midland Bank survives as HSBC UK. After internal archive research completed in 2023 it published a 'Lessons from history' page naming Leyland and Bullins, Moss and Co, City Bank, Galton and James and London Joint Stock Bank, stating that HSBC 'regrets the past actions and activities of individuals associated with these predecessor banks and the harm they caused'. No reparations commitment has been made."
+   "today": "HSBC Holdings plc is one of the world's largest banking groups and Midland Bank survives as HSBC UK. After internal archive research completed in 2023 it published a 'Lessons from history' page naming Leyland and Bullins, Moss and Co, City Bank, Galton and James and London Joint Stock Bank, stating that HSBC 'regrets the past actions and activities of individuals associated with these predecessor banks and the harm they caused'. No reparations commitment has been made.",
+   "today_people": []
   },
   {
    "id": "moss-family-liverpool",
@@ -1169,7 +1274,8 @@
      "id": "hsbc"
     }
    ],
-   "today": "The Edwards-Moss baronetcy created for John Moss's son is dormant: the last confirmed holder died in 1988, and no successor has been placed on the Official Roll. HSBC, the successor to the Moss bank, named John Moss's slavery links in 2023. No publicly documented descendants have spoken about the link. John Moss left about £90,000 at his death."
+   "today": "The Edwards-Moss baronetcy created for John Moss's son is dormant: the last confirmed holder died in 1988, and no successor has been placed on the Official Roll. HSBC, the successor to the Moss bank, named John Moss's slavery links in 2023. No publicly documented descendants have spoken about the link. John Moss left about £90,000 at his death.",
+   "today_people": []
   },
   {
    "id": "drax-family",
@@ -1351,7 +1457,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Richard Drax, a former MP, still owns the c. 617–621-acre Drax Hall estate in Barbados, where sugar is still grown, along with c. 13,870 acres at Charborough in Dorset and the Ellerton Abbey estate in Swaledale. In 2023 Barbados's reparations commission proposed returning Drax Hall as a museum. A 2024 plan to buy land there for housing was dropped after public opposition, and in April 2024 Prime Minister Mia Mottley said no settlement had been agreed. He has declined to make a formal apology."
+   "today": "Richard Drax, a former MP, still owns the c. 617–621-acre Drax Hall estate in Barbados, where sugar is still grown, along with c. 13,870 acres at Charborough in Dorset and the Ellerton Abbey estate in Swaledale. In 2023 Barbados's reparations commission proposed returning Drax Hall as a museum. A 2024 plan to buy land there for housing was dropped after public opposition, and in April 2024 Prime Minister Mia Mottley said no settlement had been agreed. He has declined to make a formal apology.",
+   "today_people": [
+    {
+     "name": "Richard Drax",
+     "relation": "descendant and heir of the Drax/Erle-Drax family; owner of Drax Hall, Barbados",
+     "role": "Former Conservative MP for South Dorset (2010–24); owns Drax Hall (Barbados), Charborough (Dorset) and Ellerton Abbey estates; has declined a formal apology",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "The Conversation — Tracing the Drax family's millions",
+      "url": "https://theconversation.com/tracing-the-drax-familys-millions-a-story-of-british-landed-gentry-slavery-and-sugar-plantations-257376"
+     }
+    },
+    {
+     "name": "Richard Drax",
+     "relation": "descendant and heir of the Drax/Erle-Drax family",
+     "role": "Conservative MP for South Dorset 2010–2024",
+     "sector": "Politics & government",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Richard Drax",
+      "url": "https://en.wikipedia.org/wiki/Richard_Drax"
+     }
+    }
+   ]
   },
   {
    "id": "james-duff",
@@ -1473,7 +1605,21 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented direct descendants have been traced. The family's public link today runs through a collateral line: UCL identified David Cameron as a distant cousin, and Jamaican reparations campaigners cited this when he visited Jamaica in 2015. Duff's compensation of £4,101 has been valued at roughly £420,000 in modern terms."
+   "today": "No publicly documented direct descendants have been traced. The family's public link today runs through a collateral line: UCL identified David Cameron as a distant cousin, and Jamaican reparations campaigners cited this when he visited Jamaica in 2015. Duff's compensation of £4,101 has been valued at roughly £420,000 in modern terms.",
+   "today_people": [
+    {
+     "name": "David Cameron (Lord Cameron of Chipping Norton)",
+     "relation": "distant cousin (collateral descendant) of General Sir James Duff's family, per UCL Legacies of British Slavery",
+     "role": "Former Prime Minister (2010–16) and Foreign Secretary (2023–24); faced reparations demands in Jamaica in 2015",
+     "sector": "Politics & government",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "UCL News — David Cameron faces demands for slavery reparation on Jamaica visit (2015)",
+      "url": "https://www.ucl.ac.uk/news/headlines/2015/sep/david-cameron-faces-demands-slavery-reparation-jamaica-visit"
+     }
+    }
+   ]
   },
   {
    "id": "cumberbatch-family",
@@ -1622,7 +1768,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The actor Benedict Cumberbatch is the best-known public descendant. He has reportedly said most of the family money had run out by the time he was born and that he grew up 'definitely middle class'. Media speculation in 2023–24 that Barbados would seek reparations from the family was rebuked by Barbadian officials. No wrongdoing by living descendants is alleged."
+   "today": "The actor Benedict Cumberbatch is the best-known public descendant. He has reportedly said most of the family money had run out by the time he was born and that he grew up 'definitely middle class'. Media speculation in 2023–24 that Barbados would seek reparations from the family was rebuked by Barbadian officials. No wrongdoing by living descendants is alleged.",
+   "today_people": [
+    {
+     "name": "Benedict Cumberbatch",
+     "relation": "descendant of the Cumberbatch planter family of Barbados",
+     "role": "Actor; has acknowledged the family history; Barbadian officials rejected 2023–24 media claims of a reparations claim against him",
+     "sector": "Culture & media",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "AOL / USA Today — Is Benedict Cumberbatch facing slavery reparations in Barbados? Official says no",
+      "url": "https://www.aol.com/news/benedict-cumberbatch-facing-slavery-reparations-232214396.html"
+     }
+    }
+   ]
   },
   {
    "id": "mcgarel-hogg-family",
@@ -1783,7 +1943,33 @@
      "basis": "documented"
     }
    ],
-   "today": "The Hailsham viscountcy, descended from Quintin Hogg, is held by Douglas Hogg, 3rd Viscount Hailsham, a former Cabinet minister. No public statement by him on the McGarel link has been found. McGarel's name remains on Larne's McGarel Town Hall, which Amnesty International asked to be renamed in 2020. Quintin Hogg's Polytechnic is now the University of Westminster."
+   "today": "The Hailsham viscountcy, descended from Quintin Hogg, is held by Douglas Hogg, 3rd Viscount Hailsham, a former Cabinet minister who has sat in the Lords as a life peer since 2015. No public statement by him on the McGarel link has been found. McGarel's name remains on Larne's McGarel Town Hall, which Amnesty International asked to be renamed in 2020. Quintin Hogg's Polytechnic is now the University of Westminster. Quintin Hogg's great-great-granddaughter Charlotte Hogg (daughter of the 3rd Viscount), a former Bank of England deputy governor, became chief executive of Alter Domus in 2025.",
+   "today_people": [
+    {
+     "name": "Douglas Hogg, 3rd Viscount Hailsham",
+     "relation": "great-grandson of Quintin Hogg (merchant), partner in Charles McGarel's Demerara sugar firm and brother-in-law of McGarel",
+     "role": "Former Cabinet minister (Agriculture, 1995–97); hereditary viscount and, since 2015, a life peer (Baron Hailsham of Kettlethorpe), so he kept his Lords seat after the 2026 removal of hereditary peers",
+     "sector": "Politics & government",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Viscount Hailsham",
+      "url": "https://en.wikipedia.org/wiki/Viscount_Hailsham"
+     }
+    },
+    {
+     "name": "Charlotte Hogg",
+     "relation": "daughter of the 3rd Viscount Hailsham; great-great-granddaughter of Quintin Hogg (merchant)",
+     "role": "Former Bank of England COO and Deputy Governor (2017); former CEO of Visa Europe; CEO of Alter Domus from 2025",
+     "sector": "Banking & finance",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Charlotte Hogg",
+      "url": "https://en.wikipedia.org/wiki/Charlotte_Hogg"
+     }
+    }
+   ]
   },
   {
    "id": "moses-taylor",
@@ -1932,7 +2118,8 @@
      "id": "citigroup"
     }
    ],
-   "today": "Taylor's bank is now Citigroup, which has acknowledged that City Bank profited indirectly from enslaved labour through his businesses. His grandson's Princeton gifts and estate, Drumthwacket (now the New Jersey governor's official residence), are documented by the Princeton & Slavery Project. The Moses Taylor Hospital in Scranton, endowed in 1882, still operates. No publicly documented living descendants have spoken about the link."
+   "today": "Taylor's bank is now Citigroup, which has acknowledged that City Bank profited indirectly from enslaved labour through his businesses. His grandson's Princeton gifts and estate, Drumthwacket (now the New Jersey governor's official residence), are documented by the Princeton & Slavery Project. The Moses Taylor Hospital in Scranton, endowed in 1882, still operates. No publicly documented living descendants have spoken about the link.",
+   "today_people": []
   },
   {
    "id": "citigroup",
@@ -2061,7 +2248,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Citigroup Inc. is one of the largest US banks. In July 2023 it published the results of a 2022 review with an independent historical firm, finding no record that Citi or its predecessors directly bought, sold or held enslaved people, but that some predecessors 'likely indirectly profited' from slavery, through clients such as Moses Taylor's Cuban sugar businesses and directors who likely owned enslaved people. It linked the findings to its $1bn Action for Racial Equity programme (2020) rather than an apology or direct reparations."
+   "today": "Citigroup Inc. is one of the largest US banks. In July 2023 it published the results of a 2022 review with an independent historical firm, finding no record that Citi or its predecessors directly bought, sold or held enslaved people, but that some predecessors 'likely indirectly profited' from slavery, through clients such as Moses Taylor's Cuban sugar businesses and directors who likely owned enslaved people. It linked the findings to its $1bn Action for Racial Equity programme (2020) rather than an apology or direct reparations.",
+   "today_people": []
   },
   {
    "id": "bank-of-america",
@@ -2202,7 +2390,8 @@
      "id": "chicago-slavery-era-ordinance"
     }
    ],
-   "today": "Bank of America Corporation is the second-largest US bank. Its 2005 disclosure (filed under Chicago's Slavery Era Disclosure Ordinance and later posted by Philadelphia) found slave-collateral transactions by St. Louis predecessors, and CEO Kenneth Lewis expressed regret for predecessor institutions that supported or tolerated slavery. Chicago aldermen disputed its account of the Providence Bank; no reparations scheme specific to slavery has been made."
+   "today": "Bank of America Corporation is the second-largest US bank. Its 2005 disclosure (filed under Chicago's Slavery Era Disclosure Ordinance and later posted by Philadelphia) found slave-collateral transactions by St. Louis predecessors, and CEO Kenneth Lewis expressed regret for predecessor institutions that supported or tolerated slavery. Chicago aldermen disputed its account of the Providence Bank; no reparations scheme specific to slavery has been made.",
+   "today_people": []
   },
   {
    "id": "csx-corporation",
@@ -2325,7 +2514,8 @@
      "id": "farmer-paellmann-lawsuit"
     }
    ],
-   "today": "CSX Corporation, based in Jacksonville, Florida, is one of the largest US freight railroads and still runs over track built or worked by enslaved people, such as the RF&P Subdivision. The 2002 reparations claims against it were dismissed in 2004–05, and no CSX apology or historical study of its predecessors' use of enslaved labour has been found."
+   "today": "CSX Corporation, based in Jacksonville, Florida, is one of the largest US freight railroads and still runs over track built or worked by enslaved people, such as the RF&P Subdivision. The 2002 reparations claims against it were dismissed in 2004–05, and no CSX apology or historical study of its predecessors' use of enslaved labour has been found.",
+   "today_people": []
   },
   {
    "id": "norfolk-southern",
@@ -2461,7 +2651,8 @@
      "id": "farmer-paellmann-lawsuit"
     }
    ],
-   "today": "Norfolk Southern Corporation, based in Atlanta, is a major US freight railroad. Its oldest strand, the South Carolina Canal & Rail Road, is celebrated in railroad history for the Best Friend of Charleston, though state histories record that enslaved people built, fired and maintained it. The 2002 reparations suits were dismissed, and no company apology or historical study has been found."
+   "today": "Norfolk Southern Corporation, based in Atlanta, is a major US freight railroad. Its oldest strand, the South Carolina Canal & Rail Road, is celebrated in railroad history for the Best Friend of Charleston, though state histories record that enslaved people built, fired and maintained it. The 2002 reparations suits were dismissed, and no company apology or historical study has been found.",
+   "today_people": []
   },
   {
    "id": "brooks-brothers",
@@ -2578,7 +2769,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Brooks Brothers trades as a brand of Catalyst Brands. Historian Jonathan Michael Square writes that the company has not publicly acknowledged its sale of livery to slaveholding households and did not respond to his requests to see its archive. No Brooks family descendants have spoken publicly about the link."
+   "today": "Brooks Brothers trades as a brand of Catalyst Brands. Historian Jonathan Michael Square writes that the company has not publicly acknowledged its sale of livery to slaveholding households and did not respond to his requests to see its archive. No Brooks family descendants have spoken publicly about the link.",
+   "today_people": []
   },
   {
    "id": "caisse-des-depots",
@@ -2726,7 +2918,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Caisse des Dépôts is today France's public financial group, controlling bodies such as La Poste and Bpifrance. In 2025 Pierre-Yves Bocquet of the Fondation pour la mémoire de l'esclavage used documents in the Caisse's archives to argue that the French Treasury may itself have profited from the 'double debt'. In 2025 France set up a joint Franco-Haitian commission of historians on the indemnity's impact; restitution has not been agreed."
+   "today": "The Caisse des Dépôts is today France's public financial group, controlling bodies such as La Poste and Bpifrance. In 2025 Pierre-Yves Bocquet of the Fondation pour la mémoire de l'esclavage used documents in the Caisse's archives to argue that the French Treasury may itself have profited from the 'double debt'. In 2025 France set up a joint Franco-Haitian commission of historians on the indemnity's impact; restitution has not been agreed.",
+   "today_people": []
   },
   {
    "id": "royal-exchange-assurance",
@@ -2855,7 +3048,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Royal Exchange Assurance's business sits today within the French insurer AXA (its UK arm). When Lloyd's, Aviva and RSA acknowledged slave-trade links in 2020, AXA was named for its Guardian Royal Exchange inheritance but was unavailable to comment, and no apology specific to Royal Exchange Assurance has been found. Its archives are held at London Metropolitan Archives (CLC/B/107)."
+   "today": "Royal Exchange Assurance's business sits today within the French insurer AXA (its UK arm). When Lloyd's, Aviva and RSA acknowledged slave-trade links in 2020, AXA was named for its Guardian Royal Exchange inheritance but was unavailable to comment, and no apology specific to Royal Exchange Assurance has been found. Its archives are held at London Metropolitan Archives (CLC/B/107).",
+   "today_people": []
   },
   {
    "id": "elihu-yale",
@@ -2988,7 +3182,8 @@
      "id": "yale-and-slavery-project"
     }
    ],
-   "today": "Yale University carries his name. In February 2024 it apologised for its early leaders' ties to slavery, alongside David Blight's history of Yale and slavery. Yale is buried at St Giles' Church, Wrexham, near his Plas Grono estate. No publicly documented present-day descendants have been identified with the link; his line passed through his daughters into the North and Cavendish families."
+   "today": "Yale University carries his name. In February 2024 it apologised for its early leaders' ties to slavery, alongside David Blight's history of Yale and slavery. Yale is buried at St Giles' Church, Wrexham, near his Plas Grono estate. No publicly documented present-day descendants have been identified with the link; his line passed through his daughters into the North and Cavendish families.",
+   "today_people": []
   },
   {
    "type": "entity",

@@ -21,7 +21,7 @@
     "Iyalode Tinubu lineage",
     "Tinubu family of Lagos"
    ],
-   "origins": "The name comes from Madam Efunroye Tinubu, an Egba-born trader who moved to Lagos in the 1830s and married into elite circles, including the exiled Oba Adele and later the Islamic scholar Momodu (Muhammad) Bukar/Bugara. Her biographer Oladipo Yemitan records that she had two sons by her first (Owu) husband but her later marriages produced no children.",
+   "origins": "The name comes from Madam Efunroye Tinubu, an Egba-born trader who moved to Lagos in the 1830s and married into elite circles, including the exiled Oba Adele and later the Islamic scholar Momodu (Muhammad) Bukar/Bugara. Her biographer Oladipo Yemitan records that she had two sons by her first (Owu) husband, both of whom died before her, and that her later marriages produced no children.",
    "role_summary": "Madam Tinubu dealt in salt, tobacco, guns and enslaved people from the Abeokuta hinterland, and kept trading captives with Brazilian merchants such as Domingo José Martínez after the 1852 Anglo-Lagos treaty banned the trade. The wider 'Tinubu family' is a name-group, not a single bloodline: per Yemitan, the name is borne by Bugara's children by other wives, by her Egba relatives from Abeokuta, and by descendants of people she had enslaved.",
    "roleDetail": [
     {
@@ -40,11 +40,11 @@
      "basis": "documented"
     }
    ],
-   "legacy": "Madam Tinubu is commemorated as a nationalist heroine at Tinubu Square, Lagos, and the family estate still litigates over her lands. Claims that Nigeria's President Bola Ahmed Tinubu descends from her are widely repeated but unproven: no published genealogy links him to her line; in 2025 the estate's administrator called him a 'direct descendant' without giving evidence, while columnist Farooq Kperogi (citing Lagos historians) argues he belongs to none of the Tinubu branches. Descendants or bearers of the name carry no guilt for 19th-century acts.",
+   "legacy": "Madam Tinubu is commemorated as a nationalist heroine at Tinubu Square, Lagos, and the family estate still litigates over her lands. Claims that Nigeria's President Bola Ahmed Tinubu descends from her are widely repeated but unproven: no published genealogy links him to her line; in December 2025 the estate's administrator called him a 'direct descendant' without giving evidence, while columnist Farooq Kperogi (citing Lagos historians) argues he belongs to none of the Tinubu branches. Descendants or bearers of the name carry no guilt for 19th-century acts.",
    "legacyDetail": [
     {
      "t": "Descent of President Bola Tinubu: unproven.",
-     "d": "Asserted by estate administrator Chief Akindele Adamakin (Leadership, 2025) and disputed by Kperogi (2022); neither side has published documentary genealogy, and Madam Tinubu's own children are not known to have left a traceable line.",
+     "d": "Asserted by estate administrator Chief Akindele Adamakin (Leadership, December 2025) without evidence, and rejected by columnist Farooq Kperogi (2022), who writes that the President is 'not a member of any version of the Tinubu family'. No documentary genealogy has been published, and per Yemitan Madam Tinubu's own two sons died before her.",
      "basis": "interpretive"
     },
     {
@@ -121,7 +121,7 @@
      "name": "Two sons by her first (Owu) husband",
      "relation": "sons",
      "years": "1820s–",
-     "note": "Her biographer records two sons from her first marriage, but no later children.",
+     "note": "Her biographer Oladipo Yemitan records two sons from her first marriage, both of whom died before her; her later marriages produced no children.",
      "basis": "documented"
     },
     {
@@ -135,11 +135,49 @@
      "name": "Bola Ahmed Tinubu",
      "relation": "claimed descendant (unproven)",
      "years": "b. 1952",
-     "note": "Nigeria's president is often said to descend from her; this is unproven, with no published genealogy and Lagos historians disputing it.",
+     "note": "Claimed descendant only: estate administrator Chief Akindele Adamakin called him a 'direct descendant' in December 2025 without evidence, while columnist Farooq Kperogi (2022) argues he belongs to no Tinubu branch. No published genealogy links him to her; the descent is unproven.",
      "basis": "interpretive"
     }
    ],
-   "today": "The Tinubu name lives on in Tinubu Square and in an estate that still goes to court over her lands. The claim that President Bola Ahmed Tinubu descends from her remains unproven: an estate administrator called him a 'direct descendant' in 2025 without giving evidence, while columnist Farooq Kperogi, citing Lagos historians, argues he belongs to none of the Tinubu branches. Whoever descends from her, or simply bears the name, carries no guilt for her slave trading."
+   "today": "The Tinubu name lives on in Tinubu Square and in an estate that still goes to court over her lands. The claim that President Bola Ahmed Tinubu descends from her remains unproven: an estate administrator called him a 'direct descendant' in December 2025 without giving evidence, while columnist Farooq Kperogi, citing Lagos historians, argues he belongs to none of the Tinubu branches. Whoever descends from her, or simply bears the name, carries no guilt for her slave trading. Oluremi Tinubu, the First Lady, is a Tinubu by marriage (née Ajayi), not by descent, and holds no Iyalode title; the Iyalode title Madam Tinubu held among the Egba is not hereditary.",
+   "today_people": [
+    {
+     "name": "Bola Ahmed Tinubu",
+     "relation": "CLAIMED descendant of Madam Efunroye Tinubu — UNPROVEN. Asserted by estate administrator Chief Akindele Adamakin (Leadership, Dec 2025) without evidence; Yemitan's biography records that her two sons died before her and that the name was taken by her husband Momoh Bukar's children by other wives, her Abeokuta relatives and former slaves; columnist Farooq Kperogi (2022) argues the President belongs to none of these branches",
+     "role": "President of Nigeria since May 2023; former Governor of Lagos State (1999–2007)",
+     "sector": "Politics & government",
+     "year": 2026,
+     "basis": "interpretive",
+     "source": {
+      "label": "Leadership — Tinubu estate administrator decries trespass, calls for family reunification (2025)",
+      "url": "https://leadership.ng/tinubu-estate-administrator-decries-trespass-calls-for-family-reunification/"
+     }
+    },
+    {
+     "name": "Chief Akindele Adamakin",
+     "relation": "sole administrator of the Madam Efunroye Tinubu estate; publicly speaks for the estate",
+     "role": "Administrator of the Tinubu estate (Lagos); at the 138th remembrance (Dec 2025) called President Tinubu a 'direct descendant' without citing evidence",
+     "sector": "Land & estates",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Leadership — Tinubu estate administrator decries trespass, calls for family reunification (2025)",
+      "url": "https://leadership.ng/tinubu-estate-administrator-decries-trespass-calls-for-family-reunification/"
+     }
+    },
+    {
+     "name": "Garuba Bakare",
+     "relation": "head of the Iyalode Tinubu family as named in court-enforced land recovery",
+     "role": "Led the family's 2021 repossession of c.8.99 acres with 50+ houses in Surulere after a Lagos High Court judgment",
+     "sector": "Land & estates",
+     "year": 2021,
+     "basis": "documented",
+     "source": {
+      "label": "ThisDay — Tinubu family takes possession of land with 50 houses in Surulere (2021)",
+      "url": "https://www.thisdaylive.com/2021/07/18/tinubu-family-takes-possession-of-land-with-50-houses-in-surulere/"
+     }
+    }
+   ]
   },
   {
    "id": "elizabeth-frazer-skelton",
@@ -1712,7 +1750,33 @@
      "basis": "documented"
     }
    ],
-   "today": "The Amachree line, now headed by the Princewill family, still holds the Kalabari throne at Buguma; King Amachree XI (Prof. T. J. T. Princewill) died in 2023, after which a regent chief oversaw the kingdom pending the installation of a successor. The novelist Victoria Princewill has written publicly about the family's role in the trade. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The Amachree line, now headed by the Princewill family, still holds the Kalabari throne at Buguma; King Amachree XI (Prof. T. J. T. Princewill) died in 2023, after which a regent chief oversaw the kingdom pending the installation of a successor. The novelist Victoria Princewill has written publicly about the family's role in the trade. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading. Tonye Princewill, son of Amachree XI, is a politician and investor and was installed paramount head of Da Ogo Polo in Buguma.",
+   "today_people": [
+    {
+     "name": "Tonye Princewill",
+     "relation": "son of King T. J. T. Princewill, Amachree XI (d. 2023), of the Kalabari royal line",
+     "role": "Investor, film producer and politician (Rivers State governorship candidate 2007, 2015); installed Da Abbiye-Ogo VI, paramount head of Da Ogo Polo, Buguma",
+     "sector": "Politics & government",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Tonye Princewill",
+      "url": "https://en.wikipedia.org/wiki/Tonye_Princewill"
+     }
+    },
+    {
+     "name": "Victoria Princewill",
+     "relation": "member of the Princewill (Amachree) royal family of Kalabari",
+     "role": "English novelist; wrote publicly (Granta, 2021) about her family heritage and the region's ruling structures",
+     "sector": "Culture & media",
+     "year": 2021,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Victoria Princewill",
+      "url": "https://en.wikipedia.org/wiki/Victoria_Princewill"
+     }
+    }
+   ]
   },
   {
    "id": "damels-of-cayor",
@@ -1966,7 +2030,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Saloum was restored in 2017 as a non-sovereign traditional monarchy within Senegal. Thierno Coumba Daga Ndao was crowned at Kahone on 21 May 2017 and was still king as of 2024; he is the maternal uncle of the current King of Sine. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "Saloum was restored in 2017 as a non-sovereign traditional monarchy within Senegal. Thierno Coumba Daga Ndao was crowned at Kahone on 21 May 2017 and was still king as of 2024; he is the maternal uncle of the current King of Sine. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Thierno Coumba Daga Ndao",
+     "relation": "Buur of the restored Saloum monarchy",
+     "role": "Crowned King of Saloum at Kahone, 21 May 2017 (non-sovereign traditional monarchy)",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Saloum",
+      "url": "https://en.wikipedia.org/wiki/Saloum"
+     }
+    }
+   ]
   },
   {
    "id": "kingdom-of-kaabu",
@@ -2689,7 +2767,7 @@
   {
    "year": 2025,
    "title": "Tinubu estate administrator claims presidential descent",
-   "text": "The administrator of Madam Tinubu's estate publicly calls President Bola Tinubu a direct descendant; no genealogical evidence has been published and the claim is disputed.",
+   "text": "At the 138th remembrance of Madam Tinubu (December 2025), estate administrator Chief Akindele Adamakin calls President Bola Tinubu a 'direct descendant'; he offers no evidence, no genealogy has been published, and the claim is disputed, so the descent remains unproven.",
    "ids": [
     "tinubu-family",
     "madam-tinubu"

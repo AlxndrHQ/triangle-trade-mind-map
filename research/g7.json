@@ -837,7 +837,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Arlington House is an NPS memorial inside Arlington National Cemetery, and the restored slave quarters now centre the enslaved community's story. Syphax descendants, from the line of Maria Carter Syphax, have been civic leaders and educators in the Washington area, and the family is publicly recognised by the NPS. Private living descendants are not named."
+   "today": "Arlington House is an NPS memorial inside Arlington National Cemetery, and the restored slave quarters now centre the enslaved community's story. Syphax descendants, from the line of Maria Carter Syphax, have been civic leaders and educators in the Washington area, and the family is publicly recognised by the NPS. Private living descendants are not named.",
+   "today_people": [
+    {
+     "name": "Stephen Hammond",
+     "relation": "Syphax descendant; the Syphax line is reported to descend from G. W. P. Custis via Maria Carter Syphax (parentage is strongly evidenced but still discussed)",
+     "role": "Genealogist; trustee of the Arlington House Foundation; has pressed for full interpretation of the enslaved community and removal of Lee's name from Arlington House",
+     "sector": "Advocacy & repair",
+     "year": 2021,
+     "basis": "interpretive",
+     "source": {
+      "label": "Mount Vernon — Tracing the history of the Syphax family with Steve Hammond and Brenda Parker",
+      "url": "https://www.mountvernon.org/library/digitalhistory/podcast/tracing-the-history-of-the-syphax-family-with-steve-hammond-and-brenda-parker"
+     }
+    }
+   ]
   },
   {
    "id": "andrew-jackson",
@@ -2028,7 +2042,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Both lines of descendants are public. The Monticello Association is the society of Jefferson's documented white descendants. Hemings descendants such as Shannon Lanier, co-author of 'Jefferson's Children' (2000), have spoken widely about the family. Journalist Lucian K. Truscott IV, a Randolph-line descendant, campaigned for Hemings descendants to be recognised. Monticello's Getting Word project has recorded descendants of the enslaved community since 1993."
+   "today": "Both lines of descendants are public. The Monticello Association is the society of Jefferson's documented white descendants. Hemings descendants such as Shannon Lanier, co-author of 'Jefferson's Children' (2000), have spoken widely about the family. Journalist Lucian K. Truscott IV, a Randolph-line descendant, campaigned for Hemings descendants to be recognised. Monticello's Getting Word project has recorded descendants of the enslaved community since 1993.",
+   "today_people": [
+    {
+     "name": "Gayle Jessup White",
+     "relation": "descendant of Peter Hemings (son of John Wayles and Betty Hemings) and of Jefferson's family, per DNA research in her book",
+     "role": "Author of 'Reclamation' (2021); Public Relations & Community Engagement Officer at the Thomas Jefferson Foundation (Monticello), first descendant employed there",
+     "sector": "Advocacy & repair",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "Virginia Museum of History & Culture — Reclamation: How a Monticello descendant uncovered and restored her family's heritage",
+      "url": "https://virginiahistory.org/learn/reclamation-how-monticello-descendant-uncovered-and-restored-her-familys-heritage"
+     }
+    },
+    {
+     "name": "Lucian K. Truscott IV",
+     "relation": "descendant of Thomas Jefferson via the Randolph line",
+     "role": "Journalist and author; campaigned for Hemings descendants' admission to the Monticello Association",
+     "sector": "Advocacy & repair",
+     "year": 2020,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Lucian Truscott IV",
+      "url": "https://en.wikipedia.org/wiki/Lucian_Truscott_IV"
+     }
+    }
+   ]
   },
   {
    "id": "austin-woolfolk",
@@ -2440,7 +2480,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Ball family plantations were sold off after 1865. The family's best-known public descendant is Edward Ball, whose 1998 book won the National Book Award. Thomalind Martin Polite has spoken publicly about her line, and her family's story is in the International African American Museum. No other living descendants are named."
+   "today": "Ball family plantations were sold off after 1865. The family's best-known public descendant is Edward Ball, whose 1998 book won the National Book Award. Thomalind Martin Polite has spoken publicly about her line, and her family's story is in the International African American Museum. No other living descendants are named.",
+   "today_people": [
+    {
+     "name": "Edward Ball",
+     "relation": "descendant of the Ball family of South Carolina (own books)",
+     "role": "Author of 'Slaves in the Family' (National Book Award 1998), which traced the people the family enslaved and their descendants",
+     "sector": "Advocacy & repair",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "Edward Ball — Slaves in the Family",
+      "url": "https://www.edwardball.com/slaves-in-the-family"
+     }
+    },
+    {
+     "name": "Thomalind Martin Polite",
+     "relation": "descendant of Priscilla, a girl enslaved by the Ball family (descendant of the enslaved)",
+     "role": "Public speaker; her family story is presented at the International African American Museum, Charleston",
+     "sector": "Advocacy & repair",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Charleston City Paper — Polite: My family's link to West Africa is told in IAAM exhibit (2024)",
+      "url": "https://charlestoncitypaper.com/2024/01/22/polite-my-familys-link-to-west-africa-is-told-in-iaam-exhibit/"
+     }
+    }
+   ]
   },
   {
    "id": "hampton-family",
@@ -2739,7 +2805,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Middleton Place belongs to the Middleton Place Foundation, set up by descendant Charles H. P. Duell, who led it for decades before stepping back around 2018. Since 2006 it has held joint reunions of white Middleton descendants and descendants of the people the family enslaved. Private family members are not named."
+   "today": "Middleton Place belongs to the Middleton Place Foundation, set up by descendant Charles H. P. Duell, who led it for decades before stepping back around 2018. Since 2006 it has held joint reunions of white Middleton descendants and descendants of the people the family enslaved. Private family members are not named.",
+   "today_people": [
+    {
+     "name": "Charles H. P. Duell",
+     "relation": "Middleton descendant",
+     "role": "Founder and long-time head of the Middleton Place Foundation; stepped back c.2018; started joint reunions with descendants of the enslaved",
+     "sector": "Land & estates",
+     "year": 2018,
+     "basis": "documented",
+     "source": {
+      "label": "Charleston Magazine — Charles Duell steps down after nearly 50 years",
+      "url": "https://charlestonmag.com/node/33240"
+     }
+    }
+   ]
   },
   {
    "id": "pinckney-family",

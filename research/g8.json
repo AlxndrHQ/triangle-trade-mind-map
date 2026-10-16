@@ -155,7 +155,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Philipse estates were confiscated and sold after the Revolution, so the family fortune did not pass down in New York; Frederick Philipse III and Mary Philipse Morris ended their lives in England, and descendants of Susanna Philipse Robinson settled among the Loyalists of New Brunswick. Through Margaret Hardenbroeck's daughter Eva, who married Jacobus Van Cortlandt, the line runs to Founding Father John Jay. Philipsburg Manor (Sleepy Hollow) is run by Historic Hudson Valley as a site interpreting northern colonial slavery, and Philipse Manor Hall in Yonkers is a New York State Historic Site."
+   "today": "The Philipse estates were confiscated and sold after the Revolution, so the family fortune did not pass down in New York; Frederick Philipse III and Mary Philipse Morris ended their lives in England, and descendants of Susanna Philipse Robinson settled among the Loyalists of New Brunswick. Through Margaret Hardenbroeck's daughter Eva, who married Jacobus Van Cortlandt, the line runs to Founding Father John Jay. Philipsburg Manor (Sleepy Hollow) is run by Historic Hudson Valley as a site interpreting northern colonial slavery, and Philipse Manor Hall in Yonkers is a New York State Historic Site.",
+   "today_people": []
   },
   {
    "id": "peter-stuyvesant",
@@ -307,7 +308,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Stuyvesant's land wealth passed to prominent New York families, the Stuyvesants, Fishes and Rutherfurds, including Hamilton Fish and his son Stuyvesant Fish (1851–1923), president of the Illinois Central Railroad. The family vault at St Mark's Church in-the-Bowery was sealed in 1953 after the burial of Augustus Van Horne Stuyvesant Jr., described as the last direct descendant in the male line. The church still stands on the former bouwerij, and Stuyvesant Square, Stuyvesant Street and Elizabeth Fish's garden keep the family names."
+   "today": "Stuyvesant's land wealth passed to prominent New York families, the Stuyvesants, Fishes and Rutherfurds, including Hamilton Fish and his son Stuyvesant Fish (1851–1923), president of the Illinois Central Railroad. The family vault at St Mark's Church in-the-Bowery was sealed in 1953 after the burial of Augustus Van Horne Stuyvesant Jr., described as the last direct descendant in the male line. The church still stands on the former bouwerij, and Stuyvesant Square, Stuyvesant Street and Elizabeth Fish's garden keep the family names. Through the Fish family, descendants include the publisher and activist Hamilton Fish V.",
+   "today_people": [
+    {
+     "name": "Hamilton Fish V",
+     "relation": "descendant of Peter Stuyvesant through Elizabeth Stuyvesant and Nicholas Fish (Fish political family)",
+     "role": "Publisher and progressive activist (former publisher of The Nation); grandson of Congressman Hamilton Fish III",
+     "sector": "Culture & media",
+     "year": 2020,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Hamilton Fish",
+      "url": "https://en.wikipedia.org/wiki/Hamilton_Fish"
+     }
+    }
+   ]
   },
   {
    "id": "van-cortlandt-family",
@@ -445,7 +460,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Through Mary Van Cortlandt, daughter of Jacobus and Eva, the family line runs to Founding Father John Jay. The Croton manor stayed in the family until 1945; John D. Rockefeller Jr. bought it in 1953, and Historic Hudson Valley runs it today. The Bronx house, sold to the city in 1888, is run as the Van Cortlandt House Museum by the National Society of Colonial Dames in the State of New York, with an attic exhibit on the people enslaved there."
+   "today": "Through Mary Van Cortlandt, daughter of Jacobus and Eva, the family line runs to Founding Father John Jay. The Croton manor stayed in the family until 1945; John D. Rockefeller Jr. bought it in 1953, and Historic Hudson Valley runs it today. The Bronx house, sold to the city in 1888, is run as the Van Cortlandt House Museum by the National Society of Colonial Dames in the State of New York, with an attic exhibit on the people enslaved there.",
+   "today_people": []
   },
   {
    "id": "willem-gideon-deutz",
@@ -583,7 +599,8 @@
      "basis": "interpretive"
     }
    ],
-   "today": "No publicly documented direct descendants of Willem Gideon Deutz have been traced. The Deutz van Assendelft name continued among Amsterdam's patrician families into the 19th century. His house at Herengracht 605 is now Museum Willet-Holthuysen (Amsterdam Museum), named after later owners who left it to the city in 1895. The plantation loans his firm pioneered led to the planter defaults of the 1770s."
+   "today": "No publicly documented direct descendants of Willem Gideon Deutz have been traced. The Deutz van Assendelft name continued among Amsterdam's patrician families into the 19th century. His house at Herengracht 605 is now Museum Willet-Holthuysen (Amsterdam Museum), named after later owners who left it to the city in 1895. The plantation loans his firm pioneered led to the planter defaults of the 1770s.",
+   "today_people": []
   },
   {
    "id": "coopstad-and-rochussen",
@@ -718,7 +735,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The firm no longer exists. Its best-known descendant is Jan Jacob Rochussen (1797–1871), grandson of the co-founder, who later defended a Dutch abolition proposal in parliament as a minister; the plan stalled over planters' demands for compensation. The firm's papers are held by the Rotterdam City Archives. Rotterdam's mayor apologised for the city's role in slavery in 2021."
+   "today": "The firm no longer exists. Its best-known descendant is Jan Jacob Rochussen (1797–1871), grandson of the co-founder, who later defended a Dutch abolition proposal in parliament as a minister; the plan stalled over planters' demands for compensation. The firm's papers are held by the Rotterdam City Archives. Rotterdam's mayor apologised for the city's role in slavery in 2021.",
+   "today_people": []
   },
   {
    "id": "manuel-pinto-da-fonseca",
@@ -844,7 +862,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. What became of his fortune after his expulsion and his death in Paris in 1855 is not clearly documented in the sources consulted."
+   "today": "No publicly documented descendants have been traced. What became of his fortune after his expulsion and his death in Paris in 1855 is not clearly documented in the sources consulted.",
+   "today_people": []
   },
   {
    "id": "joaquim-ferreira-dos-santos",
@@ -965,7 +984,8 @@
      "basis": "documented"
     }
    ],
-   "today": "He had no direct heirs, and no publicly documented descendants have been traced. His slave-trade fortune went to Porto and Rio charities: the Hospital Conde de Ferreira in Porto still operates, many 'Escolas Conde de Ferreira' buildings survive, and his mausoleum by António Soares dos Reis stands in Agramonte Cemetery."
+   "today": "He had no direct heirs, and no publicly documented descendants have been traced. His slave-trade fortune went to Porto and Rio charities: the Hospital Conde de Ferreira in Porto still operates, many 'Escolas Conde de Ferreira' buildings survive, and his mausoleum by António Soares dos Reis stands in Agramonte Cemetery.",
+   "today_people": []
   },
   {
    "id": "joao-fernandes-vieira",
@@ -1083,7 +1103,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. In 2012, Brazilian Federal Law 12.701 ordered his name entered in the Book of Heroes of the Homeland. He is commemorated as a hero of the Pernambucan Restoration, and the Brazilian Army dates its origins to the Battles of Guararapes; his role in the Angola slave trade is far less remembered."
+   "today": "No publicly documented descendants have been traced. In 2012, Brazilian Federal Law 12.701 ordered his name entered in the Book of Heroes of the Homeland. He is commemorated as a hero of the Pernambucan Restoration, and the Brazilian Army dates its origins to the Battles of Guararapes; his role in the Angola slave trade is far less remembered.",
+   "today_people": []
   },
   {
    "id": "antonio-fernandes-de-elvas",
@@ -1214,7 +1235,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. His business ended with his death in 1623, and the asiento passed to other Portuguese converso financiers until Portugal's break with Spain in 1640."
+   "today": "No publicly documented descendants have been traced. His business ended with his death in 1623, and the asiento passed to other Portuguese converso financiers until Portugal's break with Spain in 1640.",
+   "today_people": []
   },
   {
    "id": "manuel-rodrigues-lamego",
@@ -1334,7 +1356,8 @@
      "basis": "interpretive"
     }
    ],
-   "today": "No publicly documented descendants have been traced. The family's capital and kin moved into the Sephardic merchant communities of Rouen and Amsterdam, and no firm or institution carries the name today."
+   "today": "No publicly documented descendants have been traced. The family's capital and kin moved into the Sephardic merchant communities of Rouen and Amsterdam, and no firm or institution carries the name today.",
+   "today_people": []
   },
   {
    "id": "joachim-nettelbeck",
@@ -1453,7 +1476,8 @@
      "basis": "interpretive"
     }
    ],
-   "today": "No publicly documented descendants have been traced. His legacy is a contested name: the 1807 hero cult, which Nazi propaganda took up, is being reversed by German cities. Berlin's Nettelbeckplatz became Martha-Ndumbe-Platz and Dortmund's Nettelbeckstraße became May-Ayim-Straße."
+   "today": "No publicly documented descendants have been traced. His legacy is a contested name: the 1807 hero cult, which Nazi propaganda took up, is being reversed by German cities. Berlin's Nettelbeckplatz became Martha-Ndumbe-Platz and Dortmund's Nettelbeckstraße became May-Ayim-Straße.",
+   "today_people": []
   },
   {
    "id": "david-de-pury",
@@ -1612,7 +1636,21 @@
      "basis": "documented"
     }
    ],
-   "today": "David de Pury never married and had no children, so he has no direct descendants. The wider Pury family of Neuchâtel survives through collateral lines and keeps a family fund (Caisse de famille). His fortune lives on in Neuchâtel's town hall, schools and hospital and in the contested statue on Place Pury."
+   "today": "David de Pury never married and had no children, so he has no direct descendants. The wider Pury family of Neuchâtel survives through collateral lines and keeps a family fund (Caisse de famille). His fortune lives on in Neuchâtel's town hall, schools and hospital and in the contested statue on Place Pury.",
+   "today_people": [
+    {
+     "name": "Simon de Pury",
+     "relation": "member of the Neuchâtel de Pury family (David de Pury had no children; any link is collateral and not traced)",
+     "role": "Art auctioneer and dealer (formerly Phillips de Pury & Company)",
+     "sector": "Business & trade",
+     "year": 2026,
+     "basis": "interpretive",
+     "source": {
+      "label": "Wikipedia — De Pury family",
+      "url": "https://en.wikipedia.org/wiki/De_Pury_family"
+     }
+    }
+   ]
   },
   {
    "id": "burckhardt-family-basel",
@@ -1751,7 +1789,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Burckhardts remain one of Basel's best-known patrician families. Its wider clan includes public figures such as the historian Jacob Burckhardt (1818–1897), the explorer Johann Ludwig Burckhardt and the diplomat and Red Cross president Carl Jacob Burckhardt, though they come from other lines than Christoph's slave-trade branch. The Segerhof papers are now a public research source on Swiss involvement in slavery."
+   "today": "The Burckhardts remain one of Basel's best-known patrician families. Its wider clan includes public figures such as the historian Jacob Burckhardt (1818–1897), the explorer Johann Ludwig Burckhardt and the diplomat and Red Cross president Carl Jacob Burckhardt, though they come from other lines than Christoph's slave-trade branch. The Segerhof papers are now a public research source on Swiss involvement in slavery.",
+   "today_people": []
   },
   {
    "id": "pourtales-family",
@@ -1882,7 +1921,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The family still exists, with lines in Neuchâtel, Bern, Germany, France, North America and Geneva, and its prominent members are historical figures (diplomats, Olympians, writers, the salon hostess Mélanie de Pourtalès at the Château de Pourtalès in Strasbourg). Hôpital Pourtalès in Neuchâtel, founded in 1808, still bears the name."
+   "today": "The family still exists, with lines in Neuchâtel, Bern, Germany, France, North America and Geneva, and its prominent members are historical figures (diplomats, Olympians, writers, the salon hostess Mélanie de Pourtalès at the Château de Pourtalès in Strasbourg). Hôpital Pourtalès in Neuchâtel, founded in 1808, still bears the name.",
+   "today_people": []
   },
   {
    "id": "isaak-faesch",
@@ -2011,7 +2051,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced: Faesch died without direct heirs. His estate of about 121,000 guilders went to Basel relatives after nearly a decade of settlement. He now features in Swiss research on Basel citizens who served colonial slavery."
+   "today": "No publicly documented descendants have been traced: Faesch died without direct heirs. His estate of about 121,000 guilders went to Basel relatives after nearly a decade of settlement. He now features in Swiss research on Basel citizens who served colonial slavery.",
+   "today_people": []
   },
   {
    "id": "leu-and-co-zurich",
@@ -2153,7 +2194,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The institution has no family heirs; its corporate line ran from Bank Leu, which Credit Suisse called 'Switzerland's oldest bank', through Clariden Leu and Credit Suisse to UBS, which absorbed Credit Suisse in 2023–24. Zurich's 2020 study of the city's colonial entanglements brought this early state investment in slave-trading companies back into public debate."
+   "today": "The institution has no family heirs; its corporate line ran from Bank Leu, which Credit Suisse called 'Switzerland's oldest bank', through Clariden Leu and Credit Suisse to UBS, which absorbed Credit Suisse in 2023–24. Zurich's 2020 study of the city's colonial entanglements brought this early state investment in slave-trading companies back into public debate.",
+   "today_people": []
   },
   {
    "id": "bern-south-sea-shares",

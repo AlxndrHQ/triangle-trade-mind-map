@@ -273,6 +273,15 @@ ol.steps li b,ul.bul li b{color:var(--text);font-weight:600}
 .lin button.nm:hover{color:var(--accent)}
 .lin .yr{font:500 11px var(--mono);color:var(--muted);margin-left:6px}
 .today{margin-top:14px;padding:12px 14px;background:var(--bg2);border-radius:2px;font-size:13.5px;color:var(--text2)}
+.named{margin-top:10px;font-size:12px;color:var(--muted)}
+.named span{font:500 9px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-right:6px}
+.tp{list-style:none;margin:10px 0 0;padding:0;border-top:1px solid var(--line)}
+.tp li{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:9px 0;border-bottom:1px solid var(--line)}
+.tp .nm{font:400 15px var(--serif);color:var(--text)}
+.tp .sec2{font:500 9px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);text-align:right;white-space:nowrap}
+.tp .rl2{grid-column:1/-1;font-size:12.5px;color:var(--text2)}
+.tp .rel2{grid-column:1/-1;font-size:11.5px;color:var(--muted)}
+.tp a{font:500 9.5px var(--mono);letter-spacing:.06em;text-decoration:none}
 .today b{display:block;font:500 9px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-bottom:4px}
 .dev{border-top:1px solid var(--line)}
 .dev div{display:grid;grid-template-columns:56px 1fr;gap:10px;border-bottom:1px solid var(--line);padding:9px 0;font-size:13px;color:var(--text2)}
@@ -363,7 +372,7 @@ ol.steps li b,ul.bul li b{color:var(--text);font-weight:600}
     <div class="row2">
       <div class="fgroup"><span class="lbl">Period</span><div class="seg" id="eraSeg" role="group" aria-label="Period"></div></div>
       <div class="fgroup"><span class="lbl">Group</span><div class="chips" id="catChips"></div></div>
-      <div class="fgroup"><span class="lbl">Role</span><div class="seg" id="roleSeg" role="group" aria-label="Role"></div></div>
+      <div class="fgroup"><span class="lbl">Role</span><select class="nsel" id="roleSel" aria-label="Role"></select></div>
       <div class="fgroup"><span class="lbl">Nation</span><select class="nsel" id="natSel" aria-label="Nation or polity"></select></div>
       <button class="clearf" id="clearBtn" data-clear hidden>Clear filters ✕</button>
     </div>
@@ -535,8 +544,9 @@ function normalize(raw){
     p.origins,p.role_summary,p.legacy,p.scaleNote,
     ...(p.roleDetail||[]).map(x=>x.t+' '+x.d),...(p.legacyDetail||[]).map(x=>x.t+' '+x.d),
     ...(p.lineage||[]).map(x=>[x.name,x.relation,x.note].join(' ')), p.today,
+    ...(p.placesNamed||[]), ...(p.today_people||[]).map(x=>[x.name,x.role,x.sector].join(' ')),
     ...nbNames(p.id)].join(' ').toLowerCase(); });
-  entities.forEach(e=>{ e._hay=[e.name,e.kind,e.description,...nbNames(e.id)].join(' ').toLowerCase(); });
+  entities.forEach(e=>{ e._hay=[e.name,e.kind,e.description,...(e.placesNamed||[]),...nbNames(e.id)].join(' ').toLowerCase(); });
   const nations=[...new Set(profiles.map(p=>p.nation).filter(Boolean))].sort();
   return {profiles, entities, links, byId, events, evBy, nations};
 }
@@ -701,8 +711,8 @@ function renderChips(){
   document.getElementById('catChips').innerHTML = items.map(([k,l,c,n])=>
     `<button class="chip" data-cat="${esc(k)}" aria-pressed="${state.cat===k}" style="--c:${c}">${k==='all'?'':'<span class="d"></span>'}${esc(l)} <span class="n">${n}</span></button>`).join('');
   const rb = DATA.profiles.filter(p=>passCat(p)&&passNat(p)&&passEra(p)&&matchQ(p));
-  document.getElementById('roleSeg').innerHTML = [['all','All'],...ROLES.map(r=>[r,r])].filter(([k])=>k==='all'||DATA.profiles.some(p=>p.role===k)).map(([k,l])=>
-    `<button data-role="${esc(k)}" aria-pressed="${state.role===k}">${esc(l)} <span class="n">${k==='all'?rb.length:rb.filter(p=>p.role===k).length}</span></button>`).join('');
+  document.getElementById('roleSel').innerHTML = `<option value="all">All (${rb.length})</option>`+ROLES.filter(k=>DATA.profiles.some(p=>p.role===k)).map(k=>
+    `<option value="${esc(k)}" ${state.role===k?'selected':''}>${esc(k)} (${rb.filter(p=>p.role===k).length})</option>`).join('');
   const eb = DATA.profiles.filter(p=>passCat(p)&&passRole(p)&&passNat(p)&&matchQ(p));
   const inP = (p,P) => p._s==null || (p._s<=P.to && p._e>=P.from);
   document.getElementById('eraSeg').innerHTML = [['all','All',eb.length,'Every period'],...PERIODS.map(P=>[P.k,P.label,eb.filter(p=>inP(p,P)).length,P.title])].map(([k,l,n,t])=>
@@ -714,7 +724,8 @@ function renderChips(){
 }
 function bindUI(){
   const on=(id,attr,key)=>document.getElementById(id).addEventListener('click',e=>{ const b=e.target.closest(`[data-${attr}]`); if(b){ state[key]=b.dataset[attr]; refresh(); } });
-  on('catChips','cat','cat'); on('eraSeg','era','era'); on('roleSeg','role','role');
+  on('catChips','cat','cat'); on('eraSeg','era','era');
+  document.getElementById('roleSel').addEventListener('change',e=>{ state.role=e.target.value; refresh(); });
   document.getElementById('natSel').addEventListener('change',e=>{ state.nation=e.target.value; refresh(); });
   document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>{ location.hash='#/'+hashOf(b.dataset.view); }));
   document.getElementById('ovlBtn').addEventListener('click',e=>{
@@ -1017,6 +1028,7 @@ function renderOverlaps(){
     <div class="gridhead"><h2>Where the Players Connect</h2><span class="meta">${hubs.length} shared hub${hubs.length===1?'':'s'} · ${people.size} players connected · ${ties.length} direct tie${ties.length===1?'':'s'}</span></div>
     ${filterNote()}
     <p class="lede">Two questions: who is still here, and where did the players meet? A company, bank, port, fort or institution counts as shared when two or more players reach it through trade, ownership, finance, charter, voyage, plantation or family links, up to ${OVL_HOPS} steps away. Click any name to open its dossier, or switch on “Overlaps only” on the Web to see these paths.</p>
+    ${publicLifeHTML(ok)}
     ${todayHTML(ok)}
     <h3 class="subh">Shared hubs</h3>
     <div class="hubs">${hubs.map(({id,ppl,out})=>{ const e=DATA.byId[id]; return `<article class="hub">
@@ -1025,6 +1037,27 @@ function renderOverlaps(){
     ${cross.length?`<h3 class="subh">Across the triangle: direct ties between groups</h3><p class="lede small">Direct links between, for example, a European family and an African ruler, or an American merchant and a European bank.</p><div class="ties">${cross.map(tieRow).join('')}</div>`:''}
     ${ties.length>cross.length?`<h3 class="subh">Direct ties within a group</h3><div class="ties">${ties.filter(l=>!cross.includes(l)).map(tieRow).join('')}</div>`:''}
     <p class="foot">${esc(META.disclaimer)}</p>`;
+}
+/* Descendants and heirs in public life today, grouped by sector; each person once, with every family they connect to.
+   Current heads of successor firms with no family link are kept apart so they are never read as descendants. */
+const isLeaderOnly = x => { const r=x.relation||''; return /^no (documented )?family link/i.test(r) || (/^(chief executive|current head|leader of)/i.test(r) && !/descend|heir|grand|son of|daughter of/i.test(r)); };
+function publicLifeHTML(ok){
+  const SECT=['Banking & finance','Business & trade','Politics & government','Land & estates','Royalty & titles','Culture & media','Advocacy & repair'];
+  const LEAD='Leaders of successor institutions (no family link)';
+  const people=new Map();   // key: group|name
+  DATA.profiles.filter(p=>ok.has(p.id)).forEach(p=>(p.today_people||[]).forEach(x=>{
+    if(terms().length && !matchQ(p) && !terms().every(w=>(x.name+' '+x.role).toLowerCase().includes(w))) return;
+    const g=isLeaderOnly(x)?LEAD:(SECT.includes(x.sector)?x.sector:'Other'), k=g+'|'+x.name.trim().toLowerCase();
+    if(!people.has(k)) people.set(k,{g,x,ps:[]}); const e=people.get(k); if(!e.ps.includes(p)) e.ps.push(p);
+    if(x.basis==='documented') e.x={...e.x,basis:'documented'};
+  }));
+  if(!people.size) return '';
+  const by=new Map(); people.forEach(e=>{ (by.get(e.g)||by.set(e.g,[]).get(e.g)).push(e); });
+  const fam=[...people.values()].filter(e=>e.g!==LEAD).length;
+  return `<h3 class="subh">In public life today<span class="n">${fam} people</span></h3>
+    <p class="lede small">Public figures today who are documented descendants or title-heirs of families tied to the trade, grouped by where they hold influence. A family link is not guilt, and many of these people have apologised or fund repair work (see Advocacy &amp; repair). “Unproven” marks a disputed claim. The heads of successor banks and insurers are listed separately, because they run the institution but have no family link.</p>
+    <div class="hubs">${[...SECT,'Other',LEAD].filter(k=>by.has(k)).map(k=>`<article class="hub"><div class="hh"><div><span style="font:400 19px/1.2 var(--serif)">${esc(k)}</span></div><span class="cnt">${by.get(k).length}</span></div>
+      <ul class="who">${by.get(k).sort((a,b)=>a.x.name.localeCompare(b.x.name)).map(({x,ps})=>`<li><button data-open="${esc(ps[0].id)}"><span class="d" style="background:${catColor(ps[0])}"></span><span class="nm">${esc(x.name)}</span><span class="via">${esc(x.role||'')} · ${esc(ps.map(p=>p.name).join(', '))}${x.basis&&x.basis!=='documented'?' · unproven':''}</span></button></li>`).join('')}</ul></article>`).join('')}</div>`;
 }
 /* Still here today: firms, families and institutions with no end year, and their documented ties back to the trade era */
 function todayHTML(ok){
@@ -1083,6 +1116,7 @@ function dossierHTML(n){
     <div class="eyebrow"><span><span class="d"></span> ${esc(n.category)}</span><span>${esc(n.nation||'')}</span></div>
     <h2>${esc(n.name)}</h2>
     <div class="life">${(n.aliases||[]).length?'“'+esc(n.aliases[0])+'” · ':''}${esc(n.lifespan||'')}${n.base?' · '+esc(n.base):''}</div>
+    ${(n.placesNamed||[]).length?`<div class="named"><span>Named after them</span>${n.placesNamed.map(esc).join(' · ')}</div>`:''}
     <div class="dbadges">
       <div class="dbadge"><label>Role</label>${esc(n.role||'—')}</div>
       <div class="dbadge"><label>${isLife(n)?'Years':'Active in the trade'}</label>${esc(activeLabel(n))}</div>
@@ -1105,9 +1139,13 @@ function dossierHTML(n){
     <p class="disc">${esc(META.disclaimer)}</p>
   </div>`;
 }
+const tpList = arr => (arr||[]).length ? `<h4 class="lbl" style="margin:16px 0 0">In public life today</h4><ul class="tp">${arr.map(x=>`<li>
+  <span class="nm">${esc(x.name)}</span><span class="sec2">${esc(x.sector||'')}</span>
+  <span class="rl2">${esc(x.role||'')}${x.year?` <span style="color:var(--dim)">(${esc(x.year)})</span>`:''}</span>
+  <span class="rel2">${isLeaderOnly(x)?'<b>Leads the successor institution, no family link.</b> ':''}${esc(x.relation||'')}${x.basis&&x.basis!=='documented'?' · <b>claimed / unproven</b>':''}${x.source?.url?` · <a href="${esc(x.source.url)}" target="_blank" rel="noopener">${esc(x.source.label||'source')} ↗</a>`:''}</span></li>`).join('')}</ul>` : '';
 /* Family & lineage: mentors and predecessors → the person → heirs → today (public record only) */
 function lineageHTML(n,nx){
-  const L=n.lineage||[]; if(!L.length && !n.today) return '';
+  const L=n.lineage||[]; if(!L.length && !n.today && !(n.today_people||[]).length) return '';
   const cut=L.findIndex(x=>/\b(sons?|daughters?|heirs?|grandsons?|granddaughters?|grandchildren|descendants?|successors?|nephews?|nieces?|child|children|widow|great-grandsons?)\b/i.test(x.relation||''));
   const row=x=>{ const linked=x.id&&DATA.byId[x.id];
     return `<li><span class="rl">${esc(x.relation||'')}</span>${linked?`<button class="nm" data-go="${esc(x.id)}">${esc(x.name)}</button>`:`<span class="nm">${esc(x.name)}</span>`}${x.years?`<span class="yr">${esc(x.years)}</span>`:''}
@@ -1116,7 +1154,8 @@ function lineageHTML(n,nx){
   const before=cut<0?L:L.slice(0,cut), after=cut<0?[]:L.slice(cut);
   return `<section class="sec"><h3><span class="num">${nx()}</span>Family &amp; Lineage</h3>
     ${L.length?`<ul class="lin">${before.map(row).join('')}<li class="self"><span class="rl">this dossier</span><span class="nm">${esc(n.name)}</span><span class="yr">${esc(n.lifespan||'')}</span></li>${after.map(row).join('')}</ul>`:''}
-    ${n.today?`<div class="today"><b>Today</b>${esc(n.today)}</div>`:''}</section>`;
+    ${n.today?`<div class="today"><b>Today</b>${esc(n.today)}</div>`:''}
+    ${tpList(n.today_people)}</section>`;
 }
 function showDrawer(id){
   const n=DATA.byId[id]; if(!n) return;

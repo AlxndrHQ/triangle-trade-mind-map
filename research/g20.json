@@ -1,0 +1,3657 @@
+{
+ "records": [
+  {
+   "id": "thomas-6th-lord-fairfax",
+   "name": "Thomas Fairfax, 6th Lord Fairfax of Cameron",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Proprietor of the c. 5.2-million-acre Northern Neck Proprietary; press reporting on the 2021 renaming of Lord Fairfax Community College stated he held at least 97 enslaved people at his death.",
+   "start": 1747,
+   "end": 1781,
+   "lifespan": "1693–1781",
+   "base": "Greenway Court, White Post (now Clarke County), Virginia",
+   "geo": [
+    39.059,
+    -78.103
+   ],
+   "aliases": [
+    "Lord Fairfax",
+    "6th Baron Fairfax of Cameron"
+   ],
+   "origins": "An English-born Scottish peer, he inherited the Northern Neck Proprietary through his mother, Catherine Culpeper, daughter of Governor Thomas Lord Culpeper. He moved to Virginia in 1747, first to his cousin William Fairfax's Belvoir plantation and then to Greenway Court in the Shenandoah Valley, the only British peer to live permanently in colonial America.",
+   "role_summary": "Fairfax granted and rented out land across the Northern Neck (millions of acres between the Rappahannock and Potomac) and collected quitrents from planters whose wealth came from enslaved labour. He himself held enslaved people at Greenway Court and his other quarters, buying and selling them; he hired the teenage George Washington as a surveyor.",
+   "roleDetail": [
+    {
+     "t": "Landlord of the slave economy.",
+     "d": "As proprietor he issued grants such as the 50,212 acres to Robert 'King' Carter's family, land worked by enslaved people; his quitrent income rested on that system.",
+     "basis": "documented"
+    },
+    {
+     "t": "Enslaver at Greenway Court.",
+     "d": "Reports on the community-college renaming in 2021 said he owned at least 97 enslaved people when he died in 1781; an NPS survey records their quarters as log huts scattered in the woods near the manor.",
+     "basis": "documented"
+    },
+    {
+     "t": "Washington's first employer.",
+     "d": "He employed George Washington as a surveyor in 1748, beginning the Fairfax–Washington ties that shaped northern Virginia's planter elite.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His proprietary was confiscated piecemeal after the Revolution and the land passed to Virginia grantees and to heirs who sold it. His name is on Fairfax County, the City of Fairfax and thousands of local institutions; in 2021 the Lord Fairfax Community College board voted to drop his name because he was an enslaver.",
+   "legacyDetail": [
+    {
+     "t": "College renamed.",
+     "d": "Lord Fairfax Community College in Middletown became Laurel Ridge Community College (2022) after its board cited his slaveholding.",
+     "basis": "documented"
+    },
+    {
+     "t": "County seal kept.",
+     "d": "Fairfax County's seal still uses a version of his arms; in 2021 the county's history commission said reviewing it was not a priority.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Culpeper, 2nd Baron Culpeper",
+     "relation": "grandfather",
+     "years": "1635–1689",
+     "note": "Governor of Virginia whose Northern Neck claim passed through his daughter to the Fairfaxes.",
+     "basis": "documented",
+     "id": "thomas-lord-culpeper"
+    },
+    {
+     "name": "Catherine Culpeper, Lady Fairfax",
+     "relation": "mother",
+     "years": "d. 1719",
+     "note": "Heiress of the Northern Neck Proprietary; on her death it passed to her son Thomas.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Fairfax of Belvoir",
+     "relation": "cousin & agent",
+     "years": "1691–1757",
+     "note": "Ran the proprietary's land office in Virginia and built the Belvoir slave plantation.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bryan Fairfax, 8th Lord Fairfax",
+     "relation": "heir to title",
+     "years": "1736–1802",
+     "note": "Virginia clergyman; the barony descended through his line after the 6th Lord died unmarried.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nicholas Fairfax, 14th Lord Fairfax of Cameron",
+     "relation": "titleholder",
+     "years": "b. 1956",
+     "note": "Present holder of the title, descended from the Virginia branch of the family.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The barony survives: Nicholas Fairfax, 14th Lord Fairfax of Cameron, a barrister, descends from the Virginia branch via Bryan Fairfax and sat in the House of Lords in 1977–99 and again as an elected hereditary peer from 2015 until hereditary seats ended on 29 April 2026. Greenway Court's land office survives on private land; the 6th Lord, unmarried, left no direct descendants.",
+   "placesNamed": [
+    "Fairfax County, Virginia",
+    "City of Fairfax, Virginia",
+    "Fairfax Stone, West Virginia",
+    "Lord Fairfax Community College (renamed Laurel Ridge, 2022)"
+   ],
+   "today_people": [
+    {
+     "name": "Nicholas Fairfax, 14th Lord Fairfax of Cameron",
+     "relation": "holder of the barony; descends from the Virginia Fairfax line (peerage records)",
+     "role": "Hereditary peer and barrister; sat in the Lords 1977–99 and 2015–26 (seat ended 29 April 2026 under the Hereditary Peers Act 2026)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Nicholas Fairfax, 14th Lord Fairfax of Cameron",
+      "url": "https://en.wikipedia.org/wiki/Nicholas_Fairfax,_14th_Lord_Fairfax_of_Cameron"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Thomas Fairfax, 6th Lord Fairfax of Cameron",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Fairfax,_6th_Lord_Fairfax_of_Cameron"
+    },
+    {
+     "label": "Northern Virginia Daily — Board votes to change name of Lord Fairfax Community College",
+     "url": "https://www.nvdaily.com/nvdaily/board-votes-to-change-name-of-lord-fairfax-community-college/article_dd3a7bab-aadd-5896-b33c-2f1c978cbe26.html"
+    },
+    {
+     "label": "Tysons Reporter — Fairfax County's emblem has a complicated history (2021)",
+     "url": "https://www.tysonsreporter.com/2021/06/16/as-arlington-seeks-new-logo-fairfax-countys-emblem-has-a-complicated-history-of-its-own/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Fairfax",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioF.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "greenway-court",
+     "type": "plantation",
+     "label": "manor and land office"
+    },
+    {
+     "id": "thomas-lord-culpeper",
+     "type": "family",
+     "label": "grandson and heir to Northern Neck"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "employed as surveyor 1748"
+    },
+    {
+     "id": "john-campbell-earl-of-loudoun",
+     "type": "political",
+     "label": "Loudoun County carved from Fairfax 1757"
+    }
+   ]
+  },
+  {
+   "id": "thomas-lord-culpeper",
+   "name": "Thomas Culpeper, 2nd Baron Culpeper of Thoresway",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Governor of Virginia 1677–83 (mostly absent) and proprietor of the Northern Neck; no documented enslaving of his own, but his tenure coincided with the shift from servants to enslaved Africans after Bacon's Rebellion.",
+   "start": 1673,
+   "end": 1689,
+   "lifespan": "1635–1689",
+   "base": "Leeds Castle, Kent, England",
+   "geo": [
+    51.249,
+    0.63
+   ],
+   "aliases": [
+    "Lord Colepeper",
+    "Thomas Colepeper"
+   ],
+   "origins": "A royalist courtier, he succeeded his father as baron at the Restoration and was governor of the Isle of Wight. In 1673 he and Henry Bennet, Earl of Arlington, received a 31-year grant of Virginia's quitrents and escheats, and in 1675 a patent to succeed Sir William Berkeley as governor.",
+   "role_summary": "No documented direct ownership of enslaved people. As governor (1677–83) he visited Virginia briefly in 1680 and 1682–83; the 1680 assembly session he presided over is generally dated as passing an act 'for preventing Negroes Insurrections', and he consolidated the Northern Neck Proprietary that the Fairfax family later inherited.",
+   "roleDetail": [
+    {
+     "t": "Northern Neck proprietor.",
+     "d": "He bought out most other claimants by 1681; James II confirmed the proprietary in 1688 and it passed to the Fairfaxes after his daughter's death in 1719.",
+     "basis": "documented"
+    },
+    {
+     "t": "Governor in the post-Bacon transition.",
+     "d": "Historians date the rapid replacement of white servants by enslaved Africans in Virginia to the 1680s, the years of his governorship.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Arlington grant.",
+     "d": "His 1673 joint grant with Arlington of Virginia's quitrents was resented in the colony and surrendered in part in 1684.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The barony became extinct in 1725. His proprietary created the Fairfax land empire of northern Virginia, and Culpeper County (1749) and the town of Culpeper bear the family name.",
+   "legacyDetail": [
+    {
+     "t": "Name uncertain.",
+     "d": "The Library of Virginia says Culpeper County was probably named for Catherine Culpeper, her mother Margaret, Thomas Lord Culpeper, or the family generally.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Culpeper, 1st Baron Culpeper",
+     "relation": "father",
+     "years": "1600–1660",
+     "note": "Royalist granted the Northern Neck by the exiled Charles II in 1649.",
+     "basis": "documented"
+    },
+    {
+     "name": "Katherine Culpeper, Lady Fairfax",
+     "relation": "daughter",
+     "years": "d. 1719",
+     "note": "Married Thomas, 5th Lord Fairfax; her son inherited the proprietary.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas, 6th Lord Fairfax",
+     "relation": "grandson",
+     "years": "1693–1781",
+     "note": "Took up residence in Virginia and ran the proprietary.",
+     "basis": "documented",
+     "id": "thomas-6th-lord-fairfax"
+    }
+   ],
+   "today": "The Culpeper barony became extinct in 1725. His proprietary rights flowed to the Fairfax family; no publicly documented direct descendants of his are associated with the Virginia link beyond the Fairfax title.",
+   "placesNamed": [
+    "Culpeper County, Virginia",
+    "Town of Culpeper, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Thomas Culpeper, second baron Culpeper of Thoresway",
+     "url": "https://encyclopediavirginia.org/entries/culpeper-thomas-second-baron-culpeper-of-thoresway-1635-1689/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Culpeper",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioC.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "thomas-6th-lord-fairfax",
+     "type": "family",
+     "label": "grandson inherited Northern Neck"
+    },
+    {
+     "id": "henry-bennet-earl-of-arlington",
+     "type": "charter",
+     "label": "joint 1673 Virginia grant"
+    },
+    {
+     "id": "sir-william-berkeley",
+     "type": "political",
+     "label": "succeeded as governor"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "charter",
+     "label": "James II confirmed proprietary 1688"
+    }
+   ]
+  },
+  {
+   "id": "henry-bennet-earl-of-arlington",
+   "name": "Henry Bennet, 1st Earl of Arlington",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Listed as a member/subscriber in the Royal African Company's 1672 charter; co-grantee of Virginia's quitrents in 1673.",
+   "start": 1672,
+   "end": 1685,
+   "lifespan": "c. 1618–1685",
+   "base": "Euston Hall, Suffolk, England",
+   "geo": [
+    52.364,
+    0.785
+   ],
+   "aliases": [
+    "Lord Arlington"
+   ],
+   "origins": "Secretary of State to Charles II and a member of the 'Cabal' ministry, he was created Earl of Arlington in April 1672.",
+   "role_summary": "Arlington was one of the courtiers who subscribed to the Royal African Company when it was rechartered in September 1672, the company that shipped more enslaved Africans than any other British institution in the late 17th century. With Lord Culpeper he received a 1673 grant of Virginia's quitrents and escheats.",
+   "roleDetail": [
+    {
+     "t": "RAC subscriber, 1672.",
+     "d": "The charter's list of members names 'Henry, Earl of Arlington' alongside the Duke of York, Prince Rupert and Shaftesbury.",
+     "basis": "documented"
+    },
+    {
+     "t": "Virginia grant.",
+     "d": "The 1673 Arlington–Culpeper grant of quitrents provoked Virginian protest and was surrendered in part in 1684.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Arlington County, Virginia, is only indirectly linked to him. The county (renamed from Alexandria County in 1920) took its name from G. W. P. Custis's Arlington House, which took the name of the Custis family's Eastern Shore estate; local historians dispute whether that estate was named for the earl or for Arlington, Gloucestershire.",
+   "legacyDetail": [
+    {
+     "t": "Contested namesake.",
+     "d": "Arlington Magazine and the Arlington Historical Society note the Custis estate may predate his 1672 title, so the earl is at most a possible indirect namesake.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Isabella Bennet, Duchess of Grafton",
+     "relation": "daughter & heir",
+     "years": "1668–1723",
+     "note": "Married Henry FitzRoy, 1st Duke of Grafton (son of Charles II); the Arlington titles passed through her.",
+     "basis": "documented"
+    }
+   ],
+   "today": "His earldom passed via his daughter to the Dukes of Grafton (FitzRoy family); the Arlington link to slavery was not inherited as an enterprise. No publicly documented descendants have addressed the link.",
+   "placesNamed": [
+    "Arlington County, Virginia (indirect and contested, via the Custis 'Arlington' estates)",
+    "Arlington Street, London"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — List of officials and shareholders in the Royal African Company, 1672",
+     "url": "https://en.wikipedia.org/wiki/List_of_officials_and_shareholders_in_the_Royal_African_Company,_1672"
+    },
+    {
+     "label": "Arlington Magazine — Thy Name Shall Be Arlington",
+     "url": "https://arlingtonmagazine.com/name-game"
+    },
+    {
+     "label": "Encyclopedia Virginia — Thomas Culpeper (Arlington grant)",
+     "url": "https://encyclopediavirginia.org/entries/culpeper-thomas-second-baron-culpeper-of-thoresway-1635-1689/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "finance",
+     "label": "subscriber 1672"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "political",
+     "label": "fellow RAC subscriber"
+    },
+    {
+     "id": "thomas-lord-culpeper",
+     "type": "charter",
+     "label": "joint Virginia grant 1673"
+    },
+    {
+     "id": "custis-family",
+     "type": "legacy",
+     "label": "Custis 'Arlington' name (contested)"
+    }
+   ]
+  },
+  {
+   "id": "sir-william-berkeley",
+   "name": "Sir William Berkeley",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Governor 1641–52 and 1660–77, when Virginia enacted the 1662 hereditary-slavery law and the 1667 and 1669 acts; held servants and enslaved workers at Green Spring.",
+   "start": 1642,
+   "end": 1677,
+   "lifespan": "1605–1677",
+   "base": "Green Spring plantation, James City County, Virginia",
+   "geo": [
+    37.262,
+    -76.796
+   ],
+   "origins": "A courtier and playwright from a Somerset gentry family, Charles I named him governor of Virginia in 1641. He built Green Spring near Jamestown, experimenting with crops, and returned to power at the Restoration in 1660.",
+   "role_summary": "Berkeley presided over the assembly sessions that turned slavery into a hereditary, racial legal status: the 1662 act making a child's status follow the mother, the 1667 act that baptism did not free, and the 1669 act exempting masters who killed enslaved people during 'correction'. He was also one of the eight Lords Proprietors of Carolina (1663).",
+   "roleDetail": [
+    {
+     "t": "Slave law under his governorship.",
+     "d": "The 1662 partus act, the 1667 baptism act and the 1669 'casual killing' act were all passed by assemblies he governed (Encyclopedia Virginia primary documents).",
+     "basis": "documented"
+    },
+    {
+     "t": "Green Spring.",
+     "d": "NPS records that he worked Green Spring with servants and enslaved labour; one account credits enslaved Africans with advising rice cultivation there.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Bacon's Rebellion.",
+     "d": "His 1676–77 suppression of Bacon's Rebellion is widely seen as hastening planters' turn from indentured servants to enslaved Africans.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He died in London in 1677 after being recalled. Green Spring passed to his widow Frances Culpeper Berkeley and later to the Ludwell family; it is now part of Colonial National Historical Park (NPS).",
+   "legacyDetail": [
+    {
+     "t": "NPS site.",
+     "d": "Green Spring's archaeological remains are managed by the National Park Service as part of Jamestown/Colonial NHP.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Frances Culpeper Stephens Berkeley",
+     "relation": "spouse",
+     "years": "1634–c.1695",
+     "note": "Married 1670; inherited Green Spring and later married Philip Ludwell.",
+     "basis": "documented"
+    },
+    {
+     "name": "Philip Ludwell",
+     "relation": "successor at Green Spring",
+     "years": "c.1638–c.1723",
+     "note": "Frances's third husband; Green Spring stayed with the Ludwell–Lee line.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Berkeley left no children. Green Spring passed through the Ludwell family; no publicly documented descendants exist. The site is federal parkland.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Sir William Berkeley (1605–1677)",
+     "url": "https://encyclopediavirginia.org/entries/berkeley-sir-william-1605-1677/"
+    },
+    {
+     "label": "NPS — Green Spring Plantation",
+     "url": "https://www.nps.gov/jame/learn/historyculture/green-spring-plantation.htm"
+    },
+    {
+     "label": "Encyclopedia Virginia — Negro womens children to serve according to the condition of the mother (1662)",
+     "url": "https://encyclopediavirginia.org/entries/negro-womens-children-to-serve-according-to-the-condition-of-the-mother-1662/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "virginia-partus-law-1662",
+     "type": "charter",
+     "label": "enacted under his governorship"
+    },
+    {
+     "id": "virginia-baptism-act-1667",
+     "type": "charter",
+     "label": "enacted under his governorship"
+    },
+    {
+     "id": "virginia-casual-killing-act-1669",
+     "type": "charter",
+     "label": "enacted under his governorship"
+    },
+    {
+     "id": "charles-i-england",
+     "type": "charter",
+     "label": "appointed governor 1641"
+    },
+    {
+     "id": "thomas-lord-culpeper",
+     "type": "political",
+     "label": "succeeded by"
+    },
+    {
+     "id": "anthony-johnson",
+     "type": "parallel",
+     "label": "free Black planter under his rule"
+    }
+   ]
+  },
+  {
+   "id": "alexander-spotswood",
+   "name": "Alexander Spotswood",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Lieutenant governor 1710–22; held an 86,000-acre Spotsylvania grant and ran the South's first ironworks with enslaved labour (Encyclopedia Virginia gives no headcount).",
+   "start": 1710,
+   "end": 1740,
+   "lifespan": "1676–1740",
+   "base": "Germanna, Spotsylvania (now Orange) County, Virginia",
+   "geo": [
+    38.385,
+    -77.784
+   ],
+   "origins": "Born in the English garrison at Tangier, he was a career soldier wounded at Blenheim. Queen Anne commissioned him lieutenant governor of Virginia in 1710, deputising for the absentee Earl of Orkney.",
+   "role_summary": "Spotswood used his office to secure 86,000 acres in the new county named for him, settled German miners at Germanna and built ironworks that Encyclopedia Virginia says 'relied on slave labor'. He became the largest iron producer in the colonies, exporting pig iron to England.",
+   "roleDetail": [
+    {
+     "t": "Ironworks run by enslaved workers.",
+     "d": "Encyclopedia Virginia: he built the South's first ironworks and, like tobacco planters, relied on enslaved labour to run them.",
+     "basis": "documented"
+    },
+    {
+     "t": "Land grab.",
+     "d": "The Council granted him 86,000 acres in Spotsylvania in 1720, far above the Board of Trade's 1,000-acre limit, a factor in his 1722 removal.",
+     "basis": "documented"
+    },
+    {
+     "t": "Frontier and Indian policy.",
+     "d": "He crossed the Blue Ridge in 1716 and ran the Virginia Indian Company monopoly (disallowed 1717); he also sent the expedition that killed Blackbeard in 1718.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His Germanna house was abandoned by c.1750; the site is studied by the Germanna Foundation and Mary Washington archaeologists. His grandson Alexander Spotswood corresponded with George Washington, who wrote to him in 1794 that he was 'principled against selling negroes'.",
+   "legacyDetail": [
+    {
+     "t": "Namesakes.",
+     "d": "Spotsylvania County (1720) and Germanna Community College recall him and his settlement.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Anne Butler Brayne Spotswood",
+     "relation": "spouse",
+     "years": "m. 1724",
+     "note": "Married in London; four children.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Spotswood",
+     "relation": "son",
+     "years": "c.1725–1758",
+     "note": "Inherited the Spotsylvania lands and ironworks.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alexander Spotswood",
+     "relation": "grandson",
+     "years": "1751–1818",
+     "note": "Revolutionary officer; married a niece of George Washington and received Washington's 1794 letter on not selling enslaved people.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are associated with the slavery link today. The Germanna site and ironworks are archaeological sites; Spotsylvania County carries his name.",
+   "placesNamed": [
+    "Spotsylvania County, Virginia",
+    "Spotswood Trail (U.S. 33)"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Alexander Spotswood (1676–1740)",
+     "url": "https://encyclopediavirginia.org/entries/spotswood-alexander-1676-1740/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Letter from George Washington to Alexander Spotswood (1794)",
+     "url": "https://encyclopediavirginia.org/entries/letter-from-george-washington-to-alexander-spotswood-november-23-1794"
+    },
+    {
+     "label": "Library of Virginia — County formation: Spotsylvania",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioS.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "germanna-ironworks",
+     "type": "ownership",
+     "label": "founded ironworks"
+    },
+    {
+     "id": "queen-anne-great-britain",
+     "type": "charter",
+     "label": "commissioned 1710"
+    },
+    {
+     "id": "hugh-drysdale",
+     "type": "political",
+     "label": "replaced by 1722"
+    },
+    {
+     "id": "george-washington",
+     "type": "family",
+     "label": "grandson's correspondent"
+    },
+    {
+     "id": "william-gooch",
+     "type": "political",
+     "label": "successor governors"
+    }
+   ]
+  },
+  {
+   "id": "hugh-drysdale",
+   "name": "Hugh Drysdale",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Lieutenant governor 1722–26 who proposed the 1723 slave-crimes act that restricted manumission and disfranchised free Black men.",
+   "start": 1722,
+   "end": 1726,
+   "lifespan": "1672/73–1726",
+   "base": "Governor's Palace, Williamsburg",
+   "geo": [
+    37.274,
+    -76.703
+   ],
+   "origins": "An Irish-born army officer, he was appointed lieutenant governor in April 1722 after the Crown removed Spotswood.",
+   "role_summary": "Drysdale summoned the May 1723 assembly amid rumours of an enslaved people's conspiracy and proposed reforms to the laws on 'crimes committed by slaves'. The resulting act tightened trials of enslaved people, barred manumission except for 'meritorious services' approved by governor and council, and stripped free Black, mixed-race and Indian men of the vote.",
+   "roleDetail": [
+    {
+     "t": "1723 act.",
+     "d": "Encyclopedia Virginia: he proposed reforms to militia laws and to the laws on crimes by enslaved people that 'helped calm fears following rumors of an insurrection'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave-import duty disallowed.",
+     "d": "He signed a duty on imported alcohol and enslaved people, but British slave traders lobbied the Crown to disallow it.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He died in office in 1726 and was buried at Bruton Parish Church. The 1723 manumission restriction lasted until 1782.",
+   "legacyDetail": [
+    {
+     "t": "Durable restriction.",
+     "d": "Private manumission in Virginia stayed effectively banned from 1723 until the 1782 manumission act.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Hester Drysdale",
+     "relation": "spouse",
+     "years": "fl. 1722",
+     "note": "Lived with him at the Governor's Palace.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. No county bears his name.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Hugh Drysdale (1672 or 1673–1726)",
+     "url": "https://encyclopediavirginia.org/entries/drysdale-hugh-1672-or-1673-1726/"
+    },
+    {
+     "label": "Encyclopedia Virginia — 1723 Act for the better government of Negros, Mulattos, and Indians",
+     "url": "https://encyclopediavirginia.org/primary-documents/an-act-directing-the-trial-of-slaves-committing-capital-crimes-and-for-the-more-effectual-punishing-conspiracies-and-insurrections-of-them-and-for-the-better-government-of-negros-mulattos-and-in/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "virginia-act-1723",
+     "type": "charter",
+     "label": "proposed and signed"
+    },
+    {
+     "id": "alexander-spotswood",
+     "type": "political",
+     "label": "replaced Spotswood"
+    },
+    {
+     "id": "william-gooch",
+     "type": "political",
+     "label": "succeeded by Gooch"
+    }
+   ]
+  },
+  {
+   "id": "william-gooch",
+   "name": "Sir William Gooch, 1st Baronet",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Lieutenant governor 1727–49, the era of heavy slave imports; defended the 1723 disfranchisement of free Black men to the Board of Trade (1735/36).",
+   "start": 1727,
+   "end": 1749,
+   "lifespan": "1681–1751",
+   "base": "Governor's Palace, Williamsburg",
+   "geo": [
+    37.274,
+    -76.703
+   ],
+   "origins": "A soldier from Great Yarmouth, Norfolk, he served under Marlborough and was appointed lieutenant governor of Virginia in 1727.",
+   "role_summary": "Gooch governed during the decades when imports of enslaved Africans into Virginia peaked and the planter class's investment in enslaved people grew. When the Board of Trade questioned the 1723 law denying free Black men the vote, Gooch defended it (1735/36), citing a recent conspiracy and saying free people of colour should be marked apart; the Crown accepted his explanation.",
+   "roleDetail": [
+    {
+     "t": "Defended racial disfranchisement.",
+     "d": "Encyclopedia Virginia reproduces his reply to Alured Popple of the Board of Trade justifying the 1723 law; the Crown let it stand.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave-import duties.",
+     "d": "A 1728 forty-shilling duty on each imported enslaved person was disallowed by the Crown; a later act shifted the tax to buyers.",
+     "basis": "documented"
+    },
+    {
+     "t": "Tobacco inspection, 1730.",
+     "d": "His Tobacco Inspection Act strengthened the export economy built on enslaved labour.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He was made a baronet in 1746; the baronetcy passed to his brother Thomas Gooch, Bishop of Ely, and the Gooch baronets of Benacre, Suffolk, continue. Goochland County (1728) and Staunton (named for his wife Rebecca Staunton) recall him.",
+   "legacyDetail": [
+    {
+     "t": "Benacre estate.",
+     "d": "Wikipedia notes the 7,000-acre Benacre Hall estate was separated from the baronetcy after the 13th baronet's death in 2008.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Rebecca Staunton, Lady Gooch",
+     "relation": "spouse",
+     "years": "m. 1714",
+     "note": "Staunton, Virginia, was named for her in 1749.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Thomas Gooch, 2nd Baronet",
+     "relation": "heir (brother)",
+     "years": "1675–1754",
+     "note": "Bishop of Ely; inherited the baronetcy because William's only son and grandson died before him.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Gooch baronetcy (of Benacre) still exists in the brother's line; no living baronet has publicly addressed the Virginia link. Goochland County and the city of Staunton carry the family names.",
+   "placesNamed": [
+    "Goochland County, Virginia",
+    "Staunton, Virginia (for Lady Gooch)"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Sir William Gooch (1681–1751)",
+     "url": "https://encyclopediavirginia.org/entries/gooch-sir-william-1681-1751/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Denying Free Blacks the Right to Vote (1724, 1735)",
+     "url": "https://encyclopediavirginia.org/entries/denying-free-blacks-the-right-to-vote-1724-1735"
+    },
+    {
+     "label": "Wikipedia — Gooch baronets",
+     "url": "https://en.wikipedia.org/wiki/Gooch_baronets"
+    }
+   ],
+   "connections": [
+    {
+     "id": "virginia-act-1723",
+     "type": "political",
+     "label": "defended to Board of Trade"
+    },
+    {
+     "id": "earl-of-albemarle-keppel",
+     "type": "political",
+     "label": "deputy to absentee governor"
+    },
+    {
+     "id": "house-of-hanover",
+     "type": "charter",
+     "label": "appointed by George I; baronet by George II"
+    },
+    {
+     "id": "hugh-drysdale",
+     "type": "political",
+     "label": "successor"
+    }
+   ]
+  },
+  {
+   "id": "robert-dinwiddie",
+   "name": "Robert Dinwiddie",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Lieutenant governor 1751–58 and earlier customs surveyor general whose district included Jamaica and the Carolinas; Encyclopedia Virginia records no enslaving by him.",
+   "start": 1738,
+   "end": 1758,
+   "lifespan": "1692–1770",
+   "base": "Governor's Palace, Williamsburg",
+   "geo": [
+    37.274,
+    -76.703
+   ],
+   "origins": "Born near Glasgow to a merchant family, he was a customs officer in Bermuda and from 1738 surveyor general of customs for the southern colonies, including Jamaica and the Bahamas.",
+   "role_summary": "No documented personal enslaving in Encyclopedia Virginia's account. His relevance is as the Crown's customs officer for slave-economy colonies and as lieutenant governor of a slave society, who sent George Washington west in 1753 and helped start the French and Indian War.",
+   "roleDetail": [
+    {
+     "t": "Customs for plantation colonies.",
+     "d": "As surveyor general (1738) he oversaw customs in Pennsylvania, Maryland, Virginia, the Carolinas, the Bahamas and Jamaica.",
+     "basis": "documented"
+    },
+    {
+     "t": "Governor of a slave society.",
+     "d": "His administration rested on the militia and patrol system that policed enslaved Virginians, but his own role in it is not specifically documented.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He left Virginia in 1758 and died at Clifton, Bristol, leaving £10,000 to each of his two daughters. Dinwiddie County (1752) is named for him.",
+   "legacyDetail": [
+    {
+     "t": "County.",
+     "d": "The General Assembly named Dinwiddie County for him in his first session, 1752.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Rebecca Auchinleck (Affleck) Dinwiddie",
+     "relation": "spouse",
+     "years": "m. by 1738",
+     "note": "Received a £350 annuity under his will.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Dinwiddie",
+     "relation": "brother",
+     "years": "fl. 1750s",
+     "note": "Emigrated to Virginia as a merchant.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; his estate went to his two daughters.",
+   "placesNamed": [
+    "Dinwiddie County, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Robert Dinwiddie (1692–1770)",
+     "url": "https://encyclopediavirginia.org/entries/dinwiddie-robert-1692-1770/"
+    },
+    {
+     "label": "Mount Vernon — Robert Dinwiddie",
+     "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/robert-dinwiddie"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "sent west 1753"
+    },
+    {
+     "id": "earl-of-albemarle-keppel",
+     "type": "political",
+     "label": "deputy to absentee governor"
+    },
+    {
+     "id": "john-campbell-earl-of-loudoun",
+     "type": "political",
+     "label": "deputy to Loudoun"
+    },
+    {
+     "id": "earl-of-halifax",
+     "type": "political",
+     "label": "reported to Board of Trade"
+    }
+   ]
+  },
+  {
+   "id": "francis-fauquier",
+   "name": "Francis Fauquier",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "South Sea Company director 1748–57 (salary £150) and inheritor of £20,000 in South Sea stock; as lieutenant governor 1758–68 he held at least twelve adult enslaved people.",
+   "start": 1748,
+   "end": 1768,
+   "lifespan": "1703–1768",
+   "base": "Governor's Palace, Williamsburg",
+   "geo": [
+    37.274,
+    -76.703
+   ],
+   "origins": "Son of a Huguenot financier who was deputy master of the Mint under Newton and a Bank of England director, he inherited £20,000 in South Sea Company stock. He was a fellow of the Royal Society and a governor of the Foundling Hospital before being appointed to Virginia in 1758.",
+   "role_summary": "Fauquier was a director of the South Sea Company, holder of the British asiento slave-trading contract, from 1748 to 1757. In Virginia he held enslaved people; his 1767 will lamented that his way of life there required it, let his twelve adult enslaved people choose new owners and forbade separating mothers from children — but did not free them.",
+   "roleDetail": [
+    {
+     "t": "South Sea Company director.",
+     "d": "Encyclopedia Virginia: director 1748–1757 at £150 a year; his father had left him £20,000 in its stock.",
+     "basis": "documented"
+    },
+    {
+     "t": "Will of 1767.",
+     "d": "He let his twelve adult enslaved people pick their buyers and kept mothers and children together, while expressing regret at owning people.",
+     "basis": "documented"
+    },
+    {
+     "t": "Patron of the young Jefferson.",
+     "d": "He hosted Thomas Jefferson at Palace dinners in the 1760s.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He died at the Palace in 1768 and is buried at Bruton Parish Church. Fauquier County (1759) is named for him.",
+   "legacyDetail": [
+    {
+     "t": "Will as evidence.",
+     "d": "His will is often quoted as an example of an enslaver's moral unease that stopped short of emancipation.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Francis Fauquier",
+     "relation": "father",
+     "years": "d. 1726",
+     "note": "Huguenot financier, deputy master of the Mint and Bank of England director; left Francis £20,000 in South Sea stock and £5,000 in bank stock.",
+     "basis": "documented"
+    },
+    {
+     "name": "Catherine Dalston Fauquier",
+     "relation": "spouse",
+     "years": "m. c.1730",
+     "note": "Mother of their two sons.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His family's wealth was in South Sea and Bank of England stock rather than land.",
+   "placesNamed": [
+    "Fauquier County, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Francis Fauquier (bap. 1703–1768)",
+     "url": "https://encyclopediavirginia.org/entries/fauquier-francis-bap-1703-1768/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Fauquier",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioF.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "south-sea-company",
+     "type": "ownership",
+     "label": "director 1748–57"
+    },
+    {
+     "id": "bank-of-england",
+     "type": "family",
+     "label": "father a director"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "host and patron"
+    },
+    {
+     "id": "john-campbell-earl-of-loudoun",
+     "type": "political",
+     "label": "deputy to absentee governor"
+    },
+    {
+     "id": "jeffery-amherst",
+     "type": "political",
+     "label": "deputy to absentee governor"
+    }
+   ]
+  },
+  {
+   "id": "lord-botetourt",
+   "name": "Norborne Berkeley, Baron de Botetourt",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Royal governor 1768–70; his estate inventory lists at least eight enslaved people at the Governor's Palace (Colonial Williamsburg, DAACS).",
+   "start": 1768,
+   "end": 1770,
+   "lifespan": "1717–1770",
+   "base": "Governor's Palace, Williamsburg",
+   "geo": [
+    37.274,
+    -76.703
+   ],
+   "origins": "A Gloucestershire MP and courtier, he revived the barony of Botetourt in 1764 and was sent as resident governor of Virginia in 1768.",
+   "role_summary": "Botetourt bought enslaved workers after arriving with white servants; Colonial Williamsburg names Hannah (who chose him as her enslaver after Fauquier's death), Cesar, Dan, Matt Piper, Doll, Phillis, Sally and her child Billy, and notes his household regularly flogged them after his first year.",
+   "roleDetail": [
+    {
+     "t": "Enslaver at the Palace.",
+     "d": "His post-death inventory names the enslaved people in the Governor's Palace household.",
+     "basis": "documented"
+    },
+    {
+     "t": "Punishment.",
+     "d": "Colonial Williamsburg reports household records of regular whipping of the enslaved workers.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Popular in Virginia, he died in office in 1770; the House of Burgesses commissioned a marble statue now at William & Mary, and Botetourt County and Berkeley County (now WV) were named for him.",
+   "legacyDetail": [
+    {
+     "t": "Statue at William & Mary.",
+     "d": "The Botetourt statue remains a campus landmark; William & Mary's 'Lemon Project' studies the college's ties to slavery.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Elizabeth Berkeley, Duchess of Beaufort",
+     "relation": "sister & heir",
+     "years": "d. 1799",
+     "note": "His barony was revived in 1803 for her son, the 5th Duke of Beaufort.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dukes of Beaufort (Somerset family)",
+     "relation": "heirs to title",
+     "years": "1803–1984",
+     "note": "Held the Botetourt barony until the 10th Duke died in 1984; it is now in abeyance.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The barony of Botetourt has been in abeyance since 1984; it was held by the Somerset Dukes of Beaufort from 1803. He had no children.",
+   "placesNamed": [
+    "Botetourt County, Virginia",
+    "Berkeley County, West Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Norborne Berkeley, baron de Botetourt",
+     "url": "https://encyclopediavirginia.org/entries/berkeley-norborne-baron-de-botetourt-1717-1770/"
+    },
+    {
+     "label": "Colonial Williamsburg — The Enslaved People and Servants of the Governor's Palace",
+     "url": "https://colonialwilliamsburg.org/learn/deep-dives/the-enslaved-people-and-servants-of-the-governors-palace"
+    },
+    {
+     "label": "Wikipedia — Baron Botetourt",
+     "url": "https://en.wikipedia.org/wiki/Baron_Botetourt"
+    }
+   ],
+   "connections": [
+    {
+     "id": "francis-fauquier",
+     "type": "political",
+     "label": "successor; Hannah chose him after Fauquier"
+    },
+    {
+     "id": "earl-of-dunmore",
+     "type": "political",
+     "label": "succeeded by Dunmore"
+    },
+    {
+     "id": "house-of-hanover",
+     "type": "charter",
+     "label": "appointed by George III"
+    }
+   ]
+  },
+  {
+   "id": "earl-of-dunmore",
+   "name": "John Murray, 4th Earl of Dunmore",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Royal governor 1771–75; his Loyalist claim listed 57 enslaved people; his 1775 proclamation drew several hundred to 2,000 freedom-seekers (estimates vary) to British lines.",
+   "start": 1771,
+   "end": 1796,
+   "lifespan": "c.1730–1809",
+   "base": "Governor's Palace, Williamsburg (and Porto Bello plantation, York County)",
+   "geo": [
+    37.274,
+    -76.703
+   ],
+   "aliases": [
+    "Lord Dunmore"
+   ],
+   "origins": "A Scottish peer, governor of New York (1770–71) and then of Virginia. He bought Porto Bello plantation in York County and enslaved labourers there and at the Palace.",
+   "role_summary": "On 7 November 1775 Dunmore offered freedom to enslaved people and servants of rebels who would fight for the King, forming the 'Ethiopian Regiment'. It was a military tactic: he did not free his own enslaved people, and he later governed the Bahamas (1787–96), a slave colony.",
+   "roleDetail": [
+    {
+     "t": "Enslaver.",
+     "d": "Encyclopedia Virginia: he purchased a York County plantation and enslaved labourers for it and the Palace; DAACS cites 57 people in his Loyalist claim.",
+     "basis": "documented"
+    },
+    {
+     "t": "Dunmore's Proclamation.",
+     "d": "Promised freedom to enslaved people of Patriots who joined British forces; hundreds formed Lord Dunmore's Ethiopian Regiment, many dying of smallpox.",
+     "basis": "documented"
+    },
+    {
+     "t": "Did not free his own.",
+     "d": "Encyclopedia Virginia notes he kept his own enslaved labourers in bondage.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The proclamation pushed undecided planters to the Patriot side and became a precedent for wartime emancipation offers. Dunmore County (1772) was renamed Shenandoah County in 1778.",
+   "legacyDetail": [
+    {
+     "t": "County renamed.",
+     "d": "Virginia erased his name in 1778, renaming Dunmore County as Shenandoah County.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Lady Charlotte Stewart, Countess of Dunmore",
+     "relation": "spouse",
+     "years": "m. 1759",
+     "note": "Their daughter born in 1774 was named Virginia.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Murray, 5th Earl of Dunmore",
+     "relation": "son",
+     "years": "1762–1836",
+     "note": "Inherited the earldom.",
+     "basis": "documented"
+    },
+    {
+     "name": "Malcolm Murray, 12th Earl of Dunmore",
+     "relation": "titleholder",
+     "years": "b. 1946",
+     "note": "Tasmania-born present holder of the earldom.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The earldom continues: Malcolm Murray, 12th Earl of Dunmore, lives in Tasmania and sat briefly in the House of Lords in 1998–99. He is not known to have commented publicly on the Virginia legacy.",
+   "placesNamed": [
+    "Dunmore County, Virginia (renamed Shenandoah County, 1778)"
+   ],
+   "today_people": [
+    {
+     "name": "Malcolm Murray, 12th Earl of Dunmore",
+     "relation": "holder of the earldom (peerage records)",
+     "role": "Hereditary peer (sat in the House of Lords 1998–99)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Malcolm Murray, 12th Earl of Dunmore",
+      "url": "https://en.wikipedia.org/wiki/Malcolm_Murray,_12th_Earl_of_Dunmore"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — John Murray, fourth earl of Dunmore",
+     "url": "https://encyclopediavirginia.org/entries/dunmore-john-murray-fourth-earl-of-ca-1730-1809/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Lord Dunmore's Ethiopian Regiment",
+     "url": "https://encyclopediavirginia.org/entries/lord-dunmores-ethiopian-regiment/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Dunmore",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioDE.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lord-botetourt",
+     "type": "political",
+     "label": "successor governor"
+    },
+    {
+     "id": "house-of-hanover",
+     "type": "charter",
+     "label": "governor for George III"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "opponent 1775"
+    }
+   ]
+  },
+  {
+   "id": "john-campbell-earl-of-loudoun",
+   "name": "John Campbell, 4th Earl of Loudoun",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Titular governor-general of Virginia 1756–59 and British commander-in-chief in North America; no documented slaveholding or slave-trade investment found.",
+   "start": 1756,
+   "end": 1759,
+   "lifespan": "1705–1782",
+   "base": "Loudoun Castle, Ayrshire, Scotland",
+   "geo": [
+    55.607,
+    -4.37
+   ],
+   "origins": "A Scottish peer and soldier who fought the Jacobites in 1745, he was sent to North America in 1756 as commander-in-chief and governor-general of Virginia, a largely titular post exercised by Dinwiddie and Fauquier.",
+   "role_summary": "No documented direct involvement in slavery; his tie is as the absentee Crown governor of a slave colony during the French and Indian War. He was recalled in 1757 after military failures and an unpopular embargo on colonial shipping.",
+   "roleDetail": [
+    {
+     "t": "Absentee governorship.",
+     "d": "His salary and title came from a colony whose revenues rested on tobacco grown by enslaved people; the work was done by lieutenant governors.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Papers survive.",
+     "d": "The Huntington Library holds c. 8,000 items of his papers (bulk 1755–58), a major source on the war.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Loudoun County (1757) is named for him. He died unmarried in 1782 and the earldom passed to a cousin and later through the female line.",
+   "legacyDetail": [
+    {
+     "t": "Title through female line.",
+     "d": "The Scottish earldom can pass through women; it is now held by the Abney-Hastings family.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Flora Mure-Campbell, Countess of Loudoun",
+     "relation": "successor (cousin's daughter)",
+     "years": "1780–1840",
+     "note": "Married the Marquess of Hastings; carried the earldom into the Rawdon-Hastings line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Simon Abney-Hastings, 15th Earl of Loudoun",
+     "relation": "titleholder",
+     "years": "b. 1974",
+     "note": "Australian-based present holder; visited Loudoun County in 2015.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The earldom is held by Simon Abney-Hastings, 15th Earl of Loudoun, who lives in Australia; he is a collateral successor to the title, not a descendant of the 4th Earl, who had no children. He visited Loudoun County in 2015 and is listed as a friend of the Loudoun Museum.",
+   "placesNamed": [
+    "Loudoun County, Virginia",
+    "Fort Loudoun (Tennessee and Pennsylvania)"
+   ],
+   "today_people": [
+    {
+     "name": "Simon Abney-Hastings, 15th Earl of Loudoun",
+     "relation": "holder of the earldom (collateral successor, not a descendant of the 4th Earl)",
+     "role": "Hereditary peer; visited Loudoun County in 2015",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Earl of Loudoun",
+      "url": "https://en.wikipedia.org/wiki/Earl_of_Loudoun"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — John Campbell, 4th Earl of Loudoun",
+     "url": "https://en.wikipedia.org/wiki/John_Campbell,_4th_Earl_of_Loudoun"
+    },
+    {
+     "label": "Online Archive of California — Loudoun papers (Huntington Library)",
+     "url": "https://oac.cdlib.org/findaid/ark:/13030/c81g0phn/entire_text/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Loudoun",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioL.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-dinwiddie",
+     "type": "political",
+     "label": "lieutenant governor under him"
+    },
+    {
+     "id": "francis-fauquier",
+     "type": "political",
+     "label": "lieutenant governor under him"
+    },
+    {
+     "id": "thomas-6th-lord-fairfax",
+     "type": "political",
+     "label": "county carved from Fairfax"
+    }
+   ]
+  },
+  {
+   "id": "earl-of-albemarle-keppel",
+   "name": "William Anne Keppel, 2nd Earl of Albemarle",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Absentee governor of Virginia 1737–54 who never visited; his sons George (3rd Earl) and Augustus Keppel led the 1762 capture of Havana and the 1758 capture of Gorée.",
+   "start": 1737,
+   "end": 1762,
+   "lifespan": "1702–1754",
+   "base": "London (Whitehall)",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "origins": "Son of Arnold Joost van Keppel, the Dutch favourite of William III, he was a soldier and courtier made governor of Virginia in 1737 on Walpole's recommendation.",
+   "role_summary": "No documented direct involvement in slavery; he drew the governor's salary for 17 years without ever going to America. The family's sharper link is through his sons: Augustus Keppel took the French slave-trading island of Gorée in 1758, and George Keppel, 3rd Earl, captured Havana in 1762, after which British traders sold enslaved Africans into Cuba during the 11-month occupation.",
+   "roleDetail": [
+    {
+     "t": "Absentee governor.",
+     "d": "Encyclopedia Virginia: 'Albemarle never went to America'; Gooch and Dinwiddie governed in his name.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sons and the slave trade.",
+     "d": "Augustus Keppel commanded the 1758 capture of Gorée; the 3rd Earl's 1762 Havana occupation opened the port to British slave sales (scale debated by historians).",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Albemarle County (1744), home of Monticello and the University of Virginia, takes his title. The earldom continues in the Keppel family.",
+   "legacyDetail": [
+    {
+     "t": "Keppel line today.",
+     "d": "Queen Camilla is a great-great-granddaughter of the 7th Earl of Albemarle through Alice and George Keppel.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Arnold Joost van Keppel, 1st Earl of Albemarle",
+     "relation": "father",
+     "years": "1670–1718",
+     "note": "Dutch courtier ennobled by William III.",
+     "basis": "documented",
+     "id": "william-iii-and-mary-ii"
+    },
+    {
+     "name": "George Keppel, 3rd Earl of Albemarle",
+     "relation": "son",
+     "years": "1724–1772",
+     "note": "Commanded the 1762 capture of Havana.",
+     "basis": "documented"
+    },
+    {
+     "name": "Augustus Keppel, 1st Viscount Keppel",
+     "relation": "son",
+     "years": "1725–1786",
+     "note": "Captured Gorée in 1758; later First Lord of the Admiralty.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Keppel, 7th Earl of Albemarle",
+     "relation": "descendant",
+     "years": "1832–1894",
+     "note": "Great-great-grandfather of Queen Camilla.",
+     "basis": "documented"
+    },
+    {
+     "name": "Rufus Keppel, 10th Earl of Albemarle",
+     "relation": "titleholder",
+     "years": "b. 1965",
+     "note": "Present holder of the earldom.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The earldom continues: Rufus Keppel, 10th Earl of Albemarle, is the present holder. Queen Camilla descends from the 7th Earl through her grandmother Sonia Keppel. Neither has publicly addressed the Virginia or Havana links.",
+   "placesNamed": [
+    "Albemarle County, Virginia"
+   ],
+   "today_people": [
+    {
+     "name": "Rufus Keppel, 10th Earl of Albemarle",
+     "relation": "holder of the earldom (peerage records)",
+     "role": "Hereditary peer",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Earl of Albemarle",
+      "url": "https://en.wikipedia.org/wiki/Earl_of_Albemarle"
+     }
+    },
+    {
+     "name": "Queen Camilla",
+     "relation": "great-great-granddaughter of the 7th Earl of Albemarle (published genealogy)",
+     "role": "Queen consort of the United Kingdom",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — William Keppel, 7th Earl of Albemarle",
+      "url": "https://en.wikipedia.org/wiki/William_Keppel,_7th_Earl_of_Albemarle"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — William Anne Keppel, second earl of Albemarle",
+     "url": "https://encyclopediavirginia.org/entries/keppel-william-anne-second-earl-of-albemarle-1702-1754/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Albemarle",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioA.htm"
+    },
+    {
+     "label": "Wikipedia — Capture of Gorée (1758)",
+     "url": "https://en.wikipedia.org/wiki/Capture_of_Gor%C3%A9e"
+    }
+   ],
+   "connections": [
+    {
+     "id": "house-of-orange",
+     "type": "family",
+     "label": "father was William III's Dutch favourite"
+    },
+    {
+     "id": "william-gooch",
+     "type": "political",
+     "label": "lieutenant governor under him"
+    },
+    {
+     "id": "robert-dinwiddie",
+     "type": "political",
+     "label": "lieutenant governor under him"
+    },
+    {
+     "id": "goree-island",
+     "type": "political",
+     "label": "son Augustus captured 1758"
+    },
+    {
+     "id": "port-havana",
+     "type": "political",
+     "label": "son George captured Havana 1762"
+    },
+    {
+     "id": "monticello",
+     "type": "legacy",
+     "label": "county of Monticello"
+    }
+   ]
+  },
+  {
+   "id": "jeffery-amherst",
+   "name": "Jeffery Amherst, 1st Baron Amherst",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Absentee governor of Virginia 1759–68 (never visited); no documented slaveholding or slave-trade role found.",
+   "start": 1759,
+   "end": 1768,
+   "lifespan": "1717–1797",
+   "base": "Montreal (estate), Sevenoaks, Kent",
+   "geo": [
+    51.282,
+    0.18
+   ],
+   "origins": "A Kentish soldier who captured Louisbourg (1758) and Montreal (1760), he was rewarded with the governorship of Virginia, which he held without visiting.",
+   "role_summary": "No documented direct involvement in slavery; his name matters because of his documented hostility to Native Americans: in 1763 he endorsed spreading smallpox among besieging Native people during Pontiac's War, and his refusal to provision Indian allies helped provoke that war.",
+   "roleDetail": [
+    {
+     "t": "Absentee governor.",
+     "d": "Encyclopedia Virginia: governor from 1759, he never visited the colony; Fauquier governed in his name.",
+     "basis": "documented"
+    },
+    {
+     "t": "Smallpox correspondence.",
+     "d": "His 1763 letters with Henry Bouquet discussed infecting Native people with smallpox.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Amherst County (1761) and Amherst, Massachusetts, are named for him; Amherst College dropped its unofficial 'Lord Jeff' mascot in 2016 over his record toward Native Americans.",
+   "legacyDetail": [
+    {
+     "t": "Mascot dropped.",
+     "d": "Amherst College retired 'Lord Jeff' in 2016.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "William Amherst, 2nd Baron Amherst (Earl Amherst)",
+     "relation": "nephew & heir",
+     "years": "1773–1857",
+     "note": "Inherited the barony; later Governor-General of India; the earldom became extinct in 1993.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Amherst peerages became extinct in 1993. He had no children. No publicly documented descendants have addressed the link.",
+   "placesNamed": [
+    "Amherst County, Virginia",
+    "Amherst, Massachusetts",
+    "Amherst, Nova Scotia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Sir Jeffery Amherst (1717–1797)",
+     "url": "https://encyclopediavirginia.org/entries/amherst-sir-jeffery-1717-1797/"
+    },
+    {
+     "label": "Wikipedia — Earl Amherst (extinct)",
+     "url": "https://en.wikipedia.org/wiki/Earl_Amherst"
+    },
+    {
+     "label": "Library of Virginia — County formation: Amherst",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioA.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "francis-fauquier",
+     "type": "political",
+     "label": "lieutenant governor under him"
+    },
+    {
+     "id": "william-pitt-elder",
+     "type": "political",
+     "label": "promoted by Pitt 1758"
+    },
+    {
+     "id": "house-of-hanover",
+     "type": "charter",
+     "label": "appointed by George II"
+    }
+   ]
+  },
+  {
+   "id": "earl-of-halifax",
+   "name": "George Montagu-Dunk, 2nd Earl of Halifax",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "President of the Board of Trade 1748–61, the body that reviewed every colony's laws, including slave codes; no personal slaveholding documented.",
+   "start": 1748,
+   "end": 1771,
+   "lifespan": "1716–1771",
+   "base": "London (Board of Trade, Whitehall)",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "origins": "A Whig peer who married the heiress of the clothier Sir Thomas Dunk, he became President of the Board of Trade in 1748 and pushed for tighter imperial control of the colonies.",
+   "role_summary": "No documented direct involvement in slavery; his link is institutional: under Halifax the Board of Trade reviewed and allowed colonial legislation — including slave codes and slave-import duties, which British traders lobbied it to disallow — and oversaw Georgia's conversion to a royal slave colony after its slavery ban was lifted in 1750–51.",
+   "roleDetail": [
+    {
+     "t": "Board of Trade.",
+     "d": "The Board advised the Crown to allow or disallow colonial acts; slave-trade interests used it to block import duties (e.g. Virginia's 1723 and 1728 duties, before his time).",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Georgia.",
+     "d": "Georgia's ban on slavery was repealed effective 1751 at the Trustees' request; it became a royal colony in 1752 under the Board's oversight.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Halifax, Nova Scotia (founded 1749), Halifax County, Virginia (1752) and Halifax County, North Carolina, are named for him. The earldom became extinct at his death in 1771 (the modern Earls of Halifax are a separate creation).",
+   "legacyDetail": [
+    {
+     "t": "Extinct title.",
+     "d": "The Montagu-Dunk earldom ended in 1771.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Anne Richards (Dunk)",
+     "relation": "spouse",
+     "years": "d. 1753",
+     "note": "Heiress to Sir Thomas Dunk's fortune; Halifax took the name Dunk.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No legitimate heirs; the earldom became extinct in 1771. The present Earl of Halifax (Wood family) is unrelated.",
+   "placesNamed": [
+    "Halifax County, Virginia",
+    "Halifax, Nova Scotia",
+    "Halifax County, North Carolina"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — George Montagu-Dunk, 2nd Earl of Halifax",
+     "url": "https://en.wikipedia.org/wiki/George_Montagu-Dunk,_2nd_Earl_of_Halifax"
+    },
+    {
+     "label": "New Georgia Encyclopedia — Slavery in Colonial Georgia",
+     "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/slavery-in-colonial-georgia/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Halifax",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioH.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-dinwiddie",
+     "type": "political",
+     "label": "Dinwiddie reported to him"
+    },
+    {
+     "id": "william-gooch",
+     "type": "political",
+     "label": "Board reviewed Virginia acts"
+    },
+    {
+     "id": "john-russell-4th-duke-of-bedford",
+     "type": "political",
+     "label": "colonial administration colleague"
+    }
+   ]
+  },
+  {
+   "id": "william-pitt-elder",
+   "name": "William Pitt the Elder, 1st Earl of Chatham",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "War minister whose government sent the 1758 expeditions that seized French Senegal and Gorée, slave-trading posts; no personal slaveholding.",
+   "start": 1758,
+   "end": 1763,
+   "lifespan": "1708–1778",
+   "base": "London / Hayes, Kent",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "aliases": [
+    "Pitt the Elder",
+    "Earl of Chatham"
+   ],
+   "origins": "Grandson of Thomas 'Diamond' Pitt, an East India merchant, he led Britain's Seven Years' War effort from 1757.",
+   "role_summary": "No documented direct involvement in slavery; on the merchant Thomas Cumming's plan, his ministry sent the 1758 expeditions that captured Fort Saint-Louis (Senegal) and Gorée, French bases of the gum and slave trades, which Britain held until 1763 (Senegal until 1779).",
+   "roleDetail": [
+    {
+     "t": "Senegal and Gorée, 1758.",
+     "d": "Fort Saint-Louis fell in May 1758 and Gorée in December 1758 to Augustus Keppel.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Pittsylvania County (1766) and Pittsburgh are named for him. His son William Pitt the Younger backed Wilberforce's abolition motions but did not pass abolition before his death in 1806.",
+   "legacyDetail": [
+    {
+     "t": "Son and abolition.",
+     "d": "Pitt the Younger supported abolition in Parliament from 1788; the 1807 Act came a year after his death.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas 'Diamond' Pitt",
+     "relation": "grandfather",
+     "years": "1653–1726",
+     "note": "East India merchant and governor of Madras.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Pitt the Younger",
+     "relation": "son",
+     "years": "1759–1806",
+     "note": "Prime Minister; supported abolition of the slave trade.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Chatham titles became extinct in 1835. No publicly documented direct descendants are associated with the link.",
+   "placesNamed": [
+    "Pittsylvania County, Virginia",
+    "Pittsburgh, Pennsylvania",
+    "Chatham, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — British capture of Senegal",
+     "url": "https://en.wikipedia.org/wiki/British_capture_of_Senegal"
+    },
+    {
+     "label": "Wikipedia — Earl of Chatham",
+     "url": "https://en.wikipedia.org/wiki/Earl_of_Chatham"
+    },
+    {
+     "label": "Library of Virginia — County formation: Pittsylvania",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioOP.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "goree-island",
+     "type": "political",
+     "label": "ministry captured Gorée 1758"
+    },
+    {
+     "id": "earl-of-albemarle-keppel",
+     "type": "political",
+     "label": "Keppel sons led his expeditions"
+    },
+    {
+     "id": "jeffery-amherst",
+     "type": "political",
+     "label": "promoted Amherst"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "legacy",
+     "label": "son backed abolition"
+    }
+   ]
+  },
+  {
+   "id": "earl-of-chesterfield",
+   "name": "Philip Dormer Stanhope, 4th Earl of Chesterfield",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of Chesterfield County (1749); no documented involvement in slavery found.",
+   "start": 1749,
+   "end": 1749,
+   "lifespan": "1694–1773",
+   "base": "Chesterfield House, London",
+   "geo": [
+    51.507,
+    -0.147
+   ],
+   "origins": "Statesman, diplomat and Lord Lieutenant of Ireland, best known for his Letters to His Son.",
+   "role_summary": "No documented direct involvement in slavery; the county was named for him as a prominent statesman in 1749. Chesterfield County itself became a centre of slave-worked coal mining (Midlothian) and tobacco, so the name sits on a landscape of enslaved labour that he had no hand in.",
+   "roleDetail": [
+    {
+     "t": "Namesake only.",
+     "d": "The Library of Virginia describes him only as 'British statesman and diplomat'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Chesterfield County, Virginia, and the earldom (extinct 1967) carry the name.",
+   "legacyDetail": [
+    {
+     "t": "County economy.",
+     "d": "Chesterfield's colonial and antebellum coal pits relied heavily on enslaved miners.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Philip Stanhope",
+     "relation": "illegitimate son",
+     "years": "1732–1768",
+     "note": "Recipient of the famous Letters.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The earldom of Chesterfield became extinct in 1967. No publicly documented descendants are associated with the Virginia link.",
+   "placesNamed": [
+    "Chesterfield County, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Chesterfield",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioC.htm"
+    },
+    {
+     "label": "Wikipedia — Earl of Chesterfield",
+     "url": "https://en.wikipedia.org/wiki/Earl_of_Chesterfield"
+    }
+   ],
+   "connections": [
+    {
+     "id": "house-of-hanover",
+     "type": "political",
+     "label": "minister under George II"
+    }
+   ]
+  },
+  {
+   "id": "john-russell-4th-duke-of-bedford",
+   "name": "John Russell, 4th Duke of Bedford",
+   "category": "European Families",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Southern Secretary 1748–51 with general supervision of colonial affairs; no documented personal slavery link.",
+   "start": 1748,
+   "end": 1751,
+   "lifespan": "1710–1771",
+   "base": "Woburn Abbey, Bedfordshire",
+   "geo": [
+    51.987,
+    -0.588
+   ],
+   "origins": "Head of the Russell family, one of Britain's richest landed houses, he was First Lord of the Admiralty and then Secretary of State for the Southern Department.",
+   "role_summary": "No documented direct involvement in slavery; the Library of Virginia says Bedford County was probably named for him because, as Southern Secretary, he supervised colonial affairs — the department that handled the American and Caribbean slave colonies.",
+   "roleDetail": [
+    {
+     "t": "Colonial supervision.",
+     "d": "The Southern Department handled correspondence with the colonial governors, including Virginia's.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Bedford County, Virginia (1753). The dukedom continues at Woburn Abbey.",
+   "legacyDetail": [
+    {
+     "t": "Woburn.",
+     "d": "The Russell family still owns Woburn Abbey and its estate.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Andrew Russell, 15th Duke of Bedford",
+     "relation": "descendant & titleholder",
+     "years": "b. 1962",
+     "note": "Present duke; runs the Woburn estate.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Andrew Russell, 15th Duke of Bedford, holds the title and the Woburn estate. Neither he nor the estate has addressed a Virginia link, and none is documented beyond the county name.",
+   "placesNamed": [
+    "Bedford County, Virginia (probably)",
+    "City of Bedford, Virginia"
+   ],
+   "today_people": [
+    {
+     "name": "Andrew Russell, 15th Duke of Bedford",
+     "relation": "lineal descendant and titleholder (peerage records)",
+     "role": "Owner of the Woburn Abbey estate",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Duke of Bedford",
+      "url": "https://en.wikipedia.org/wiki/Duke_of_Bedford"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Bedford",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioB.htm"
+    },
+    {
+     "label": "Wikipedia — John Russell, 4th Duke of Bedford",
+     "url": "https://en.wikipedia.org/wiki/John_Russell,_4th_Duke_of_Bedford"
+    }
+   ],
+   "connections": [
+    {
+     "id": "earl-of-halifax",
+     "type": "political",
+     "label": "colonial administration colleague"
+    },
+    {
+     "id": "house-of-hanover",
+     "type": "political",
+     "label": "minister under George II"
+    }
+   ]
+  },
+  {
+   "id": "james-i-england",
+   "name": "James I of England (James VI of Scotland)",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Chartered the Virginia Company (1606); the first recorded Africans reached Virginia in 1619 during his reign; no personal slave-trade role documented.",
+   "start": 1606,
+   "end": 1625,
+   "lifespan": "1566–1625",
+   "base": "Whitehall, London",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "origins": "King of Scotland from 1567 and of England from 1603, the first Stuart monarch of England.",
+   "role_summary": "James chartered the Virginia Company of London in 1606, under which Jamestown was founded in 1607. In August 1619 about twenty captive Africans, taken from a Portuguese slaver, were landed at Point Comfort; in 1624 James dissolved the Company and made Virginia a royal colony.",
+   "roleDetail": [
+    {
+     "t": "Virginia Company charter, 1606.",
+     "d": "Encyclopedia Virginia: the charter created the company that settled Jamestown.",
+     "basis": "documented"
+    },
+    {
+     "t": "1619 arrival.",
+     "d": "The first recorded Africans in English Virginia arrived during his reign; their legal status (servant or enslaved) is debated.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "James City County (1634), the James River and Jamestown are named for him.",
+   "legacyDetail": [
+    {
+     "t": "Jamestown.",
+     "d": "The site is managed by NPS and Jamestown Rediscovery (Preservation Virginia).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Henry Frederick, Prince of Wales",
+     "relation": "son",
+     "years": "1594–1612",
+     "note": "Henrico named for him.",
+     "basis": "documented",
+     "id": "henry-frederick-prince-of-wales"
+    },
+    {
+     "name": "Charles I",
+     "relation": "son & successor",
+     "years": "1600–1649",
+     "note": "Charles City named for him.",
+     "basis": "documented",
+     "id": "charles-i-england"
+    }
+   ],
+   "today": "The present royal family descends from James I through his daughter Elizabeth of Bohemia and the House of Hanover. King Charles III backed research into the monarchy's slavery links in 2023.",
+   "placesNamed": [
+    "James City County, Virginia",
+    "Jamestown, Virginia",
+    "James River"
+   ],
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "lineal descendant via Elizabeth of Bohemia and the Hanoverians (published royal genealogy)",
+     "role": "King of the United Kingdom; backed independent research (Historic Royal Palaces / University of Manchester) into the monarchy's links to slavery in 2023",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+      "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — James VI and I (1566–1625)",
+     "url": "https://encyclopediavirginia.org/entries/james-vi-and-i-1566-1625/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Virginia Company of London",
+     "url": "https://encyclopediavirginia.org/entries/virginia-company-of-london/"
+    },
+    {
+     "label": "Library of Virginia — County formation: James City",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioIK.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "fort-monroe-1619-landing",
+     "type": "legacy",
+     "label": "1619 landing during his reign"
+    },
+    {
+     "id": "angela-1619",
+     "type": "legacy",
+     "label": "arrived 1619"
+    },
+    {
+     "id": "charles-i-england",
+     "type": "family",
+     "label": "son"
+    },
+    {
+     "id": "henry-frederick-prince-of-wales",
+     "type": "family",
+     "label": "son"
+    },
+    {
+     "id": "elizabeth-i",
+     "type": "political",
+     "label": "successor of"
+    }
+   ]
+  },
+  {
+   "id": "henry-frederick-prince-of-wales",
+   "name": "Henry Frederick, Prince of Wales",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of Henrico (1611/1634); died in 1612 before slavery existed in Virginia; no documented link.",
+   "start": 1611,
+   "end": 1612,
+   "lifespan": "1594–1612",
+   "base": "St James's Palace, London",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "origins": "Eldest son of James I, a patron of colonial ventures who died of typhoid at 18.",
+   "role_summary": "No documented direct involvement in slavery; the settlement of Henricus (1611) and later Henrico County were named for him. Henrico later became the heart of Virginia's slave economy, with Richmond's slave-trading district in Shockoe Bottom.",
+   "roleDetail": [
+    {
+     "t": "Namesake only.",
+     "d": "Henricus was founded by Sir Thomas Dale in 1611 and named for the prince.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Henrico County, one of the eight original shires of 1634; Richmond lies largely within its original bounds.",
+   "legacyDetail": [
+    {
+     "t": "Shockoe Bottom.",
+     "d": "Richmond, once in Henrico, was the second-largest slave market in the US by the 1850s.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "James I",
+     "relation": "father",
+     "years": "1566–1625",
+     "note": "King who chartered the Virginia Company.",
+     "basis": "documented",
+     "id": "james-i-england"
+    }
+   ],
+   "today": "He died unmarried and childless.",
+   "placesNamed": [
+    "Henrico County, Virginia",
+    "Cape Henry, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Henrico",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioH.htm"
+    },
+    {
+     "label": "Wikipedia — Henry Frederick, Prince of Wales",
+     "url": "https://en.wikipedia.org/wiki/Henry_Frederick,_Prince_of_Wales"
+    }
+   ],
+   "connections": [
+    {
+     "id": "james-i-england",
+     "type": "family",
+     "label": "son"
+    }
+   ]
+  },
+  {
+   "id": "charles-i-england",
+   "name": "Charles I of England",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "King when Virginia was a royal colony and enslaved Africans first appear in its records; appointed Sir William Berkeley; no documented personal slave-trade investment found.",
+   "start": 1625,
+   "end": 1649,
+   "lifespan": "1600–1649",
+   "base": "Whitehall, London",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "origins": "Second son of James I, king 1625–49, executed after the Civil War.",
+   "role_summary": "Charles ruled Virginia as a royal colony as tobacco planting expanded with servants and the first enslaved Africans; he appointed Sir William Berkeley governor in 1641. Royal grants for English trade to Guinea were issued in his reign, though they centred on gold and redwood rather than captives.",
+   "roleDetail": [
+    {
+     "t": "Appointed Berkeley.",
+     "d": "Encyclopedia Virginia: Charles I named Berkeley governor and captain general on 9 August 1641.",
+     "basis": "documented"
+    },
+    {
+     "t": "Guinea grants.",
+     "d": "Early Stuart Guinea monopolies focused on gold and dyewood; English slave trading was marginal before 1640.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Charles City County (1634), the former Charles River County and Cape Charles are named for him. His son Charles II chartered the Royal Adventurers (1660) and Royal African Company (1672).",
+   "legacyDetail": [
+    {
+     "t": "Sons and the RAC.",
+     "d": "His sons Charles II and James, Duke of York, created the Royal Adventurers and the RAC.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "James I",
+     "relation": "father",
+     "years": "1566–1625",
+     "note": "Chartered the Virginia Company.",
+     "basis": "documented",
+     "id": "james-i-england"
+    },
+    {
+     "name": "James, Duke of York (James II)",
+     "relation": "son",
+     "years": "1633–1701",
+     "note": "Governor of the Royal African Company.",
+     "basis": "documented",
+     "id": "james-duke-of-york"
+    }
+   ],
+   "today": "The present royal family descends from Charles I's sister Elizabeth, not from Charles in the senior line. See James I for King Charles III's 2023 statement.",
+   "placesNamed": [
+    "Charles City County, Virginia",
+    "Cape Charles, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Charles City",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioC.htm"
+    },
+    {
+     "label": "Encyclopedia Virginia — Sir William Berkeley",
+     "url": "https://encyclopediavirginia.org/entries/berkeley-sir-william-1605-1677/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sir-william-berkeley",
+     "type": "charter",
+     "label": "appointed governor 1641"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "family",
+     "label": "son; RAC governor"
+    },
+    {
+     "id": "company-of-royal-adventurers",
+     "type": "legacy",
+     "label": "chartered by his son"
+    },
+    {
+     "id": "james-i-england",
+     "type": "family",
+     "label": "son of"
+    }
+   ]
+  },
+  {
+   "id": "william-iii-and-mary-ii",
+   "name": "William III and Mary II",
+   "category": "Crowns & Explorers",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "William received £1,000 of Royal African Company stock from deputy governor Edward Colston in 1689 (document found by Brooke Newman); he assented to the 1698 act opening the slave trade to all English merchants.",
+   "start": 1689,
+   "end": 1702,
+   "lifespan": "1650–1702 (William); 1662–1694 (Mary)",
+   "base": "Kensington Palace, London",
+   "geo": [
+    51.505,
+    -0.188
+   ],
+   "aliases": [
+    "William of Orange",
+    "King William III"
+   ],
+   "origins": "William, Stadtholder of the Dutch Republic from the House of Orange, and his wife Mary, daughter of James II, took the English throne in 1689.",
+   "role_summary": "In 1689 Edward Colston transferred £1,000 of RAC stock to William, continuing the Stuart crown's stake in the company. In 1698 William assented to the Trade with Africa Act, which ended the RAC monopoly and let 'separate traders' ship captives on paying a 10% duty, after which English slave voyages expanded sharply.",
+   "roleDetail": [
+    {
+     "t": "RAC shares, 1689.",
+     "d": "Reported in 2023 from a document in the RAC archive; the Guardian story prompted the palace to back research on royal links to slavery.",
+     "basis": "documented"
+    },
+    {
+     "t": "Trade with Africa Act 1698.",
+     "d": "Royal assent opened the trade to all English subjects for 13 years, with a 10% duty to maintain RAC forts.",
+     "basis": "documented"
+    },
+    {
+     "t": "Virginia college.",
+     "d": "The 1693 charter of the College of William & Mary, later financed partly by tobacco duties and enslaved labour, bears their names.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "King and Queen County (1691), King William County (1701/02), Williamsburg and the College of William & Mary are named for them.",
+   "legacyDetail": [
+    {
+     "t": "2023 research.",
+     "d": "Charles III supported an independent study (due 2026) of the monarchy's slavery links after the Colston document surfaced.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "House of Orange-Nassau",
+     "relation": "dynasty",
+     "years": "",
+     "note": "William's Dutch house, also tied to the Dutch West India Company.",
+     "basis": "documented",
+     "id": "house-of-orange"
+    },
+    {
+     "name": "Queen Anne",
+     "relation": "successor (Mary's sister)",
+     "years": "1665–1714",
+     "note": "Succeeded William in 1702.",
+     "basis": "documented",
+     "id": "queen-anne-great-britain"
+    }
+   ],
+   "today": "William and Mary had no children. The 2023 research backed by King Charles III was prompted directly by the record of William's RAC shares.",
+   "placesNamed": [
+    "King and Queen County, Virginia",
+    "King William County, Virginia",
+    "Williamsburg, Virginia",
+    "College of William & Mary"
+   ],
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "successor monarch who backed research after the 1689 RAC-share document surfaced",
+     "role": "King of the United Kingdom; backed independent research (Historic Royal Palaces / University of Manchester) into the monarchy's links to slavery in 2023",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+      "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+     "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+    },
+    {
+     "label": "Wikipedia — Trade with Africa Act 1697",
+     "url": "https://en.wikipedia.org/wiki/Trade_with_Africa_Act_1697"
+    },
+    {
+     "label": "Library of Virginia — County formation: King and Queen, King William",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioIK.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "finance",
+     "label": "£1,000 stock 1689"
+    },
+    {
+     "id": "edward-colston",
+     "type": "finance",
+     "label": "transferred shares"
+    },
+    {
+     "id": "house-of-orange",
+     "type": "family",
+     "label": "Prince of Orange"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "family",
+     "label": "Mary's father, deposed 1688"
+    },
+    {
+     "id": "queen-anne-great-britain",
+     "type": "family",
+     "label": "successor"
+    }
+   ]
+  },
+  {
+   "id": "prince-george-of-denmark",
+   "name": "Prince George of Denmark",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of Prince George County (1703); no documented involvement in slavery found.",
+   "start": 1703,
+   "end": 1708,
+   "lifespan": "1653–1708",
+   "base": "Kensington Palace, London",
+   "geo": [
+    51.505,
+    -0.188
+   ],
+   "origins": "Danish prince, husband of Queen Anne and Lord High Admiral of England.",
+   "role_summary": "No documented direct involvement in slavery; Prince George County was named for him in 1703 as the Queen's consort. As Lord High Admiral (1702–08) he nominally headed the navy that protected Atlantic trade, including slave ships, in wartime.",
+   "roleDetail": [
+    {
+     "t": "Namesake only.",
+     "d": "Library of Virginia: county named for 'Prince George of Denmark, husband of Queen Anne'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Prince George County, Virginia; Prince George's County, Maryland.",
+   "legacyDetail": [
+    {
+     "t": "Two counties.",
+     "d": "Both Prince George County, VA, and Prince George's County, MD, honour him.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Queen Anne",
+     "relation": "spouse",
+     "years": "1665–1714",
+     "note": "No surviving children.",
+     "basis": "documented",
+     "id": "queen-anne-great-britain"
+    }
+   ],
+   "today": "No surviving children.",
+   "placesNamed": [
+    "Prince George County, Virginia",
+    "Prince George's County, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Prince George",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioOP.htm"
+    },
+    {
+     "label": "Wikipedia — Prince George of Denmark",
+     "url": "https://en.wikipedia.org/wiki/Prince_George_of_Denmark"
+    }
+   ],
+   "connections": [
+    {
+     "id": "queen-anne-great-britain",
+     "type": "family",
+     "label": "spouse"
+    }
+   ]
+  },
+  {
+   "id": "house-of-hanover",
+   "name": "House of Hanover (George I, George II, George III)",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "The future George II (Prince of Wales) was chosen governor of the South Sea Company in 1715, and George I took the governorship himself in 1718 (Britannica); Hanoverian kings reigned over Britain's peak slave-trading century (1714–1807).",
+   "start": 1714,
+   "end": 1837,
+   "lifespan": "1714–1901 (British reign)",
+   "base": "St James's Palace, London",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "aliases": [
+    "Hanoverians",
+    "Georgian monarchy"
+   ],
+   "origins": "German Electors of Hanover who inherited the British throne in 1714 under the Act of Settlement.",
+   "role_summary": "The Hanoverian crown was entwined with the slave-trading South Sea Company: the Prince of Wales (the future George II) was its governor from 1715, and George I replaced him as governor in 1718 and invested in it. Under these kings British ships carried well over two million captives; George III gave assent to the 1807 Slave Trade Act and William IV to the 1833 Abolition Act.",
+   "roleDetail": [
+    {
+     "t": "South Sea Company governors.",
+     "d": "The Prince of Wales was chosen governor on 1 February 1715; George I took over the governorship in 1718, which boosted confidence in the company (Britannica; University of Exeter 'Cast in Stone').",
+     "basis": "documented"
+    },
+    {
+     "t": "Peak century of the trade.",
+     "d": "Britain was the largest slave-carrying nation in the 18th century (SlaveVoyages).",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Abolition assent.",
+     "d": "George III signed the 1807 Act abolishing the British slave trade.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Virginia's Hanover, King George, Brunswick, Lunenburg, Caroline, Amelia and Louisa counties and the colony of Georgia honour the dynasty. King Charles III descends from it.",
+   "legacyDetail": [
+    {
+     "t": "Royal research.",
+     "d": "Historic Royal Palaces and the University of Manchester are researching the monarchy's slavery links (backed by the palace in 2023).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Queen Anne",
+     "relation": "predecessor",
+     "years": "1665–1714",
+     "note": "Last Stuart.",
+     "basis": "documented",
+     "id": "queen-anne-great-britain"
+    },
+    {
+     "name": "Frederick, Prince of Wales",
+     "relation": "son of George II",
+     "years": "1707–1751",
+     "note": "Father of George III.",
+     "basis": "documented",
+     "id": "frederick-prince-of-wales"
+    },
+    {
+     "name": "Queen Charlotte",
+     "relation": "consort of George III",
+     "years": "1744–1818",
+     "note": "",
+     "basis": "documented",
+     "id": "queen-charlotte"
+    },
+    {
+     "name": "King Charles III",
+     "relation": "descendant",
+     "years": "b. 1948",
+     "note": "Present monarch.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The British royal family descends from the Hanoverians through Queen Victoria. In 2023 King Charles III backed independent research into the monarchy's links to slavery, and he has expressed 'personal sorrow' at slavery's suffering (Kigali, 2022).",
+   "placesNamed": [
+    "Hanover County, Virginia",
+    "King George County, Virginia",
+    "Brunswick County, Virginia",
+    "Lunenburg County, Virginia",
+    "Caroline County, Virginia",
+    "Amelia County, Virginia",
+    "Louisa County, Virginia",
+    "Georgia (colony/state)"
+   ],
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "descendant of George III (published royal genealogy)",
+     "role": "King of the United Kingdom; backed independent research (Historic Royal Palaces / University of Manchester) into the monarchy's links to slavery in 2023",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+      "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Hanover",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioH.htm"
+    },
+    {
+     "label": "University of Exeter, Cast in Stone — George I",
+     "url": "https://castinstone.exeter.ac.uk/database/s/en/item/356"
+    },
+    {
+     "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+     "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "south-sea-company",
+     "type": "ownership",
+     "label": "royal governors of the company"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "charter",
+     "label": "George III's assent"
+    },
+    {
+     "id": "frederick-prince-of-wales",
+     "type": "family",
+     "label": "dynasty"
+    },
+    {
+     "id": "queen-charlotte",
+     "type": "family",
+     "label": "consort of George III"
+    },
+    {
+     "id": "queen-anne-great-britain",
+     "type": "political",
+     "label": "succeeded Anne"
+    }
+   ]
+  },
+  {
+   "id": "prince-william-duke-of-cumberland",
+   "name": "Prince William Augustus, Duke of Cumberland",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of both Prince William (1730/31) and Cumberland (1749) counties; no documented involvement in slavery found.",
+   "start": 1730,
+   "end": 1765,
+   "lifespan": "1721–1765",
+   "base": "Windsor Great Park, England",
+   "geo": [
+    51.441,
+    -0.594
+   ],
+   "origins": "Third son of George II, army commander who crushed the Jacobites at Culloden (1746).",
+   "role_summary": "No documented direct involvement in slavery; he was honoured as a royal prince and later as a military hero. His name sits on two counties that became heavily slaveholding.",
+   "roleDetail": [
+    {
+     "t": "Two Virginia counties.",
+     "d": "Library of Virginia names him as namesake of Prince William and Cumberland counties.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Prince William County, Cumberland County, and the Cumberland Gap and River (named in his honour by Thomas Walker, 1750).",
+   "legacyDetail": [
+    {
+     "t": "Culloden reputation.",
+     "d": "In Scotland he is remembered as 'Butcher' Cumberland.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "George II",
+     "relation": "father",
+     "years": "1683–1760",
+     "note": "",
+     "basis": "documented",
+     "id": "house-of-hanover"
+    }
+   ],
+   "today": "He died unmarried and childless.",
+   "placesNamed": [
+    "Prince William County, Virginia",
+    "Cumberland County, Virginia",
+    "Cumberland Gap",
+    "Cumberland River"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Prince William",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioOP.htm"
+    },
+    {
+     "label": "Wikipedia — Prince William, Duke of Cumberland",
+     "url": "https://en.wikipedia.org/wiki/Prince_William,_Duke_of_Cumberland"
+    }
+   ],
+   "connections": [
+    {
+     "id": "house-of-hanover",
+     "type": "family",
+     "label": "son of George II"
+    }
+   ]
+  },
+  {
+   "id": "frederick-prince-of-wales",
+   "name": "Frederick Louis, Prince of Wales",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of Frederick County (1738); no documented direct involvement in slavery found.",
+   "start": 1738,
+   "end": 1751,
+   "lifespan": "1707–1751",
+   "base": "Leicester House, London",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "origins": "Eldest son of George II, estranged from his father, he died before inheriting the throne.",
+   "role_summary": "No documented direct involvement in slavery; Frederick County and Fredericksburg honour him as heir to the throne. He was the father of George III.",
+   "roleDetail": [
+    {
+     "t": "Namesake.",
+     "d": "Library of Virginia: Frederick County named for 'Frederick Louis, Prince of Wales and eldest son of George II'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Frederick County, Virginia (and through it Winchester's region), Fredericksburg, and Frederick County, Maryland.",
+   "legacyDetail": [
+    {
+     "t": "Fredericksburg slave market.",
+     "d": "Fredericksburg had a public slave-auction block in use until 1862; the stone was removed in 2020.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Augusta of Saxe-Gotha",
+     "relation": "spouse",
+     "years": "1719–1772",
+     "note": "",
+     "basis": "documented",
+     "id": "augusta-princess-of-wales"
+    },
+    {
+     "name": "George III",
+     "relation": "son",
+     "years": "1738–1820",
+     "note": "",
+     "basis": "documented",
+     "id": "house-of-hanover"
+    }
+   ],
+   "today": "King Charles III is his descendant through George III.",
+   "placesNamed": [
+    "Frederick County, Virginia",
+    "Fredericksburg, Virginia",
+    "Frederick County, Maryland"
+   ],
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "descendant through George III (published royal genealogy)",
+     "role": "King of the United Kingdom; backed independent research (Historic Royal Palaces / University of Manchester) into the monarchy's links to slavery in 2023",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+      "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Frederick",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioF.htm"
+    },
+    {
+     "label": "Wikipedia — Frederick, Prince of Wales",
+     "url": "https://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales"
+    }
+   ],
+   "connections": [
+    {
+     "id": "house-of-hanover",
+     "type": "family",
+     "label": "son of George II"
+    },
+    {
+     "id": "augusta-princess-of-wales",
+     "type": "family",
+     "label": "spouse"
+    }
+   ]
+  },
+  {
+   "id": "augusta-princess-of-wales",
+   "name": "Augusta of Saxe-Gotha, Princess of Wales",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of Augusta County (1738); no documented involvement in slavery found.",
+   "start": 1738,
+   "end": 1772,
+   "lifespan": "1719–1772",
+   "base": "Kew, Surrey",
+   "geo": [
+    51.478,
+    -0.295
+   ],
+   "origins": "German princess, wife of Frederick, Prince of Wales, and mother of George III; founder of the gardens at Kew.",
+   "role_summary": "No documented direct involvement in slavery; Augusta County, the vast early backcountry county, and Augusta, Georgia, honour her.",
+   "roleDetail": [
+    {
+     "t": "Namesake.",
+     "d": "Library of Virginia: Augusta County named for 'Augusta of Saxe-Gotha, wife of Frederick Louis, Prince of Wales, and mother of George III'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Augusta County, Virginia; Augusta, Georgia; Kew Gardens.",
+   "legacyDetail": [
+    {
+     "t": "Kew.",
+     "d": "Kew's collections later drew on plants moved through slave-worked colonies; Kew has published on these links.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Frederick, Prince of Wales",
+     "relation": "spouse",
+     "years": "1707–1751",
+     "note": "",
+     "basis": "documented",
+     "id": "frederick-prince-of-wales"
+    }
+   ],
+   "today": "King Charles III is her descendant through George III.",
+   "placesNamed": [
+    "Augusta County, Virginia",
+    "Augusta, Georgia"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Augusta",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioA.htm"
+    },
+    {
+     "label": "Wikipedia — Princess Augusta of Saxe-Gotha",
+     "url": "https://en.wikipedia.org/wiki/Princess_Augusta_of_Saxe-Gotha"
+    }
+   ],
+   "connections": [
+    {
+     "id": "frederick-prince-of-wales",
+     "type": "family",
+     "label": "spouse"
+    },
+    {
+     "id": "house-of-hanover",
+     "type": "family",
+     "label": "mother of George III"
+    }
+   ]
+  },
+  {
+   "id": "queen-charlotte",
+   "name": "Queen Charlotte (Charlotte of Mecklenburg-Strelitz)",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of Charlotte and Mecklenburg counties (1764) and Charlottesville; no documented direct involvement in slavery found.",
+   "start": 1764,
+   "end": 1818,
+   "lifespan": "1744–1818",
+   "base": "Buckingham House, London",
+   "geo": [
+    51.501,
+    -0.142
+   ],
+   "origins": "German princess who married George III in 1761.",
+   "role_summary": "No documented direct involvement in slavery; Virginia named two counties and Charlottesville for her. Her husband George III gave royal assent to the 1807 abolition of the slave trade.",
+   "roleDetail": [
+    {
+     "t": "Namesake.",
+     "d": "Library of Virginia: Mecklenburg was named, like Charlotte County, for Charlotte of Mecklenburg-Strelitz.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Charlotte County, Mecklenburg County and Charlottesville in Virginia; Charlotte and Mecklenburg County in North Carolina.",
+   "legacyDetail": [
+    {
+     "t": "Charlottesville.",
+     "d": "Charlottesville and Albemarle were centres of slaveholding (Monticello, UVA); the city removed its Confederate statues in 2021.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "George III",
+     "relation": "spouse",
+     "years": "1738–1820",
+     "note": "",
+     "basis": "documented",
+     "id": "house-of-hanover"
+    }
+   ],
+   "today": "King Charles III is her descendant.",
+   "placesNamed": [
+    "Charlotte County, Virginia",
+    "Mecklenburg County, Virginia",
+    "Charlottesville, Virginia",
+    "Charlotte, North Carolina"
+   ],
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "descendant (published royal genealogy)",
+     "role": "King of the United Kingdom; backed independent research (Historic Royal Palaces / University of Manchester) into the monarchy's links to slavery in 2023",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+      "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+     }
+    }
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Mecklenburg",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioM.htm"
+    },
+    {
+     "label": "Wikipedia — Charlotte of Mecklenburg-Strelitz",
+     "url": "https://en.wikipedia.org/wiki/Charlotte_of_Mecklenburg-Strelitz"
+    }
+   ],
+   "connections": [
+    {
+     "id": "house-of-hanover",
+     "type": "family",
+     "label": "consort of George III"
+    },
+    {
+     "id": "monticello",
+     "type": "legacy",
+     "label": "Charlottesville area"
+    }
+   ]
+  },
+  {
+   "id": "prince-edward-duke-of-york",
+   "name": "Prince Edward, Duke of York and Albany",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Namesake of Prince Edward County (1753); no documented involvement in slavery found.",
+   "start": 1753,
+   "end": 1767,
+   "lifespan": "1739–1767",
+   "base": "London",
+   "geo": [
+    51.504,
+    -0.127
+   ],
+   "origins": "Younger brother of George III and a naval officer; he died unmarried in Monaco.",
+   "role_summary": "No documented direct involvement in slavery. The county named for him became a slaveholding Southside county and, in 1959–64, closed its entire public-school system rather than integrate after the Moton High School strike led to Brown v. Board.",
+   "roleDetail": [
+    {
+     "t": "Namesake.",
+     "d": "Library of Virginia: named for Edward Augustus, son of Frederick and brother of George III.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Prince Edward County, Virginia; the county's 1959–64 school closure is one of the starkest episodes of Massive Resistance.",
+   "legacyDetail": [
+    {
+     "t": "School closure.",
+     "d": "White students attended the private Prince Edward Academy while most Black children had no public schooling for five years.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Frederick, Prince of Wales",
+     "relation": "father",
+     "years": "1707–1751",
+     "note": "",
+     "basis": "documented",
+     "id": "frederick-prince-of-wales"
+    }
+   ],
+   "today": "He died unmarried and childless.",
+   "placesNamed": [
+    "Prince Edward County, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Prince Edward",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioOP.htm"
+    },
+    {
+     "label": "Wikipedia — Prince Edward Academy",
+     "url": "https://en.wikipedia.org/wiki/Prince_Edward_Academy"
+    }
+   ],
+   "connections": [
+    {
+     "id": "frederick-prince-of-wales",
+     "type": "family",
+     "label": "son"
+    },
+    {
+     "id": "house-of-hanover",
+     "type": "family",
+     "label": "brother of George III"
+    }
+   ]
+  },
+  {
+   "id": "alexander-family-alexandria",
+   "name": "Alexander family of Alexandria",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Colonial landowners whose estates were worked by enslaved people; Robert Alexander's 1704 will left nine named enslaved people to one son (Potomac Yard historical marker).",
+   "start": 1669,
+   "end": 1800,
+   "lifespan": "1669–c.1800s",
+   "base": "Alexandria, Virginia",
+   "geo": [
+    38.805,
+    -77.047
+   ],
+   "origins": "John Alexander, a Scottish-descended planter of Stafford County, bought the Howson patent on the Potomac in 1669 for 6,000 pounds of tobacco. His descendants held much of the land on which Alexandria was laid out in 1749.",
+   "role_summary": "The Alexanders were Northern Neck planters whose wealth came from tobacco worked by enslaved people; enslaved people passed in their wills alongside land. The town was named for the family, probably as an inducement to give up land wanted for the port.",
+   "roleDetail": [
+    {
+     "t": "Enslavers by inheritance.",
+     "d": "Robert Alexander's 1704 will passed enslaved people to his sons, one receiving nine named individuals.",
+     "basis": "documented"
+    },
+    {
+     "t": "Town name.",
+     "d": "Alexandria's Office of Historic Alexandria calls the family naming 'probable, but not definitive'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Alexandria became one of the largest domestic slave-trading hubs in the US: Franklin & Armfield's pen at 1315 Duke Street shipped thousands south (now the Freedom House Museum).",
+   "legacyDetail": [
+    {
+     "t": "Domestic trade hub.",
+     "d": "City sources estimate tens of thousands of people were sold from the region to the Deep South.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Alexander",
+     "relation": "founder",
+     "years": "d. 1677",
+     "note": "Bought the Howson patent in 1669.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Alexander",
+     "relation": "son",
+     "years": "d. 1704",
+     "note": "His will distributed land and enslaved people to his sons.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken about the link; the family's land was subdivided into the city of Alexandria and Arlington.",
+   "placesNamed": [
+    "Alexandria, Virginia",
+    "Alexandria County (renamed Arlington County, 1920)"
+   ],
+   "sources": [
+    {
+     "label": "City of Alexandria — Alexandria's Early History: The Colonial and Federal Periods",
+     "url": "https://www.alexandriava.gov/go/1456"
+    },
+    {
+     "label": "Historical Marker Database — Potomac Yard marker",
+     "url": "https://www.hmdb.org/m.asp?m=115672"
+    }
+   ],
+   "connections": [
+    {
+     "id": "franklin-and-armfield",
+     "type": "legacy",
+     "label": "slave-trading firm in Alexandria"
+    },
+    {
+     "id": "freedom-house-alexandria",
+     "type": "legacy",
+     "label": "museum in the town"
+    },
+    {
+     "id": "henry-bennet-earl-of-arlington",
+     "type": "parallel",
+     "label": "Alexandria County renamed Arlington 1920"
+    }
+   ]
+  },
+  {
+   "id": "henry-light-horse-harry-lee",
+   "name": "Henry 'Light-Horse Harry' Lee III",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Revolutionary cavalry officer and governor (1791–94) who lived at Stratford Hall, a plantation worked by enslaved people; numbers he personally held are not documented in the sources used.",
+   "start": 1782,
+   "end": 1818,
+   "lifespan": "1756–1818",
+   "base": "Stratford Hall, Westmoreland County, Virginia",
+   "geo": [
+    38.152,
+    -76.84
+   ],
+   "origins": "Born at Leesylvania in Prince William County into the Lee family, he won fame commanding 'Lee's Legion' in the Revolution and married his cousin Matilda Lee, heiress of Stratford Hall, in 1782.",
+   "role_summary": "Lee lived as a planter at Stratford, worked by enslaved people, and served as Virginia governor 1791–94. His reckless land speculation ruined him: his father left him none of the family's enslaved people or cash, and Matilda put Stratford in trust away from him; he was jailed for debt in 1809.",
+   "roleDetail": [
+    {
+     "t": "Stratford Hall.",
+     "d": "Encyclopedia Virginia describes Stratford as 'a bustling plantation'; its labour force was enslaved.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Debt and ruin.",
+     "d": "His speculation (e.g. Matildaville) bankrupted him; he spent 1809–10 in debtors' prison.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Father of Robert E. Lee. Lee County, Virginia (1792), is named for him. He delivered the 'first in war, first in peace' eulogy for Washington.",
+   "legacyDetail": [
+    {
+     "t": "Stratford today.",
+     "d": "Stratford Hall, run by the Robert E. Lee Memorial Association, now interprets the lives of the people enslaved there.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Henry Lee II",
+     "relation": "father",
+     "years": "1730–1787",
+     "note": "Planter of Leesylvania; left Harry land but no enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Matilda Ludwell Lee",
+     "relation": "first wife",
+     "years": "1764–1790",
+     "note": "Heiress of Stratford Hall.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anne Hill Carter",
+     "relation": "second wife",
+     "years": "1773–1829",
+     "note": "Daughter of Charles Carter of Shirley; mother of Robert E. Lee.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert E. Lee",
+     "relation": "son",
+     "years": "1807–1870",
+     "note": "Confederate commander and enslaver at Arlington.",
+     "basis": "documented",
+     "id": "robert-e-lee"
+    }
+   ],
+   "today": "The Lee family's legacy is covered under Robert E. Lee and the Lee family. Lee County, Virginia, keeps his name.",
+   "placesNamed": [
+    "Lee County, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Henry Lee (1756–1818)",
+     "url": "https://encyclopediavirginia.org/entries/lee-henry-1756-1818/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Lee",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioL.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-e-lee",
+     "type": "family",
+     "label": "father"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "eulogist of Washington"
+    },
+    {
+     "id": "custis-family",
+     "type": "family",
+     "label": "son married into Custis family"
+    }
+   ]
+  },
+  {
+   "id": "henry-a-wise",
+   "name": "Henry A. Wise",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Governor 1856–60 and enslaver (a historical marker records nineteen enslaved people on his Onancock Creek farm) who refused to commute John Brown's death sentence and became a Confederate general.",
+   "start": 1830,
+   "end": 1865,
+   "lifespan": "1806–1876",
+   "base": "Richmond / Accomack County, Virginia",
+   "geo": [
+    37.712,
+    -75.744
+   ],
+   "origins": "Born in Accomack County on the Eastern Shore to a wealthy landowning family, he was a congressman, US minister to Brazil (1844–47) and a leader at the 1850–51 constitutional convention.",
+   "role_summary": "Wise was 'a stout defender of slavery' (Encyclopedia Virginia) who, paradoxically, denounced Brazil's participation in the international slave trade while minister there. As governor he refused to commute John Brown's sentence after Harpers Ferry (1859); Brown was hanged on 2 December 1859. He then pushed secession and served as a Confederate brigadier general.",
+   "roleDetail": [
+    {
+     "t": "Enslaver.",
+     "d": "After returning from Brazil he settled on a 400-acre farm near Onancock worked by nineteen enslaved people (marker text).",
+     "basis": "documented"
+    },
+    {
+     "t": "John Brown.",
+     "d": "He held the power to commute Brown's sentence and declined, making Brown a martyr in the North.",
+     "basis": "documented"
+    },
+    {
+     "t": "Secessionist.",
+     "d": "At the 1861 convention he helped plan the seizure of federal arsenals.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Wise County (1856) and the town of Wise, Virginia, are named for him. His Rolleston plantation was used by the Freedmen's Bureau as a school after the war.",
+   "legacyDetail": [
+    {
+     "t": "Rolleston.",
+     "d": "The Freedmen's Bureau used his Rolleston estate as a school and he could not reclaim it.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Sarah Sergeant Wise",
+     "relation": "second wife",
+     "years": "d. 1850",
+     "note": "Daughter of Pennsylvania congressman John Sergeant.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Sergeant Wise",
+     "relation": "son",
+     "years": "1846–1913",
+     "note": "Confederate veteran who later became a Readjuster/Republican congressman.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have addressed the link. Wise County and the town of Wise keep the name.",
+   "placesNamed": [
+    "Wise County, Virginia",
+    "Town of Wise, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Henry A. Wise (1806–1876)",
+     "url": "https://encyclopediavirginia.org/entries/wise-henry-a-1806-1876/"
+    },
+    {
+     "label": "Hollywood Cemetery — Henry A. Wise",
+     "url": "https://hollywoodcemetery.org/henry-a-wise"
+    },
+    {
+     "label": "Library of Virginia — County formation: Wise",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioTWY.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-e-lee",
+     "type": "political",
+     "label": "Lee captured Brown; both Confederate generals"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "political",
+     "label": "criticised Brazil's slave trade as US minister"
+    },
+    {
+     "id": "henry-light-horse-harry-lee",
+     "type": "parallel",
+     "label": "fellow Virginia governor-namesake"
+    }
+   ]
+  },
+  {
+   "id": "henry-tazewell",
+   "name": "Henry Tazewell",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Williamsburg lawyer, judge and US senator (1794–99). Virginia tax records list him with nine enslaved people in Williamsburg (1786) and 28 (15 adults, 13 teenagers) in Greensville County (1787), and probably as nonresident owner of 11 in York County (1788); he may have hired some out.",
+   "start": 1775,
+   "end": 1799,
+   "lifespan": "1753–1799",
+   "base": "Williamsburg, Virginia",
+   "geo": [
+    37.271,
+    -76.707
+   ],
+   "origins": "A Brunswick County-born lawyer educated at William & Mary, he served in the Revolutionary conventions, on Virginia's General Court and Court of Appeals, and in the US Senate.",
+   "role_summary": "Tazewell was part of Virginia's slaveholding legal elite: tax records list him with nine enslaved people in Williamsburg in 1786 and 28 in Greensville County in 1787, and probably 11 in York County in 1788. His son Littleton Waller Tazewell, governor 1834–36, was also an enslaver.",
+   "roleDetail": [
+    {
+     "t": "Enslaver (tax records).",
+     "d": "Taxed for nine enslaved people (six adults, three children) in Williamsburg in 1786 and for 15 adults and 13 teenagers in Greensville County in 1787 (Wikipedia, citing Virginia tax lists).",
+     "basis": "documented"
+    },
+    {
+     "t": "York County, 1788.",
+     "d": "Probably the nonresident owner of ten adults and one teenager in York County in 1788; the attribution is described as 'likely'.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Tazewell County, Virginia (1799), and the town of Tazewell are named for him, as are Tazewell and New Tazewell, Tennessee; Tazewell County, Illinois, is usually said to honour his son Littleton Waller Tazewell, though some sources credit Henry.",
+   "legacyDetail": [
+    {
+     "t": "County.",
+     "d": "Library of Virginia: Tazewell County named for Henry Tazewell, senator 1794–99.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Littleton Waller Tazewell",
+     "relation": "son",
+     "years": "1774–1860",
+     "note": "US senator and governor of Virginia 1834–36.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have addressed the link.",
+   "placesNamed": [
+    "Tazewell County, Virginia",
+    "Town of Tazewell, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Library of Virginia — County formation: Tazewell",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioTWY.htm"
+    },
+    {
+     "label": "Wikipedia — Henry Tazewell",
+     "url": "https://en.wikipedia.org/wiki/Henry_Tazewell"
+    }
+   ],
+   "connections": [
+    {
+     "id": "henry-a-wise",
+     "type": "parallel",
+     "label": "fellow southwest county namesake"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "Jeffersonian Republican senator"
+    }
+   ]
+  },
+  {
+   "id": "virginia-partus-law-1662",
+   "name": "Virginia partus law of 1662 ('Negro womens children to serve according to the condition of the mother')",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Passed in December 1662, it reversed English common law by making a child's status follow the mother (partus sequitur ventrem), so children of enslaved women were enslaved for life whoever the father was. It closed the route Elizabeth Key had used in 1656 to win freedom through her English father, and made slavery self-reproducing; the same act doubled fines for sex between Christians and Black people.",
+   "start": 1662,
+   "connections": [
+    {
+     "id": "sir-william-berkeley",
+     "type": "charter",
+     "label": "enacted under Governor Berkeley"
+    },
+    {
+     "id": "virginia-baptism-act-1667",
+     "type": "legacy",
+     "label": "followed by"
+    },
+    {
+     "id": "maryland-slave-law-1664",
+     "type": "parallel",
+     "label": "Maryland's 1664 law"
+    },
+    {
+     "id": "virginia-slave-code-1705",
+     "type": "legacy",
+     "label": "consolidated in 1705"
+    }
+   ],
+   "geo": [
+    37.274,
+    -76.703
+   ]
+  },
+  {
+   "id": "virginia-baptism-act-1667",
+   "name": "Virginia act declaring that baptism does not exempt from bondage (1667)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "In September 1667 the General Assembly declared that baptism did not change an enslaved person's status, removing Christian conversion as a route to freedom and encouraging enslavers to baptise without fear of losing property. The rule was repeated in the 1705 code.",
+   "start": 1667,
+   "connections": [
+    {
+     "id": "sir-william-berkeley",
+     "type": "charter",
+     "label": "enacted under Berkeley"
+    },
+    {
+     "id": "virginia-partus-law-1662",
+     "type": "legacy",
+     "label": "followed partus law"
+    },
+    {
+     "id": "church-of-england",
+     "type": "political",
+     "label": "established church in Virginia"
+    }
+   ],
+   "geo": [
+    37.274,
+    -76.703
+   ]
+  },
+  {
+   "id": "virginia-casual-killing-act-1669",
+   "name": "Virginia 'act about the casuall killing of slaves' (1669)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "This 1669 act declared that a master who killed an enslaved person while 'correcting' them was not guilty of a felony, since no one would destroy his own estate with malice. It gave enslavers near-absolute power over life, and was carried into the 1705 code.",
+   "start": 1669,
+   "connections": [
+    {
+     "id": "sir-william-berkeley",
+     "type": "charter",
+     "label": "enacted under Berkeley"
+    },
+    {
+     "id": "virginia-slave-code-1705",
+     "type": "legacy",
+     "label": "carried into 1705 code"
+    },
+    {
+     "id": "plantation-overseers",
+     "type": "parallel",
+     "label": "immunity for violent correction"
+    }
+   ],
+   "geo": [
+    37.274,
+    -76.703
+   ]
+  },
+  {
+   "id": "virginia-act-1691",
+   "name": "Virginia 'act for suppressing outlying slaves' (1691)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Passed 3 April 1691, it authorised sheriffs and posses to kill enslaved people 'lying out' who resisted capture (owners compensated 4,000 lb of tobacco), banned marriage between white and Black or Indian people, and required anyone freeing an enslaved person to pay to transport them out of Virginia within six months.",
+   "start": 1691,
+   "connections": [
+    {
+     "id": "virginia-slave-code-1705",
+     "type": "legacy",
+     "label": "folded into 1705 code"
+    },
+    {
+     "id": "slave-patrols",
+     "type": "legacy",
+     "label": "precursor of patrols"
+    },
+    {
+     "id": "william-iii-and-mary-ii",
+     "type": "charter",
+     "label": "passed under William and Mary"
+    }
+   ],
+   "geo": [
+    37.274,
+    -76.703
+   ]
+  },
+  {
+   "id": "virginia-slave-code-1705",
+   "name": "Virginia Slave Code of 1705 ('An act concerning Servants and Slaves')",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Passed in October 1705, the 41-section act consolidated earlier laws into a comprehensive racial slave code: non-Christian imported servants became slaves, enslaved people were made real estate for inheritance, masters were immune for killing during correction, and enslaved people could be dismembered for running away. It became a model for other colonies.",
+   "start": 1705,
+   "connections": [
+    {
+     "id": "virginia-partus-law-1662",
+     "type": "legacy",
+     "label": "consolidated"
+    },
+    {
+     "id": "virginia-casual-killing-act-1669",
+     "type": "legacy",
+     "label": "consolidated"
+    },
+    {
+     "id": "queen-anne-great-britain",
+     "type": "charter",
+     "label": "passed in Anne's reign"
+    },
+    {
+     "id": "south-carolina-patrol-act-1704",
+     "type": "parallel",
+     "label": "contemporary Carolina law"
+    },
+    {
+     "id": "code-noir",
+     "type": "parallel",
+     "label": "French counterpart 1685"
+    }
+   ],
+   "geo": [
+    37.274,
+    -76.703
+   ]
+  },
+  {
+   "id": "virginia-act-1723",
+   "name": "Virginia 1723 act 'for the better government of Negros, Mulattos, and Indians, bond or free'",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Passed in May 1723 under Lt Gov Hugh Drysdale after rumours of a conspiracy, it barred freeing any enslaved person except for 'meritorious services' approved by the governor and council, stripped free Black, mixed-race and Indian men of the vote, and tightened trials of enslaved people. Gov. Gooch defended the disfranchisement to the Board of Trade in 1735/36; the manumission ban lasted until 1782.",
+   "start": 1723,
+   "connections": [
+    {
+     "id": "hugh-drysdale",
+     "type": "charter",
+     "label": "proposed and signed"
+    },
+    {
+     "id": "william-gooch",
+     "type": "political",
+     "label": "defended 1735/36"
+    },
+    {
+     "id": "earl-of-halifax",
+     "type": "parallel",
+     "label": "Board of Trade review of colonial acts"
+    }
+   ],
+   "geo": [
+    37.274,
+    -76.703
+   ]
+  },
+  {
+   "id": "greenway-court",
+   "name": "Greenway Court (Lord Fairfax's manor and land office)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Thomas, 6th Lord Fairfax's estate near White Post in today's Clarke County, built c.1752, from which he ran the Northern Neck Proprietary's land office. Enslaved people lived in log quarters on the estate (NPS survey); Fairfax died there in 1781. The stone land office survives; the main house was replaced in 1828.",
+   "start": 1752,
+   "connections": [
+    {
+     "id": "thomas-6th-lord-fairfax",
+     "type": "ownership",
+     "label": "Fairfax's seat"
+    }
+   ],
+   "geo": [
+    39.059,
+    -78.103
+   ]
+  },
+  {
+   "id": "germanna-ironworks",
+   "name": "Germanna and Spotswood's ironworks",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Frontier settlement founded c.1714 by Lt Gov Alexander Spotswood, who brought German miners and built the South's first ironworks, run with enslaved labour; Spotswood's mansion there (the 'enchanted castle') was abandoned by c.1750 and is an archaeological site.",
+   "start": 1714,
+   "connections": [
+    {
+     "id": "alexander-spotswood",
+     "type": "ownership",
+     "label": "founded and owned"
+    }
+   ],
+   "geo": [
+    38.385,
+    -77.784
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1606,
+   "title": "James I charters the Virginia Company",
+   "text": "The charter created the company that founded Jamestown in 1607; Virginia became a royal colony in 1624.",
+   "ids": [
+    "james-i-england"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Virginia Company of London",
+    "url": "https://encyclopediavirginia.org/entries/virginia-company-of-london/"
+   }
+  },
+  {
+   "year": 1619,
+   "title": "First recorded Africans land in Virginia",
+   "text": "About twenty captive Africans from a Portuguese slaver were landed at Point Comfort during James I's reign.",
+   "ids": [
+    "james-i-england",
+    "fort-monroe-1619-landing",
+    "angela-1619"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Colonial Virginia",
+    "url": "https://encyclopediavirginia.org/entries/colonial-virginia/"
+   }
+  },
+  {
+   "year": 1662,
+   "title": "Virginia makes slavery hereditary through the mother",
+   "text": "Under Gov. Berkeley the assembly enacted that children follow the condition of the mother.",
+   "ids": [
+    "virginia-partus-law-1662",
+    "sir-william-berkeley"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — 1662 act",
+    "url": "https://encyclopediavirginia.org/entries/negro-womens-children-to-serve-according-to-the-condition-of-the-mother-1662/"
+   }
+  },
+  {
+   "year": 1669,
+   "title": "'Casual killing' act",
+   "text": "Masters who killed enslaved people during 'correction' were declared not guilty of felony.",
+   "ids": [
+    "virginia-casual-killing-act-1669",
+    "sir-william-berkeley"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — 1669 act",
+    "url": "https://encyclopediavirginia.org/primary-documents/an-act-about-the-casuall-killing-of-slaves-1669/"
+   }
+  },
+  {
+   "year": 1672,
+   "title": "Arlington subscribes to the new Royal African Company",
+   "text": "Henry Bennet, Earl of Arlington, is listed among members in the RAC's 1672 charter.",
+   "ids": [
+    "henry-bennet-earl-of-arlington",
+    "royal-african-company",
+    "james-duke-of-york"
+   ],
+   "source": {
+    "label": "Wikipedia — RAC officials and shareholders 1672",
+    "url": "https://en.wikipedia.org/wiki/List_of_officials_and_shareholders_in_the_Royal_African_Company,_1672"
+   }
+  },
+  {
+   "year": 1689,
+   "title": "Colston transfers RAC stock to William III",
+   "text": "Edward Colston transferred £1,000 of Royal African Company stock to the new king, a document published in 2023.",
+   "ids": [
+    "william-iii-and-mary-ii",
+    "edward-colston",
+    "royal-african-company"
+   ],
+   "source": {
+    "label": "CBS News — King Charles supports research into monarchy's slavery links (2023)",
+    "url": "https://www.cbsnews.com/news/king-charles-slavery-investigation-monarchy/"
+   }
+  },
+  {
+   "year": 1691,
+   "title": "Freed people must leave Virginia",
+   "text": "The 'act for suppressing outlying slaves' required manumitted people to be transported out of the colony within six months.",
+   "ids": [
+    "virginia-act-1691"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — 1691 act",
+    "url": "https://encyclopediavirginia.org/primary-documents/an-act-for-suppressing-outlying-slaves-1691/"
+   }
+  },
+  {
+   "year": 1698,
+   "title": "William III assents to opening the slave trade",
+   "text": "The Trade with Africa Act ended the RAC monopoly, letting separate traders ship captives on a 10% duty.",
+   "ids": [
+    "william-iii-and-mary-ii",
+    "royal-african-company"
+   ],
+   "source": {
+    "label": "Wikipedia — Trade with Africa Act 1697",
+    "url": "https://en.wikipedia.org/wiki/Trade_with_Africa_Act_1697"
+   }
+  },
+  {
+   "year": 1705,
+   "title": "Virginia Slave Code",
+   "text": "The assembly consolidated its slave laws into the 41-section 'act concerning Servants and Slaves'.",
+   "ids": [
+    "virginia-slave-code-1705",
+    "queen-anne-great-britain"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — 1705 act",
+    "url": "https://encyclopediavirginia.org/primary-documents/an-act-concerning-servants-and-slaves-1705/"
+   }
+  },
+  {
+   "year": 1713,
+   "title": "Britain wins the asiento",
+   "text": "Queen Anne announced the asiento gained at Utrecht; it was assigned to the South Sea Company.",
+   "ids": [
+    "queen-anne-great-britain",
+    "south-sea-company",
+    "spanish-asiento"
+   ],
+   "source": {
+    "label": "UMD Slavery, Law & Power — Queen Anne's speech",
+    "url": "https://slaverylawpower.org/queen-anne-speech/"
+   }
+  },
+  {
+   "year": 1723,
+   "title": "Manumission banned and free Black men disfranchised",
+   "text": "Under Drysdale the assembly restricted manumission and removed free Black men's vote; Gooch later defended it.",
+   "ids": [
+    "virginia-act-1723",
+    "hugh-drysdale",
+    "william-gooch"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Denying Free Blacks the Right to Vote",
+    "url": "https://encyclopediavirginia.org/entries/denying-free-blacks-the-right-to-vote-1724-1735"
+   }
+  },
+  {
+   "year": 1758,
+   "title": "Britain seizes Senegal and Gorée",
+   "text": "Pitt's ministry captured French Saint-Louis and, under Augustus Keppel, Gorée.",
+   "ids": [
+    "william-pitt-elder",
+    "earl-of-albemarle-keppel",
+    "goree-island"
+   ],
+   "source": {
+    "label": "Wikipedia — British capture of Senegal",
+    "url": "https://en.wikipedia.org/wiki/British_capture_of_Senegal"
+   }
+  },
+  {
+   "year": 1775,
+   "title": "Dunmore's Proclamation",
+   "text": "Gov. Dunmore offered freedom to enslaved people of rebels who fought for the King, while keeping his own enslaved workers.",
+   "ids": [
+    "earl-of-dunmore"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Dunmore",
+    "url": "https://encyclopediavirginia.org/entries/dunmore-john-murray-fourth-earl-of-ca-1730-1809/"
+   }
+  },
+  {
+   "year": 1859,
+   "title": "Gov. Wise refuses to spare John Brown",
+   "text": "Henry A. Wise declined to commute Brown's sentence; Brown was hanged on 2 December 1859.",
+   "ids": [
+    "henry-a-wise",
+    "robert-e-lee"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Henry A. Wise",
+    "url": "https://encyclopediavirginia.org/entries/wise-henry-a-1806-1876/"
+   }
+  },
+  {
+   "year": 2021,
+   "title": "Lord Fairfax Community College drops his name",
+   "text": "The board voted to rename the college because Fairfax was an enslaver; it became Laurel Ridge Community College.",
+   "ids": [
+    "thomas-6th-lord-fairfax"
+   ],
+   "source": {
+    "label": "InsideNoVa — Lord Fairfax Community College to change name",
+    "url": "https://www.insidenova.com/headlines/lord-fairfax-community-college-in-fauquier-county-to-change-name/article_9ef8d266-71ad-11eb-b969-47f3afc2956d.html"
+   }
+  }
+ ]
+}

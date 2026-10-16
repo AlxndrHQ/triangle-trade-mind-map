@@ -195,7 +195,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Hawkins's 1565 coat of arms, which shows an enslaved African man, remains the clearest symbol of the family's origins in the trade. In Plymouth, the council moved in 2020 to rename Sir John Hawkins Square (first proposing to honour the Black Plymouth Argyle footballer Jack Leslie, later proposing 'Justice Square'); a court challenge to the renaming failed."
+   "today": "No publicly documented descendants have been traced. Hawkins's 1565 coat of arms, which shows an enslaved African man, remains the clearest symbol of the family's origins in the trade. In Plymouth, the council moved in 2020 to rename Sir John Hawkins Square (first proposing to honour the Black Plymouth Argyle footballer Jack Leslie, later proposing 'Justice Square'); a court challenge to the renaming failed.",
+   "today_people": []
   },
   {
    "id": "francis-drake",
@@ -343,7 +344,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Drake left no children, so no direct descendants exist; his estate passed through his brother Thomas's line, whose Drake baronetcy lapsed in 1794. Buckland Abbey, bought with his prize money, has belonged to the National Trust since the late 1940s. His statues in Plymouth and Tavistock were the subject of renewed debate in 2020."
+   "today": "Drake left no children, so no direct descendants exist; his estate passed through his brother Thomas's line, whose Drake baronetcy lapsed in 1794. Buckland Abbey, bought with his prize money, has belonged to the National Trust since the late 1940s. His statues in Plymouth and Tavistock were the subject of renewed debate in 2020.",
+   "today_people": []
   },
   {
    "id": "elizabeth-i",
@@ -474,7 +476,21 @@
      "id": "james-duke-of-york"
     }
    ],
-   "today": "Elizabeth died childless in 1603 and the Tudor line ended; the Crown passed to the Stuarts. In April 2023 Buckingham Palace said King Charles III supports independent research into the British monarchy's historic links with the transatlantic slave trade (a PhD co-sponsored by Historic Royal Palaces), with access to the Royal Collection and Royal Archives."
+   "today": "Elizabeth died childless in 1603 and the Tudor line ended; the Crown passed to the Stuarts. In April 2023 Buckingham Palace said King Charles III supports independent research into the British monarchy's historic links with the transatlantic slave trade (a PhD co-sponsored by Historic Royal Palaces), with access to the Royal Collection and Royal Archives.",
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "reigning British monarch; the Crown chartered and profited from the Royal African Company (James, Duke of York, was its governor)",
+     "role": "In 2023 said he supports independent research into the monarchy's links to slavery; at CHOGM 2024 spoke of 'the most painful aspects of our past' without addressing reparations",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — King Charles supports research into monarchy's slavery links",
+      "url": "https://cbsnews.com/news/king-charles-slavery-investigation-monarchy"
+     }
+    }
+   ]
   },
   {
    "id": "james-duke-of-york",
@@ -633,7 +649,33 @@
      "id": "south-sea-company"
     }
    ],
-   "today": "James's direct line lost the throne in 1688, but the Crown passed to his daughters Mary II and Anne and then to the Hanoverians, ancestors of today's royal family. In 2023 the Guardian published the 1689 Colston-to-William III RAC share transfer, and Buckingham Palace said King Charles III supports independent research into the monarchy's links to slavery."
+   "today": "James's direct line lost the throne in 1688, but the Crown passed to his daughters Mary II and Anne and then to the Hanoverians, ancestors of today's royal family. In 2023 the Guardian published the 1689 Colston-to-William III RAC share transfer, and Buckingham Palace said King Charles III supports independent research into the monarchy's links to slavery. In Jamaica in 2022 Prince William expressed 'profound sorrow' for slavery but did not apologise, and at the 2024 Commonwealth summit King Charles spoke of 'the most painful aspects of our past'.",
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "reigning British monarch; the Crown chartered and profited from the Royal African Company (James, Duke of York, was its governor)",
+     "role": "In 2023 said he supports independent research into the monarchy's links to slavery; at CHOGM 2024 spoke of 'the most painful aspects of our past' without addressing reparations",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — King Charles supports research into monarchy's slavery links",
+      "url": "https://cbsnews.com/news/king-charles-slavery-investigation-monarchy"
+     }
+    },
+    {
+     "name": "William, Prince of Wales",
+     "relation": "heir to the British throne, of the royal line that succeeded James II",
+     "role": "In Kingston, Jamaica (March 2022), expressed 'profound sorrow' for slavery without an apology",
+     "sector": "Royalty & titles",
+     "year": 2022,
+     "basis": "documented",
+     "source": {
+      "label": "CBC — Prince William expresses 'profound sorrow' for slavery in Jamaica visit (2022)",
+      "url": "https://www.cbc.ca/1.6395828"
+     }
+    }
+   ]
   },
   {
    "id": "royal-african-company",
@@ -822,7 +864,21 @@
      "id": "cape-coast-castle"
     }
    ],
-   "today": "The company has no corporate successor; its assets passed via the Company of Merchants to the Crown in 1821. Its records, held at The National Archives (Kew), are a major source for historians. The monarchy's historic RAC links are part of independent research that King Charles III said in 2023 he supports."
+   "today": "The company has no corporate successor; its assets passed via the Company of Merchants to the Crown in 1821. Its records, held at The National Archives (Kew), are a major source for historians. The monarchy's historic RAC links are part of independent research that King Charles III said in 2023 he supports.",
+   "today_people": [
+    {
+     "name": "King Charles III",
+     "relation": "reigning British monarch; the Crown chartered and profited from the Royal African Company (James, Duke of York, was its governor)",
+     "role": "In 2023 said he supports independent research into the monarchy's links to slavery; at CHOGM 2024 spoke of 'the most painful aspects of our past' without addressing reparations",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "AP via KVIA — King Charles tells summit the past can't be changed (2024)",
+      "url": "https://kvia.com/news/2024/10/24/king-charles-tells-summit-the-past-cant-be-changed-as-leaders-ask-britain-to-reckon-with-slavery/"
+     }
+    }
+   ]
   },
   {
    "id": "edward-colston",
@@ -994,7 +1050,8 @@
      "id": "statue-of-edward-colston"
     }
    ],
-   "today": "Colston had no children, and no publicly documented descendants have been traced; his private estate passed to nephews and nieces and most of his fortune went into Bristol and London charities. Since 2020 his name has been removed from Bristol institutions: Colston Hall became Bristol Beacon (2020), Colston's Girls' School became Montpelier High, Colston's School became Collegiate School (2022), and the Colston Society disbanded in 2020. The Society of Merchant Venturers, his trustees, has published an account of its historical links to him."
+   "today": "Colston had no children, and no publicly documented descendants have been traced; his private estate passed to nephews and nieces and most of his fortune went into Bristol and London charities. Since 2020 his name has been removed from Bristol institutions: Colston Hall became Bristol Beacon (2020), Colston's Girls' School became Montpelier High, Colston's School became Collegiate School (2022), and the Colston Society disbanded in 2020. The Society of Merchant Venturers, his trustees, has published an account of its historical links to him.",
+   "today_people": []
   },
   {
    "id": "south-sea-company",
@@ -1162,7 +1219,8 @@
      "id": "church-commissioners-fund-2023"
     }
    ],
-   "today": "The company no longer exists; its remaining debt was folded into the national debt in 1853. Its best-known modern legacy is the Church Commissioners' 2023 decision, after tracing Queen Anne's Bounty's South Sea investments, to set aside £100m for an impact investment fund."
+   "today": "The company no longer exists; its remaining debt was folded into the national debt in 1853. Its best-known modern legacy is the Church Commissioners' 2023 decision, after tracing Queen Anne's Bounty's South Sea investments, to set aside £100m for an impact investment fund.",
+   "today_people": []
   },
   {
    "id": "lascelles-family",
@@ -1364,7 +1422,33 @@
      "id": "heirs-of-slavery"
     }
    ],
-   "today": "The earldom of Harewood continues; David Lascelles, 8th Earl, has spoken publicly about the family's Caribbean slavery wealth since the 2000s and is part of Heirs of Slavery (founded 2023). Harewood House is run by the Harewood House Trust, an educational charity established in 1986, which says the house was built from the profits of the transatlantic trade in enslaved people and runs projects about that history. The family sold its last Caribbean estate in 1975, and its West Indian papers are held for research at the University of York's Borthwick Institute."
+   "today": "The earldom of Harewood continues; David Lascelles, 8th Earl, has spoken publicly about the family's Caribbean slavery wealth since the 2000s and is part of Heirs of Slavery (founded 2023). Harewood House is run by the Harewood House Trust, an educational charity established in 1986, which says the house was built from the profits of the transatlantic trade in enslaved people and runs projects about that history. The family sold its last Caribbean estate in 1975, and its West Indian papers are held for research at the University of York's Borthwick Institute.",
+   "today_people": [
+    {
+     "name": "David Lascelles, 8th Earl of Harewood",
+     "relation": "direct descendant of Henry and Edwin Lascelles; holder of the earldom",
+     "role": "Chairs the trustees of the Harewood House Trust; has spoken publicly about the family's slavery wealth and is a member of Heirs of Slavery",
+     "sector": "Advocacy & repair",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Harewood House Trust — Heirs of Slavery",
+      "url": "https://harewood.org/stories/heirs-of-slavery/"
+     }
+    },
+    {
+     "name": "David Lascelles, 8th Earl of Harewood",
+     "relation": "holder of the earldom; Harewood estate in West Yorkshire",
+     "role": "Hereditary peer and owner-family head of the Harewood estate",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Harewood House Trust — Heirs of Slavery",
+      "url": "https://harewood.org/stories/heirs-of-slavery/"
+     }
+    }
+   ]
   },
   {
    "id": "beckford-family",
@@ -1518,7 +1602,33 @@
      "basis": "interpretive"
     }
    ],
-   "today": "No publicly documented living descendants who have spoken about the link have been traced. Much of the fortune was spent on Fonthill Abbey, and William Thomas Beckford's estate and collections passed to his daughter Susan, Duchess of Hamilton. Beckford's Tower in Bath, which she gave to the parish, is now a museum, and the Alderman's statue still stands in London's Guildhall."
+   "today": "No publicly documented living descendants who have spoken about the link have been traced. Much of the fortune was spent on Fonthill Abbey, and William Thomas Beckford's estate and collections passed to his daughter Susan, Duchess of Hamilton. Beckford's Tower in Bath, which she gave to the parish, is now a museum, and the Alderman's statue still stands in London's Guildhall. Through Susan Beckford, Duchess of Hamilton, the line runs to Prince Albert II of Monaco (via Lady Mary Victoria Hamilton) and to James Graham, 8th Duke of Montrose; neither has spoken about the link.",
+   "today_people": [
+    {
+     "name": "Prince Albert II of Monaco",
+     "relation": "great-great-great-grandson of Susan Beckford, Duchess of Hamilton (William Thomas Beckford's daughter), via Lady Mary Victoria Hamilton and Louis II",
+     "role": "Reigning Sovereign Prince of Monaco; no statement on the Beckford link documented",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Lady Mary Victoria Hamilton",
+      "url": "https://en.wikipedia.org/wiki/Lady_Mary_Victoria_Hamilton"
+     }
+    },
+    {
+     "name": "James Graham, 8th Duke of Montrose",
+     "relation": "descendant of Susan Beckford via the 11th and 12th Dukes of Hamilton (his grandmother Lady Mary Douglas-Hamilton)",
+     "role": "Duke; elected hereditary peer 1999–2026, whose seat ended on 29 April 2026 under the House of Lords (Hereditary Peers) Act 2026 (Royal Assent 18 March 2026)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — James Graham, 8th Duke of Montrose",
+      "url": "https://en.wikipedia.org/wiki/James_Graham,_8th_Duke_of_Montrose"
+     }
+    }
+   ]
   },
   {
    "id": "hibbert-family",
@@ -1678,7 +1788,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Hibbert Trust, founded by Robert Hibbert junior, still awards grants; its trustees (none of them family members) acknowledged in 2020 that its endowment came from slavery and in 2024 discussed a reparative fund in a Jamaica Gleaner interview. Hibbert House in Kingston is now Headquarters House, home of the National Trust of Jamaica, and the West India Docks site houses the Museum of London Docklands. No publicly documented descendants who have spoken about the link have been traced."
+   "today": "The Hibbert Trust, founded by Robert Hibbert junior, still awards grants; its trustees (none of them family members) acknowledged in 2020 that its endowment came from slavery and in 2024 discussed a reparative fund in a Jamaica Gleaner interview. Hibbert House in Kingston is now Headquarters House, home of the National Trust of Jamaica, and the West India Docks site houses the Museum of London Docklands. No publicly documented descendants who have spoken about the link have been traced.",
+   "today_people": []
   },
   {
    "id": "gladstone-family",
@@ -1863,7 +1974,33 @@
      "id": "heirs-of-slavery"
     }
    ],
-   "today": "In August 2023 Charles Gladstone and five other descendants travelled to Guyana, on the 200th anniversary of the 1823 Demerara revolt that began on a Gladstone estate, and apologised at the University of Guyana. They acknowledged John Gladstone's role in bringing indentured labourers to Guyana and pledged money for research and projects, reported as a £100,000 grant. Gladstone's Library at Hawarden is an independent charity that welcomed the apology and funds scholarships on enslavement and colonialism."
+   "today": "In August 2023 Charles Gladstone and five other descendants travelled to Guyana, on the 200th anniversary of the 1823 Demerara revolt that began on a Gladstone estate, and apologised at the University of Guyana. They acknowledged John Gladstone's role in bringing indentured labourers to Guyana and pledged money for research and projects, reported as a £100,000 grant. Gladstone's Library at Hawarden is an independent charity that welcomed the apology and funds scholarships on enslavement and colonialism. The baronetcy of Fasque passed in 2018 to Sir Charles Gladstone, 8th Baronet, who runs the Hawarden Estate and led the 2023 apology.",
+   "today_people": [
+    {
+     "name": "Sir Charles Gladstone, 8th Baronet",
+     "relation": "direct descendant of Sir John Gladstone and great-great-grandson of W. E. Gladstone; succeeded to the baronetcy of Fasque in 2018",
+     "role": "Lives at Hawarden Castle and runs the Hawarden Estate; president of Gladstone's Library",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Gladstone baronets",
+      "url": "https://en.wikipedia.org/wiki/Gladstone_baronets"
+     }
+    },
+    {
+     "name": "Charles Gladstone",
+     "relation": "descendant of Sir John Gladstone; Heirs of Slavery founder",
+     "role": "Led six family members to Guyana in August 2023 to apologise at the University of Guyana and pledge c. £100,000 for research",
+     "sector": "Advocacy & repair",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "NBC News (AP) — Descendants of a British owner of slaves in Guyana apologize (2023)",
+      "url": "https://www.nbcnews.com/news/nbcblk/descendants-british-owner-slaves-guyana-apologize-caribbean-seeks-repa-rcna101857"
+     }
+    }
+   ]
   },
   {
    "id": "codrington-family",
@@ -2029,7 +2166,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The family held Betty's Hope for about 270 years before selling the Antigua plantations in 1944; Betty's Hope is now a heritage site and Barbuda's main town is still named Codrington. Codrington College in Barbados, on the bequeathed estates, remains an Anglican seminary. In 2020 All Souls renamed its library, added a memorial and pledged £100,000 to Codrington College. No publicly documented living descendants who have spoken about the link have been traced."
+   "today": "The family held Betty's Hope for about 270 years before selling the Antigua plantations in 1944; Betty's Hope is now a heritage site and Barbuda's main town is still named Codrington. Codrington College in Barbados, on the bequeathed estates, remains an Anglican seminary. In 2020 All Souls renamed its library, added a memorial and pledged £100,000 to Codrington College. No publicly documented living descendants who have spoken about the link have been traced.",
+   "today_people": []
   },
   {
    "id": "trevelyan-family",
@@ -2190,7 +2328,33 @@
      "id": "heirs-of-slavery"
     }
    ],
-   "today": "On 27 February 2023 Laura Trevelyan and other family members apologised in Grenada for their ancestors' ownership of more than 1,000 enslaved people on six plantations and gave £100,000; reports variously describe the money as going to a community economic development fund and a reparations research fund linked to the University of the West Indies. She left the BBC to campaign on reparations and co-founded Heirs of Slavery in 2023. The family's best-known later members were the historians Sir George Otto Trevelyan and G. M. Trevelyan."
+   "today": "On 27 February 2023 Laura Trevelyan and other family members apologised in Grenada for their ancestors' ownership of more than 1,000 enslaved people on six plantations and gave £100,000; reports variously describe the money as going to a community economic development fund and a reparations research fund linked to the University of the West Indies. She left the BBC to campaign on reparations and co-founded Heirs of Slavery in 2023. The family's best-known later members were the historians Sir George Otto Trevelyan and G. M. Trevelyan. The Trevelyan Grenada Reparations Fund, a UK charity with Laura Trevelyan as a trustee, was registered in 2024 to fund education in Grenada.",
+   "today_people": [
+    {
+     "name": "Laura Trevelyan",
+     "relation": "descendant of the Trevelyan family that held six Grenada plantations",
+     "role": "Former BBC journalist; read the 2023 Grenada apology signed by 104 descendants; trustee of the Trevelyan Grenada Reparations Fund (registered charity, 2024) and co-founder of Heirs of Slavery",
+     "sector": "Advocacy & repair",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Charity Commission — Trevelyan Grenada Reparations Fund",
+      "url": "https://register-of-charities.charitycommission.gov.uk/en/about-the-register-of-charities/-/charity-details/5220026/full-print"
+     }
+    },
+    {
+     "name": "John Dower",
+     "relation": "descendant of the Trevelyan family (per Heirs of Slavery)",
+     "role": "Co-founder of Heirs of Slavery (2023)",
+     "sector": "Advocacy & repair",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "Heirs of Slavery — About us",
+      "url": "https://heirsofslavery.org/about-us"
+     }
+    }
+   ]
   },
   {
    "id": "richard-oswald",
@@ -2350,7 +2514,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Oswald had no children with his wife, and no publicly documented living descendants who have spoken about the link have been traced; his estates passed to nephews and a great-nephew. Auchincruive House in Ayrshire survives as Oswald Hall, and South Ayrshire street names still record the family. Bunce Island is a protected heritage site in Sierra Leone and a place of pilgrimage for Gullah Geechee descendants."
+   "today": "Oswald had no children with his wife, and no publicly documented living descendants who have spoken about the link have been traced; his estates passed to nephews and a great-nephew. Auchincruive House in Ayrshire survives as Oswald Hall, and South Ayrshire street names still record the family. Bunce Island is a protected heritage site in Sierra Leone and a place of pilgrimage for Gullah Geechee descendants.",
+   "today_people": []
   },
   {
    "id": "tarleton-family",
@@ -2495,7 +2660,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Banastre Tarleton's baronetcy died with him in 1833 because he had no children; no publicly documented living descendants of the slave-trading line have been traced. The name survives in Liverpool's Tarleton Street, in Reynolds's portrait of Banastre in the National Gallery, London, and in the family papers (1678–1838) at Liverpool Record Office, which are also published digitally. Aigburth Hall, the family seat, was demolished around 1840."
+   "today": "Banastre Tarleton's baronetcy died with him in 1833 because he had no children; no publicly documented living descendants of the slave-trading line have been traced. The name survives in Liverpool's Tarleton Street, in Reynolds's portrait of Banastre in the National Gallery, London, and in the family papers (1678–1838) at Liverpool Record Office, which are also published digitally. Aigburth Hall, the family seat, was demolished around 1840.",
+   "today_people": []
   },
   {
    "id": "earle-family",
@@ -2665,7 +2831,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Earle baronetcy of Allerton Tower, created in 1869 for Sir Hardman Earle, still exists. At emancipation the family received over £25,000 in compensation for more than 300 enslaved people on 12 Antiguan estates. Sir George Earle, 6th Baronet (d. 2025), gave the family archive to Merseyside Maritime Museum in 1993, where it underpins the International Slavery Museum's research, and Peter Earle's history The Earles of Liverpool (2015) is in print. Earle Road and other Liverpool place names still carry the name."
+   "today": "The Earle baronetcy of Allerton Tower, created in 1869 for Sir Hardman Earle, still exists. At emancipation the family received over £25,000 in compensation for more than 300 enslaved people on 12 Antiguan estates. Sir George Earle, 6th Baronet (d. 2025), gave the family archive to Merseyside Maritime Museum in 1993, where it underpins the International Slavery Museum's research, and Peter Earle's history The Earles of Liverpool (2015) is in print. Earle Road and other Liverpool place names still carry the name. The title passed in 2025 to Sir Robert Earle, 7th Baronet.",
+   "today_people": [
+    {
+     "name": "Sir Robert Earle, 7th Baronet",
+     "relation": "holder of the Earle baronetcy of Allerton Tower created for Sir Hardman Earle",
+     "role": "Baronet (succeeded 2025)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Earle baronets",
+      "url": "https://en.wikipedia.org/wiki/Earle_baronets"
+     }
+    }
+   ]
   },
   {
    "id": "william-davenport",
@@ -2837,7 +3017,33 @@
      "basis": "interpretive"
     }
    ],
-   "today": "William Davenport died a bachelor with no children, so he has no direct descendants. His c. £34,000 estate went to his brother Richard and his nephew Davies Davenport of Capesthorne Hall, Cheshire, a house still owned by the Bromley-Davenport family and open to the public. His business papers survive as among the most detailed records of a British slave-trading firm, held at Keele University (Raymond Richards Collection, 16 volumes, 1745–97) and National Museums Liverpool."
+   "today": "William Davenport died a bachelor with no children, so he has no direct descendants. His c. £34,000 estate went to his brother Richard and his nephew Davies Davenport of Capesthorne Hall, Cheshire, a house still owned by the Bromley-Davenport family and open to the public. His business papers survive as among the most detailed records of a British slave-trading firm, held at Keele University (Raymond Richards Collection, 16 volumes, 1745–97) and National Museums Liverpool. Sir William Bromley-Davenport, former Lord Lieutenant of Cheshire, heads the family at Capesthorne.",
+   "today_people": [
+    {
+     "name": "Sir William Bromley-Davenport",
+     "relation": "head of the Bromley-Davenport family descended from Davies Davenport, nephew and heir of William Davenport (collateral line)",
+     "role": "Family head at Capesthorne Hall, Cheshire (house open to the public); former Lord Lieutenant of Cheshire",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Capesthorne Hall — History",
+      "url": "https://capesthorne.com/history/"
+     }
+    },
+    {
+     "name": "Nicholas Bromley-Davenport",
+     "relation": "Bromley-Davenport family of Capesthorne (collateral line from Davenport's nephew)",
+     "role": "High Sheriff of Cheshire 2007–08; Capesthorne Hall family",
+     "sector": "Land & estates",
+     "year": 2016,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Bromley-Davenport",
+      "url": "https://en.wikipedia.org/wiki/Bromley-Davenport"
+     }
+    }
+   ]
   },
   {
    "id": "thomas-leyland",
@@ -3000,7 +3206,21 @@
      "id": "hsbc"
     }
    ],
-   "today": "Leyland's banking line ended up in HSBC UK. HSBC's history site acknowledges that his slave-trade wealth partly funded Leyland & Bullins and says it is still researching his relatives' links. His fortune (c. £600,000) passed through his Bullin nephews to the Naylor family. The Naylor-Leyland baronetcy (created 1895) is held by Sir Philip Naylor-Leyland, 4th Baronet, of Nantclwyd Hall and Milton Hall, though the exact line of descent from Leyland's heirs is reported inconsistently. Walton Hall was demolished and is now Walton Hall Park in Liverpool."
+   "today": "Leyland's banking line ended up in HSBC UK. HSBC's history site acknowledges that his slave-trade wealth partly funded Leyland & Bullins and says it is still researching his relatives' links. His fortune (c. £600,000) passed through his Bullin nephews to the Naylor family. The Naylor-Leyland baronetcy (created 1895) is held by Sir Philip Naylor-Leyland, 4th Baronet, of Nantclwyd Hall and Milton Hall, though the exact line of descent from Leyland's heirs is reported inconsistently. Walton Hall was demolished and is now Walton Hall Park in Liverpool.",
+   "today_people": [
+    {
+     "name": "Sir Philip Naylor-Leyland, 4th Baronet",
+     "relation": "baronetcy named for Hyde Park House, built for Thomas Leyland's heir line; exact descent from Leyland's heirs is reported inconsistently",
+     "role": "Owner of Nantclwyd Hall (Denbighshire) and Milton Hall (Peterborough) estates",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "interpretive",
+     "source": {
+      "label": "Wikipedia — Naylor-Leyland baronets",
+      "url": "https://en.wikipedia.org/wiki/Naylor-Leyland_baronets"
+     }
+    }
+   ]
   },
   {
    "id": "heywood-family",
@@ -3180,7 +3400,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Heywood baronetcy of Claremont (1838) still exists. The family's two banks ended up in today's Barclays (Liverpool line, through Martins) and NatWest Group (Manchester line, through Williams Deacon's and RBS). Heywood's 1848 bank building at 25 St Ann Street, Manchester, still stands and long served as a Royal Bank of Scotland branch. University of Manchester (Rylands) research now publicly ties the family's wealth to 133 slaving voyages."
+   "today": "The Heywood baronetcy of Claremont (1838) still exists. The family's two banks ended up in today's Barclays (Liverpool line, through Martins) and NatWest Group (Manchester line, through Williams Deacon's and RBS). Heywood's 1848 bank building at 25 St Ann Street, Manchester, still stands and long served as a Royal Bank of Scotland branch. University of Manchester (Rylands) research now publicly ties the family's wealth to 133 slaving voyages. The baronetcy is held by Sir Peter Heywood, 6th Baronet.",
+   "today_people": [
+    {
+     "name": "Sir Peter Heywood, 6th Baronet",
+     "relation": "holder of the Heywood baronetcy of Claremont (1838), descended from Sir Benjamin Heywood of the banking family",
+     "role": "Baronet",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Heywood baronets",
+      "url": "https://en.wikipedia.org/wiki/Heywood_baronets"
+     }
+    }
+   ]
   },
   {
    "id": "john-bolton",
@@ -3321,7 +3555,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Bolton's marriage was childless, so he has no direct descendants. He died worth c. £180,000; Storrs Hall went to his widow's nephew Rev. Thomas Staniforth and was split up and sold after 1887. The house is now a four-star hotel, and a marble memorial to Bolton survives at St Martin's Church, Bowness-on-Windermere."
+   "today": "Bolton's marriage was childless, so he has no direct descendants. He died worth c. £180,000; Storrs Hall went to his widow's nephew Rev. Thomas Staniforth and was split up and sold after 1887. The house is now a four-star hotel, and a marble memorial to Bolton survives at St Martin's Church, Bowness-on-Windermere.",
+   "today_people": []
   },
   {
    "id": "john-tobin",
@@ -3462,7 +3697,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Tobin's Liscard Hall estate went to his son-in-law Harold Littledale; after 1889 Wallasey Local Board bought the grounds, which became Central Park, Wallasey. The derelict house was destroyed by fire in 2008 and demolished. His continuity from slave ships to palm oil is now presented by National Museums Liverpool and documented in UCL's Legacies of British Slavery database."
+   "today": "No publicly documented descendants have been traced. Tobin's Liscard Hall estate went to his son-in-law Harold Littledale; after 1889 Wallasey Local Board bought the grounds, which became Central Park, Wallasey. The derelict house was destroyed by fire in 2008 and demolished. His continuity from slave ships to palm oil is now presented by National Museums Liverpool and documented in UCL's Legacies of British Slavery database.",
+   "today_people": []
   },
   {
    "id": "pinney-family",
@@ -3636,7 +3872,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented living descendants have been traced in sources reviewed. The family's wealth survives in public memory through the Georgian House Museum (7 Great George Street, run by Bristol City Council), which since 2018 lists the 903 people enslaved on Mountravers. The Pinney Papers at the University of Bristol's Special Collections remain open to researchers. Mountravers itself was sold in 1808."
+   "today": "No publicly documented living descendants have been traced in sources reviewed. The family's wealth survives in public memory through the Georgian House Museum (7 Great George Street, run by Bristol City Council), which since 2018 lists the 903 people enslaved on Mountravers. The Pinney Papers at the University of Bristol's Special Collections remain open to researchers. Mountravers itself was sold in 1808.",
+   "today_people": []
   },
   {
    "id": "barclays",
@@ -3797,7 +4034,8 @@
      "id": "heywoods-bank-liverpool"
     }
    ],
-   "today": "The bank is today Barclays PLC, a global banking group headquartered in London. It has acknowledged that it may have benefited from slavery through acquired banks (2007) and in 2020 published archive research on the Unity Valley emancipation; critics argue it has not made a full reckoning. No further Barclay family descendants are profiled here."
+   "today": "The bank is today Barclays PLC, a global banking group headquartered in London. It has acknowledged that it may have benefited from slavery through acquired banks (2007) and in 2020 published archive research on the Unity Valley emancipation; critics argue it has not made a full reckoning. No further Barclay family descendants are profiled here.",
+   "today_people": []
   },
   {
    "id": "lloyds-of-london",
@@ -3941,7 +4179,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Corporation of Lloyd's still runs the London insurance market from Lime Street. After its June 2020 apology, Lloyd's commissioned research with Lancaster University (Professor William Pettigrew, 'The Register of British Slave Traders') and a collaboration with Johns Hopkins University's Black Beyond Data; its Angerstein report concluded that the title 'Father of Lloyd's' is no longer appropriate."
+   "today": "The Corporation of Lloyd's still runs the London insurance market from Lime Street. After its June 2020 apology, Lloyd's commissioned research with Lancaster University (Professor William Pettigrew, 'The Register of British Slave Traders') and a collaboration with Johns Hopkins University's Black Beyond Data; its Angerstein report concluded that the title 'Father of Lloyd's' is no longer appropriate.",
+   "today_people": []
   },
   {
    "id": "bank-of-england",
@@ -4098,7 +4337,8 @@
      "id": "compensation-loan-1835"
     }
    ],
-   "today": "The Bank, nationalised in 1946, is the UK's central bank. In June 2020 it apologised for the 'inexcusable' involvement of former governors and directors, removed their portraits, and reviewed its collections; its museum ran 'Slavery & the Bank' (2022–24)."
+   "today": "The Bank, nationalised in 1946, is the UK's central bank. In June 2020 it apologised for the 'inexcusable' involvement of former governors and directors, removed their portraits, and reviewed its collections; its museum ran 'Slavery & the Bank' (2022–24).",
+   "today_people": []
   },
   {
    "id": "nm-rothschild",
@@ -4257,7 +4497,33 @@
      "basis": "documented"
     }
    ],
-   "today": "The business continues as Rothschild & Co, a family-controlled advisory and wealth-management group whose executive chairman is Alexandre de Rothschild. In 2009, after UCL research reported by the Financial Times, the bank said it 'greatly regrets' any link to 'the abhorrent institution of slavery'. The Rothschild Archive in London holds the West India loan papers."
+   "today": "The business continues as Rothschild & Co, a family-controlled advisory and wealth-management group whose executive chairman is Alexandre de Rothschild. In 2009, after UCL research reported by the Financial Times, the bank said it 'greatly regrets' any link to 'the abhorrent institution of slavery'. The Rothschild Archive in London holds the West India loan papers. Nathaniel Rothschild became 5th Baron Rothschild on his father Jacob's death in 2024.",
+   "today_people": [
+    {
+     "name": "Alexandre de Rothschild",
+     "relation": "descendant of Mayer Amschel Rothschild (French branch, of James de Rothschild, Nathan Mayer's brother); leads the family firm",
+     "role": "Executive Chairman of Rothschild & Co since 2018",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Rothschild & Co — Alexandre de Rothschild profile",
+      "url": "https://rothschildandco.com/en/about-us/corporate-governance/alexandre-de-rothschild-profile"
+     }
+    },
+    {
+     "name": "Nathaniel Rothschild, 5th Baron Rothschild",
+     "relation": "direct descendant of Nathan Mayer Rothschild; succeeded his father Jacob in 2024",
+     "role": "Financier; hereditary peer",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Thoroughbred Daily News — Lord Rothschild dies at 87 (succession of the 5th Baron)",
+      "url": "https://thoroughbreddailynews.com/group-1-owner-breeder-lord-rothschild-dies-at-87/"
+     }
+    }
+   ]
   },
   {
    "id": "greene-king",
@@ -4425,7 +4691,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Greene King is now owned by CK Asset Holdings and is one of Britain's largest pub and brewing groups. In June 2020 its chief executive Nick Mackenzie called the founder's profiting from slavery 'inexcusable', apologised and pledged investment for BAME communities; in 2024 St Kitts and Nevis sought reparations talks with the company. Publicly known descendants of the founder include the late novelist Graham Greene and the late BBC Director-General Sir Hugh Greene."
+   "today": "Greene King is now owned by CK Asset Holdings and is one of Britain's largest pub and brewing groups. In June 2020 its chief executive Nick Mackenzie called the founder's profiting from slavery 'inexcusable', apologised and pledged investment for BAME communities; in 2024 St Kitts and Nevis sought reparations talks with the company. Publicly known descendants of the founder include the late novelist Graham Greene and the late BBC Director-General Sir Hugh Greene.",
+   "today_people": []
   },
   {
    "id": "slavery-abolition-act-1833",

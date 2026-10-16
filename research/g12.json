@@ -193,7 +193,45 @@
      "basis": "documented"
     }
    ],
-   "today": "The Al Bu Said dynasty still rules Oman: Sultan Haitham bin Tariq, cousin of the late Sultan Qaboos, succeeded in 2020. The Zanzibar line ended with the 1964 revolution, and its last sultan, Jamshid bin Abdullah, died on 30 December 2024. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The Al Bu Said dynasty still rules Oman: Sultan Haitham bin Tariq, cousin of the late Sultan Qaboos, succeeded in 2020. The Zanzibar line ended with the 1964 revolution, and its last sultan, Jamshid bin Abdullah, died on 30 December 2024. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Sultan Haitham bin Tariq Al Said",
+     "relation": "member of the Al Bu Said dynasty founded by Ahmad bin Said; descendant of Sayyid Said's Muscat line",
+     "role": "Sultan and Prime Minister of Oman since 2020",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Haitham bin Tariq",
+      "url": "https://en.wikipedia.org/wiki/Haitham_bin_Tariq"
+     }
+    },
+    {
+     "name": "Sayyid Ali bin Jamshid Al Said",
+     "relation": "son of Jamshid bin Abdullah, last Sultan of Zanzibar (d. 30 Dec 2024); head of the former Zanzibar royal line",
+     "role": "Pretender to the abolished Zanzibar sultanate since 2024 (no office)",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — List of sultans of Zanzibar",
+      "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_Zanzibar"
+     }
+    },
+    {
+     "name": "Jamshid bin Abdullah (1929–2024)",
+     "relation": "last reigning Sultan of Zanzibar, of the Busaidi line",
+     "role": "Deposed 1964; lived in exile, latterly in Muscat; died 30 December 2024",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Jamshid bin Abdullah",
+      "url": "https://en.wikipedia.org/wiki/Jamshid_bin_Abdullah"
+     }
+    }
+   ]
   },
   {
    "id": "sayyid-said-bin-sultan",
@@ -357,7 +395,33 @@
      "basis": "documented"
     }
    ],
-   "today": "His descendants include the present Omani royal family through the Muscat line (Sultan Haitham bin Tariq). The Zanzibar line ended with the 1964 revolution. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "His descendants include the present Omani royal family through the Muscat line (Sultan Haitham bin Tariq). The Zanzibar line ended with the 1964 revolution. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Sultan Haitham bin Tariq Al Said",
+     "relation": "member of the Al Bu Said dynasty founded by Ahmad bin Said; descendant of Sayyid Said's Muscat line",
+     "role": "Sultan and Prime Minister of Oman since 2020",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Haitham bin Tariq",
+      "url": "https://en.wikipedia.org/wiki/Haitham_bin_Tariq"
+     }
+    },
+    {
+     "name": "Sayyid Ali bin Jamshid Al Said",
+     "relation": "son of Jamshid bin Abdullah, last Sultan of Zanzibar (d. 30 Dec 2024); head of the former Zanzibar royal line",
+     "role": "Pretender to the abolished Zanzibar sultanate since 2024 (no office)",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — List of sultans of Zanzibar",
+      "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_Zanzibar"
+     }
+    }
+   ]
   },
   {
    "id": "barghash-bin-said",
@@ -510,7 +574,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Barghash's House of Wonders (Beit al-Ajaib) still stands in Stone Town, and Christ Church Cathedral occupies the site of the slave market he closed. The Zanzibar sultanate he ruled ended in 1964. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "Barghash's House of Wonders (Beit al-Ajaib) still stands in Stone Town, and Christ Church Cathedral occupies the site of the slave market he closed. The Zanzibar sultanate he ruled ended in 1964. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Sayyid Ali bin Jamshid Al Said",
+     "relation": "son of Jamshid bin Abdullah, last Sultan of Zanzibar (d. 30 Dec 2024); head of the former Zanzibar royal line",
+     "role": "Pretender to the abolished Zanzibar sultanate since 2024 (no office)",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — List of sultans of Zanzibar",
+      "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_Zanzibar"
+     }
+    }
+   ]
   },
   {
    "id": "tippu-tip",
@@ -1320,7 +1398,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The ʿAlawī dynasty still reigns in Morocco; King Mohammed VI has ruled since 1999. Moulay Ismail's imperial city of Meknès is a UNESCO World Heritage Site. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The ʿAlawī dynasty still reigns in Morocco; King Mohammed VI has ruled since 1999. Moulay Ismail's imperial city of Meknès is a UNESCO World Heritage Site. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "King Mohammed VI",
+     "relation": "head of the ʿAlawī dynasty; lineal descendant of Moulay Ismail through Sidi Mohammed ben Abdallah",
+     "role": "King of Morocco since 1999",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Mohammed VI of Morocco",
+      "url": "https://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco"
+     }
+    }
+   ]
   },
   {
    "id": "sokoto-caliphate",
@@ -1472,7 +1564,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Sultan of Sokoto, now Sa'adu Abubakar (since 2006), remains the spiritual leader of Nigeria's Muslims and heads the Sokoto Sultanate Council. Slavery in Northern Nigeria was formally ended only in 1936. Descendants of the dan Fodio family carry no guilt for the caliphate's slave raiding."
+   "today": "The Sultan of Sokoto, now Sa'adu Abubakar (since 2006), remains the spiritual leader of Nigeria's Muslims and heads the Sokoto Sultanate Council. Slavery in Northern Nigeria was formally ended only in 1936. Descendants of the dan Fodio family carry no guilt for the caliphate's slave raiding.",
+   "today_people": [
+    {
+     "name": "Sultan Muhammadu Sa'ad Abubakar III",
+     "relation": "descendant of Usman dan Fodio; 20th Sultan of Sokoto",
+     "role": "Sultan of Sokoto since 2006; President-General of the Nigerian Supreme Council for Islamic Affairs",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Sa'adu Abubakar",
+      "url": "https://en.wikipedia.org/wiki/Sa%27adu_Abubakar"
+     }
+    }
+   ]
   },
   {
    "id": "bornu-al-kanemi",
@@ -1609,7 +1715,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The al-Kanemi line still provides the Shehu of Borno: Abubakar Ibn Umar Garbai El-Kanemi has held the title since 2009, much of his tenure overshadowed by the Boko Haram insurgency. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The al-Kanemi line still provides the Shehu of Borno: Abubakar Ibn Umar Garbai El-Kanemi has held the title since 2009, much of his tenure overshadowed by the Boko Haram insurgency. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Shehu Abubakar ibn Umar Garbai El-Kanemi",
+     "relation": "descendant of Muhammad al-Amin al-Kanemi; son of Shehu Umar ibn Abubakar Garbai",
+     "role": "Shehu of Borno since 2009",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Abubakar ibn Umar Garba el-Kanemi",
+      "url": "https://en.wikipedia.org/wiki/Abubakar_ibn_Umar_Garba_el-Kanemi"
+     }
+    }
+   ]
   },
   {
    "id": "fezzan-murzuq-traders",
@@ -1831,7 +1951,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Muhammad Ali dynasty ruled Egypt until the monarchy was abolished in 1953; Fuad II, who reigned as an infant, is its senior living member. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The Muhammad Ali dynasty ruled Egypt until the monarchy was abolished in 1953; Fuad II, who reigned as an infant, is its senior living member. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Fuad II",
+     "relation": "senior member of the Muhammad Ali dynasty; great-grandson of Khedive Ismail",
+     "role": "Last King of Egypt (as an infant, 1952–53); head of the former royal house",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Fuad II of Egypt",
+      "url": "https://en.wikipedia.org/wiki/Fuad_II_of_Egypt"
+     }
+    }
+   ]
   },
   {
    "id": "zubayr-pasha",
@@ -2514,7 +2648,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Ethiopia's monarchy was abolished in 1974; the Imperial House is headed by Zera Yacob Amha Selassie, grandson of Haile Selassie (Menelik's successor), recognised by the Crown Council since 1997. Menelik is honoured for the 1896 victory at Adwa, while Oromo and other southern historians stress the conquest and enslavement that funded his state. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "Ethiopia's monarchy was abolished in 1974; the Imperial House is headed by Zera Yacob Amha Selassie, grandson of Haile Selassie (Menelik's successor), recognised by the Crown Council since 1997. Menelik is honoured for the 1896 victory at Adwa, while Oromo and other southern historians stress the conquest and enslavement that funded his state. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Prince Zera Yacob Amha Selassie",
+     "relation": "head of the Imperial House of Ethiopia (Menelik's dynasty passed to his cousin's line, Haile Selassie); title-heir, not a direct descendant of Menelik",
+     "role": "Head of the Imperial House since 1997, recognised by the Crown Council",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Zera Yacob Amha Selassie",
+      "url": "https://en.wikipedia.org/wiki/Zera_Yacob_Amha_Selassie"
+     }
+    }
+   ]
   },
   {
    "id": "john-kirk",

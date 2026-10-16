@@ -1049,6 +1049,20 @@
      "type": "finance",
      "label": "agent for Bristol's Farell & Jones"
     }
+   ],
+   "today_people": [
+    {
+     "name": "Gayle Jessup White",
+     "relation": "descendant of Peter Hemings (son of John Wayles and Betty Hemings) and of Jefferson's family, per DNA research in her book",
+     "role": "Author of 'Reclamation' (2021); Public Relations & Community Engagement Officer at the Thomas Jefferson Foundation (Monticello), first descendant employed there",
+     "sector": "Advocacy & repair",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "Virginia Museum of History & Culture — Reclamation: How a Monticello descendant uncovered and restored her family's heritage",
+      "url": "https://virginiahistory.org/learn/reclamation-how-monticello-descendant-uncovered-and-restored-her-familys-heritage"
+     }
+    }
    ]
   },
   {
@@ -1153,6 +1167,20 @@
      "id": "maryland-abolition-1864",
      "type": "parallel",
      "label": "Upper South emancipation era"
+    }
+   ],
+   "today_people": [
+    {
+     "name": "Rev. Robert W. Lee IV",
+     "relation": "described in press as a collateral relative ('fourth great-nephew') of Robert E. Lee; NPR noted the exact genealogy is unclear",
+     "role": "Pastor and author; campaigned for removal of Confederate statues, testified to Congress",
+     "sector": "Advocacy & repair",
+     "year": 2021,
+     "basis": "interpretive",
+     "source": {
+      "label": "Black Enterprise — Descendant of Robert E. Lee joins fight to have Confederate statue removed",
+      "url": "https://blackenterprise.com/descendant-of-robert-e-lee-joins-fight-to-have-confederate-statue-removed/"
+     }
     }
    ]
   },

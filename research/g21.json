@@ -1,0 +1,1183 @@
+{
+ "records": [
+  {
+   "id": "east-coast-knights-true-invisible-empire",
+   "name": "East Coast Knights of the True Invisible Empire",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A small Klan faction listed by SPLC as an active hate group in several years from 2015 onward; SPLC's 2016 list recorded chapters in Texas, Delaware, Maryland, North Carolina and Pennsylvania, and its 2025 list (14 Klan groups) places it in Pennsylvania only. No ADL profile of the group was found.",
+   "start": 2015,
+   "end": null,
+   "lifespan": "c. 2015–present",
+   "base": "Pennsylvania (per SPLC 2025 listing)",
+   "geo": [
+    40.9,
+    -77.8
+   ],
+   "aliases": [
+    "East Coast Knights of the Ku Klux Klan",
+    "ECK"
+   ],
+   "origins": "One of the many small Klan 'realms' that appeared in the 2010s after the larger civil-rights-era Klans collapsed. Its founding date and parent group are not documented in SPLC or ADL material; press reports tie it to Wilkes-Barre and Scranton, Pennsylvania, citing SPLC.",
+   "role_summary": "The group is known mainly for flyer drops, in which leaflets in plastic bags are left on driveways, and for announced rallies. Reported drops include Granite Quarry and Garner, North Carolina (2015, 2017), north-east Pennsylvania and eastern Ohio. In May 2017 it announced a cross-burning rally in Lancaster County, Pennsylvania; local officials and reporters found no evidence it took place. It was named as a defendant in the Charlottesville civil suit Sines v. Kessler.",
+   "roleDetail": [
+    {
+     "t": "Flyering as main activity.",
+     "d": "Local press in North Carolina (2015, 2017), Pennsylvania and Ohio reported its leaflets; police generally said no crime beyond littering was involved (ABC11).",
+     "basis": "documented"
+    },
+    {
+     "t": "Unverified 2017 cross burning.",
+     "d": "The group claimed a 'fantastic rally' in Lancaster County in May 2017, but police and residents reported seeing nothing (PhillyVoice).",
+     "basis": "documented"
+    },
+    {
+     "t": "Charlottesville litigation.",
+     "d": "Named among the defendants in Sines v. Kessler (2017–2024), as 'East Coast Knights of the Ku Klux Klan a/k/a East Coast Knights of the True Invisible Empire', over the Unite the Right violence (Civil Rights Litigation Clearinghouse).",
+     "basis": "documented"
+    },
+    {
+     "t": "Lineage unclear.",
+     "d": "A link to the earlier 'True Invisible Empire' / Traditionalist American Knights label is suggested by its name only; no source documents a formal split.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Still listed by SPLC in 2025, which reports that it tried to spread to the gaming platform Roblox through an offshoot, the 'Knights of Great Kamelia', that gained little traction. Like most surviving Klans it has a very small membership.",
+   "legacyDetail": [
+    {
+     "t": "Survivor of the decline.",
+     "d": "One of only 14 Klan groups on SPLC's 2025 list, down from 130 Klan chapters in 2016.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Not a family. No members are named here; no leader is publicly identified in court records or major press.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan (2025 Klan list)",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    },
+    {
+     "label": "SPLC — Active Hate Groups 2016",
+     "url": "https://www.splcenter.org/resources/reports/active-hate-groups-2016/"
+    },
+    {
+     "label": "ABC11 — KKK fliers upset residents of one Garner neighborhood (Dec 2017)",
+     "url": "https://abc11.com/post/kkk-fliers-upset-residents-of-one-garner-neighborhood/2830820/"
+    },
+    {
+     "label": "PhillyVoice — KKK claims it burned crosses in Lancaster County, but nobody else saw it (May 2017)",
+     "url": "https://phillyvoice.com/kkk-claims-it-burned-crosses-in-lancaster-county-but-nobody-else-saw-it"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "traditionalist-american-knights",
+     "type": "parallel",
+     "label": "shares 'True Invisible Empire' label (unconfirmed link)"
+    },
+    {
+     "id": "sines-v-kessler",
+     "type": "political",
+     "label": "defendant in Charlottesville suit"
+    },
+    {
+     "id": "loyal-white-knights",
+     "type": "parallel",
+     "label": "rival flyering Klan"
+    },
+    {
+     "id": "unite-the-right-2017",
+     "type": "political",
+     "label": "named in Charlottesville litigation"
+    }
+   ]
+  },
+  {
+   "id": "honorable-sacred-knights",
+   "name": "Honorable Sacred Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "ADL estimated 10–15 members in 2019; SPLC listed it in 2018, 2019, 2021 and 2022; activity recorded in Indiana, Kentucky and Ohio.",
+   "start": 2017,
+   "end": 2022,
+   "lifespan": "2017–c. 2022",
+   "base": "Indiana",
+   "geo": [
+    39.766,
+    -86.441
+   ],
+   "aliases": [
+    "HSK",
+    "Honorable Sacred Knights of Indiana"
+   ],
+   "origins": "Formed in late 2017 by Derek and Kate Eaglin after a short spell in the Kentucky-based Nordic Order Knights (ADL).",
+   "role_summary": "A tiny Klan group that staged pre-announced public rallies and handed out propaganda. It held a rally in Madison, Indiana, in September 2018 (about 13 members against hundreds of counter-protesters), a flash demonstration in Scottsburg, Indiana, in October 2018 and posted video of a private cross burning the same day. Its May 2019 rally in Dayton, Ohio, drew about nine members and 500–600 counter-protesters.",
+   "roleDetail": [
+    {
+     "t": "Dayton rally, 25 May 2019.",
+     "d": "About nine members, all but one masked; no arrests or injuries; the city put security costs at about $650,000 (CBS News). The city had gone to court beforehand and agreed terms barring long guns, shields and open flames (press reports).",
+     "basis": "documented"
+    },
+    {
+     "t": "Split from Nordic Order Knights.",
+     "d": "Its leaders left the Nordic Order Knights before founding HSK in 2017 (ADL).",
+     "basis": "documented"
+    },
+    {
+     "t": "Private cross burning.",
+     "d": "A video of about 15 people at a cross burning was posted in October 2018 (ADL).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "No longer on SPLC's 2025 Klan list. Its rallies were remembered mainly for the size of the counter-protests and the public cost of policing them.",
+   "legacyDetail": [
+    {
+     "t": "Cost of policing.",
+     "d": "The Dayton rally illustrated how a handful of Klansmen can impose large public-safety costs on a city.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "Appears inactive. Only the leaders named by ADL and national press are mentioned.",
+   "sources": [
+    {
+     "label": "ADL — White supremacists plan rally in Dayton, Ohio (2019)",
+     "url": "https://www.adl.org/blog/white-supremacists-plan-rally-in-dayton-ohio"
+    },
+    {
+     "label": "CBS News — Hundreds of counter-protesters show up for KKK rally with less than a dozen attendees (May 2019)",
+     "url": "https://www.cbsnews.com/amp/news/kkk-rally-dayton-ohio-spends-650000-for-nine-kk-members-outnumbered-by-hundreds-of-counter-protesters"
+    },
+    {
+     "label": "WJLA — Five things to know about the KKK-affiliated group rallying in Ohio (May 2019)",
+     "url": "https://wjla.com/news/nation-world/five-things-to-know-about-the-kkk-affiliated-group-and-others-rallying-in-ohio-saturday"
+    }
+   ],
+   "connections": [
+    {
+     "id": "nordic-order-knights",
+     "type": "legacy",
+     "label": "split from, 2017"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "trinity-white-knights",
+     "type": "parallel",
+     "label": "Ohio Valley rival"
+    }
+   ]
+  },
+  {
+   "id": "nordic-order-knights",
+   "name": "Nordic Order Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Listed by SPLC in 2016–2019 (then based in Kentucky) and again on its 2025 list of 14 Klan groups (then listed in Indiana).",
+   "start": 2011,
+   "end": null,
+   "lifespan": "c. 2011–present",
+   "base": "Kentucky; later Indiana (per SPLC)",
+   "geo": [
+    37.17,
+    -87.69
+   ],
+   "aliases": [],
+   "origins": "A small Klan group recorded in western Kentucky in the 2010s; Reuters/EPA photographs show its members at joint cross-lighting ceremonies with the Virginia-based Rebel Brigade Knights. Its own founding history is not documented by SPLC or ADL.",
+   "role_summary": "Its activity consists of private cross lightings, small gatherings and recruitment. It is notable mainly as a feeder group: the founders of the Honorable Sacred Knights passed through it before starting their own Klan in 2017 (ADL).",
+   "roleDetail": [
+    {
+     "t": "Kentucky base.",
+     "d": "WKMS, citing SPLC, reported its headquarters in western Kentucky in 2017.",
+     "basis": "documented"
+    },
+    {
+     "t": "Still listed in 2025.",
+     "d": "SPLC's 2025 list places it in Indiana.",
+     "basis": "documented"
+    },
+    {
+     "t": "Start date approximate.",
+     "d": "The c. 2011 start is inferred from press photographs of joint cross lightings, not from a documented founding.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "One of the few 2010s Klans still listed in 2025, though at a very small scale.",
+   "legacyDetail": [
+    {
+     "t": "Splintering pattern.",
+     "d": "Its members leaving to form HSK illustrates the constant splitting ADL describes among Klans.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No individuals are named.",
+   "sources": [
+    {
+     "label": "WKMS — SPLC identifies hate groups across U.S., including 4 in west Kentucky (Aug 2017)",
+     "url": "https://www.wkms.org/society/2017-08-15/southern-poverty-law-center-identifies-hate-groups-across-u-s-including-4-in-west-ky"
+    },
+    {
+     "label": "ADL — White supremacists plan rally in Dayton, Ohio (2019)",
+     "url": "https://www.adl.org/blog/white-supremacists-plan-rally-in-dayton-ohio"
+    },
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan (2025 Klan list)",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "honorable-sacred-knights",
+     "type": "legacy",
+     "label": "HSK founders split off, 2017"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    }
+   ]
+  },
+  {
+   "id": "trinity-white-knights",
+   "name": "Trinity White Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "SPLC calls it 'small and struggling' but one of the few consistently active Klans: eight flyering runs in 2023 (versus 4,600+ by Patriot Front) and drops in Kentucky, Ohio, Indiana, Tennessee and Virginia after the 2024 election.",
+   "start": 2014,
+   "end": null,
+   "lifespan": "c. 2014–present",
+   "base": "Kentucky, later Ohio (per SPLC)",
+   "geo": [
+    38.656,
+    -83.763
+   ],
+   "aliases": [
+    "TWK"
+   ],
+   "origins": "SPLC first listed it in Kentucky in 2014–2015; by 2025 SPLC listed it in Ohio. Which earlier Klan it came from is not documented.",
+   "role_summary": "Its activity is anti-immigrant and antisemitic flyering, with leaflets thrown onto lawns in Ohio, Kentucky and Indiana; flyers in early 2025 called for mass deportations. SPLC names William Bader as leader; on 23 February 2025 he was cited for littering after police saw him throwing flyers from his vehicle near Cincinnati. It also holds private meetings.",
+   "roleDetail": [
+    {
+     "t": "Littering citation, 2025.",
+     "d": "SPLC Hatewatch reports Bader's 23 February 2025 citation in the Lincoln Heights/Lockland area of Ohio.",
+     "basis": "documented"
+    },
+    {
+     "t": "Flyers as protected speech.",
+     "d": "Prosecutors and police in Indiana and Kentucky said the flyers were generally protected speech, with possible littering charges only (press reports).",
+     "basis": "documented"
+    },
+    {
+     "t": "Amplification risk.",
+     "d": "SPLC warns that heavy coverage of flyer drops can overstate tiny groups' size.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Still active in 2026 at a very small scale. With the Silent Knights, SPLC names it one of the main distributors of antisemitic Klan flyers.",
+   "legacyDetail": [
+    {
+     "t": "Post-2024 surge.",
+     "d": "SPLC links a rise in its flyering to the anti-immigrant climate after the 2024 election.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "Only the leader named by SPLC and in local press (Cincinnati Enquirer, Local 12) over his 2025 littering citation and later bench-trial conviction is mentioned.",
+   "sources": [
+    {
+     "label": "SPLC Hatewatch — Ku Klux Klan flyers in Kentucky (March 2025)",
+     "url": "https://www.splcenter.org/resources/hatewatch/ku-klux-klan-flyers-kentucky/"
+    },
+    {
+     "label": "ABC6 — KKK-linked hate flyers scattered overnight in Clintonville, Worthington",
+     "url": "https://abc6onyourside.com/news/local/kkk-linked-hate-flyers-scattered-overnight-clintonville-worthington-neighborhoods-columbus-ohio-trinity-white-knights-ku-klux-klan-southern-poverty-law-center"
+    },
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan (2025 Klan list)",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "silent-knights-kkk",
+     "type": "parallel",
+     "label": "fellow flyering Klan"
+    },
+    {
+     "id": "honorable-sacred-knights",
+     "type": "parallel",
+     "label": "Ohio Valley Klan"
+    }
+   ]
+  },
+  {
+   "id": "silent-knights-kkk",
+   "name": "Silent Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Listed by SPLC in Indiana on its 2025 list; described as one of the few consistently active Klans and a main source of antisemitic flyers.",
+   "start": 2020,
+   "end": null,
+   "lifespan": "2020s–present",
+   "base": "Indiana",
+   "geo": [
+    41.367,
+    -85.059
+   ],
+   "aliases": [],
+   "origins": "A recent small Indiana Klan. Its founding date and lineage are not published. In 2016 Indiana press traced Confederate White Knights flyers to a mailing address in the same small town SPLC now gives for the Silent Knights; whether the groups are linked is unconfirmed.",
+   "role_summary": "Distributes antisemitic and racist flyers and sells Klan merchandise, with limited recruitment (SPLC). No court cases involving the group as such have been reported.",
+   "roleDetail": [
+    {
+     "t": "Antisemitic flyering.",
+     "d": "SPLC names it, with the Trinity White Knights, as a primary distributor of antisemitic Klan flyers in 2025.",
+     "basis": "documented"
+    },
+    {
+     "t": "Possible predecessor.",
+     "d": "A link to the Confederate White Knights is suggested only by a shared town in press and SPLC listings.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Active in 2025–26 at a small scale, among the last Klans SPLC considers consistently active.",
+   "legacyDetail": [
+    {
+     "t": "Start date estimated.",
+     "d": "SPLC lists it in the 2020s; an earlier start is possible.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No individuals are named.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan (2025 Klan list)",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    },
+    {
+     "label": "FOX59 — KKK flyers left in Franklin front lawns (Aug 2016)",
+     "url": "https://digital-release.fox59.com/news/kkk-flyers-left-in-franklin-front-lawns"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "trinity-white-knights",
+     "type": "parallel",
+     "label": "fellow flyering Klan"
+    },
+    {
+     "id": "confederate-white-knights",
+     "type": "legacy",
+     "label": "possible predecessor (unconfirmed)"
+    }
+   ]
+  },
+  {
+   "id": "confederate-white-knights",
+   "name": "Confederate White Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Listed by SPLC every year from 2015 to 2019; SPLC's 2016 list recorded it in Maryland, Arkansas, Indiana, Kentucky, Louisiana, Missouri, North Carolina, New Jersey, South Carolina and Virginia.",
+   "start": 2013,
+   "end": 2019,
+   "lifespan": "c. 2013–2019",
+   "base": "Maryland",
+   "geo": [
+    39.05,
+    -76.64
+   ],
+   "aliases": [
+    "CWK"
+   ],
+   "origins": "Led by Richard W. Preston Jr. of Baltimore (ADL), who held a recruiting meeting in Cecil County, Maryland, in 2013 and sought permits for rallies at the Antietam and Gettysburg battlefields.",
+   "role_summary": "It distributed flyers in several states and staged battlefield and public rallies. At the Unite the Right rally in Charlottesville on 12 August 2017, Preston fired a handgun toward the ground near a Black counter-protester. He pleaded no contest to discharging a firearm within 1,000 feet of a school and in August 2018 was sentenced to eight years with four suspended, the first felony sentence from the rally.",
+   "roleDetail": [
+    {
+     "t": "Charlottesville gunshot.",
+     "d": "No one was hit; Preston claimed self-defence against a counter-protester with an improvised flamethrower (SPLC Hatewatch; CBS Baltimore).",
+     "basis": "documented"
+    },
+    {
+     "t": "Battlefield rallies.",
+     "d": "Planned rallies at Civil War battlefields tied the group to Confederate symbolism (CBS Baltimore).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "SPLC stopped listing the group after 2019, after its leader was imprisoned.",
+   "legacyDetail": [
+    {
+     "t": "Leader-dependent.",
+     "d": "Like TAK, it faded once its leader was removed.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "Group inactive. Only the leader convicted in court is named.",
+   "sources": [
+    {
+     "label": "SPLC Hatewatch — Klan leader Richard Preston sentenced to four years for firing gun at Unite the Right (Aug 2018)",
+     "url": "https://splcenter.org/hatewatch/2018/08/21/klan-leader-richard-preston-sentenced-four-years-prison-firing-gun-‘unite-right’"
+    },
+    {
+     "label": "CBS Baltimore — KKK member gets 4 years in prison for gunshot at rally",
+     "url": "https://www.cbsnews.com/baltimore/news/kkk-member-sentenced-for-gunshot-at-charlottesville-rally/"
+    },
+    {
+     "label": "ADL — Glossary: Richard W. Preston Jr.",
+     "url": "https://extremismterms.adl.org/glossary/richard-w-preston-jr"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "unite-the-right-2017",
+     "type": "political",
+     "label": "leader fired gun at rally"
+    },
+    {
+     "id": "loyal-white-knights",
+     "type": "parallel",
+     "label": "also at Charlottesville events"
+    },
+    {
+     "id": "silent-knights-kkk",
+     "type": "legacy",
+     "label": "possible successor (unconfirmed)"
+    }
+   ]
+  },
+  {
+   "id": "church-of-the-national-knights",
+   "name": "Church of the National Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Once among the largest Klans (claimed 10,000–15,000 members c. 1960); by 2016 SPLC listed only scattered units in New York, Kentucky, Mississippi and North Carolina, and last listed it in 2021.",
+   "start": 1960,
+   "end": 2021,
+   "lifespan": "1960–c. 2021",
+   "base": "Indiana (from 1993)",
+   "geo": [
+    41.676,
+    -86.252
+   ],
+   "aliases": [
+    "National Knights of the Ku Klux Klan"
+   ],
+   "origins": "Founded in 1960 as a confederation of splintered Southern Klans. Georgia lawyer James R. Venable led it from 1963 until his death in 1993, holding annual rallies at Stone Mountain. Railton Loy, who said he had come over from the United Klans of America with about 200 members in 1973, succeeded him and moved it to Indiana (SPLC).",
+   "role_summary": "A direct link between the civil-rights-era Klans and today's fragments. Under Loy it held small rallies and cross burnings in Indiana. North Carolina members were tied to a 2001 murder of a suspected informant and a plot to bomb the Johnston County courthouse; two members pleaded guilty in 2006 and received a year in federal prison.",
+   "roleDetail": [
+    {
+     "t": "Stone Mountain rallies.",
+     "d": "Venable's annual rallies at Stone Mountain carried on the second Klan's symbolic site (SPLC).",
+     "basis": "documented"
+    },
+    {
+     "t": "North Carolina cases.",
+     "d": "Member Glen Gautier confessed in 2003 to a role in the murder; an alleged ringleader was found incompetent to stand trial in 2006 (SPLC).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "SPLC listed it from 2016 to 2021 but not on its 2025 list. It is the clearest surviving organisational thread from the 1960s Klans into the 2010s.",
+   "legacyDetail": [
+    {
+     "t": "Lineage to the UKA.",
+     "d": "Loy's move from the United Klans of America links it to the group bankrupted in Donald v. United Klans.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Group apparently inactive. Only leaders named in SPLC reporting and people convicted or charged in court are named.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: Church of the National Knights of the Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/church-national-knights-ku-klux-klan/"
+    },
+    {
+     "label": "SPLC — Active Hate Groups 2016",
+     "url": "https://www.splcenter.org/resources/reports/active-hate-groups-2016/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kkk-civil-rights-era",
+     "type": "legacy",
+     "label": "civil-rights-era Klan surviving to 2020s"
+    },
+    {
+     "id": "stone-mountain",
+     "type": "political",
+     "label": "annual rallies under Venable"
+    },
+    {
+     "id": "united-klans-of-america-revived",
+     "type": "parallel",
+     "label": "both claim UKA-era roots"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    }
+   ]
+  },
+  {
+   "id": "knights-party-robb",
+   "name": "Knights of the Ku Klux Klan / Knights Party (Thomas Robb)",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "SPLC has listed it every year since at least 2014 (with its Christian Revival Center and affiliates) and kept it on the 2025 list of 14 Klan groups; based in Arkansas.",
+   "start": 1975,
+   "end": null,
+   "lifespan": "1975–present",
+   "base": "Arkansas",
+   "geo": [
+    36.23,
+    -93.107
+   ],
+   "aliases": [
+    "Knights Party",
+    "Christian Revival Center",
+    "Soldiers of the Cross Training Institute"
+   ],
+   "origins": "Incorporated in Louisiana in 1975 by David Duke, who tried to give the Klan a media-friendly image. Bill Wilkinson split away to form the Invisible Empire; Duke later left. Christian Identity minister Thomas Robb took over in 1989 and based it in Arkansas (SPLC).",
+   "role_summary": "The longest-lived Klan organisation still operating. It runs websites, sells merchandise, holds small gatherings and has rebranded itself as a political 'Knights Party'. Robb's daughter Rachel Pendergraft is its national organiser and public face (Arkansas Public Media). Its 1990s splits produced several other Klans.",
+   "roleDetail": [
+    {
+     "t": "Duke-era lineage.",
+     "d": "Founded by David Duke in 1975; Robb has led it since 1989 (SPLC).",
+     "basis": "documented"
+    },
+    {
+     "t": "Rebranding strategy.",
+     "d": "It has long presented itself as 'heritage, not hate', a framing researchers treat as public relations for white-supremacist goals.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Local activity.",
+     "d": "Members held 'morality' vigils and protested a Pride event in Harrison, Arkansas, in 2017 (Arkansas Public Media).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Still listed in 2025. Its town's association with the Klan has prompted local anti-racism campaigns in Harrison.",
+   "legacyDetail": [
+    {
+     "t": "Mother of splinters.",
+     "d": "Groups such as the Invisible Empire (1975) and the Federation of Klans (1994) split from it (SPLC).",
+     "basis": "documented"
+    }
+   ],
+   "today": "Led by public figures named in SPLC and press reporting (Robb, Pendergraft). No other individuals are named.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: Knights of the Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/knights-ku-klux-klan/"
+    },
+    {
+     "label": "Arkansas Public Media (KASU) — Women's Klan rises in Arkansas (July 2017)",
+     "url": "https://www.kasu.org/2017-07-26/womens-klan-rises-in-arkansas"
+    },
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan (2025 Klan list)",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kkk-civil-rights-era",
+     "type": "legacy",
+     "label": "Duke's 1975 Klan"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "church-of-the-national-knights",
+     "type": "parallel",
+     "label": "rival long-lived Klan"
+    }
+   ]
+  },
+  {
+   "id": "united-klans-of-america-revived",
+   "name": "United Klans of America (2010s revival)",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A new group using the old name: SPLC listed it 2014–2019, in Alabama and Montana (2014) and Alabama, Pennsylvania, Tennessee and Texas (2016).",
+   "start": 2011,
+   "end": 2019,
+   "lifespan": "c. 2011–2019",
+   "base": "Alabama",
+   "geo": [
+    33.66,
+    -85.83
+   ],
+   "aliases": [
+    "UKA"
+   ],
+   "origins": "The original United Klans of America (Robert Shelton) was bankrupted in 1987 by the Donald v. United Klans verdict. ADL said in 2013 that the new Alabama-based UKA, led by a longtime minor Klan figure, was unrelated to the original group.",
+   "role_summary": "It was active mainly through flyer drops presented as 'neighborhood watch' notices, for example in Connecticut and Washington state in 2013, plus small chapters. ADL said it had no record of violence.",
+   "roleDetail": [
+    {
+     "t": "Not the original UKA.",
+     "d": "ADL stressed the 2010s group had no organisational tie to Shelton's UKA (Jewish Ledger, 2013).",
+     "basis": "documented"
+    },
+    {
+     "t": "Brand borrowing.",
+     "d": "Using a famous defunct name appears intended to borrow its notoriety.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Not listed by SPLC after 2019.",
+   "legacyDetail": [
+    {
+     "t": "Name outlived verdict.",
+     "d": "The civil verdict destroyed the original group, but not the brand.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "Group inactive. No individuals are named.",
+   "sources": [
+    {
+     "label": "Jewish Ledger — KKK fliers found in Milford and Orange (July 2013)",
+     "url": "https://www.jewishledger.com/?p=17114"
+    },
+    {
+     "label": "SPLC — Active Ku Klux Klan Groups (2014 data)",
+     "url": "https://www.splcenter.org/resources/reports/active-ku-klux-klan-groups/"
+    },
+    {
+     "label": "SPLC — Active Hate Groups 2016",
+     "url": "https://www.splcenter.org/resources/reports/active-hate-groups-2016/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "donald-v-united-klans",
+     "type": "legacy",
+     "label": "original UKA bankrupted 1987"
+    },
+    {
+     "id": "kkk-civil-rights-era",
+     "type": "legacy",
+     "label": "revives civil-rights-era name"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    }
+   ]
+  },
+  {
+   "id": "patriotic-brigade-knights",
+   "name": "Patriotic Brigade Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Listed by SPLC in 2016–2019 and 2021; SPLC's 2016 list placed it in Texas; flyers were reported in Louisiana in 2016.",
+   "start": 2016,
+   "end": 2021,
+   "lifespan": "c. 2016–2021",
+   "base": "Texas",
+   "geo": [
+    32.537,
+    -94.943
+   ],
+   "aliases": [],
+   "origins": "A small Texas-based Klan. Its founding and lineage are not documented in SPLC or ADL material.",
+   "role_summary": "Its documented activity is flyering, for example in Houma, Louisiana, in August 2016. No court cases involving the group have been reported.",
+   "roleDetail": [
+    {
+     "t": "Flyer drops.",
+     "d": "Leaflets bearing its name were left in driveways in Houma, Louisiana (Houma Times).",
+     "basis": "documented"
+    },
+    {
+     "t": "Limited documentation.",
+     "d": "Little is known beyond SPLC listings and local flyer reports.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Not on SPLC's 2025 list.",
+   "legacyDetail": [
+    {
+     "t": "Typical short-lived realm.",
+     "d": "Its five-year listing span is typical of 2010s Klans.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "Group apparently inactive. No individuals are named.",
+   "sources": [
+    {
+     "label": "SPLC — Active Hate Groups 2016",
+     "url": "https://www.splcenter.org/resources/reports/active-hate-groups-2016/"
+    },
+    {
+     "label": "Houma Times — KKK flier report (2016)",
+     "url": "https://houmatimes.com/?p=56764"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    }
+   ]
+  },
+  {
+   "id": "imperial-klans-of-america",
+   "name": "Imperial Klans of America",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Once among the largest Klans of the 2000s; SPLC listed it in Kentucky in 2014, 2015 and 2019. It was reduced to a remnant after a $2.5 million civil verdict in 2008.",
+   "start": 1996,
+   "end": 2019,
+   "lifespan": "1996–c. 2019",
+   "base": "Kentucky",
+   "geo": [
+    37.98,
+    -86.17
+   ],
+   "aliases": [
+    "IKA",
+    "Imperial Klans of America, Knights of the Ku Klux Klan"
+   ],
+   "origins": "Founded in the 1990s by Ron Edwards in Kentucky. It mixed Klan ritual with neo-Nazi ties and hosted an annual white-power music festival (SPLC).",
+   "role_summary": "In July 2006 IKA members beat 16-year-old Jordan Gruver, whom they took to be an immigrant, at the Meade County Fair in Kentucky, leaving him with a broken jaw and arm. In SPLC's suit Gruver v. Imperial Klans of America, a jury in November 2008 awarded $2.5 million, including $1 million in punitive damages against Edwards. The Kentucky Supreme Court left the verdict standing in 2012.",
+   "roleDetail": [
+    {
+     "t": "Leader held liable.",
+     "d": "The jury found Edwards had encouraged the violence and failed to supervise members (SPLC; ABA Journal).",
+     "basis": "documented"
+    },
+    {
+     "t": "Separate imprisonment.",
+     "d": "Edwards was later imprisoned on unrelated federal gun and drug charges (SPLC).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Reduced to a few chapters. Its case extended the civil-suit strategy of Donald v. United Klans into the 21st century.",
+   "legacyDetail": [
+    {
+     "t": "Pre-2016 decline.",
+     "d": "Most of its activity predates 2016; its later listings reflect a remnant.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "Only the leader and members held liable in court are referred to.",
+   "sources": [
+    {
+     "label": "SPLC — SPLC wins $2.5 million verdict against Imperial Klans of America (Nov 2008)",
+     "url": "https://splcenter.org/news/2008/11/14/splc-wins-25-million-verdict-against-imperial-klans-america"
+    },
+    {
+     "label": "SPLC — Extremist Files: Imperial Klans of America",
+     "url": "https://splcenter.org/resources/extremist-files/imperial-klans-america"
+    },
+    {
+     "label": "ABA Journal — Jury orders imperial wizard of KKK group to pay $2.5M to beaten teen",
+     "url": "https://www.abajournal.com/news/article/jury_orders_imperial_wizard_of_kkk_group_to_pay_25m_to_beaten_teen"
+    }
+   ],
+   "connections": [
+    {
+     "id": "donald-v-united-klans",
+     "type": "legacy",
+     "label": "same civil-suit strategy"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    }
+   ]
+  },
+  {
+   "id": "sacred-white-knights",
+   "name": "Sacred White Knights",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Formed from the remnants of the Loyal White Knights after that group became defunct in 2024; listed by SPLC in North Carolina in 2025 with limited activity.",
+   "start": 2024,
+   "end": null,
+   "lifespan": "2024–present",
+   "base": "North Carolina",
+   "geo": [
+    36.0,
+    -79.4
+   ],
+   "aliases": [],
+   "origins": "Direct successor of the Loyal White Knights, for several years the most visible US Klan (ADL; SPLC).",
+   "role_summary": "It continues the Loyal White Knights' name and network on a much smaller scale. SPLC treats it as an example of former members regrouping under new names.",
+   "roleDetail": [
+    {
+     "t": "Successor group.",
+     "d": "ADL and SPLC both report it rose from Loyal White Knights remnants.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Active in 2025 at a low level.",
+   "legacyDetail": [
+    {
+     "t": "Rebranding cycle.",
+     "d": "SPLC expects members of defunct Klans to keep reappearing under new names.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No individuals are named.",
+   "sources": [
+    {
+     "label": "ADL — Backgrounder: Loyal White Knights of the Ku Klux Klan",
+     "url": "https://www.adl.org/resources/backgrounder/loyal-white-knights-ku-klux-klan"
+    },
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan (2025 Klan list)",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "loyal-white-knights",
+     "type": "legacy",
+     "label": "successor of LWK, 2024"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    }
+   ]
+  },
+  {
+   "id": "league-of-the-south",
+   "name": "League of the South",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A neo-Confederate secessionist group listed by SPLC as a hate group since 2000; SPLC's 2016 list recorded it in 14 Southern states. Membership claims (up to 25,000) are judged implausible by SPLC.",
+   "start": 1994,
+   "end": null,
+   "lifespan": "1994–present",
+   "base": "Alabama",
+   "geo": [
+    34.86,
+    -87.54
+   ],
+   "aliases": [
+    "Southern League (1994)"
+   ],
+   "origins": "Founded in 1994 as the 'Southern League' by Michael Hill, a former history professor, and a group of mostly Southern academics, to promote Southern secession and 'Southern culture' (SPLC).",
+   "role_summary": "Not a Klan, but SPLC ties it to the Klan's slavery-legacy ideology: it calls for Southern secession, and SPLC reports that Hill defended antebellum slavery. In 2017 it joined the neo-Nazi Nationalist Front, protested Confederate monument removals in New Orleans, took part in the Unite the Right rally in Charlottesville, and organised the October 2017 'White Lives Matter' rallies in Shelbyville and Murfreesboro, Tennessee. In Sines v. Kessler (2021) a jury found the League, Hill and Michael Tubbs liable for civil conspiracy.",
+   "roleDetail": [
+    {
+     "t": "Charlottesville liability.",
+     "d": "Jury verdict of November 2021 under Virginia conspiracy law; the Fourth Circuit affirmed liability in July 2024 (Clearinghouse; Cooley).",
+     "basis": "documented"
+    },
+    {
+     "t": "Neo-Confederate ideology.",
+     "d": "SPLC describes its goal as accomplishing 'what the Civil War did not', tying it to the defence of the slaveholding Confederacy.",
+     "basis": "documented"
+    },
+    {
+     "t": "Membership trend.",
+     "d": "SPLC reports members leaving after 2017–18 and a 2019 recruitment drive; its current size is unclear.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "It remains on SPLC's hate-group lists. It is the main organised link between Confederate-heritage politics and today's white-nationalist movement.",
+   "legacyDetail": [
+    {
+     "t": "Monument fights.",
+     "d": "Much of its 2015–2018 activity centred on defending Confederate monuments that were being removed.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Only public leaders named in SPLC reporting and held liable in court are named.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: League of the South",
+     "url": "https://www.splcenter.org/resources/extremist-files/league-south/"
+    },
+    {
+     "label": "Civil Rights Litigation Clearinghouse — Sines v. Kessler",
+     "url": "https://clearinghouse.net/case/18116/"
+    },
+    {
+     "label": "UPI — 'White Lives Matter' organizers cancel second rally in Tennessee (Oct 2017)",
+     "url": "https://www.upi.com/Top_News/US/2017/10/29/White-Lives-Matter-organizers-cancel-second-rally-in-Tennessee/6461509290835/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sines-v-kessler",
+     "type": "political",
+     "label": "held liable, 2021"
+    },
+    {
+     "id": "unite-the-right-2017",
+     "type": "political",
+     "label": "participant"
+    },
+    {
+     "id": "knights-of-the-golden-circle",
+     "type": "parallel",
+     "label": "earlier pro-slavery secessionism"
+    },
+    {
+     "id": "stone-mountain",
+     "type": "parallel",
+     "label": "Confederate memory sites"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "parallel",
+     "label": "allied white-supremacist scene"
+    }
+   ]
+  },
+  {
+   "id": "unite-the-right-2017",
+   "name": "Unite the Right rally, Charlottesville (2017)",
+   "type": "entity",
+   "kind": "Rally / riot",
+   "description": "On 11–12 August 2017 white nationalists, neo-Nazis, Klan members and the League of the South rallied in Charlottesville, Virginia, against the planned removal of a Robert E. Lee statue. Counter-protester Heather Heyer was killed when James Alex Fields Jr. drove into a crowd; he received life sentences on federal hate-crime and state murder charges. Confederate White Knights leader Richard Preston was later sentenced for firing a gun at the rally.",
+   "start": 2017,
+   "geo": [
+    38.031,
+    -78.48
+   ],
+   "connections": [
+    {
+     "id": "league-of-the-south",
+     "type": "political",
+     "label": "participant"
+    },
+    {
+     "id": "confederate-white-knights",
+     "type": "political",
+     "label": "leader fired gun"
+    },
+    {
+     "id": "loyal-white-knights",
+     "type": "political",
+     "label": "held July 2017 Klan rally in city"
+    },
+    {
+     "id": "sines-v-kessler",
+     "type": "legacy",
+     "label": "civil suit followed"
+    }
+   ]
+  },
+  {
+   "id": "sines-v-kessler",
+   "name": "Sines v. Kessler (2017–2024)",
+   "type": "entity",
+   "kind": "Court case",
+   "description": "A federal civil suit by Charlottesville residents injured in August 2017 against 25 organisers and groups, including the League of the South, the Loyal White Knights and the East Coast Knights. In November 2021 a jury found defendants liable for civil conspiracy under Virginia law and awarded more than $25 million (deadlocking on the federal Ku Klux Klan Act claims); the trial judge cut punitive damages under Virginia's cap, and in July 2024 the Fourth Circuit affirmed liability and reinstated part of the punitive award.",
+   "start": 2017,
+   "geo": [
+    38.031,
+    -78.48
+   ],
+   "connections": [
+    {
+     "id": "league-of-the-south",
+     "type": "political",
+     "label": "held liable"
+    },
+    {
+     "id": "loyal-white-knights",
+     "type": "political",
+     "label": "defendant"
+    },
+    {
+     "id": "east-coast-knights-true-invisible-empire",
+     "type": "political",
+     "label": "defendant"
+    },
+    {
+     "id": "enforcement-acts-1870-71",
+     "type": "legacy",
+     "label": "1871 KKK Act claim tried"
+    },
+    {
+     "id": "donald-v-united-klans",
+     "type": "legacy",
+     "label": "civil-suit precedent"
+    },
+    {
+     "id": "unite-the-right-2017",
+     "type": "legacy",
+     "label": "arose from rally"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 2017,
+   "title": "Unite the Right rally",
+   "text": "Klan factions, neo-Nazis and the League of the South rally in Charlottesville on 11–12 August; a counter-protester is killed and a Klan leader fires a gun into the crowd.",
+   "ids": [
+    "unite-the-right-2017",
+    "league-of-the-south",
+    "confederate-white-knights",
+    "loyal-white-knights"
+   ],
+   "source": {
+    "label": "SPLC Hatewatch — Klan leader Richard Preston sentenced (2018)",
+    "url": "https://splcenter.org/hatewatch/2018/08/21/klan-leader-richard-preston-sentenced-four-years-prison-firing-gun-‘unite-right’"
+   }
+  },
+  {
+   "year": 2017,
+   "title": "League of the South 'White Lives Matter' rallies",
+   "text": "On 28 October the League stages a rally in Shelbyville, Tennessee, under heavy police presence and cancels a second in Murfreesboro as hundreds of counter-protesters gather.",
+   "ids": [
+    "league-of-the-south"
+   ],
+   "source": {
+    "label": "UPI — 'White Lives Matter' organizers cancel second rally in Tennessee",
+    "url": "https://www.upi.com/Top_News/US/2017/10/29/White-Lives-Matter-organizers-cancel-second-rally-in-Tennessee/6461509290835/"
+   }
+  },
+  {
+   "year": 2018,
+   "title": "First felony sentence from Charlottesville",
+   "text": "Confederate White Knights leader Richard Preston is sentenced to eight years, four suspended, for firing a gun at the rally.",
+   "ids": [
+    "confederate-white-knights",
+    "unite-the-right-2017"
+   ],
+   "source": {
+    "label": "CBS Baltimore — KKK member gets 4 years in prison for gunshot at rally",
+    "url": "https://www.cbsnews.com/baltimore/news/kkk-member-sentenced-for-gunshot-at-charlottesville-rally/"
+   }
+  },
+  {
+   "year": 2019,
+   "title": "Nine Klansmen, hundreds of counter-protesters in Dayton",
+   "text": "The Honorable Sacred Knights rally in Dayton, Ohio, on 25 May; about nine members face 500–600 counter-protesters, with security costing about $650,000.",
+   "ids": [
+    "honorable-sacred-knights"
+   ],
+   "source": {
+    "label": "CBS News — Hundreds of counter-protesters show up for KKK rally",
+    "url": "https://www.cbsnews.com/amp/news/kkk-rally-dayton-ohio-spends-650000-for-nine-kk-members-outnumbered-by-hundreds-of-counter-protesters"
+   }
+  },
+  {
+   "year": 2021,
+   "title": "Klan leader sentenced for driving into protesters",
+   "text": "Harry Rogers, a self-described Klan leader, is sentenced in Virginia to three years and eight months for driving his truck through a Black Lives Matter protest near Richmond in June 2020.",
+   "ids": [
+    "ku-klux-klan-today"
+   ],
+   "source": {
+    "label": "FOX 5 DC (AP) — KKK member sentenced for driving into crowd of protesters",
+    "url": "https://www.fox5dc.com/news/kkk-member-sentenced-for-driving-into-crowd-of-black-lives-matter-protesters-in-virginia"
+   }
+  },
+  {
+   "year": 2021,
+   "title": "Charlottesville organisers found liable",
+   "text": "A jury in Sines v. Kessler finds rally organisers, including the League of the South, liable for civil conspiracy and awards more than $25 million.",
+   "ids": [
+    "sines-v-kessler",
+    "league-of-the-south",
+    "east-coast-knights-true-invisible-empire"
+   ],
+   "source": {
+    "label": "Civil Rights Litigation Clearinghouse — Sines v. Kessler",
+    "url": "https://clearinghouse.net/case/18116/"
+   }
+  },
+  {
+   "year": 2024,
+   "title": "Appeals court upholds Charlottesville verdict",
+   "text": "The Fourth Circuit affirms liability and reinstates part of the punitive damages in Sines v. Hill on 1 July.",
+   "ids": [
+    "sines-v-kessler",
+    "league-of-the-south"
+   ],
+   "source": {
+    "label": "Cooley — Fourth Circuit affirms Charlottesville conspiracy verdict (July 2024)",
+    "url": "https://cooley.com/news/coverage/2024/2024-07-01-fourth-circuit-affirms-charlottesville-conspiracy-verdict-reinstates-2-million-in-punitive-damages"
+   }
+  },
+  {
+   "year": 2025,
+   "title": "Klan leader cited for flyer littering",
+   "text": "Trinity White Knights leader William Bader is cited for littering in Ohio after throwing flyers from his vehicle, during a wave of anti-immigrant Klan flyering in Ohio, Kentucky and Indiana.",
+   "ids": [
+    "trinity-white-knights",
+    "silent-knights-kkk"
+   ],
+   "source": {
+    "label": "SPLC Hatewatch — Ku Klux Klan flyers in Kentucky (2025)",
+    "url": "https://www.splcenter.org/resources/hatewatch/ku-klux-klan-flyers-kentucky/"
+   }
+  }
+ ]
+}

@@ -92,7 +92,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced."
+   "today": "No publicly documented descendants have been traced.",
+   "today_people": []
   },
   {
    "id": "david-barclay-youngsbury",
@@ -173,7 +174,8 @@
      "label": "London merchant house"
     }
    ],
-   "today": "His banking interest passed into Barclays PLC. No further publicly documented descendants are profiled here."
+   "today": "His banking interest passed into Barclays PLC. No further publicly documented descendants are profiled here.",
+   "today_people": []
   },
   {
    "id": "john-julius-angerstein",
@@ -248,7 +250,8 @@
      "type": "legacy",
      "label": "documented in LBS"
     }
-   ]
+   ],
+   "today_people": []
   },
   {
    "id": "humphry-morice",
@@ -320,7 +323,8 @@
      "label": "private trader after monopoly ended"
     }
    ],
-   "today": "No publicly documented descendants have been traced; his estate was bankrupt at his death."
+   "today": "No publicly documented descendants have been traced; his estate was bankrupt at his death.",
+   "today_people": []
   },
   {
    "id": "benjamin-buck-greene",
@@ -396,7 +400,8 @@
      "type": "legacy",
      "label": "documented in LBS"
     }
-   ]
+   ],
+   "today_people": []
   },
   {
    "id": "moses-montefiore",
@@ -468,7 +473,21 @@
      "label": "financed compensation"
     }
    ],
-   "today": "Montefiore had no children; his heir was his nephew Sir Joseph Sebag-Montefiore, and the Sebag-Montefiore family remains publicly known in Britain. His name lives on in hospitals, synagogues and charitable foundations."
+   "today": "Montefiore had no children; his heir was his nephew Sir Joseph Sebag-Montefiore, and the Sebag-Montefiore family remains publicly known in Britain. His name lives on in hospitals, synagogues and charitable foundations. The historian Simon Sebag Montefiore is a descendant of Sir Joseph Sebag-Montefiore.",
+   "today_people": [
+    {
+     "name": "Simon Sebag Montefiore",
+     "relation": "descendant of Sir Joseph Sebag-Montefiore, Moses Montefiore's nephew and heir (Moses is his great-great-uncle; collateral line)",
+     "role": "Historian and author",
+     "sector": "Culture & media",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Joseph Sebag-Montefiore",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Sebag-Montefiore"
+     }
+    }
+   ]
   },
   {
    "id": "lascelles-and-maxwell",
@@ -552,6 +571,20 @@
      "id": "ucl-legacies-of-british-slavery",
      "type": "legacy",
      "label": "documented in LBS"
+    }
+   ],
+   "today_people": [
+    {
+     "name": "David Lascelles, 8th Earl of Harewood",
+     "relation": "direct descendant of Henry and Edwin Lascelles; holder of the earldom",
+     "role": "Chairs the trustees of the Harewood House Trust; has spoken publicly about the family's slavery wealth and is a member of Heirs of Slavery",
+     "sector": "Advocacy & repair",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Harewood House Trust — Heirs of Slavery",
+      "url": "https://harewood.org/stories/heirs-of-slavery/"
+     }
     }
    ]
   },
@@ -652,7 +685,8 @@
      "type": "trade",
      "label": "African workforce at the fort"
     }
-   ]
+   ],
+   "today_people": []
   },
   {
    "id": "william-ewart-gladstone",
@@ -733,7 +767,34 @@
      "type": "legacy",
      "label": "descendants' apology movement"
     }
-   ]
+   ],
+   "today_people": [
+    {
+     "name": "Sir Charles Gladstone, 8th Baronet",
+     "relation": "direct descendant of Sir John Gladstone and great-great-grandson of W. E. Gladstone; succeeded to the baronetcy of Fasque in 2018",
+     "role": "Lives at Hawarden Castle and runs the Hawarden Estate; president of Gladstone's Library",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Gladstone baronets",
+      "url": "https://en.wikipedia.org/wiki/Gladstone_baronets"
+     }
+    },
+    {
+     "name": "Charles Gladstone",
+     "relation": "descendant of Sir John Gladstone; Heirs of Slavery founder",
+     "role": "Led six family members to Guyana in August 2023 to apologise at the University of Guyana and pledge c. £100,000 for research",
+     "sector": "Advocacy & repair",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "NBC News (AP) — Descendants of a British owner of slaves in Guyana apologize (2023)",
+      "url": "https://www.nbcnews.com/news/nbcblk/descendants-british-owner-slaves-guyana-apologize-caribbean-seeks-repa-rcna101857"
+     }
+    }
+   ],
+   "today": "His great-great-grandson Sir Charles Gladstone, 8th Baronet, holds the family baronetcy, runs the Hawarden Estate and led the 2023 Guyana apology."
   },
   {
    "id": "william-whaley",
@@ -855,7 +916,8 @@
      "id": "earle-family"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Whaley's fortune was largely lost in the 1754 Lowndes collapse."
+   "today": "No publicly documented descendants have been traced. Whaley's fortune was largely lost in the 1754 Lowndes collapse.",
+   "today_people": []
   },
   {
    "id": "bank-of-liverpool-martins",
@@ -986,7 +1048,8 @@
      "id": "barclays"
     }
    ],
-   "today": "Martins Bank is now part of Barclays, which absorbed its branches in 1969. Its Water Street headquarters, closed as a branch in 2009, is a Grade II* listed landmark."
+   "today": "Martins Bank is now part of Barclays, which absorbed its branches in 1969. Its Water Street headquarters, closed as a branch in 2009, is a Grade II* listed landmark.",
+   "today_people": []
   },
   {
    "id": "hardman-earle",
@@ -1103,7 +1166,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Earle baronetcy of Allerton Tower that he founded still exists. A later holder of the title gave the family papers to Merseyside Maritime Museum in 1993."
+   "today": "The Earle baronetcy of Allerton Tower that he founded still exists. A later holder of the title gave the family papers to Merseyside Maritime Museum in 1993. Since 2025 the baronetcy has been held by Sir Robert Earle, 7th Baronet.",
+   "today_people": [
+    {
+     "name": "Sir Robert Earle, 7th Baronet",
+     "relation": "holder of the Earle baronetcy of Allerton Tower created for Sir Hardman Earle",
+     "role": "Baronet (succeeded 2025)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Earle baronets",
+      "url": "https://en.wikipedia.org/wiki/Earle_baronets"
+     }
+    }
+   ]
   },
   {
    "id": "sir-francis-baring",
@@ -1204,7 +1281,45 @@
      "id": "baring-brothers"
     }
    ],
-   "today": "His descendants still hold several peerages; see the Baring family record."
+   "today": "His descendants still hold several peerages; see the Baring family record. Living title-holders include Francis Baring, 6th Baron Northbrook, Mark Baring, 8th Baron Ashburton, and Evelyn Baring, 4th Earl of Cromer.",
+   "today_people": [
+    {
+     "name": "Francis Baring, 6th Baron Northbrook",
+     "relation": "descendant of Sir Francis Baring via Thomas Baring; head of the British branch of the family",
+     "role": "Hereditary peer; former Conservative whip; co-founder of Mars Asset Management; sat in the Lords from 1990 until excluded on 29 April 2026 under the House of Lords (Hereditary Peers) Act 2026 (Royal Assent 18 March 2026)",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "UK Parliament — Lord Northbrook (member record)",
+      "url": "https://members.parliament.uk/member/3191"
+     }
+    },
+    {
+     "name": "Mark Baring, 8th Baron Ashburton",
+     "relation": "descendant of Alexander Baring, 1st Baron Ashburton (son of Sir Francis); succeeded 2020",
+     "role": "Businessman; hereditary peer (son of Sir John Baring, 7th Baron, chairman of Baring Brothers)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Mark Baring, 8th Baron Ashburton",
+      "url": "https://en.wikipedia.org/wiki/Mark_Baring,_8th_Baron_Ashburton"
+     }
+    },
+    {
+     "name": "Evelyn Baring, 4th Earl of Cromer",
+     "relation": "descendant of Henry Baring via Evelyn Baring, 1st Earl of Cromer; succeeded 1991",
+     "role": "Hereditary peer",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Earl of Cromer",
+      "url": "https://en.wikipedia.org/wiki/Earl_of_Cromer"
+     }
+    }
+   ]
   },
   {
    "id": "thomson-hankey",
@@ -1276,7 +1391,8 @@
      "type": "parallel",
      "label": "Grenada plantations tied to Bank figures"
     }
-   ]
+   ],
+   "today_people": []
   },
   {
    "id": "thomas-moss-liverpool",
@@ -1347,7 +1463,8 @@
      "type": "legacy",
      "label": "family firm's bank now in HSBC"
     }
-   ]
+   ],
+   "today_people": []
   },
   {
    "id": "john-sawbridge-erle-drax",
@@ -1417,6 +1534,20 @@
      "id": "ucl-legacies-of-british-slavery",
      "type": "legacy",
      "label": "LBS entry"
+    }
+   ],
+   "today_people": [
+    {
+     "name": "Richard Drax",
+     "relation": "descendant and heir of the Drax/Erle-Drax family; owner of Drax Hall, Barbados",
+     "role": "Former Conservative MP for South Dorset (2010–24); owns Drax Hall (Barbados), Charborough (Dorset) and Ellerton Abbey estates; has declined a formal apology",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "The Conversation — Tracing the Drax family's millions",
+      "url": "https://theconversation.com/tracing-the-drax-familys-millions-a-story-of-british-landed-gentry-slavery-and-sugar-plantations-257376"
+     }
     }
    ]
   },
@@ -1489,7 +1620,34 @@
      "type": "legacy",
      "label": "LBS entry"
     }
-   ]
+   ],
+   "today_people": [
+    {
+     "name": "Douglas Hogg, 3rd Viscount Hailsham",
+     "relation": "great-grandson of Quintin Hogg (merchant), partner in Charles McGarel's Demerara sugar firm and brother-in-law of McGarel",
+     "role": "Former Cabinet minister (Agriculture, 1995–97); hereditary viscount and, since 2015, a life peer (Baron Hailsham of Kettlethorpe), so he kept his Lords seat after the 2026 removal of hereditary peers",
+     "sector": "Politics & government",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Viscount Hailsham",
+      "url": "https://en.wikipedia.org/wiki/Viscount_Hailsham"
+     }
+    },
+    {
+     "name": "Charlotte Hogg",
+     "relation": "daughter of the 3rd Viscount Hailsham; great-great-granddaughter of Quintin Hogg (merchant)",
+     "role": "Former Bank of England COO and Deputy Governor (2017); former CEO of Visa Europe; CEO of Alter Domus from 2025",
+     "sector": "Banking & finance",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Charlotte Hogg",
+      "url": "https://en.wikipedia.org/wiki/Charlotte_Hogg"
+     }
+    }
+   ],
+   "today": "His great-grandson Douglas Hogg, 3rd Viscount Hailsham, is a former Cabinet minister, and great-great-granddaughter Charlotte Hogg is a former Bank of England deputy governor."
   },
   {
    "id": "moses-taylor-pyne",
@@ -1561,7 +1719,8 @@
      "type": "trade",
      "label": "Cuban sugar fortune"
     }
-   ]
+   ],
+   "today_people": []
   },
   {
    "id": "smith-payne-and-smiths",
@@ -1663,7 +1822,7 @@
      "id": "natwest-group"
     }
    ],
-   "today": "The bank's business is part of NatWest Group, whose Heritage Hub acknowledges its slavery-linked mortgages and compensation. The family's best-known descendants are the Barons Carrington, including Peter Carington, 6th Baron Carrington (1919–2018), Foreign Secretary; Christ's College, Cambridge, has published the family's slavery links as part of its Legacies of Enslavement research.",
+   "today": "The bank's business is part of NatWest Group, whose Heritage Hub acknowledges its slavery-linked mortgages and compensation. The family's best-known descendants are the Barons Carrington, including Peter Carington, 6th Baron Carrington (1919–2018), Foreign Secretary; Christ's College, Cambridge, has published the family's slavery links as part of its Legacies of Enslavement research. Rupert Carington, 7th Baron Carrington, a banker, has been Lord Great Chamberlain since 2022.",
    "sources": [
     {
      "label": "NatWest Group Heritage Hub — Smith, Payne & Smiths",
@@ -1703,6 +1862,20 @@
      "id": "hankey-family",
      "type": "parallel",
      "label": "fellow NatWest predecessor lending on plantations"
+    }
+   ],
+   "today_people": [
+    {
+     "name": "Rupert Carington, 7th Baron Carrington",
+     "relation": "head of the Carrington branch of the Smith banking family (Smith, Payne & Smiths)",
+     "role": "Banker; Lord Great Chamberlain since 2022 (officiated at the 2023 coronation); former crossbench hereditary peer whose Lords seat ended on 29 April 2026, though he keeps the ceremonial office",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Rupert Carington, 7th Baron Carrington",
+      "url": "https://en.wikipedia.org/wiki/Rupert_Carington,_7th_Baron_Carrington"
+     }
     }
    ]
   },
@@ -1829,7 +2002,8 @@
      "type": "legacy",
      "label": "successor sued 2002"
     }
-   ]
+   ],
+   "today_people": []
   },
   {
    "id": "joseph-manesty",
@@ -1897,7 +2071,8 @@
      "label": "his ships traded on the Sierra Leone coast"
     }
    ],
-   "today": "No publicly documented descendants have been traced."
+   "today": "No publicly documented descendants have been traced.",
+   "today_people": []
   },
   {
    "id": "jeffrey-jeffreys",
@@ -2024,7 +2199,8 @@
      "basis": "interpretive"
     }
    ],
-   "today": "No living descendants are publicly documented here; the Camden title (now Marquess Camden) came from Charles Pratt's own career, not from the Jeffreys line. Sir Jeffrey has a memorial in St Andrew Undershaft, St Mary Axe, near the site of the family's London house."
+   "today": "No living descendants are publicly documented here; the Camden title (now Marquess Camden) came from Charles Pratt's own career, not from the Jeffreys line. Sir Jeffrey has a memorial in St Andrew Undershaft, St Mary Axe, near the site of the family's London house.",
+   "today_people": []
   },
   {
    "id": "aspinall-family-liverpool",
@@ -2116,7 +2292,8 @@
      "label": "Will traded at Bonny"
     }
    ],
-   "today": "No publicly documented descendants have been traced."
+   "today": "No publicly documented descendants have been traced.",
+   "today_people": []
   },
   {
    "id": "ruiz-and-montes",
@@ -2198,7 +2375,8 @@
      "label": "imports illegal under the treaty"
     }
    ],
-   "today": "No publicly documented descendants have been traced."
+   "today": "No publicly documented descendants have been traced.",
+   "today_people": []
   }
  ],
  "events": [

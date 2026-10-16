@@ -33,7 +33,7 @@ The records draw on mainstream scholarship and archives: the [SlaveVoyages](http
 
 ## Rebuilding
 
-`research/g1.json … g17.json` are the source files, one per research group: Iberia & explorers, Britain, continental Europe, African states, the Americas, African trading families, US planter families, Dutch/Portuguese/German/Swiss families, financiers & legacy today, the Middle Passage (survivors, captains, crews, ships), enslaved and free Black lives, the Arab, trans-Saharan and Indian Ocean trades, family lineages (g13–g16: mentors, partners and heirs added in the lineage round), and enforcers & aftermath (g17: overseers, patrols, slave catchers, the Klan, convict leasing). `research/SCHEMA.md` is the record format. To merge them, check links, and regenerate `data.json` plus the embedded copy in `index.html`, run:
+`research/g1.json … g22.json` are the source files, one per research group: Iberia & explorers, Britain, continental Europe, African states, the Americas, African trading families, US planter families, Dutch/Portuguese/German/Swiss families, financiers & legacy today, the Middle Passage (survivors, captains, crews, ships), enslaved and free Black lives, the Arab, trans-Saharan and Indian Ocean trades, family lineages (g13–g16: mentors, partners and heirs added in the lineage round), enforcers & aftermath (g17, with today's Klan groups in g21: overseers, patrols, slave catchers, convict leasing), and Maryland and Virginia families and county namesakes (g18–g20, g22). `research/SCHEMA.md` is the record format. To merge them, check links, and regenerate `data.json` plus the embedded copy in `index.html`, run:
 
 ```sh
 python3 tools/build.py research .

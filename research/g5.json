@@ -175,7 +175,45 @@
      "basis": "documented"
     }
    ],
-   "today": "Linden Place, built with slave-trade money, stayed in the family for 177 years until the nonprofit Friends of Linden Place took ownership in 1988; it is now a house museum. Publicly identified descendants Katrina Browne ('Traces of the Trade', 2008) and Thomas Norman DeWolf ('Inheriting the Trade', 2008) speak about the family's role, and the Tracing Center continues their education work. Part of the wealth passed through Samuel P. Colt into banking (Industrial Trust, later Fleet) and U.S. Rubber (later Uniroyal)."
+   "today": "Linden Place, built with slave-trade money, stayed in the family for 177 years until the nonprofit Friends of Linden Place took ownership in 1988; it is now a house museum. Publicly identified descendants Katrina Browne ('Traces of the Trade', 2008) and Thomas Norman DeWolf ('Inheriting the Trade', 2008) speak about the family's role, and the Tracing Center continues their education work. Part of the wealth passed through Samuel P. Colt into banking (Industrial Trust, later Fleet) and U.S. Rubber (later Uniroyal). James DeWolf Perry went on to lead the Episcopal Diocese of Rhode Island's Center for Reconciliation, and Thomas Norman DeWolf has led Coming to the Table.",
+   "today_people": [
+    {
+     "name": "Katrina Browne",
+     "relation": "descendant of the DeWolf family (own statements; documentary)",
+     "role": "Filmmaker of 'Traces of the Trade' (PBS POV, 2008); co-founder of the Tracing Center; has publicly supported reparations",
+     "sector": "Advocacy & repair",
+     "year": 2008,
+     "basis": "documented",
+     "source": {
+      "label": "PBS POV — Traces of the Trade",
+      "url": "https://archive.pov.org/tracesofthetrade/broadcast-links/"
+     }
+    },
+    {
+     "name": "Thomas Norman DeWolf",
+     "relation": "descendant of the DeWolf family (own memoir)",
+     "role": "Author of 'Inheriting the Trade' (2008); long-time leader of Coming to the Table, a racial-healing organisation for descendants of enslavers and enslaved",
+     "sector": "Advocacy & repair",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Penguin Random House — Inheriting the Trade",
+      "url": "https://penguinrandomhouse.ca/books/205897/inheriting-the-trade-by-thomas-norman-dewolf/9780807072820"
+     }
+    },
+    {
+     "name": "James DeWolf Perry",
+     "relation": "DeWolf family descendant (featured in 'Traces of the Trade')",
+     "role": "Co-founder of the Tracing Center; later executive director of the Episcopal Diocese of Rhode Island's Center for Reconciliation (slavery museum project)",
+     "sector": "Advocacy & repair",
+     "year": 2020,
+     "basis": "documented",
+     "source": {
+      "label": "The Public's Radio — James DeWolf Perry named director of Episcopal cathedral slavery reconciliation initiative",
+      "url": "https://thepublicsradio.org/article/james-dewolf-perry-named-director-episcopal-cathedral-slavery-reconciliation-initiative/"
+     }
+    }
+   ]
   },
   {
    "id": "james-dewolf",
@@ -1587,7 +1625,21 @@
      "basis": "documented"
     }
    ],
-   "today": "JPMorgan Chase is the largest U.S. bank. Its 2005 apology came with a $5 million scholarship fund for Black students in Louisiana. The founding families of the antebellum Louisiana banks have no documented role in the bank today."
+   "today": "JPMorgan Chase is the largest U.S. bank. Its 2005 apology came with a $5 million scholarship fund for Black students in Louisiana. The founding families of the antebellum Louisiana banks have no documented role in the bank today.",
+   "today_people": [
+    {
+     "name": "Jamie Dimon",
+     "relation": "no family link — current head of the successor bank (Citizens Bank of Louisiana and Canal Bank are JPMorgan predecessors)",
+     "role": "Chairman and CEO of JPMorgan Chase since 2006/2007",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "JPMorgan Chase — Leadership: Jamie Dimon",
+      "url": "https://jpmorganchase.com/about/leadership/jamie-dimon"
+     }
+    }
+   ]
   },
   {
    "id": "wells-fargo-wachovia",
@@ -1697,7 +1749,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Wachovia name was retired in 2011, when its last branches became Wells Fargo. Wells Fargo has occasionally pointed to Wachovia's 2005 apology and grants to Black communities; no individual founding family is publicly linked to the bank today."
+   "today": "The Wachovia name was retired in 2011, when its last branches became Wells Fargo. Wells Fargo has occasionally pointed to Wachovia's 2005 apology and grants to Black communities; no individual founding family is publicly linked to the bank today.",
+   "today_people": [
+    {
+     "name": "Charlie Scharf",
+     "relation": "no family link — current head of the successor bank (Wachovia predecessors)",
+     "role": "CEO of Wells Fargo since 2019 and chairman since October 2025",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Business Wire — Wells Fargo board announces intention to name CEO Charlie Scharf chairman (2025)",
+      "url": "https://www.businesswire.com/news/home/20250731966292/en/Wells-Fargo-Board-of-Directors-Announces-Intention-to-Name-CEO-Charlie-Scharf-Chairman"
+     }
+    }
+   ]
   },
   {
    "id": "aetna",
@@ -1805,7 +1871,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Aetna is now a CVS Health subsidiary. Its 2000 apology for antebellum policies on enslaved people remains its main public statement; the Bulkeley family no longer runs it."
+   "today": "Aetna is now a CVS Health subsidiary. Its 2000 apology for antebellum policies on enslaved people remains its main public statement; the Bulkeley family no longer runs it.",
+   "today_people": [
+    {
+     "name": "David Joyner",
+     "relation": "no family link — head of Aetna's parent company",
+     "role": "President and CEO of CVS Health (Aetna's parent) since October 2024",
+     "sector": "Business & trade",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Chain Drug Review — New leadership takes over at CVS after volatile year (2025)",
+      "url": "https://digitaledition.chaindrugreview.com/articles/new-leadership-takes-over-at-cvs-after-volatile-year"
+     }
+    }
+   ]
   },
   {
    "id": "new-york-life",
@@ -1891,7 +1971,21 @@
      "basis": "documented"
     }
    ],
-   "today": "New York Life is still a mutual insurer. It has expressed regret for the Nautilus policies on enslaved people and funds scholarships and research. No founding family is publicly linked to it today."
+   "today": "New York Life is still a mutual insurer. It has expressed regret for the Nautilus policies on enslaved people and funds scholarships and research. No founding family is publicly linked to it today.",
+   "today_people": [
+    {
+     "name": "Craig DeSanto",
+     "relation": "no family link — current head of the company",
+     "role": "Chair, President and CEO of New York Life",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Business Roundtable — Craig DeSanto",
+      "url": "https://businessroundtable.org/members/craig-desanto"
+     }
+    }
+   ]
   },
   {
    "id": "brown-brothers-harriman",
@@ -2014,7 +2108,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Brown Brothers Harriman is still a private partnership in New York and acknowledges its predecessor's role in the slavery-based cotton trade. The Brown family's Baltimore and London houses survive inside Raymond James and Quintet."
+   "today": "Brown Brothers Harriman is still a private partnership in New York and acknowledges its predecessor's role in the slavery-based cotton trade. The Brown family's Baltimore and London houses survive inside Raymond James and Quintet. The firm is led by non-family partners: William Tyree hands over to Kevin Stone as Managing Partner on 1 January 2027.",
+   "today_people": [
+    {
+     "name": "William B. Tyree",
+     "relation": "no documented family link — leader of the partnership descended from Brown Brothers & Co.",
+     "role": "Managing Partner of Brown Brothers Harriman until end-2026",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "BBH — Brown Brothers Harriman announces Managing Partner succession (2026)",
+      "url": "https://www.bbh.com/us/en/bbh-who-we-are/bbh-news/pressroom/brown-brothers-harriman-announces-managing-partner-succession.html"
+     }
+    },
+    {
+     "name": "Kevin W. Stone",
+     "relation": "no documented family link — incoming leader of the partnership",
+     "role": "Named Managing Partner and CEO of Brown Brothers Harriman from 1 January 2027",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "BBH — Brown Brothers Harriman announces Managing Partner succession (2026)",
+      "url": "https://www.bbh.com/us/en/bbh-who-we-are/bbh-news/pressroom/brown-brothers-harriman-announces-managing-partner-succession.html"
+     }
+    }
+   ]
   },
   {
    "id": "clotilda-meaher",
@@ -2151,7 +2271,57 @@
      "basis": "documented"
     }
    ],
-   "today": "Meaher descendants still own substantial land around Africatown, and in October 2022 the family issued a statement disapproving of their ancestor; living family members are private individuals and are not named here. Descendants of the Clotilda survivors, organised in the Clotilda Descendants Association and featured in the documentary 'Descendant' (2022), lead Africatown's revival, including the Africatown Heritage House exhibition (2023)."
+   "today": "Meaher descendants still own substantial land around Africatown (about 14% of the historic district, per CBS), and in October 2022 the family issued a statement calling their ancestor's actions 'evil and unforgivable' and saying it had 'been silent for too long'. Of the living family, only the sisters Meg and Helen Meaher have spoken publicly: after a private meeting with Clotilda Descendants Association officers in December 2022, they met descendants on CBS '60 Minutes' in 2023; no financial commitment was made, though the family began removing property markers. Other family members are private and not named here. Descendants of the Clotilda survivors, organised in the Clotilda Descendants Association and featured in the documentary 'Descendant' (2022), lead Africatown's revival, including the Africatown Heritage House exhibition (2023).",
+   "today_people": [
+    {
+     "name": "Meg Meaher",
+     "relation": "great-great-granddaughter of Timothy Meaher (own public statements)",
+     "role": "Met Clotilda Descendants Association officers privately in December 2022 and, with her sister Helen, met Clotilda descendants on CBS '60 Minutes' (2023); the sisters sold an Africatown property to the City of Mobile in 2021 for $50,000, well below its appraisal",
+     "sector": "Advocacy & repair",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — Descendants of Alabama slave owner say they're 'figuring out next steps' (2023)",
+      "url": "https://www.cbsnews.com/amp/news/clotilda-meaher-descendants-talk-reconciliation-africatown-60-minutes"
+     }
+    },
+    {
+     "name": "Helen Meaher",
+     "relation": "great-great-granddaughter of Timothy Meaher (own public statements)",
+     "role": "Met Clotilda descendants in 2023 ('60 Minutes'); family has begun removing property markers in Africatown and is reviewing next steps; Meaher heirs still hold substantial Mobile land",
+     "sector": "Land & estates",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "CBS News — Descendants of Alabama slave owner say they're 'figuring out next steps' (2023)",
+      "url": "https://www.cbsnews.com/amp/news/clotilda-meaher-descendants-talk-reconciliation-africatown-60-minutes"
+     }
+    },
+    {
+     "name": "Jeremy Ellis",
+     "relation": "sixth-generation descendant of Clotilda survivors Pollee and Rose Allen (descendant of the enslaved, not of the Meahers)",
+     "role": "President (later past president) of the Clotilda Descendants Association; led the reconciliation meeting with the Meahers",
+     "sector": "Advocacy & repair",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Auburn University — Descendants of the Clotilda to participate in Inclusive Excellence conference",
+      "url": "https://cla.auburn.edu/news/articles/descendants-of-the-clotilda-to-participate-in-inclusive-excellence-conference"
+     }
+    },
+    {
+     "name": "Darron Patterson",
+     "relation": "Clotilda survivor descendant (descendant of the enslaved)",
+     "role": "Met members of the Meaher family in 2022 on behalf of Clotilda descendants",
+     "sector": "Advocacy & repair",
+     "year": 2022,
+     "basis": "documented",
+     "source": {
+      "label": "AP via Alabama Public Radio — Descendants of the man responsible for the slave ship Clotilda speak out (2022)",
+      "url": "https://apr.org/2022-10-29/descendants-of-the-man-responsible-for-the-slave-ship-clotilda-speak-out"
+     }
+    }
+   ]
   },
   {
    "id": "charles-lamar",
@@ -2487,7 +2657,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Zulueta's eleven children shared an inheritance of more than 200 million reales plus properties. It paid for Vitoria-Gasteiz's 'sugar palaces' and later local donations, such as those of Elvira Zulueta. Basque media and researchers have recently reassessed this legacy. Living private descendants are not named."
+   "today": "Zulueta's eleven children shared an inheritance of more than 200 million reales plus properties. It paid for Vitoria-Gasteiz's 'sugar palaces' and later local donations, such as those of Elvira Zulueta. Basque media and researchers have recently reassessed this legacy. Living private descendants are not named. The Marquisate of Álava created for him still exists as a Spanish noble title, held (per Gasteiz Hoy) by Fabiola Fernández de Lascoiti y Franco.",
+   "today_people": [
+    {
+     "name": "Fabiola Fernández de Lascoiti y Franco",
+     "relation": "holder of the title Marquis of Álava created for Julián de Zulueta (hereditary succession), per Gasteiz Hoy",
+     "role": "Titleholder, Marquesa de Álava (Spanish nobility; no office)",
+     "sector": "Royalty & titles",
+     "year": 2023,
+     "basis": "interpretive",
+     "source": {
+      "label": "Gasteiz Hoy — La nobleza del siglo XXI: cuántos marqueses y condes existen aún hoy en Álava",
+      "url": "https://www.gasteizhoy.com/los-restos-de-la-nobleza-cuantos-marqueses-y-condes-existen-aun-hoy-en-alava/"
+     }
+    }
+   ]
   },
   {
    "id": "pedro-blanco",

@@ -1,0 +1,4101 @@
+{
+ "records": [
+  {
+   "id": "william-byrd-i",
+   "name": "William Byrd I",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Encyclopedia Virginia says Byrd 'underwrote the importation of servants and slaves' for his own fields and for resale, and that importing Africans earned a share of the headrights behind his almost 30,000 acres; no voyage count survives.",
+   "start": 1670,
+   "end": 1704,
+   "lifespan": "c. 1652–1704",
+   "base": "Westover, Charles City County, Virginia",
+   "geo": [
+    37.311,
+    -77.153
+   ],
+   "aliases": [
+    "William Bird",
+    "Byrd of Westover (the elder)"
+   ],
+   "origins": "Born in London around 1652 to a goldsmith, Byrd came to Virginia to inherit an uncle's land and Indian-trade business at the falls of the James. He moved from Nathaniel Bacon's circle to Governor Berkeley's side after 1676 and rose to the Council (1683–1704) and the posts of auditor- and receiver-general.",
+   "role_summary": "An Indian trader and merchant, Byrd imported indentured servants and enslaved Africans both to work his own tobacco land and to sell to other planters. Each person imported earned him a 50-acre headright, so the trade in people built the land base he passed to his son. He bought Westover in 1688 and died there in 1704.",
+   "roleDetail": [
+    {
+     "t": "Importer of enslaved people.",
+     "d": "Encyclopedia Virginia records that he underwrote imports of servants and slaves for his own use and for resale to other planters.",
+     "basis": "documented"
+    },
+    {
+     "t": "Land from people.",
+     "d": "More than half his almost 30,000 acres came through headrights, and about a third of those headrights came from importing Africans (per Encyclopedia Virginia).",
+     "basis": "documented"
+    },
+    {
+     "t": "Westover bought 1688.",
+     "d": "He bought the c. 1,000-acre Westover tract in 1688; it stayed with the Byrds until 1814.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His son William Byrd II inherited Westover and the land, built the brick mansion and laid out Richmond. The family fortune collapsed under William Byrd III, but the Byrd name stayed politically powerful in Virginia into the 20th century.",
+   "legacyDetail": [
+    {
+     "t": "Founder of a dynasty.",
+     "d": "Later Byrds included the Westover diarist William Byrd II and, among later descendants, Governor and Senator Harry F. Byrd Sr.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Mary Horsmanden Filmer",
+     "relation": "spouse",
+     "years": "d. 1699",
+     "note": "Married c. 1673; widow of Samuel Filmer and daughter of Warham Horsmanden.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Byrd II",
+     "relation": "son / heir",
+     "years": "1674–1744",
+     "note": "Inherited Westover and the land and enslaved people.",
+     "id": "byrd-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Ursula Byrd Beverley",
+     "relation": "daughter",
+     "years": "d. c. 1698",
+     "note": "Married the historian Robert Beverley, linking the Byrds to the Beverley family.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Westover passed out of the family in 1814 and has been owned by the Crane, Fisher and Erda families since 1921; the owners say they are researching the enslaved people who lived there. For later Byrd descendants see the Byrd family record.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — William Byrd (ca. 1652–1704)",
+     "url": "https://encyclopediavirginia.org/entries/byrd-william-ca-1652-1704/"
+    },
+    {
+     "label": "Historic Westover — About Westover",
+     "url": "https://historicwestover.com/about.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "byrd-family",
+     "type": "family",
+     "label": "founder of the Westover Byrds"
+    },
+    {
+     "id": "westover-plantation",
+     "type": "plantation",
+     "label": "bought Westover 1688"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "parallel",
+     "label": "imported Africans in the RAC era"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "London-born merchant with London ties"
+    }
+   ]
+  },
+  {
+   "id": "byrd-family",
+   "name": "Byrd family of Westover (William Byrd II & III)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "William Byrd III took over an estate of more than 179,000 acres and 'hundreds of slaves' (Encyclopedia Virginia); exact counts do not survive.",
+   "start": 1704,
+   "end": 1814,
+   "lifespan": "1704–1814 at Westover",
+   "base": "Westover, Charles City County, Virginia",
+   "geo": [
+    37.311,
+    -77.153
+   ],
+   "aliases": [
+    "Byrds of Westover"
+   ],
+   "origins": "William Byrd II (1674–1744), educated in England, inherited his father's land, Westover and the enslaved people there in 1704. He sat on the Council for decades and is known for his secret diaries and his Dividing Line survey.",
+   "role_summary": "Byrd II rebuilt Westover in brick (completed c. 1735) with enslaved labour and in 1733 planned Richmond and Petersburg; Richmond was laid out on his land and sold as lots from 1737. His son William Byrd III ran up huge debts: by 1767 trustees had sold land and enslaved people worth £40,000, and in 1768 he held a lottery of estate property valued at £56,796. In 1781 the British under Benedict Arnold carried off 49 enslaved people from Westover.",
+   "roleDetail": [
+    {
+     "t": "Westover built by enslaved people.",
+     "d": "Historic Westover says the number enslaved under Byrd II is unknown but 'probably numbered in the hundreds'; NPS notes he sometimes sold enslaved people to pay debts.",
+     "basis": "documented"
+    },
+    {
+     "t": "Richmond on Byrd land.",
+     "d": "Byrd II announced the surveyed town of Richmond in the Virginia Gazette on 22 April 1737; the city later became the Upper South's largest slave market.",
+     "basis": "documented"
+    },
+    {
+     "t": "Debt and sales under Byrd III.",
+     "d": "Trustees sold land and enslaved people worth £40,000 by 1767; Byrd III mortgaged enslaved people and died by suicide at Westover in January 1777.",
+     "basis": "documented"
+    },
+    {
+     "t": "Mary Willing Byrd.",
+     "d": "His widow sold other property to keep Westover and tried under a flag of truce to recover 49 enslaved people, horses and ferryboats seized by Arnold's force in 1781.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Westover left the family on Mary Willing Byrd's death in 1814. Later descendants included the Byrd brothers of Winchester — Governor and Senator Harry F. Byrd Sr., architect of 'Massive Resistance' to school desegregation, and polar explorer Richard E. Byrd. Virginia removed Harry Byrd's statue from Capitol Square on 7 July 2021.",
+   "legacyDetail": [
+    {
+     "t": "Massive Resistance.",
+     "d": "Harry F. Byrd Sr. (1887–1966), whose ancestors included William Byrd II, led Virginia's resistance to integration after 1954; the General Assembly voted in 2021 to remove his statue.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "William Byrd I",
+     "relation": "father",
+     "years": "c. 1652–1704",
+     "note": "Indian trader and importer of enslaved people who bought Westover in 1688.",
+     "id": "william-byrd-i",
+     "basis": "documented"
+    },
+    {
+     "name": "William Byrd II",
+     "relation": "head",
+     "years": "1674–1744",
+     "note": "Planter, diarist and Council member; founded Richmond; married Lucy Parke (1706) and Maria Taylor (1724).",
+     "basis": "documented"
+    },
+    {
+     "name": "Maria Taylor Byrd",
+     "relation": "spouse / widow",
+     "years": "1698–1771",
+     "note": "Managed Westover and its enslaved workers after Byrd II's death.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Byrd III",
+     "relation": "son",
+     "years": "1728–1777",
+     "note": "Inherited 179,000+ acres and hundreds of enslaved people; sold and mortgaged them to meet debts.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Willing Byrd",
+     "relation": "spouse / widow",
+     "years": "1740–1814",
+     "note": "Philadelphia-born; kept Westover until her death, after which it was sold.",
+     "basis": "documented"
+    },
+    {
+     "name": "Harry F. Byrd Sr.",
+     "relation": "descendant",
+     "years": "1887–1966",
+     "note": "Governor (1926–30) and U.S. senator (1933–65) who led Massive Resistance.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Westover is privately owned by descendants of Richard Crane, who bought it in 1921, not by Byrds; it displays known names of the enslaved in its Old Kitchen and asks descendants to share records. The Byrd political line ended with Harry F. Byrd Jr. (d. 2013); no living public figure has spoken about the Westover slaveholding.",
+   "placesNamed": [
+    "Byrd Park, Richmond, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — William Byrd (1674–1744)",
+     "url": "https://encyclopediavirginia.org/entries/byrd-william-1674-1744/"
+    },
+    {
+     "label": "Encyclopedia Virginia — William Byrd (1728–1777)",
+     "url": "https://encyclopediavirginia.org/entries/byrd-william-1728-1777/"
+    },
+    {
+     "label": "Library of Virginia — Mary Willing Byrd (Changemakers)",
+     "url": "https://www.lva.virginia.gov/collections/educator-resources/changemakers/items/show/205"
+    },
+    {
+     "label": "WTVR — Byrd statue removed from Capitol Square (2021)",
+     "url": "https://www.wtvr.com/news/local-news/byrd-statue-removed-from-capitol-square"
+    }
+   ],
+   "connections": [
+    {
+     "id": "william-byrd-i",
+     "type": "family",
+     "label": "son and grandson of William Byrd I"
+    },
+    {
+     "id": "westover-plantation",
+     "type": "plantation",
+     "label": "seat 1688–1814"
+    },
+    {
+     "id": "shockoe-bottom-slave-market",
+     "type": "legacy",
+     "label": "Richmond founded on Byrd land"
+    },
+    {
+     "id": "carter-family",
+     "type": "family",
+     "label": "intermarried Tidewater gentry"
+    }
+   ]
+  },
+  {
+   "id": "robert-king-carter",
+   "name": "Robert \"King\" Carter",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "He held at least 295,000 acres at his death (Encyclopedia Virginia); estimates of the people he enslaved range from c. 700 to well over 1,000, so the figure is estimated.",
+   "start": 1690,
+   "end": 1732,
+   "lifespan": "c. 1664–1732",
+   "base": "Corotoman, Lancaster County, Virginia",
+   "geo": [
+    37.64,
+    -76.42
+   ],
+   "aliases": [
+    "King Carter",
+    "Robert Carter I"
+   ],
+   "origins": "Son of the immigrant John Carter of Corotoman on the Rappahannock, he inherited land and enslaved people and became a burgess, Council member and acting governor (1726–27). He was agent for the Fairfax proprietors of the Northern Neck in 1702–11 and 1722–32.",
+   "role_summary": "Carter was the richest planter of his generation. He acted as an agent for slave traders, bought captives from ships for his many quarters, and used his Northern Neck agency to steer vast land grants to himself and his children. He built the colony's largest house at Corotoman (burned 1729) and began Christ Church, Lancaster.",
+   "roleDetail": [
+    {
+     "t": "Agent for slave traders.",
+     "d": "Encyclopedia Virginia notes he acted as an agent selling enslaved Africans from arriving ships, as well as buying them for his own quarters.",
+     "basis": "documented"
+    },
+    {
+     "t": "Land machine.",
+     "d": "As Northern Neck agent he had surveyors locate land he could patent for his family; he died with at least 295,000 acres.",
+     "basis": "documented"
+    },
+    {
+     "t": "Family network.",
+     "d": "His children married into the Burwell, Page, Harrison, Fitzhugh and other families, spreading Carter land and enslaved people across Tidewater Virginia.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His estate seeded many of Virginia's great houses: Carter's Grove, Shirley (through his son John), Sabine Hall (Landon Carter) and Nomini Hall (grandson Robert Carter III). Christ Church, Lancaster (completed c. 1735) is now a museum that researches the Carter papers and the people enslaved at Corotoman.",
+   "legacyDetail": [
+    {
+     "t": "Christ Church Lancaster.",
+     "d": "The Foundation for Historic Christ Church publishes his letters and diary and research on the enslaved people of Corotoman and on Robert Carter III's Deed of Gift.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Carter",
+     "relation": "father",
+     "years": "d. 1669",
+     "note": "Immigrant who founded Corotoman.",
+     "basis": "documented"
+    },
+    {
+     "name": "Judith Armistead / Elizabeth Landon Willis",
+     "relation": "spouses",
+     "years": "m. 1688 / 1701",
+     "note": "Mothers of his fifteen children.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Carter",
+     "relation": "son",
+     "years": "d. 1742",
+     "note": "Married Elizabeth Hill, heiress of Shirley.",
+     "id": "carter-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Carter Burwell",
+     "relation": "daughter",
+     "years": "1690s–1734",
+     "note": "Mother of Carter Burwell of Carter's Grove.",
+     "id": "burwell-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Judith Carter Page",
+     "relation": "daughter",
+     "years": "d. 1750",
+     "note": "Wife of Mann Page I of Rosewell.",
+     "id": "page-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Carter III",
+     "relation": "grandson",
+     "years": "1728–1804",
+     "note": "Inherited Nomini Hall and later freed more than 500 people.",
+     "id": "robert-carter-iii",
+     "basis": "documented"
+    }
+   ],
+   "today": "His descendants are numerous; the best-known public heirs today are the Carters of Shirley Plantation (see Carter family). Corotoman itself is an archaeological site.",
+   "placesNamed": [
+    "Carter's Grove, James City County, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Robert Carter (ca. 1664–1732)",
+     "url": "https://encyclopediavirginia.org/entries/carter-robert-ca-1664-1732/"
+    },
+    {
+     "label": "Historic Christ Church — Robert 'King' Carter correspondence and diary",
+     "url": "https://christchurch1735.org/robert-king-carter-papers/html/C27i07a.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "carter-family",
+     "type": "family",
+     "label": "patriarch"
+    },
+    {
+     "id": "robert-carter-iii",
+     "type": "family",
+     "label": "grandfather"
+    },
+    {
+     "id": "burwell-family",
+     "type": "family",
+     "label": "grandfather of Carter Burwell"
+    },
+    {
+     "id": "page-family",
+     "type": "family",
+     "label": "father-in-law of Mann Page I"
+    },
+    {
+     "id": "harrison-family",
+     "type": "family",
+     "label": "daughter Anne m. Benjamin Harrison IV"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "sold captives from arriving ships"
+    }
+   ]
+  },
+  {
+   "id": "robert-carter-iii",
+   "name": "Robert Carter III",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "His 1791 Deed of Gift set out the gradual freedom of more than 500 people (Encyclopedia Virginia; the Nomini Hall Slave Legacy project counts 511, Christ Church research 452) — probably the largest individual emancipation in the U.S. before 1860.",
+   "start": 1749,
+   "end": 1804,
+   "lifespan": "1728–1804",
+   "base": "Nomini Hall, Westmoreland County, Virginia",
+   "geo": [
+    38.117,
+    -76.705
+   ],
+   "aliases": [
+    "Councillor Carter"
+   ],
+   "origins": "Grandson of Robert 'King' Carter, he inherited Nomini Hall and a fortune in land and enslaved people, and sat on the colonial Council. He converted to evangelical Christianity in 1777, became a Baptist in 1778 and a Swedenborgian in 1788.",
+   "role_summary": "For decades Carter enslaved hundreds of people on some 18 plantations in several counties. On 1 August 1791 he executed a Deed of Gift under Virginia's 1782 manumission law, freeing people in stages by age; executors were still carrying it out decades later. He moved to Baltimore in 1793 and died there in 1804.",
+   "roleDetail": [
+    {
+     "t": "Deed of Gift (1791).",
+     "d": "Filed in Northumberland County, it freed adults on a schedule and children as they came of age, to limit resistance from neighbours and the law.",
+     "basis": "documented"
+    },
+    {
+     "t": "Count disputed.",
+     "d": "Encyclopedia Virginia says more than 500; Christ Church research counts 452; the Nomini Hall Slave Legacy project 511 across 18 plantations.",
+     "basis": "documented"
+    },
+    {
+     "t": "Faith-driven.",
+     "d": "His Baptist and Swedenborgian convictions are usually given as the reason for the emancipation.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Deed of Gift is the best-known counter-example among Virginia's great planters, who otherwise almost never freed people in large numbers. The Nomini Hall Slave Legacy project traces the freed people and their descendants.",
+   "legacyDetail": [
+    {
+     "t": "Descendant research.",
+     "d": "The Nomini Hall Slave Legacy project publishes a timeline, names and family histories of the people freed.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Robert 'King' Carter",
+     "relation": "grandfather",
+     "years": "c. 1664–1732",
+     "note": "Source of the land and enslaved people he inherited.",
+     "id": "robert-king-carter",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Carter II",
+     "relation": "father",
+     "years": "1704–1732",
+     "note": "Received Nomini Hall from King Carter; died young.",
+     "basis": "documented"
+    },
+    {
+     "name": "Frances Ann Tasker Carter",
+     "relation": "spouse",
+     "years": "1738–1787",
+     "note": "Baltimore heiress; married 1754.",
+     "basis": "documented"
+    },
+    {
+     "name": "Philip Vickers Fithian",
+     "relation": "tutor",
+     "years": "1747–1776",
+     "note": "Princeton-trained tutor whose 1773–74 journal describes life and slavery at Nomini Hall.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No living public figure is documented as speaking for the family. Descendants of the people freed under the Deed of Gift are traced by the Nomini Hall Slave Legacy project; the Nomini Hall house is gone.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Robert Carter (1728–1804)",
+     "url": "https://encyclopediavirginia.org/entries/carter-robert-1728-1804/"
+    },
+    {
+     "label": "Historic Christ Church — Robert Carter III's 1791 Deed of Gift",
+     "url": "https://www.christchurch1735.org/research/research-room/robert-carter-iii-s-1791-deed-of-gift"
+    },
+    {
+     "label": "Nomini Hall Slave Legacy — Timeline",
+     "url": "https://nominihallslavelegacy.com/timeline/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-king-carter",
+     "type": "family",
+     "label": "grandson"
+    },
+    {
+     "id": "deed-of-gift-1791",
+     "type": "legacy",
+     "label": "executed the Deed of Gift"
+    },
+    {
+     "id": "carter-family",
+     "type": "family",
+     "label": "Nomini Hall branch"
+    },
+    {
+     "id": "john-randolph-of-roanoke",
+     "type": "parallel",
+     "label": "other large Virginia manumission"
+    }
+   ]
+  },
+  {
+   "id": "carter-family",
+   "name": "Carter family (Corotoman, Shirley, Sabine Hall)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "At Shirley alone the 1787 tax list records Charles Hill Carter with 67 enslaved people over 16 and 67 younger (per Wikipedia's summary of the census); 70–90 people were enslaved there each year in the 19th century.",
+   "start": 1650,
+   "end": 1865,
+   "lifespan": "1650s–present",
+   "base": "Shirley Plantation, Charles City County, Virginia",
+   "geo": [
+    37.344,
+    -77.257
+   ],
+   "aliases": [
+    "Hill Carter family",
+    "Carters of Shirley"
+   ],
+   "origins": "Descended from the immigrant John Carter and his son Robert 'King' Carter. King Carter's son John married Elizabeth Hill, heiress of Shirley on the James, in the 1720s, founding the Hill Carter line; another son, Landon Carter, built Sabine Hall and kept a famous diary of plantation management.",
+   "role_summary": "Across several branches the Carters were among Virginia's largest enslavers for two centuries. At Shirley, enslaved people farmed, cooked, cleaned and built; Landon Carter's diary records the daily coercion and resistance of the people at Sabine Hall. After 1865 Hill Carter had to divide the estate once unpaid labour ended.",
+   "roleDetail": [
+    {
+     "t": "Shirley's enslaved community.",
+     "d": "Charles Hill Carter was taxed for 134 enslaved people at Shirley in 1787; 70–90 were held there yearly in the 19th century.",
+     "basis": "documented"
+    },
+    {
+     "t": "Landon Carter's diary.",
+     "d": "Encyclopedia Virginia describes Landon Carter (1710–1778) of Sabine Hall, whose diary is a key record of slavery and resistance on a Virginia estate.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Shirley, settled in 1613–14 and held by the Hill and Carter family since the 1600s, is often described as the oldest family-owned business in North America. It is still a working farm and house museum run by the 11th generation.",
+   "legacyDetail": [
+    {
+     "t": "Still family-owned.",
+     "d": "The current owners describe themselves as the 11th generation on the land and their children as the 12th.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Robert 'King' Carter",
+     "relation": "patriarch",
+     "years": "c. 1664–1732",
+     "note": "Divided his huge estate among his children.",
+     "id": "robert-king-carter",
+     "basis": "documented"
+    },
+    {
+     "name": "John Carter & Elizabeth Hill",
+     "relation": "son / spouse",
+     "years": "d. 1742; m. 1723",
+     "note": "Their marriage brought Shirley into the Carter family.",
+     "basis": "documented"
+    },
+    {
+     "name": "Landon Carter",
+     "relation": "son",
+     "years": "1710–1778",
+     "note": "Sabine Hall planter and diarist.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Hill Carter",
+     "relation": "grandson",
+     "years": "1732–1806",
+     "note": "Held Shirley with some 134 enslaved people in 1787.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anne Hill Carter Lee",
+     "relation": "great-granddaughter",
+     "years": "1773–1829",
+     "note": "Born at Shirley; married 'Light-Horse Harry' Lee and was mother of Robert E. Lee.",
+     "id": "robert-e-lee",
+     "basis": "documented"
+    },
+    {
+     "name": "Hill Carter",
+     "relation": "heir",
+     "years": "1796–1875",
+     "note": "Divided the estate after emancipation.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Hill Carter III",
+     "relation": "descendants",
+     "years": "21st c.",
+     "note": "Current owner and operator of Shirley with his wife Lauren; describes himself as the 11th generation of the family on the land.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Shirley Plantation is still owned and lived in by the Hill-Carter family, run as a farm and historic site; Charles Hill Carter III and his wife Lauren describe themselves as the 11th generation there. Interpretation of the enslaved community is part of the site's tours.",
+   "today_people": [
+    {
+     "name": "Charles Hill Carter III",
+     "relation": "11th-generation owner of Shirley (own statements; Virginia Department of Historic Resources / Virginia Outdoors Foundation and NPS describe the 11th generation in residence)",
+     "role": "Owner-operator of Shirley Plantation, Charles City County",
+     "sector": "Land & estates",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "AgWeb — 11 Generations Later: Inside America's Oldest Working Farm",
+      "url": "https://www.agweb.com/news/business/succession-planning/11-generations-later-inside-americas-oldest-working-farm-and-fa"
+     }
+    }
+   ],
+   "placesNamed": [
+    "Carter's Grove, James City County"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Shirley Plantation",
+     "url": "https://en.wikipedia.org/wiki/Shirley_Plantation"
+    },
+    {
+     "label": "Wikipedia — Charles Hill Carter (1787 tax list)",
+     "url": "https://en.wikipedia.org/wiki/Charles_Hill_Carter"
+    },
+    {
+     "label": "Encyclopedia Virginia — Landon Carter (1710–1778)",
+     "url": "https://encyclopediavirginia.org/entries/carter-landon-1710-1778/"
+    },
+    {
+     "label": "AgWeb — 11 Generations Later",
+     "url": "https://www.agweb.com/news/business/succession-planning/11-generations-later-inside-americas-oldest-working-farm-and-fa"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-king-carter",
+     "type": "family",
+     "label": "descendants of King Carter"
+    },
+    {
+     "id": "robert-carter-iii",
+     "type": "family",
+     "label": "Nomini Hall branch"
+    },
+    {
+     "id": "robert-e-lee",
+     "type": "family",
+     "label": "Lee's mother born at Shirley"
+    },
+    {
+     "id": "lee-family-stratford",
+     "type": "family",
+     "label": "Anne Hill Carter m. Henry Lee III"
+    },
+    {
+     "id": "burwell-family",
+     "type": "family",
+     "label": "Carter's Grove cousins"
+    },
+    {
+     "id": "berkeley-plantation",
+     "type": "parallel",
+     "label": "neighbouring James River estate"
+    }
+   ]
+  },
+  {
+   "id": "randolph-family",
+   "name": "Randolph family of Virginia (Turkey Island, Tuckahoe)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "William Randolph claimed headrights for 168 enslaved people and servants he brought in; his sons held about eleven large plantations worked by hundreds of enslaved people (per Wikipedia summarising Cowden's prosopography); totals are estimated.",
+   "start": 1674,
+   "end": 1865,
+   "lifespan": "1670s–1865",
+   "base": "Turkey Island, Henrico County, Virginia",
+   "geo": [
+    37.4,
+    -77.27
+   ],
+   "aliases": [
+    "Randolphs of Turkey Island",
+    "Randolphs of Tuckahoe"
+   ],
+   "origins": "William Randolph (c. 1650–1711) came from Warwickshire, built a fortune in land, tobacco and trade at Turkey Island on the James, and married Mary Isham; they are often called the 'Adam and Eve of Virginia'. Their sons founded Tuckahoe, Dungeness, Curles, Chatsworth and other estates.",
+   "role_summary": "The Randolphs were the most interconnected political family of colonial Virginia — Peyton Randolph, Edmund Randolph, Jefferson (through his mother Jane Randolph) and John Marshall were descendants or kin — and their wealth rested on enslaved labour. Family wills and inventories (for example Peyton Randolph's 1776 inventory of 27 enslaved people, including Eve) show people passed as property among the branches.",
+   "roleDetail": [
+    {
+     "t": "Headrights from importing people.",
+     "d": "William Randolph claimed land for bringing 168 enslaved people and indentured servants into Virginia.",
+     "basis": "documented"
+    },
+    {
+     "t": "Aggy's freedom suit.",
+     "d": "Ryland Randolph of Turkey Island willed Aggy her freedom in 1784, but administrators kept her enslaved; a Henrico court ordered her and her two children freed in 1790.",
+     "basis": "documented"
+    },
+    {
+     "t": "Jefferson's family.",
+     "d": "Thomas Mann Randolph married Martha Jefferson; their son Thomas Jefferson Randolph ran the 1827 Monticello sale and in 1832 proposed gradual emancipation in the legislature.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Turkey Island's mansion burned in 1806; Tuckahoe survives as a private house museum. Randolph descendants include both Jefferson's white family and, through the Hemings family, Black descendants recognised by Monticello's Getting Word project.",
+   "legacyDetail": [
+    {
+     "t": "Jefferson descendants.",
+     "d": "The Randolph line carries Jefferson's white descendants (Monticello Association); see thomas-jefferson for the Hemings–Randolph reckoning.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "William Randolph & Mary Isham",
+     "relation": "founders",
+     "years": "c. 1650–1711",
+     "note": "Built Turkey Island and a network of estates.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Randolph of Tuckahoe",
+     "relation": "son",
+     "years": "1683–1729",
+     "note": "Founded Tuckahoe, where Jefferson spent part of his childhood.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isham Randolph of Dungeness",
+     "relation": "son",
+     "years": "1685–1742",
+     "note": "Ship captain and merchant; maternal grandfather of Thomas Jefferson.",
+     "id": "thomas-jefferson",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Randolph of Curles & Jane Bolling",
+     "relation": "son / spouse",
+     "years": "1690–1748",
+     "note": "Married a Bolling granddaughter of Pocahontas; grandparents of John Randolph of Roanoke.",
+     "id": "bolling-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Peyton Randolph",
+     "relation": "grandson",
+     "years": "1721–1775",
+     "note": "First president of the Continental Congress; his 1776 estate inventory lists 27 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Mann Randolph Jr.",
+     "relation": "descendant",
+     "years": "1768–1828",
+     "note": "Governor (1819–22); married Martha Jefferson.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Randolph of Roanoke",
+     "relation": "descendant",
+     "years": "1773–1833",
+     "note": "Congressman whose will freed some 383 people.",
+     "id": "john-randolph-of-roanoke",
+     "basis": "documented"
+    }
+   ],
+   "today": "Randolph descendants are numerous and mostly private; Jefferson's Randolph-line descendants form the Monticello Association. No public figure currently speaks for the Turkey Island family specifically.",
+   "placesNamed": [
+    "Randolph County, North Carolina (for Peyton Randolph)",
+    "Randolph County, West Virginia (for Edmund Randolph)",
+    "Randolph-Macon College, Ashland, Virginia (for John Randolph of Roanoke)"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — William Randolph",
+     "url": "https://en.wikipedia.org/wiki/William_Randolph"
+    },
+    {
+     "label": "Henrico County — Aggy's Freedom Suit",
+     "url": "https://henrico.us/locations/aggys-freedom-suit/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Thomas Mann Randolph (1768–1828)",
+     "url": "https://encyclopediavirginia.org/entries/randolph-thomas-mann-1768-1828/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "thomas-jefferson",
+     "type": "family",
+     "label": "Jefferson's mother was a Randolph"
+    },
+    {
+     "id": "monticello",
+     "type": "family",
+     "label": "Randolphs inherited and sold Monticello"
+    },
+    {
+     "id": "hemings-family",
+     "type": "family",
+     "label": "Monticello household kin"
+    },
+    {
+     "id": "john-randolph-of-roanoke",
+     "type": "family",
+     "label": "descendant"
+    },
+    {
+     "id": "bolling-family",
+     "type": "family",
+     "label": "Randolph–Bolling marriage"
+    },
+    {
+     "id": "macon-family",
+     "type": "parallel",
+     "label": "Randolph-Macon College namesakes"
+    }
+   ]
+  },
+  {
+   "id": "john-randolph-of-roanoke",
+   "name": "John Randolph of Roanoke",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "His contested wills led to the 1846 freeing of about 383 people (sources give 383 to nearly 400), who were resettled in Ohio.",
+   "start": 1796,
+   "end": 1833,
+   "lifespan": "1773–1833",
+   "base": "Roanoke Plantation, Charlotte County, Virginia",
+   "geo": [
+    36.95,
+    -78.73
+   ],
+   "aliases": [
+    "John Randolph (of Roanoke)"
+   ],
+   "origins": "A Randolph of the Curles/Bizarre branch and stepson of St. George Tucker, he inherited land and enslaved people and became a sharp-tongued states'-rights congressman (various terms 1799–1833), senator (1825–27) and minister to Russia (1830).",
+   "role_summary": "Randolph defended slavery as a political matter while holding hundreds of people at Roanoke. He wrote wills in 1819, 1821 and 1832; the first two freed his enslaved people and funded land for them outside Virginia, the third did not, and he repudiated it on his deathbed. After years of litigation by relatives, a court upheld the 1821 will and the people were freed in 1846.",
+   "roleDetail": [
+    {
+     "t": "Thirteen years to freedom.",
+     "d": "Relatives contested the wills on grounds of insanity; freedom came only in 1846, 13 years after his death.",
+     "basis": "documented"
+    },
+    {
+     "t": "Driven out of Mercer County.",
+     "d": "Executor William Leigh bought about 3,200 acres in Mercer County, Ohio, but armed white residents turned the 383 freedpeople away in 1846; many settled at Rossville near Piqua and in Shelby County.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Descendants of the Randolph Freedpeople remain in western Ohio and have campaigned to tell the story and seek justice for the land they were denied. Randolph-Macon College was named in part for him.",
+   "legacyDetail": [
+    {
+     "t": "Randolph Freedpeople today.",
+     "d": "Ohio historians and descendants have marked Rossville and pressed for recognition of the lost Mercer County land (WYSU, 2024).",
+     "basis": "documented"
+    },
+    {
+     "t": "Scholarship.",
+     "d": "Gregory May's 'A Madman's Will' (2023) retells the will fight and the Ohio resettlement.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Randolph family",
+     "relation": "family",
+     "years": "1670s–",
+     "note": "Curles branch of the Turkey Island Randolphs.",
+     "id": "randolph-family",
+     "basis": "documented"
+    },
+    {
+     "name": "St. George Tucker",
+     "relation": "stepfather",
+     "years": "1752–1827",
+     "note": "Jurist who published a 1796 plan for gradual abolition.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Leigh",
+     "relation": "executor",
+     "years": "fl. 1833–1846",
+     "note": "Judge who fought the will case and bought Ohio land for the freedpeople.",
+     "basis": "documented"
+    },
+    {
+     "name": "Randolph Freedpeople",
+     "relation": "freed people",
+     "years": "1846–",
+     "note": "About 383 people freed and resettled in Ohio.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Randolph never married and left no legitimate descendants. The Randolph Freedpeople's descendants in Miami and Shelby counties, Ohio, keep the story public through local history groups.",
+   "placesNamed": [
+    "Randolph-Macon College, Ashland, Virginia"
+   ],
+   "sources": [
+    {
+     "label": "Ohio History Connection — The Randolph Freedpeople Part One",
+     "url": "https://www.ohiohistory.org/the-will-of-the-randolph-freedpeople/"
+    },
+    {
+     "label": "Wikipedia — Randolph Freedpeople",
+     "url": "https://en.wikipedia.org/wiki/Randolph_Freedpeople"
+    },
+    {
+     "label": "WYSU — Justice for the Randolph Freedpeople (2024)",
+     "url": "https://wysu.org/ohio-news/2024-06-17/justice-for-the-randolph-freedpeople-telling-their-story-and-returning-their-land"
+    },
+    {
+     "label": "Randolph-Macon College — History",
+     "url": "https://handbook.rmc.edu/student/about-rmc/randolph-macon-college-history/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "randolph-family",
+     "type": "family",
+     "label": "Randolph of Curles line"
+    },
+    {
+     "id": "bolling-family",
+     "type": "family",
+     "label": "descendant of Jane Bolling"
+    },
+    {
+     "id": "macon-family",
+     "type": "legacy",
+     "label": "Randolph-Macon College namesakes"
+    },
+    {
+     "id": "robert-carter-iii",
+     "type": "parallel",
+     "label": "other large manumission"
+    }
+   ]
+  },
+  {
+   "id": "harrison-family",
+   "name": "Harrison family of Berkeley",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Berkeley credits Benjamin Harrison V with 110 enslaved people, listed by family in his 1791 estate inventory.",
+   "start": 1691,
+   "end": 1865,
+   "lifespan": "1691–1840s at Berkeley",
+   "base": "Berkeley Plantation, Charles City County, Virginia",
+   "geo": [
+    37.317,
+    -77.18
+   ],
+   "aliases": [
+    "Harrisons of Berkeley"
+   ],
+   "origins": "Benjamin Harrison III bought Berkeley on the James in 1691 and ran the river's first successful shipyard. Benjamin Harrison IV, who married King Carter's daughter Anne, built the brick mansion in 1726.",
+   "role_summary": "Enslaved people grew tobacco and worked in the house and shipyard at Berkeley, sometimes up to 16 hours a day at harvest. Benjamin Harrison V (1726–1791) signed the Declaration of Independence and was governor (1781–84); his son William Henry Harrison was born there in 1773 and became the ninth president, and his great-grandson Benjamin Harrison the 23rd.",
+   "roleDetail": [
+    {
+     "t": "1791 inventory.",
+     "d": "Benjamin Harrison V's estate inventory lists the 110 people he enslaved in genealogical order — elder first, then descendants — unusual for the period; a copy is shown at Berkeley.",
+     "basis": "documented"
+    },
+    {
+     "t": "A presidential line.",
+     "d": "William Henry Harrison grew up on the slave-worked estate; as Indiana territorial governor (1800–12) he presided over indenture laws that allowed de facto slavery.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Harrisons held Berkeley for more than 150 years until Benjamin Harrison VIII. The Jamieson family has owned it since the early 20th century and says it is working with researchers on the history of the enslaved; reconstructed quarters from the film 'Harriet' (built 2018) now stand near the original quarter site.",
+   "legacyDetail": [
+    {
+     "t": "Interpretation.",
+     "d": "Berkeley's 'Berkeley's Enslaved' page describes field and house labour and invites descendants and researchers to share information.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Benjamin Harrison III",
+     "relation": "founder",
+     "years": "1673–1710",
+     "note": "Bought Berkeley in 1691.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Harrison IV & Anne Carter",
+     "relation": "son / spouse",
+     "years": "c. 1695–1745",
+     "note": "Built the 1726 house; Anne was King Carter's daughter.",
+     "id": "robert-king-carter",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Harrison V",
+     "relation": "grandson",
+     "years": "1726–1791",
+     "note": "Signer, governor; enslaved 110 people.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Henry Harrison",
+     "relation": "son",
+     "years": "1773–1841",
+     "note": "Born at Berkeley; ninth U.S. president.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Harrison",
+     "relation": "great-grandson",
+     "years": "1833–1901",
+     "note": "23rd U.S. president, grandson of William Henry.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Harrison VIII",
+     "relation": "last owner",
+     "years": "19th c.",
+     "note": "Last Harrison to own Berkeley.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No living Harrison publicly speaks for the Berkeley family; the estate is owned and run as a tourist site by the Jamieson family.",
+   "placesNamed": [
+    "Harrison County, Indiana (for William Henry Harrison)",
+    "North Bend, Ohio — William Henry Harrison Tomb State Memorial"
+   ],
+   "sources": [
+    {
+     "label": "Berkeley Plantation — Berkeley's Enslaved",
+     "url": "https://berkeleyplantation.com/berkeleys-enslaved/"
+    },
+    {
+     "label": "Berkeley Plantation — The Harrisons of Berkeley",
+     "url": "https://berkeleyplantation.com/harrisons/"
+    },
+    {
+     "label": "Encyclopedia Virginia — William Henry Harrison (1773–1841)",
+     "url": "https://encyclopediavirginia.org/entries/william-henry-harrison-1773-1841/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "berkeley-plantation",
+     "type": "plantation",
+     "label": "owners 1691–19th c."
+    },
+    {
+     "id": "robert-king-carter",
+     "type": "family",
+     "label": "Anne Carter m. Benjamin Harrison IV"
+    },
+    {
+     "id": "john-tyler",
+     "type": "political",
+     "label": "Harrison–Tyler ticket 1840; Charles City neighbours"
+    },
+    {
+     "id": "byrd-family",
+     "type": "parallel",
+     "label": "neighbouring Westover"
+    }
+   ]
+  },
+  {
+   "id": "page-family",
+   "name": "Page family of Rosewell",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Rosewell was built and run by enslaved workers; most 18th-century Gloucester records burned, so totals are estimated (local studies document at least 111 people in the 18th century).",
+   "start": 1690,
+   "end": 1865,
+   "lifespan": "c. 1690–1838 at Rosewell",
+   "base": "Rosewell, Gloucester County, Virginia",
+   "geo": [
+    37.33,
+    -76.583
+   ],
+   "aliases": [
+    "Pages of Rosewell"
+   ],
+   "origins": "Mann Page I (c. 1691–1730), grandson of the immigrant John Page, married Judith Carter, daughter of Robert 'King' Carter, and began Rosewell on the York River in 1725 — one of the largest houses in colonial America.",
+   "role_summary": "NPS describes Rosewell as built with wealth from enslaved labour, agriculture and Atlantic trade; a marker records that it was built by European craftsmen, indentured servants and enslaved Africans. The Pages married into nearly every great Tidewater family, and Governor John Page (1743–1808), Jefferson's friend, grew up there.",
+   "roleDetail": [
+    {
+     "t": "Built by enslaved labour.",
+     "d": "The NPS Chesapeake gateways listing for the Rosewell ruin says enslaved and free African Americans built and maintained the plantation.",
+     "basis": "documented"
+    },
+    {
+     "t": "Debt and decline.",
+     "d": "Rosewell's cost left heavy debts; the family sold part of the estate in 1793 and the house left Page hands in the 1830s.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Rosewell burned in 1916 and survives as a ruin managed with archaeology programmes. The Page–Nelson descendant Thomas Nelson Page (1853–1922) became the leading 'plantation school' novelist, romanticising slavery in fiction such as 'In Ole Virginia' (1887).",
+   "legacyDetail": [
+    {
+     "t": "Lost Cause literature.",
+     "d": "Encyclopedia Virginia describes Thomas Nelson Page's nostalgic dialect stories of loyal enslaved people, which shaped national memory of the plantation South.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Mann Page I & Judith Carter",
+     "relation": "founders of Rosewell",
+     "years": "c. 1691–1730",
+     "note": "Carter marriage brought land and enslaved people.",
+     "id": "robert-king-carter",
+     "basis": "documented"
+    },
+    {
+     "name": "Mann Page II",
+     "relation": "son",
+     "years": "1718–1781",
+     "note": "Completed Rosewell.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Page",
+     "relation": "grandson",
+     "years": "1743–1808",
+     "note": "Governor of Virginia 1802–05 and congressman.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Nelson Page",
+     "relation": "descendant",
+     "years": "1853–1922",
+     "note": "Novelist and U.S. ambassador to Italy (1913–19); descended from both Pages and Nelsons.",
+     "id": "nelson-family",
+     "basis": "documented"
+    }
+   ],
+   "today": "No public figure today speaks for the family; local descendants have given public talks on 'The Pages of Rosewell'. Rosewell's ruin is a heritage site.",
+   "placesNamed": [
+    "Page County, Virginia (for Governor John Page)"
+   ],
+   "sources": [
+    {
+     "label": "NPS — Rosewell Ruin and Visitor Center",
+     "url": "https://www.nps.gov/places/rosewell-ruin-and-visitor-center.htm"
+    },
+    {
+     "label": "Wikipedia — Mann Page",
+     "url": "https://en.wikipedia.org/wiki/Mann_Page"
+    },
+    {
+     "label": "Encyclopedia Virginia — Thomas Nelson Page (1853–1922)",
+     "url": "https://encyclopediavirginia.org/entries/page-thomas-nelson-1853-1922/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-king-carter",
+     "type": "family",
+     "label": "Mann Page I m. Judith Carter"
+    },
+    {
+     "id": "nelson-family",
+     "type": "family",
+     "label": "Page–Nelson intermarriage"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "John Page was Jefferson's close friend"
+    },
+    {
+     "id": "burwell-family",
+     "type": "family",
+     "label": "Page–Burwell marriages"
+    }
+   ]
+  },
+  {
+   "id": "nelson-family",
+   "name": "Nelson family of Yorktown",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "About 8,500 enslaved Africans were imported into the York River in 1718–27 while 'Scotch Tom' Nelson sold captives on consignment there (Christ's College Cambridge); his personal share is unknown. Thomas Nelson Jr. sold 120 people in 1788.",
+   "start": 1705,
+   "end": 1789,
+   "lifespan": "1705–1860s",
+   "base": "Yorktown, Virginia",
+   "geo": [
+    37.234,
+    -76.508
+   ],
+   "aliases": [
+    "Scotch Tom Nelson",
+    "President Nelson",
+    "General Nelson"
+   ],
+   "origins": "Thomas 'Scotch Tom' Nelson (1677–1745), from Cumberland, settled at Yorktown in the early 1700s as a merchant, ferry and mill owner. The family store, wharf and ship 'Nelson' made them the leading York River merchants.",
+   "role_summary": "Scotch Tom sold enslaved Africans on consignment for English firms and shipped corn and pork to Barbados; his son William Nelson (1711–1772), President of the Council, imported enslaved people into Virginia and occasionally Maryland and Pennsylvania. Grandson Thomas Nelson Jr. (1738–1789), a signer and governor in 1781, bought 5,400 acres and enslaved people from Lewis Burwell and was forced by debt to sell 120 people in Prince William County in 1788.",
+   "roleDetail": [
+    {
+     "t": "Consignment slave sales.",
+     "d": "Christ's College's legacies research says Scotch Tom sold enslaved people for English firms during the York River import boom.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bequeathed people.",
+     "d": "Thomas Nelson Jr.'s will left named people, including Aggy, her son Charles and Melinda, to his children.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Nelson House in Yorktown, built c. 1730, was acquired by the National Park Service in 1968. Thomas Nelson Jr. studied at Christ's College, Cambridge, which now lists him in its 'Legacies of Enslavement' research.",
+   "legacyDetail": [
+    {
+     "t": "Cambridge reckoning.",
+     "d": "Christ's College, Cambridge documents the Nelsons' slave trading as part of its review of enslavement links.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas 'Scotch Tom' Nelson",
+     "relation": "founder",
+     "years": "1677–1745",
+     "note": "Merchant and consignment slave seller.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Nelson",
+     "relation": "son",
+     "years": "1711–1772",
+     "note": "Merchant, Council president and acting governor (1770–71).",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Nelson Jr.",
+     "relation": "grandson",
+     "years": "1738–1789",
+     "note": "Signer, militia general at Yorktown, governor June–Nov 1781.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lewis Burwell",
+     "relation": "seller",
+     "years": "18th c.",
+     "note": "Sold Nelson 5,400 acres and enslaved people.",
+     "id": "burwell-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Nelson Page",
+     "relation": "descendant",
+     "years": "1853–1922",
+     "note": "Novelist of the plantation myth.",
+     "id": "page-family",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants speak for the family today. The family's Yorktown house is a National Park Service site.",
+   "placesNamed": [
+    "Nelson County, Virginia (for Thomas Nelson Jr.)",
+    "Nelson House, Yorktown"
+   ],
+   "sources": [
+    {
+     "label": "Christ's College Cambridge — Legacies of Enslavement: Thomas Nelson Jr.",
+     "url": "https://www.christs.cam.ac.uk/legaciesofenslavement-at-christs/thomas-nelson-jr.html"
+    },
+    {
+     "label": "NPS Colonial NHP — Nelson House",
+     "url": "https://home.nps.gov/york/learn/historyculture/nelson-house.htm"
+    },
+    {
+     "label": "Young Preservationists of Yorktown — The Nelsons of Yorktown",
+     "url": "https://ypsva.org/the-nelsons-of-yorktown/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "burwell-family",
+     "type": "trade",
+     "label": "bought land and people from Lewis Burwell"
+    },
+    {
+     "id": "page-family",
+     "type": "family",
+     "label": "Page–Nelson marriages"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "consignments for English firms"
+    },
+    {
+     "id": "port-bristol",
+     "type": "trade",
+     "label": "York River import trade"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "parallel",
+     "label": "Atlantic slave-trade era supplier networks"
+    }
+   ]
+  },
+  {
+   "id": "fitzhugh-family",
+   "name": "Fitzhugh family (Bedford, Ravensworth, Chatham)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "William Fitzhugh of Chatham kept quarters for 50 and in 1797 advertised about 230 enslaved people for sale with the estate (NPS).",
+   "start": 1674,
+   "end": 1865,
+   "lifespan": "1670s–1860s",
+   "base": "Chatham Manor, Stafford County, Virginia",
+   "geo": [
+    38.307,
+    -77.455
+   ],
+   "aliases": [
+    "Fitzhughs of Bedford",
+    "Fitzhughs of Chatham"
+   ],
+   "origins": "William Fitzhugh (1651–1701), an English lawyer, built a 54,000-acre estate in the Northern Neck, including Ravensworth in Fairfax County. His letters of 1679–1699 are a classic record of a planter building wealth from tobacco and bound labour.",
+   "role_summary": "Fitzhugh's letters show him buying enslaved people and directing his quarters; his 1686 letter offering Bedford for sale lists 29 enslaved people, most 'country born'. His great-grandson William Fitzhugh (1741–1809) had Chatham built by enslaved craftsmen (completed c. 1771); after a 1805 revolt at Chatham, Abraham was executed and Robin and Cupid were sold away.",
+   "roleDetail": [
+    {
+     "t": "Chatham revolt (1805).",
+     "d": "When overseer Starke cut the Christmas holiday short, the enslaved community bound and whipped him; Philip was killed in the suppression, James drowned fleeing, Abraham was hanged and Robin and Cupid transported.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sale of a community.",
+     "d": "Fitzhugh advertised about 230 enslaved people with Chatham in 1797; it took nine years to sell and families were sold off gradually.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bedford letter.",
+     "d": "The 1686 letter's count of 29 enslaved people is widely quoted from the published Fitzhugh letters; it is cited here from that tradition.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Chatham's daughter Mary Lee Fitzhugh married George Washington Parke Custis; their daughter Mary Anna Custis married Robert E. Lee, so Fitzhugh, Custis and Lee estates and enslaved people were joined at Arlington. Chatham is now part of Fredericksburg and Spotsylvania National Military Park.",
+   "legacyDetail": [
+    {
+     "t": "Arlington link.",
+     "d": "Lee's son William Henry Fitzhugh 'Rooney' Lee carried the family name; Ravensworth passed through Fitzhugh heirs to the Lees.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "William Fitzhugh (the immigrant)",
+     "relation": "founder",
+     "years": "1651–1701",
+     "note": "Lawyer, burgess; held 54,000 acres including Ravensworth.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Fitzhugh & William Fitzhugh Jr.",
+     "relation": "sons",
+     "years": "c. 1680s–1740s",
+     "note": "Shared Ravensworth under their father's will.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Fitzhugh of Chatham",
+     "relation": "great-grandson",
+     "years": "1741–1809",
+     "note": "Built Chatham; Continental Congress delegate.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Lee Fitzhugh Custis",
+     "relation": "daughter",
+     "years": "1788–1853",
+     "note": "Married G. W. P. Custis of Arlington.",
+     "id": "custis-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Anna Custis Lee",
+     "relation": "granddaughter",
+     "years": "1807–1873",
+     "note": "Wife of Robert E. Lee.",
+     "id": "robert-e-lee",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented Fitzhugh descendants speak for the family today. Chatham is federal property interpreted by the NPS, including the 1805 revolt.",
+   "placesNamed": [
+    "Ravensworth (historic Fairfax County estate name, now a subdivision)"
+   ],
+   "sources": [
+    {
+     "label": "NPS — Chatham Slave Revolt",
+     "url": "https://www.nps.gov/frsp/learn/historyculture/chatham-slave-revolt.htm"
+    },
+    {
+     "label": "NPS — William Fitzhugh",
+     "url": "https://www.nps.gov/frsp/learn/historyculture/fitzchm.htm"
+    },
+    {
+     "label": "EBSCO Research Starters — William Fitzhugh",
+     "url": "https://ebsco.com/research-starters/history/william-fitzhugh"
+    },
+    {
+     "label": "Wikipedia — William Fitzhugh (1741–1809)",
+     "url": "https://en.wikipedia.org/wiki/William_Fitzhugh"
+    }
+   ],
+   "connections": [
+    {
+     "id": "custis-family",
+     "type": "family",
+     "label": "Mary Lee Fitzhugh m. G. W. P. Custis"
+    },
+    {
+     "id": "robert-e-lee",
+     "type": "family",
+     "label": "Lee's mother-in-law was a Fitzhugh"
+    },
+    {
+     "id": "lee-family-stratford",
+     "type": "family",
+     "label": "Lee–Fitzhugh marriages"
+    },
+    {
+     "id": "plantation-overseers",
+     "type": "parallel",
+     "label": "overseer Starke attacked 1805"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "Washington visited Chatham"
+    }
+   ]
+  },
+  {
+   "id": "george-mason",
+   "name": "George Mason IV",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Gunston Hall says Mason enslaved at least 300 people over his life; he inherited 35 and freed none.",
+   "start": 1746,
+   "end": 1792,
+   "lifespan": "1725–1792",
+   "base": "Gunston Hall, Fairfax County, Virginia",
+   "geo": [
+    38.664,
+    -77.159
+   ],
+   "aliases": [
+    "George Mason of Gunston Hall"
+   ],
+   "origins": "Heir to a Potomac planting family, Mason inherited land and 35 enslaved people from his father. Gunston Hall was built by enslaved and paid workers in 1755–59.",
+   "role_summary": "Mason drafted the Virginia Declaration of Rights (1776) and at the 1787 Convention condemned the foreign slave trade (22 August) and refused to sign the Constitution, partly over its protection of the trade until 1808. Yet he enslaved at least 300 people, listed 36 by name in his 1773 will as property for his children, and freed no one.",
+   "roleDetail": [
+    {
+     "t": "Against the trade, not slavery.",
+     "d": "Encyclopedia Virginia notes he condemned slavery but saw ending imports as disturbing few vested interests — Virginia had a surplus of enslaved people to sell.",
+     "basis": "documented"
+    },
+    {
+     "t": "Will of 1773.",
+     "d": "Named 36 enslaved people to pass, with their 'increase', to his children at 21 or marriage.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "George Mason University (named 1957/1972) dedicated the Enslaved People of George Mason Memorial on 4 April 2022, after student research begun in 2017. Gunston Hall, owned by the Commonwealth, interprets the enslaved community and Mason's contradictions.",
+   "legacyDetail": [
+    {
+     "t": "University memorial.",
+     "d": "The Wilkins Plaza memorial names people Mason enslaved, including children, and sits beside his statue.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "George Mason III",
+     "relation": "father",
+     "years": "1690–1735",
+     "note": "Left his son land and 35 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ann Eilbeck Mason",
+     "relation": "spouse",
+     "years": "1734–1773",
+     "note": "Mother of his nine surviving children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sarah Brent Mason",
+     "relation": "spouse",
+     "years": "m. 1780",
+     "note": "Second wife.",
+     "basis": "documented"
+    },
+    {
+     "name": "Children of George Mason",
+     "relation": "heirs",
+     "years": "1750s–",
+     "note": "Divided enslaved people under his will; no probate inventory survives.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No living descendant is publicly associated with the Mason slaveholding history. The main public reckonings are George Mason University's memorial and Gunston Hall's interpretation.",
+   "placesNamed": [
+    "George Mason University, Fairfax, Virginia",
+    "Mason Neck, Fairfax County",
+    "George Mason Memorial, Washington, D.C."
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — George Mason (1725–1792)",
+     "url": "https://encyclopediavirginia.org/entries/mason-george-1725-1792/"
+    },
+    {
+     "label": "Gunston Hall — George Mason & Slavery",
+     "url": "https://gunstonhall.org/george-mason-slavery/"
+    },
+    {
+     "label": "George Mason University — Enslaved People of George Mason Memorial dedicated (2022)",
+     "url": "https://www.gmu.edu/news/2022-04/enslaved-people-george-mason-memorial-dedicated-landmark-day-university"
+    }
+   ],
+   "connections": [
+    {
+     "id": "gunston-hall",
+     "type": "plantation",
+     "label": "home plantation"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "neighbour and ally"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "opposed 20-year protection of trade"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "Declaration of Rights model"
+    }
+   ]
+  },
+  {
+   "id": "tayloe-family",
+   "name": "Tayloe family of Mount Airy",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Colonial Williamsburg records that 875 people were enslaved by the Tayloes on Mount Airy between 1808 and 1865; skilled enslaved workers also ran their Neabsco and Occoquan ironworks.",
+   "start": 1710,
+   "end": 1865,
+   "lifespan": "1700s–present",
+   "base": "Mount Airy, Richmond County, Virginia",
+   "geo": [
+    37.946,
+    -76.807
+   ],
+   "aliases": [
+    "Tayloes of Mount Airy"
+   ],
+   "origins": "John Tayloe I (1687–1747) built a fortune in land and the Neabsco iron furnace; John Tayloe II (1721–1779) built Mount Airy (c. 1748–58) on the Rappahannock. John Tayloe III (1771–1828) was said to be the richest Virginian of his day and built the Octagon House in Washington.",
+   "role_summary": "Enslaved founders, fillers, miners, colliers and ship carpenters made the Tayloe ironworks profitable until iron production ended around 1800; at Mount Airy they grew tobacco and wheat and kept hogs. The family moved people to Alabama cotton plantations — Winney Grimshaw, born at Mount Airy in 1826, was sent to Alabama as punishment after her father escaped to Canada.",
+   "roleDetail": [
+    {
+     "t": "Industrial slavery.",
+     "d": "Laura Croghan Kamoie's 'Irons in the Fire' (2007) shows enslaved labour underpinned the Tayloe iron business.",
+     "basis": "documented"
+    },
+    {
+     "t": "Forced migration.",
+     "d": "Tayloe heirs shifted enslaved people from Virginia to Alabama plantations in the 1830s–50s.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Mount Airy remains in Tayloe hands — the 10th generation now runs it as a farm and event estate. The family's records underpin Richard Dunn's comparative study 'A Tale of Two Plantations' (2014), which follows Mount Airy's enslaved families.",
+   "legacyDetail": [
+    {
+     "t": "Octagon House.",
+     "d": "Tayloe III's Washington townhouse (built 1799–1801) is now a museum of the American Architectural Foundation; enslaved Tayloe workers lived and laboured there.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Tayloe I",
+     "relation": "founder",
+     "years": "1687–1747",
+     "note": "Planter and ironmaster.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Tayloe II",
+     "relation": "son",
+     "years": "1721–1779",
+     "note": "Built Mount Airy; ran Neabsco and Occoquan works.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Tayloe III",
+     "relation": "grandson",
+     "years": "1771–1828",
+     "note": "Built the Octagon; held hundreds of enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Augustine Tayloe",
+     "relation": "great-grandson",
+     "years": "1808–1903",
+     "note": "Ran Tayloe plantations in Alabama.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Tayloe Emery",
+     "relation": "descendant",
+     "years": "21st c.",
+     "note": "Current steward of Mount Airy.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Mount Airy is still privately owned by Tayloe descendants. John Tayloe Emery, a 10th-generation descendant, is named in the press (Virginia Living, WVTF, HGTV's 'American Rehab: Virginia') as the estate's current steward and restorer.",
+   "today_people": [
+    {
+     "name": "John Tayloe Emery",
+     "relation": "10th-generation Tayloe descendant and steward of Mount Airy (documented in Virginia Living)",
+     "role": "Steward of the Mount Airy estate, Richmond County; leads its restoration, featured on HGTV's 'American Rehab: Virginia'",
+     "sector": "Land & estates",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Virginia Living — Mount Airy",
+      "url": "https://virginialiving.com/?p=7109"
+     }
+    }
+   ],
+   "placesNamed": [
+    "Tayloe House, Williamsburg",
+    "The Octagon (Tayloe House), Washington, D.C."
+   ],
+   "sources": [
+    {
+     "label": "Colonial Williamsburg eMuseum — Mount Airy Mill, Richmond County",
+     "url": "https://emuseum.colonialwilliamsburg.org/objects/94551/mount-airy-mill-richmond-county-virginia"
+    },
+    {
+     "label": "Historical Society of Pennsylvania — Irons in the Fire (Kamoie)",
+     "url": "https://opac.hsp.org/Record/marc-289519/TOC"
+    },
+    {
+     "label": "Wikipedia — John Tayloe III",
+     "url": "https://en.wikipedia.org/wiki/John_Tayloe_III"
+    },
+    {
+     "label": "Mount Airy Farm — About",
+     "url": "https://mountairy.farm/about"
+    }
+   ],
+   "connections": [
+    {
+     "id": "carter-family",
+     "type": "family",
+     "label": "Northern Neck gentry kin"
+    },
+    {
+     "id": "lee-family-stratford",
+     "type": "family",
+     "label": "neighbouring Northern Neck families"
+    },
+    {
+     "id": "catoctin-furnace",
+     "type": "parallel",
+     "label": "enslaved ironworkers"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "parallel",
+     "label": "Upper South to Deep South migration"
+    }
+   ]
+  },
+  {
+   "id": "wormeley-family",
+   "name": "Wormeley family of Rosegill",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Few numbers survive; after Bacon's Rebellion Ralph Wormeley II bought enslaved people imported from the Caribbean, and more than 30 were carried off in a 1781 British raid on Rosegill.",
+   "start": 1650,
+   "end": 1806,
+   "lifespan": "c. 1649–1806",
+   "base": "Rosegill, Middlesex County, Virginia",
+   "geo": [
+    37.611,
+    -76.582
+   ],
+   "aliases": [
+    "Wormeleys of Rosegill"
+   ],
+   "origins": "Ralph Wormeley I moved the family seat to Rosegill on the Rappahannock before his death in 1651. Ralph Wormeley II (1651–1701), Oxford-educated, became secretary of the colony and a Council member.",
+   "role_summary": "Ralph Wormeley II expanded Rosegill and ran several Tidewater plantations with enslaved labour, buying people shipped from the Caribbean in the switch from indentured to enslaved labour after 1676. Later Wormeleys were Loyalists in the Revolution and lost enslaved people to a 1781 British raid.",
+   "roleDetail": [
+    {
+     "t": "Early transition to slavery.",
+     "d": "Wormeley's purchases of Caribbean-shipped Africans illustrate how the Tidewater elite shifted to enslaved labour in the 1680s–90s.",
+     "basis": "documented"
+    },
+    {
+     "t": "1781 raid.",
+     "d": "British raiders looted Rosegill; more than 30 enslaved people were recovered sick with smallpox.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Rosegill survives as a private house on the National Register. The Wormeley line faded after the Revolution; the family is an example of early Council-class wealth built on bound labour.",
+   "legacyDetail": [
+    {
+     "t": "Loyalist decline.",
+     "d": "Ralph Wormeley V's loyalism cost the family political standing after 1776.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Ralph Wormeley I",
+     "relation": "founder",
+     "years": "d. 1651",
+     "note": "Established Rosegill.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ralph Wormeley II",
+     "relation": "son",
+     "years": "1651–1701",
+     "note": "Secretary of the colony; enslaver.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ralph Wormeley IV",
+     "relation": "descendant",
+     "years": "1715–1790",
+     "note": "Ran Rosegill with his son.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ralph Wormeley V",
+     "relation": "descendant",
+     "years": "1744–1806",
+     "note": "Loyalist confined during the war.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Rosegill is privately owned.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Wikipedia — Ralph Wormeley Jr.",
+     "url": "https://en.wikipedia.org/wiki/Ralph_Wormeley_Jr."
+    },
+    {
+     "label": "Virginia Museum of History & Culture — Wormeley Family",
+     "url": "https://virginiahistory.org/learn/historical-book/chapter/wormeley-family"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "parallel",
+     "label": "era of RAC monopoly imports"
+    },
+    {
+     "id": "byrd-family",
+     "type": "parallel",
+     "label": "fellow Council families"
+    },
+    {
+     "id": "carter-family",
+     "type": "parallel",
+     "label": "Rappahannock neighbours"
+    }
+   ]
+  },
+  {
+   "id": "burwell-family",
+   "name": "Burwell family (Fairfield, Carter's Grove)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Carter Burwell held more than 90 enslaved people and 3,000+ acres when Carter's Grove was finished (Encyclopedia Virginia); Lewis Burwell later sold Thomas Nelson Jr. 5,400 acres with enslaved people.",
+   "start": 1650,
+   "end": 1865,
+   "lifespan": "1640s–1830s",
+   "base": "Carter's Grove, James City County, Virginia",
+   "geo": [
+    37.205,
+    -76.63
+   ],
+   "aliases": [
+    "Burwells of Fairfield",
+    "Burwells of Carter's Grove"
+   ],
+   "origins": "The Burwells of Fairfield, Gloucester County, were Council-class planters from the 1600s. Nathaniel Burwell married Elizabeth Carter, daughter of King Carter; their son Carter Burwell (1716–1756) inherited a 1,400-acre tract under King Carter's will.",
+   "role_summary": "Carter Burwell built the brick mansion at Carter's Grove (1751–55) with enslaved labour and held more than 90 people. The family's enslaved workforce supported Fairfield, Carter's Grove and later Shenandoah estates.",
+   "roleDetail": [
+    {
+     "t": "Carter's Grove.",
+     "d": "Named for King Carter, the house is one of Virginia's finest Georgian mansions and was built by enslaved and hired workers.",
+     "basis": "documented"
+    },
+    {
+     "t": "Selling people with land.",
+     "d": "Lewis Burwell sold Thomas Nelson Jr. 5,400 acres and enslaved people during the Revolution.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Carter's Grove later passed to the Rockefeller-funded Colonial Williamsburg Foundation, which reconstructed slave quarters there; it was sold in 2007 to Halsey Minor for $15.3 million, fell into bankruptcy, and was sold in 2014 to Samuel Mencoff for $7.5 million.",
+   "legacyDetail": [
+    {
+     "t": "Interpretation lost and regained.",
+     "d": "Colonial Williamsburg's reconstructed slave quarter at Carter's Grove closed with the sale; the property is now private.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Lewis Burwell II",
+     "relation": "patriarch",
+     "years": "1651–1710",
+     "note": "Council member of Fairfield.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lucy Burwell",
+     "relation": "daughter",
+     "years": "1683–1716",
+     "note": "Courted by Governor Nicholson; married Edmund Berkeley.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nathaniel Burwell & Elizabeth Carter",
+     "relation": "son / spouse",
+     "years": "1680–1721",
+     "note": "Carter marriage brought the Carter's Grove tract.",
+     "id": "robert-king-carter",
+     "basis": "documented"
+    },
+    {
+     "name": "Carter Burwell",
+     "relation": "grandson",
+     "years": "1716–1756",
+     "note": "Built Carter's Grove.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nathaniel Burwell",
+     "relation": "great-grandson",
+     "years": "1750–1814",
+     "note": "Moved to Carter Hall in Clarke County.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented Burwell descendants speak for the family today. Carter's Grove is privately owned under conservation easements.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Carter Burwell (1716–1756)",
+     "url": "https://encyclopediavirginia.org/entries/burwell-carter-1716-1756/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Lucy Burwell (1683–1716)",
+     "url": "https://encyclopediavirginia.org/entries/burwell-lucy-1683-1716/"
+    },
+    {
+     "label": "Wikipedia — Carter's Grove",
+     "url": "https://en.wikipedia.org/wiki/Carter%27s_Grove"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-king-carter",
+     "type": "family",
+     "label": "Carter Burwell's grandfather"
+    },
+    {
+     "id": "nelson-family",
+     "type": "trade",
+     "label": "sold Nelson land and people"
+    },
+    {
+     "id": "page-family",
+     "type": "family",
+     "label": "Burwell–Page marriages"
+    },
+    {
+     "id": "carter-family",
+     "type": "family",
+     "label": "cousins"
+    }
+   ]
+  },
+  {
+   "id": "bolling-family",
+   "name": "Bolling family (Kippax, Cobbs; 'Red Bollings')",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Robert Bolling acquired land through headrights for importing servants and enslaved people (a 1690 grant names 'Tony a negro'); later Bollings were mid-sized Southside and Bedford County enslavers. Totals are not documented here.",
+   "start": 1674,
+   "end": 1865,
+   "lifespan": "1660s–1865",
+   "base": "Kippax Plantation, Prince George County, Virginia",
+   "geo": [
+    37.304,
+    -77.287
+   ],
+   "aliases": [
+    "Red Bollings",
+    "White Bollings"
+   ],
+   "origins": "Robert Bolling (1646–1709), a London-born merchant and part ship-owner, married Jane Rolfe, granddaughter of Pocahontas, in 1674. Their only son John Bolling of Cobbs carried the Pocahontas line; descendants of Robert's second marriage are informally called 'White Bollings'.",
+   "role_summary": "The Bollings were Appomattox River merchants and planters whose land came partly from headrights on imported people. Descent from Pocahontas through the Bollings became a mark of status among Virginia elites — prized even as the same families enslaved Africans and passed racial-integrity laws.",
+   "roleDetail": [
+    {
+     "t": "Headrights on people.",
+     "d": "Robert Bolling's 1690 land grant lists 'Tony a negro' among the people he transported.",
+     "basis": "documented"
+    },
+    {
+     "t": "The Pocahontas exception.",
+     "d": "Virginia's 1924 Racial Integrity Act included a 'Pocahontas exception' to protect elite descendants like the Bollings and Randolphs.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Edith Bolling Galt Wilson (1872–1961), second wife of Woodrow Wilson, was a 'Red Bolling'; her family had enslaved people on its Bedford County plantation before the Civil War, and some formerly enslaved workers moved with them to Wytheville. Her birthplace in Wytheville is a museum.",
+   "legacyDetail": [
+    {
+     "t": "First lady.",
+     "d": "Encyclopedia Virginia notes Edith Bolling Wilson's pride in her Pocahontas descent.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Robert Bolling & Jane Rolfe",
+     "relation": "founders",
+     "years": "1646–1709; d. c. 1676",
+     "note": "Jane was the daughter of Thomas Rolfe, son of Pocahontas.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Bolling of Cobbs",
+     "relation": "son",
+     "years": "1676–1729",
+     "note": "Wealthy planter and burgess.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jane Bolling Randolph",
+     "relation": "granddaughter",
+     "years": "1703–1766",
+     "note": "Married Richard Randolph of Curles; grandmother of John Randolph of Roanoke.",
+     "id": "randolph-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Bolling (poet)",
+     "relation": "great-grandson",
+     "years": "1738–1775",
+     "note": "Planter-poet.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edith Bolling Wilson",
+     "relation": "descendant",
+     "years": "1872–1961",
+     "note": "First Lady 1915–21.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Bolling descendants are numerous and largely private; Pocahontas descent is still claimed by many Virginia families. No living public figure is documented speaking about the family's slaveholding.",
+   "placesNamed": [
+    "Edith Bolling Wilson Birthplace Museum, Wytheville"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Robert Bolling",
+     "url": "https://en.wikipedia.org/wiki/Robert_Bolling"
+    },
+    {
+     "label": "Encyclopedia Virginia — Edith Bolling Galt Wilson (1872–1961)",
+     "url": "https://encyclopediavirginia.org/entries/wilson-edith-bolling-galt-1872-1961/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "randolph-family",
+     "type": "family",
+     "label": "Jane Bolling m. Richard Randolph"
+    },
+    {
+     "id": "john-randolph-of-roanoke",
+     "type": "family",
+     "label": "Bolling descendant"
+    },
+    {
+     "id": "john-tyler",
+     "type": "family",
+     "label": "Tyler's daughter-in-law Sue Ruffin a Pocahontas descendant"
+    }
+   ]
+  },
+  {
+   "id": "john-hartwell-cocke",
+   "name": "John Hartwell Cocke (Bremo)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Taxed for 89 enslaved people aged 12+ in 1816 and 107 in 1830; reported 135 in Virginia and Alabama in 1860 (Encyclopedia Virginia).",
+   "start": 1809,
+   "end": 1865,
+   "lifespan": "1780–1866",
+   "base": "Bremo, Fluvanna County, Virginia",
+   "geo": [
+    37.718,
+    -78.274
+   ],
+   "aliases": [
+    "General Cocke"
+   ],
+   "origins": "From the Cocke planter family of Surry County, he inherited the 3,100-acre Bremo plantation and moved there in 1809. He helped Jefferson found the University of Virginia and sat on its board (1819–56).",
+   "role_summary": "Cocke called slavery a curse and was vice president of the American Colonization Society (1819–66), but freed only those he judged 'qualified' for Liberia. He sent the stonemason Peyton Skipwith and his family to Liberia in 1833, bought an Alabama cotton plantation in the early 1840s as a 'school' for freedom, and by 1860 had approved only 14 people.",
+   "roleDetail": [
+    {
+     "t": "Colonization not abolition.",
+     "d": "His 1841 terms required people to earn their value, renounce alcohol and keep the plan secret before being freed for Liberia.",
+     "basis": "documented"
+    },
+    {
+     "t": "UVA builder.",
+     "d": "Enslaved people including Skipwith quarried stone for UVA buildings under Cocke's oversight.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The letters the Skipwith family sent him from Liberia (1834–65), held at UVA's Small Special Collections Library, are among the fullest records left by a formerly enslaved family. UVA's Cocke Hall bears his name.",
+   "legacyDetail": [
+    {
+     "t": "Letters archive.",
+     "d": "Published as 'Dear Master: Letters of a Slave Family' (ed. Randall M. Miller, 1978).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Ann Blaws Barraud Cocke",
+     "relation": "spouse",
+     "years": "d. 1816",
+     "note": "First wife.",
+     "basis": "documented"
+    },
+    {
+     "name": "Louisa Maxwell Holmes Cocke",
+     "relation": "spouse",
+     "years": "d. 1843",
+     "note": "Second wife; also active in colonization.",
+     "basis": "documented"
+    },
+    {
+     "name": "Peyton Skipwith",
+     "relation": "enslaved stonemason",
+     "years": "fl. 1820s–1840s",
+     "note": "Freed and sent to Liberia in 1833.",
+     "id": "peyton-skipwith",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants speak for the Cocke family. Bremo remains a private estate and National Historic Landmark.",
+   "placesNamed": [
+    "Cocke Hall, University of Virginia",
+    "Bremo Bluff, Fluvanna County"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — John Hartwell Cocke (1780–1866)",
+     "url": "https://encyclopediavirginia.org/entries/cocke-john-hartwell-1780-1866/"
+    },
+    {
+     "label": "UVA Library Small Notes — Letters from Liberia",
+     "url": "https://smallnotes.library.virginia.edu/tag/liberia/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "peyton-skipwith",
+     "type": "plantation",
+     "label": "enslaved Skipwith family"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "co-founder of UVA"
+    },
+    {
+     "id": "james-madison",
+     "type": "political",
+     "label": "fellow ACS leader"
+    },
+    {
+     "id": "james-monroe",
+     "type": "parallel",
+     "label": "colonization to Liberia"
+    }
+   ]
+  },
+  {
+   "id": "peyton-skipwith",
+   "name": "Peyton Skipwith",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Known through more than 200 letters (1834–65) by him and his children, held at UVA and published as 'Dear Master' (1978).",
+   "start": 1800,
+   "end": 1833,
+   "lifespan": "fl. 1820s–1840s",
+   "base": "Bremo, Fluvanna County, Virginia → Monrovia, Liberia",
+   "geo": [
+    6.3,
+    -10.797
+   ],
+   "aliases": [],
+   "origins": "Born enslaved on John Hartwell Cocke's Bremo estate, Skipwith became a skilled stonemason who quarried and cut stone for University of Virginia buildings.",
+   "role_summary": "Cocke freed Skipwith and his family in 1833 on condition they emigrate to Liberia under the American Colonization Society. His wife and a daughter died within the first year; Skipwith wrote frankly to Cocke about disease, hunger, conflict with local peoples and the colony's politics.",
+   "roleDetail": [
+    {
+     "t": "Freedom by exile.",
+     "d": "Like many manumissions of the era, freedom required leaving the United States.",
+     "basis": "documented"
+    },
+    {
+     "t": "A family's voice.",
+     "d": "His daughter Diana Skipwith and other relatives continued the correspondence to 1865.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Skipwith letters are a core source on Americo-Liberian settlement.",
+   "legacyDetail": [
+    {
+     "t": "Published letters.",
+     "d": "Randall M. Miller's edition 'Dear Master' (UGA Press) keeps the letters in print.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Hartwell Cocke",
+     "relation": "enslaver",
+     "years": "1780–1866",
+     "note": "Freed the family for Liberia in 1833.",
+     "id": "john-hartwell-cocke",
+     "basis": "documented"
+    },
+    {
+     "name": "Skipwith children",
+     "relation": "children",
+     "years": "1830s–1860s",
+     "note": "Settled in Liberia; continued writing to Bremo.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced in public sources consulted.",
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — John Hartwell Cocke",
+     "url": "https://encyclopediavirginia.org/entries/cocke-john-hartwell-1780-1866/"
+    },
+    {
+     "label": "UGA Press — Dear Master: Letters of a Slave Family",
+     "url": "https://ugapress.org/book/9780820323794/dear-master"
+    },
+    {
+     "label": "UVA Library Small Notes — Letters from Liberia",
+     "url": "https://smallnotes.library.virginia.edu/tag/liberia/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "john-hartwell-cocke",
+     "type": "plantation",
+     "label": "enslaved at Bremo"
+    },
+    {
+     "id": "james-monroe",
+     "type": "parallel",
+     "label": "settled near Monrovia"
+    }
+   ]
+  },
+  {
+   "id": "lee-family-stratford",
+   "name": "Lee family of Stratford Hall",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "About 200 enslaved people lived at Stratford and other Thomas Lee properties by c. 1742 (Stratford Hall); Philip Ludwell Lee left 137 to his heirs in 1775 (Encyclopedia Virginia).",
+   "start": 1717,
+   "end": 1865,
+   "lifespan": "1717–1822 at Stratford",
+   "base": "Stratford Hall, Westmoreland County, Virginia",
+   "geo": [
+    38.148,
+    -76.84
+   ],
+   "aliases": [
+    "Lees of Stratford"
+   ],
+   "origins": "Thomas Lee (1690–1750), acting governor and founder of the Ohio Company, bought the Stratford land in 1717 and built the Great House c. 1738–early 1740s. In 1738 the ship Liverpool Merchant brought 70 enslaved Africans to the Potomac for sale; some may have been bought to build it.",
+   "role_summary": "Enslaved people made bricks, built and ran Stratford, worked its fields and served in the house. Thomas Lee's sons Richard Henry Lee and Francis Lightfoot Lee signed the Declaration; in 1769 Richard Henry helped launch a boycott that included 'slaves from Africa and the West Indies' while the family kept enslaving people at home.",
+   "roleDetail": [
+    {
+     "t": "Philip Ludwell Lee's 137.",
+     "d": "He bequeathed 137 enslaved workers in 1775; the 1860 census still counted 31 at Stratford.",
+     "basis": "documented"
+    },
+    {
+     "t": "Debt and sale.",
+     "d": "Henry Lee IV sold Stratford in 1822 after embezzling from his ward; it was later auctioned.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Robert E. Lee Memorial Association bought Stratford in 1929 for $240,000 and runs it as a museum that now researches and names the enslaved community; in 2023 it held public events honouring the people who built the Lees' wealth.",
+   "legacyDetail": [
+    {
+     "t": "Reinterpretation.",
+     "d": "WVTF reported in 2023 on Stratford's work to centre enslaved people in tours.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Lee",
+     "relation": "founder",
+     "years": "1690–1750",
+     "note": "Built Stratford.",
+     "basis": "documented"
+    },
+    {
+     "name": "Philip Ludwell Lee",
+     "relation": "son",
+     "years": "1727–1775",
+     "note": "Left 137 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Henry Lee",
+     "relation": "son",
+     "years": "1732–1794",
+     "note": "Moved the Lee Resolution for independence (1776).",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry 'Light-Horse Harry' Lee III & Anne Hill Carter",
+     "relation": "kin by marriage",
+     "years": "1756–1818",
+     "note": "Lived at Stratford; parents of Robert E. Lee.",
+     "id": "carter-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert E. Lee",
+     "relation": "son of Henry Lee III",
+     "years": "1807–1870",
+     "note": "Born at Stratford 19 January 1807.",
+     "id": "robert-e-lee",
+     "basis": "documented"
+    }
+   ],
+   "today": "Lee descendants are numerous; most are private. The family's public memory is managed by Stratford Hall's association, not by family members.",
+   "placesNamed": [
+    "Lee County, Virginia (for Henry Lee III)",
+    "Leesburg, Virginia (for the Lee family)"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Stratford Hall",
+     "url": "https://encyclopediavirginia.org/entries/stratford-hall/"
+    },
+    {
+     "label": "Stratford Hall — Enslaved Africans and African Americans at Stratford",
+     "url": "https://www.stratfordhall.org/enslavedcommunity/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Richard Henry Lee (1732–1794)",
+     "url": "https://encyclopediavirginia.org/entries/lee-richard-henry-1732-1794/"
+    },
+    {
+     "label": "WVTF — Stratford Hall honors the enslaved hands (2023)",
+     "url": "https://www.wvtf.org/2023-07-27/stratford-hall-honors-the-enslaved-hands-who-built-the-lee-familys-plantation-and-its-wealth"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-e-lee",
+     "type": "family",
+     "label": "born at Stratford"
+    },
+    {
+     "id": "carter-family",
+     "type": "family",
+     "label": "Anne Hill Carter m. Henry Lee III"
+    },
+    {
+     "id": "fitzhugh-family",
+     "type": "family",
+     "label": "Lee–Fitzhugh–Custis ties"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool Merchant cargo 1738"
+    },
+    {
+     "id": "custis-family",
+     "type": "family",
+     "label": "Lee married a Custis"
+    }
+   ]
+  },
+  {
+   "id": "james-madison",
+   "name": "James Madison",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Madison enslaved more than 100 people (Encyclopedia Virginia); Montpelier counts about 300 people enslaved there across the Madison years.",
+   "start": 1769,
+   "end": 1836,
+   "lifespan": "1751–1836",
+   "base": "Montpelier, Orange County, Virginia",
+   "geo": [
+    38.218,
+    -78.168
+   ],
+   "aliases": [
+    "Father of the Constitution"
+   ],
+   "origins": "Eldest son of a Piedmont planting family, Madison grew up at Montpelier, which his grandparents had settled with enslaved workers in the 1720s. He inherited the estate and its enslaved community.",
+   "role_summary": "Madison defended the three-fifths clause in Federalist No. 54, served as fourth president (1809–17) with enslaved staff such as Paul Jennings in the White House, and became president of the American Colonization Society in 1833. He sold 16 enslaved people to a relative in Louisiana in 1834 to pay debts and freed no one; after his death Dolley Madison sold Montpelier in 1844 and split up the community.",
+   "roleDetail": [
+    {
+     "t": "No manumission.",
+     "d": "Despite calling slavery an evil, he did not free the people he enslaved and doubted Black and white Americans could live together free.",
+     "basis": "documented"
+    },
+    {
+     "t": "1844 break-up.",
+     "d": "Dolley transferred some 50 enslaved people to her son John Payne Todd, sold others with the estate and to dealers.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Montpelier, owned by the National Trust and run by the Montpelier Foundation, opened 'The Mere Distinction of Colour' exhibit (2017) and in 2021–22 committed to 'structural parity' with descendants of the enslaved on its board — a first among presidential sites.",
+   "legacyDetail": [
+    {
+     "t": "Descendant parity.",
+     "d": "After a March 2022 reversal drew criticism from the National Trust, the board elected 11 members nominated by the Montpelier Descendants Committee.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "James Madison Sr.",
+     "relation": "father",
+     "years": "1723–1801",
+     "note": "Largest landholder in Orange County; left Montpelier and its enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dolley Payne Todd Madison",
+     "relation": "spouse",
+     "years": "1768–1849",
+     "note": "Sold Montpelier and enslaved people to meet debts after 1836.",
+     "basis": "documented"
+    },
+    {
+     "name": "Paul Jennings",
+     "relation": "enslaved valet",
+     "years": "1799–1874",
+     "note": "Wrote the first White House memoir.",
+     "id": "paul-jennings",
+     "basis": "documented"
+    },
+    {
+     "name": "John Payne Todd",
+     "relation": "stepson",
+     "years": "1792–1852",
+     "note": "Received and sold enslaved people from Montpelier.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Madison had no biological children. Montpelier shares governance with descendants of the people enslaved there, organised as the Montpelier Descendants Committee.",
+   "placesNamed": [
+    "James Madison University, Harrisonburg",
+    "Madison, Wisconsin",
+    "Madison County, Virginia",
+    "Madison Square, New York"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — James Madison (1751–1836)",
+     "url": "https://encyclopediavirginia.org/entries/madison-james-1751-1836/"
+    },
+    {
+     "label": "Montpelier — The Naming Project",
+     "url": "https://www.montpelier.org/projects/the-naming-project/"
+    },
+    {
+     "label": "National Trust — Statement on the Montpelier Foundation and Descendants Committee (2022)",
+     "url": "https://savingplaces.org/statement-conflict-montpelier-foundation-and-montpelier-descendants-committee"
+    },
+    {
+     "label": "History News Network — Montpelier board appoints 11 descendant-nominated members (2022)",
+     "url": "https://hnn.us/article/183176"
+    }
+   ],
+   "connections": [
+    {
+     "id": "montpelier",
+     "type": "plantation",
+     "label": "home plantation"
+    },
+    {
+     "id": "paul-jennings",
+     "type": "plantation",
+     "label": "enslaved valet"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "closest ally"
+    },
+    {
+     "id": "james-monroe",
+     "type": "political",
+     "label": "Virginia dynasty"
+    },
+    {
+     "id": "john-hartwell-cocke",
+     "type": "political",
+     "label": "colonization movement"
+    }
+   ]
+  },
+  {
+   "id": "paul-jennings",
+   "name": "Paul Jennings",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Author of 'A Colored Man's Reminiscences of James Madison' (1863/1865), considered the first White House memoir; well documented by Montpelier and the White House Historical Association.",
+   "start": 1799,
+   "end": 1847,
+   "lifespan": "1799–1874",
+   "base": "Montpelier, Virginia; Washington, D.C.",
+   "geo": [
+    38.218,
+    -78.168
+   ],
+   "aliases": [],
+   "origins": "Born enslaved at Montpelier in 1799, Jennings was taken to the President's House as a footman in 1809, aged ten.",
+   "role_summary": "He was present when the White House was evacuated on 24 August 1814 and said he and others saved Gilbert Stuart's Washington portrait. As Madison's valet from about 1820 he witnessed Madison's death in 1836. Dolley Madison's 1841 will promised freedom, but she sold him in 1846; Senator Daniel Webster bought his freedom in 1847, and he likely helped plan the 1848 'Pearl' escape attempt.",
+   "roleDetail": [
+    {
+     "t": "Sold despite a promise.",
+     "d": "Sold to Pollard Webb for $200 in 1846; Webster paid $120 and Jennings worked off the rest.",
+     "basis": "documented"
+    },
+    {
+     "t": "Pearl escape.",
+     "d": "77 enslaved people tried to flee Washington on the schooner Pearl on 15 April 1848; authorities never learned of Jennings's role.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His sons John, Franklin and William served in the Union army. His descendants held a reunion at Montpelier and toured the White House on 24 August 2009, the 195th anniversary of the portrait's rescue.",
+   "legacyDetail": [
+    {
+     "t": "2009 reunion.",
+     "d": "NPR reported a dozen or more descendants posing before the portrait Jennings helped save.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "James Madison",
+     "relation": "enslaver",
+     "years": "1751–1836",
+     "note": "Jennings served him for decades.",
+     "id": "james-madison",
+     "basis": "documented"
+    },
+    {
+     "name": "Fanny Gordon Jennings",
+     "relation": "spouse",
+     "years": "m. 1822; d. 1844",
+     "note": "Mother of five children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Daniel Webster",
+     "relation": "purchaser",
+     "years": "1782–1852",
+     "note": "Bought and freed him in 1847.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jennings descendants",
+     "relation": "descendants",
+     "years": "20th–21st c.",
+     "note": "Reunited at Montpelier and the White House in 2009.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Jennings's descendants are an organised presence in Montpelier's descendant community; about a dozen visited the White House in 2009 to see the Washington portrait he helped save. Descendant A. Raleigh Marshall, who learned of the link in 2008, speaks publicly about it and sits on an advisory board at James Madison University.",
+   "today_people": [
+    {
+     "name": "A. Raleigh Marshall",
+     "relation": "great-great-great-grandson of Paul Jennings via his great-grandmother Pauline Jennings Marshall (per JMU)",
+     "role": "Member of the External Advisory Board of JMU's James Madison Center for Civic Engagement; speaks publicly about his descent from Jennings",
+     "sector": "Advocacy & repair",
+     "year": 2020,
+     "basis": "documented",
+     "source": {
+      "label": "James Madison University — A. Raleigh Marshall (Madison Center External Advisory Board)",
+      "url": "https://www.jmu.edu/civic/people/ext-advisory-board/marshall-a-raleigh.shtml"
+     }
+    }
+   ],
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Paul Jennings (1799–1874)",
+     "url": "https://encyclopediavirginia.org/entries/jennings-paul-1799-1874/"
+    },
+    {
+     "label": "NPR — Descendants of Madison's slave visit White House (2009)",
+     "url": "https://www.npr.org/sections/thetwo-way/2009/08/descendants_of_the_slave_who_s.html"
+    },
+    {
+     "label": "Smithsonian — Witness to History",
+     "url": "https://www.smithsonianmag.com/history/witness-to-history-7507369/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "james-madison",
+     "type": "plantation",
+     "label": "enslaved by Madison"
+    },
+    {
+     "id": "montpelier",
+     "type": "plantation",
+     "label": "born at Montpelier"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "parallel",
+     "label": "helped plan Pearl escape"
+    },
+    {
+     "id": "william-lee",
+     "type": "parallel",
+     "label": "another presidential valet"
+    }
+   ]
+  },
+  {
+   "id": "james-monroe",
+   "name": "James Monroe",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documents show Monroe enslaved at least 178 people over his life; the 1810 census counted 49 adults at Highland; in 1828 he sold 17 to Florida (Encyclopedia Virginia).",
+   "start": 1786,
+   "end": 1831,
+   "lifespan": "1758–1831",
+   "base": "Highland, Albemarle County, Virginia",
+   "geo": [
+    37.983,
+    -78.454
+   ],
+   "aliases": [],
+   "origins": "Son of a modest Westmoreland County planter, Monroe built Highland next to Jefferson's Monticello in the 1790s. As governor in 1800 he oversaw the suppression and executions after Gabriel's planned revolt.",
+   "role_summary": "Monroe was fifth president (1817–25) and a backer of the American Colonization Society; Liberia's capital, Monrovia, was named for him. Chronically in debt, he sold 17 members of Highland's enslaved community to Colonel Joseph White's Casa Bianca cotton plantation in Jefferson County, Florida, in 1828, and others locally.",
+   "roleDetail": [
+    {
+     "t": "Gabriel's conspiracy.",
+     "d": "As governor he directed the response to the 1800 plot; about 26 men, including Gabriel, were hanged.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sale to Florida.",
+     "d": "The 17 people sold in 1828 stayed together as families at Casa Bianca beyond the Civil War.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "William & Mary has owned Highland since 1974; since 2017 it has worked with descendants and in 2019 formed a Council of Descendant Advisors. Descendants of people Monroe sold or enslaved live in Monroetown near Highland and in Florida.",
+   "legacyDetail": [
+    {
+     "t": "Descendant council.",
+     "d": "Highland's advisors shape exhibits and research, including the 'Take Them In Families' project on the 1828 sale.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Elizabeth Kortright Monroe",
+     "relation": "spouse",
+     "years": "1768–1830",
+     "note": "New York-born wife.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gabriel",
+     "relation": "rebel executed under his governorship",
+     "years": "1776–1800",
+     "note": "Leader of the 1800 conspiracy.",
+     "id": "gabriel-prosser",
+     "basis": "documented"
+    },
+    {
+     "name": "Joseph White",
+     "relation": "buyer",
+     "years": "fl. 1828",
+     "note": "Bought 17 people for Casa Bianca, Florida.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No living Monroe descendant is publicly associated with Highland. Descendants of the enslaved community are formal advisers to the site.",
+   "placesNamed": [
+    "Monrovia, Liberia",
+    "Monroe County, West Virginia",
+    "Monroe, Michigan",
+    "Monroe Doctrine"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Highland",
+     "url": "https://encyclopediavirginia.org/entries/highland/"
+    },
+    {
+     "label": "William & Mary — James Monroe's Highland",
+     "url": "https://www.wm.edu/offices/sustainability/news/james-monroes-highland-a-center-for-historical-education-and-research-campus-for-william-mary-students.php"
+    },
+    {
+     "label": "NPR — A former plantation begins to tell a fuller story (2018)",
+     "url": "https://www.npr.org/2018/12/09/672349672/a-former-plantation-begins-to-tell-a-fuller-story-of-slavery-in-america"
+    }
+   ],
+   "connections": [
+    {
+     "id": "gabriel-prosser",
+     "type": "political",
+     "label": "suppressed Gabriel's 1800 plot"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "neighbour and mentor"
+    },
+    {
+     "id": "james-madison",
+     "type": "political",
+     "label": "Virginia dynasty"
+    },
+    {
+     "id": "peyton-skipwith",
+     "type": "parallel",
+     "label": "Liberia settlement"
+    }
+   ]
+  },
+  {
+   "id": "john-tyler",
+   "name": "John Tyler",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Census counts: 24 enslaved at Greenway (1820), 46 at Sherwood Forest (1850), 43 (1860); Julia Tyler described 60–70 in 1844 (Sherwood Forest).",
+   "start": 1813,
+   "end": 1862,
+   "lifespan": "1790–1862",
+   "base": "Sherwood Forest, Charles City County, Virginia",
+   "geo": [
+    37.323,
+    -77.02
+   ],
+   "aliases": [
+    "His Accidency"
+   ],
+   "origins": "Son of Governor John Tyler Sr. of Greenway, Charles City County, he inherited enslaved people and became governor, senator, vice president and, on William Henry Harrison's death in 1841, tenth president.",
+   "role_summary": "A lifelong enslaver who called slavery a 'necessary evil', Tyler argued that spreading slavery west would 'diffuse' it; he signed the 1845 annexation of Texas as a slave state. He sold people including Ned (1857, $1,200), voted for secession and was elected to the Confederate Congress before dying in January 1862, having freed no one.",
+   "roleDetail": [
+    {
+     "t": "Texas annexation.",
+     "d": "Secretary of State Calhoun openly linked annexation to slavery; Tyler signed the joint resolution in March 1845.",
+     "basis": "documented"
+    },
+    {
+     "t": "Named people.",
+     "d": "Sherwood Forest's own research names more than 40 people, including the Short, Black and Hall families; Roscius Short escaped and joined the 1st U.S. Colored Cavalry.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Sherwood Forest has stayed in the Tyler family; Harrison Ruffin Tyler (1928–2025), the president's grandson and co-founder of ChemTreat, bought it from cousins in 1975 and restored it. It is now held by a private Tyler family foundation that has published research on the people Tyler enslaved.",
+   "legacyDetail": [
+    {
+     "t": "William & Mary renaming.",
+     "d": "In 2021 W&M renamed its history department from Lyon G. Tyler (the president's son, a Confederacy apologist) to Harrison Ruffin Tyler, its donor.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Tyler Sr.",
+     "relation": "father",
+     "years": "1747–1813",
+     "note": "Governor; left Greenway and enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Letitia Christian Tyler",
+     "relation": "spouse",
+     "years": "1790–1842",
+     "note": "First wife; eight children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Julia Gardiner Tyler",
+     "relation": "spouse",
+     "years": "1820–1889",
+     "note": "Second wife; defended slavery in print (1853).",
+     "basis": "documented"
+    },
+    {
+     "name": "Lyon Gardiner Tyler",
+     "relation": "son",
+     "years": "1853–1935",
+     "note": "President of William & Mary; Lost Cause historian.",
+     "basis": "documented"
+    },
+    {
+     "name": "Harrison Ruffin Tyler",
+     "relation": "grandson",
+     "years": "1928–2025",
+     "note": "Chemical engineer and philanthropist who restored Sherwood Forest.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Sherwood Forest is held by the Sherwood Forest Plantation Foundation, a private Tyler family foundation whose executive director said after his death that 'nothing will be changing about that'. Harrison Ruffin Tyler, the president's last surviving grandson, died on 25 May 2025 aged 96. The site publishes research naming the people Tyler enslaved.",
+   "today_people": [
+    {
+     "name": "Harrison Ruffin Tyler",
+     "relation": "grandson of President John Tyler (documented in AP/NPR obituaries)",
+     "role": "Co-founder of ChemTreat; bought Sherwood Forest from relatives in 1975 and restored it (1928–2025, died 25 May 2025)",
+     "sector": "Land & estates",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "NPR via KUNC — Harrison Ruffin Tyler dies at 96 (2025)",
+      "url": "https://www.kunc.org/npr-news/2025-05-29/harrison-ruffin-tyler-grandson-of-the-10th-u-s-president-dies-at-96"
+     }
+    }
+   ],
+   "placesNamed": [
+    "Tyler, Texas",
+    "Tyler County, Texas"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — John Tyler (1790–1862)",
+     "url": "https://encyclopediavirginia.org/entries/tyler-john-1790-1862/"
+    },
+    {
+     "label": "Sherwood Forest — Slavery at Sherwood Forest",
+     "url": "https://www.sherwoodforest.org/slavery"
+    },
+    {
+     "label": "President John Tyler's Enslaved Households — About John Tyler",
+     "url": "https://presidentjohntylersenslavedhouseholds.com/about-john-tyler"
+    },
+    {
+     "label": "NPR via KUNC — Harrison Ruffin Tyler obituary (2025)",
+     "url": "https://www.kunc.org/npr-news/2025-05-29/harrison-ruffin-tyler-grandson-of-the-10th-u-s-president-dies-at-96"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sherwood-forest-plantation",
+     "type": "plantation",
+     "label": "home plantation"
+    },
+    {
+     "id": "harrison-family",
+     "type": "political",
+     "label": "vice president to W. H. Harrison"
+    },
+    {
+     "id": "shockoe-bottom-slave-market",
+     "type": "trade",
+     "label": "Richmond market"
+    },
+    {
+     "id": "berkeley-plantation",
+     "type": "parallel",
+     "label": "Charles City neighbour"
+    }
+   ]
+  },
+  {
+   "id": "patrick-henry",
+   "name": "Patrick Henry",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "He held 67 enslaved people at Red Hill at his death in 1799, and about 45 more on other holdings (Red Hill; Jefferson School/PHS research).",
+   "start": 1754,
+   "end": 1799,
+   "lifespan": "1736–1799",
+   "base": "Red Hill, Charlotte County, Virginia",
+   "geo": [
+    37.05,
+    -78.946
+   ],
+   "aliases": [
+    "Give me liberty"
+   ],
+   "origins": "Son of a Hanover County planter, Henry received six enslaved people and the Pine Slash farm as his wife Sarah Shelton's dowry in 1754. He became Virginia's most famous orator and its first post-colonial governor.",
+   "role_summary": "In 1773 Henry wrote, 'Would anyone believe I am the master of slaves of my own purchase... I will not, I cannot justify it' — yet kept buying and holding people. At Scotchtown his mentally ill wife was confined in a basement room cared for by an enslaved woman. His will let his widow choose 20 enslaved people and divided the other 47 among heirs.",
+   "roleDetail": [
+    {
+     "t": "Words versus practice.",
+     "d": "His 1773 admission that slavery was wrong did not lead to any manumission.",
+     "basis": "documented"
+    },
+    {
+     "t": "Division at death.",
+     "d": "Red Hill research traces how Dorothea Henry's household of enslaved people was later split up as she remarried and moved.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Red Hill (Patrick Henry National Memorial) and Scotchtown now research and name the people Henry enslaved, including the 'Fractured Community' programme on Dorothea Henry Winston's enslaved households.",
+   "legacyDetail": [
+    {
+     "t": "Namesakes.",
+     "d": "Henry and Patrick counties in Virginia, Patrick Henry College and many schools bear his name.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Sarah Shelton Henry",
+     "relation": "spouse",
+     "years": "1738–1775",
+     "note": "Her dowry included six enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dorothea Dandridge Henry",
+     "relation": "spouse",
+     "years": "1755–1831",
+     "note": "Chose 20 enslaved people under his will.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Henry has many descendants, mostly private; no public figure is documented speaking for the family. Red Hill and Scotchtown lead public reckoning.",
+   "placesNamed": [
+    "Henry County, Virginia",
+    "Patrick County, Virginia",
+    "Patrick Henry College, Purcellville"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Patrick Henry (1736–1799)",
+     "url": "https://encyclopediavirginia.org/entries/henry-patrick-1736-1799/"
+    },
+    {
+     "label": "Patrick Henry's Red Hill",
+     "url": "https://www.redhill.org/?p=679"
+    },
+    {
+     "label": "Preservation Virginia / Scotchtown — enslaved community article (PDF)",
+     "url": "https://jsdp.enslaved.org/assets/downloaded/40-59-43/PHS-Article-20221221.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "revolutionary peer"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "rival"
+    },
+    {
+     "id": "george-mason",
+     "type": "political",
+     "label": "anti-Federalist ally"
+    }
+   ]
+  },
+  {
+   "id": "george-wythe",
+   "name": "George Wythe",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A small enslaver who began freeing people after 1787 and owned none at his death (Encyclopedia Virginia).",
+   "start": 1755,
+   "end": 1797,
+   "lifespan": "1726/27–1806",
+   "base": "Williamsburg, later Richmond, Virginia",
+   "geo": [
+    37.271,
+    -76.703
+   ],
+   "aliases": [
+    "Chancellor Wythe"
+   ],
+   "origins": "A Tidewater lawyer, Wythe was Jefferson's law teacher, a signer of the Declaration and America's first law professor (William & Mary, 1780–89).",
+   "role_summary": "Wythe enslaved household workers, including some inherited from his wife, but after her death in 1787 freed Lydia Broadnax and later Benjamin (1797) and others, paying those who stayed. As chancellor he ruled in Hudgins v. Wrights (1806) that freedom was the presumption, a ruling overturned on appeal. He and the free youth Michael Brown, whom he was tutoring, were poisoned in 1806.",
+   "roleDetail": [
+    {
+     "t": "Manumitter.",
+     "d": "He freed Lydia Broadnax in 1787 and Benjamin in 1797; he owned no one at his death.",
+     "basis": "documented"
+    },
+    {
+     "t": "Testimony barred.",
+     "d": "Broadnax survived the poisoning but Virginia law barred Black testimony against a white defendant, and his great-nephew Sweeney was acquitted of murder.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Wythe is remembered as an anti-slavery jurist; William & Mary's law school is named for him and the Wythe House is a Colonial Williamsburg landmark.",
+   "legacyDetail": [
+    {
+     "t": "Namesakes.",
+     "d": "Wythe County and Wytheville, Virginia, and William & Mary Law School's Wythe name.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Elizabeth Taliaferro Wythe",
+     "relation": "spouse",
+     "years": "d. 1787",
+     "note": "Brought enslaved people, including Lydia Broadnax, to the marriage.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Jefferson",
+     "relation": "student",
+     "years": "1743–1826",
+     "note": "Read law under Wythe.",
+     "id": "thomas-jefferson",
+     "basis": "documented"
+    },
+    {
+     "name": "Michael Brown",
+     "relation": "ward / pupil",
+     "years": "c. 1790–1806",
+     "note": "Free youth tutored by Wythe; poisoned with him.",
+     "id": "michael-brown-wythe",
+     "basis": "documented"
+    },
+    {
+     "name": "George Wythe Sweeney Jr.",
+     "relation": "great-nephew",
+     "years": "fl. 1806",
+     "note": "Accused poisoner; acquitted of murder, convicted of forgery.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Wythe left no children. No publicly documented descendants.",
+   "placesNamed": [
+    "Wythe County, Virginia",
+    "Wytheville, Virginia",
+    "William & Mary Law School (Marshall-Wythe)"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — George Wythe (1726 or 1727–1806)",
+     "url": "https://encyclopediavirginia.org/entries/wythe-george-1726-or-1727-1806/"
+    },
+    {
+     "label": "Encyclopedia Virginia — The Death of George Wythe (1806)",
+     "url": "https://encyclopediavirginia.org/entries/wythe-the-death-of-george-1806/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "michael-brown-wythe",
+     "type": "family",
+     "label": "household ward"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "Jefferson's teacher"
+    },
+    {
+     "id": "john-randolph-of-roanoke",
+     "type": "parallel",
+     "label": "Virginia manumission"
+    }
+   ]
+  },
+  {
+   "id": "michael-brown-wythe",
+   "name": "Michael Brown (of the Wythe household)",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Known from the 1806 poisoning case records and press reports collected by Encyclopedia Virginia.",
+   "start": 1790,
+   "end": 1806,
+   "lifespan": "c. 1790–1806",
+   "base": "Richmond, Virginia",
+   "geo": [
+    37.541,
+    -77.434
+   ],
+   "aliases": [],
+   "origins": "A free African American youth living in George Wythe's Richmond household, where Wythe tutored him in Latin and Greek.",
+   "role_summary": "Brown, Wythe and Lydia Broadnax fell ill after breakfast on 25 May 1806; Brown died on 1 June and Wythe on 8 June. The indictment for Brown's murder was quashed without trial, and Sweeney was acquitted of Wythe's murder — a case widely blamed on the ban on Black testimony.",
+   "roleDetail": [
+    {
+     "t": "No justice.",
+     "d": "No one was tried for his death.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His story is told in Encyclopedia Virginia's primary-source collection on Wythe's death and in histories of Black education in early Richmond.",
+   "legacyDetail": [
+    {
+     "t": "Remembered with Wythe.",
+     "d": "Accounts of Wythe's death now name Brown and Broadnax as victims.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "George Wythe",
+     "relation": "guardian / teacher",
+     "years": "1726/27–1806",
+     "note": "Taught him classics.",
+     "id": "george-wythe",
+     "basis": "documented"
+    },
+    {
+     "name": "Lydia Broadnax",
+     "relation": "household member",
+     "years": "fl. 1787–1806",
+     "note": "Freed in 1787; survived the poisoning.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants.",
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — The Death of George Wythe (1806)",
+     "url": "https://encyclopediavirginia.org/entries/wythe-the-death-of-george-1806/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Trial of George Wythe Sweeney (1806)",
+     "url": "https://encyclopediavirginia.org/entries/trial-of-george-wythe-sweeney-june-2-and-23-1806/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-wythe",
+     "type": "family",
+     "label": "Wythe household"
+    }
+   ]
+  },
+  {
+   "id": "robert-lumpkin",
+   "name": "Robert Lumpkin",
+   "category": "American Families",
+   "role": "Broker & Agent",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Only one partial ledger (1849–50, at the Valentine) survives, so the number of people held at his jail is unknown; it was among Richmond's best-known slave jails.",
+   "start": 1844,
+   "end": 1865,
+   "lifespan": "c. 1808–1866",
+   "base": "Lumpkin's Jail, Shockoe Bottom, Richmond",
+   "geo": [
+    37.535,
+    -77.432
+   ],
+   "aliases": [],
+   "origins": "A slave trader active in the Richmond trade, Lumpkin bought the Wall Street jail complex from the Bank of Virginia on 27 November 1844 for $6,000.",
+   "role_summary": "Lumpkin bought and sold people himself and charged other traders and owners a daily fee to hold captives in his jail, with a boardinghouse for clients. Anthony Burns, returned from Boston under the Fugitive Slave Act, was held there about four months in 1854. Lumpkin had five or more children with Mary, a woman he enslaved, and sent them north for education.",
+   "roleDetail": [
+    {
+     "t": "Holding pen of the market.",
+     "d": "The complex — called 'the Devil's Half Acre' — held people awaiting sale in Shockoe's auction rooms.",
+     "basis": "documented"
+    },
+    {
+     "t": "Anthony Burns.",
+     "d": "Burns's months in Lumpkin's jail left him crippled and ill.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "After his death in 1866 Mary Lumpkin leased the jail to Rev. Nathaniel Colver, whose 1867 school there became Virginia Union University. The site was excavated in 2005–08 and is planned as the centre of Richmond's Shockoe memorial and National Slavery Museum.",
+   "legacyDetail": [
+    {
+     "t": "From jail to university.",
+     "d": "VUU traces its origins to classes held in the former jail.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Mary Lumpkin",
+     "relation": "enslaved partner / widow",
+     "years": "fl. 1840s–1870s",
+     "note": "Inherited the property in 1866.",
+     "id": "mary-lumpkin",
+     "basis": "documented"
+    },
+    {
+     "name": "Nathaniel Colver",
+     "relation": "lessee",
+     "years": "1794–1870",
+     "note": "Baptist minister who opened the Colver Institute in 1867.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are identified here; the Lumpkin daughters married and lived in the North. The site is publicly owned and central to Richmond's memorial plans.",
+   "placesNamed": [
+    "Lumpkin's Jail site, Richmond"
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Lumpkin's Jail",
+     "url": "https://encyclopediavirginia.org/entries/lumpkins-jail/"
+    },
+    {
+     "label": "Wikipedia — Lumpkin's Jail",
+     "url": "https://en.wikipedia.org/wiki/Lumpkin%27s_Jail"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lumpkins-jail",
+     "type": "ownership",
+     "label": "owner 1844–1866"
+    },
+    {
+     "id": "mary-lumpkin",
+     "type": "family",
+     "label": "enslaved partner, later widow"
+    },
+    {
+     "id": "fugitive-slave-act-1850",
+     "type": "legacy",
+     "label": "held Anthony Burns"
+    },
+    {
+     "id": "shockoe-bottom-slave-market",
+     "type": "trade",
+     "label": "Shockoe trader"
+    },
+    {
+     "id": "bacon-tait",
+     "type": "parallel",
+     "label": "Wall Street jail lineage"
+    }
+   ]
+  },
+  {
+   "id": "mary-lumpkin",
+   "name": "Mary Lumpkin",
+   "category": "Enslaved & Free Black Lives",
+   "role": "Enslaved & Survivor",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Documented in property and court records and in Kristen Green's history 'The Devil's Half Acre' (2022).",
+   "start": 1840,
+   "end": 1866,
+   "lifespan": "fl. 1840s–1870s",
+   "base": "Richmond, Virginia; Philadelphia; New Richmond, Ohio",
+   "geo": [
+    37.535,
+    -77.432
+   ],
+   "aliases": [],
+   "origins": "Enslaved by the trader Robert Lumpkin from a young age, Mary was held in a coerced relationship with him; she bore several children while living at his jail compound.",
+   "role_summary": "She secured education for her daughters, who attended a Massachusetts seminary in 1857–58, and moved with the children to Philadelphia during the Civil War to protect them from sale for Lumpkin's debts. Inheriting the jail in 1866, she leased it in May 1867 to Nathaniel Colver for a school for formerly enslaved men, the origin of Virginia Union University.",
+   "roleDetail": [
+    {
+     "t": "From captive to landlord.",
+     "d": "She sold the property in 1873 and later lived in Ohio.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "She is now honoured as a founder figure of Virginia Union University and of Black higher education in Richmond.",
+   "legacyDetail": [
+    {
+     "t": "Public memory.",
+     "d": "University lectures and Kristen Green's book have made her story widely known.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Robert Lumpkin",
+     "relation": "enslaver / partner",
+     "years": "c. 1808–1866",
+     "note": "Left her the property.",
+     "id": "robert-lumpkin",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha and Anna Lumpkin",
+     "relation": "daughters",
+     "years": "b. 1840s–50s",
+     "note": "Educated in Massachusetts.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are named here.",
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Lumpkin's Jail",
+     "url": "https://encyclopediavirginia.org/entries/lumpkins-jail/"
+    },
+    {
+     "label": "Wikipedia — Mary Lumpkin",
+     "url": "https://en.wikipedia.org/wiki/Mary_Lumpkin"
+    },
+    {
+     "label": "University of Mary Washington Great Lives — Mary Lumpkin (2024)",
+     "url": "https://www.umw.edu/greatlives/lecture/mary-lumpkin-enslaved-woman-liberator/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-lumpkin",
+     "type": "family",
+     "label": "enslaved partner"
+    },
+    {
+     "id": "lumpkins-jail",
+     "type": "legacy",
+     "label": "turned jail into a school"
+    }
+   ]
+  },
+  {
+   "id": "silas-omohundro",
+   "name": "Silas Omohundro",
+   "category": "American Families",
+   "role": "Broker & Agent",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "His records show at least 1,900 people jailed in 1851–61, with jail profits of $6,250.57 (Encyclopedia Virginia).",
+   "start": 1840,
+   "end": 1864,
+   "lifespan": "1807–1864",
+   "base": "17th & Grace streets, Shockoe, Richmond",
+   "geo": [
+    37.534,
+    -77.43
+   ],
+   "aliases": [],
+   "origins": "A Virginia-born trader who built a jail, boardinghouse and home in Richmond's slave-trading district.",
+   "role_summary": "Omohundro bought, held and sold people — for example a woman named Willy Ann for $1,400 in 1859 — and charged 30–40 cents a night to jail captives for other traders. He fathered seven children with Corinna Hinton, an enslaved girl who was 13 when the first was born in 1849; she clothed people for auction. His 1864 will freed her and the children.",
+   "roleDetail": [
+    {
+     "t": "Ledger evidence.",
+     "d": "His surviving accounts are one of the most detailed records of a Richmond jail business.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His estate (Richmond property appraised at $84,060, plus Pennsylvania homes) was settled for the children only in the 1880s.",
+   "legacyDetail": [
+    {
+     "t": "Hollywood Cemetery.",
+     "d": "He is likely buried in an unmarked grave there.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Corinna Hinton",
+     "relation": "enslaved partner",
+     "years": "b. c. 1836",
+     "note": "Freed by his will.",
+     "basis": "documented"
+    },
+    {
+     "name": "Silas Omohundro Jr.",
+     "relation": "son",
+     "years": "b. 1849",
+     "note": "First of their children.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants named.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Silas Omohundro (1807–1864)",
+     "url": "https://encyclopediavirginia.org/entries/omohundro-silas-1807-1864/"
+    },
+    {
+     "label": "Encyclopedia Virginia — The Domestic Slave Trade in Virginia",
+     "url": "https://encyclopediavirginia.org/entries/slave-sales/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "shockoe-bottom-slave-market",
+     "type": "trade",
+     "label": "Shockoe jail-keeper"
+    },
+    {
+     "id": "hector-davis",
+     "type": "parallel",
+     "label": "next-door neighbour 1850"
+    },
+    {
+     "id": "robert-lumpkin",
+     "type": "parallel",
+     "label": "fellow jail owner"
+    }
+   ]
+  },
+  {
+   "id": "hector-davis",
+   "name": "Hector Davis",
+   "category": "American Families",
+   "role": "Broker & Agent",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "His auction house sold people with a market value of more than $2.67 million in 1859 alone (Encyclopedia Virginia).",
+   "start": 1840,
+   "end": 1863,
+   "lifespan": "1816–1863",
+   "base": "Franklin Street, Shockoe Bottom, Richmond",
+   "geo": [
+    37.536,
+    -77.432
+   ],
+   "aliases": [
+    "Pulliam & Davis"
+   ],
+   "origins": "Born probably in Goochland County, Davis moved to Richmond in the 1840s and partnered with David M. Pulliam in the 1850s.",
+   "role_summary": "Davis was one of Richmond's biggest auctioneers and ran a jail where people were held before sale; in early 1860 he and 13 others chartered the Traders Bank of Richmond, with him as president. He had four children with Ann Banks Davis, an enslaved woman; his 1859 will freed them and left $20,000 for their education.",
+   "roleDetail": [
+    {
+     "t": "Banking on the trade.",
+     "d": "The Traders Bank's notes were pitched to planters and merchants — finance and slave sales intertwined.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bequest lost.",
+     "d": "The 1865 fire and Confederate defeat wiped out the bequest; Ann and the children received nothing after lawsuits.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His son Audubon Davis became a journalist. The Davis auction site is part of the Richmond Slave Trail.",
+   "legacyDetail": [
+    {
+     "t": "Slave Trail.",
+     "d": "Richmond's Slave Trail marks the Shockoe auction houses.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "David M. Pulliam",
+     "relation": "partner",
+     "years": "fl. 1850s",
+     "note": "Pulliam & Davis auctioneers.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ann Banks Davis",
+     "relation": "enslaved partner",
+     "years": "1830–1907",
+     "note": "Moved with the children to Philadelphia by 1860.",
+     "basis": "documented"
+    },
+    {
+     "name": "Audubon Davis",
+     "relation": "son",
+     "years": "b. 1850s",
+     "note": "Journalist.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants named.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Hector Davis (1816–1863)",
+     "url": "https://encyclopediavirginia.org/entries/davis-hector-1816-1863/"
+    },
+    {
+     "label": "Encyclopedia Virginia — Ann Banks Davis (1830–1907)",
+     "url": "https://encyclopediavirginia.org/entries/davis-ann-banks-1830-1907/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "shockoe-bottom-slave-market",
+     "type": "trade",
+     "label": "leading auctioneer"
+    },
+    {
+     "id": "silas-omohundro",
+     "type": "parallel",
+     "label": "neighbour"
+    },
+    {
+     "id": "citizens-bank-louisiana",
+     "type": "parallel",
+     "label": "slave-trade banking"
+    }
+   ]
+  },
+  {
+   "id": "bacon-tait",
+   "name": "Bacon Tait",
+   "category": "American Families",
+   "role": "Broker & Agent",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Shipped 37 people from Norfolk to New Orleans in 1828 and ran a Richmond jail from 1834; held about $130,000 in real estate by 1850 (Encyclopedia Virginia).",
+   "start": 1826,
+   "end": 1858,
+   "lifespan": "1796–1871",
+   "base": "15th & Cary streets, Richmond",
+   "geo": [
+    37.534,
+    -77.435
+   ],
+   "aliases": [
+    "Tait and Boudar"
+   ],
+   "origins": "Born near Lynchburg, Tait entered the interstate trade in the 1820s, partnering with Thomas Boudar, who sold in New Orleans.",
+   "role_summary": "Tait sold Wall Street lots in 1833 on which Lewis Collier's jail — later Lumpkin's — was probably built (one scholar argues Tait built it), and in 1834 built his own jail at 15th and Cary. He served on Richmond City Council (1847–51) and in 1852 bought a house in Salem, Massachusetts, where he lived with Courtney Fountain, a free Black woman, and their four children, while keeping his Richmond business.",
+   "roleDetail": [
+    {
+     "t": "Coastal trade.",
+     "d": "His 1828 Norfolk–New Orleans shipment shows the sea route of the domestic trade.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His wealth survived the war intact; he died in 1871 and is buried in Hollywood Cemetery.",
+   "legacyDetail": [
+    {
+     "t": "Northern refuge.",
+     "d": "Like Lumpkin and Davis, he used the North to shelter a Black family while trading people in the South.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Boudar",
+     "relation": "partner",
+     "years": "fl. 1830s",
+     "note": "Tait and Boudar.",
+     "basis": "documented"
+    },
+    {
+     "name": "Courtney Fountain",
+     "relation": "partner",
+     "years": "d. 1871",
+     "note": "Free Black woman; lived with him in Salem.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants named.",
+   "placesNamed": [],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Bacon Tait (1796–1871)",
+     "url": "https://encyclopediavirginia.org/entries/tait-bacon-1796-1871/"
+    },
+    {
+     "label": "Encyclopedia Virginia — The Domestic Slave Trade in Virginia",
+     "url": "https://encyclopediavirginia.org/entries/slave-sales/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "shockoe-bottom-slave-market",
+     "type": "trade",
+     "label": "Richmond jail-keeper"
+    },
+    {
+     "id": "lumpkins-jail",
+     "type": "ownership",
+     "label": "sold the Wall Street lots"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "shipped people to New Orleans"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "parallel",
+     "label": "coastal trade competitor"
+    }
+   ]
+  },
+  {
+   "id": "lumpkins-jail",
+   "name": "Lumpkin's Jail ('the Devil's Half Acre')",
+   "type": "entity",
+   "kind": "Slave pen / market",
+   "description": "A slave jail complex on Wall Street (Lumpkin's Alley) in Shockoe Bottom, bought by Robert Lumpkin in 1844 for $6,000, where traders paid to hold people awaiting sale; Anthony Burns was held there in 1854. In 1867 Mary Lumpkin leased it for the Colver Institute, forerunner of Virginia Union University. Archaeologists found the jail nearly 15 feet below grade in 2005–08; it is one of 17 Richmond Slave Trail sites.",
+   "start": 1844,
+   "geo": [
+    37.535,
+    -77.432
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Lumpkin's Jail",
+     "url": "https://encyclopediavirginia.org/entries/lumpkins-jail/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-lumpkin",
+     "type": "ownership",
+     "label": "owner 1844–66"
+    },
+    {
+     "id": "mary-lumpkin",
+     "type": "legacy",
+     "label": "leased for a Black seminary 1867"
+    },
+    {
+     "id": "bacon-tait",
+     "type": "ownership",
+     "label": "sold the lots in 1833"
+    },
+    {
+     "id": "shockoe-bottom-slave-market",
+     "type": "trade",
+     "label": "part of the Shockoe market"
+    },
+    {
+     "id": "fugitive-slave-act-1850",
+     "type": "legacy",
+     "label": "Anthony Burns held here"
+    }
+   ]
+  },
+  {
+   "id": "shockoe-bottom-slave-market",
+   "name": "Shockoe Bottom slave market, Richmond",
+   "type": "entity",
+   "kind": "Slave pen / market",
+   "description": "Richmond's auction houses and jails in Shockoe Bottom made the city the largest slave market of the Upper South and often called the second-busiest in the U.S. (1830–65); its sales ran to $7–8 million a year c. 1860 (Encyclopedia Virginia). Firms included Dickinson, Hill & Co., Pulliam & Co., Hector Davis, Silas Omohundro and Bacon Tait, who flew red flags on auction days. Richmond's 2024 master plan for a 10-acre Shockoe memorial district includes a planned National Slavery Museum.",
+   "start": 1780,
+   "geo": [
+    37.533,
+    -77.43
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — The Domestic Slave Trade in Virginia",
+     "url": "https://encyclopediavirginia.org/entries/slave-sales/"
+    },
+    {
+     "label": "Cultural Landscape Foundation — Richmond Slave Trail",
+     "url": "https://www.tclf.org/richmond-slave-trail"
+    },
+    {
+     "label": "Richmond BizSense — City unveils Shockoe master plan (2024)",
+     "url": "https://richmondbizsense.com/2024/02/28/city-unveils-master-plan-for-shockoe-slavery-commemorative-site/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hector-davis",
+     "type": "trade",
+     "label": "auction house"
+    },
+    {
+     "id": "silas-omohundro",
+     "type": "trade",
+     "label": "jail and auctions"
+    },
+    {
+     "id": "bacon-tait",
+     "type": "trade",
+     "label": "jail"
+    },
+    {
+     "id": "robert-lumpkin",
+     "type": "trade",
+     "label": "jail"
+    },
+    {
+     "id": "lumpkins-jail",
+     "type": "trade",
+     "label": "holding pen"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "trade",
+     "label": "Upper South interstate trade"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "main destination"
+    },
+    {
+     "id": "solomon-northup",
+     "type": "trade",
+     "label": "held in a Richmond pen 1841"
+    },
+    {
+     "id": "byrd-family",
+     "type": "legacy",
+     "label": "city founded on Byrd land"
+    }
+   ]
+  },
+  {
+   "id": "westover-plantation",
+   "name": "Westover Plantation",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "James River plantation bought by William Byrd I in 1688; William Byrd II's brick mansion (c. 1735) was built and served by enslaved people probably numbering in the hundreds. The Byrds held it until 1814; private owners since 1921 display known names of the enslaved and are running archaeology with Virginia's Department of Historic Resources.",
+   "start": 1688,
+   "geo": [
+    37.311,
+    -77.153
+   ],
+   "sources": [
+    {
+     "label": "Historic Westover — About",
+     "url": "https://historicwestover.com/about.htm"
+    },
+    {
+     "label": "NPS — Charles City County: Westover",
+     "url": "https://www.nps.gov/articles/westover.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "william-byrd-i",
+     "type": "ownership",
+     "label": "bought 1688"
+    },
+    {
+     "id": "byrd-family",
+     "type": "plantation",
+     "label": "Byrd seat to 1814"
+    }
+   ]
+  },
+  {
+   "id": "berkeley-plantation",
+   "name": "Berkeley Plantation",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Charles City County estate of the Harrisons from 1691; the 1726 brick house was home to Benjamin Harrison V, who enslaved 110 people, and birthplace of William Henry Harrison. Now owned by the Jamieson family and open to visitors, with an exhibit on Berkeley's enslaved.",
+   "start": 1691,
+   "geo": [
+    37.317,
+    -77.18
+   ],
+   "sources": [
+    {
+     "label": "Berkeley Plantation — Berkeley's Enslaved",
+     "url": "https://berkeleyplantation.com/berkeleys-enslaved/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "harrison-family",
+     "type": "ownership",
+     "label": "Harrison seat"
+    },
+    {
+     "id": "john-tyler",
+     "type": "parallel",
+     "label": "Charles City neighbour"
+    }
+   ]
+  },
+  {
+   "id": "gunston-hall",
+   "name": "Gunston Hall",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "George Mason's Potomac plantation house, built 1755–59 by enslaved and paid workers on Mason Neck; Mason enslaved at least 300 people over his life. Now owned by the Commonwealth of Virginia and run as a museum that interprets the enslaved community.",
+   "start": 1755,
+   "geo": [
+    38.664,
+    -77.159
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Gunston Hall",
+     "url": "https://encyclopediavirginia.org/entries/gunston-hall/"
+    },
+    {
+     "label": "Gunston Hall — Enslaved People at Gunston Hall",
+     "url": "https://gunstonhall.org/enslaved-people-at-gunston-hall/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-mason",
+     "type": "ownership",
+     "label": "Mason's seat"
+    }
+   ]
+  },
+  {
+   "id": "montpelier",
+   "name": "Montpelier (James Madison's estate)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Orange County estate of the Madisons from the 1720s, where about 300 people were enslaved over the Madison years. Owned by the National Trust and run by the Montpelier Foundation, it pledged 'structural parity' with descendants of the enslaved in 2021 and, after a 2022 dispute, elected 11 board members nominated by the Montpelier Descendants Committee.",
+   "start": 1723,
+   "geo": [
+    38.218,
+    -78.168
+   ],
+   "sources": [
+    {
+     "label": "Montpelier — The Naming Project",
+     "url": "https://www.montpelier.org/projects/the-naming-project/"
+    },
+    {
+     "label": "History News Network — Montpelier board appoints 11 descendant nominees (2022)",
+     "url": "https://hnn.us/article/183176"
+    }
+   ],
+   "connections": [
+    {
+     "id": "james-madison",
+     "type": "ownership",
+     "label": "Madison's home"
+    },
+    {
+     "id": "paul-jennings",
+     "type": "plantation",
+     "label": "born here 1799"
+    },
+    {
+     "id": "monticello",
+     "type": "parallel",
+     "label": "descendant engagement at presidential sites"
+    }
+   ]
+  },
+  {
+   "id": "sherwood-forest-plantation",
+   "name": "Sherwood Forest Plantation",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "John Tyler's Charles City County plantation from the early 1840s, where 46 people were enslaved in 1850 and 43 in 1860. Still held by the Tyler family through a private foundation; Harrison Ruffin Tyler bought it from cousins in 1975 and restored it, and the site publishes research naming the people Tyler enslaved.",
+   "start": 1842,
+   "geo": [
+    37.323,
+    -77.02
+   ],
+   "sources": [
+    {
+     "label": "Sherwood Forest — Slavery",
+     "url": "https://www.sherwoodforest.org/slavery"
+    }
+   ],
+   "connections": [
+    {
+     "id": "john-tyler",
+     "type": "ownership",
+     "label": "Tyler's home"
+    }
+   ]
+  },
+  {
+   "id": "deed-of-gift-1791",
+   "name": "Robert Carter III's Deed of Gift (1791)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Deed executed 1 August 1791 (filed in Northumberland County that September) under Virginia's 1782 manumission act, freeing more than 500 people held by Robert Carter III on a gradual schedule by age — probably the largest private emancipation in the U.S. before the Civil War. Executors were still carrying it out decades later.",
+   "start": 1791,
+   "geo": [
+    38.117,
+    -76.705
+   ],
+   "sources": [
+    {
+     "label": "Historic Christ Church — Robert Carter III's 1791 Deed of Gift",
+     "url": "https://www.christchurch1735.org/research/research-room/robert-carter-iii-s-1791-deed-of-gift"
+    },
+    {
+     "label": "Encyclopedia Virginia — An act to authorize the manumission of slaves (1782)",
+     "url": "https://encyclopediavirginia.org/primary-documents/an-act-to-authorize-the-manumission-of-slaves-1782/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "robert-carter-iii",
+     "type": "legacy",
+     "label": "issued the deed"
+    },
+    {
+     "id": "john-randolph-of-roanoke",
+     "type": "parallel",
+     "label": "later mass manumission"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1688,
+   "title": "William Byrd I buys Westover",
+   "text": "The Indian trader and importer of enslaved people buys the Westover tract on the James, seat of the Byrds until 1814.",
+   "ids": [
+    "william-byrd-i",
+    "westover-plantation",
+    "byrd-family"
+   ],
+   "source": {
+    "label": "Historic Westover — About",
+    "url": "https://historicwestover.com/about.htm"
+   }
+  },
+  {
+   "year": 1732,
+   "title": "Death of Robert 'King' Carter",
+   "text": "Carter dies at Corotoman holding at least 295,000 acres and many hundreds of enslaved people, divided among children married into the Burwells, Pages, Harrisons and others.",
+   "ids": [
+    "robert-king-carter",
+    "carter-family",
+    "burwell-family",
+    "page-family",
+    "harrison-family"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Robert Carter (ca. 1664–1732)",
+    "url": "https://encyclopediavirginia.org/entries/carter-robert-ca-1664-1732/"
+   }
+  },
+  {
+   "year": 1737,
+   "title": "Byrd advertises the new town of Richmond",
+   "text": "William Byrd II offers lots in Richmond, laid out on his land at the falls of the James — later the Upper South's biggest slave market.",
+   "ids": [
+    "byrd-family",
+    "shockoe-bottom-slave-market"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — William Byrd (1674–1744)",
+    "url": "https://encyclopediavirginia.org/entries/byrd-william-1674-1744/"
+   }
+  },
+  {
+   "year": 1773,
+   "title": "Patrick Henry: 'I cannot justify it'",
+   "text": "Henry writes that he is 'master of slaves of my own purchase' and cannot justify it, yet holds 67 people at Red Hill at his death in 1799.",
+   "ids": [
+    "patrick-henry"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Patrick Henry",
+    "url": "https://encyclopediavirginia.org/entries/henry-patrick-1736-1799/"
+   }
+  },
+  {
+   "year": 1787,
+   "title": "Mason condemns the slave trade at the Convention",
+   "text": "On 22 August George Mason attacks the foreign slave trade; he later refuses to sign the Constitution — while enslaving dozens at Gunston Hall.",
+   "ids": [
+    "george-mason",
+    "gunston-hall"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — George Mason",
+    "url": "https://encyclopediavirginia.org/entries/mason-george-1725-1792/"
+   }
+  },
+  {
+   "year": 1791,
+   "title": "Robert Carter III's Deed of Gift",
+   "text": "Carter begins the gradual freeing of more than 500 people — the largest private emancipation before the Civil War.",
+   "ids": [
+    "robert-carter-iii",
+    "deed-of-gift-1791"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Robert Carter (1728–1804)",
+    "url": "https://encyclopediavirginia.org/entries/carter-robert-1728-1804/"
+   }
+  },
+  {
+   "year": 1805,
+   "title": "Revolt at Chatham",
+   "text": "Enslaved people at William Fitzhugh's Chatham seize and whip an overseer who cut their Christmas holiday short; Abraham is executed and two men sold away.",
+   "ids": [
+    "fitzhugh-family"
+   ],
+   "source": {
+    "label": "NPS — Chatham Slave Revolt",
+    "url": "https://www.nps.gov/frsp/learn/historyculture/chatham-slave-revolt.htm"
+   }
+  },
+  {
+   "year": 1806,
+   "title": "Poisoning of George Wythe and Michael Brown",
+   "text": "Wythe and the free youth Michael Brown die after arsenic poisoning; Black testimony is barred and the accused great-nephew is acquitted of murder.",
+   "ids": [
+    "george-wythe",
+    "michael-brown-wythe"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — The Death of George Wythe (1806)",
+    "url": "https://encyclopediavirginia.org/entries/wythe-the-death-of-george-1806/"
+   }
+  },
+  {
+   "year": 1828,
+   "title": "Monroe sells 17 people to Florida",
+   "text": "Indebted ex-president James Monroe sells 17 members of Highland's enslaved community to the Casa Bianca plantation in Jefferson County, Florida.",
+   "ids": [
+    "james-monroe"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Highland",
+    "url": "https://encyclopediavirginia.org/entries/highland/"
+   }
+  },
+  {
+   "year": 1833,
+   "title": "Skipwith family sent to Liberia",
+   "text": "John Hartwell Cocke frees stonemason Peyton Skipwith and his family on condition they emigrate to Liberia; their letters home survive at UVA.",
+   "ids": [
+    "peyton-skipwith",
+    "john-hartwell-cocke"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — John Hartwell Cocke",
+    "url": "https://encyclopediavirginia.org/entries/cocke-john-hartwell-1780-1866/"
+   }
+  },
+  {
+   "year": 1844,
+   "title": "Lumpkin buys the Wall Street jail; Montpelier sold",
+   "text": "Robert Lumpkin buys his Shockoe jail complex; the same year Dolley Madison sells Montpelier and breaks up its enslaved community.",
+   "ids": [
+    "robert-lumpkin",
+    "lumpkins-jail",
+    "james-madison",
+    "montpelier"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Lumpkin's Jail",
+    "url": "https://encyclopediavirginia.org/entries/lumpkins-jail/"
+   }
+  },
+  {
+   "year": 1846,
+   "title": "Randolph Freedpeople driven from Mercer County",
+   "text": "About 383 people freed by John Randolph of Roanoke's will reach Ohio but are turned away by armed whites and resettle near Piqua.",
+   "ids": [
+    "john-randolph-of-roanoke",
+    "randolph-family"
+   ],
+   "source": {
+    "label": "Wikipedia — Randolph Freedpeople",
+    "url": "https://en.wikipedia.org/wiki/Randolph_Freedpeople"
+   }
+  },
+  {
+   "year": 1859,
+   "title": "Hector Davis sells $2.67 million in people",
+   "text": "One Richmond auction house's yearly sales of enslaved people exceed $2.67 million; Davis founds the Traders Bank in 1860.",
+   "ids": [
+    "hector-davis",
+    "shockoe-bottom-slave-market"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Hector Davis",
+    "url": "https://encyclopediavirginia.org/entries/davis-hector-1816-1863/"
+   }
+  },
+  {
+   "year": 1867,
+   "title": "A slave jail becomes a school",
+   "text": "Mary Lumpkin leases Lumpkin's Jail to Nathaniel Colver for a school for freedmen — the origin of Virginia Union University.",
+   "ids": [
+    "mary-lumpkin",
+    "lumpkins-jail"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Lumpkin's Jail",
+    "url": "https://encyclopediavirginia.org/entries/lumpkins-jail/"
+   }
+  },
+  {
+   "year": 2022,
+   "title": "Montpelier board shared with descendants",
+   "text": "After a public dispute, the Montpelier Foundation elects 11 board members nominated by descendants of the people Madison enslaved.",
+   "ids": [
+    "montpelier",
+    "james-madison"
+   ],
+   "source": {
+    "label": "History News Network (2022)",
+    "url": "https://hnn.us/article/183176"
+   }
+  }
+ ]
+}

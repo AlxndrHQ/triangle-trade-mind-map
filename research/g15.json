@@ -138,7 +138,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Diego's line continues in the Spanish title Duke of Veragua, held since 1986 by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke. His Santo Domingo palace is today a public museum."
+   "today": "Diego's line continues in the Spanish title Duke of Veragua, held since 1986 by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke. His Santo Domingo palace is today a public museum. The 18th Duke is a retired naval officer with ties to Panama's Veraguas province.",
+   "today_people": [
+    {
+     "name": "Cristóbal Colón de Carvajal y Gorosábel, 18th Duke of Veragua",
+     "relation": "direct descendant of Columbus via Diego Columbus; holder of the Veragua dukedom and Marquessate of Jamaica since 1986 (Spanish peerage)",
+     "role": "Retired Spanish Navy officer; Spanish ambassador-at-large for the Columbus quincentenary events (2002–06); active in Panama's Veraguas province",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Cristóbal Colón de Carvajal, 18th Duke of Veragua",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n_de_Carvajal,_18th_Duke_of_Veragua"
+     }
+    }
+   ]
   },
   {
    "id": "luis-colon-veragua",
@@ -258,7 +272,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The dukedom of Veragua and marquessate of Jamaica are held today by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke (since 1986), a public figure in Spain who has maintained ties with Panama's Veraguas province."
+   "today": "The dukedom of Veragua and marquessate of Jamaica are held today by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke (since 1986), a public figure in Spain who has maintained ties with Panama's Veraguas province.",
+   "today_people": [
+    {
+     "name": "Cristóbal Colón de Carvajal y Gorosábel, 18th Duke of Veragua",
+     "relation": "direct descendant of Columbus via Diego Columbus; holder of the Veragua dukedom and Marquessate of Jamaica since 1986 (Spanish peerage)",
+     "role": "Retired Spanish Navy officer; Spanish ambassador-at-large for the Columbus quincentenary events (2002–06); active in Panama's Veraguas province",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Cristóbal Colón de Carvajal, 18th Duke of Veragua",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n_de_Carvajal,_18th_Duke_of_Veragua"
+     }
+    }
+   ]
   },
   {
    "id": "jakob-fugger",
@@ -388,7 +416,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Jakob had no children; his fortune passed to his nephew Anton, from whom the Kirchberg-Weißenhorn, Glött and Babenhausen lines descend. The Fuggerei and the other Fugger foundations are overseen by a Familienseniorat chaired since 2022 by Alexander Erbgraf Fugger-Babenhausen."
+   "today": "Jakob had no children; his fortune passed to his nephew Anton, from whom the Kirchberg-Weißenhorn, Glött and Babenhausen lines descend. The Fuggerei and the other Fugger foundations are overseen by a Familienseniorat chaired since 2022 by Alexander Erbgraf Fugger-Babenhausen.",
+   "today_people": [
+    {
+     "name": "Hubertus Fürst Fugger-Babenhausen",
+     "relation": "head of the Babenhausen line descended from Anton Fugger, Jakob Fugger's nephew and heir",
+     "role": "Owner of the Fuggerhäuser in Augsburg, Wellenburg and Babenhausen castles; shareholder of Fürst Fugger Privatbank (majority owned by the Nürnberger insurance group since 1999)",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Fürst Fugger Privatbank",
+      "url": "https://en.wikipedia.org/wiki/F%C3%BCrst_Fugger_Privatbank"
+     }
+    },
+    {
+     "name": "Alexander Erbgraf Fugger-Babenhausen",
+     "relation": "heir of the Babenhausen line (Anton Fugger's descendants)",
+     "role": "Chair since 2022 of the Familienseniorat overseeing the Fuggerei and the other Fugger foundations",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Fuggersche Stiftungen — Press release: Generationswechsel bei den Fuggerschen Stiftungen (2022)",
+      "url": "https://media.fugger.de/fileadmin/Daten/next_500_daten/presse/pm-generationswechsel-seniorat/PM_Generationswechsel_bei_den_Fuggerschen_Stiftungen_im_Jubilaeumsjahr_30.01.2022.pdf"
+     }
+    }
+   ]
   },
   {
    "id": "bartholomaus-welser",
@@ -516,7 +570,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented living descendants of his line have been traced. The family's Ulm branch survives and is reported to administer the Welsersche Familienstiftung founded in 1539."
+   "today": "No publicly documented living descendants of his line have been traced. The family's Ulm branch survives and is reported to administer the Welsersche Familienstiftung founded in 1539.",
+   "today_people": []
   },
   {
    "id": "claudio-lopez-bru",
@@ -623,7 +678,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The title passed to the Güell family; the 5th Marchioness, María de los Reyes Güell y Merry del Val, succeeded in 2026 (BOE). The Comillas Pontifical University continues in Madrid."
+   "today": "The title passed to the Güell family; the 5th Marchioness, María de los Reyes Güell y Merry del Val, succeeded in 2026 (BOE). The Comillas Pontifical University continues in Madrid.",
+   "today_people": [
+    {
+     "name": "María de los Reyes Güell y Merry del Val, 5th Marchioness of Comillas",
+     "relation": "descendant of Antonio López via the López–Güell marriage; Royal Letter of Succession published in the BOE, Feb 2026, on the death of her father Juan Alfonso Güell y Martos",
+     "role": "Holder of the Marquisate of Comillas (Spanish noble title)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "BOE — Orden PJC/52/2026, succession to the Marquisate of Comillas",
+      "url": "https://boe.es/boe/dias/2026/02/02/pdfs/BOE-A-2026-2398.pdf"
+     }
+    }
+   ]
   },
   {
    "id": "eusebi-guell",
@@ -730,7 +799,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Güell family holds the Marquisate of Comillas; María de los Reyes Güell y Merry del Val succeeded as 5th Marchioness in 2026 (BOE). The family has not been documented speaking publicly about the slavery link."
+   "today": "The Güell family holds the Marquisate of Comillas; María de los Reyes Güell y Merry del Val succeeded as 5th Marchioness in 2026 (BOE). The family has not been documented speaking publicly about the slavery link.",
+   "today_people": [
+    {
+     "name": "María de los Reyes Güell y Merry del Val, 5th Marchioness of Comillas",
+     "relation": "descendant of Antonio López via the López–Güell marriage; Royal Letter of Succession published in the BOE, Feb 2026, on the death of her father Juan Alfonso Güell y Martos",
+     "role": "Holder of the Marquisate of Comillas (Spanish noble title)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "BOE — Orden PJC/52/2026, succession to the Marquisate of Comillas",
+      "url": "https://boe.es/boe/dias/2026/02/02/pdfs/BOE-A-2026-2398.pdf"
+     }
+    }
+   ]
   },
   {
    "id": "abraham-gradis",
@@ -878,7 +961,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Abraham had no children; his estate went to four nephews. The family firm survives as the Société française pour le commerce avec l'Outre-mer, and its archives, given to the Archives nationales in 2005 by Henri Gradis (1920–2022), are open to historians."
+   "today": "Abraham had no children; his estate went to four nephews. The family firm survives as the Société française pour le commerce avec l'Outre-mer, and its archives, given to the Archives nationales in 2005 by Henri Gradis (1920–2022), are open to historians.",
+   "today_people": []
   },
   {
    "id": "hope-family",
@@ -1037,7 +1121,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The family's banking role ended in the early 19th century. Its wealth flowed into British collections (Thomas Hope of Deepdene) and the Hope gems, and Lord Francis Hope sold the Hope Diamond in 1901. The firm's lineage runs through Mees & Hope to ABN AMRO, which apologised in 2022, and Henry Hope's villa Welgelegen is now the seat of North Holland's provincial government. No living descendants who have spoken publicly about the link have been traced."
+   "today": "The family's banking role ended in the early 19th century. Its wealth flowed into British collections (Thomas Hope of Deepdene) and the Hope gems, and Lord Francis Hope sold the Hope Diamond in 1901. The firm's lineage runs through Mees & Hope to ABN AMRO, which apologised in 2022, and Henry Hope's villa Welgelegen is now the seat of North Holland's provincial government. No living descendants who have spoken publicly about the link have been traced.",
+   "today_people": []
   },
   {
    "id": "cornelis-van-aerssen-van-sommelsdijck",
@@ -1181,7 +1266,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Sommelsdijk branch of the family has died out, per Dutch genealogical sources; a collateral Van Aerssen branch survives in the Dutch nobility. The family's stake in Suriname was sold to Amsterdam in 1770, and Fort Sommelsdijk survives as an overgrown site. No publicly documented descendants have spoken about the link."
+   "today": "The Sommelsdijk branch of the family has died out, per Dutch genealogical sources; a collateral Van Aerssen branch survives in the Dutch nobility. The family's stake in Suriname was sold to Amsterdam in 1770, and Fort Sommelsdijk survives as an overgrown site. No publicly documented descendants have spoken about the link.",
+   "today_people": []
   },
   {
    "id": "otto-friedrich-von-der-groeben",
@@ -1303,7 +1389,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced who connect themselves to his African voyage, though the von der Groeben noble family continued after him. Groß Friedrichsburg survives as a ruin at Pokesu (Princes Town) in Ghana."
+   "today": "No publicly documented descendants have been traced who connect themselves to his African voyage, though the von der Groeben noble family continued after him. Groß Friedrichsburg survives as a ruin at Pokesu (Princes Town) in Ghana.",
+   "today_people": []
   },
   {
    "id": "laurens-de-geer",
@@ -1418,7 +1505,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants of Laurens specifically have spoken about the link. The wider De Geer family, with Swedish and Dutch branches, remains prominent."
+   "today": "No publicly documented descendants of Laurens specifically have spoken about the link. The wider De Geer family, with Swedish and Dutch branches, remains prominent.",
+   "today_people": []
   },
   {
    "id": "charlotte-schimmelmann",
@@ -1523,7 +1611,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced; the couple had no children of their own, and Lindenborg passed to other Schimmelmann heirs."
+   "today": "No publicly documented descendants have been traced; the couple had no children of their own, and Lindenborg passed to other Schimmelmann heirs.",
+   "today_people": []
   },
   {
    "id": "heinrich-ludwig-ernst-schimmelmann",
@@ -1618,7 +1707,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. His Skodsborg estate was sold by his widow in 1808."
+   "today": "No publicly documented descendants have been traced. His Skodsborg estate was sold by his widow in 1808.",
+   "today_people": []
   },
   {
    "id": "margaret-hardenbroeck",
@@ -1766,7 +1856,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Her best-known descendant is John Jay, through her daughter Eva and the Van Cortlandts. The Philipse fortune built on her ships was confiscated from Loyalist heirs after the Revolution. Philipsburg Manor (Historic Hudson Valley) interprets her story alongside those of the people the family enslaved."
+   "today": "Her best-known descendant is John Jay, through her daughter Eva and the Van Cortlandts. The Philipse fortune built on her ships was confiscated from Loyalist heirs after the Revolution. Philipsburg Manor (Historic Hudson Valley) interprets her story alongside those of the people the family enslaved.",
+   "today_people": []
   },
   {
    "id": "escher-family-zurich",
@@ -1908,7 +1999,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Alfred Escher has no living direct descendants: his only daughter, Lydia Welti-Escher, died in 1891 and left her fortune to the Gottfried Keller Foundation. The wider Escher family remains a Zurich patrician family. The money Heinrich passed on went into the founding of Credit Suisse, now absorbed into UBS."
+   "today": "Alfred Escher has no living direct descendants: his only daughter, Lydia Welti-Escher, died in 1891 and left her fortune to the Gottfried Keller Foundation. The wider Escher family remains a Zurich patrician family. The money Heinrich passed on went into the founding of Credit Suisse, now absorbed into UBS.",
+   "today_people": []
   },
   {
    "id": "credit-suisse",
@@ -2026,7 +2118,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Credit Suisse no longer exists. UBS took it over in 2023 and absorbed the legal entity in 2024. The bank has no family heirs: founder Alfred Escher's direct line ended with his daughter Lydia's death in 1891."
+   "today": "Credit Suisse no longer exists. UBS took it over in 2023 and absorbed the legal entity in 2024. The bank has no family heirs: founder Alfred Escher's direct line ended with his daughter Lydia's death in 1891.",
+   "today_people": []
   }
  ],
  "events": [

@@ -105,3 +105,14 @@ Order lineage oldest → newest (predecessors/mentors first, then the person's o
 
 ### New category "Enforcers & Aftermath"
 For the middle tier and the post-emancipation enforcement of racial hierarchy. Roles: "Overseer & Enforcer" (overseers, slave-breakers, slave patrols, slave catchers, kidnappers), "Planter & Enslaver" (small slaveholders/yeoman class), "Hate Group & Terror" (Knights of the Golden Circle, KKK eras, White League, Red Shirts, today's factions), "Convict Leasing & Jim Crow" (companies and states that leased convicts).
+
+## ROUND 5 ADDITIONS
+### Places named after them (optional, any record)
+"placesNamed": ["Harford County, Maryland", "Bowie, Maryland"]   // counties, cities, streets, universities, buildings named for this person/family
+### Public figures today (optional, any profile)
+"today_people": [ {"name":"Richard Drax", "relation":"descendant / heir to Drax Hall (documented in Parliament register & press)",
+  "role":"Former Conservative MP for South Dorset; owner of Drax Hall, Barbados", "sector":"Politics & government" | "Banking & finance" | "Land & estates" | "Business & trade" | "Royalty & titles" | "Culture & media" | "Advocacy & repair",
+  "year": 2026, "basis":"documented"|"interpretive", "source":{"label":"...","url":"https://..."}} ]
+RULES for today_people: ONLY public figures (office holders, peers/titleholders, monarchs/traditional rulers, executives/board members of named companies, prominent public personalities) or people who have publicly identified with the family history. The family link must be DOCUMENTED (published genealogy, peerage/baronetage records, their own public statements, reputable press); otherwise basis "interpretive" with the claim attributed, or leave it out. Never present descendants as guilty; note apologies/repair work where they exist. Never include private individuals, addresses, children, or personal contact/social details.
+### Namesake honesty
+If a county/place namesake had no documented tie to slavery, still create the record if useful but say so plainly (role_summary: "No documented direct involvement in slavery; ..."), scale "Minor", and explain why the name matters (e.g. proprietary family that legislated slavery).

@@ -178,7 +178,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Vespucci had no children; his property passed to his wife María Cerezo and his professional legacy to his nephew Juan at the Casa de Contratación. No publicly documented descendants have been traced. His enduring legacy is the name 'America' itself and the Vespucci memorials in Florence's Ognissanti church."
+   "today": "Vespucci had no children; his property passed to his wife María Cerezo and his professional legacy to his nephew Juan at the Casa de Contratación. No publicly documented descendants have been traced. His enduring legacy is the name 'America' itself and the Vespucci memorials in Florence's Ognissanti church.",
+   "today_people": []
   },
   {
    "id": "christopher-columbus",
@@ -345,7 +346,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Columbus's direct line continues through the Spanish peerage title Duke of Veragua, held since 1986 by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke, a retired naval officer and public figure who also bears the title Marquess of Jamaica; his father, the 17th Duke, was assassinated by ETA in 1986. The family's colonial privileges were converted into titles and an annuity by the 1536 settlement of the 'pleitos colombinos'."
+   "today": "Columbus's direct line continues through the Spanish peerage title Duke of Veragua, held since 1986 by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke, a retired naval officer and public figure who also bears the title Marquess of Jamaica; his father, the 17th Duke, was assassinated by ETA in 1986. The family's colonial privileges were converted into titles and an annuity by the 1536 settlement of the 'pleitos colombinos'.",
+   "today_people": [
+    {
+     "name": "Cristóbal Colón de Carvajal y Gorosábel, 18th Duke of Veragua",
+     "relation": "direct descendant of Columbus via Diego Columbus; holder of the Veragua dukedom and Marquessate of Jamaica since 1986 (Spanish peerage)",
+     "role": "Retired Spanish Navy officer; Spanish ambassador-at-large for the Columbus quincentenary events (2002–06); active in Panama's Veraguas province",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Cristóbal Colón de Carvajal, 18th Duke of Veragua",
+      "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n_de_Carvajal,_18th_Duke_of_Veragua"
+     }
+    }
+   ]
   },
   {
    "id": "lorenzo-di-pierfrancesco-medici",
@@ -469,7 +484,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Medici grand-ducal line died out in 1737 (Anna Maria Luisa, the last of the line, died in 1743). Under her 1737 'Family Pact' the dynasty's collections stayed in Florence and form the core of the Uffizi and other public museums. No publicly documented descendants of Lorenzo di Pierfrancesco's line have been traced."
+   "today": "The Medici grand-ducal line died out in 1737 (Anna Maria Luisa, the last of the line, died in 1743). Under her 1737 'Family Pact' the dynasty's collections stayed in Florence and form the core of the Uffizi and other public museums. No publicly documented descendants of Lorenzo di Pierfrancesco's line have been traced.",
+   "today_people": []
   },
   {
    "id": "gianotto-berardi",
@@ -615,7 +631,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Berardi died heavily indebted around 1495–96, and his Seville business was wound up by Vespucci; the network's capital and expertise passed into Vespucci's and other Florentines' service to the Castilian crown."
+   "today": "No publicly documented descendants have been traced. Berardi died heavily indebted around 1495–96, and his Seville business was wound up by Vespucci; the network's capital and expertise passed into Vespucci's and other Florentines' service to the Castilian crown.",
+   "today_people": []
   },
   {
    "id": "bartolomeo-marchionni",
@@ -755,7 +772,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. His son Pêro Paulo continued as a shipowner, but the family firm does not appear to have survived beyond the 16th century; his career is known chiefly through Francesco Guidi Bruscoli's 2014 study."
+   "today": "No publicly documented descendants have been traced. His son Pêro Paulo continued as a shipowner, but the family firm does not appear to have survived beyond the 16th century; his career is known chiefly through Francesco Guidi Bruscoli's 2014 study.",
+   "today_people": []
   },
   {
    "id": "crown-of-castile",
@@ -927,7 +945,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Spanish monarchy continues under King Felipe VI (since 2014), a constitutional monarch of the House of Bourbon descended from the dynasty that ran the asiento system. Spain has made no formal state apology for the slave trade; the public debate has focused on monuments such as the 2018 removal of Antonio López's statue in Barcelona."
+   "today": "The Spanish monarchy continues under King Felipe VI (since 2014), a constitutional monarch of the House of Bourbon descended from the dynasty that ran the asiento system. Spain has made no formal state apology for the slave trade; the public debate has focused on monuments such as the 2018 removal of Antonio López's statue in Barcelona.",
+   "today_people": [
+    {
+     "name": "King Felipe VI of Spain",
+     "relation": "reigning Spanish monarch (House of Bourbon), successor to the crown that issued asiento licences",
+     "role": "Constitutional monarch since 2014; no royal statement on the slave trade documented",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Felipe VI",
+      "url": "https://en.wikipedia.org/wiki/Felipe_VI"
+     }
+    }
+   ]
   },
   {
    "id": "crown-of-portugal",
@@ -1101,7 +1133,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The monarchy ended in 1910. Dom Duarte Pio, Duke of Braganza (b. 1945), is the publicly recognised head of the House of Braganza and pretender, with his son Afonso, Prince of Beira, as heir; there is no significant restoration movement. The Portuguese Republic carries the official debate: in 2024 President Marcelo Rebelo de Sousa said Portugal should 'pay the costs' of slavery, which the government declined to act on."
+   "today": "The monarchy ended in 1910. Dom Duarte Pio, Duke of Braganza (b. 1945), is the publicly recognised head of the House of Braganza and pretender, with his son Afonso, Prince of Beira, as heir; there is no significant restoration movement. The Portuguese Republic carries the official debate: in 2024 President Marcelo Rebelo de Sousa said Portugal should 'pay the costs' of slavery, which the government declined to act on.",
+   "today_people": [
+    {
+     "name": "Dom Duarte Pio, Duke of Braganza",
+     "relation": "head of the House of Braganza and pretender to the Portuguese throne",
+     "role": "Claimant to the abolished Portuguese crown; no statement on the slave trade documented",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Duarte Pio, Duke of Braganza",
+      "url": "https://en.wikipedia.org/wiki/Duarte_Pio,_Duke_of_Braganza"
+     }
+    }
+   ]
   },
   {
    "id": "henry-the-navigator",
@@ -1236,7 +1282,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Henry never married and left no publicly documented descendants; his dukedom passed to his nephew Ferdinand and then into the crown with Manuel I. The Order of Christ survives as a Portuguese state honorific order, and Henry remains celebrated in monuments such as the Padrão dos Descobrimentos, now debated alongside the Lagos slave-market museum."
+   "today": "Henry never married and left no publicly documented descendants; his dukedom passed to his nephew Ferdinand and then into the crown with Manuel I. The Order of Christ survives as a Portuguese state honorific order, and Henry remains celebrated in monuments such as the Padrão dos Descobrimentos, now debated alongside the Lagos slave-market museum.",
+   "today_people": [
+    {
+     "name": "Dom Duarte Pio, Duke of Braganza",
+     "relation": "head of the House of Braganza and pretender to the Portuguese throne",
+     "role": "Claimant to the abolished Portuguese crown; no statement on the slave trade documented",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Duarte Pio, Duke of Braganza",
+      "url": "https://en.wikipedia.org/wiki/Duarte_Pio,_Duke_of_Braganza"
+     }
+    }
+   ]
   },
   {
    "id": "lancarote-de-freitas",
@@ -1340,7 +1400,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. He is remembered mainly through Zurara's chronicle; the profits of the 1444 sale went to the Lagos investors and Henry's fifth."
+   "today": "No publicly documented descendants have been traced. He is remembered mainly through Zurara's chronicle; the profits of the 1444 sale went to the Lagos investors and Henry's fifth.",
+   "today_people": []
   },
   {
    "id": "fernao-gomes",
@@ -1457,7 +1518,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced beyond his children Catarina Leme and Nuno Fernandes da Mina. The trade he pioneered was absorbed into the crown monopoly centred on Elmina."
+   "today": "No publicly documented descendants have been traced beyond his children Catarina Leme and Nuno Fernandes da Mina. The trade he pioneered was absorbed into the crown monopoly centred on Elmina.",
+   "today_people": []
   },
   {
    "id": "laurent-de-gorrevod",
@@ -1580,7 +1642,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Gorrevod profited by reselling the licence rather than shipping captives; his titles (count of Pont-de-Vaux) passed within his Savoyard family, and his tomb is at the Royal Monastery of Brou near Bourg-en-Bresse."
+   "today": "No publicly documented descendants have been traced. Gorrevod profited by reselling the licence rather than shipping captives; his titles (count of Pont-de-Vaux) passed within his Savoyard family, and his tomb is at the Royal Monastery of Brou near Bourg-en-Bresse.",
+   "today_people": []
   },
   {
    "id": "centurione-family",
@@ -1719,7 +1782,8 @@
      "basis": "interpretive"
     }
    ],
-   "today": "The Centurione name survives in Genoa's palazzi, several listed in the UNESCO 'Strade Nuove and the Palazzi dei Rolli' site. No publicly documented descendant has addressed the family's early slave-trade links."
+   "today": "The Centurione name survives in Genoa's palazzi, several listed in the UNESCO 'Strade Nuove and the Palazzi dei Rolli' site. No publicly documented descendant has addressed the family's early slave-trade links.",
+   "today_people": []
   },
   {
    "id": "welser-family",
@@ -1863,7 +1927,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Augsburg trading house failed in the early 17th century, and the Augsburg (1797) and Nuremberg/Neunhof (1878) lines have died out. The Ulm branch, imperial barons (Freiherren von Welser) since 1713, still exists and is reported to administer the Welsersche Familienstiftung founded in 1539. The family's history, including Venezuela, is exhibited at the Fugger und Welser Erlebnismuseum in Augsburg; no individual living descendants have spoken publicly about the slave-trade link that we have traced."
+   "today": "The Augsburg trading house failed in the early 17th century, and the Augsburg (1797) and Nuremberg/Neunhof (1878) lines have died out. The Ulm branch, imperial barons (Freiherren von Welser) since 1713, still exists and is reported to administer the Welsersche Familienstiftung founded in 1539. The family's history, including Venezuela, is exhibited at the Fugger und Welser Erlebnismuseum in Augsburg; no individual living descendants have spoken publicly about the slave-trade link that we have traced.",
+   "today_people": []
   },
   {
    "id": "fugger-family",
@@ -2001,7 +2066,45 @@
      "basis": "documented"
     }
    ],
-   "today": "The family remains prominent in Bavaria. Prince Hubertus Fugger-Babenhausen owns Wellenburg Castle, the Fuggerhäuser in Augsburg and Babenhausen castle (with a family museum) and is a co-owner of the Fürst Fugger Privatbank. In 2022 Alexander Erbgraf Fugger-Babenhausen succeeded Countess Maria Elisabeth Thun-Fugger (heiress of the Kirchberg-Weißenhorn line) as chair of the Familienseniorat that oversees the Fuggerei and eight other Fugger foundations. Research projects now examine Fugger copper in the West African trade."
+   "today": "The family remains prominent in Bavaria. Prince Hubertus Fugger-Babenhausen owns Wellenburg Castle, the Fuggerhäuser in Augsburg and Babenhausen castle (with a family museum) and is a co-owner of the Fürst Fugger Privatbank. In 2022 Alexander Erbgraf Fugger-Babenhausen succeeded Countess Maria Elisabeth Thun-Fugger (heiress of the Kirchberg-Weißenhorn line) as chair of the Familienseniorat that oversees the Fuggerei and eight other Fugger foundations. Research projects now examine Fugger copper in the West African trade.",
+   "today_people": [
+    {
+     "name": "Hubertus Fürst Fugger-Babenhausen",
+     "relation": "head of the Babenhausen line descended from Anton Fugger, Jakob Fugger's nephew and heir",
+     "role": "Owner of the Fuggerhäuser in Augsburg, Wellenburg and Babenhausen castles; shareholder of Fürst Fugger Privatbank (majority owned by the Nürnberger insurance group since 1999)",
+     "sector": "Banking & finance",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Fürst Fugger Privatbank",
+      "url": "https://en.wikipedia.org/wiki/F%C3%BCrst_Fugger_Privatbank"
+     }
+    },
+    {
+     "name": "Alexander Erbgraf Fugger-Babenhausen",
+     "relation": "heir of the Babenhausen line (Anton Fugger's descendants)",
+     "role": "Chair since 2022 of the Familienseniorat overseeing the Fuggerei and the other Fugger foundations",
+     "sector": "Land & estates",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Fuggersche Stiftungen — Press release: Generationswechsel bei den Fuggerschen Stiftungen (2022)",
+      "url": "https://media.fugger.de/fileadmin/Daten/next_500_daten/presse/pm-generationswechsel-seniorat/PM_Generationswechsel_bei_den_Fuggerschen_Stiftungen_im_Jubilaeumsjahr_30.01.2022.pdf"
+     }
+    },
+    {
+     "name": "Maria Elisabeth Gräfin Thun-Fugger",
+     "relation": "heiress of the Kirchberg-Weißenhorn Fugger line",
+     "role": "Former chair of the Fugger family Seniorat (to 2022)",
+     "sector": "Land & estates",
+     "year": 2022,
+     "basis": "documented",
+     "source": {
+      "label": "Fuggersche Stiftungen — Press release: Generationswechsel bei den Fuggerschen Stiftungen (2022)",
+      "url": "https://media.fugger.de/fileadmin/Daten/next_500_daten/presse/pm-generationswechsel-seniorat/PM_Generationswechsel_bei_den_Fuggerschen_Stiftungen_im_Jubilaeumsjahr_30.01.2022.pdf"
+     }
+    }
+   ]
   },
   {
    "id": "nicolas-de-ovando",
@@ -2113,7 +2216,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced; as a knight-commander of a military order he left no recorded heirs. He died in Seville in 1511 and was buried at San Benito de Alcántara; his will founded a chapel with weekly requiem masses."
+   "today": "No publicly documented descendants have been traced; as a knight-commander of a military order he left no recorded heirs. He died in Seville in 1511 and was buried at San Benito de Alcántara; his will founded a chapel with weekly requiem masses.",
+   "today_people": []
   },
   {
    "id": "alonso-de-ojeda",
@@ -2228,7 +2332,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Ojeda died poor in Santo Domingo c. 1515; the enterprise of raiding and colonising the Tierra Firme coast passed to men who had served with him, notably Francisco Pizarro and Martín Fernández de Enciso."
+   "today": "No publicly documented descendants have been traced. Ojeda died poor in Santo Domingo c. 1515; the enterprise of raiding and colonising the Tierra Firme coast passed to men who had served with him, notably Francisco Pizarro and Martín Fernández de Enciso.",
+   "today_people": []
   },
   {
    "id": "bartolome-de-las-casas",
@@ -2356,7 +2461,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced; he was a Dominican friar and bishop. His legacy passed to the Dominican Order and to human-rights thought, and a Catholic cause for his beatification has been opened."
+   "today": "No publicly documented descendants have been traced; he was a Dominican friar and bishop. His legacy passed to the Dominican Order and to human-rights thought, and a Catholic cause for his beatification has been opened.",
+   "today_people": []
   },
   {
    "id": "pedro-gomes-reinel",
@@ -2478,7 +2584,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. The monopoly contract he pioneered passed after 1640 to Genoese (Grillo and Lomellini), Dutch, Portuguese, French and finally British (South Sea Company, 1713) holders."
+   "today": "No publicly documented descendants have been traced. The monopoly contract he pioneered passed after 1640 to Genoese (Grillo and Lomellini), Dutch, Portuguese, French and finally British (South Sea Company, 1713) holders.",
+   "today_people": []
   },
   {
    "id": "grillo-and-lomellini",
@@ -2619,7 +2726,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced in connection with the asiento. Grillo's fortune and the Clarafuente title stayed in Madrid court circles; the Grillo and Lomellini names survive as Genoese patrician families, but no member is documented as having spoken publicly about the trade."
+   "today": "No publicly documented descendants have been traced in connection with the asiento. Grillo's fortune and the Clarafuente title stayed in Madrid court circles; the Grillo and Lomellini names survive as Genoese patrician families, but no member is documented as having spoken publicly about the trade.",
+   "today_people": []
   },
   {
    "id": "paulo-dias-de-novais",
@@ -2733,7 +2841,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Novais died bankrupt in 1589, having funded the venture himself, and the hereditary donataria lapsed to the Portuguese Crown rather than to heirs."
+   "today": "No publicly documented descendants have been traced. Novais died bankrupt in 1589, having funded the venture himself, and the hereditary donataria lapsed to the Portuguese Crown rather than to heirs.",
+   "today_people": []
   },
   {
    "id": "marquis-of-pombal",
@@ -2874,7 +2983,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The title passed through Pombal's sons to the Carvalho Daun e Lorena family, whose members publicly defended his reputation in the 1930s–40s. His fortune was bound up in the Oeiras and Pombal estates. No living descendant has been documented speaking publicly about the slave-trade companies he founded."
+   "today": "The title passed through Pombal's sons to the Carvalho Daun e Lorena family, whose members publicly defended his reputation in the 1930s–40s. His fortune was bound up in the Oeiras and Pombal estates. No living descendant has been documented speaking publicly about the slave-trade companies he founded.",
+   "today_people": []
   },
   {
    "id": "antonio-lopez-comillas",
@@ -3039,7 +3149,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Marquisate of Comillas remains with López's descendants through the Güell family: the Spanish Official Gazette (BOE) published the succession of María de los Reyes Güell y Merry del Val as 5th Marchioness in February 2026. The Compañía Trasatlántica was absorbed into the state holding INI in 1978 and privatised in 1994; the Comillas Pontifical University, founded with family money as a seminary in 1890, now operates in Madrid."
+   "today": "The Marquisate of Comillas remains with López's descendants through the Güell family: the Spanish Official Gazette (BOE) published the succession of María de los Reyes Güell y Merry del Val as 5th Marchioness in February 2026. The Compañía Trasatlántica was absorbed into the state holding INI in 1978 and privatised in 1994; the Comillas Pontifical University, founded with family money as a seminary in 1890, now operates in Madrid.",
+   "today_people": [
+    {
+     "name": "María de los Reyes Güell y Merry del Val, 5th Marchioness of Comillas",
+     "relation": "descendant of Antonio López via the López–Güell marriage; Royal Letter of Succession published in the BOE, Feb 2026, on the death of her father Juan Alfonso Güell y Martos",
+     "role": "Holder of the Marquisate of Comillas (Spanish noble title)",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "BOE — Orden PJC/52/2026, succession to the Marquisate of Comillas",
+      "url": "https://boe.es/boe/dias/2026/02/02/pdfs/BOE-A-2026-2398.pdf"
+     }
+    }
+   ]
   },
   {
    "id": "pedro-martinez-cadiz",
@@ -3138,7 +3262,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. The firm's history was largely forgotten until Carmen Cózar Navarro's research (2018 chapter; 2021 book La Orca del Atlántico)."
+   "today": "No publicly documented descendants have been traced. The firm's history was largely forgotten until Carmen Cózar Navarro's research (2018 chapter; 2021 book La Orca del Atlántico).",
+   "today_people": []
   },
   {
    "id": "josep-xifre",
@@ -3248,7 +3373,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented living descendants have been traced. Part of the wealth went to the Arenys de Mar hospital, which he built and gave to the town in 1849 with an endowment for its upkeep; the Porxos d'en Xifré still stand in Barcelona."
+   "today": "No publicly documented living descendants have been traced. Part of the wealth went to the Arenys de Mar hospital, which he built and gave to the town in 1849 with an endowment for its upkeep; the Porxos d'en Xifré still stand in Barcelona.",
+   "today_people": []
   },
   {
    "id": "casa-de-contratacion",

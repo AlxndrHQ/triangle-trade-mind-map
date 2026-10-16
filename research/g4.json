@@ -213,7 +213,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Under Benin's constitution the king of Dahomey has no power, but the kingship survives as a ceremonial and religious office in Abomey. Since 2000 rival lineages have put forward competing claimants; Dada Kêfa Sagbadjou Glèlè, a grandson of King Glele, was chosen in 2019 and died in December 2021, and Georges Collinet Béhanzin was enthroned as Dada Dèwènondè Gbéhanzin in February 2022. The Royal Palaces of Abomey are a UNESCO World Heritage Site, and Benin's 1999 apology acknowledged the kingdom's part in the trade. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "Under Benin's constitution the king of Dahomey has no power, but the kingship survives as a ceremonial and religious office in Abomey. Since 2000 rival lineages have put forward competing claimants; Dada Kêfa Sagbadjou Glèlè, a grandson of King Glele, was chosen in 2019 and died in December 2021, and Georges Collinet Béhanzin was enthroned as Dada Dèwènondè Gbéhanzin in February 2022. The Royal Palaces of Abomey are a UNESCO World Heritage Site, and Benin's 1999 apology acknowledged the kingdom's part in the trade. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Dada Dèwènondè Gbéhanzin (Georges Collinet Béhanzin)",
+     "relation": "descendant of King Béhanzin; chosen by agreement of three rival lineages",
+     "role": "King of Dahomey (ceremonial, Abomey) since February 2022",
+     "sector": "Royalty & titles",
+     "year": 2022,
+     "basis": "documented",
+     "source": {
+      "label": "Benin Web TV — Georges Collinet Béhanzin intronisé au palais de Djimè (2022)",
+      "url": "https://beninwebtv.bj/benin-georges-collinet-behanzin-intronise-ce-lundi-au-palais-de-djime/"
+     }
+    },
+    {
+     "name": "Dada Kêfa Sagbadjou Glèlè",
+     "relation": "grandson of King Glele (great-grandson of Ghezo)",
+     "role": "King of Dahomey (ceremonial) 2019 until his death in December 2021",
+     "sector": "Royalty & titles",
+     "year": 2021,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Dah Sagbadjou Glele",
+      "url": "https://en.wikipedia.org/wiki/Dah_Sagbadjou_Glele"
+     }
+    }
+   ]
   },
   {
    "id": "agaja-of-dahomey",
@@ -605,7 +631,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Ghezo is remembered in Benin as a strong king who ended Dahomey's tribute to Oyo; his descendants make up one of the main branches of the Abomey royal family. Dada Kêfa Sagbadjou Glèlè, king from 2019 to 2021, was his great-grandson through Glele. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "Ghezo is remembered in Benin as a strong king who ended Dahomey's tribute to Oyo; his descendants make up one of the main branches of the Abomey royal family. Dada Kêfa Sagbadjou Glèlè, king from 2019 to 2021, was his great-grandson through Glele. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Dada Kêfa Sagbadjou Glèlè",
+     "relation": "grandson of King Glele (great-grandson of Ghezo)",
+     "role": "King of Dahomey (ceremonial) 2019 until his death in December 2021",
+     "sector": "Royalty & titles",
+     "year": 2021,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Dah Sagbadjou Glele",
+      "url": "https://en.wikipedia.org/wiki/Dah_Sagbadjou_Glele"
+     }
+    }
+   ]
   },
   {
    "id": "glele-of-dahomey",
@@ -733,7 +773,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Glele's descendants form one of the main royal lineages of Abomey: his grandson Dada Kêfa Sagbadjou Glèlè was elected king of Dahomey in 2019 and died on 17 December 2021, and a member of Béhanzin's line succeeded in 2022. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "Glele's descendants form one of the main royal lineages of Abomey: his grandson Dada Kêfa Sagbadjou Glèlè was elected king of Dahomey in 2019 and died on 17 December 2021, and a member of Béhanzin's line succeeded in 2022. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Dada Kêfa Sagbadjou Glèlè",
+     "relation": "grandson of King Glele (great-grandson of Ghezo)",
+     "role": "King of Dahomey (ceremonial) 2019 until his death in December 2021",
+     "sector": "Royalty & titles",
+     "year": 2021,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Dah Sagbadjou Glele",
+      "url": "https://en.wikipedia.org/wiki/Dah_Sagbadjou_Glele"
+     }
+    },
+    {
+     "name": "Dada Dèwènondè Gbéhanzin (Georges Collinet Béhanzin)",
+     "relation": "descendant of King Béhanzin; chosen by agreement of three rival lineages",
+     "role": "King of Dahomey (ceremonial, Abomey) since February 2022",
+     "sector": "Royalty & titles",
+     "year": 2022,
+     "basis": "documented",
+     "source": {
+      "label": "Benin Web TV — Georges Collinet Béhanzin intronisé au palais de Djimè (2022)",
+      "url": "https://beninwebtv.bj/benin-georges-collinet-behanzin-intronise-ce-lundi-au-palais-de-djime/"
+     }
+    }
+   ]
   },
   {
    "id": "francisco-felix-de-souza",
@@ -907,7 +973,45 @@
      "basis": "documented"
     }
    ],
-   "today": "The de Souza family is still prominent in Benin, and the hereditary title of Chachá is held by its head, at present Moise de Souza (Chachá IX), a construction engineer. He has been quoted as saying the family history 'makes me feel bad… all I can do is apologize', while opposing the label 'slave merchant' for the founder in Ouidah's museum. Publicly known members of the clan include Archbishop Isidore de Souza (1934–1999), Paul-Émile de Souza (head of Dahomey's ruling Directory 1969–70) and Chantal de Souza Yayi (First Lady 2006–16). Descendants carry no guilt for the founder's slave trading."
+   "today": "The de Souza family is still prominent in Benin, and the hereditary title of Chachá is held by its head, at present Moise de Souza (Chachá IX), a construction engineer. He has been quoted as saying the family history 'makes me feel bad… all I can do is apologize', while opposing the label 'slave merchant' for the founder in Ouidah's museum. Publicly known members of the clan include Archbishop Isidore de Souza (1934–1999), Paul-Émile de Souza (head of Dahomey's ruling Directory 1969–70) and Chantal de Souza Yayi (First Lady 2006–16). Descendants carry no guilt for the founder's slave trading.",
+   "today_people": [
+    {
+     "name": "Moïse de Souza (Chachá IX)",
+     "relation": "head of the de Souza family and holder of the hereditary Chachá title founded by Francisco Félix de Souza",
+     "role": "Construction engineer; titular head (Chachá IX) of the de Souza clan of Ouidah; has publicly said the history 'makes me feel bad… all I can do is apologize'",
+     "sector": "Royalty & titles",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Moise de Souza",
+      "url": "https://en.wikipedia.org/wiki/Moise_de_Souza"
+     }
+    },
+    {
+     "name": "Chantal de Souza Yayi",
+     "relation": "great-granddaughter of Francisco Félix de Souza (per published biography)",
+     "role": "First Lady of Benin 2006–2016 (wife of President Thomas Boni Yayi)",
+     "sector": "Politics & government",
+     "year": 2016,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Chantal Yayi",
+      "url": "https://en.wikipedia.org/wiki/Chantal_Yayi"
+     }
+    },
+    {
+     "name": "Marcel Alain de Souza (1953–2019)",
+     "relation": "brother of Chantal de Souza Yayi; nephew of Archbishop Isidore de Souza",
+     "role": "Banker; Benin minister of development; President of the ECOWAS Commission 2016–2018",
+     "sector": "Banking & finance",
+     "year": 2018,
+     "basis": "documented",
+     "source": {
+      "label": "Burkina24 — Décès de l'ancien président de la commission de la CEDEAO, Marcel de Souza (2019)",
+      "url": "https://burkina24.com/?p=199094"
+     }
+    }
+   ]
   },
   {
    "id": "de-souza-family",
@@ -1052,7 +1156,45 @@
      "basis": "documented"
     }
    ],
-   "today": "The de Souzas remain part of Benin's elite, with a family compound at Singbomey in Ouidah's Brazil Quarter and an annual commemoration of the founder. The Chachá title passes to the family head, now Moise de Souza (Chachá IX). Public figures from the clan include Archbishop Isidore de Souza, army officer and Directory chairman Paul-Émile de Souza (1930–1999) and former First Lady Chantal de Souza Yayi. Family leaders have acknowledged the pain of the history, and descendants carry no guilt for it."
+   "today": "The de Souzas remain part of Benin's elite, with a family compound at Singbomey in Ouidah's Brazil Quarter and an annual commemoration of the founder. The Chachá title passes to the family head, now Moise de Souza (Chachá IX). Public figures from the clan include Archbishop Isidore de Souza, army officer and Directory chairman Paul-Émile de Souza (1930–1999) and former First Lady Chantal de Souza Yayi. Family leaders have acknowledged the pain of the history, and descendants carry no guilt for it.",
+   "today_people": [
+    {
+     "name": "Moïse de Souza (Chachá IX)",
+     "relation": "head of the de Souza family and holder of the hereditary Chachá title founded by Francisco Félix de Souza",
+     "role": "Construction engineer; titular head (Chachá IX) of the de Souza clan of Ouidah; has publicly said the history 'makes me feel bad… all I can do is apologize'",
+     "sector": "Royalty & titles",
+     "year": 2023,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Moise de Souza",
+      "url": "https://en.wikipedia.org/wiki/Moise_de_Souza"
+     }
+    },
+    {
+     "name": "Chantal de Souza Yayi",
+     "relation": "great-granddaughter of Francisco Félix de Souza (per published biography)",
+     "role": "First Lady of Benin 2006–2016 (wife of President Thomas Boni Yayi)",
+     "sector": "Politics & government",
+     "year": 2016,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Chantal Yayi",
+      "url": "https://en.wikipedia.org/wiki/Chantal_Yayi"
+     }
+    },
+    {
+     "name": "Marcel Alain de Souza (1953–2019)",
+     "relation": "brother of Chantal de Souza Yayi; nephew of Archbishop Isidore de Souza",
+     "role": "Banker; Benin minister of development; President of the ECOWAS Commission 2016–2018",
+     "sector": "Banking & finance",
+     "year": 2018,
+     "basis": "documented",
+     "source": {
+      "label": "Burkina24 — Décès de l'ancien président de la commission de la CEDEAO, Marcel de Souza (2019)",
+      "url": "https://burkina24.com/?p=199094"
+     }
+    }
+   ]
   },
   {
    "id": "oyo-empire",
@@ -1195,7 +1337,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Alaafin of Oyo remains one of Nigeria's foremost Yoruba traditional rulers, now based at modern Oyo; Oba Abimbola Akeem Owoade I (installed 2025) succeeded Oba Lamidi Adeyemi III (d. 2022). The Oyo wars sent many Yoruba captives to Brazil and Cuba, where their religion shaped Candomblé and Santería. Members of the royal house carry no guilt for the empire's slave trading."
+   "today": "The Alaafin of Oyo remains one of Nigeria's foremost Yoruba traditional rulers, now based at modern Oyo; Oba Abimbola Akeem Owoade I (installed 2025) succeeded Oba Lamidi Adeyemi III (d. 2022). The Oyo wars sent many Yoruba captives to Brazil and Cuba, where their religion shaped Candomblé and Santería. Members of the royal house carry no guilt for the empire's slave trading.",
+   "today_people": [
+    {
+     "name": "Oba Abimbola Akeem Owoade I",
+     "relation": "46th Alaafin; member of the Oyo royal lineage (second cousin twice removed of Lamidi Adeyemi III)",
+     "role": "Alaafin of Oyo, crowned 5 April 2025",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Abimbola Owoade",
+      "url": "https://en.wikipedia.org/wiki/Abimbola_Owoade"
+     }
+    }
+   ]
   },
   {
    "id": "asante-empire",
@@ -1368,7 +1524,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Asante kingdom survives as a powerful traditional state within Ghana. Otumfuo Nana Osei Tutu II, born 1950, was enstooled as the 16th Asantehene on 26 April 1999 and is custodian of the Golden Stool at Kumasi. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The Asante kingdom survives as a powerful traditional state within Ghana. Otumfuo Nana Osei Tutu II, born 1950, was enstooled as the 16th Asantehene on 26 April 1999 and is custodian of the Golden Stool at Kumasi. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Otumfuo Nana Osei Tutu II",
+     "relation": "reigning holder of the Golden Stool (title-heir of the Asante kings)",
+     "role": "16th Asantehene since 26 April 1999; silver jubilee 2024",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Ghana News Agency — Akwasidae-kese durbar climaxes Otumfuo Osei Tutu II's 25th anniversary (2024)",
+      "url": "https://gna.org.gh/2024/05/akwasidae-kese-durbar-to-climax-otumfuo-osei-tutu-iis-25th-anniversary/"
+     }
+    }
+   ]
   },
   {
    "id": "osei-bonsu-of-asante",
@@ -1489,7 +1659,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Osei Bonsu's Golden Stool is held today by Otumfuo Nana Osei Tutu II, Asantehene since 1999. No individual descendants of Osei Bonsu are singled out here. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "Osei Bonsu's Golden Stool is held today by Otumfuo Nana Osei Tutu II, Asantehene since 1999. No individual descendants of Osei Bonsu are singled out here. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Otumfuo Nana Osei Tutu II",
+     "relation": "reigning holder of the Golden Stool (title-heir of the Asante kings)",
+     "role": "16th Asantehene since 26 April 1999; silver jubilee 2024",
+     "sector": "Royalty & titles",
+     "year": 2024,
+     "basis": "documented",
+     "source": {
+      "label": "Ghana News Agency — Akwasidae-kese durbar climaxes Otumfuo Osei Tutu II's 25th anniversary (2024)",
+      "url": "https://gna.org.gh/2024/05/akwasidae-kese-durbar-to-climax-otumfuo-osei-tutu-iis-25th-anniversary/"
+     }
+    }
+   ]
   },
   {
    "id": "akwamu-kingdom",
@@ -1609,7 +1793,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Akwamu survives as a traditional paramountcy at Akwamufie in Ghana's Eastern Region, ruled by an Akwamuhene. Its history is told both as resistance (the seizure of Christiansborg) and as collaboration in the slave trade; Akwamu captives were among the leaders of the 1733 revolt on St John in the Danish West Indies. Present-day Akwamu people carry no guilt for the kingdom's slave trading."
+   "today": "Akwamu survives as a traditional paramountcy at Akwamufie in Ghana's Eastern Region, ruled by an Akwamuhene. Its history is told both as resistance (the seizure of Christiansborg) and as collaboration in the slave trade; Akwamu captives were among the leaders of the 1733 revolt on St John in the Danish West Indies. Present-day Akwamu people carry no guilt for the kingdom's slave trading.",
+   "today_people": [
+    {
+     "name": "Odeneho Kwafo Akoto III",
+     "relation": "Akwamuhene (title-heir of the Akwamu kings); Supreme Court upheld his installation (2022)",
+     "role": "Paramount chief of Akwamu, Akwamufie; guest of honour at Anlo Hogbetsotso 2025",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Ghana News Agency — Hogbeza 2025: Anlo, Akwamu to strengthen historic ties",
+      "url": "https://gna.org.gh/2025/10/hogbeza-2025-anlo-akwamu-to-strengthen-historic-ties/"
+     }
+    }
+   ]
   },
   {
    "id": "kingdom-of-kongo",
@@ -2307,7 +2505,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Eze Aro remains the paramount traditional ruler of Arochukwu in Abia State, Nigeria, and Aro settlements founded along the old trade routes survive across Igboland. The Arochukwu slave-route sites are on Nigeria's UNESCO tentative list and are visited as heritage sites. Present-day Aro people carry no guilt for the confederacy's slave trading."
+   "today": "The Eze Aro remains the paramount traditional ruler of Arochukwu in Abia State, Nigeria, and Aro settlements founded along the old trade routes survive across Igboland. The Arochukwu slave-route sites are on Nigeria's UNESCO tentative list and are visited as heritage sites. Present-day Aro people carry no guilt for the confederacy's slave trading.",
+   "today_people": [
+    {
+     "name": "Eze Aro IX, Dr Eberechukwu Oji",
+     "relation": "title-heir to the Eze Aro kingship of Arochukwu",
+     "role": "Eze Aro since 2024 (staff of office from Abia State, January 2024)",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "ThisDay — Abia govt ends tussle over Eze Aro throne, presents staff of office to Oji (2024)",
+      "url": "https://www.thisdaylive.com/2024/01/29/abia-govt-ends-tussle-over-eze-aro-throne-presents-staff-of-office-to-oji"
+     }
+    }
+   ]
   },
   {
    "id": "kingdom-of-bonny",
@@ -2458,7 +2670,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Pepple (Perekule) royal house still provides the Amanyanabo of Grand Bonny: King Edward Asimini William Dappa Pepple III, Perekule XI, has reigned since 1996, with a council of chiefs heading the historic trading houses. Bonny Island is now a centre of Nigeria's oil and liquefied-gas industry. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The Pepple (Perekule) royal house still provides the Amanyanabo of Grand Bonny: King Edward Asimini William Dappa Pepple III, Perekule XI, has reigned since 1996, with a council of chiefs heading the historic trading houses. Bonny Island is now a centre of Nigeria's oil and liquefied-gas industry. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "King Edward Asimini William Dappa Pepple III (Perekule XI)",
+     "relation": "head of the Pepple (Perekule) royal house of Grand Bonny",
+     "role": "Amanyanabo of Grand Bonny since 1996; 60th birthday thanksgiving 2025",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Kingdom of Bonny",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bonny"
+     }
+    }
+   ]
   },
   {
    "id": "old-calabar-efik",
@@ -2606,7 +2832,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Obong of Calabar remains paramount ruler of the Efik. Edidem Ekpo Okon Abasi Otu V has held the title since 2008; a 2023 Supreme Court judgment ordered a fresh selection, after which the Etubom (house heads) re-proclaimed him and the Cross River State government stated he remains the valid Obong. The Ekpe society survives in Calabar and, through enslaved Efik, as Abakuá in Cuba. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
+   "today": "The Obong of Calabar remains paramount ruler of the Efik. Edidem Ekpo Okon Abasi Otu V has held the title since 2008; a 2023 Supreme Court judgment ordered a fresh selection, after which the Etubom (house heads) re-proclaimed him and the Cross River State government stated he remains the valid Obong. The Ekpe society survives in Calabar and, through enslaved Efik, as Abakuá in Cuba. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading.",
+   "today_people": [
+    {
+     "name": "Edidem Ekpo Okon Abasi Otu V",
+     "relation": "paramount head of the Efik houses of Old Calabar (title-heir)",
+     "role": "Obong of Calabar since 2008; re-proclaimed 2023 after a Supreme Court ruling, recognised by Cross River State",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Cross River State Gov. — Edidem Ekpo Okon Abasi V remains the authentic Obong of Calabar",
+      "url": "https://news.crossriverstate.gov.ng/edidem-ekpo-okon-abasi-v-remains-the-authentic-obong-of-calabar-gov-otu"
+     }
+    }
+   ]
   },
   {
    "id": "duke-ephraim",
@@ -2860,7 +3100,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Jaja's descendants still provide the Amanyanabo (king) of Opobo, a kingdom of 14 sections and 67 war-canoe houses in Rivers State. He is honoured in Nigeria as an anti-colonial hero and recalled in a Barbadian folk song from his exile. He himself had been enslaved as a child; his descendants carry no guilt for the slave trading of his era."
+   "today": "Jaja's descendants still provide the Amanyanabo (king) of Opobo, a kingdom of 14 sections and 67 war-canoe houses in Rivers State. He is honoured in Nigeria as an anti-colonial hero and recalled in a Barbadian folk song from his exile. He himself had been enslaved as a child; his descendants carry no guilt for the slave trading of his era. King Dandeson Douglas Jaja V died in 2025 and Charles Douglas MacPepple Jaja was crowned Jeki VI in September 2026.",
+   "today_people": [
+    {
+     "name": "King Charles Douglas MacPepple Jaja (Jeki VI)",
+     "relation": "descendant of Jaja of Opobo; successor of King Dandeson Douglas Jaja V (d. 2025)",
+     "role": "Crowned 6th Amanyanabo of Opobo, September 2026",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Arise News — MacPepple Jaja coronated 6th Amanyanabo of Opobo Kingdom",
+      "url": "https://www.arise.tv/macpepple-jaja-coronated-6th-amanyanabo-of-opobo-kingdom/"
+     }
+    },
+    {
+     "name": "King Dandeson Douglas Jaja (Jeki V)",
+     "relation": "descendant of Jaja of Opobo",
+     "role": "Amanyanabo of Opobo 2004–2025 (died 2025)",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Opobo",
+      "url": "https://en.wikipedia.org/wiki/Opobo"
+     }
+    }
+   ]
   },
   {
    "id": "kosoko-of-lagos",
@@ -3002,7 +3268,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Kosoko was buried at Iga Ereko in Lagos, and the Kosoko family remains part of the Lagos royal (Ologun Kutere) lineage, though the Obaship stayed with the Akitoye–Dosunmu branch. Publicly known descendants include the actor Jide Kosoko. The current Oba of Lagos is Rilwan Akiolu (since 2003). Descendants carry no guilt for Kosoko's slave trading."
+   "today": "Kosoko was buried at Iga Ereko in Lagos, and the Kosoko family remains part of the Lagos royal (Ologun Kutere) lineage, though the Obaship stayed with the Akitoye–Dosunmu branch. Publicly known descendants include the actor Jide Kosoko. The current Oba of Lagos is Rilwan Akiolu (since 2003). Descendants carry no guilt for Kosoko's slave trading. In January 2026 the King Kosoko Royal Family declared Jide Kosoko Oloja of Lagos-elect, a choice contested by a rival branch.",
+   "today_people": [
+    {
+     "name": "Jide Kosoko",
+     "relation": "direct descendant of Oba Kosoko (father Prince Lasisi Kosoko), per his own profile and the King Kosoko Royal Family",
+     "role": "Veteran Nollywood actor; declared Oloja of Lagos-elect by the King Kosoko Royal Family (January 2026, installation contested by a rival branch)",
+     "sector": "Culture & media",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "allAfrica — Veteran actor Jide Kosoko declared Oloja of Lagos-elect (2026)",
+      "url": "https://allafrica.com/stories/202601280135.html"
+     }
+    },
+    {
+     "name": "Oba Rilwan Akiolu I",
+     "relation": "holder of the Lagos throne once held by Akitoye, Kosoko and Dosunmu; his own eligibility was challenged in court and upheld (2017)",
+     "role": "Oba of Lagos since 2003",
+     "sector": "Royalty & titles",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "ThisDay — Lagos kingmaker defends Oba Akiolu's ascendance to throne (2017)",
+      "url": "https://thisdaylive.com/index.php/2017/07/12/lagos-kingmaker-defends-oba-akiolus-ascendance-to-throne"
+     }
+    }
+   ]
   },
   {
    "id": "madam-tinubu",
@@ -3154,7 +3446,33 @@
      "basis": "documented"
     }
    ],
-   "today": "Tinubu Square in Lagos and statues in Lagos and Abeokuta commemorate her, and she is buried in Ojokodo, Abeokuta. Claims that Nigeria's President Bola Ahmed Tinubu descends from her remain unproven: no published genealogy links him to her line. Anyone who bears her name or descends from her carries no guilt for her slave trading."
+   "today": "Tinubu Square in Lagos and statues in Lagos and Abeokuta commemorate her, and she is buried in Ojokodo, Abeokuta. Claims that Nigeria's President Bola Ahmed Tinubu descends from her remain unproven: no published genealogy links him to her line. Anyone who bears her name or descends from her carries no guilt for her slave trading. Her biographer Oladipo Yemitan ('Madame Tinubu: Merchant and King-maker', 1987) records that her two sons died before her; the Tinubu name spread to her husband Momoh Bukar's children by other wives, her Abeokuta relatives and former slaves. In December 2025 estate administrator Chief Akindele Adamakin called President Tinubu a 'direct descendant' without offering evidence; no published genealogy supports it. First Lady Oluremi Tinubu (née Ajayi) is a Tinubu by marriage only, and her many 2025 chieftaincy honours do not include the Iyalode title Madam Tinubu held.",
+   "today_people": [
+    {
+     "name": "Bola Ahmed Tinubu",
+     "relation": "CLAIMED descendant of Madam Efunroye Tinubu — UNPROVEN. Asserted by estate administrator Chief Akindele Adamakin (Leadership, Dec 2025) without evidence; Yemitan's biography records that her two sons died before her and that the name was taken by her husband Momoh Bukar's children by other wives, her Abeokuta relatives and former slaves; columnist Farooq Kperogi (2022) argues the President belongs to none of these branches",
+     "role": "President of Nigeria since May 2023; former Governor of Lagos State (1999–2007)",
+     "sector": "Politics & government",
+     "year": 2026,
+     "basis": "interpretive",
+     "source": {
+      "label": "Leadership — Tinubu estate administrator decries trespass, calls for family reunification (2025)",
+      "url": "https://leadership.ng/tinubu-estate-administrator-decries-trespass-calls-for-family-reunification/"
+     }
+    },
+    {
+     "name": "Chief Akindele Adamakin",
+     "relation": "sole administrator of the Madam Efunroye Tinubu estate; publicly speaks for the estate",
+     "role": "Administrator of the Tinubu estate (Lagos); at the 138th remembrance (Dec 2025) called President Tinubu a 'direct descendant' without citing evidence",
+     "sector": "Land & estates",
+     "year": 2025,
+     "basis": "documented",
+     "source": {
+      "label": "Leadership — Tinubu estate administrator decries trespass, calls for family reunification (2025)",
+      "url": "https://leadership.ng/tinubu-estate-administrator-decries-trespass-calls-for-family-reunification/"
+     }
+    }
+   ]
   },
   {
    "id": "nana-olomu",
@@ -3398,7 +3716,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Caulker paramount chiefs dominated the Bumpe and Kagboro chiefdoms into the 20th century. According to Wikipedia, most Caulker descendants today live in Bonthe and Shenge in Sierra Leone's Moyamba District, and the clan keeps oral and written accounts of its English founder. No private living individuals are named here; descendants carry no guilt for the family's slave trading."
+   "today": "Caulker paramount chiefs dominated the Bumpe and Kagboro chiefdoms into the 20th century. According to Wikipedia, most Caulker descendants today live in Bonthe and Shenge in Sierra Leone's Moyamba District, and the clan keeps oral and written accounts of its English founder. No private living individuals are named here; descendants carry no guilt for the family's slave trading.",
+   "today_people": [
+    {
+     "name": "Paramount Chief Charles B. Caulker",
+     "relation": "member of the Caulker ruling family descended from Thomas Corker",
+     "role": "Paramount Chief of Bumpe Chiefdom, Moyamba District, Sierra Leone (in office over 35 years by c.2020)",
+     "sector": "Royalty & titles",
+     "year": 2020,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Charles B. Caulker",
+      "url": "https://en.wikipedia.org/wiki/Charles_B._Caulker"
+     }
+    }
+   ]
   },
   {
    "id": "tucker-and-rogers-families",

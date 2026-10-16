@@ -1,0 +1,3613 @@
+{
+ "records": [
+  {
+   "category": "Crowns & Explorers",
+   "nation": "Britain",
+   "scaleBasis": "documented",
+   "aliases": [
+    "Anne Arundel",
+    "Lady Baltimore"
+   ],
+   "id": "anne-arundell-calvert",
+   "name": "Anne Arundell, Lady Baltimore",
+   "role": "Explorer & Crown",
+   "scale": "Minor",
+   "scaleNote": "No documented direct involvement in slavery; she died in 1649, before Maryland's 1664 lifelong-slavery act. Included because Anne Arundel County carries her name.",
+   "start": 1628,
+   "end": 1649,
+   "lifespan": "c.1615–1649",
+   "base": "Wardour, Wiltshire, England",
+   "geo": [
+    51.054,
+    -2.087
+   ],
+   "origins": "Daughter of Thomas Arundell, 1st Baron Arundell of Wardour, a Catholic Wiltshire family. She married Cecil Calvert, 2nd Lord Baltimore, by a settlement of 1627/28 and never travelled to Maryland.",
+   "role_summary": "No documented direct involvement in slavery. She was the wife of the first Lord Proprietor of Maryland and mother of Charles Calvert, 3rd Lord Baltimore, whose governorship produced Maryland's 1664 act making enslavement lifelong and hereditary.",
+   "roleDetail": [
+    {
+     "t": "Wife of the proprietor.",
+     "d": "Married Cecil Calvert, who founded Maryland in 1634; four of their nine children survived, including Charles Calvert.",
+     "basis": "documented"
+    },
+    {
+     "t": "Mother of the 1664 governor.",
+     "d": "Her son Charles Calvert was governor when the assembly passed the 1664 act declaring enslaved Africans servants 'durante vita'.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Her name survives in Anne Arundel County (1650), home of Annapolis, the colonial capital whose port and markets handled enslaved Africans through the 18th century. No Arundell of Wardour slave-trade role is documented.",
+   "legacyDetail": [
+    {
+     "t": "County name.",
+     "d": "Anne Arundel County was named for her; the USS Anne Arundel was in turn named for the county.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Arundell, 1st Baron Arundell of Wardour",
+     "relation": "father",
+     "years": "c.1560–1639",
+     "note": "Catholic peer of Wardour Castle, Wiltshire.",
+     "basis": "documented"
+    },
+    {
+     "name": "Cecil Calvert, 2nd Baron Baltimore",
+     "relation": "spouse",
+     "years": "1605–1675",
+     "note": "First Lord Proprietor of Maryland.",
+     "basis": "documented",
+     "id": "calvert-family"
+    },
+    {
+     "name": "Charles Calvert, 3rd Baron Baltimore",
+     "relation": "son",
+     "years": "1637–1715",
+     "note": "Governor of Maryland in 1664 when lifelong slavery was enacted.",
+     "basis": "documented",
+     "id": "calvert-family"
+    }
+   ],
+   "today": "The Arundell of Wardour barony became extinct in 1944. No publicly documented descendants with a link to Maryland slavery have been traced beyond the Calvert line itself.",
+   "placesNamed": [
+    "Anne Arundel County, Maryland",
+    "Arundel Mills (Hanover, Maryland)"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Anne Arundell",
+     "url": "https://en.wikipedia.org/wiki/Anne_Arundell"
+    },
+    {
+     "label": "Maryland Manual (1960s) — Origin of county names",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000172/html/am172--738.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "family",
+     "label": "married Cecil Calvert"
+    },
+    {
+     "id": "maryland-slave-law-1664",
+     "type": "family",
+     "label": "son's governorship passed act"
+    },
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Anne Arundel County"
+    }
+   ]
+  },
+  {
+   "category": "Crowns & Explorers",
+   "nation": "Britain",
+   "scaleBasis": "estimated",
+   "aliases": [
+    "Lord Baltimore",
+    "6th Baron Baltimore"
+   ],
+   "id": "frederick-calvert-6th-baron-baltimore",
+   "name": "Frederick Calvert, 6th Lord Baltimore",
+   "role": "Explorer & Crown",
+   "scale": "Significant",
+   "scaleNote": "Absentee proprietor (1751–71) whose income — up to £10,000 a year in land revenues plus a 14d-per-ton shipping duty, per the Maryland State Archives — came from a tobacco economy worked largely by enslaved people.",
+   "start": 1751,
+   "end": 1771,
+   "lifespan": "1731/32–1771",
+   "base": "London / continental Europe (never visited Maryland)",
+   "geo": [
+    51.507,
+    -0.128
+   ],
+   "origins": "Son of Charles Calvert, 5th Lord Baltimore, he inherited the Maryland proprietorship in 1751 at nineteen. He lived in England and on the Continent and never set foot in the colony.",
+   "role_summary": "As proprietor he drew quit-rents, land sales and port duties from a colony whose exports were produced by enslaved labour, and his officials administered Maryland's slave codes. He treated the province mainly as a source of income for an extravagant life; in 1768 he was tried in England for rape and acquitted.",
+   "roleDetail": [
+    {
+     "t": "Revenue from a slave economy.",
+     "d": "The MSA records a 14d-per-ton shipping duty and up to £10,000 sterling a year in land revenues; his manors covered at least 111,500 acres in 1751.",
+     "basis": "documented"
+    },
+    {
+     "t": "Proprietary government enforced slave law.",
+     "d": "Tobacco inspection and fee acts and the colony's slave statutes were passed under his proprietorship.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Left Maryland to his illegitimate son.",
+     "d": "His 1771 will devised the province to Henry Harford, with £20,000 for his sisters including Caroline Eden.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Frederick County (1748) is 'probably' named for him per the Maryland Manual, and the city of Frederick likewise. The proprietorship ended with the Revolution and the state confiscated proprietary lands.",
+   "legacyDetail": [
+    {
+     "t": "Namesake.",
+     "d": "Maryland Manual: Frederick County 'probably takes its name from Frederick Calvert'.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Charles Calvert, 5th Baron Baltimore",
+     "relation": "father",
+     "years": "1699–1751",
+     "note": "Passed on the proprietorship.",
+     "basis": "documented",
+     "id": "calvert-family"
+    },
+    {
+     "name": "Caroline Calvert Eden",
+     "relation": "sister",
+     "years": "c.1745–1792",
+     "note": "Namesake of Caroline County.",
+     "basis": "documented",
+     "id": "caroline-calvert-eden"
+    },
+    {
+     "name": "Henry Harford",
+     "relation": "son",
+     "years": "c.1759–1834",
+     "note": "Illegitimate son who inherited the province.",
+     "basis": "documented",
+     "id": "henry-harford"
+    }
+   ],
+   "today": "The barony of Baltimore became extinct at his death in 1771. His Maryland interests passed to Henry Harford; no publicly documented descendants are linked to the slavery history today.",
+   "placesNamed": [
+    "Frederick County, Maryland (probable)",
+    "Frederick, Maryland (probable)"
+   ],
+   "sources": [
+    {
+     "label": "Archives of Maryland — Frederick Calvert, 6th Lord Baltimore (biography)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000100/000197/html/197bio.html"
+    },
+    {
+     "label": "Maryland Manual — Frederick County origin",
+     "url": "https://msa.maryland.gov/msa/mdmanual/36loc/fr/html/fr.html"
+    },
+    {
+     "label": "Wikipedia — Frederick Calvert, 6th Baron Baltimore",
+     "url": "https://en.wikipedia.org/wiki/Frederick_Calvert,_6th_Baron_Baltimore"
+    }
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "family",
+     "label": "6th Lord Baltimore"
+    },
+    {
+     "id": "henry-harford",
+     "type": "family",
+     "label": "father; left him Maryland"
+    },
+    {
+     "id": "caroline-calvert-eden",
+     "type": "family",
+     "label": "brother"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "ownership",
+     "label": "proprietor drawing port duties"
+    },
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Frederick County"
+    }
+   ]
+  },
+  {
+   "category": "Crowns & Explorers",
+   "nation": "Britain",
+   "scaleBasis": "estimated",
+   "aliases": [
+    "Lady Caroline Eden"
+   ],
+   "id": "caroline-calvert-eden",
+   "name": "Caroline Calvert Eden (Lady Eden)",
+   "role": "Explorer & Crown",
+   "scale": "Minor",
+   "scaleNote": "No documented personal slaveholding traced in this research; included as namesake of Caroline County and wife of the last royal-era proprietary governor.",
+   "start": 1765,
+   "end": 1776,
+   "lifespan": "c.1745–1792",
+   "base": "Annapolis, Maryland",
+   "geo": [
+    38.978,
+    -76.492
+   ],
+   "origins": "Daughter of Charles Calvert, 5th Lord Baltimore, and sister of Frederick Calvert. She married Robert Eden, who arrived in 1769 as Maryland's last colonial (proprietary) governor.",
+   "role_summary": "No documented direct involvement in slavery has been traced for her personally. Her husband governed a slave colony for the proprietor until 1776, and she was a named beneficiary (£20,000 shared with her sister) under her brother's will, which was paid from proprietary wealth.",
+   "roleDetail": [
+    {
+     "t": "Governor's wife.",
+     "d": "Robert Eden governed Maryland 1769–1776 for the Calverts, administering colonial law that upheld slavery.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Heir to proprietary money.",
+     "d": "Frederick Calvert's will charged £20,000 for his sisters Louisa Browning and Caroline Eden.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Caroline County (1773), on the Eastern Shore near Harriet Tubman's birthplace region, bears her name. Her son Sir Frederick Eden became a noted writer on poverty in England.",
+   "legacyDetail": [
+    {
+     "t": "County name.",
+     "d": "Maryland Manual: Caroline County named for Lady Caroline Eden, wife of Sir Robert Eden.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Charles Calvert, 5th Baron Baltimore",
+     "relation": "father",
+     "years": "1699–1751",
+     "note": "Proprietor of Maryland.",
+     "basis": "documented",
+     "id": "calvert-family"
+    },
+    {
+     "name": "Sir Robert Eden, 1st Baronet",
+     "relation": "spouse",
+     "years": "1741–1784",
+     "note": "Last colonial governor of Maryland (1769–76).",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Frederick Morton Eden, 2nd Baronet",
+     "relation": "son",
+     "years": "1766–1809",
+     "note": "Author of 'The State of the Poor' (1797).",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Eden baronetcy continued in Britain (merged with the Eden of West Auckland line). No publicly documented descendants have been traced who have spoken about the Maryland link.",
+   "placesNamed": [
+    "Caroline County, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Maryland Manual — Caroline County origin",
+     "url": "https://msa.maryland.gov/msa/mdmanual/36loc/caro/html/caro.html"
+    },
+    {
+     "label": "Wikipedia — Caroline Eden",
+     "url": "https://en.wikipedia.org/wiki/Caroline_Eden"
+    }
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "family",
+     "label": "daughter of 5th Lord Baltimore"
+    },
+    {
+     "id": "frederick-calvert-6th-baron-baltimore",
+     "type": "family",
+     "label": "sister"
+    },
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Caroline County"
+    }
+   ]
+  },
+  {
+   "category": "Crowns & Explorers",
+   "nation": "Britain",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "henry-harford",
+   "name": "Henry Harford",
+   "role": "Explorer & Crown",
+   "scale": "Minor",
+   "scaleNote": "Last proprietor (1771–76) of a slave colony; the MSA biography records no enslaved people of his own, but he sought £327,441 from Maryland and £447,000 from Britain for lost proprietary revenues (receiving perhaps £70,000 from Britain).",
+   "start": 1771,
+   "end": 1813,
+   "lifespan": "c.1759–1834",
+   "base": "Down Place, near Windsor, England",
+   "geo": [
+    51.488,
+    -0.674
+   ],
+   "origins": "Illegitimate son of Frederick Calvert, 6th Lord Baltimore, and Hester Whalen; he could not inherit the title but was left the province by his father's will.",
+   "role_summary": "No documented personal slaveholding. As last Lord Proprietor he held the rents and lands of a colony whose economy rested on enslaved labour; after the Revolution he pursued compensation for those lost revenues from both Maryland and the British government.",
+   "roleDetail": [
+    {
+     "t": "Proprietor of a slave colony.",
+     "d": "Inherited proprietary rights in 1771; in 1786 he estimated ~71,000 acres of manor lands and 125,000 acres west of Fort Cumberland.",
+     "basis": "documented"
+    },
+    {
+     "t": "Compensation claims.",
+     "d": "Maryland's General Assembly denied his £327,441 claim (1786); Britain partly allowed a £447,000 claim, probably paying ~£70,000.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Harford County (1773) is named for him. He died in England in 1834; the proprietary lands (~245,000 acres) had been confiscated by the state.",
+   "legacyDetail": [
+    {
+     "t": "County name.",
+     "d": "Maryland Manual: Harford County named for Henry Harford, last Proprietary.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Frederick Calvert, 6th Lord Baltimore",
+     "relation": "father",
+     "years": "1731–1771",
+     "note": "Left him the province.",
+     "basis": "documented",
+     "id": "frederick-calvert-6th-baron-baltimore"
+    },
+    {
+     "name": "Frederick Paul Harford",
+     "relation": "son",
+     "years": "c.1802–1860",
+     "note": "Son listed in the MSA biography.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced who are linked to this history; the proprietary estate was confiscated and his compensation money stayed in England.",
+   "placesNamed": [
+    "Harford County, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Archives of Maryland — Henry Harford (biography)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000500/000596/html/596bio.html"
+    },
+    {
+     "label": "Maryland Manual — Harford County origin",
+     "url": "https://msa.maryland.gov/msa/mdmanual/36loc/ha/html/ha.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "family",
+     "label": "last proprietor"
+    },
+    {
+     "id": "frederick-calvert-6th-baron-baltimore",
+     "type": "family",
+     "label": "son and heir"
+    },
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Harford County"
+    }
+   ]
+  },
+  {
+   "category": "Crowns & Explorers",
+   "nation": "Britain",
+   "scaleBasis": "documented",
+   "aliases": [
+    "Anne Stuart"
+   ],
+   "id": "queen-anne-great-britain",
+   "name": "Queen Anne of Great Britain",
+   "role": "Explorer & Crown",
+   "scale": "Major",
+   "scaleNote": "Her government secured the 1713 Asiento at Utrecht — a 30-year right to supply 4,800 enslaved Africans a year to Spanish America — and the South Sea Company formally thanked her for granting it her quarter share of the Asiento (TNA catalogue).",
+   "start": 1702,
+   "end": 1714,
+   "lifespan": "1665–1714",
+   "base": "London, England",
+   "geo": [
+    51.505,
+    -0.139
+   ],
+   "origins": "Daughter of James II (formerly Duke of York, governor of the Royal African Company). Queen of England, Scotland and Ireland from 1702 and of Great Britain from 1707.",
+   "role_summary": "Under her reign Britain won the Asiento at the Peace of Utrecht (1713), the monopoly contract to supply enslaved Africans to Spanish America, which was assigned to the South Sea Company. She announced the Asiento in her speech to Parliament and a share of the contract reserved to the Crown was conveyed to the Company.",
+   "roleDetail": [
+    {
+     "t": "The 1713 Asiento.",
+     "d": "Signed 1713 for thirty years, quota 4,800 people a year, supplied via the Royal African Company to the South Sea Company.",
+     "basis": "documented"
+    },
+    {
+     "t": "The Queen's quarter share.",
+     "d": "The National Archives holds the South Sea Company's address thanking Anne for the grant of her quarter share of the Asiento.",
+     "basis": "documented"
+    },
+    {
+     "t": "Queen Anne's Bounty.",
+     "d": "Her Church fund later invested in the South Sea Company (see Church of England record).",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Queen Anne's County, Maryland (1706) is named for her; under her the province was a royal colony (1689–1715). The Asiento financed the South Sea Company and its 1720 bubble.",
+   "legacyDetail": [
+    {
+     "t": "County name.",
+     "d": "Maryland Manual: Queen Anne's County, created by Chapter 3, Acts of 1706, named for the sovereign of 1702–1714.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "James II (Duke of York)",
+     "relation": "father",
+     "years": "1633–1701",
+     "note": "Governor of the Royal African Company.",
+     "basis": "documented",
+     "id": "james-duke-of-york"
+    },
+    {
+     "name": "Prince George of Denmark",
+     "relation": "spouse",
+     "years": "1653–1708",
+     "note": "Namesake of Prince George's County.",
+     "basis": "documented",
+     "id": "prince-george-of-denmark"
+    }
+   ],
+   "today": "Anne left no surviving children; the crown passed to the House of Hanover. The present British monarchy descends from her Hanoverian successors, not from her.",
+   "placesNamed": [
+    "Annapolis, Maryland",
+    "Fluvanna County, Virginia",
+    "Princess Anne County, Virginia (now Virginia Beach)",
+    "Queen Anne (Prince George's County, Maryland)",
+    "Queen Anne's County, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Maryland Manual — Queen Anne's County",
+     "url": "https://www.msa.maryland.gov/msa/mdmanual/36loc/qa/html/qa.html"
+    },
+    {
+     "label": "The National Archives (UK) — Address of the South Sea Company to the Queen re her quarter share of the Assiento",
+     "url": "https://beta.nationalarchives.gov.uk/catalogue/id/C6409786"
+    },
+    {
+     "label": "Slavery, Law & Power — The Asiento (Queen Anne's speech)",
+     "url": "https://slaverylawpower.org/queen-anne-speech/"
+    },
+    {
+     "label": "Library of Virginia — County formation: Fluvanna",
+     "url": "https://lva.virginia.gov/WHATWEHAVE/local/county_formation/locality_maps_bioF.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "south-sea-company",
+     "type": "charter",
+     "label": "Asiento assigned 1713"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "won at Utrecht"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "charter",
+     "label": "supplied captives"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "family",
+     "label": "daughter"
+    },
+    {
+     "id": "prince-george-of-denmark",
+     "type": "family",
+     "label": "spouse"
+    },
+    {
+     "id": "church-of-england",
+     "type": "finance",
+     "label": "Queen Anne's Bounty"
+    },
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Queen Anne's County"
+    },
+    {
+     "id": "alexander-spotswood",
+     "type": "charter",
+     "label": "commissioned 1710"
+    },
+    {
+     "id": "church-commissioners-fund-2023",
+     "type": "legacy",
+     "label": "2023 report on Queen Anne's Bounty"
+    }
+   ]
+  },
+  {
+   "category": "Crowns & Explorers",
+   "nation": "Britain",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "prince-george-of-denmark",
+   "name": "Prince George of Denmark",
+   "role": "Explorer & Crown",
+   "scale": "Minor",
+   "scaleNote": "No documented direct involvement in slavery traced; consort of Queen Anne and namesake of Prince George's County, which became Maryland's largest slaveholding tobacco county.",
+   "start": 1696,
+   "end": 1708,
+   "lifespan": "1653–1708",
+   "base": "London, England",
+   "geo": [
+    51.505,
+    -0.139
+   ],
+   "origins": "Brother of King Christian V of Denmark-Norway; married Princess Anne in 1683.",
+   "role_summary": "No documented direct involvement in slavery. Maryland named Prince George's County for him in 1696; the county became one of the colony's heaviest concentrations of enslaved tobacco workers.",
+   "roleDetail": [
+    {
+     "t": "Royal consort.",
+     "d": "Husband of Anne, heir and later Queen; his name was given to the new county created on St George's Day 1696.",
+     "basis": "documented"
+    },
+    {
+     "t": "Danish royal house.",
+     "d": "His brother's Crown chartered the Danish West India-Guinea Company, a separate slave-trading enterprise.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Prince George's County, today a majority-Black county, bears his name; its plantations (Belair, Northampton, Fairview, Marietta, Riversdale) are now interpreted through the lives of enslaved people.",
+   "legacyDetail": [
+    {
+     "t": "County name.",
+     "d": "County history pages confirm the naming for Prince George of Denmark, consort of Anne.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Queen Anne",
+     "relation": "spouse",
+     "years": "1665–1714",
+     "note": "Asiento monarch.",
+     "basis": "documented",
+     "id": "queen-anne-great-britain"
+    }
+   ],
+   "today": "No surviving descendants (all of Anne and George's children died young).",
+   "placesNamed": [
+    "Prince George's County, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Prince George's County Government — History",
+     "url": "https://www.princegeorgescountymd.gov/1796/History"
+    },
+    {
+     "label": "Maryland Association of Counties — Prince George's County named for Prince George of Denmark",
+     "url": "https://conduitstreet.mdcounties.org/2017/06/16/fun-fact-did-you-know-that-prince-georges-county-was-named-for-prince-george-of-denmark/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "queen-anne-great-britain",
+     "type": "family",
+     "label": "consort"
+    },
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "family",
+     "label": "brother of Christian V"
+    },
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Prince George's County"
+    },
+    {
+     "id": "belair-mansion",
+     "type": "legacy",
+     "label": "county plantation"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "richard-montgomery",
+   "name": "Richard Montgomery",
+   "role": "Planter & Enslaver",
+   "scale": "Minor",
+   "scaleNote": "Revolutionary general with no Maryland property; his 1773 marriage into the slaveholding Livingston family of New York made him an enslaver (per biographies). No numbers documented.",
+   "start": 1773,
+   "end": 1775,
+   "lifespan": "1738–1775",
+   "base": "Rhinebeck, New York",
+   "geo": [
+    41.927,
+    -73.912
+   ],
+   "origins": "Born in County Dublin to an Ulster-Scots gentry family; a former British officer who settled in New York.",
+   "role_summary": "Not a Marylander and with no documented Maryland slaveholding. Through his marriage to Janet Livingston he became part of a prominent New York enslaving family; he was killed leading the 1775 attack on Quebec and became a patriot martyr.",
+   "roleDetail": [
+    {
+     "t": "Marriage into the Livingstons.",
+     "d": "Married Janet Livingston (1773), daughter of Robert Livingston; biographies note this made him a slave owner.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Revolutionary martyr.",
+     "d": "Killed 31 Dec 1775 at Quebec; Maryland's convention named its new county for him in 1776.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Montgomery County, Maryland (1776) and Montgomery, Alabama — later the first Confederate capital — are named for him. In Montgomery County, MD, Josiah Henson was enslaved on the Riley farm, now a county park.",
+   "legacyDetail": [
+    {
+     "t": "Namesakes.",
+     "d": "Montgomery County MD, Montgomery AL, Richard Montgomery High School (Rockville) and Montgomery Place (NY).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Janet Livingston Montgomery",
+     "relation": "spouse",
+     "years": "1743–1828",
+     "note": "Of the Livingston family of Clermont; built Montgomery Place.",
+     "basis": "documented"
+    }
+   ],
+   "today": "He had no children. No publicly documented descendants.",
+   "placesNamed": [
+    "Montgomery County, Maryland",
+    "Montgomery, Alabama",
+    "Richard Montgomery High School, Rockville, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Maryland Manual — Montgomery County origin",
+     "url": "https://msa.maryland.gov/msa/mdmanual/36loc/mo/html/mo.html"
+    },
+    {
+     "label": "Wikipedia — Richard Montgomery",
+     "url": "https://en.wikipedia.org/wiki/Richard_Montgomery"
+    }
+   ],
+   "connections": [
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Montgomery County"
+    },
+    {
+     "id": "josiah-henson",
+     "type": "parallel",
+     "label": "Henson enslaved in Montgomery County"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "Continental Army general"
+    }
+   ]
+  },
+  {
+   "category": "Companies & Banks",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "john-w-garrett",
+   "name": "John W. Garrett",
+   "role": "Financier & Insurer",
+   "scale": "Minor",
+   "scaleNote": "No documented personal slaveholding found; the B&O Railroad Museum says B&O executives refused slave labour for track building, while scholarship shows ~76% of Southern railroads used enslaved labour. B&O's role is contested/unresolved.",
+   "start": 1858,
+   "end": 1884,
+   "lifespan": "1820–1884",
+   "base": "Baltimore, Maryland",
+   "geo": [
+    39.29,
+    -76.612
+   ],
+   "origins": "Born in Baltimore into the merchant house of Robert Garrett & Sons; President of the Baltimore & Ohio Railroad from 1858 until his death.",
+   "role_summary": "No documented direct involvement in slavery. A Southern sympathiser who sided with the Union, he made the B&O the Union's lifeline; Lincoln called him 'the right arm of the Federal Government'. Before the war the B&O carried passengers in a state that required railroads to police enslaved travellers; a Maryland heritage tour says the company paid fines rather than enforce the Fugitive Slave Act.",
+   "roleDetail": [
+    {
+     "t": "B&O labour.",
+     "d": "Construction from 1828 relied mainly on Irish, German and free Black workers; no source found shows the B&O hiring enslaved men, unlike the C&O Canal's contractors.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Civil War.",
+     "d": "Moved Union troops and organised Lincoln's 1865 funeral train.",
+     "basis": "documented"
+    },
+    {
+     "t": "Johns Hopkins trustee.",
+     "d": "One of twelve founding trustees of Johns Hopkins University; Hopkins's endowment was largely B&O stock.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Garrett County (1872), Maryland's last county, bears his name; his family home Evergreen is now a Johns Hopkins museum and library. The B&O's lines passed into the Chessie System and CSX.",
+   "legacyDetail": [
+    {
+     "t": "Philanthropic heirs.",
+     "d": "Daughter Mary Elizabeth Garrett funded the Johns Hopkins School of Medicine on condition that women be admitted.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Robert Garrett",
+     "relation": "father",
+     "years": "1783–1857",
+     "note": "Baltimore merchant and banker (Robert Garrett & Sons).",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Garrett",
+     "relation": "son",
+     "years": "1847–1896",
+     "note": "Succeeded him as B&O president.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Elizabeth Garrett",
+     "relation": "daughter",
+     "years": "1854–1915",
+     "note": "Philanthropist and suffragist; Bryn Mawr School, JHU medicine.",
+     "basis": "documented"
+    },
+    {
+     "name": "T. Harrison Garrett",
+     "relation": "son",
+     "years": "1849–1888",
+     "note": "Evergreen house, donated to Johns Hopkins in 1942.",
+     "basis": "documented"
+    },
+    {
+     "name": "CSX Corporation",
+     "relation": "successor firm",
+     "years": "1980–present",
+     "note": "B&O absorbed into Chessie System, then CSX.",
+     "basis": "documented",
+     "id": "csx-corporation"
+    }
+   ],
+   "today": "Evergreen Museum & Library (Johns Hopkins) holds the family's collections. No publicly documented descendants have spoken about slavery-era links.",
+   "placesNamed": [
+    "Garrett County, Maryland",
+    "Garrett Park (Maryland, named for him)",
+    "Evergreen Museum & Library, Baltimore"
+   ],
+   "sources": [
+    {
+     "label": "Maryland Manual — Garrett County origin",
+     "url": "https://msa.maryland.gov/msa/mdmanual/36loc/ga/html/ga.html"
+    },
+    {
+     "label": "Wikipedia — John Work Garrett",
+     "url": "https://en.wikipedia.org/wiki/John_Work_Garrett"
+    },
+    {
+     "label": "Emerging Civil War — B&O Railroad Museum (exhibit on refusal of slave labour)",
+     "url": "https://emergingcivilwar.com/2023/08/25/ecw-weekender-baltimore-ohio-railroad-museum/"
+    },
+    {
+     "label": "Project MUSE — Railroads in the Old South",
+     "url": "https://muse.jhu.edu/pub/1/oa_monograph/chapter/70853"
+    }
+   ],
+   "connections": [
+    {
+     "id": "csx-corporation",
+     "type": "legacy",
+     "label": "B&O successor"
+    },
+    {
+     "id": "johns-hopkins",
+     "type": "finance",
+     "label": "founding trustee; B&O stock"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "B&O terminus"
+    },
+    {
+     "id": "maryland-county-namesakes",
+     "type": "legacy",
+     "label": "Garrett County"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [
+    "Robert Bowie",
+    "Oden Bowie",
+    "William Duckett Bowie"
+   ],
+   "id": "bowie-family",
+   "name": "Bowie family of Prince George's County",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Gov. Robert Bowie left 'some eighty-two slaves' (MSA); Gov. Oden Bowie held 103 people at Fairview in the 1860 slave schedule (UMD finding aid), ~70 of whom enlisted in the Union Army.",
+   "start": 1750,
+   "end": 1864,
+   "lifespan": "c.1700–1864 (as enslavers)",
+   "base": "Fairview / Mattaponi, Prince George's County, Maryland",
+   "geo": [
+    38.92,
+    -76.76
+   ],
+   "origins": "A Scottish-descended tobacco-planting family settled near Nottingham on the Patuxent from the early 18th century, holding Mattaponi, Fairview, Bellefield and other plantations.",
+   "role_summary": "Two Bowies governed Maryland. Robert Bowie (gov. 1803–06, 1811–12) left about 82 enslaved people, and his first administration prohibited the immigration of free Black people into the state. Oden Bowie (gov. 1869–72), born at Fairview, held 103 people there in 1860; after emancipation he led the Baltimore & Potomac Railroad and Pimlico racecourse.",
+   "roleDetail": [
+    {
+     "t": "Robert Bowie's estate.",
+     "d": "The MSA biography records an estate over $36,000 'including some eighty-two slaves'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Anti-free-Black law.",
+     "d": "His first administration prohibited the immigration of free Black people into Maryland.",
+     "basis": "documented"
+    },
+    {
+     "t": "Fairview, 1860.",
+     "d": "Oden Bowie: 103 enslaved people (53 men, 50 women) per the 1860 slave schedule; relative Walter W. W. Bowie held 28.",
+     "basis": "documented"
+    },
+    {
+     "t": "Wartime freedom.",
+     "d": "C. B. Clark (Maryland Historical Magazine, 1946) reported that about 70 of Bowie's enslaved men enlisted in the Union Army.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The city of Bowie (founded as Huntington, 1870) was renamed in the 1880s for Oden Bowie; Bowie State University takes its name from the city. Bowie descendants lived at Fairview until 2015; its land became the Fairwood subdivision, about 73% African American in 2015.",
+   "legacyDetail": [
+    {
+     "t": "Archival reckoning.",
+     "d": "The Maryland State Archives published 'A Statement on the History of Oden Bowie as a Slaveholder' alongside his gubernatorial biography.",
+     "basis": "documented"
+    },
+    {
+     "t": "No link to Jim Bowie.",
+     "d": "The Texas Bowie brothers (slave smugglers with Lafitte) descend from a Tennessee/Kentucky line; no Maryland kinship is documented.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Gov. Robert Bowie",
+     "relation": "ancestor",
+     "years": "1750–1818",
+     "note": "Born at Mattaponi; two-time governor; ~82 enslaved at death.",
+     "basis": "documented"
+    },
+    {
+     "name": "Col. William Duckett Bowie",
+     "relation": "father of Oden",
+     "years": "1803–1873",
+     "note": "Fairview planter; director of the Baltimore & Potomac Railroad.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gov. Oden Bowie",
+     "relation": "son",
+     "years": "1826–1894",
+     "note": "103 enslaved in 1860; governor 1869–72; Pimlico/Preakness founder.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bowie descendants at Fairview",
+     "relation": "descendant",
+     "years": "to 2015",
+     "note": "Lived in the house until 2015.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Fairview's land became the Fairwood neighbourhood; the house was sold out of the family c.2015. No publicly named descendant has spoken about the family's slaveholding; the University of Maryland holds the Bowie Family Papers.",
+   "placesNamed": [
+    "Bowie, Maryland",
+    "Bowie State University (via the city)",
+    "Fairwood (Fairview), Prince George's County"
+   ],
+   "sources": [
+    {
+     "label": "Archives of Maryland — Robert Bowie (extended biography)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000100/000121/html/121extbio.html"
+    },
+    {
+     "label": "Archives of Maryland — Oden Bowie (biography)",
+     "url": "https://www.msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001400/001465/html/1465bio.html"
+    },
+    {
+     "label": "University of Maryland Libraries — Bowie Family Papers finding aid",
+     "url": "https://archives.lib.umd.edu/repositories/2/resources/1105"
+    },
+    {
+     "label": "Wikipedia — Oden Bowie",
+     "url": "https://en.wikipedia.org/wiki/Oden_Bowie"
+    }
+   ],
+   "connections": [
+    {
+     "id": "maryland-abolition-1864",
+     "type": "plantation",
+     "label": "Fairview freed 1864"
+    },
+    {
+     "id": "ogle-tasker-family",
+     "type": "parallel",
+     "label": "Belair, City of Bowie"
+    },
+    {
+     "id": "belair-mansion",
+     "type": "legacy",
+     "label": "City of Bowie museum"
+    },
+    {
+     "id": "csx-corporation",
+     "type": "parallel",
+     "label": "railroad president"
+    },
+    {
+     "id": "james-and-rezin-bowie",
+     "type": "parallel",
+     "label": "same surname, no documented kin"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [
+    "Jim Bowie"
+   ],
+   "id": "james-and-rezin-bowie",
+   "name": "James and Rezin P. Bowie (slave smuggling with Lafitte)",
+   "role": "Trader & Shipper",
+   "scale": "Significant",
+   "scaleNote": "Per the Handbook of Texas, the brothers bought captives from Jean Lafitte's Galveston depot (c.1818–19) and resold them in Louisiana until they had made about $65,000.",
+   "start": 1818,
+   "end": 1836,
+   "lifespan": "James 1796–1836; Rezin 1793–1841",
+   "base": "St. Landry Parish, Louisiana",
+   "geo": [
+    30.53,
+    -92.08
+   ],
+   "origins": "Sons of Reason (Rezin) Bowie, reportedly the largest slaveholder in the Catahoula area; born in Tennessee/Kentucky. Checked for the user: no documented kinship with the Maryland Bowies.",
+   "role_summary": "After the 1808 ban on importing captives, the brothers bought Africans smuggled by Lafitte, informed on their own cargoes to customs, and repurchased the people at the resulting auctions — collecting the informer's reward of half the sale price — then sold them inland. James Bowie later died at the Alamo.",
+   "roleDetail": [
+    {
+     "t": "Lafitte trade.",
+     "d": "Three trips to Lafitte's compound; captives sold in St. Landry Parish.",
+     "basis": "documented"
+    },
+    {
+     "t": "Informer loophole.",
+     "d": "State law let informers receive half the auction price of seized captives, laundering illegal imports.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Bowie knife, Bowie County (TX) and Camp Bowie carry the name; the Alamo myth long obscured the brothers' slave-trading.",
+   "legacyDetail": [
+    {
+     "t": "Not Maryland.",
+     "d": "Bowie, Maryland is named for Oden Bowie, not Jim Bowie.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Reason Bowie",
+     "relation": "father",
+     "years": "d.1818",
+     "note": "Louisiana planter with ~20 enslaved people.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants of James Bowie with a stated link to this history.",
+   "placesNamed": [
+    "Bowie County, Texas",
+    "Bowie, Texas"
+   ],
+   "sources": [
+    {
+     "label": "Handbook of Texas (TSHA) — Bowie, Rezin Pleasant",
+     "url": "https://www.tshaonline.org/handbook/entries/bowie-rezin-pleasant"
+    },
+    {
+     "label": "Handbook of Texas (TSHA) — Bowie, James",
+     "url": "https://tshaonline.org/handbook/online/articles/fbo45"
+    }
+   ],
+   "connections": [
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "trade",
+     "label": "evaded the 1807 ban"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "Louisiana sales"
+    },
+    {
+     "id": "bowie-family",
+     "type": "parallel",
+     "label": "no documented kin"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "francis-scott-key",
+   "name": "Francis Scott Key",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Bought his first enslaved person c. 1800–01 and held six by 1820 (NPS); later census counts vary by source. He manumitted several people, some on delayed terms. As U.S. Attorney for D.C. (1833–40) he prosecuted the enslaved teenager Arthur Bowen and the abolitionist Reuben Crandall.",
+   "start": 1800,
+   "end": 1843,
+   "lifespan": "1779–1843",
+   "base": "Georgetown, District of Columbia (born Terra Rubra, Carroll County, MD)",
+   "geo": [
+    38.905,
+    -77.065
+   ],
+   "origins": "Born to a Frederick County (now Carroll County) planter family and educated at St. John's College, Annapolis; a Georgetown lawyer who wrote 'The Star-Spangled Banner' at the 1814 bombardment of Fort McHenry.",
+   "role_summary": "An enslaver and a leading member of the American Colonization Society, Key represented both enslaved petitioners (100+ freedom suits) and slaveholders. As District Attorney he prosecuted Arthur Bowen, whose alleged attack on his enslaver in 1835 set off the Snow Riot, and then Dr. Reuben Crandall for possessing abolitionist pamphlets; the jury acquitted Crandall in 1836.",
+   "roleDetail": [
+    {
+     "t": "Enslaver.",
+     "d": "Held enslaved people from c. 1800 until his death in 1843 (six in 1820, per NPS); freed several, some only on reaching age 25.",
+     "basis": "documented"
+    },
+    {
+     "t": "Prosecutor of abolitionism.",
+     "d": "Charged Reuben Crandall with seditious libel for abolitionist literature; acquitted 1836.",
+     "basis": "documented"
+    },
+    {
+     "t": "Freedom suits.",
+     "d": "Represented enslaved petitioners in more than 100 D.C. cases, e.g. the Butlers against Gabriel Duvall.",
+     "basis": "documented"
+    },
+    {
+     "t": "'Land of the free'.",
+     "d": "Contemporary abolitionists noted the line was written by a defender of slavery.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His anthem's third verse ('no refuge could save the hireling and slave') is now widely debated. His statue in Golden Gate Park was toppled on Juneteenth 2020 and replaced by Dana King's 'Monumental Reckoning'.",
+   "legacyDetail": [
+    {
+     "t": "Namesakes.",
+     "d": "The Francis Scott Key Bridge (collapsed 2024), FSK Mall, Francis Scott Key High School and many streets.",
+     "basis": "documented"
+    },
+    {
+     "t": "San Francisco 2020.",
+     "d": "Statue toppled; 350 sculptures now evoke the first Africans brought to Virginia.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "John Ross Key",
+     "relation": "father",
+     "years": "1754–1821",
+     "note": "Planter at Terra Rubra.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Tayloe Lloyd Key",
+     "relation": "spouse",
+     "years": "1784–1859",
+     "note": "Daughter of Edward Lloyd IV of Wye House.",
+     "basis": "documented",
+     "id": "lloyd-family"
+    },
+    {
+     "name": "Roger B. Taney",
+     "relation": "brother-in-law",
+     "years": "1777–1864",
+     "note": "Married Key's sister Anne.",
+     "basis": "documented",
+     "id": "roger-b-taney"
+    },
+    {
+     "name": "Francis Key Howard",
+     "relation": "grandson",
+     "years": "1826–1872",
+     "note": "Baltimore editor imprisoned at Fort McHenry in 1861.",
+     "basis": "documented",
+     "id": "howard-family"
+    }
+   ],
+   "today": "Key's name remains on major public works; Maryland is rebuilding the Key Bridge (named debate continues). No publicly documented descendant has spoken on the slavery record.",
+   "placesNamed": [
+    "Francis Scott Key Bridge, Baltimore",
+    "Francis Scott Key Mall, Frederick",
+    "Key Bridge (Washington, D.C.)",
+    "Francis Scott Key High School, Union Bridge"
+   ],
+   "sources": [
+    {
+     "label": "Smithsonian Magazine — Where's the Debate on Francis Scott Key's Slave-Holding Legacy?",
+     "url": "https://www.smithsonianmag.com/history/wheres-debate-francis-scott-keys-slave-holding-legacy-180959550/"
+    },
+    {
+     "label": "Free Speech Center (MTSU) — Trial of Reuben Crandall",
+     "url": "https://firstamendment.mtsu.edu/article/trial-of-reuben-crandall/"
+    },
+    {
+     "label": "Montgomery County Public Schools — Francis Scott Key fact sheet",
+     "url": "https://montgomeryschoolsmd.org/siteassets/district/departments/studentservices/wellbeing/francis-scott-key1.pdf"
+    },
+    {
+     "label": "ABC7 — Sculpture replaces toppled Francis Scott Key statue",
+     "url": "https://abc7news.com/juneteenth-monument-golden-gate-park-statue-sf-toppled-to-first-slaves-in-america/10799316/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "family",
+     "label": "married Mary Tayloe Lloyd"
+    },
+    {
+     "id": "roger-b-taney",
+     "type": "family",
+     "label": "brother-in-law"
+    },
+    {
+     "id": "howard-family",
+     "type": "family",
+     "label": "grandson Francis Key Howard"
+    },
+    {
+     "id": "gabriel-duvall",
+     "type": "political",
+     "label": "counsel for the Butlers v. Duvall"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "legacy",
+     "label": "Key Bridge namesake"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "roger-b-taney",
+   "name": "Roger B. Taney",
+   "role": "Planter & Enslaver",
+   "scale": "Major",
+   "scaleNote": "Personally held at least eight enslaved people, manumitted 1818–21 (MSA), but as Chief Justice wrote Dred Scott v. Sandford (1857), declaring Black Americans could not be citizens — one of the most consequential pro-slavery acts in U.S. history.",
+   "start": 1799,
+   "end": 1864,
+   "lifespan": "1777–1864",
+   "base": "Frederick / Baltimore, Maryland (born Calvert County)",
+   "geo": [
+    39.414,
+    -77.411
+   ],
+   "origins": "Born into a wealthy Catholic, slaveholding tobacco family in Calvert County; practised law in Frederick (1801–23), became Attorney General and Treasury Secretary under Andrew Jackson, and Chief Justice 1836–64.",
+   "role_summary": "Taney freed the people he owned and pensioned the elderly, yet his 1857 Dred Scott opinion held that people of African descent 'had no rights which the white man was bound to respect', that Congress could not bar slavery from territories, and voided the Missouri Compromise.",
+   "roleDetail": [
+    {
+     "t": "Manumissions.",
+     "d": "Owned at least eight enslaved people, manumitted 1818–21, some delayed to 1846 (MSA).",
+     "basis": "documented"
+    },
+    {
+     "t": "Dred Scott (1857).",
+     "d": "7–2 majority opinion denying Black citizenship.",
+     "basis": "documented"
+    },
+    {
+     "t": "Jacksonian.",
+     "d": "Attorney General and Treasury Secretary; moved deposits out of the Bank of the U.S.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His bronze statue at the Maryland State House (1872) was removed overnight on 18 Aug 2017; Baltimore removed its Taney statue the same week. In March 2017 descendant Charles Taney apologised to Dred Scott descendant Lynne Jackson in Annapolis.",
+   "legacyDetail": [
+    {
+     "t": "Statue removed 2017.",
+     "d": "State House Trust voted 3–1; Gov. Hogan called it 'the right thing to do'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Family reconciliation.",
+     "d": "160th-anniversary apology at the State House, 6 March 2017.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Michael Taney V",
+     "relation": "father",
+     "years": "c.1750–1823",
+     "note": "Calvert County planter and enslaver.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anne Phoebe Charlton Key Taney",
+     "relation": "spouse",
+     "years": "1783–1855",
+     "note": "Sister of Francis Scott Key.",
+     "basis": "documented",
+     "id": "francis-scott-key"
+    },
+    {
+     "name": "Charles Taney",
+     "relation": "descendant",
+     "years": "2017",
+     "note": "Publicly apologised to the Scott family in 2017.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Both of Maryland's public Taney statues were removed in 2017. A family descendant publicly apologised to Dred Scott's descendants in 2017 and the two families have appeared together at reconciliation events.",
+   "today_people": [
+    {
+     "name": "Charles Taney",
+     "relation": "descendant of Roger B. Taney's family (self-identified, press)",
+     "role": "Delivered public apology for the Dred Scott decision, Annapolis 2017",
+     "sector": "Advocacy & repair",
+     "year": 2017,
+     "basis": "documented",
+     "source": {
+      "label": "Delmarva Public Media — Apology for Dred Scott decision",
+      "url": "https://www.delmarvapublicmedia.org/local-news/2017-03-07/apology-for-dred-scott-decision"
+     }
+    },
+    {
+     "name": "Lynne Jackson",
+     "relation": "great-great-granddaughter of Dred Scott (recipient of the apology)",
+     "role": "Founder, Dred Scott Heritage Foundation",
+     "sector": "Advocacy & repair",
+     "year": 2017,
+     "basis": "documented",
+     "source": {
+      "label": "AFRO — Families reconcile over Dred Scott decision",
+      "url": "https://afro.com/families-reconcile-dred-scott-decision/"
+     }
+    }
+   ],
+   "placesNamed": [
+    "Roger B. Taney House, Frederick (museum)",
+    "Former Taney statues: Maryland State House (removed 2017) and Mount Vernon Place, Baltimore (removed 2017)"
+   ],
+   "sources": [
+    {
+     "label": "Archives of Maryland — Roger Brooke Taney (biography)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/001500/001500/html/1500bio.html"
+    },
+    {
+     "label": "NPR — Maryland State House removes statue of judge who wrote Dred Scott decision",
+     "url": "https://www.npr.org/sections/thetwo-way/2017/08/18/544407092/maryland-state-house-removes-statue-of-judge-who-wrote-dred-scott-decision"
+    },
+    {
+     "label": "AFRO — Descendant of Supreme Court judge apologizes for Dred Scott decision",
+     "url": "https://afro.com/descendant-supreme-court-judge-apologizes-dred-scott-decision/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "francis-scott-key",
+     "type": "family",
+     "label": "brother-in-law"
+    },
+    {
+     "id": "andrew-jackson",
+     "type": "political",
+     "label": "AG and Treasury Secretary"
+    },
+    {
+     "id": "fugitive-slave-act-1850",
+     "type": "political",
+     "label": "pro-slavery jurisprudence"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "parallel",
+     "label": "died weeks after Maryland abolition"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "william-paca",
+   "name": "William Paca",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Census counts at Paca's Wye Island plantation (Queen Anne's County): 117 enslaved in 1800, 170 in 1820, 172 in 1860 (MSA/UMD) — among the largest holdings on the Eastern Shore.",
+   "start": 1763,
+   "end": 1864,
+   "lifespan": "1740–1799 (family holdings to 1864)",
+   "base": "Wye Hall, Wye Island, Queen Anne's County / Annapolis",
+   "geo": [
+    38.88,
+    -76.15
+   ],
+   "origins": "Son of a Harford County planter, Paca married heiress Mary Chew, built the Paca House in Annapolis (1763–65), signed the Declaration of Independence and was governor 1782–85.",
+   "role_summary": "Paca's chief residence from 1780 was Wye Plantation, worked by over a hundred enslaved people; his heirs held 170+ into the 19th century. In 1800 Rachel Baker sued his son John Philemon Paca in one of four petitions over a decades-long illegal enslavement on Wye Island.",
+   "roleDetail": [
+    {
+     "t": "Wye Island.",
+     "d": "Archaeology by UMD found the first Phase III-excavated slave quarter in Queen Anne's County.",
+     "basis": "documented"
+    },
+    {
+     "t": "Paca House.",
+     "d": "NPS: visitors learn about the enslaved workers who ran the Annapolis household.",
+     "basis": "documented"
+    },
+    {
+     "t": "Freedom suits.",
+     "d": "Rachel Baker's 1800 petition against J. P. Paca (MSA Legacy of Slavery).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The William Paca House and Garden (Historic Annapolis) now interprets its enslaved household; Paca's name is on Paca Street in Baltimore.",
+   "legacyDetail": [
+    {
+     "t": "Museum interpretation.",
+     "d": "Historic Annapolis programmes on 'bound laborers' in the Paca household.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Mary Chew Paca",
+     "relation": "spouse",
+     "years": "d.1774",
+     "note": "Heiress; Chew family ties to the Howards.",
+     "basis": "interpretive",
+     "id": "howard-family"
+    },
+    {
+     "name": "John Philemon Paca",
+     "relation": "son",
+     "years": "1771–1840",
+     "note": "Inherited Wye Hall; defendant in freedom suits.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken about the family's slaveholding; the Paca House is owned by the state and run by Historic Annapolis.",
+   "placesNamed": [
+    "Paca Street, Baltimore",
+    "William Paca House and Garden, Annapolis"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Wye River (plantation) (census table)",
+     "url": "https://en.wikipedia.org/wiki/Wye_River_(plantation)"
+    },
+    {
+     "label": "Archives of Maryland (Legacy of Slavery) — Juliana Paca biography",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/029900/029983/html/029983bio.html"
+    },
+    {
+     "label": "NPS — William Paca House and Garden",
+     "url": "https://home.nps.gov/places/william-paca-house-and-garden.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "parallel",
+     "label": "neighbouring Wye estates"
+    },
+    {
+     "id": "samuel-chase",
+     "type": "political",
+     "label": "fellow signer"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "plantation",
+     "label": "Wye Island emancipation"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "samuel-chase",
+   "name": "Samuel Chase",
+   "role": "Planter & Enslaver",
+   "scale": "Minor",
+   "scaleNote": "Held about 15 enslaved people at his death (per biographical summaries); a signer of the Declaration and Supreme Court justice.",
+   "start": 1760,
+   "end": 1811,
+   "lifespan": "1741–1811",
+   "base": "Annapolis / Baltimore, Maryland",
+   "geo": [
+    38.979,
+    -76.489
+   ],
+   "origins": "Son of an Anglican clergyman in Somerset County; Annapolis lawyer and radical Patriot.",
+   "role_summary": "An enslaver of a modest number of people; he began the Chase-Lloyd House in Annapolis (1769) and sold it unfinished to Edward Lloyd IV of Wye House in 1771. Signer of the Declaration of Independence and Associate Justice (impeached and acquitted 1805).",
+   "roleDetail": [
+    {
+     "t": "Slaveholding.",
+     "d": "About 15 enslaved at his death.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Chase-Lloyd House.",
+     "d": "Completed for the Lloyds of Wye House, Maryland's largest enslavers, by William Buckland.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Chase-Lloyd House (NHL) stands in Annapolis; Chase's name is on Chase Street, Baltimore.",
+   "legacyDetail": [
+    {
+     "t": "House passed to Lloyds.",
+     "d": "Mary Tayloe Lloyd married Francis Scott Key there in 1802.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Edward Lloyd IV",
+     "relation": "buyer",
+     "years": "1744–1796",
+     "note": "Bought Chase's unfinished house.",
+     "basis": "documented",
+     "id": "lloyd-family"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken about the slavery link.",
+   "placesNamed": [
+    "Chase Street, Baltimore",
+    "Chase-Lloyd House, Annapolis"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Samuel Chase",
+     "url": "https://en.wikipedia.org/wiki/Samuel_Chase"
+    },
+    {
+     "label": "Frommer's — Chase-Lloyd House",
+     "url": "https://www.frommers.com/destinations/annapolis/attractions/chase-lloyd-house/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "trade",
+     "label": "sold house to Edward Lloyd IV"
+    },
+    {
+     "id": "william-paca",
+     "type": "political",
+     "label": "fellow signer"
+    },
+    {
+     "id": "carroll-family",
+     "type": "political",
+     "label": "fellow signer"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [
+    "George Plater III",
+    "Sotterley"
+   ],
+   "id": "plater-and-briscoe-families",
+   "name": "Plater and Briscoe families of Sotterley",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "George Plater held 93 enslaved people in 1790; 48–49 people escaped Sotterley to the British in 1814 (NPS/MSA); the Briscoes held enslaved people until 1864.",
+   "start": 1729,
+   "end": 1864,
+   "lifespan": "1729–1864 (as enslavers)",
+   "base": "Sotterley, St. Mary's County, Maryland",
+   "geo": [
+    38.358,
+    -76.551
+   ],
+   "origins": "The Plater line acquired Sotterley through Rebecca Bowles's 1729 remarriage; the earlier Bowles household's fortune came from Royal African Company slave trading. George Plater III was Maryland's sixth governor (1791–92).",
+   "role_summary": "Sotterley's tobacco fields on the Patuxent were worked by dozens of enslaved people under the Platers and later the Briscoes. During the War of 1812, 48–49 people fled to British ships. A surviving one-room slave cabin is among the last standing in Southern Maryland.",
+   "roleDetail": [
+    {
+     "t": "1790 holding.",
+     "d": "George Plater: 93 enslaved.",
+     "basis": "documented"
+    },
+    {
+     "t": "1814 escape.",
+     "d": "Between 48 and 49 men, women and children escaped to the British (NPS; MSA).",
+     "basis": "documented"
+    },
+    {
+     "t": "Briscoe era.",
+     "d": "The Briscoes continued to rely on enslaved labour until 1864.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Historic Sotterley is a museum and NPS Network to Freedom site, interpreting slavery through the Kane family's story researched by genealogist Agnes Kane Callum, whose grandfather was born enslaved there in 1860.",
+   "legacyDetail": [
+    {
+     "t": "Descendants together.",
+     "d": "Callum worked with John Hanson Briscoe to save the site; their children serve on Sotterley's board.",
+     "basis": "documented"
+    },
+    {
+     "t": "Records digitised.",
+     "d": "Sotterley's enslaved-people records were added to American Ancestors' plantation records database (2026).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "James Bowles / Rebecca Bowles",
+     "relation": "predecessor",
+     "years": "c.1720–1729",
+     "note": "Bowles fortune from Royal African Company trade; Rebecca remarried a Plater.",
+     "basis": "documented",
+     "id": "royal-african-company"
+    },
+    {
+     "name": "George Plater III",
+     "relation": "heir",
+     "years": "1735–1792",
+     "note": "Governor; 93 enslaved in 1790.",
+     "basis": "documented"
+    },
+    {
+     "name": "Briscoe family",
+     "relation": "successor owners",
+     "years": "1820s–1910",
+     "note": "Owned Sotterley through emancipation.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hilry (Henry) Kane",
+     "relation": "enslaved worker",
+     "years": "c.1818–?",
+     "note": "Ancestor of Agnes Kane Callum; stayed as tenant after 1864.",
+     "basis": "documented"
+    },
+    {
+     "name": "Agnes Kane Callum",
+     "relation": "descendant of enslaved",
+     "years": "20th century",
+     "note": "Genealogist whose research built Sotterley's 'Slavery to Freedom' programme.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Historic Sotterley Inc. runs the site with descendants of both enslaved and enslaving families on its board.",
+   "today_people": [
+    {
+     "name": "John Hanson Briscoe (1934–2014)",
+     "relation": "descendant of the Briscoe owners of Sotterley (press)",
+     "role": "Speaker of the Maryland House of Delegates 1973–79 and later a circuit judge; worked with Agnes Kane Callum to save Sotterley and was a trustee emeritus (died 2014)",
+     "sector": "Politics & government",
+     "year": 2013,
+     "basis": "documented",
+     "source": {
+      "label": "Southern Maryland News — Historian's legacy lives on at Sotterley",
+      "url": "https://www.somdnews.com/enterprise/news/local/historians-legacy-lives-on-at-sotterley/article_187a1e25-be00-43e6-a1a2-6b8d2657cb91.html"
+     }
+    }
+   ],
+   "placesNamed": [
+    "Historic Sotterley, Hollywood, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "NPS — Exploring History at Historic Sotterley",
+     "url": "https://www.nps.gov/articles/000/exploring-history-at-historic-sotterley.htm"
+    },
+    {
+     "label": "Maryland State Archives — Agnes Kane Callum",
+     "url": "https://www.msa.maryland.gov/msa/educ/exhibits/womenshallfame/html/callum.html"
+    },
+    {
+     "label": "Southern Maryland News — Historian's legacy lives on at Sotterley",
+     "url": "https://www.somdnews.com/enterprise/news/local/historians-legacy-lives-on-at-sotterley/article_187a1e25-be00-43e6-a1a2-6b8d2657cb91.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sotterley-plantation",
+     "type": "ownership",
+     "label": "owned Sotterley"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "finance",
+     "label": "Bowles fortune"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "parallel",
+     "label": "1814 escape to the British"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "plantation",
+     "label": "freed 1864"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [
+    "Samuel Ogle",
+    "Benjamin Tasker",
+    "Benjamin Ogle"
+   ],
+   "id": "ogle-tasker-family",
+   "name": "Ogle and Tasker families of Belair",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Proprietary Governor Samuel Ogle and Benjamin Tasker built Belair (c.1745); for over a century the families held enslaved people there and struggled to stop them escaping (City of Bowie museum exhibit). No total count documented here.",
+   "start": 1745,
+   "end": 1864,
+   "lifespan": "c.1745–1864",
+   "base": "Belair, Bowie, Prince George's County, Maryland",
+   "geo": [
+    38.968,
+    -76.747
+   ],
+   "origins": "Samuel Ogle, three-time proprietary governor of Maryland, and his father-in-law Benjamin Tasker Sr. bought the Belair tract; Tasker was president of the council and an investor in the Baltimore Iron Works with the Carrolls and Dulanys.",
+   "role_summary": "Belair was a tobacco plantation and the cradle of American thoroughbred racing (Selima, 1750). Its enslaved people included Charity Folks, held by Samuel Ogle, whose father is believed to have been Benjamin Tasker Jr. Benjamin Ogle (governor 1798–1801) reclaimed Belair in 1774.",
+   "roleDetail": [
+    {
+     "t": "Governors as enslavers.",
+     "d": "Samuel Ogle (gov. 1731–32, 1733–42, 1747–52) and son Benjamin Ogle (gov. 1798–1801).",
+     "basis": "documented"
+    },
+    {
+     "t": "Charity Folks.",
+     "d": "Born enslaved at Belair; her father is believed to have been Col. Benjamin Tasker Jr.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Resistance.",
+     "d": "Exhibit 'African-American Slaves at Belair' documents flight and resistance.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Belair Mansion and Stables are City of Bowie museums; Levittown-built Belair at Bowie (1960s) took the estate's name.",
+   "legacyDetail": [
+    {
+     "t": "Woodward ownership.",
+     "d": "Later owned by banker William Woodward Sr. (racing stable, Gallant Fox).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Benjamin Tasker Sr.",
+     "relation": "father-in-law",
+     "years": "1690–1768",
+     "note": "Council president; Baltimore Iron Works partner.",
+     "basis": "interpretive",
+     "id": "carroll-family"
+    },
+    {
+     "name": "Samuel Ogle",
+     "relation": "founder",
+     "years": "1694–1752",
+     "note": "Proprietary governor; built Belair.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Ogle",
+     "relation": "son",
+     "years": "1749–1809",
+     "note": "Governor 1798–1801.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charity Folks",
+     "relation": "enslaved",
+     "years": "18th–19th c.",
+     "note": "Born enslaved at Belair, held by Samuel Ogle.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented descendants with a stated link. Belair is city-owned public heritage.",
+   "placesNamed": [
+    "Belair Mansion, Bowie, Maryland",
+    "Belair at Bowie (1960s Levitt subdivision)",
+    "Ogle Hall, Annapolis"
+   ],
+   "sources": [
+    {
+     "label": "Experience Prince George's — Belair Mansion & African-American history",
+     "url": "https://www.ExperiencePrinceGeorges.com/things-to-do/museums-history/african-american-history/"
+    },
+    {
+     "label": "Wikipedia — Belair Mansion (Bowie, Maryland)",
+     "url": "https://en.wikipedia.org/wiki/Belair_Mansion_(Bowie,_Maryland)"
+    },
+    {
+     "label": "Maryland State Archives — Bowie slavery studies",
+     "url": "https://slavery.msa.maryland.gov/bowie/studies.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "belair-mansion",
+     "type": "ownership",
+     "label": "built Belair"
+    },
+    {
+     "id": "calvert-family",
+     "type": "charter",
+     "label": "proprietary governor"
+    },
+    {
+     "id": "dulany-family",
+     "type": "finance",
+     "label": "Baltimore Iron Works partners"
+    },
+    {
+     "id": "bowie-family",
+     "type": "parallel",
+     "label": "City of Bowie"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [
+    "Richard Snowden",
+    "Thomas Snowden",
+    "Patuxent Iron Works"
+   ],
+   "id": "snowden-family",
+   "name": "Snowden family (Montpelier and Patuxent Iron Works)",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Thomas Snowden enslaved 141–169 people at Montpelier and the family ironworks (museum/Clio figures); Patuxent Iron Works used enslaved Africans, convicts and indentured servants.",
+   "start": 1705,
+   "end": 1864,
+   "lifespan": "1705–1864",
+   "base": "Montpelier, Laurel, Prince George's County, Maryland",
+   "geo": [
+    39.087,
+    -76.84
+   ],
+   "origins": "Welsh Quaker Richard Snowden settled on the Patuxent in the 1600s; his son Richard the ironmaster and partners founded the Patuxent Iron Works (1705 or 1726).",
+   "role_summary": "The family's forges and tobacco fields along the Patuxent ran on enslaved labour; Montpelier (built 1781–85) was the seat of Thomas Snowden, who held about 141–169 people. Family tradition says Major Thomas Snowden freed 100 people to regain Quaker membership — unconfirmed.",
+   "roleDetail": [
+    {
+     "t": "Ironworks labour.",
+     "d": "Patuxent Iron Works workforce mixed enslaved Africans, convicts and indentured servants.",
+     "basis": "documented"
+    },
+    {
+     "t": "Montpelier.",
+     "d": "Museum: enslaved people built the mansion, worked forges and fields.",
+     "basis": "documented"
+    },
+    {
+     "t": "Quaker tradition.",
+     "d": "Claimed manumission of 100 people is a family tradition only.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Montpelier Mansion (M-NCPPC) interprets the enslaved community; Snowden River Parkway (Columbia) and Laurel's origins trace to the family.",
+   "legacyDetail": [
+    {
+     "t": "Public museum.",
+     "d": "Donated to M-NCPPC in 1961.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Richard Snowden (ironmaster)",
+     "relation": "founder",
+     "years": "c.1688–1763",
+     "note": "Founded Patuxent Iron Works.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Snowden",
+     "relation": "heir",
+     "years": "1751–1803",
+     "note": "Built Montpelier; 141–169 enslaved.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nicholas Snowden",
+     "relation": "son",
+     "years": "d.1831",
+     "note": "Inherited Montpelier 1803.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken about the history.",
+   "placesNamed": [
+    "Montpelier Mansion, Laurel, Maryland",
+    "Snowden River Parkway, Columbia, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Richard Snowden (ironmaster)",
+     "url": "https://en.wikipedia.org/wiki/Richard_Snowden_(ironmaster)"
+    },
+    {
+     "label": "Clio — Montpelier Mansion",
+     "url": "https://www.theclio.com/entry/1897"
+    },
+    {
+     "label": "NPS NRHP nomination — Montpelier",
+     "url": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/70000852_text"
+    }
+   ],
+   "connections": [
+    {
+     "id": "montpelier-snowden",
+     "type": "ownership",
+     "label": "built Montpelier"
+    },
+    {
+     "id": "catoctin-furnace",
+     "type": "parallel",
+     "label": "Maryland ironworks on enslaved labour"
+    },
+    {
+     "id": "ridgely-family",
+     "type": "family",
+     "label": "Snowden–Ridgely marriage"
+    },
+    {
+     "id": "dorsey-family",
+     "type": "parallel",
+     "label": "Patapsco ironmasters"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [
+    "Caleb Dorsey",
+    "Edward Dorsey"
+   ],
+   "id": "dorsey-family",
+   "name": "Dorsey family (Belmont, Elkridge and Hockley forges)",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Caleb Dorsey and sons used up to 94 enslaved people on lands and forges near the Patapsco; Edward Dorsey's heirs held 36 (tax records, per heritage sources).",
+   "start": 1736,
+   "end": 1864,
+   "lifespan": "1736–1864",
+   "base": "Belmont, Elkridge, Howard County, Maryland",
+   "geo": [
+    39.208,
+    -76.735
+   ],
+   "origins": "An early Anne Arundel family; Caleb Dorsey Jr. built Belmont (1738) and ran iron forges on the Patapsco (Elk Ridge Furnace, Dorsey's Forge, Hockley).",
+   "role_summary": "The Dorseys' iron and tobacco enterprises relied on enslaved workers; archaeology at Elkridge Furnace found cabins likely used by enslaved workers in the 1850s. Belmont passed via Priscilla Dorsey to Alexander Contee Hanson, linking the Dorseys to the Contee and Hanson families.",
+   "roleDetail": [
+    {
+     "t": "Enslaved ironworkers.",
+     "d": "Up to 94 enslaved people across Dorsey land and forges.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "1860.",
+     "d": "Charles Hanson held 10 enslaved people at Belmont (slave census).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Belmont is a conference/nature centre (Howard County); Dorsey Hall and Dorsey Road carry the name.",
+   "legacyDetail": [
+    {
+     "t": "Archaeology.",
+     "d": "Elkridge Furnace dig (2020s) identified enslaved quarters.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Caleb Dorsey Jr.",
+     "relation": "founder",
+     "years": "1710–1772",
+     "note": "Built Belmont; ironmaster.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Dorsey",
+     "relation": "son",
+     "years": "d.1799",
+     "note": "Heirs held 36 enslaved.",
+     "basis": "documented"
+    },
+    {
+     "name": "Priscilla Dorsey Hanson",
+     "relation": "heir",
+     "years": "fl.1780s",
+     "note": "Married Alexander Contee Hanson.",
+     "basis": "documented",
+     "id": "hanson-family"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken about the slavery link.",
+   "placesNamed": [
+    "Dorsey Hall, Columbia, Maryland",
+    "Dorsey Road (MD 176)",
+    "Dorsey MARC station"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Belmont Estate",
+     "url": "https://en.wikipedia.org/wiki/Belmont_Estate"
+    },
+    {
+     "label": "Elkridge Heritage Society — Belmont Manor",
+     "url": "https://elkridgeheritage.org/?p=1706"
+    },
+    {
+     "label": "MDOT blog — enslaved workers at Elkridge Furnace",
+     "url": "https://blog.mdot.maryland.gov/tag/enslaved/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hanson-family",
+     "type": "family",
+     "label": "Belmont passed to Hansons"
+    },
+    {
+     "id": "contee-family",
+     "type": "family",
+     "label": "Alexander Contee Hanson"
+    },
+    {
+     "id": "snowden-family",
+     "type": "parallel",
+     "label": "ironmasters"
+    },
+    {
+     "id": "howard-family",
+     "type": "parallel",
+     "label": "Howard County"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [
+    "John Hanson"
+   ],
+   "id": "hanson-family",
+   "name": "Hanson family (John Hanson; Alexander Contee Hanson)",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "John Hanson was a planter and slave owner (SNAC) born at 1,000-acre Mulberry Grove tobacco plantation; numbers not documented in sources found. Charles Hanson held 10 at Belmont in 1860.",
+   "start": 1715,
+   "end": 1864,
+   "lifespan": "c.1715–1864",
+   "base": "Mulberry Grove, Charles County / Frederick, Maryland",
+   "geo": [
+    38.524,
+    -77.025
+   ],
+   "origins": "A Charles County planting family; John Hanson moved to Frederick County in 1769 and served as President of the Continental Congress under the Articles (1781–82).",
+   "role_summary": "John Hanson, often styled the 'first President', was a tobacco planter and enslaver like his father. His son Alexander Contee Hanson became Chancellor of Maryland; a later Hanson line held Belmont (Dorsey inheritance) and its enslaved workers.",
+   "roleDetail": [
+    {
+     "t": "Planter and enslaver.",
+     "d": "SNAC: 'planter, slave owner, and public official'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Continental presidency.",
+     "d": "President of Congress 1781–82.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "A statue of John Hanson stands in the U.S. Capitol (Maryland's contribution); John Hanson Highway (US 50) and many schools bear his name.",
+   "legacyDetail": [
+    {
+     "t": "Memorials.",
+     "d": "Statuary Hall statue (1903).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Samuel Hanson",
+     "relation": "father",
+     "years": "c.1685–1740",
+     "note": "Mulberry Grove planter.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Hanson",
+     "relation": "son",
+     "years": "c.1715–1783",
+     "note": "President of Congress.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alexander Contee Hanson",
+     "relation": "son",
+     "years": "1749–1806",
+     "note": "Chancellor of Maryland; married into Contee family.",
+     "basis": "documented",
+     "id": "contee-family"
+    },
+    {
+     "name": "Charles Hanson",
+     "relation": "descendant",
+     "years": "fl.1860",
+     "note": "10 enslaved at Belmont.",
+     "basis": "interpretive",
+     "id": "dorsey-family"
+    }
+   ],
+   "today": "No publicly documented descendants have addressed the slavery link.",
+   "placesNamed": [
+    "John Hanson Highway (US 50)",
+    "John Hanson statue, National Statuary Hall"
+   ],
+   "sources": [
+    {
+     "label": "SNAC — Hanson, John, 1721–1783",
+     "url": "https://snaccooperative.org/ark:/99166/w6s28tk7"
+    },
+    {
+     "label": "Maryland Center for History and Culture — John Hanson",
+     "url": "https://mdhistory.org/resources/john-hanson"
+    }
+   ],
+   "connections": [
+    {
+     "id": "contee-family",
+     "type": "family",
+     "label": "Contee marriages"
+    },
+    {
+     "id": "dorsey-family",
+     "type": "family",
+     "label": "Belmont inheritance"
+    },
+    {
+     "id": "thomas-stone",
+     "type": "political",
+     "label": "Charles County neighbour"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "thomas-stone",
+   "name": "Thomas Stone",
+   "role": "Planter & Enslaver",
+   "scale": "Minor",
+   "scaleNote": "Haberdeventure supported 25–35 people including enslaved workers (NPS brochure); about 35 enslaved men, women and children at Stone properties (local history).",
+   "start": 1770,
+   "end": 1787,
+   "lifespan": "1743–1787",
+   "base": "Haberdeventure, Port Tobacco, Charles County, Maryland",
+   "geo": [
+    38.531,
+    -77.034
+   ],
+   "origins": "Charles County lawyer and planter; signer of the Declaration of Independence.",
+   "role_summary": "Stone's wealth depended on the labour of enslaved African Americans at Haberdeventure; the NPS now names him as an enslaver and interprets the enslaved community.",
+   "roleDetail": [
+    {
+     "t": "Enslaver.",
+     "d": "NPS/Recreation.gov: held many people in bondage at Haberdeventure.",
+     "basis": "documented"
+    },
+    {
+     "t": "Research.",
+     "d": "NPS-commissioned study 'New Perspectives on Haberdeventure Plantation, 1770–1787' (2022).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Thomas Stone National Historic Site (NPS) at Port Tobacco interprets slavery at the plantation.",
+   "legacyDetail": [
+    {
+     "t": "Archaeology.",
+     "d": "Possible slave quarter site identified for study.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Stone",
+     "relation": "self",
+     "years": "1743–1787",
+     "note": "Signer; enslaver.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The site is federal property. No publicly documented descendants traced.",
+   "placesNamed": [
+    "Thomas Stone National Historic Site",
+    "Thomas Stone High School, Waldorf"
+   ],
+   "sources": [
+    {
+     "label": "NPS — Haberdeventure (article)",
+     "url": "https://www.nps.gov/articles/000/haberdeventure.htm"
+    },
+    {
+     "label": "Recreation.gov — Thomas Stone National Historic Site",
+     "url": "https://www.recreation.gov/gateways/13984"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hanson-family",
+     "type": "political",
+     "label": "Charles County"
+    },
+    {
+     "id": "william-paca",
+     "type": "political",
+     "label": "fellow signer"
+    },
+    {
+     "id": "samuel-chase",
+     "type": "political",
+     "label": "fellow signer"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "christopher-lowndes",
+   "name": "Christopher Lowndes",
+   "role": "Trader & Shipper",
+   "scale": "Significant",
+   "scaleNote": "With brothers Edward and Charles (Liverpool) and son Francis he invested in ships making 37 slaving voyages 1746–1770 carrying c. 9,637 captives, per James H. Johnston's 'From Slave Ship to Harvard' (2012), drawing on the SlaveVoyages database (average mortality c. 13.5%); the total has not been independently re-counted here.",
+   "start": 1746,
+   "end": 1785,
+   "lifespan": "1713–1785",
+   "base": "Bladensburg, Prince George's County, Maryland",
+   "geo": [
+    38.939,
+    -76.937
+   ],
+   "origins": "English-born merchant who settled at the new port of Bladensburg (1742), running a store, shipyard and ropewalk.",
+   "role_summary": "Lowndes was Maryland's clearest direct link to the transatlantic trade: his family's ships carried thousands of Africans, and he advertised cargoes sold in Maryland, including a 1752 sale from a ship in the Severn. He built Bostwick (1746) with enslaved and indentured labour and advertised for enslaved people who escaped.",
+   "roleDetail": [
+    {
+     "t": "37 voyages.",
+     "d": "Family ships 1746–70: c. 9,637 captives, per J. H. Johnston, 'From Slave Ship to Harvard' (Fordham, 2012), using SlaveVoyages data.",
+     "basis": "documented"
+    },
+    {
+     "t": "Maryland sales.",
+     "d": "Publicly advertised two cargoes, one in the Maryland Gazette in 1752.",
+     "basis": "documented"
+    },
+    {
+     "t": "Runaway ad.",
+     "d": "1764 Maryland Gazette advert for an enslaved man he held.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Bostwick House is owned by Bladensburg and studied by the University of Maryland; a 2024 marker reproduces his slave-sale advertisement. His daughter married Benjamin Stoddert, first U.S. Secretary of the Navy.",
+   "legacyDetail": [
+    {
+     "t": "Marker.",
+     "d": "Bostwick marker (2024) names the slave trade.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Edward and Charles Lowndes",
+     "relation": "brothers/partners",
+     "years": "fl.1740s–70s",
+     "note": "Co-investors in slaving vessels.",
+     "basis": "documented"
+    },
+    {
+     "name": "Francis Lowndes",
+     "relation": "son",
+     "years": "fl.1760s",
+     "note": "Co-investor.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Stoddert",
+     "relation": "son-in-law",
+     "years": "1744–1813",
+     "note": "First Secretary of the Navy; later owned Bostwick.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented descendants have addressed the history; Bostwick is municipal property.",
+   "placesNamed": [
+    "Bostwick House, Bladensburg"
+   ],
+   "sources": [
+    {
+     "label": "Hyattsville Wire — The untold history of a Bladensburg mansion",
+     "url": "https://hyattsvillewire.com/2018/07/27/bostwick-house-bladensburg"
+    },
+    {
+     "label": "UMD Libraries exhibit — Slavery in Colonial Bladensburg",
+     "url": "https://exhibitions.lib.umd.edu/bladensburg/golden-age/slavery-in-colonial-bladensburg"
+    },
+    {
+     "label": "Wikipedia — Christopher Lowndes",
+     "url": "https://en.wikipedia.org/wiki/Christopher_Lowndes"
+    }
+   ],
+   "connections": [
+    {
+     "id": "bostwick-house",
+     "type": "ownership",
+     "label": "built Bostwick"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "voyage",
+     "label": "family slaving ships"
+    },
+    {
+     "id": "slavevoyages-database",
+     "type": "legacy",
+     "label": "voyages recorded"
+    },
+    {
+     "id": "riversdale",
+     "type": "parallel",
+     "label": "Calverts later owned Bostwick"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "dulany-family",
+   "name": "Dulany family (Daniel Dulany the Elder and Younger)",
+   "role": "Financier & Insurer",
+   "scale": "Significant",
+   "scaleNote": "MSA: Daniel Dulany the Elder 'invested in the slave trade', profiting both from sales and from loans to buyers; partner in the Baltimore Iron Works.",
+   "start": 1720,
+   "end": 1781,
+   "lifespan": "1685–1781",
+   "base": "Annapolis, Maryland",
+   "geo": [
+    38.983,
+    -76.484
+   ],
+   "origins": "Daniel Dulany the Elder arrived as an Irish indentured servant (1703), rose as a lawyer and land speculator; his son Daniel the Younger wrote the famous anti-Stamp Act pamphlet but became a Loyalist.",
+   "role_summary": "The Elder invested in slave cargoes for 'double profits' — on sale and on credit extended to purchasing planters — and promoted western settlement around Frederick Town, which he laid out. The family's Annapolis estate later became the U.S. Naval Academy.",
+   "roleDetail": [
+    {
+     "t": "Slave-trade investor.",
+     "d": "MSA biography records slave-trade investment and planter lending.",
+     "basis": "documented"
+    },
+    {
+     "t": "Iron Works.",
+     "d": "Partner with Carrolls and Tasker in Baltimore Iron Works.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Loyalist property confiscated after the Revolution; their Annapolis land became the Naval Academy grounds.",
+   "legacyDetail": [
+    {
+     "t": "Frederick.",
+     "d": "Dulany laid out Frederick Town (1745).",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Daniel Dulany the Elder",
+     "relation": "founder",
+     "years": "1685–1753",
+     "note": "Lawyer, speculator, slave-trade investor.",
+     "basis": "documented"
+    },
+    {
+     "name": "Daniel Dulany the Younger",
+     "relation": "son",
+     "years": "1722–1797",
+     "note": "Lawyer; Loyalist.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants traced.",
+   "placesNamed": [
+    "Dulaney Valley (Baltimore County)"
+   ],
+   "sources": [
+    {
+     "label": "Archives of Maryland — Daniel Dulany (biography)",
+     "url": "https://www.msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000300/000371/html/371bio.html"
+    },
+    {
+     "label": "Wikipedia — Daniel Dulany the Elder",
+     "url": "https://en.wikipedia.org/wiki/Daniel_Dulany_the_Elder"
+    }
+   ],
+   "connections": [
+    {
+     "id": "carroll-family",
+     "type": "finance",
+     "label": "Baltimore Iron Works"
+    },
+    {
+     "id": "ogle-tasker-family",
+     "type": "finance",
+     "label": "Tasker partner"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Chesapeake trade"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "gabriel-duvall",
+   "name": "Gabriel Duvall",
+   "role": "Planter & Enslaver",
+   "scale": "Minor",
+   "scaleNote": "9–40 enslaved people at Marietta 1783–1864 (M-NCPPC); he contested Thomas and Sarah Butler's freedom suit (1828–31), which the Butlers won with Francis Scott Key as counsel.",
+   "start": 1783,
+   "end": 1844,
+   "lifespan": "1752–1844",
+   "base": "Marietta, Glenn Dale, Prince George's County, Maryland",
+   "geo": [
+    38.987,
+    -76.807
+   ],
+   "origins": "Huguenot-descended Prince George's lawyer; Comptroller of the Treasury and Supreme Court Justice 1811–35.",
+   "role_summary": "An enslaver who, as a lawyer, also represented 120+ enslaved freedom petitioners and dissented in Mima Queen v. Hepburn (1813) to protect hearsay evidence of free ancestry. Yet he fought the Butler family's own freedom suit; they won in 1831, freeing three generations.",
+   "roleDetail": [
+    {
+     "t": "Butler v. Duvall.",
+     "d": "Butlers sued 1828, freed 1831.",
+     "basis": "documented"
+    },
+    {
+     "t": "Queen v. Hepburn dissent.",
+     "d": "His only Supreme Court dissent.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Marietta House Museum (M-NCPPC) interprets the enslaved community and the Butler case.",
+   "legacyDetail": [
+    {
+     "t": "Lesson plans.",
+     "d": "M-NCPPC 'Law and Freedom' curriculum.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas and Sarah Butler",
+     "relation": "enslaved petitioners",
+     "years": "fl.1828–31",
+     "note": "Won freedom from Duvall.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken publicly.",
+   "placesNamed": [
+    "Marietta House Museum, Glenn Dale"
+   ],
+   "sources": [
+    {
+     "label": "M-NCPPC — Marietta House Museum",
+     "url": "https://blackhistory.pgparks.com/facilities/marietta-house-museum"
+    },
+    {
+     "label": "Early Washington DC Law & Family — Thomas Butler v. Gabriel Duvall",
+     "url": "https://earlywashingtondc.org/doc/oscys.case.0212.003"
+    },
+    {
+     "label": "Fede, Journal of Supreme Court History (2017)",
+     "url": "https://www.archerlaw.com/a/web/AQc1bJth4NGzssangamUB/andrew-fede-journal-of-supreme-court-history-article_march-2017.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "francis-scott-key",
+     "type": "political",
+     "label": "Key represented the Butlers"
+    },
+    {
+     "id": "roger-b-taney",
+     "type": "political",
+     "label": "Supreme Court colleague"
+    },
+    {
+     "id": "darnall-family",
+     "type": "parallel",
+     "label": "Prince George's enslavers"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "darnall-family",
+   "name": "Darnall family (Woodyard)",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Leading proprietary-era Catholic family; the Joice family and others were enslaved by the Darnalls (Early Washington DC network). c.1710 portrait of Henry Darnall III with an enslaved boy in a silver collar is a key image of colonial slavery.",
+   "start": 1672,
+   "end": 1800,
+   "lifespan": "c.1672–1800",
+   "base": "The Woodyard, Prince George's County, Maryland",
+   "geo": [
+    38.818,
+    -76.86
+   ],
+   "origins": "Henry Darnall I was a kinsman and agent of Lord Baltimore (receiver-general, land agent) and one of Maryland's richest men.",
+   "role_summary": "The Darnalls held enslaved people across Prince George's estates; Ann Joice's descendants were enslaved by the Darnalls, Carrolls and Jesuits and fought freedom suits for generations. Mary Darnall married Charles Carroll of Carrollton.",
+   "roleDetail": [
+    {
+     "t": "Portrait.",
+     "d": "Justus Engelhardt Kühn's portrait shows an enslaved boy with a silver collar — Maryland Center for History and Culture.",
+     "basis": "documented"
+    },
+    {
+     "t": "Joice family.",
+     "d": "Freedom suits (Mahoney v. Ashton) traced descent from Ann Joice.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The painting featured in Fred Wilson's 'Mining the Museum' (1992). Family intermarried with the Carrolls (Doughoregan).",
+   "legacyDetail": [
+    {
+     "t": "Carroll link.",
+     "d": "Mary 'Molly' Darnall married Charles Carroll of Carrollton (1768).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Henry Darnall I",
+     "relation": "founder",
+     "years": "c.1645–1711",
+     "note": "Lord Baltimore's agent.",
+     "basis": "documented",
+     "id": "calvert-family"
+    },
+    {
+     "name": "Henry Darnall III",
+     "relation": "grandson",
+     "years": "1702–c.1787",
+     "note": "Subject of Kühn portrait.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Darnall Carroll",
+     "relation": "heir",
+     "years": "1749–1782",
+     "note": "Married Charles Carroll of Carrollton.",
+     "basis": "documented",
+     "id": "carroll-family"
+    }
+   ],
+   "today": "No publicly documented descendants traced beyond the Carroll line.",
+   "placesNamed": [
+    "Woodyard Road, Prince George's County"
+   ],
+   "sources": [
+    {
+     "label": "Maryland Center for History and Culture — Henry Darnall III",
+     "url": "https://www.mdhistory.org/digital-resource/5029"
+    },
+    {
+     "label": "Early Washington DC — Darnall family network",
+     "url": "https://earlywashingtondc.org/families/darnall"
+    }
+   ],
+   "connections": [
+    {
+     "id": "carroll-family",
+     "type": "family",
+     "label": "Mary Darnall Carroll"
+    },
+    {
+     "id": "calvert-family",
+     "type": "charter",
+     "label": "proprietary agent"
+    },
+    {
+     "id": "georgetown-university",
+     "type": "parallel",
+     "label": "Jesuit enslavers of Joice family"
+    },
+    {
+     "id": "digges-family",
+     "type": "parallel",
+     "label": "Joice family enslavers"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "estimated",
+   "aliases": [],
+   "id": "digges-family",
+   "name": "Digges family (Warburton)",
+   "role": "Planter & Enslaver",
+   "scale": "Minor",
+   "scaleNote": "Warburton Manor (1661) Catholic gentry; William and Ignatius Digges enslaved named members of the Joice family (Early Washington DC). Numbers not traced.",
+   "start": 1661,
+   "end": 1820,
+   "lifespan": "1661–c.1820",
+   "base": "Warburton Manor (Fort Washington), Prince George's County",
+   "geo": [
+    38.712,
+    -77.033
+   ],
+   "origins": "Descendants of Edward Digges, governor of Virginia; neighbours and friends of George Washington across the Potomac.",
+   "role_summary": "The Digges held enslaved people at Warburton; Thomas Digges testified in the 1792 Mahoney v. Ashton freedom suit about the Joice descendants.",
+   "roleDetail": [
+    {
+     "t": "Joice family.",
+     "d": "William and Ignatius Digges named as enslavers of Joice family members.",
+     "basis": "documented"
+    },
+    {
+     "t": "Washington circle.",
+     "d": "George Washington visited Warburton.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Warburton land became Fort Washington Park (NPS).",
+   "legacyDetail": [
+    {
+     "t": "Fort Washington.",
+     "d": "Site of Fort Washington.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "William Digges",
+     "relation": "head",
+     "years": "fl.1760s",
+     "note": "Of Warburton.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Digges",
+     "relation": "son",
+     "years": "fl.1768",
+     "note": "Friend of Washington.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants traced.",
+   "placesNamed": [
+    "Fort Washington Park (on Warburton land)"
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Warburton Manor",
+     "url": "https://en.wikipedia.org/wiki/Warburton_Manor"
+    },
+    {
+     "label": "Early Washington DC — Joice Family Network",
+     "url": "https://earlywashingtondc.org/families/joice"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "friends"
+    },
+    {
+     "id": "darnall-family",
+     "type": "parallel",
+     "label": "Joice enslavers"
+    },
+    {
+     "id": "carroll-family",
+     "type": "parallel",
+     "label": "Joice enslavers"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "sprigg-family",
+   "name": "Sprigg family (Northampton)",
+   "role": "Planter & Enslaver",
+   "scale": "Minor",
+   "scaleNote": "Gov. Samuel Sprigg's workforce at his death included 61 enslaved labourers (M-NCPPC county history); the Northampton quarters yielded 40,000+ artifacts.",
+   "start": 1673,
+   "end": 1865,
+   "lifespan": "1673–1865",
+   "base": "Northampton, Largo, Prince George's County",
+   "geo": [
+    38.893,
+    -76.828
+   ],
+   "origins": "Thomas Sprigg received Northampton from Lord Baltimore in 1673; Samuel Sprigg was governor 1819–22.",
+   "role_summary": "Sprigg tobacco plantation worked by enslaved people; archaeology matched a frame 'Negro House' in the 1798 tax list and found a brick duplex quarter.",
+   "roleDetail": [
+    {
+     "t": "61 enslaved.",
+     "d": "At Samuel Sprigg's death.",
+     "basis": "documented"
+    },
+    {
+     "t": "Archaeology.",
+     "d": "Quarters excavated; NPS Network to Freedom site.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Northampton Slave Quarters and Archaeological Park; descendant families (Hawkins, Smith, Pongee) help interpret it.",
+   "legacyDetail": [
+    {
+     "t": "Descendants.",
+     "d": "Families of the enslaved still live in the county.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Sprigg",
+     "relation": "founder",
+     "years": "fl.1673",
+     "note": "Patent from Lord Baltimore.",
+     "basis": "documented",
+     "id": "calvert-family"
+    },
+    {
+     "name": "Samuel Sprigg",
+     "relation": "heir",
+     "years": "c.1783–1855",
+     "note": "Governor 1819–22.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented Sprigg descendants traced.",
+   "placesNamed": [
+    "Northampton Slave Quarters and Archaeological Park, Largo"
+   ],
+   "sources": [
+    {
+     "label": "HMDB — Northampton marker",
+     "url": "https://www.hmdb.org/m.asp?m=69273"
+    },
+    {
+     "label": "M-NCPPC — African-American Historic and Cultural Resources in Prince George's County",
+     "url": "https://issuu.com/mncppc/docs/aapgc/245"
+    }
+   ],
+   "connections": [
+    {
+     "id": "northampton-slave-quarters",
+     "type": "ownership",
+     "label": "owned"
+    },
+    {
+     "id": "calvert-family",
+     "type": "charter",
+     "label": "1673 patent"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "legacy",
+     "label": "Network to Freedom"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [
+    "Tench Tilghman",
+    "Matthew Tilghman"
+   ],
+   "id": "tilghman-family",
+   "name": "Tilghman family of Talbot County",
+   "role": "Planter & Enslaver",
+   "scale": "Significant",
+   "scaleNote": "Peregrine Tilghman held 51 enslaved (1790) and 59 (1804) at Hope House (MSA biographical dictionary); wills and manumissions trace many more family holdings.",
+   "start": 1660,
+   "end": 1864,
+   "lifespan": "1660s–1864",
+   "base": "Hope House / Talbot County, Maryland",
+   "geo": [
+    38.789,
+    -76.169
+   ],
+   "origins": "Descended from surgeon Richard Tilghman (arrived 1661); intermarried with the Lloyds. Matthew Tilghman led Maryland's Revolutionary convention; Tench Tilghman was Washington's aide-de-camp.",
+   "role_summary": "A dominant Eastern Shore planter dynasty: Peregrine Tilghman built Hope House (c.1770) after marrying Deborah Lloyd and held 50–60 enslaved people; family wills bequeathed people across generations.",
+   "roleDetail": [
+    {
+     "t": "Hope House.",
+     "d": "51 enslaved (1790); 59 (1804).",
+     "basis": "documented"
+    },
+    {
+     "t": "Washington's aide.",
+     "d": "Tench Tilghman carried news of Yorktown to Congress.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Tilghman Island and Tilghman Street names; Salisbury University's Enduring Connections database documents Tilghman manumissions and wills.",
+   "legacyDetail": [
+    {
+     "t": "Records.",
+     "d": "Nabb Center abstracts of Tilghman wills and manumissions.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Richard Tilghman",
+     "relation": "founder",
+     "years": "1626–1676",
+     "note": "Surgeon; The Hermitage.",
+     "basis": "documented"
+    },
+    {
+     "name": "Matthew Tilghman",
+     "relation": "descendant",
+     "years": "1718–1790",
+     "note": "Revolutionary leader.",
+     "basis": "documented"
+    },
+    {
+     "name": "Peregrine Tilghman",
+     "relation": "descendant",
+     "years": "1741–1807",
+     "note": "Hope House; married Deborah Lloyd.",
+     "basis": "documented",
+     "id": "lloyd-family"
+    },
+    {
+     "name": "Tench Tilghman",
+     "relation": "descendant",
+     "years": "1744–1786",
+     "note": "Aide to Washington.",
+     "basis": "documented",
+     "id": "george-washington"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken about the slavery link.",
+   "placesNamed": [
+    "Tilghman Island, Maryland",
+    "Tilghman, Maryland"
+   ],
+   "sources": [
+    {
+     "label": "Archives of Maryland — Peregrine Tilghman (biography)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/004600/004663/html/04663bio.html"
+    },
+    {
+     "label": "Wikipedia — Hope House (Easton, Maryland)",
+     "url": "https://en.wikipedia.org/wiki/Hope_House_(Easton,_Maryland)"
+    },
+    {
+     "label": "Nabb Center — Enduring Connections (Upper Shore manumissions)",
+     "url": "https://enduringconnections.salisbury.edu/r/upper_shore_manumissions_maryland/260"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "family",
+     "label": "Lloyd marriages"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "Tench Tilghman aide"
+    },
+    {
+     "id": "goldsborough-family",
+     "type": "parallel",
+     "label": "Talbot planters"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "parallel",
+     "label": "Talbot County"
+    }
+   ]
+  },
+  {
+   "category": "American Families",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "goldsborough-family",
+   "name": "Goldsborough family (Myrtle Grove)",
+   "role": "Planter & Enslaver",
+   "scale": "Minor",
+   "scaleNote": "Estate held 28 enslaved people by 1790 (Frederick Douglass Papers annotation); a Goldsborough will (prob. 1798) ordered the 'most troublesome' sold to pay debts.",
+   "start": 1734,
+   "end": 1864,
+   "lifespan": "1734–1864",
+   "base": "Myrtle Grove, Talbot County, Maryland",
+   "geo": [
+    38.76,
+    -76.12
+   ],
+   "origins": "Talbot County lawyers and planters; Robert Goldsborough IV sat in the Continental Congress; Robert Henry Goldsborough was a U.S. senator.",
+   "role_summary": "Enslavers at Myrtle Grove and Ashby; Frederick Douglass's later writings annotate the family as Talbot neighbours of the Lloyds.",
+   "roleDetail": [
+    {
+     "t": "28 enslaved (1790).",
+     "d": "Frederick Douglass Papers annotation.",
+     "basis": "documented"
+    },
+    {
+     "t": "Will.",
+     "d": "Ordered sale of the 'most contenacious & troublesome'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Myrtle Grove is a National Historic Landmark still in private hands.",
+   "legacyDetail": [
+    {
+     "t": "Douglass link.",
+     "d": "Annotated in Douglass's Life and Times.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Robert Goldsborough IV",
+     "relation": "head",
+     "years": "1740–1798",
+     "note": "Continental Congress delegate.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Henry Goldsborough",
+     "relation": "descendant",
+     "years": "1779–1836",
+     "note": "U.S. senator, born and died at Myrtle Grove.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have spoken about the slavery link.",
+   "placesNamed": [
+    "Goldsborough Street, Easton"
+   ],
+   "sources": [
+    {
+     "label": "Archives of Maryland — Robert Goldsborough IV",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000500/000511/html/511bio.html"
+    },
+    {
+     "label": "Nabb Center — Wills from Caroline, Kent and Talbot (record 451)",
+     "url": "https://enduringconnections.salisbury.edu/r/wills_caroline_kent_talbot/451"
+    },
+    {
+     "label": "Frederick Douglass Papers — annotation (Goldsborough)",
+     "url": "https://www.fromthepage.com/fdp/frederick-douglass-papers-series-two-autobiographical-writings-volume-3-life-and-times-of-frederick-douglass-book-2-historical-annotations/historical-annotation-e4c7cecf-632c-4795-973a-1baffdb9baa0/display/1296365"
+    }
+   ],
+   "connections": [
+    {
+     "id": "tilghman-family",
+     "type": "parallel",
+     "label": "Talbot planters"
+    },
+    {
+     "id": "lloyd-family",
+     "type": "parallel",
+     "label": "neighbours"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "parallel",
+     "label": "Douglass annotations"
+    }
+   ]
+  },
+  {
+   "category": "Companies & Banks",
+   "nation": "United States",
+   "scaleBasis": "documented",
+   "aliases": [],
+   "id": "johns-hopkins",
+   "name": "Johns Hopkins",
+   "role": "Financier & Insurer",
+   "scale": "Minor",
+   "scaleNote": "Census: 1 enslaved person in his household in 1840 and 4 men in 1850 (JHU Hard Histories, 2020); he sometimes accepted enslaved people to settle business debts.",
+   "start": 1840,
+   "end": 1873,
+   "lifespan": "1795–1873",
+   "base": "Baltimore, Maryland",
+   "geo": [
+    39.29,
+    -76.612
+   ],
+   "origins": "Born on an Anne Arundel tobacco plantation to a Quaker family; became a wholesale grocer, banker and B&O investor in Baltimore.",
+   "role_summary": "Long celebrated as a Quaker abolitionist, Hopkins was shown in 2020 to have held enslaved people: the census lists one enslaved person in his household in 1840 and four men (aged 50, 45, 25 and 18) in 1850. Some historians, including former Maryland archivist Edward Papenfuse, have questioned the conclusion. The story that his father freed the family's enslaved people in 1807 is unsupported.",
+   "roleDetail": [
+    {
+     "t": "Census evidence.",
+     "d": "Four men (50, 45, 25, 18) in his Baltimore household, 1850.",
+     "basis": "documented"
+    },
+    {
+     "t": "Debt settlements.",
+     "d": "Occasionally took enslaved people as payment.",
+     "basis": "documented"
+    },
+    {
+     "t": "Abolitionist myth.",
+     "d": "No evidence for Hopkins's abolitionism or his father's manumissions.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His $7m bequest founded Johns Hopkins University and Hospital (1876/1889); JHU's Hard Histories project examines slavery and racism in its history.",
+   "legacyDetail": [
+    {
+     "t": "Hard Histories at Hopkins.",
+     "d": "Announced Dec 2020 by President Daniels.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Samuel Hopkins",
+     "relation": "father",
+     "years": "fl.1800s",
+     "note": "Planter; no evidence he freed enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Samuel Hopkins (brother)",
+     "relation": "brother",
+     "years": "fl.1850–60",
+     "note": "Held 2 enslaved (1850), 1 (1860).",
+     "basis": "documented"
+    },
+    {
+     "name": "Johns Hopkins University",
+     "relation": "successor institution",
+     "years": "1876–present",
+     "note": "Founded by his bequest.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Johns Hopkins University and Hospital are his legacy; he had no children. Hard Histories at Hopkins continues research on the people he held.",
+   "placesNamed": [
+    "Johns Hopkins University",
+    "Johns Hopkins Hospital"
+   ],
+   "sources": [
+    {
+     "label": "Johns Hopkins University — Hard Histories report (Dec 2020) PDF",
+     "url": "https://hardhistory.jhu.edu/assets/uploads/sites/8/2020/12/Hard.Histories.12.8.20.pdf"
+    },
+    {
+     "label": "Smithsonian — Johns Hopkins, once thought an abolitionist, actually enslaved people",
+     "url": "https://www.smithsonianmag.com/smart-news/johns-hopkins-once-thought-be-abolitionist-actually-enslaved-people-180976515/"
+    },
+    {
+     "label": "Johns Hopkins Magazine — Hopkins, slavery and Hard Histories",
+     "url": "https://hub.jhu.edu/magazine/2021/spring/hopkins-slavery-hard-histories"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hard-histories-jhu",
+     "type": "legacy",
+     "label": "university research"
+    },
+    {
+     "id": "john-w-garrett",
+     "type": "finance",
+     "label": "B&O stock; trustee"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Baltimore merchant"
+    }
+   ]
+  },
+  {
+   "id": "maryland-county-namesakes",
+   "name": "Maryland's county namesakes (23 counties + Baltimore City)",
+   "kind": "Legacy / place names",
+   "start": 1634,
+   "geo": [
+    38.978,
+    -76.492
+   ],
+   "description": "Of Maryland's names, Baltimore, Cecil, Calvert, Charles and probably Frederick honour the Calvert proprietors who governed a slave colony (calvert-family); Caroline (Caroline Eden) and Harford (Henry Harford) honour their kin; Anne Arundel (Anne Arundell), Talbot (Grace Talbot, Cecil's sister), Somerset (Mary Somerset, sister-in-law) and Dorchester (Earl of Dorset) honour Calvert relations and friends. Queen Anne's and Prince George's honour Queen Anne (1713 Asiento) and her consort; Kent, Worcester and St. Mary's are English/ religious names; Allegany and Wicomico are Native American; Montgomery, Washington, Howard, Carroll and Garrett honour Revolutionary and 19th-century figures, most of them enslavers (Washington, Howard, Carroll) — Garrett and Montgomery with no documented Maryland slaveholding.",
+   "placesNamed": [
+    "Allegany",
+    "Anne Arundel",
+    "Baltimore",
+    "Calvert",
+    "Caroline",
+    "Carroll",
+    "Cecil",
+    "Charles",
+    "Dorchester",
+    "Frederick",
+    "Garrett",
+    "Harford",
+    "Howard",
+    "Kent",
+    "Montgomery",
+    "Prince George's",
+    "Queen Anne's",
+    "St. Mary's",
+    "Somerset",
+    "Talbot",
+    "Washington",
+    "Wicomico",
+    "Worcester",
+    "Baltimore City"
+   ],
+   "sources": [
+    {
+     "label": "Maryland Manual — county origins (Queen Anne's)",
+     "url": "https://www.msa.maryland.gov/msa/mdmanual/36loc/qa/html/qa.html"
+    },
+    {
+     "label": "Maryland Manual (1965–66) — origin of county names",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc2900/sc2908/000001/000172/html/am172--738.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "legacy",
+     "label": "Baltimore, Cecil, Calvert, Charles"
+    },
+    {
+     "id": "carroll-family",
+     "type": "legacy",
+     "label": "Carroll County"
+    },
+    {
+     "id": "howard-family",
+     "type": "legacy",
+     "label": "Howard County"
+    },
+    {
+     "id": "george-washington",
+     "type": "legacy",
+     "label": "Washington County"
+    },
+    {
+     "id": "queen-anne-great-britain",
+     "type": "legacy",
+     "label": "Queen Anne's"
+    },
+    {
+     "id": "prince-george-of-denmark",
+     "type": "legacy",
+     "label": "Prince George's"
+    },
+    {
+     "id": "henry-harford",
+     "type": "legacy",
+     "label": "Harford"
+    },
+    {
+     "id": "caroline-calvert-eden",
+     "type": "legacy",
+     "label": "Caroline"
+    },
+    {
+     "id": "frederick-calvert-6th-baron-baltimore",
+     "type": "legacy",
+     "label": "Frederick"
+    },
+    {
+     "id": "anne-arundell-calvert",
+     "type": "legacy",
+     "label": "Anne Arundel"
+    },
+    {
+     "id": "john-w-garrett",
+     "type": "legacy",
+     "label": "Garrett"
+    },
+    {
+     "id": "richard-montgomery",
+     "type": "legacy",
+     "label": "Montgomery"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "sotterley-plantation",
+   "name": "Historic Sotterley (St. Mary's County)",
+   "kind": "Colony / plantation",
+   "start": 1703,
+   "geo": [
+    38.358,
+    -76.551
+   ],
+   "description": "Tidewater tobacco plantation on the Patuxent owned by the Bowles, Plater and Briscoe families; 48–49 enslaved people escaped to the British in 1814. Its surviving slave cabin (c.1830s–50s) is among the last in Southern Maryland; the museum's 'Slavery to Freedom' programme draws on Agnes Kane Callum's research.",
+   "sources": [
+    {
+     "label": "NPS — Exploring History at Historic Sotterley",
+     "url": "https://www.nps.gov/articles/000/exploring-history-at-historic-sotterley.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "plater-and-briscoe-families",
+     "type": "ownership",
+     "label": "owners"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "finance",
+     "label": "Bowles fortune"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "belair-mansion",
+   "name": "Belair Mansion (Bowie)",
+   "kind": "Colony / plantation",
+   "start": 1745,
+   "geo": [
+    38.968,
+    -76.747
+   ],
+   "description": "Georgian plantation house of Gov. Samuel Ogle and Benjamin Tasker (c.1745); now a City of Bowie museum with an exhibit on enslaved people's resistance and flight at Belair.",
+   "sources": [
+    {
+     "label": "Wikipedia — Belair Mansion (Bowie, Maryland)",
+     "url": "https://en.wikipedia.org/wiki/Belair_Mansion_(Bowie,_Maryland)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ogle-tasker-family",
+     "type": "ownership",
+     "label": "built and owned"
+    },
+    {
+     "id": "bowie-family",
+     "type": "parallel",
+     "label": "City of Bowie"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "montpelier-snowden",
+   "name": "Montpelier Mansion & Patuxent Iron Works (Laurel)",
+   "kind": "Colony / plantation",
+   "start": 1705,
+   "geo": [
+    39.087,
+    -76.84
+   ],
+   "description": "Snowden family seat (built 1781–85) and ironworks on the Patuxent; 141–169 people were enslaved by Thomas Snowden. Now an M-NCPPC museum interpreting enslaved life.",
+   "sources": [
+    {
+     "label": "Clio — Montpelier Mansion",
+     "url": "https://www.theclio.com/entry/1897"
+    }
+   ],
+   "connections": [
+    {
+     "id": "snowden-family",
+     "type": "ownership",
+     "label": "Snowden seat"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "bostwick-house",
+   "name": "Bostwick House (Bladensburg)",
+   "kind": "Colony / plantation",
+   "start": 1746,
+   "geo": [
+    38.939,
+    -76.937
+   ],
+   "description": "Built 1746 by slave-trade investor Christopher Lowndes with enslaved and indentured labour; later owned by Benjamin Stoddert and the Calverts of Riversdale. A 2024 marker reproduces Lowndes's slave-sale advertisement.",
+   "sources": [
+    {
+     "label": "Hyattsville Wire — Bostwick House marker (2024)",
+     "url": "https://www.hyattsvillewire.com/2024/01/15/bostwick-house-marker/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "christopher-lowndes",
+     "type": "ownership",
+     "label": "built"
+    },
+    {
+     "id": "riversdale",
+     "type": "parallel",
+     "label": "Calvert ownership"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "northampton-slave-quarters",
+   "name": "Northampton Slave Quarters and Archaeological Park (Largo)",
+   "kind": "Legacy / memorial",
+   "start": 1673,
+   "geo": [
+    38.893,
+    -76.828
+   ],
+   "description": "Excavated foundations of a frame and a brick quarter on the Sprigg plantation; 40,000+ artifacts. An NPS Network to Freedom site, interpreted with descendant families.",
+   "sources": [
+    {
+     "label": "Visit Maryland — Northampton Plantation and Slave Quarters",
+     "url": "https://www.visitmaryland.org/listing/history-heritage/northampton-plantation-and-slave-quarters"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sprigg-family",
+     "type": "ownership",
+     "label": "Sprigg plantation"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "baltimore-clippers-slave-trade",
+   "name": "Baltimore clippers in the illegal slave trade (Plattsburgh case, 1820)",
+   "kind": "Ship / voyage",
+   "start": 1808,
+   "geo": [
+    39.283,
+    -76.593
+   ],
+   "description": "After 1808 fast Baltimore-built schooners became the ship of choice for slavers evading U.S. and British patrols, sold to traders in Havana, Rio and Salvador. The Baltimore schooner Plattsburgh was condemned by the Supreme Court (1820/1826) for slave trading; owners and captains linked to the trade included Thomas Sheppard, John N. D'Arcy, Henry Didier and privateer Thomas Boyle (D. Seaton, 2013).",
+   "sources": [
+    {
+     "label": "Maryland State Archives — The Baltimore Clipper (essay)",
+     "url": "https://msa.maryland.gov/msa/stagser/s1259/121/6771/html/essay95.html"
+    },
+    {
+     "label": "Seaton, 'Warts and All: How The Plattsburgh should change…' (UMD Law, 2013)",
+     "url": "https://digitalcommons.law.umaryland.edu/mlh_pubs/45"
+    },
+    {
+     "label": "Redalyc — U.S.-built ships in the Brazilian slave trade",
+     "url": "https://www.redalyc.org/pdf/770/77003501.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-baltimore",
+     "type": "voyage",
+     "label": "built at Fells Point"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "Cuban slavers"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "sold in Rio"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "sold in Salvador"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "violated"
+    },
+    {
+     "id": "pedro-blanco",
+     "type": "trade",
+     "label": "slaver clients"
+    }
+   ],
+   "type": "entity"
+  },
+  {
+   "id": "hard-histories-jhu",
+   "name": "Hard Histories at Hopkins",
+   "kind": "Legacy / apology",
+   "start": 2020,
+   "geo": [
+    39.329,
+    -76.62
+   ],
+   "description": "Johns Hopkins University research initiative launched in December 2020 after archivists found 1840 and 1850 census records showing Johns Hopkins held enslaved people; it studies the founder, the institution and Baltimore's history of racism.",
+   "sources": [
+    {
+     "label": "JHU Retrospective — Reexamining Hopkins history",
+     "url": "https://retrospective.jhu.edu/our-initiatives/reexamining-hopkins-history"
+    }
+   ],
+   "connections": [
+    {
+     "id": "johns-hopkins",
+     "type": "legacy",
+     "label": "founder's slaveholding"
+    }
+   ],
+   "type": "entity"
+  }
+ ],
+ "events": [
+  {
+   "year": 1706,
+   "title": "Queen Anne's County created",
+   "text": "Maryland names a new Eastern Shore county for Queen Anne, whose government would win the slave-trading Asiento seven years later.",
+   "ids": [
+    "queen-anne-great-britain",
+    "maryland-county-namesakes"
+   ],
+   "source": {
+    "label": "Maryland Manual — Queen Anne's County",
+    "url": "https://www.msa.maryland.gov/msa/mdmanual/36loc/qa/html/qa.html"
+   }
+  },
+  {
+   "year": 1713,
+   "title": "Asiento granted to Britain",
+   "text": "At Utrecht Britain wins a 30-year contract to supply 4,800 enslaved Africans a year to Spanish America; the South Sea Company thanks Anne for her quarter share.",
+   "ids": [
+    "queen-anne-great-britain",
+    "south-sea-company",
+    "spanish-asiento"
+   ],
+   "source": {
+    "label": "The National Archives — South Sea Company address to the Queen",
+    "url": "https://beta.nationalarchives.gov.uk/catalogue/id/C6409786"
+   }
+  },
+  {
+   "year": 1752,
+   "title": "Lowndes advertises a slave cargo",
+   "text": "Bladensburg merchant Christopher Lowndes advertises Africans for sale from a ship in the Severn; his family's ships made 37 slaving voyages 1746–70.",
+   "ids": [
+    "christopher-lowndes",
+    "bostwick-house"
+   ],
+   "source": {
+    "label": "Hyattsville Wire — Bostwick House",
+    "url": "https://hyattsvillewire.com/2018/07/27/bostwick-house-bladensburg"
+   }
+  },
+  {
+   "year": 1773,
+   "title": "Harford and Caroline counties named",
+   "text": "Two new counties honour Henry Harford, heir to the proprietorship, and his aunt Lady Caroline Eden.",
+   "ids": [
+    "henry-harford",
+    "caroline-calvert-eden",
+    "maryland-county-namesakes"
+   ],
+   "source": {
+    "label": "Maryland Manual — Harford County",
+    "url": "https://msa.maryland.gov/msa/mdmanual/36loc/ha/html/ha.html"
+   }
+  },
+  {
+   "year": 1814,
+   "title": "Mass escape from Sotterley",
+   "text": "During the British raids on the Patuxent, 48–49 enslaved people escape Sotterley to British ships.",
+   "ids": [
+    "plater-and-briscoe-families",
+    "sotterley-plantation"
+   ],
+   "source": {
+    "label": "NPS — Exploring History at Historic Sotterley",
+    "url": "https://www.nps.gov/articles/000/exploring-history-at-historic-sotterley.htm"
+   }
+  },
+  {
+   "year": 1818,
+   "title": "Bowie brothers trade with Lafitte",
+   "text": "James and Rezin Bowie buy smuggled Africans at Lafitte's Galveston depot and launder them via informer auctions, making ~$65,000.",
+   "ids": [
+    "james-and-rezin-bowie"
+   ],
+   "source": {
+    "label": "Handbook of Texas — Rezin P. Bowie",
+    "url": "https://www.tshaonline.org/handbook/entries/bowie-rezin-pleasant"
+   }
+  },
+  {
+   "year": 1820,
+   "title": "Baltimore slaver Plattsburgh condemned",
+   "text": "The Baltimore schooner Plattsburgh is condemned for violating federal slave-trade law, exposing Baltimore shipowners' ties to the illegal trade.",
+   "ids": [
+    "baltimore-clippers-slave-trade",
+    "port-baltimore"
+   ],
+   "source": {
+    "label": "Seaton (UMD Law, 2013)",
+    "url": "https://digitalcommons.law.umaryland.edu/mlh_pubs/45"
+   }
+  },
+  {
+   "year": 1831,
+   "title": "Butlers win freedom from Justice Duvall",
+   "text": "Thomas and Sarah Butler, represented by Francis Scott Key, win their freedom suit against Supreme Court Justice Gabriel Duvall.",
+   "ids": [
+    "gabriel-duvall",
+    "francis-scott-key"
+   ],
+   "source": {
+    "label": "Early Washington DC — Butler v. Duvall",
+    "url": "https://earlywashingtondc.org/doc/oscys.case.0212.003"
+   }
+  },
+  {
+   "year": 1836,
+   "title": "Key prosecutes Reuben Crandall",
+   "text": "After the 1835 Snow Riot, D.C. attorney Francis Scott Key prosecutes Dr. Reuben Crandall for abolitionist pamphlets; the jury acquits.",
+   "ids": [
+    "francis-scott-key"
+   ],
+   "source": {
+    "label": "Free Speech Center — Trial of Reuben Crandall",
+    "url": "https://firstamendment.mtsu.edu/article/trial-of-reuben-crandall/"
+   }
+  },
+  {
+   "year": 1850,
+   "title": "Johns Hopkins's household includes four enslaved men",
+   "text": "The 1850 census lists four enslaved men in Hopkins's Baltimore household — found by archivists in 2020.",
+   "ids": [
+    "johns-hopkins",
+    "hard-histories-jhu"
+   ],
+   "source": {
+    "label": "Smithsonian — Johns Hopkins enslaved people",
+    "url": "https://www.smithsonianmag.com/smart-news/johns-hopkins-once-thought-be-abolitionist-actually-enslaved-people-180976515/"
+   }
+  },
+  {
+   "year": 1857,
+   "title": "Dred Scott v. Sandford",
+   "text": "Marylander Chief Justice Roger B. Taney declares Black Americans cannot be citizens and Congress cannot ban slavery in territories.",
+   "ids": [
+    "roger-b-taney"
+   ],
+   "source": {
+    "label": "NPR — Taney statue removed",
+    "url": "https://www.npr.org/sections/thetwo-way/2017/08/18/544407092/maryland-state-house-removes-statue-of-judge-who-wrote-dred-scott-decision"
+   }
+  },
+  {
+   "year": 1860,
+   "title": "Oden Bowie holds 103 people at Fairview",
+   "text": "The 1860 slave schedule lists 103 enslaved people at Fairview; about 70 men later enlisted in the Union Army.",
+   "ids": [
+    "bowie-family"
+   ],
+   "source": {
+    "label": "UMD Libraries — Bowie Family Papers",
+    "url": "https://archives.lib.umd.edu/repositories/2/resources/1105"
+   }
+  },
+  {
+   "year": 2017,
+   "title": "Taney apology and statue removal",
+   "text": "In March a Taney descendant apologises to Dred Scott's descendant at the State House; in August the Taney statue is removed.",
+   "ids": [
+    "roger-b-taney"
+   ],
+   "source": {
+    "label": "AFRO — Descendant apologizes for Dred Scott decision",
+    "url": "https://afro.com/descendant-supreme-court-judge-apologizes-dred-scott-decision/"
+   }
+  },
+  {
+   "year": 2020,
+   "title": "Key statue toppled; Hopkins revelation",
+   "text": "On Juneteenth protesters topple San Francisco's Francis Scott Key statue; in December JHU reveals its founder held enslaved people.",
+   "ids": [
+    "francis-scott-key",
+    "johns-hopkins"
+   ],
+   "source": {
+    "label": "ABC7 — Monument replaces toppled Key statue",
+    "url": "https://abc7news.com/juneteenth-monument-golden-gate-park-statue-sf-toppled-to-first-slaves-in-america/10799316/"
+   }
+  }
+ ]
+}

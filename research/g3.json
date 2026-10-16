@@ -181,7 +181,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The WIC has no corporate successor: when it was wound up in 1791 its forts and colonies passed to the Dutch state. That state apologised in December 2022, King Willem-Alexander followed on 1 July 2023, and Amsterdam, whose chamber dominated the company, apologised in 2021. WIC records in the Nationaal Archief now underpin voyage databases. Because the WIC was a joint-stock company with many shareholders, no single family line of heirs is traced here."
+   "today": "The WIC has no corporate successor: when it was wound up in 1791 its forts and colonies passed to the Dutch state. That state apologised in December 2022, King Willem-Alexander followed on 1 July 2023, and Amsterdam, whose chamber dominated the company, apologised in 2021. WIC records in the Nationaal Archief now underpin voyage databases. Because the WIC was a joint-stock company with many shareholders, no single family line of heirs is traced here.",
+   "today_people": [
+    {
+     "name": "King Willem-Alexander of the Netherlands",
+     "relation": "reigning monarch of the House of Orange-Nassau",
+     "role": "Apologised for slavery on 1 July 2023; commissioned the Leiden study (2026) finding the house supported the slave trade",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "DutchReview — King Willem-Alexander apologises for the Netherlands' role in slavery",
+      "url": "https://dutchreview.com/featured/king-willem-alexander-apologises-netherlands-slavery"
+     }
+    }
+   ]
   },
   {
    "id": "middelburgsche-commercie-compagnie",
@@ -312,7 +326,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The MCC has no successor company. Its archive in the Zeeuws Archief, on UNESCO's Memory of the World register since 2011, is one of the most complete slave-trade archives anywhere and is used to reconstruct individual voyages and the captives aboard them. No publicly documented descendants of its shareholders or directors have been traced here."
+   "today": "The MCC has no successor company. Its archive in the Zeeuws Archief, on UNESCO's Memory of the World register since 2011, is one of the most complete slave-trade archives anywhere and is used to reconstruct individual voyages and the captives aboard them. No publicly documented descendants of its shareholders or directors have been traced here.",
+   "today_people": []
   },
   {
    "id": "house-of-orange",
@@ -466,7 +481,45 @@
      "basis": "documented"
     }
    ],
-   "today": "The House of Orange-Nassau is the reigning Dutch royal family. King Willem-Alexander apologised on 1 July 2023 and commissioned an independent Leiden University study, presented by historian Gert Oostindie on 2 October 2026. The study found the house 'actively supported Dutch colonialism for centuries' and shares responsibility for the survival of the Dutch slave trade and slavery. The king called the findings painful and confronting. The heir apparent is Princess Catharina-Amalia."
+   "today": "The House of Orange-Nassau is the reigning Dutch royal family. King Willem-Alexander apologised on 1 July 2023 and commissioned an independent Leiden University study, presented by historian Gert Oostindie on 2 October 2026. The study found the house 'actively supported Dutch colonialism for centuries' and shares responsibility for the survival of the Dutch slave trade and slavery. The king called the findings painful and confronting. The heir apparent is Princess Catharina-Amalia.",
+   "today_people": [
+    {
+     "name": "King Willem-Alexander of the Netherlands",
+     "relation": "reigning monarch of the House of Orange-Nassau",
+     "role": "Apologised for slavery on 1 July 2023; commissioned the Leiden study (2026) finding the house supported the slave trade",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "DutchReview — King Willem-Alexander apologises for the Netherlands' role in slavery",
+      "url": "https://dutchreview.com/featured/king-willem-alexander-apologises-netherlands-slavery"
+     }
+    },
+    {
+     "name": "King Willem-Alexander of the Netherlands",
+     "relation": "head of the House of Orange-Nassau",
+     "role": "Formal apology 2023 and independent study of royal profits from slavery (2026)",
+     "sector": "Advocacy & repair",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Al Jazeera — Dutch royal house helped slave trade to survive, study finds (2026)",
+      "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds"
+     }
+    },
+    {
+     "name": "Catharina-Amalia, Princess of Orange",
+     "relation": "heir apparent of the House of Orange-Nassau",
+     "role": "Heir to the Dutch throne",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Catharina-Amalia, Princess of Orange",
+      "url": "https://en.wikipedia.org/wiki/Catharina-Amalia,_Princess_of_Orange"
+     }
+    }
+   ]
   },
   {
    "id": "de-nederlandsche-bank",
@@ -606,7 +659,8 @@
      "basis": "documented"
     }
    ],
-   "today": "DNB is the Netherlands' state-owned central bank and part of the Eurosystem. After its 2022 apology it pays €500,000 a year from 2023 to 2033 into a fund run with the Cultuurfonds for initiatives by descendants of enslaved people, and has given €5 million for awareness and heritage projects. It has not paid reparations. The study names directors, but no living descendants of its founders are traced here."
+   "today": "DNB is the Netherlands' state-owned central bank and part of the Eurosystem. After its 2022 apology it pays €500,000 a year from 2023 to 2033 into a fund run with the Cultuurfonds for initiatives by descendants of enslaved people, and has given €5 million for awareness and heritage projects. It has not paid reparations. The study names directors, but no living descendants of its founders are traced here.",
+   "today_people": []
   },
   {
    "id": "abn-amro",
@@ -749,7 +803,8 @@
      "basis": "documented"
     }
    ],
-   "today": "ABN AMRO is a listed Dutch bank in which the Dutch state has held a large stake since rescuing it in 2008–2010. It apologised in 2022 for the role of its predecessors and funds awareness projects, but has declined to pay reparations. The Hope partners' descendants are covered under the Hope family record. No other descendants are traced here."
+   "today": "ABN AMRO is a listed Dutch bank in which the Dutch state has held a large stake since rescuing it in 2008–2010. It apologised in 2022 for the role of its predecessors and funds awareness projects, but has declined to pay reparations. The Hope partners' descendants are covered under the Hope family record. No other descendants are traced here.",
+   "today_people": []
   },
   {
    "id": "coymans-family",
@@ -883,7 +938,8 @@
      "basis": "interpretive"
     }
    ],
-   "today": "No publicly documented descendants linked to the 1685 asiento have been traced. The family is remembered mainly through Frans Hals's portraits of Joseph Coymans and Dorothea Berck (Wadsworth Atheneum) and of Willem Coymans (National Gallery of Art), and through the Coymanshuis in Amsterdam. Recent scholarship, chiefly Ramona Negrón's Leiden dissertation and Routledge book, has recovered the family's role in the slave trade."
+   "today": "No publicly documented descendants linked to the 1685 asiento have been traced. The family is remembered mainly through Frans Hals's portraits of Joseph Coymans and Dorothea Berck (Wadsworth Atheneum) and of Willem Coymans (National Gallery of Art), and through the Coymanshuis in Amsterdam. Recent scholarship, chiefly Ramona Negrón's Leiden dissertation and Routledge book, has recovered the family's role in the slave trade.",
+   "today_people": []
   },
   {
    "id": "van-aerssen-van-sommelsdijck-family",
@@ -1008,7 +1064,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Per Dutch genealogical sources, the Sommelsdijck branch has died out. A collateral branch, van Aerssen Beijeren van Voshol, still exists in the Dutch nobility and has held the title of baron since 1822; no member is documented as speaking about the Suriname link. The 700,000 guilders from the 1770 sale went to the family, and Amsterdam took over its third of the colony. Fort Sommelsdijk survives as an overgrown site in Suriname."
+   "today": "Per Dutch genealogical sources, the Sommelsdijck branch has died out. A collateral branch, van Aerssen Beijeren van Voshol, still exists in the Dutch nobility and has held the title of baron since 1822; no member is documented as speaking about the Suriname link. The 700,000 guilders from the 1770 sale went to the family, and Amsterdam took over its third of the colony. Fort Sommelsdijk survives as an overgrown site in Suriname.",
+   "today_people": []
   },
   {
    "id": "compagnie-des-indes",
@@ -1171,7 +1228,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The company has no corporate successor. The crown took over its debts in 1770, and its final version was abolished in 1793, with liquidation litigation lasting until 1875. Its legacy survives in the city of Lorient and the Port-Louis museum. Because it was a shareholder company, no family line of heirs is traced."
+   "today": "The company has no corporate successor. The crown took over its debts in 1770, and its final version was abolished in 1793, with liquidation litigation lasting until 1875. Its legacy survives in the city of Lorient and the Port-Louis museum. Because it was a shareholder company, no family line of heirs is traced.",
+   "today_people": []
   },
   {
    "id": "montaudoin-family",
@@ -1304,7 +1362,8 @@
      "basis": "documented"
     }
    ],
-   "today": "French Wikipedia lists the Montaudouin family as still extant. Among its later public members is Général Bertrand de Montaudoüin, chief of the French President's military staff (1979–1981) and military governor of Metz (1981–1983); he is not documented as speaking about the family's slave-trade past. The Hôtel Montaudouin (begun 1783, by Mathurin Crucy) and the family's houses in the Feydeau quarter of Nantes remain part of the city's slavery-memory trails."
+   "today": "French Wikipedia lists the Montaudouin family as still extant. Among its later public members is Général Bertrand de Montaudoüin, chief of the French President's military staff (1979–1981) and military governor of Metz (1981–1983); he is not documented as speaking about the family's slave-trade past. The Hôtel Montaudouin (begun 1783, by Mathurin Crucy) and the family's houses in the Feydeau quarter of Nantes remain part of the city's slavery-memory trails.",
+   "today_people": []
   },
   {
    "id": "gradis-family",
@@ -1450,7 +1509,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Maison Gradis survives as the Société française pour le commerce avec l'Outre-mer (SFCO), which French Wikipedia says is still headed by a family member. In 1936 the family was counted among France's 'two hundred families'. Henri Gradis (1920–2022) gave the firm's archives to the Archives nationales in 2005, making its slave-trade and plantation records public. Bordeaux has put an explanatory plaque on rue David Gradis."
+   "today": "The Maison Gradis survives as the Société française pour le commerce avec l'Outre-mer (SFCO), which French Wikipedia says is still headed by a family member. In 1936 the family was counted among France's 'two hundred families'. Henri Gradis (1920–2022) gave the firm's archives to the Archives nationales in 2005, making its slave-trade and plantation records public. Bordeaux has put an explanatory plaque on rue David Gradis.",
+   "today_people": []
   },
   {
    "id": "nairac-family",
@@ -1579,7 +1639,8 @@
      "basis": "documented"
     }
    ],
-   "today": "Historical descendants include Guillaume Jean Jacques Nairac (1787–1845), a Dutch politician from another branch, and Édouard Nairac (1876–1960), a Mauritian politician. The family received compensation in 1826 for its Saint-Domingue plantations. The Hôtel Nairac in Bordeaux and the Château Nairac in Barsac, sold by the heirs in 1837, survive, and the family's correspondence is a key source for historians of the Bordeaux slave trade."
+   "today": "Historical descendants include Guillaume Jean Jacques Nairac (1787–1845), a Dutch politician from another branch, and Édouard Nairac (1876–1960), a Mauritian politician. The family received compensation in 1826 for its Saint-Domingue plantations. The Hôtel Nairac in Bordeaux and the Château Nairac in Barsac, sold by the heirs in 1837, survive, and the family's correspondence is a key source for historians of the Bordeaux slave trade.",
+   "today_people": []
   },
   {
    "id": "crown-of-france",
@@ -1749,7 +1810,33 @@
      "basis": "documented"
     }
    ],
-   "today": "France has had no monarchy since 1870; its rival royal claimants (the Orléanist Count of Paris and the Legitimist Louis Alphonse de Bourbon) are not documented as addressing the colonial slavery record. Responsibility rests with the French Republic, which passed the Taubira Law in 2001 and in 2025 created a joint commission of historians on the Haitian indemnity, while declining restitution. The 1849 compensation went to former enslavers; the people they had enslaved received nothing."
+   "today": "France has had no monarchy since 1870; its rival royal claimants (the Orléanist Count of Paris and the Legitimist Louis Alphonse de Bourbon) are not documented as addressing the colonial slavery record. Responsibility rests with the French Republic, which passed the Taubira Law in 2001 and in 2025 created a joint commission of historians on the Haitian indemnity, while declining restitution. The 1849 compensation went to former enslavers; the people they had enslaved received nothing.",
+   "today_people": [
+    {
+     "name": "Jean, Count of Paris",
+     "relation": "Orléanist claimant to the French throne, descendant of the Bourbon kings",
+     "role": "Head of the House of Orléans; no statement on colonial slavery documented",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Jean, Count of Paris",
+      "url": "https://en.wikipedia.org/wiki/Jean,_Count_of_Paris"
+     }
+    },
+    {
+     "name": "Louis Alphonse de Bourbon, Duke of Anjou",
+     "relation": "Legitimist claimant, senior descendant of Louis XIV (author of the Code Noir)",
+     "role": "Legitimist pretender; no statement on colonial slavery documented",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Louis Alphonse, Duke of Anjou",
+      "url": "https://en.wikipedia.org/wiki/Louis_Alphonse,_Duke_of_Anjou"
+     }
+    }
+   ]
   },
   {
    "id": "danish-west-india-guinea-company",
@@ -1891,7 +1978,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The company has no corporate successor; its assets and archives passed to the Danish Crown and are now with the Danish state. During the 2017 centenary Prime Minister Lars Løkke Rasmussen visited the US Virgin Islands and acknowledged slavery as a dark part of Danish history, and the National Archives digitised the colonial records, but no formal state apology has been given. The Moravian Church in Denmark issued its own apology in 2017."
+   "today": "The company has no corporate successor; its assets and archives passed to the Danish Crown and are now with the Danish state. During the 2017 centenary Prime Minister Lars Løkke Rasmussen visited the US Virgin Islands and acknowledged slavery as a dark part of Danish history, and the National Archives digitised the colonial records, but no formal state apology has been given. The Moravian Church in Denmark issued its own apology in 2017.",
+   "today_people": [
+    {
+     "name": "King Frederik X of Denmark",
+     "relation": "reigning Danish monarch, successor to the crown that chartered the Danish West India-Guinea Company",
+     "role": "King since 2024; Denmark has not formally apologised",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Frederik X",
+      "url": "https://en.wikipedia.org/wiki/Frederik_X"
+     }
+    }
+   ]
   },
   {
    "id": "schimmelmann-family",
@@ -2046,7 +2147,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The Schimmelmann family still owns Lindenborg Gods in North Jutland, one of Denmark's largest estates by area, through Den Schimmelmannske Fond and the family, as it has since 1762. The family had to sell Ahrensburg Castle in 1932; it is now a museum run by a private foundation. Heinrich Carl's mausoleum still stands at Wandsbek Markt in Hamburg."
+   "today": "The Schimmelmann family still owns Lindenborg Gods in North Jutland, one of Denmark's largest estates by area, through Den Schimmelmannske Fond and the family, as it has since 1762. The family had to sell Ahrensburg Castle in 1932; it is now a museum run by a private foundation. Heinrich Carl's mausoleum still stands at Wandsbek Markt in Hamburg.",
+   "today_people": []
   },
   {
    "id": "crown-of-denmark-norway",
@@ -2192,7 +2294,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The Danish monarchy continues as a constitutional monarchy, and responsibility for the colonial past lies with the Danish state. At the 2017 centenary Prime Minister Lars Løkke Rasmussen acknowledged slavery on the islands as a dark chapter and announced scholarships for Virgin Islander students. Denmark has not formally apologised."
+   "today": "The Danish monarchy continues as a constitutional monarchy, and responsibility for the colonial past lies with the Danish state. At the 2017 centenary Prime Minister Lars Løkke Rasmussen acknowledged slavery on the islands as a dark chapter and announced scholarships for Virgin Islander students. Denmark has not formally apologised. King Frederik X has reigned since January 2024.",
+   "today_people": [
+    {
+     "name": "King Frederik X of Denmark",
+     "relation": "reigning Danish monarch, successor to the crown that chartered the Danish West India-Guinea Company",
+     "role": "King since 2024; Denmark has not formally apologised",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Frederik X",
+      "url": "https://en.wikipedia.org/wiki/Frederik_X"
+     }
+    }
+   ]
   },
   {
    "id": "brandenburg-african-company",
@@ -2340,7 +2456,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The company has no corporate successor; the Prussian state that inherited it was abolished in 1947. The House of Hohenzollern, now headed by Georg Friedrich, Prince of Prussia, is better known today for its long-running property claims against the German state, partly withdrawn in 2023, than for any statement on the slave trade. The fort site, Pokesu (Princes Town), is in Ghana."
+   "today": "The company has no corporate successor; the Prussian state that inherited it was abolished in 1947. The House of Hohenzollern, now headed by Georg Friedrich, Prince of Prussia, is better known today for its long-running property claims against the German state, partly withdrawn in 2023, than for any statement on the slave trade. The fort site, Pokesu (Princes Town), is in Ghana.",
+   "today_people": [
+    {
+     "name": "Georg Friedrich, Prince of Prussia",
+     "relation": "head of the House of Hohenzollern, direct descendant of Elector Frederick William",
+     "role": "Head of the former royal house; known for restitution claims against the German state (partly withdrawn 2023); no statement on Brandenburg's slave trade",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Georg Friedrich, Prince of Prussia",
+      "url": "https://en.wikipedia.org/wiki/Georg_Friedrich_Prinz_von_Preussen"
+     }
+    }
+   ]
   },
   {
    "id": "frederick-william-brandenburg",
@@ -2477,7 +2607,21 @@
      "basis": "documented"
     }
    ],
-   "today": "Frederick William's direct descendants form the House of Hohenzollern, whose head, Georg Friedrich, Prince of Prussia, is a public figure known mainly for the family's restitution disputes with the German state. No public statement by the family on Brandenburg's slave trade has been documented. In Potsdam, postcolonial initiatives and the university now cover the Elector's African ventures."
+   "today": "Frederick William's direct descendants form the House of Hohenzollern, whose head, Georg Friedrich, Prince of Prussia, is a public figure known mainly for the family's restitution disputes with the German state. No public statement by the family on Brandenburg's slave trade has been documented. In Potsdam, postcolonial initiatives and the university now cover the Elector's African ventures.",
+   "today_people": [
+    {
+     "name": "Georg Friedrich, Prince of Prussia",
+     "relation": "head of the House of Hohenzollern, direct descendant of Elector Frederick William",
+     "role": "Head of the former royal house; known for restitution claims against the German state (partly withdrawn 2023); no statement on Brandenburg's slave trade",
+     "sector": "Royalty & titles",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Georg Friedrich, Prince of Prussia",
+      "url": "https://en.wikipedia.org/wiki/Georg_Friedrich_Prinz_von_Preussen"
+     }
+    }
+   ]
   },
   {
    "id": "benjamin-raule",
@@ -2597,7 +2741,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Raule's fortune was largely lost after his fall, and his public memory is now as the founder of the Brandenburg navy and a figure in German colonial-memory debates."
+   "today": "No publicly documented descendants have been traced. Raule's fortune was largely lost after his fall, and his public memory is now as the founder of the Brandenburg navy and a figure in German colonial-memory debates.",
+   "today_people": []
   },
   {
    "id": "swedish-africa-company",
@@ -2732,7 +2877,21 @@
      "basis": "interpretive"
     }
    ],
-   "today": "The company has no surviving successor; its interests ended with the 1663 settlement. Responsibility for Sweden's colonial past rests with the Swedish state, which has not formally apologised. The founding De Geer family remains a prominent noble family in Sweden."
+   "today": "The company has no surviving successor; its interests ended with the 1663 settlement. Responsibility for Sweden's colonial past rests with the Swedish state, which has not formally apologised. The founding De Geer family remains a prominent noble family in Sweden.",
+   "today_people": [
+    {
+     "name": "Carl Johan De Geer",
+     "relation": "descendant in the male line of Louis De Geer, founder of the Swedish Africa Company",
+     "role": "Artist and filmmaker; made the exhibition 'Släkten och slavarna' (The Family and the Slaves, Norrköping 2018 and Stockholm) on his family's slave-trade past",
+     "sector": "Advocacy & repair",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Stadsmuseet Stockholm — The Family and the Slaves (Carl Johan De Geer)",
+      "url": "https://stadsmuseet.stockholm/en/exhibitions/temporary-exhibitions/the-family-and-the-slaves/"
+     }
+    }
+   ]
   },
   {
    "id": "de-geer-family",
@@ -2871,7 +3030,21 @@
      "basis": "documented"
     }
    ],
-   "today": "The De Geer family has Swedish and Dutch branches that still exist, some members holding the title of baron, and it produced two Swedish prime ministers. The artist Carl Johan De Geer has spoken publicly about the family link and held a 2014 exhibition on Louis De Geer's role in the slave trade. Leufsta bruk, the family's ironworks seat for generations, is now managed by the Swedish state."
+   "today": "The De Geer family has Swedish and Dutch branches that still exist, some members holding the title of baron, and it produced two Swedish prime ministers. The artist Carl Johan De Geer has spoken publicly about the family link and held a 2014 exhibition on Louis De Geer's role in the slave trade. Leufsta bruk, the family's ironworks seat for generations, is now managed by the Swedish state. Carl Johan De Geer's exhibition 'Släkten och slavarna' (The Family and the Slaves) was shown in Norrköping in 2018 and later in Stockholm.",
+   "today_people": [
+    {
+     "name": "Carl Johan De Geer",
+     "relation": "descendant in the male line of Louis De Geer, founder of the Swedish Africa Company",
+     "role": "Artist and filmmaker; made the exhibition 'Släkten och slavarna' (The Family and the Slaves, Norrköping 2018 and Stockholm) on his family's slave-trade past",
+     "sector": "Advocacy & repair",
+     "year": 2026,
+     "basis": "documented",
+     "source": {
+      "label": "Stadsmuseet Stockholm — The Family and the Slaves (Carl Johan De Geer)",
+      "url": "https://stadsmuseet.stockholm/en/exhibitions/temporary-exhibitions/the-family-and-the-slaves/"
+     }
+    }
+   ]
   },
   {
    "id": "hendrik-carloff",
@@ -2992,7 +3165,8 @@
      "basis": "documented"
     }
    ],
-   "today": "No publicly documented descendants have been traced. Carloff's last recorded post was governor of Tobago (1676–77), where he was taken into custody after the French capture, and his fortune is not documented after that."
+   "today": "No publicly documented descendants have been traced. Carloff's last recorded post was governor of Tobago (1676–77), where he was taken into custody after the French capture, and his fortune is not documented after that.",
+   "today_people": []
   },
   {
    "id": "jacob-kettler-courland",
@@ -3114,7 +3288,8 @@
      "basis": "documented"
     }
    ],
-   "today": "The male Kettler line died out in 1737; Jacob's descendants through his daughters married into the Hesse-Homburg and Hesse-Kassel houses. Jacob is buried in the ducal crypt of Jelgava Palace in Latvia, where the colonies are often a point of national pride. St Andrew's Island in the Gambia is now Kunta Kinteh Island, a UNESCO World Heritage site."
+   "today": "The male Kettler line died out in 1737; Jacob's descendants through his daughters married into the Hesse-Homburg and Hesse-Kassel houses. Jacob is buried in the ducal crypt of Jelgava Palace in Latvia, where the colonies are often a point of national pride. St Andrew's Island in the Gambia is now Kunta Kinteh Island, a UNESCO World Heritage site.",
+   "today_people": []
   },
   {
    "id": "cic-bank",
@@ -3232,7 +3407,8 @@
      "basis": "documented"
     }
    ],
-   "today": "CIC is now wholly owned by the Crédit Mutuel group, one of France's five biggest banking groups; Nicolas Théry has chaired it since 2014. The 2022 New York Times investigation 'The Ransom' estimated that French shareholders made at least $136 million in today's money from the Haitian national bank over three decades, and CIC faced international controversy as a result. As a corporate institution, CIC has no family descendants."
+   "today": "CIC is now wholly owned by the Crédit Mutuel group, one of France's five biggest banking groups; Nicolas Théry has chaired it since 2014. The 2022 New York Times investigation 'The Ransom' estimated that French shareholders made at least $136 million in today's money from the Haitian national bank over three decades, and CIC faced international controversy as a result. As a corporate institution, CIC has no family descendants.",
+   "today_people": []
   },
   {
    "id": "port-nantes",
