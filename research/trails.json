@@ -1,0 +1,1858 @@
+{
+ "trails": [
+  {
+   "id": "reconquista-to-atlantic",
+   "title": "From the Reconquista to the Atlantic",
+   "region": "Iberia",
+   "summary": "Crusading wars against Muslim states in Iberia and North Africa produced the crowns, papal licences and Italian and German credit networks that opened the Atlantic slave trade. Follow the money from Ceuta and Lagos to Seville's licence system and the Augsburg bankers who financed Charles V.",
+   "steps": [
+    {
+     "year": 1415,
+     "title": "Portugal seizes Ceuta",
+     "text": "King João I's forces, including his son Prince Henry, captured the Moroccan port of Ceuta in August 1415. The crusade gave the House of Aviz a foothold in Africa and set Henry on a career of sponsoring voyages down the African coast.",
+     "ids": [
+      "henry-the-navigator",
+      "crown-of-portugal"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Portuguese conquest of Ceuta",
+      "url": "https://en.wikipedia.org/wiki/Portuguese_conquest_of_Ceuta"
+     }
+    },
+    {
+     "year": 1444,
+     "title": "First captives sold at Lagos",
+     "text": "Lançarote de Freitas landed about 235 captive Africans at Lagos in the Algarve in August 1444, where they were divided up and sold. Henry took the royal fifth, so the voyage paid both the investors and the prince.",
+     "ids": [
+      "lagos-slave-market",
+      "lancarote-de-freitas",
+      "henry-the-navigator"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Miami University — Zurara, Chronicle of the Discovery and Conquest of Guinea",
+      "url": "https://sites.miamioh.edu/empire/files/2026/01/1444-Zurara-Chronicle-of-the-Discovery-and-Conquest-of-Guinea.pdf"
+     },
+     "amount": "c. 235 captives; Henry's 'royal fifth'"
+    },
+    {
+     "year": 1452,
+     "title": "Papal bulls license enslavement",
+     "text": "Pope Nicholas V's Dum Diversas (1452) authorised Afonso V to reduce 'Saracens and pagans' to perpetual servitude, and Romanus Pontifex (1455) confirmed Portugal's monopoly on the African coast. Religious sanction turned raiding into a protected royal trade.",
+     "ids": [
+      "papal-bulls-1452-1455",
+      "crown-of-portugal"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "PBS NewsHour — Vatican formally rejects Doctrine of Discovery (2023)",
+      "url": "https://www.pbs.org/newshour/politics/vatican-formally-rejects-doctrine-of-discovery-after-indigenous-calls"
+     }
+    },
+    {
+     "year": 1482,
+     "title": "Elmina Castle built",
+     "text": "The Portuguese crown built São Jorge da Mina on the Gold Coast in 1482 to control the gold trade. Gold paid for further voyages, and the castle later became a major slave-trading post under the Portuguese and, from 1637, the Dutch.",
+     "ids": [
+      "elmina-castle",
+      "crown-of-portugal"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Elmina Castle",
+      "url": "https://en.wikipedia.org/wiki/Elmina_Castle"
+     }
+    },
+    {
+     "year": 1486,
+     "title": "Florentine capital in Lisbon",
+     "text": "Florentine merchant Bartolomeo Marchionni leased royal rights to bring captives from West Africa to Lisbon and resold them in Valencia, Seville and Florence. He later helped finance Cabral's 1500 fleet to India; historians cite his career as an example of slave-trade capital moving into the spice route.",
+     "ids": [
+      "bartolomeo-marchionni",
+      "port-lisbon"
+     ],
+     "kind": "money",
+     "basis": "interpretive",
+     "source": {
+      "label": "Wikipedia — Bartolomeo Marchionni",
+      "url": "https://en.wikipedia.org/wiki/Bartolomeo_Marchionni"
+     }
+    },
+    {
+     "year": 1492,
+     "title": "Granada falls; Columbus signs",
+     "text": "On 2 January 1492 the Nasrid emirate of Granada surrendered to Ferdinand and Isabella of Castile and Aragon. In April, at the camp-town of Santa Fe outside Granada, the monarchs signed the Capitulations granting Columbus titles and a tenth of the riches from his voyage.",
+     "ids": [
+      "crown-of-castile",
+      "christopher-columbus"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Capitulations of Santa Fe",
+      "url": "https://en.wikipedia.org/wiki/Capitulations_of_Santa_Fe"
+     }
+    },
+    {
+     "year": 1493,
+     "title": "Medici agents fund the fleets",
+     "text": "In Seville, Gianotto Berardi, agent of Lorenzo di Pierfrancesco de' Medici and a dealer in enslaved Africans, invested in Columbus's first voyage and won the contract to provision the second. Amerigo Vespucci worked in his house and wound up his affairs after his death in 1495.",
+     "ids": [
+      "gianotto-berardi",
+      "lorenzo-di-pierfrancesco-medici",
+      "amerigo-vespucci",
+      "christopher-columbus"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Edizioni Ca' Foscari — The Medici/Berardi house in Seville",
+      "url": "https://edizionicafoscari.it/media/pdf/books/978-88-6969-403-5/978-88-6969-403-5-ch-04_eHNYKvg.pdf"
+     }
+    },
+    {
+     "year": 1494,
+     "title": "Treaty of Tordesillas",
+     "text": "Castile and Portugal split the newly found lands along a line 370 leagues west of Cape Verde. Africa fell to Portugal, so Spain had no African posts and would have to buy captives from others, which is the structural origin of the asiento.",
+     "ids": [
+      "treaty-of-tordesillas",
+      "crown-of-castile",
+      "crown-of-portugal"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "World History Encyclopedia — Treaty of Tordesillas",
+      "url": "https://www.worldhistory.org/Treaty_of_Tordesillas/"
+     }
+    },
+    {
+     "year": 1518,
+     "title": "The Casa and the first licence",
+     "text": "The Casa de Contratación (1503) registered and taxed all Indies traffic in Seville. In 1518 Charles V licensed his courtier Laurent de Gorrevod to ship 4,000 Africans directly from Africa; Gorrevod resold the licence to Genoese merchants including the Centurione, so the Crown turned the trade into saleable paper.",
+     "ids": [
+      "casa-de-contratacion",
+      "charter-1518",
+      "laurent-de-gorrevod",
+      "centurione-family",
+      "spanish-asiento"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Slavery, Law & Power — Opening the transatlantic slave trade (1518 charter)",
+      "url": "https://slaverylawpower.org/charter-1518/"
+     },
+     "amount": "4,000 captives licensed"
+    },
+    {
+     "year": 1519,
+     "title": "Augsburg credit buys an emperor",
+     "text": "Jakob Fugger supplied the bulk of the money Charles V spent to win election as Holy Roman Emperor in 1519; Fugger copper and brass were also shipped via Antwerp to Lisbon and used to buy captives in West Africa. In 1528 the rival Welser house took an asiento for 4,000 Africans and the governorship of Venezuela.",
+     "ids": [
+      "jakob-fugger",
+      "fugger-family",
+      "welser-family",
+      "klein-venedig",
+      "spanish-asiento"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Global Heritage Lab (Univ. Bonn) — Mining, Metals and Manillas in the Atlantic Slave Trade",
+      "url": "https://globalheritagelab.org/project/mining-metals-and-manillas-in-the-atlantic-slave-trade-pilot-study/"
+     }
+    },
+    {
+     "year": 1536,
+     "title": "Columbus's heirs cash in",
+     "text": "Columbus's grandson Luis traded the family's viceregal claims for a perpetual annuity of 10,000 ducats, Jamaica as a fief and the titles Duke of Veragua and Marquess of Jamaica. The titles still exist.",
+     "ids": [
+      "luis-colon-veragua",
+      "christopher-columbus",
+      "crown-of-castile"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Luis Colón, 1st Duke of Veragua",
+      "url": "https://en.wikipedia.org/wiki/Luis_Col%C3%B3n,_1st_Duke_of_Veragua"
+     },
+     "amount": "10,000 ducats a year"
+    },
+    {
+     "year": 2023,
+     "title": "What remains today",
+     "text": "The Fugger foundations, including the Fuggerei social housing set up by Jakob Fugger in 1521, still operate in Augsburg. (The modern Fürst Fugger Privatbank is a 1954 creation and is not the historic bank.) Spain's monarchy is the successor of the Castilian crown, and in March 2023 the Vatican formally repudiated the 'Doctrine of Discovery' built on the 15th-century bulls.",
+     "ids": [
+      "fugger-family",
+      "crown-of-castile",
+      "papal-bulls-1452-1455"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Fugger Foundations — A versatile institution with 500 years of history",
+      "url": "https://fugger.de/en/history/a-versatile-institution-with-500-years-of-history"
+     }
+    }
+   ]
+  },
+  {
+   "id": "crown-charters-to-bank-of-england",
+   "title": "Royal charters to the Bank of England",
+   "region": "Britain",
+   "summary": "English slave trading began as a royal venture and was run for decades by companies chartered and governed by the royal family. The same circle of courtiers, City merchants and directors ran the South Sea Company and the Bank of England, which itself later held enslaved people.",
+   "steps": [
+    {
+     "year": 1564,
+     "title": "The Queen's ship goes slaving",
+     "text": "John Hawkins seized and bought Africans in Upper Guinea and sold them in the Spanish Caribbean. For his 1564 and 1567 voyages Elizabeth I lent the royal warship Jesus of Lübeck as her stake, making the Crown a shareholder in the profits.",
+     "ids": [
+      "john-hawkins",
+      "elizabeth-i",
+      "jesus-of-lubeck"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Royal Museums Greenwich — Sir John Hawkins",
+      "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-14229"
+     }
+    },
+    {
+     "year": 1660,
+     "title": "Company of Royal Adventurers",
+     "text": "After the Restoration, a company headed by James, Duke of York, and Prince Rupert was chartered for the Africa trade; its 1663 charter explicitly added slaving. War with the Dutch ruined it by 1667.",
+     "ids": [
+      "company-of-royal-adventurers",
+      "james-duke-of-york"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Company of Royal Adventurers Trading to Africa",
+      "url": "https://en.wikipedia.org/wiki/Company_of_Royal_Adventurers_Trading_to_Africa"
+     }
+    },
+    {
+     "year": 1672,
+     "title": "Royal African Company",
+     "text": "Its successor, the Royal African Company, with the Duke of York as governor, held a monopoly of English trade with West Africa and bought captives at forts such as Cape Coast Castle. Many were branded 'DY' or 'RAC' and shipped to Barbados and Jamaica.",
+     "ids": [
+      "royal-african-company",
+      "james-duke-of-york",
+      "cape-coast-castle"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Royal African Company",
+      "url": "https://en.wikipedia.org/wiki/Royal_African_Company"
+     }
+    },
+    {
+     "year": 1689,
+     "title": "City men run the company",
+     "text": "Bristol-born merchant Edward Colston held RAC shares and sat on its governing court, serving as deputy governor in 1689–90. His fortune later endowed Bristol schools and almshouses.",
+     "ids": [
+      "edward-colston",
+      "royal-african-company",
+      "port-bristol"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Society of Merchant Venturers — Historical links to Edward Colston",
+      "url": "https://merchantventurers.com/about-us/history/edward-colston"
+     }
+    },
+    {
+     "year": 1698,
+     "title": "Monopoly opened; a slaver runs the Bank",
+     "text": "Parliament opened the Africa trade to private merchants in 1698. One of the largest London private traders, Humphry Morice, became Deputy Governor and then Governor (1727–29) of the Bank of England, founded in 1694.",
+     "ids": [
+      "humphry-morice",
+      "bank-of-england",
+      "royal-african-company"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Bank of England Museum — Humphry Morice: slave trader, embezzler of the Bank",
+      "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/humphry-morice-slave-trader-embezzler-of-the-bank"
+     }
+    },
+    {
+     "year": 1713,
+     "title": "The Asiento goes to Britain",
+     "text": "At the Peace of Utrecht Britain won the Asiento, the contract to supply enslaved Africans to Spanish America. Queen Anne announced it to Parliament, and it was assigned to the South Sea Company, a company created in 1711 to take on government debt.",
+     "ids": [
+      "south-sea-company",
+      "queen-anne-great-britain",
+      "spanish-asiento"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Slavery, Law & Power — The Asiento (Queen Anne's speech)",
+      "url": "https://slaverylawpower.org/queen-anne-speech/"
+     }
+    },
+    {
+     "year": 1720,
+     "title": "Bubble and the Church's money",
+     "text": "South Sea shares soared and crashed in 1720. Queen Anne's Bounty, the Church of England fund, had invested in the company; this is the link the Church Commissioners acknowledged in 2023.",
+     "ids": [
+      "south-sea-company",
+      "church-of-england"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Church Times — Church Commissioners to set aside £100 million (2023)",
+      "url": "https://www.churchtimes.co.uk/articles/2023/13-january/news/uk/church-commissioners-to-set-aside-100-million-to-compensate-for-slave-trade-links"
+     }
+    },
+    {
+     "year": 1752,
+     "title": "Parliament funds the forts",
+     "text": "From 1752 the Company of Merchants Trading to Africa took over the RAC's forts, paid for by annual parliamentary grants. The state now directly subsidised the infrastructure of the British slave trade.",
+     "ids": [
+      "company-of-merchants-trading-to-africa",
+      "cape-coast-castle"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "AIM25 — The Company of Merchants Trading to Africa",
+      "url": "https://atom.aim25.com/index.php/the-company-of-merchants-trading-to-africa-3"
+     }
+    },
+    {
+     "year": 1772,
+     "title": "The Bank owns enslaved people",
+     "text": "The Bank of England lent £160,000 against the Bacolet and Chemin plantations in Grenada. After default it took possession of the estates and 599 enslaved people in the late 1780s, then sold them in 1790.",
+     "ids": [
+      "bank-of-england",
+      "bank-of-england-grenada-plantations"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Bank of England Museum — A Story of Archival Discovery: The Bank and the Grenada plantations",
+      "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/a-story-of-archival-discovery"
+     },
+     "amount": "£160,000 loan; 599 enslaved people"
+    },
+    {
+     "year": 2020,
+     "title": "Apology and acknowledgement",
+     "text": "In June 2020 the Bank of England apologised for the slavery links of former governors and directors, and its museum opened 'Slavery & the Bank' in 2022. The Church Commissioners set aside £100 million in 2023, and King Charles III has backed research into the monarchy's links.",
+     "ids": [
+      "bank-of-england",
+      "church-commissioners-fund-2023",
+      "royal-african-company"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "CNN — Bank of England apologizes for slave trade links",
+      "url": "https://amp.cnn.com/cnn/2020/06/19/business/bank-of-england-slavery-apology"
+     },
+     "amount": "£100m Church Commissioners fund"
+    }
+   ]
+  },
+  {
+   "id": "liverpool-slavers-to-high-street-banks",
+   "title": "Liverpool slavers to Barclays and HSBC",
+   "region": "Britain",
+   "summary": "Liverpool merchants who financed slaving voyages put their profits into private banks. Through a chain of takeovers, those banks became part of today's Barclays, HSBC and NatWest.",
+   "steps": [
+    {
+     "year": 1750,
+     "title": "Liverpool leads the trade",
+     "text": "Liverpool overtook London and Bristol in the 1740s, and in the last years of the legal trade (1790s–1807) sent roughly four-fifths of British slaving voyages. Its merchant syndicates needed credit, insurance and bills of exchange.",
+     "ids": [
+      "port-liverpool"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Cambridge / Liverpool University Press — Liverpool's dominance in the British slave trade, 1740–1807",
+      "url": "https://www.cambridge.org/core/books/liverpool-and-transatlantic-slavery/liverpools-dominance-in-the-british-slave-trade-17401807/F92E57F7767DD785DDCBB726EED8116E"
+     },
+     "amount": "c. 77–85% of British slaving voyages (1790s–1807)"
+    },
+    {
+     "year": 1750,
+     "title": "The Heywoods invest in slaving",
+     "text": "Brothers Arthur and Benjamin Heywood co-owned slave-trading voyages from Liverpool, investing directly in some 82 expeditions; the wider family's total later reached about 133 voyages, per the University of Manchester's Rylands research.",
+     "ids": [
+      "heywood-family"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "University of Manchester Rylands Blog — The Heywoods",
+      "url": "https://rylandscollections.com/2023/09/18/the-heywoods/"
+     }
+    },
+    {
+     "year": 1773,
+     "title": "Slaving profits become a bank",
+     "text": "By 1773 Arthur Heywood had founded a bank in Liverpool, Arthur Heywood, Sons & Co., to serve the port's Atlantic merchants; the Rylands research links its capital to the family's slaving profits. In 1788 Benjamin Heywood and his sons opened a Manchester bank, Benjamin Heywood, Sons & Co. (later Heywood Brothers & Co.).",
+     "ids": [
+      "heywoods-bank-liverpool",
+      "heywood-family"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Heywood's Bank",
+      "url": "https://en.wikipedia.org/wiki/Heywood%27s_Bank"
+     }
+    },
+    {
+     "year": 1783,
+     "title": "Thomas Leyland's voyages",
+     "text": "Merchant and shipowner Thomas Leyland helped finance at least 69 slaving voyages, per HSBC's archive. He was mayor of Liverpool three times, the first in 1798, while the council resisted regulation of the trade.",
+     "ids": [
+      "thomas-leyland",
+      "port-liverpool"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "HSBC History — Leyland and Bullins",
+      "url": "https://history.hsbc.com/collections/global-archives/leyland-and-bullins"
+     },
+     "amount": "at least 69 voyages"
+    },
+    {
+     "year": 1807,
+     "title": "Leyland & Bullins opens",
+     "text": "In 1807, the year Parliament banned the British slave trade, Leyland opened the bank Leyland & Bullins on York Street with his nephew Richard Bullin. It lent to other traders in the port.",
+     "ids": [
+      "leyland-and-bullins",
+      "thomas-leyland",
+      "slave-trade-act-1807"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "HSBC History — Leyland and Bullins",
+      "url": "https://history.hsbc.com/collections/global-archives/leyland-and-bullins"
+     }
+    },
+    {
+     "year": 1874,
+     "title": "Manchester Heywoods to NatWest",
+     "text": "Manchester & Salford Bank bought the Manchester Heywood bank (Heywood Brothers & Co.) for £240,000 in 1874. Through later mergers (Williams Deacon's Bank, then the Royal Bank of Scotland in 1930) it is a past constituent of today's NatWest Group.",
+     "ids": [
+      "heywood-family",
+      "natwest-group"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "NatWest Group Heritage Hub — Heywood Brothers & Co",
+      "url": "https://www.natwestgroup.com/heritage/companies/heywood-brothers-and-co.html"
+     },
+     "amount": "£240,000"
+    },
+    {
+     "year": 1883,
+     "title": "Bank of Liverpool buys Heywood's",
+     "text": "The Bank of Liverpool bought Arthur Heywood, Sons & Co. in 1883, merged with Martins Bank of London in 1918 (as the Bank of Liverpool and Martins) and shortened its name to Martins Bank in 1928.",
+     "ids": [
+      "bank-of-liverpool-martins",
+      "heywoods-bank-liverpool"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Bank of Liverpool",
+      "url": "https://en.wikipedia.org/wiki/Bank_of_Liverpool"
+     }
+    },
+    {
+     "year": 1908,
+     "title": "Leyland's bank joins Midland",
+     "text": "The North and South Wales Bank acquired Leyland & Bullins in 1901, and Midland Bank bought that bank in 1908.",
+     "ids": [
+      "leyland-and-bullins",
+      "hsbc"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "HSBC History — Leyland and Bullins",
+      "url": "https://history.hsbc.com/collections/global-archives/leyland-and-bullins"
+     }
+    },
+    {
+     "year": 1969,
+     "title": "Barclays buys Martins",
+     "text": "Barclays acquired Martins Bank in 1969, so the Heywoods' Liverpool bank became part of Barclays. Barclays' own archive also records how David Barclay freed enslaved people he acquired in Jamaica in 1795.",
+     "ids": [
+      "barclays",
+      "bank-of-liverpool-martins"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Barclays — From the archives: October's freedom from slavery",
+      "url": "https://home.barclays/news/2020/12/From-the-archives--October-s-freedom-from-slavery"
+     }
+    },
+    {
+     "year": 1992,
+     "title": "HSBC takes over Midland",
+     "text": "HSBC Holdings bought Midland Bank in 1992, which is now HSBC UK. HSBC's history site now names Leyland's slave-trade financing in its 'Lessons from history' pages.",
+     "ids": [
+      "hsbc",
+      "leyland-and-bullins"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "HSBC History — Lessons from history",
+      "url": "https://history.hsbc.com/history/lessons"
+     }
+    },
+    {
+     "year": 2007,
+     "title": "Liverpool remembers",
+     "text": "The International Slavery Museum opened at the Albert Dock in 2007 for the bicentenary of the 1807 Act. Barclays, HSBC and NatWest Group still exist as the successors of the Heywood and Leyland banks.",
+     "ids": [
+      "international-slavery-museum",
+      "port-liverpool",
+      "barclays",
+      "hsbc"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — International Slavery Museum",
+      "url": "https://en.wikipedia.org/wiki/International_Slavery_Museum"
+     }
+    }
+   ]
+  },
+  {
+   "id": "compensation-1835",
+   "title": "The £20 million compensation",
+   "region": "Britain",
+   "summary": "When Britain abolished colonial slavery, it paid slave-owners, not the enslaved, £20 million, raised largely through a £15 million loan arranged by Rothschild and Montefiore. The money went to families and firms whose names still carry weight, and the debt was finally redeemed only in 2015.",
+   "steps": [
+    {
+     "year": 1833,
+     "title": "Parliament votes £20 million",
+     "text": "The Slavery Abolition Act ended slavery in most British colonies from 1 August 1834, with 'apprenticeship' until 1838. Parliament voted £20 million to compensate owners, about 40% of government spending in 1833; the enslaved received nothing.",
+     "ids": [
+      "slavery-abolition-act-1833"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Full Fact — What we know about the government loan to pay slave owners compensation",
+      "url": "https://fullfact.org/economy/slavery-abolition-act-loan/"
+     },
+     "amount": "£20m (c. 40% of 1833 government spending)"
+    },
+    {
+     "year": 1835,
+     "title": "Rothschild and Montefiore raise the loan",
+     "text": "A syndicate led by Nathan Mayer Rothschild and Moses Montefiore underwrote £15 million of new government securities (the 'West India loan'). The other £5 million was paid directly in government stock.",
+     "ids": [
+      "compensation-loan-1835",
+      "nm-rothschild",
+      "moses-montefiore"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "The Rothschild Archive — The West India loan",
+      "url": "https://guide-to-the-archive.rothschildarchive.org/the-london-banking-house/depts/loans-business/the-west-india-loan"
+     },
+     "amount": "£15m loan + £5m in stock"
+    },
+    {
+     "year": 1835,
+     "title": "The Commission pays out",
+     "text": "The Slave Compensation Commission used colonial slave registers to value claims, and awards were paid out between 1835 and 1843, with the Bank of England handling the payments, to tens of thousands of claimants, including mortgagees and London merchants.",
+     "ids": [
+      "slave-compensation-commission",
+      "ucl-legacies-of-british-slavery"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Bank of England — Research paper: The collection of slavery compensation, 1835–43",
+      "url": "https://www.bankofengland.co.uk/museum/whats-on/exhibitions/slavery-and-the-bank/research-paper-the-collection-of-slavery-compensation-1835-1843"
+     }
+    },
+    {
+     "year": 1836,
+     "title": "The Gladstones",
+     "text": "John Gladstone received one of the largest totals, about £106,769, for some 2,508 people on plantations in British Guiana and Jamaica. His son William, the future prime minister, had defended him in his 1833 maiden speech.",
+     "ids": [
+      "gladstone-family",
+      "william-ewart-gladstone"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Sir John Gladstone, 1st Baronet",
+      "url": "https://en.wikipedia.org/wiki/Sir_John_Gladstone,_1st_Baronet"
+     },
+     "amount": "c. £106,769 for c. 2,508 people"
+    },
+    {
+     "year": 1836,
+     "title": "The Lascelles",
+     "text": "Henry Lascelles, 2nd Earl of Harewood, received about £26,309 for some 1,277 people on estates in Barbados and Jamaica. The family's earlier sugar, slave-trading and lending profits had paid for Harewood House (1759–71).",
+     "ids": [
+      "lascelles-family",
+      "harewood-house"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Henry Lascelles, 2nd Earl of Harewood",
+      "url": "https://en.wikipedia.org/wiki/Henry_Lascelles,_2nd_Earl_of_Harewood"
+     },
+     "amount": "c. £26,309 for c. 1,277 people"
+    },
+    {
+     "year": 1836,
+     "title": "Other landed and merchant claimants",
+     "text": "John Sawbridge Erle-Drax was awarded compensation for Drax Hall, Barbados, and is said to have spent prodigiously on his Dorset estate at Charborough, including its long brick boundary wall. Charles McGarel collected large sums for Guiana estates and later brought Quintin Hogg into his sugar business.",
+     "ids": [
+      "john-sawbridge-erle-drax",
+      "drax-family",
+      "mcgarel-hogg-family",
+      "quintin-hogg-merchant"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "UCL LBS — John Samuel Wanley Sawbridge Erle-Drax",
+      "url": "https://lbs.ucl.ac.uk/lbs/person/view/2246"
+     }
+    },
+    {
+     "year": 1838,
+     "title": "Where the money went",
+     "text": "LBS research traces compensation money and slave-owner wealth into railways, banks, insurance, country houses and cultural institutions. How much specific money built specific assets is debated, so this link is interpretive.",
+     "ids": [
+      "ucl-legacies-of-british-slavery",
+      "greene-king",
+      "baring-brothers"
+     ],
+     "kind": "money",
+     "basis": "interpretive",
+     "source": {
+      "label": "UCL News — The slavery business contributed to the building of modern Britain",
+      "url": "https://www.ucl.ac.uk/news/2020/jun/opinion-slavery-business-contributed-building-modern-britain-can-we-make-amends"
+     }
+    },
+    {
+     "year": 1838,
+     "title": "Indentured labour replaces slavery",
+     "text": "As apprenticeship was being wound down, John Gladstone's ships Whitby and Hesperus landed indentured labourers from India in British Guiana in May 1838, the start of a new labour system for the sugar colonies.",
+     "ids": [
+      "gladstone-family"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "The National Archives blog — A 'new system of slavery'? The origins of Indian indenture",
+      "url": "https://blog.nationalarchives.gov.uk/a-new-system-of-slavery-the-british-west-indies-and-the-origins-of-indian-indenture"
+     }
+    },
+    {
+     "year": 2015,
+     "title": "Taxpayers finish paying",
+     "text": "The compensation debt was folded into other government stock and finally redeemed in 2015 during a debt restructuring, so British taxpayers serviced it for 180 years. How much of the original sum remained outstanding by then is unknown.",
+     "ids": [
+      "compensation-loan-1835"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Full Fact — What we know about the government loan to pay slave owners compensation",
+      "url": "https://fullfact.org/economy/slavery-abolition-act-loan/"
+     }
+    },
+    {
+     "year": 2023,
+     "title": "Descendants respond",
+     "text": "Descendants of John Gladstone apologised in Guyana in August 2023, and the Trevelyans apologised in Grenada and gave £100,000. David Lascelles of Harewood and Laura Trevelyan were among the founders of Heirs of Slavery.",
+     "ids": [
+      "heirs-of-slavery",
+      "gladstone-family",
+      "trevelyan-family",
+      "lascelles-family"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "NBC News — Descendants of a British owner of slaves in Guyana apologize (2023)",
+      "url": "https://www.nbcnews.com/news/nbcblk/descendants-british-owner-slaves-guyana-apologize-caribbean-seeks-repa-rcna101857"
+     },
+     "amount": "£100,000 (Trevelyan family to Grenada)"
+    }
+   ]
+  },
+  {
+   "id": "insuring-the-trade",
+   "title": "Insurance: from Lloyd's coffee house to the Zong",
+   "region": "Britain",
+   "summary": "Marine insurance let investors spread the risk of slaving voyages and treated captives as insurable cargo. The Zong case exposed what that meant, and Lloyd's apologised for its founders' links in 2020.",
+   "steps": [
+    {
+     "year": 1688,
+     "title": "Lloyd's coffee house",
+     "text": "Edward Lloyd's coffee house in London became the meeting place for ship-owners, merchants and underwriters from about 1688, the origin of the Lloyd's market.",
+     "ids": [
+      "lloyds-of-london",
+      "port-london"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Lloyd's — Chapter one (history)",
+      "url": "https://www.lloyds.com/about-lloyds/history/chapter-one"
+     }
+    },
+    {
+     "year": 1720,
+     "title": "Chartered insurers",
+     "text": "Parliament chartered the Royal Exchange Assurance in 1720. Marine underwriters in London insured slave voyages, their trade goods and the captives on board as property, spreading losses across investors.",
+     "ids": [
+      "royal-exchange-assurance",
+      "lloyds-of-london"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Journal of Economic History — Pearson & Richardson, 'Insuring the Transatlantic Slave Trade'",
+      "url": "https://www.cambridge.org/core/journals/journal-of-economic-history/article/insuring-the-transatlantic-slave-trade/F1E2354A667CF7A4DB989838F37B2DC2/core-reader"
+     }
+    },
+    {
+     "year": 1771,
+     "title": "Founders with slaving links",
+     "text": "When 79 underwriters formed the Society of Lloyd's in 1771, several were slave traders, ship-owners or plantation owners, according to Lloyd's own research.",
+     "ids": [
+      "lloyds-of-london"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Lloyd's — 1771 founders (transatlantic slave trade research)",
+      "url": "https://www.lloyds.com/about-lloyds/history/the-trans-atlantic-slave-trade/1771-founders"
+     }
+    },
+    {
+     "year": 1774,
+     "title": "Angerstein, 'father of Lloyd's'",
+     "text": "Underwriter John Julius Angerstein, who insured slave voyages and West India cargoes and was a trustee and creditor of Grenada estates, led Lloyd's in its move to the Royal Exchange. After his death the government bought his art collection in 1824 to found the National Gallery.",
+     "ids": [
+      "john-julius-angerstein",
+      "lloyds-of-london"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "National Gallery — John Julius Angerstein",
+      "url": "https://www.nationalgallery.org.uk/people/john-julius-angerstein"
+     }
+    },
+    {
+     "year": 1781,
+     "title": "The Zong massacre",
+     "text": "Overloaded and short of water, the crew of the Liverpool-owned Zong threw more than 130 Africans overboard from 29 November 1781 so the loss could be claimed on insurance, at about £30 a head.",
+     "ids": [
+      "zong-ship",
+      "luke-collingwood",
+      "gregson-family"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Zong massacre",
+      "url": "https://en.wikipedia.org/wiki/Zong_massacre"
+     },
+     "amount": "c. £30 claimed per person"
+    },
+    {
+     "year": 1783,
+     "title": "Gregson v Gilbert",
+     "text": "The Gregson syndicate sued its underwriters and won a jury verdict. On appeal Lord Mansfield ordered a new trial, but the case was argued as a dispute over cargo, not murder; Equiano and Granville Sharp publicised it.",
+     "ids": [
+      "zong-ship",
+      "gregson-family",
+      "olaudah-equiano"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Zong massacre",
+      "url": "https://en.wikipedia.org/wiki/Zong_massacre"
+     }
+    },
+    {
+     "year": 1807,
+     "title": "Insuring slave voyages outlawed",
+     "text": "The 1807 Slave Trade Act banned British subjects from the trade, including the insurance of slaving voyages, which closed this line of business in Britain.",
+     "ids": [
+      "slave-trade-act-1807"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Slave Trade Act 1807",
+      "url": "https://en.wikipedia.org/wiki/Slave_Trade_Act_1807"
+     }
+    },
+    {
+     "year": 1845,
+     "title": "The model crosses the Atlantic",
+     "text": "In the US, insurers such as Nautilus (now New York Life) and Aetna sold policies on enslaved people's lives that paid enslavers when they died. Aetna apologised in 2000 after California's Slavery Era Insurance Registry required disclosure.",
+     "ids": [
+      "new-york-life",
+      "aetna"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Insurance Journal — Slavery & Insurance (2000)",
+      "url": "https://www.insurancejournal.com/magazines/mag-legalbeat/2000/05/15/21120.htm"
+     }
+    },
+    {
+     "year": 2020,
+     "title": "Lloyd's apologises",
+     "text": "In June 2020 Lloyd's apologised for its 'shameful' role in the 18th- and 19th-century slave trade and committed to funding opportunities for Black and minority ethnic groups. It has since published research on its founders.",
+     "ids": [
+      "lloyds-of-london"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Insurance Business — Lloyd's of London apologises over founders' slavery links",
+      "url": "https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-of-london-apologises-over-founders-slavery-links-225611.aspx"
+     }
+    }
+   ]
+  },
+  {
+   "id": "people-as-collateral",
+   "title": "People as collateral: Louisiana banks to JPMorgan Chase",
+   "region": "United States",
+   "summary": "In the cotton boom, Southern banks lent against mortgages on enslaved people and sold bonds backed by them to investors in Europe and the North. Disclosure laws after 2000 forced today's successor banks to admit it.",
+   "steps": [
+    {
+     "year": 1827,
+     "title": "Planters' bank backed by people",
+     "text": "Louisiana chartered the Consolidated Association of the Planters of Louisiana in 1827 with $2.5 million in capital. Planters mortgaged land and enslaved people to become shareholders and borrow, and Barings in London sold the bank's state-guaranteed bonds to European investors.",
+     "ids": [
+      "port-new-orleans",
+      "baring-brothers"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "64 Parishes — Consolidated Association of the Planters of Louisiana",
+      "url": "https://64parishes.org/?p=60337"
+     },
+     "amount": "$2.5m capital"
+    },
+    {
+     "year": 1828,
+     "title": "Supplying the collateral",
+     "text": "Firms such as Franklin & Armfield bought people in Virginia and Maryland and shipped or marched them to Natchez and New Orleans for sale to cotton and sugar planters, creating the 'property' banks lent against.",
+     "ids": [
+      "franklin-and-armfield",
+      "isaac-franklin",
+      "port-new-orleans"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Encyclopedia Virginia — Franklin and Armfield",
+      "url": "https://encyclopediavirginia.org/entries/franklin-and-armfield/"
+     }
+    },
+    {
+     "year": 1831,
+     "title": "Citizens Bank and Canal Bank",
+     "text": "From the 1830s to the Civil War these two New Orleans banks accepted about 13,000 enslaved people as loan collateral, per JPMorgan Chase's own research. They merged in 1924 and failed in 1933; the National Bank of Commerce, a Bank One precursor, took over some of their assets.",
+     "ids": [
+      "citizens-bank-louisiana",
+      "port-new-orleans"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "NBC News — JPMorgan: Predecessors linked to slavery",
+      "url": "https://www.nbcnews.com/news/amp/wbna6851727"
+     },
+     "amount": "c. 13,000 people as collateral"
+    },
+    {
+     "year": 1837,
+     "title": "Defaults make banks owners",
+     "text": "When borrowers defaulted, especially after the Panic of 1837, the banks took ownership of about 1,250 people. The disclosure did not say what happened to them.",
+     "ids": [
+      "citizens-bank-louisiana"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "NBC News — JPMorgan: Predecessors linked to slavery",
+      "url": "https://www.nbcnews.com/news/amp/wbna6851727"
+     },
+     "amount": "c. 1,250 people owned"
+    },
+    {
+     "year": 1843,
+     "title": "Bondholders left unpaid",
+     "text": "In February 1843 Louisiana defaulted, in April it withdrew its guarantee of the banks' bonds, and Barings circulated word that the state had failed to provide more than $750,000 due that June. Historians read this as European investors having financed slavery at one remove.",
+     "ids": [
+      "baring-brothers",
+      "port-new-orleans"
+     ],
+     "kind": "money",
+     "basis": "interpretive",
+     "source": {
+      "label": "64 Parishes — Consolidated Association of the Planters of Louisiana",
+      "url": "https://64parishes.org/?p=60337"
+     },
+     "amount": "$750,000+ unpaid"
+    },
+    {
+     "year": 1850,
+     "title": "Banks that owned people outright",
+     "text": "Wachovia's predecessors included the Georgia Railroad and Banking Co., which owned at least 162 enslaved people forced to build and work the railroad, and the Bank of Charleston, which accepted at least 529 enslaved people as loan collateral.",
+     "ids": [
+      "wells-fargo-wachovia"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "NBC News — Wachovia apologizes to black Americans (2005)",
+      "url": "https://www.nbcnews.com/id/wbna8076165"
+     }
+    },
+    {
+     "year": 2002,
+     "title": "Chicago forces disclosure",
+     "text": "Chicago's Slavery Era Disclosure Ordinance (October 2002, in force 2003) required city contractors to research predecessors' profits from slavery. It produced the disclosures by JPMorgan Chase, Wachovia and Lehman Brothers.",
+     "ids": [
+      "chicago-slavery-era-ordinance"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "NPR — Lehman Brothers admits past ties to slavery (2003)",
+      "url": "https://www.npr.org/2003/12/11/1543861/lehman-brothers-admits-past-ties-to-slavery"
+     }
+    },
+    {
+     "year": 2005,
+     "title": "JPMorgan Chase apologises",
+     "text": "In January 2005 JPMorgan Chase, successor via Bank One, apologised and committed $5 million over five years to scholarships for Black students in Louisiana. Wachovia, now part of Wells Fargo, apologised that June.",
+     "ids": [
+      "jpmorgan-chase",
+      "citizens-bank-louisiana",
+      "wells-fargo-wachovia"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Diverse Issues in Higher Education — JPMorgan Apologizes for Predecessor Banks' Slavery Ties",
+      "url": "https://diverseeducation.com/article/4323/"
+     },
+     "amount": "$5m scholarship fund"
+    }
+   ]
+  },
+  {
+   "id": "wall-street-cotton-and-sugar",
+   "title": "Wall Street's cotton and sugar",
+   "region": "United States",
+   "summary": "Some of New York's most famous financial houses began as merchants and factors handling slave-grown cotton and sugar. Their capital moved into banking, railroads and Wall Street, and their successors still exist or collapsed only in 2008.",
+   "steps": [
+    {
+     "year": 1800,
+     "title": "Alexander Brown of Baltimore",
+     "text": "Irish linen merchant Alexander Brown founded a Baltimore trading house in 1800, later Alex. Brown & Sons. His sons extended it across the Atlantic.",
+     "ids": [
+      "brown-brothers-harriman",
+      "port-baltimore"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Alex. Brown & Sons",
+      "url": "https://en.wikipedia.org/wiki/Alex._Brown_%26_Sons"
+     }
+    },
+    {
+     "year": 1810,
+     "title": "The Browns' cotton house in Liverpool",
+     "text": "William Brown opened the family's Liverpool house in 1810. After 1815 it grew through buying and selling slave-produced cotton, at times handling a very large share of American cotton shipments.",
+     "ids": [
+      "brown-shipley",
+      "port-liverpool"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "National Museums Liverpool — William Brown Street",
+      "url": "https://liverpoolmuseums.org.uk/slavery-histories/william-brown-street"
+     }
+    },
+    {
+     "year": 1818,
+     "title": "Brown Brothers in America",
+     "text": "From 1818 the Browns' American houses (later Brown Brothers & Co., New York) financed and shipped Southern cotton to Liverpool, advanced credit to planters and factors, and in some cases took over mortgaged plantations, per the firm's own history.",
+     "ids": [
+      "brown-brothers-harriman"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Brown Brothers Harriman — The Cotton Trade",
+      "url": "https://www.bbh.com/us/en/bbh-who-we-are/our-story/200-years-of-partnership/the-cotton-trade.html"
+     }
+    },
+    {
+     "year": 1832,
+     "title": "Moses Taylor and Cuban sugar",
+     "text": "Moses Taylor sold Cuban sugar in New York, advised and lent to Cuban planters and banked their money while Cuba still illegally imported African captives. He became president of City Bank in 1856.",
+     "ids": [
+      "moses-taylor",
+      "citigroup",
+      "port-havana"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Princeton Alumni Weekly — Moses Taylor Pyne and the Sugar Plantations of the Americas",
+      "url": "https://paw.princeton.edu/article/princeton-and-slavery-moses-taylor-pyne-and-sugar-plantations-americas"
+     }
+    },
+    {
+     "year": 1850,
+     "title": "Lehman Brothers in Montgomery",
+     "text": "Henry, Emanuel and Mayer Lehman's Montgomery store took cotton in payment and became cotton brokers for planters. The 1860 census lists Mayer Lehman as an enslaver.",
+     "ids": [
+      "lehman-brothers"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Harvard Business School Baker Library — Lehman Brothers: General Merchants to Commodities Brokers",
+      "url": "https://www.library.hbs.edu/special-collections-and-archives/exhibits/lehman/general-merchants-to-commodities-brokers"
+     }
+    },
+    {
+     "year": 1862,
+     "title": "Running cotton round the blockade",
+     "text": "During the Civil War Lehman Brothers shipped cotton to England and then to New York to get around the Union blockade, and the firm supported the Confederacy.",
+     "ids": [
+      "lehman-brothers"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "New York Review of Books — The Lehman Trilogy and Wall Street's Debt to Slavery",
+      "url": "https://www.nybooks.com/daily/2019/06/11/the-lehman-trilogy-and-wall-streets-debt-to-slavery/"
+     }
+    },
+    {
+     "year": 1870,
+     "title": "Cotton money moves to Wall Street",
+     "text": "Lehman Brothers, now in New York, helped found the New York Cotton Exchange in 1870. Moses Taylor's fortune passed to Moses Taylor Pyne, who invested in railroads and utilities and endowed Princeton.",
+     "ids": [
+      "lehman-brothers",
+      "moses-taylor-pyne",
+      "princeton-and-slavery-project"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Moses Taylor Pyne",
+      "url": "https://en.wikipedia.org/wiki/Moses_Taylor_Pyne"
+     }
+    },
+    {
+     "year": 1931,
+     "title": "Brown Brothers Harriman",
+     "text": "Brown Brothers merged with Harriman interests in 1931 to form Brown Brothers Harriman, still a private partnership. Its website acknowledges the firm's role in the slave-grown cotton trade.",
+     "ids": [
+      "brown-brothers-harriman"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Brown Brothers Harriman — The Cotton Trade",
+      "url": "https://www.bbh.com/us/en/bbh-who-we-are/our-story/200-years-of-partnership/the-cotton-trade.html"
+     }
+    },
+    {
+     "year": 2003,
+     "title": "Lehman's disclosure",
+     "text": "Required by Chicago's ordinance, Lehman disclosed in 2003 that its founders had bought at least one enslaved woman and may have owned more.",
+     "ids": [
+      "lehman-brothers",
+      "chicago-slavery-era-ordinance"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "NPR — Lehman Brothers admits past ties to slavery",
+      "url": "https://www.npr.org/2003/12/11/1543861/lehman-brothers-admits-past-ties-to-slavery"
+     }
+    },
+    {
+     "year": 2008,
+     "title": "Lehman collapses",
+     "text": "Lehman Brothers filed for bankruptcy in September 2008, the largest in US history, ending the firm that began in the cotton trade.",
+     "ids": [
+      "lehman-brothers"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Lehman Brothers",
+      "url": "https://en.wikipedia.org/wiki/Lehman_Brothers"
+     }
+    },
+    {
+     "year": 2023,
+     "title": "Citi re-examines its history",
+     "text": "Citigroup, successor of City Bank, published research in 2023 saying predecessor companies likely benefited indirectly from slavery, including through Taylor's sugar clients, and that some early directors likely owned enslaved people.",
+     "ids": [
+      "citigroup",
+      "moses-taylor"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Citigroup — Re-examining Citi's historical connections to slavery in the U.S.",
+      "url": "https://www.citigroup.com/global/news/perspectives/2023/re-examining-citi-s-historical-connections-to-slavery-in-the-u-s-"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dutch-companies-to-abn-amro",
+   "title": "Dutch companies, plantation loans and ABN AMRO",
+   "region": "Netherlands",
+   "summary": "The Dutch Republic's chartered companies shipped captives, and Amsterdam's bankers lent to plantations with enslaved people as security. Their successors, ABN AMRO, De Nederlandsche Bank and the House of Orange, apologised in 2022–23.",
+   "steps": [
+    {
+     "year": 1621,
+     "title": "West India Company chartered",
+     "text": "The States General chartered the WIC in 1621 with a monopoly of Dutch trade to West Africa and the Americas. The stadholders of the House of Orange received payments from the company and later held the title of its chief director.",
+     "ids": [
+      "dutch-west-india-company",
+      "house-of-orange"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "African Studies Centre Leiden — Dutch involvement in the transatlantic slave trade",
+      "url": "https://ascleiden.nl/content/webdossiers/dutch-involvement-transatlantic-slave-trade"
+     }
+    },
+    {
+     "year": 1637,
+     "title": "Seizing Portugal's slave ports",
+     "text": "Between 1637 and 1641 the WIC captured Elmina, São Tomé and Luanda from Portugal, making the Republic a leading slave-trading power.",
+     "ids": [
+      "dutch-west-india-company",
+      "elmina-castle",
+      "port-luanda",
+      "sao-tome"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Dutch West India Company",
+      "url": "https://en.wikipedia.org/wiki/Dutch_West_India_Company"
+     }
+    },
+    {
+     "year": 1662,
+     "title": "Curaçao and the asiento",
+     "text": "After losing Brazil, the WIC made Curaçao a depot for selling captives on to Spanish America, including under subcontracts of the Spanish asiento from 1662.",
+     "ids": [
+      "curacao",
+      "dutch-west-india-company",
+      "spanish-asiento",
+      "grillo-and-lomellini"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Project MANIFEST — The United Provinces and the Transatlantic Slave Trade",
+      "url": "https://www.projectmanifest.eu/the-united-provinces-and-the-transatlantic-slave-trade-en-fr/"
+     }
+    },
+    {
+     "year": 1683,
+     "title": "Society of Suriname",
+     "text": "Amsterdam, the Van Aerssen van Sommelsdijck family and the WIC each took an equal third of the Society of Suriname (1683), which ran the plantation colony that became one of the main destinations for captives carried on Dutch ships.",
+     "ids": [
+      "society-of-suriname",
+      "van-aerssen-van-sommelsdijck-family",
+      "port-amsterdam"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Society of Suriname",
+      "url": "https://en.wikipedia.org/wiki/Society_of_Suriname"
+     }
+    },
+    {
+     "year": 1732,
+     "title": "Middelburg's private slavers",
+     "text": "After the WIC monopoly ended in 1730, the Middelburgsche Commercie Compagnie (founded 1720) sent slaving voyages from Zeeland, specialising in the trade from about 1756: 92 triangular voyages between 1756 and 1807. Its archive is now in the Zeeuws Archief.",
+     "ids": [
+      "middelburgsche-commercie-compagnie"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Eenigheid project (Zeeuws Archief) — The Middelburgsche Commercie Compagnie",
+      "url": "https://eenigheid.slavenhandelmcc.nl/middelburgse-commercie-compagnie-en/?lang=en"
+     },
+     "amount": "92 triangular voyages (1756–1807)"
+    },
+    {
+     "year": 1753,
+     "title": "Plantation loan funds",
+     "text": "Amsterdam banker Willem Gideon Deutz (1697–1757) developed the 'negotiatie', a fund pooling Dutch investors' money and lending it to Suriname planters against mortgages on plantations and the enslaved people on them; he held stakes in more than a hundred plantations. Many such funds followed, and many defaulted after the 1772–73 credit crisis.",
+     "ids": [
+      "willem-gideon-deutz",
+      "plantation-negotiaties"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Amsterdam Museum — Plantage aan de gracht",
+      "url": "https://www.amsterdammuseum.nl/en/exhibition/plantage-aan-de-gracht/268300"
+     },
+     "amount": "stakes in 100+ plantations (Deutz)"
+    },
+    {
+     "year": 1762,
+     "title": "Hope & Co. and Mees & Zoonen",
+     "text": "Hope & Co. lent to at least 73 Caribbean plantations with enslaved people as security, and in sample years drew c. 25–33% of revenue from slavery. Rotterdam's R. Mees & Zoonen brokered insurance on slave ships. The two merged as Mees & Hope in 1966, became part of MeesPierson in the early 1990s and, via Fortis, returned to ABN AMRO in 2010.",
+     "ids": [
+      "hope-and-co",
+      "hope-family",
+      "abn-amro"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "IISH — Research shows large-scale involvement in slavery by predecessors of ABN AMRO",
+      "url": "https://iisg.amsterdam/en/blog/research-iish-shows-large-scale-involvement-slavery-predecessors-abn-amro"
+     },
+     "amount": "73+ plantations financed"
+    },
+    {
+     "year": 1814,
+     "title": "De Nederlandsche Bank",
+     "text": "The new central bank financed trade in slave-produced goods, had directors who were enslavers, and was involved in paying compensation to plantation owners when the Netherlands abolished slavery in 1863.",
+     "ids": [
+      "de-nederlandsche-bank"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "De Nederlandsche Bank — DNB's historical links to slavery",
+      "url": "https://www.dnb.nl/en/about-us/history/dnb-s-historical-links-to-slavery/"
+     }
+    },
+    {
+     "year": 2022,
+     "title": "Bank apologies",
+     "text": "ABN AMRO apologised in April 2022 after IISH research, and DNB apologised in July 2022. Amsterdam and Rotterdam had apologised in 2021, followed by the prime minister in December 2022.",
+     "ids": [
+      "abn-amro",
+      "de-nederlandsche-bank",
+      "amsterdam-apology-2021",
+      "rotterdam-apology-2021"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "ABN AMRO — ABN AMRO apologizes for historic involvement in slavery",
+      "url": "https://abnamro.com/en/news/abn-amro-apologizes-for-historic-involvement-in-slavery"
+     }
+    },
+    {
+     "year": 2023,
+     "title": "The King apologises",
+     "text": "On 1 July 2023 (Keti Koti) King Willem-Alexander apologised for slavery. A royal-commissioned study estimated the House of Orange's income from colonialism and slavery at c. €545 million in today's money.",
+     "ids": [
+      "house-of-orange"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "DutchNews — Dutch royals earned €545 million from slavery and colonialism",
+      "url": "https://dutchnews.nl/2023/06/dutch-royals-earned-e545-million-from-slavery-and-colonialism"
+     },
+     "amount": "c. €545m (estimate)"
+    }
+   ]
+  },
+  {
+   "id": "dahomey-ouidah-to-today",
+   "title": "Dahomey, Ouidah and the de Souzas",
+   "region": "Africa",
+   "summary": "Dahomey's kings made the sale of war captives a royal enterprise through the port of Ouidah, run with Afro-Brazilian brokers such as Francisco Félix de Souza. When the Atlantic trade closed, palm oil replaced captives, and the royal and merchant lineages still hold titles in Benin.",
+   "steps": [
+    {
+     "year": 1727,
+     "title": "Agaja takes Ouidah",
+     "text": "King Agaja's armies conquered Allada (1724) and Whydah (1727), giving Dahomey direct access to European buyers at Ouidah, one of Africa's largest embarkation points.",
+     "ids": [
+      "agaja-of-dahomey",
+      "kingdom-of-dahomey",
+      "port-ouidah"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Agaja",
+      "url": "https://en.wikipedia.org/wiki/Agaja"
+     }
+    },
+    {
+     "year": 1740,
+     "title": "A royal trade",
+     "text": "Tegbesu consolidated royal control of Ouidah, where a viceroy (yovogan) regulated European traders and the crown taxed and monopolised much of the trade. The sale of captives became the kingdom's main revenue.",
+     "ids": [
+      "tegbesu-of-dahomey",
+      "kingdom-of-dahomey",
+      "fort-sao-joao-baptista-ajuda"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Boydell & Brewer — Robin Law, Ouidah: The Social History of a West African Slaving 'Port'",
+      "url": "https://boydellandbrewer.com/book/ouidah-9780852554975/"
+     }
+    },
+    {
+     "year": 1818,
+     "title": "De Souza backs a coup",
+     "text": "Brazilian trader Francisco Félix de Souza helped Ghezo overthrow his brother Adandozan in 1818. Ghezo made him Chachá, his chief agent for the European trade at Ouidah.",
+     "ids": [
+      "francisco-felix-de-souza",
+      "ghezo-of-dahomey",
+      "adandozan-of-dahomey"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Francisco Félix de Souza",
+      "url": "https://en.wikipedia.org/wiki/Francisco_F%C3%A9lix_de_Souza"
+     }
+    },
+    {
+     "year": 1820,
+     "title": "Illegal trade, Brazilian credit",
+     "text": "For three decades after British abolition, de Souza supplied captives to Brazilian, Cuban and Portuguese buyers, mostly by barter on credit. Returnee Agudá merchants such as Joaquim d'Almeida joined the trade.",
+     "ids": [
+      "francisco-felix-de-souza",
+      "aguda-merchant-community",
+      "joaquim-dalmeida",
+      "port-salvador"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "University of Bayreuth — Black Atlantic Revisited, Station 1 (de Souza)",
+      "url": "https://www.africamultiple.uni-bayreuth.de/en/1_2-Research/Research-Projects/Arts-and-Aesthetics/Black-Atlantic-revisited/May-Exhibition/Station-1/index.html"
+     }
+    },
+    {
+     "year": 1850,
+     "title": "Ghezo bargains with Britain",
+     "text": "Ghezo told British envoy Frederick Forbes in 1849–50 that the slave trade financed his state and offered only a phased end if the palm-oil trade expanded. Britain blockaded Dahomey's ports in 1851–52.",
+     "ids": [
+      "ghezo-of-dahomey",
+      "kingdom-of-dahomey"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Fontes Historiae Africanae — Dahomey and the Ending of the Trans-Atlantic Slave Trade",
+      "url": "https://www.fonteshistoriaeafricanae.co.uk/wp-content/uploads/2024/02/Dahomey-and-the-Ending-of-the-Trans-Atlantic-Slave-Trade.pdf"
+     }
+    },
+    {
+     "year": 1854,
+     "title": "From captives to palm oil",
+     "text": "Traders shifted to palm oil, often still produced by enslaved labour. Domingo José Martínez switched to palm oil after his slave cargoes were seized in 1854, and the de Souza sons stayed royal agents at Ouidah as the trade changed.",
+     "ids": [
+      "domingo-jose-martinez",
+      "de-souza-family"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Ross — The career of Domingo Martinez in the Bight of Benin, 1833–64",
+      "url": "https://library.au.int/fr/career-domingo-martinez-bight-benin-1833-64-3"
+     }
+    },
+    {
+     "year": 1860,
+     "title": "The last voyages",
+     "text": "Under Glele, Dahomey still sold war captives to the remaining illegal traders. In 1860 the Clotilda bought 110 people at Ouidah and carried them to Mobile, Alabama, where survivors later founded Africatown.",
+     "ids": [
+      "glele-of-dahomey",
+      "clotilda-meaher",
+      "africatown"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Encyclopedia of Alabama — Africatown",
+      "url": "https://encyclopediaofalabama.org/article/africatown/"
+     },
+     "amount": "110 captives"
+    },
+    {
+     "year": 1894,
+     "title": "French conquest",
+     "text": "France defeated Béhanzin in the Franco-Dahomean wars and exiled him in 1894. French propaganda cited the killing of captives at the Annual Customs to justify the conquest, and royal treasures were looted from Abomey in 1892.",
+     "ids": [
+      "behanzin-of-dahomey",
+      "abomey-royal-palaces"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Béhanzin",
+      "url": "https://en.wikipedia.org/wiki/B%C3%A9hanzin"
+     }
+    },
+    {
+     "year": 1999,
+     "title": "Benin's apology",
+     "text": "President Mathieu Kérékou apologised to African-American clergy for Benin's part in the slave trade and in December 1999 convened a Leaders' Conference on Reconciliation and Development in Cotonou. The Door of No Return memorial stands on Ouidah beach.",
+     "ids": [
+      "benin-1999-apology",
+      "door-of-no-return-ouidah",
+      "ouidah-route-des-esclaves"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "NBC News — Genetic quest leads to African apology for role in slave trade",
+      "url": "https://www.nbcnews.com/sciencemain/genetic-quest-leads-african-apology-role-slave-trade-8c11467842"
+     }
+    },
+    {
+     "year": 2021,
+     "title": "Lineages today",
+     "text": "France returned 26 royal treasures looted from Abomey, including Béhanzin's throne, to Benin in November 2021, and heirs of the Dahomean royal lineages are still enthroned at Abomey. The de Souza family still installs a Chachá at Ouidah; Moïse de Souza was designated Chacha IX in 2017, a succession contested in Benin's courts.",
+     "ids": [
+      "de-souza-family",
+      "trading-family-descendants-today",
+      "kingdom-of-dahomey",
+      "abomey-royal-palaces"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Al Jazeera — France returns 26 treasures looted from Benin (2021)",
+      "url": "https://www.aljazeera.com/news/2021/11/9/france-hands-back-26-treasures-looted-from-benin"
+     }
+    }
+   ]
+  },
+  {
+   "id": "transatlantic-gentry",
+   "title": "Transatlantic gentry: English families to Chesapeake dynasties",
+   "region": "Transatlantic",
+   "summary": "Royal favour, religious politics and family connections in England gave a few families the land grants and offices that made them Maryland's and Virginia's ruling planter class. Those estates were built and worked by enslaved people, and their houses and institutions still stand.",
+   "steps": [
+    {
+     "year": 1539,
+     "title": "Sulgrave and the Washingtons",
+     "text": "Northampton wool merchant Lawrence Washington bought Sulgrave Manor from the Crown in 1539 after the dissolution of the monasteries. His descendants were minor gentry and clergy; in 1610 the manor passed by sale to his grandson Lawrence Makepeace.",
+     "ids": [
+      "sulgrave-manor",
+      "george-washington"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Historic England — Sulgrave Manor (list entry 1001040)",
+      "url": "https://historicengland.org.uk/listing/the-list/list-entry/1001040"
+     }
+    },
+    {
+     "year": 1625,
+     "title": "Calvert's conversion",
+     "text": "Secretary of State George Calvert declared himself a Catholic and resigned office in 1625, though James I kept him on the Privy Council and made him Baron Baltimore. Barred from office, he sought a colonial refuge, first at Avalon in Newfoundland (where he lived in 1628–29), then on the Chesapeake.",
+     "ids": [
+      "calvert-family"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Dictionary of Canadian Biography — Calvert, George, 1st Baron Baltimore",
+      "url": "https://www.biographi.ca/en/bio/calvert_george_1E.html"
+     }
+    },
+    {
+     "year": 1632,
+     "title": "Maryland, a family proprietary",
+     "text": "Charles I granted Maryland to Calvert's son Cecil, 2nd Lord Baltimore, in 1632, and Leonard Calvert led the first settlers in 1634. The family drew rents and duties from the colony as proprietors.",
+     "ids": [
+      "calvert-family",
+      "anne-arundell-calvert",
+      "charles-i-england"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Riversdale House Museum — The Calvert Family",
+      "url": "https://riversdale.org/the-calvert-family"
+     }
+    },
+    {
+     "year": 1649,
+     "title": "Royalists get the Northern Neck",
+     "text": "The exiled Charles II granted the land between the Rappahannock and Potomac to loyal courtiers in 1649. Thomas, Lord Culpeper consolidated the Northern Neck Proprietary, which passed by marriage to the Fairfaxes.",
+     "ids": [
+      "thomas-lord-culpeper",
+      "thomas-6th-lord-fairfax"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Encyclopedia Virginia — Thomas Culpeper, second baron Culpeper of Thoresway",
+      "url": "https://encyclopediavirginia.org/entries/culpeper-thomas-second-baron-culpeper-of-thoresway-1635-1689/"
+     }
+    },
+    {
+     "year": 1657,
+     "title": "John Washington stays in Virginia",
+     "text": "The son of a royalist rector ejected from his Essex living by Parliament in 1643, John Washington reached the Potomac as mate of the ketch Sea Horse of London in the winter of 1656–57. He married Anne Pope, received a 700-acre plantation as a wedding gift from her family, and held English servants and enslaved Africans.",
+     "ids": [
+      "george-washington"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "National Park Service — John Washington",
+      "url": "https://www.nps.gov/people/john-washington.htm"
+     }
+    },
+    {
+     "year": 1664,
+     "title": "Slavery for life in Maryland",
+     "text": "Under the Calverts' proprietary government, with Charles Calvert as governor, Maryland's 1664 act made enslaved Africans servants 'durante vita' and their children enslaved too.",
+     "ids": [
+      "maryland-slave-law-1664",
+      "calvert-family"
+     ],
+     "kind": "law",
+     "basis": "documented",
+     "source": {
+      "label": "Maryland State Archives — Blacks Before the Law in Colonial Maryland",
+      "url": "https://msa.maryland.gov/msa/speccol/sc5300/sc5348/html/chap3.html"
+     }
+    },
+    {
+     "year": 1670,
+     "title": "Headrights build estates",
+     "text": "William Byrd I imported servants and enslaved Africans to work his land and to sell, earning a 50-acre headright for each person, the land base of Westover. Robert 'King' Carter, agent of the Fairfax proprietary, steered vast grants to his own family and bought captives from slave ships.",
+     "ids": [
+      "william-byrd-i",
+      "byrd-family",
+      "robert-king-carter",
+      "carter-family"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Encyclopedia Virginia — Robert Carter (ca. 1664–1732)",
+      "url": "https://encyclopediavirginia.org/entries/carter-robert-ca-1664-1732/"
+     }
+    },
+    {
+     "year": 1688,
+     "title": "The Carrolls arrive",
+     "text": "Irish Catholic lawyer Charles Carroll the Settler came to Maryland in 1688 as attorney general to the Lord Baltimore. Barred from office after the Protestant takeover, he turned to plantations, lending and land, and the family built Doughoregan Manor.",
+     "ids": [
+      "carroll-family",
+      "doughoregan-manor",
+      "calvert-family"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Charles Carroll the Settler",
+      "url": "https://en.wikipedia.org/wiki/Charles_Carroll_the_Settler"
+     }
+    },
+    {
+     "year": 1748,
+     "title": "A lord in Virginia",
+     "text": "Thomas, 6th Lord Fairfax, settled in Virginia by 1747 to manage his vast proprietary and hired 16-year-old George Washington, whose half-brother Lawrence had married into the Fairfax family, to survey it in 1748. Fairfax patronage helped launch Washington's career.",
+     "ids": [
+      "thomas-6th-lord-fairfax",
+      "george-washington",
+      "greenway-court"
+     ],
+     "kind": "power",
+     "basis": "interpretive",
+     "source": {
+      "label": "Founders Online — Washington's 1748 survey journal (editorial note)",
+      "url": "https://founders.archives.gov/documents/Washington/01-01-02-0001-0001"
+     }
+    },
+    {
+     "year": 1774,
+     "title": "Gentry intermarry",
+     "text": "Washington's 1759 marriage to Martha Custis gave him control of the Custis dower lands and enslaved people. In 1774 her son married Eleanor Calvert, joining the Calverts to Mount Vernon; Lees, Carters and Fitzhughs intermarried in the same way.",
+     "ids": [
+      "custis-family",
+      "calvert-family",
+      "mount-vernon",
+      "lee-family-stratford"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Mount Vernon — The Growth of Mount Vernon's Enslaved Community",
+      "url": "https://www.mountvernon.org/george-washington/slavery/the-growth-of-mount-vernons-enslaved-community/"
+     }
+    },
+    {
+     "year": 1799,
+     "title": "Revolutionaries and enslavers",
+     "text": "Charles Carroll of Carrollton and the Lee brothers signed the Declaration of Independence. When Washington died in 1799, 317 enslaved people lived at Mount Vernon.",
+     "ids": [
+      "carroll-family",
+      "lee-family-stratford",
+      "george-washington",
+      "mount-vernon"
+     ],
+     "kind": "people",
+     "basis": "documented",
+     "source": {
+      "label": "Mount Vernon — Census of the Enslaved Population at Mount Vernon, 1786 and 1799",
+      "url": "https://mountvernon.org/library/digitalhistory/digital-encyclopedia/article/census-of-the-enslaved-population-at-mount-vernon-1786-and-1799"
+     },
+     "amount": "317 enslaved people (1799)"
+    },
+    {
+     "year": 1856,
+     "title": "Plantation wealth to institutions",
+     "text": "Charles Benedict Calvert, who held 52 people in 1860, donated Riversdale land to found the Maryland Agricultural College in 1856, now the University of Maryland. Mount Vernon, Stratford Hall and Sulgrave Manor are now museums, and the 1856 Project and Mount Vernon work with descendants of the enslaved.",
+     "ids": [
+      "charles-benedict-calvert",
+      "riversdale",
+      "mount-vernon",
+      "sulgrave-manor"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "UMD DRUM — The 1856 Project, 'Reconstructing the Truth' (2024)",
+      "url": "https://drum.lib.umd.edu/items/e047e5ac-08a8-48db-9d8b-f7625799cc69"
+     }
+    }
+   ]
+  },
+  {
+   "id": "cotton-and-confederacy-finance",
+   "title": "Transatlantic finance of cotton and the Confederacy",
+   "region": "Transatlantic",
+   "summary": "London, Amsterdam and Paris bankers funded US expansion, cotton plantations and Southern bank bonds, and in 1863 a Confederate cotton loan. Their successors include JPMorgan Chase, Lloyds Banking Group and Barings, now part of an American asset manager.",
+   "steps": [
+    {
+     "year": 1803,
+     "title": "Barings and Hope fund the Louisiana Purchase",
+     "text": "Of the $15 million (FF80m) Louisiana Purchase price, $11.25 million was paid in US bonds, which Barings and Hope & Co. bought from France at a discount and resold to investors in Europe. The territory became the heartland of the cotton and sugar slave economy.",
+     "ids": [
+      "baring-brothers",
+      "hope-and-co",
+      "sir-francis-baring"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "The Baring Archive — The Louisiana Purchase",
+      "url": "https://baringarchive.org.uk/exhibition/the-louisiana-purchase/"
+     },
+     "amount": "$11.25m in US bonds (of a $15m / FF80m price)"
+    },
+    {
+     "year": 1810,
+     "title": "Cotton houses on both sides",
+     "text": "The Browns of Baltimore opened a Liverpool house in 1810 that grew on slave-grown cotton. Their American partners advanced credit to planters against future crops.",
+     "ids": [
+      "brown-shipley",
+      "brown-brothers-harriman"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "National Museums Liverpool — William Brown Street",
+      "url": "https://liverpoolmuseums.org.uk/slavery-histories/william-brown-street"
+     }
+    },
+    {
+     "year": 1827,
+     "title": "Barings sells planters' bank bonds",
+     "text": "Barings opened a credit line to Louisiana's Consolidated Association of the Planters, whose shareholders had mortgaged land and enslaved people, and sold its state-backed bonds to European clients.",
+     "ids": [
+      "baring-brothers",
+      "port-new-orleans"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "64 Parishes — Consolidated Association of the Planters of Louisiana",
+      "url": "https://64parishes.org/?p=60337"
+     }
+    },
+    {
+     "year": 1832,
+     "title": "Barings' cotton advances",
+     "text": "Barings opened a Liverpool house in 1832 that financed other merchants, especially in the North American cotton trade, and in the early 1830s managed cotton advances through agents in the Southern ports. Baring partners also pursued slavery compensation in the 1830s for indebted Caribbean slave-owners such as Wolfert Katz of Berbice.",
+     "ids": [
+      "baring-brothers",
+      "baring-family",
+      "port-charleston",
+      "port-new-orleans"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "The Baring Archive — Baring Brothers Liverpool (miscellaneous series)",
+      "url": "https://baringarchive.org.uk/the-archives/miscellaneous-series/"
+     }
+    },
+    {
+     "year": 1837,
+     "title": "The Rothschilds' man in New York",
+     "text": "August Belmont, a Rothschild employee sent toward Cuba, stopped in New York in the Panic of 1837 and stayed to found August Belmont & Co., which the Rothschilds made their permanent American agency. He chaired the Democratic National Committee from 1860 to 1872.",
+     "ids": [
+      "august-belmont-and-co",
+      "nm-rothschild"
+     ],
+     "kind": "power",
+     "basis": "documented",
+     "source": {
+      "label": "Britannica — August Belmont",
+      "url": "https://www.britannica.com/print/article/60004"
+     }
+    },
+    {
+     "year": 1838,
+     "title": "Peabody's London house",
+     "text": "Massachusetts-born George Peabody, in London from the late 1830s, set up as a merchant there in 1838 and became a banker selling American securities to British investors. Junius Spencer Morgan joined him as partner in 1854.",
+     "ids": [
+      "peabody-and-morgan"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Junius Spencer Morgan",
+      "url": "https://en.wikipedia.org/wiki/Junius_Spencer_Morgan"
+     }
+    },
+    {
+     "year": 1843,
+     "title": "Louisiana defaults",
+     "text": "Louisiana withdrew its guarantee of the planters' bank bonds in 1843, and Barings reported more than $750,000 unpaid. In historians' reading, European investors bore the losses of a bubble built on mortgaged people.",
+     "ids": [
+      "baring-brothers",
+      "citizens-bank-louisiana"
+     ],
+     "kind": "money",
+     "basis": "interpretive",
+     "source": {
+      "label": "64 Parishes — Consolidated Association of the Planters of Louisiana",
+      "url": "https://64parishes.org/?p=60337"
+     },
+     "amount": "$750,000+ unpaid"
+    },
+    {
+     "year": 1863,
+     "title": "The Erlanger cotton loan",
+     "text": "The Paris bank Emile Erlanger & Co. arranged a c. £3 million Confederate loan in bonds convertible into cotton, negotiated with Confederate envoy John Slidell. The bonds swung with the South's military fortunes and were never repaid.",
+     "ids": [
+      "erlanger-loan-1863"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Britannica — Erlanger Loan",
+      "url": "https://www.britannica.com/event/Erlanger-Loan"
+     },
+     "amount": "c. £3m (c. $14.5m)"
+    },
+    {
+     "year": 1864,
+     "title": "J.S. Morgan & Co.",
+     "text": "On Peabody's retirement in 1864 the firm became J.S. Morgan & Co., the London anchor of the Morgan houses that produced J.P. Morgan & Co. in New York and, in 1910, Morgan Grenfell in London.",
+     "ids": [
+      "peabody-and-morgan",
+      "jpmorgan-chase"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "AIM25 / LMA — Morgan Grenfell and Company",
+      "url": "https://atom.aim25.com/index.php/morgan-grenfell-and-company"
+     }
+    },
+    {
+     "year": 1995,
+     "title": "Successors today",
+     "text": "Erlanger's London firm merged with Philip Hill, Higginson (1958), became part of Hill Samuel (1965), which TSB bought in 1987 and which passed to Lloyds TSB in 1995, now Lloyds Banking Group. Barings collapsed in 1995, and its name lives on in an asset manager owned by MassMutual; J.P. Morgan is part of JPMorgan Chase, which apologised in 2005 for its Louisiana predecessors.",
+     "ids": [
+      "lloyds-banking-group",
+      "erlanger-loan-1863",
+      "baring-brothers",
+      "jpmorgan-chase"
+     ],
+     "kind": "money",
+     "basis": "documented",
+     "source": {
+      "label": "Wikipedia — Emile Erlanger & Co.",
+      "url": "https://en.wikipedia.org/wiki/Emile_Erlanger_%26_Co."
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -208,6 +208,31 @@ mark{background:var(--accent-soft);color:inherit;border-radius:1px;padding:0 1px
 .ev .ppl button:hover{color:var(--accent)}
 .ev .ppl .d{width:6px;height:6px;border-radius:50%}
 .ev .src{font:500 9.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;margin-top:6px;display:inline-block;text-decoration:none}
+.trails{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));max-width:1120px;margin:0 auto;border-top:1px solid var(--line);border-left:1px solid var(--line)}
+.trail{border-right:1px solid var(--line);border-bottom:1px solid var(--line);padding:18px;cursor:pointer;text-align:left;background:none;border-top:0;border-left:0;color:inherit;font:inherit}
+.trail:hover,.trail[aria-pressed="true"]{background:var(--bg2)}
+.trail .rg{font:500 9.5px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
+.trail h4{margin:6px 0 4px;font:400 19px/1.25 var(--serif)}
+.trail p{margin:0;font-size:12.5px;color:var(--text2)}
+.trail .span{display:block;margin-top:8px;font:500 10px var(--mono);letter-spacing:.08em;color:var(--muted)}
+.flow{max-width:1120px;margin:30px auto 0;position:relative;padding-left:118px}
+.flow::before{content:"";position:absolute;left:96px;top:6px;bottom:6px;width:2px;background:linear-gradient(var(--accent),var(--c-co))}
+.step{position:relative;padding:0 0 26px}
+.step .yr{position:absolute;left:-118px;width:84px;text-align:right;font:500 15px var(--mono);color:var(--accent);top:1px}
+.step::before{content:"";position:absolute;left:-27px;top:6px;width:12px;height:12px;border-radius:50%;background:var(--bg);border:2px solid var(--accent)}
+.step.k-money::before{background:var(--accent)}
+.step.k-law::before{border-radius:2px}
+.step .kd{font:500 9px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.step h4{margin:2px 0 4px;font:400 20px/1.25 var(--serif)}
+.step p{margin:0;color:var(--text2);font-size:14px;max-width:760px}
+.step .amt{display:inline-block;margin-top:6px;font:500 11px var(--mono);color:var(--text);border:1px solid var(--line2);border-radius:2px;padding:1px 7px}
+.step .ppl{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:8px}
+.step .ppl button{background:none;border:0;padding:0;font:400 13.5px var(--serif);color:var(--text);display:inline-flex;align-items:center;gap:6px;border-bottom:1px solid var(--line2)}
+.step .ppl button:hover{color:var(--accent);border-color:var(--accent)}
+.step .ppl .d{width:6px;height:6px;border-radius:50%}
+.step .src{font:500 9.5px var(--mono);letter-spacing:.08em;text-transform:uppercase;text-decoration:none;margin-top:6px;display:inline-block}
+.step .basis{float:none;margin:0 0 0 8px;vertical-align:middle}
+.step.end h4::after{content:" · today";font:500 10px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--c-co)}
 .nums{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:28px 40px;max-width:1120px;margin:0 auto 10px}
 .hero{display:flex;gap:40px;flex-wrap:wrap;max-width:1120px;margin:0 auto 26px}
 .hero div{min-width:0}
@@ -342,6 +367,7 @@ ol.steps li b,ul.bul li b{color:var(--text);font-weight:600}
   .dhead h2{font-size:29px}
   .gridhead h2{font-size:26px}
   .ev{grid-template-columns:1fr}
+  .flow{padding-left:26px}.flow::before{left:6px}.step .yr{position:static;display:block;text-align:left;width:auto}.step::before{left:-25px}
   .bar{grid-template-columns:110px 1fr 64px}
   .atlas-bar{left:10px;right:10px;top:10px;max-width:none}
   .atlas-key{left:10px;right:58px;bottom:16px;max-width:none}
@@ -364,6 +390,7 @@ ol.steps li b,ul.bul li b{color:var(--text);font-weight:600}
         <button data-view="map" aria-pressed="true" title="Network graph of families, companies, states and places">Web</button>
         <button data-view="grid" aria-pressed="false">Directory</button>
         <button data-view="chron" aria-pressed="false" title="Dated events from 1492 to today">Chronology</button>
+        <button data-view="money" aria-pressed="false" title="Follow the money from 1415 to today's banks, crowns and families">Money Trail</button>
         <button data-view="overlaps" aria-pressed="false">Overlaps</button>
         <button data-view="atlas" aria-pressed="false" title="Geographic map of players, ports and the triangle routes">Map</button>
       </nav>
@@ -501,7 +528,7 @@ const DASHED = ['political','legacy','charter'], DOTTED = ['parallel','family'];
 const ENTITY_COLOR = 'var(--edge-strong)';
 const isCo = n => n?._kind==='profile' && n.category==='Companies & Banks';
 
-const state = {cat:'all', role:'all', nation:'all', era:'all', q:'', view:'map', layout:'force', openId:null, overlap:false};
+const state = {trail:null, cat:'all', role:'all', nation:'all', era:'all', q:'', view:'map', layout:'force', openId:null, overlap:false};
 let DATA;
 
 /* =====================================================================
@@ -548,7 +575,8 @@ function normalize(raw){
     ...nbNames(p.id)].join(' ').toLowerCase(); });
   entities.forEach(e=>{ e._hay=[e.name,e.kind,e.description,...(e.placesNamed||[]),...nbNames(e.id)].join(' ').toLowerCase(); });
   const nations=[...new Set(profiles.map(p=>p.nation).filter(Boolean))].sort();
-  return {profiles, entities, links, byId, events, evBy, nations};
+  const trails=(raw.trails||[]).map(t=>({...t, steps:(t.steps||[]).map(st=>({...st, ids:(st.ids||[]).filter(id=>byId[id])})).sort((a,b)=>a.year-b.year)}));
+  return {profiles, entities, links, byId, events, evBy, nations, trails};
 }
 /* Overlaps: two players overlap when they reach the same hub (an entity, or a company/bank) through real
    (non-"parallel") links within OVL_HOPS steps. Paths never pass THROUGH a law/charter/legacy record or a very large hub. */
@@ -756,7 +784,7 @@ function bindUI(){
 }
 function refresh(){
   renderChips();
-  ({map:renderMap, overlaps:renderOverlaps, atlas:renderAtlas, chron:renderChron, grid:renderGrid})[state.view]();
+  ({map:renderMap, overlaps:renderOverlaps, atlas:renderAtlas, chron:renderChron, grid:renderGrid, money:renderMoney})[state.view]();
 }
 
 /* =====================================================================
@@ -1007,6 +1035,30 @@ function renderChron(){
         <h4>${hl(ev.title)}</h4><p>${hl(ev.text||'')}</p>${ev.ids.length?`<div class="ppl">${ppl(ev)}</div>`:''}
         ${ev.source?.url?`<a class="src" href="${esc(ev.source.url)}" target="_blank" rel="noopener">${esc(ev.source.label||'Source')} ↗</a>`:''}</div></div>`).join('')}</div>`; }).join('') || '<p class="empty-sec">No events match these filters.</p>'}
     ${numbersHTML()}
+    <p class="foot">${esc(META.disclaimer)}</p>`;
+}
+
+/* =====================================================================
+   MONEY TRAIL: curated chains from the 1400s to institutions that exist today
+   ===================================================================== */
+const KIND = {money:'Money', power:'Power', law:'Law', people:'People'};
+function renderMoney(){
+  const t=terms(), hay=tr=>[tr.title,tr.summary,tr.region,...tr.steps.map(s=>[s.title,s.text,...s.ids.map(id=>DATA.byId[id].name)].join(' '))].join(' ').toLowerCase();
+  const list=DATA.trails.filter(tr=>!t.length||t.every(w=>hay(tr).includes(w)));
+  const cur=DATA.trails.find(x=>x.id===state.trail);
+  const chip=id=>{ const n=DATA.byId[id]; return `<button data-open="${esc(id)}"><span class="d" style="background:${colorOf(n)}"></span>${esc(n.name)}</button>`; };
+  const flow=tr=>`<div class="flow">${tr.steps.map((s,i)=>`<div class="step k-${esc(s.kind||'money')}${i===tr.steps.length-1?' end':''}"><span class="yr">${esc(s.year)}</span>
+      <span class="kd">${esc(KIND[s.kind]||'Money')}</span>${s.basis&&s.basis!=='documented'?`<span class="basis interpretive" title="${BASIS_TIP.interpretive}">Interp.</span>`:''}
+      <h4>${hl(s.title)}</h4><p>${hl(s.text||'')}</p>${s.amount?`<span class="amt">${esc(s.amount)}</span>`:''}
+      ${s.ids.length?`<div class="ppl">${s.ids.map(chip).join('')}</div>`:''}
+      ${s.source?.url?`<a class="src" href="${esc(s.source.url)}" target="_blank" rel="noopener">${esc(s.source.label||'Source')} ↗</a>`:''}</div>`).join('')}</div>`;
+  document.getElementById('grid').innerHTML = `
+    <div class="gridhead"><h2>${cur?esc(cur.title):'Follow the Money'}</h2><span class="meta">${cur?`${cur.steps.length} steps · ${cur.steps[0]?.year}–${cur.steps[cur.steps.length-1]?.year}`:`${DATA.trails.length} trails · 1415 to today`}</span></div>
+    ${cur?`<p class="lede">${esc(cur.summary||'')} <a href="#/money" style="font:500 10px var(--mono);letter-spacing:.12em;text-transform:uppercase">← All trails</a></p>${flow(cur)}
+      <h3 class="subh">Other trails</h3>`
+    :`<p class="lede">How money and power moved from one hand to the next: from the Iberian crowns and Florentine bankers of the 1400s, through the chartered companies, slave ships and plantation loans, to banks, insurers, crowns and families that still exist. Each step links to its dossiers and cites a source; steps marked Interp. are historians’ readings of cause and effect.</p>`}
+    <div class="trails">${list.filter(tr=>tr!==cur).map(tr=>`<a class="trail" href="#/money/${esc(tr.id)}" style="text-decoration:none"><span class="rg">${esc(tr.region||'')}</span><h4>${hl(tr.title)}</h4><p>${hl(tr.summary||'')}</p>
+      <span class="span">${tr.steps[0]?.year}–${tr.steps[tr.steps.length-1]?.year} · ${tr.steps.length} steps · ends at ${esc((tr.steps[tr.steps.length-1]?.ids||[]).map(id=>DATA.byId[id].name).slice(0,2).join(', ')||tr.steps[tr.steps.length-1]?.title||'')}</span></a>`).join('')||'<p class="empty-sec">No trails match this search.</p>'}</div>
     <p class="foot">${esc(META.disclaimer)}</p>`;
 }
 
@@ -1297,8 +1349,8 @@ function setView(v){
   document.getElementById('grid').scrollTop=0;
   refresh();
 }
-const VIEW_HASH = {map:'web', atlas:'map', grid:'directory', overlaps:'overlaps', chron:'chronology'};
-const HASH_VIEW = {web:'map', map:'atlas', directory:'grid', grid:'grid', overlaps:'overlaps', chronology:'chron', timeline:'chron'};
+const VIEW_HASH = {map:'web', atlas:'map', grid:'directory', overlaps:'overlaps', chron:'chronology', money:'money'};
+const HASH_VIEW = {web:'map', map:'atlas', directory:'grid', grid:'grid', overlaps:'overlaps', chronology:'chron', timeline:'chron', money:'money'};
 const hashOf = v => VIEW_HASH[v] || v;
 const viewOfHash = () => HASH_VIEW[location.hash.replace(/^#\/?/,'').split('/')[0]] || null;
 function route(){
@@ -1311,6 +1363,7 @@ function route(){
     state.layout=b; G.pos.clear(); document.querySelectorAll('#layoutSeg button').forEach(x=>x.setAttribute('aria-pressed',x.dataset.layout===b));
     if(state.view==='map'){ renderMap(); return; }
   }
+  if(v==='money'){ const t=b&&DATA.trails.find(x=>x.id===b); state.trail=t?t.id:null; if(state.view==='money'){ renderMoney(); document.getElementById('grid').scrollTop=0; return; } }
   if(v==='atlas' && ['players','routes'].includes(b) && b!==ATLAS.layer){ ATLAS.layer=b; if(state.view==='atlas'){ drawAtlas(false); return; } }
   if(v && v!==state.view) setView(v);
 }

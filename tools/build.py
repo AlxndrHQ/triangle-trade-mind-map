@@ -56,7 +56,17 @@ print('isolated', [r['id'] for r in records if deg[r['id']] == 0])
 if missing:
     print('dropped links to unknown ids:', dict(missing.most_common(60)))
 
-data = {'records': records, 'events': ev2}
+trails = []
+tp = os.path.join(src, 'trails.json')
+if os.path.exists(tp):
+    trails = json.load(open(tp)).get('trails', [])
+    for t in trails:
+        for st in t.get('steps', []):
+            bad = [i for i in st.get('ids', []) if i not in ids]
+            if bad: print('trail', t['id'], 'drops unknown ids', bad)
+            st['ids'] = [i for i in st.get('ids', []) if i in ids]
+    print(len(trails), 'money trails')
+data = {'records': records, 'events': ev2, 'trails': trails}
 os.makedirs(out, exist_ok=True)
 json.dump(data, open(os.path.join(out, 'data.json'), 'w'), ensure_ascii=False, indent=1)
 tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'template.html')).read()

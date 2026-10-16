@@ -11,6 +11,7 @@ An interactive mind map and set of dossiers on the people, families, states and 
 | **Web** (`#/web`) | A force-directed network of players (circles) and places/institutions (boxes). The **Timeline** layout (`#/web/timeline`) lays everything out left to right from 1492 to today. |
 | **Directory** (`#/directory`) | Dossier cards in eight groups: European families; African states & families; American families; companies & banks; crowns & explorers; enslaved & free Black lives; Arab, Saharan & Indian Ocean traders; and enforcers & aftermath. |
 | **Chronology** (`#/chronology`) | Dated events from 1492 to today, each linked to its players and a source, plus SlaveVoyages estimates "by the numbers". |
+| **Money Trail** (`#/money`) | Eleven step-by-step chains that follow money and power from Ceuta (1415) and the Florentine bankers to today's banks, insurers, crowns and families, e.g. Liverpool slavers → Barclays/HSBC, Louisiana banks → JPMorgan Chase, the 1835 compensation → taxpayers until 2015. Source data: `research/trails.json`. |
 | **Overlaps** (`#/overlaps`) | Companies, ports, forts and institutions shared by two or more players, and the direct ties that cross the triangle. |
 | **Map** (`#/map`) | Players pinned to their bases. The **Triangle Routes** layer (`#/map/routes`) draws the three legs and the direct Brazil–Africa trade. |
 

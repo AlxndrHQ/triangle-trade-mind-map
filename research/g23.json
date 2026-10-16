@@ -1,0 +1,175 @@
+{
+ "records": [
+  {
+   "id": "sulgrave-manor",
+   "name": "Sulgrave Manor (Northamptonshire)",
+   "type": "entity",
+   "kind": "Legacy / museum",
+   "description": "Tudor manor house built c. 1539–60 by Lawrence Washington, a Northampton wool merchant and mayor who bought the manor from the Crown in 1539 after the dissolution of the monasteries. In 1610 it passed by sale to his grandson Lawrence Makepeace, whose family sold it in 1659. Lawrence's descendant John Washington emigrated to Virginia in 1656–57 and founded the line that produced George Washington. Bought in 1914 to mark Anglo-American peace and opened as a museum in 1921, it is run today by the Sulgrave Manor Trust.",
+   "start": 1539,
+   "geo": [
+    52.106,
+    -1.186
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "family",
+     "label": "ancestral home of the Washingtons"
+    },
+    {
+     "id": "mount-vernon",
+     "type": "parallel",
+     "label": "English and Virginian family seats"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historic England — Sulgrave Manor (list entry 1001040)",
+     "url": "https://historicengland.org.uk/listing/the-list/list-entry/1001040"
+    },
+    {
+     "label": "Wikipedia — Sulgrave Manor",
+     "url": "https://en.wikipedia.org/wiki/Sulgrave_Manor"
+    }
+   ]
+  },
+  {
+   "id": "erlanger-loan-1863",
+   "name": "Erlanger cotton loan (1863)",
+   "type": "entity",
+   "kind": "Loan / bond issue",
+   "description": "Confederate loan of c. £3 million arranged in 1863 by the Paris bank Emile Erlanger & Co., negotiated with Confederate commissioner John Slidell, and sold in London, Paris, Amsterdam and Frankfurt as bonds convertible into cotton. Sales flagged as Confederate military fortunes fell, and the bonds were never repaid. Erlanger's London firm later merged with Philip Hill, Higginson (1958) and became part of Hill Samuel (1965), which TSB bought in 1987 and which passed to Lloyds TSB in 1995.",
+   "start": 1863,
+   "connections": [
+    {
+     "id": "lloyds-banking-group",
+     "type": "legacy",
+     "label": "Erlanger → Philip Hill, Higginson, Erlangers → Hill Samuel → TSB → Lloyds TSB"
+    },
+    {
+     "id": "lehman-brothers",
+     "type": "parallel",
+     "label": "Confederate-era cotton finance"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "cotton as collateral"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Erlanger Loan",
+     "url": "https://www.britannica.com/event/Erlanger-Loan"
+    },
+    {
+     "label": "Wikipedia — Emile Erlanger & Co.",
+     "url": "https://en.wikipedia.org/wiki/Emile_Erlanger_%26_Co."
+    }
+   ]
+  },
+  {
+   "id": "august-belmont-and-co",
+   "name": "August Belmont & Co. (Rothschild agency, New York)",
+   "type": "entity",
+   "kind": "Bank / insurer",
+   "description": "New York banking house founded in 1837 by August Belmont, a Rothschild employee who arrived during the Panic of 1837 on his way to Cuba and stayed to restore the Rothschilds' American business in loans, foreign exchange and securities; the Rothschilds made him their permanent US agent. Belmont chaired the Democratic National Committee from 1860 to 1872.",
+   "start": 1837,
+   "geo": [
+    40.706,
+    -74.009
+   ],
+   "connections": [
+    {
+     "id": "nm-rothschild",
+     "type": "finance",
+     "label": "American agent of the Rothschilds"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — August Belmont",
+     "url": "https://www.britannica.com/print/article/60004"
+    },
+    {
+     "label": "Wikipedia — August Belmont",
+     "url": "https://en.wikipedia.org/wiki/August_Belmont"
+    }
+   ]
+  },
+  {
+   "id": "peabody-and-morgan",
+   "name": "George Peabody & Co. / J.S. Morgan & Co. (London)",
+   "type": "entity",
+   "kind": "Bank / insurer",
+   "description": "London merchant bank founded by the Massachusetts-born George Peabody, who set up as a merchant in London in 1838 and sold American securities to British investors (styled George Peabody & Co. from 1852). Junius Spencer Morgan joined as a partner in 1854 and renamed it J.S. Morgan & Co. on Peabody's retirement in 1864; it was the forerunner of J.P. Morgan & Co. and Morgan Grenfell (1910).",
+   "start": 1838,
+   "geo": [
+    51.514,
+    -0.087
+   ],
+   "connections": [
+    {
+     "id": "jpmorgan-chase",
+     "type": "legacy",
+     "label": "Morgan lineage"
+    },
+    {
+     "id": "baring-brothers",
+     "type": "parallel",
+     "label": "rival Anglo-American house"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Junius Spencer Morgan",
+     "url": "https://en.wikipedia.org/wiki/Junius_Spencer_Morgan"
+    },
+    {
+     "label": "AIM25 / LMA — Morgan Grenfell and Company",
+     "url": "https://atom.aim25.com/index.php/morgan-grenfell-and-company"
+    }
+   ]
+  },
+  {
+   "id": "brown-shipley",
+   "name": "Brown Shipley (William Brown & Co., Liverpool)",
+   "type": "entity",
+   "kind": "Bank / insurer",
+   "description": "Founded in Liverpool in 1810 by William Brown, son of the Baltimore merchant Alexander Brown, to handle the family's transatlantic trade; it grew on slave-grown American cotton, at times handling a very large share of US cotton exports. Joseph Shipley became a partner in 1825 and the firm was renamed Brown, Shipley & Co. in 1837; it opened a London office in 1863 and closed Liverpool in 1888. It is today a private bank owned by Quintet Private Bank (formerly KBL), which acquired it in 1992.",
+   "start": 1810,
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "connections": [
+    {
+     "id": "brown-brothers-harriman",
+     "type": "ownership",
+     "label": "sister house of the Brown family"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "cotton imports"
+    }
+   ],
+   "sources": [
+    {
+     "label": "National Museums Liverpool — William Brown Street (slavery histories)",
+     "url": "https://liverpoolmuseums.org.uk/slavery-histories/william-brown-street"
+    },
+    {
+     "label": "AIM25 / LMA — Brown, Shipley and Company Limited",
+     "url": "https://atom.aim25.com/index.php/brown-shipley-and-company-limited"
+    },
+    {
+     "label": "Wikipedia — Brown Shipley",
+     "url": "https://en.wikipedia.org/wiki/Brown_Shipley"
+    }
+   ]
+  }
+ ],
+ "events": []
+}

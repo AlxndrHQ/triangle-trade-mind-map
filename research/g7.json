@@ -69,8 +69,8 @@
      "url": "https://www.riversdale.org/the-workforce"
     },
     {
-     "label": "UMD Libraries — The 1856 Project releases inaugural research report",
-     "url": "https://www.lib.umd.edu/node/1350"
+     "label": "UMD DRUM — The 1856 Project, 'Reconstructing the Truth' (2024)",
+     "url": "https://drum.lib.umd.edu/items/e047e5ac-08a8-48db-9d8b-f7625799cc69"
     },
     {
      "label": "Humanities DC — Adam Francis Plummer",
@@ -91,6 +91,14 @@
     {
      "label": "Wikipedia — Benedict Swingate Calvert",
      "url": "https://en.wikipedia.org/wiki/Benedict_Swingate_Calvert"
+    },
+    {
+     "label": "Heritage Newfoundland & Labrador — Sir George Calvert and the Colony of Avalon",
+     "url": "https://www.heritage.nf.ca/articles/exploration/calvert-avalon-colony.php"
+    },
+    {
+     "label": "Catholic Encyclopedia (New Advent) — George Calvert",
+     "url": "https://www.newadvent.org/cathen/03192a.htm"
     }
    ],
    "connections": [
@@ -126,6 +134,13 @@
      "relation": "founder",
      "years": "1579–1632",
      "note": "Secretary of State to James I who sought the Maryland charter; died weeks before it was sealed.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Calvert's conversion and resignation (1625)",
+     "relation": "founder — turning point",
+     "years": "1620–1632",
+     "note": "Calvert bought land in Newfoundland (Avalon) in 1620. In early 1625 he declared himself a Roman Catholic and resigned as Secretary of State (selling the office), though James I kept him on the Privy Council and made him Baron Baltimore. Barred from office, he sought a colonial refuge for himself and fellow Catholics: he visited Avalon in 1627, lived there in 1628–29, found it too harsh, and petitioned Charles I for Chesapeake land, granted as Maryland to his son Cecil in 1632.",
      "basis": "documented"
     },
     {
@@ -198,7 +213,7 @@
      "name": "Charles Benedict Calvert",
      "relation": "grandson",
      "years": "1808–1864",
-     "note": "Riversdale planter and slave trader who founded the Maryland Agricultural College (now the University of Maryland) in 1856; enslaved 52 people in 1860.",
+     "note": "Riversdale planter and enslaver who founded the Maryland Agricultural College (now the University of Maryland) in 1856; enslaved 52 people in 1860.",
      "id": "charles-benedict-calvert",
      "basis": "documented"
     }
@@ -521,7 +536,7 @@
    "aliases": [
     "Washington family"
    ],
-   "origins": "Washington inherited ten enslaved people at age eleven on his father's death in 1743, and later Mount Vernon from his half-brother Lawrence's estate. His 1759 marriage to the widow Martha Dandridge Custis brought control of the Custis 'dower' enslaved people.",
+   "origins": "Washington inherited ten enslaved people at age eleven on his father's death in 1743, and later Mount Vernon from his half-brother Lawrence's estate. His 1759 marriage to the widow Martha Dandridge Custis brought control of the Custis 'dower' enslaved people. The family were Northamptonshire gentry: Lawrence Washington, a Northampton wool merchant, bought Sulgrave Manor from the Crown in 1539 (it passed out of the Washington name in 1610); his descendant John Washington, son of a royalist clergyman ejected by Parliament in 1643, reached Virginia in 1656–57 and founded the Westmoreland County planter line.",
    "role_summary": "Washington built Mount Vernon (8,000 acres) into a tobacco, then wheat, milling, fishing and distilling enterprise worked by enslaved people. He bought and occasionally sold people — in 1766 he shipped Tom, a foreman he called a 'Rogue & Runaway', to St. Kitts in exchange for rum, molasses and other goods — and as president signed the 1793 Fugitive Slave Act.",
    "roleDetail": [
     {
@@ -577,6 +592,26 @@
     {
      "label": "Mount Vernon — The Growth of Mount Vernon's Enslaved Community",
      "url": "https://www.mountvernon.org/george-washington/slavery/the-growth-of-mount-vernons-enslaved-community/"
+    },
+    {
+     "label": "National Park Service — John Washington",
+     "url": "https://www.nps.gov/people/john-washington.htm"
+    },
+    {
+     "label": "NPS Historical Handbook 26 — George Washington Birthplace (family history)",
+     "url": "https://www.npshistory.com/handbooks/historical/26/hh26c.htm"
+    },
+    {
+     "label": "Essex Record Office — Burial of a presidential ancestor (Rev. Lawrence Washington)",
+     "url": "https://www.essexrecordofficeblog.co.uk/document-of-the-month-december-2016-burial-of-a-presidential-ancestor/"
+    },
+    {
+     "label": "Historic England — Sulgrave Manor (list entry 1001040)",
+     "url": "https://historicengland.org.uk/listing/the-list/list-entry/1001040"
+    },
+    {
+     "label": "NPS — Lawrence Washington (1659–1698)",
+     "url": "https://www.nps.gov/gewa/learn/historyculture/lawrence-washington.htm"
     }
    ],
    "connections": [
@@ -613,10 +648,39 @@
    ],
    "lineage": [
     {
+     "name": "Lawrence Washington of Sulgrave",
+     "relation": "ancestor (5× great-grandfather)",
+     "years": "c. 1500–1584",
+     "note": "Wool merchant and mayor of Northampton (1532, again 1545) who bought Sulgrave Manor from the Crown in 1539 after the dissolution of the monasteries and built the house. In 1610 his descendants sold it to his grandson Lawrence Makepeace, whose family sold it in 1659. Sulgrave Manor is now a museum of the Washingtons' English roots.",
+     "id": "sulgrave-manor",
+     "basis": "documented"
+    },
+    {
+     "name": "Rev. Lawrence Washington of Purleigh",
+     "relation": "great-great-grandfather",
+     "years": "1602–1653",
+     "note": "Oxford-educated Church of England rector of Purleigh, Essex, from 1632–33. In 1643 Parliament sequestered his living as one of the 'scandalous, malignant' clergy, on a charge of drunkenness that is usually seen as cover for his royalist leanings. He was an Anglican royalist, not a Catholic; he died poor and was buried at All Saints, Maldon, in January 1653.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Washington (the emigrant)",
+     "relation": "great-grandfather",
+     "years": "c. 1631–1677",
+     "note": "The rector's son sailed in 1656 as second mate of the ketch Sea Horse of London; after it grounded in the Potomac in early 1657 he stayed in Westmoreland County, Virginia, married Anne Pope and received a 700-acre plantation from her father. He became a burgess and militia colonel, and his household held English servants and enslaved Africans bought from Caribbean traders, per the NPS.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lawrence Washington (grandfather)",
+     "relation": "grandfather",
+     "years": "1659–1698",
+     "note": "Eldest son of John and Anne; Westmoreland justice, sheriff and burgess; married Mildred Warner, daughter of Augustine Warner Jr. of Gloucester County, whose first name passed to their son Augustine.",
+     "basis": "documented"
+    },
+    {
      "name": "Augustine Washington",
      "relation": "father",
      "years": "1694–1743",
-     "note": "Planter whose will left eleven-year-old George ten enslaved people and Ferry Farm.",
+     "note": "Son of Lawrence and Mildred; Virginia planter and ironworks partner whose will left eleven-year-old George ten enslaved people and Ferry Farm.",
      "basis": "documented"
     },
     {
