@@ -66,6 +66,18 @@
     {
      "label": "Wikipedia — Sultanate of Zanzibar",
      "url": "https://en.wikipedia.org/wiki/Sultanate_of_Zanzibar"
+    },
+    {
+     "label": "Wikipedia — Haitham bin Tariq",
+     "url": "https://en.wikipedia.org/wiki/Haitham_bin_Tariq"
+    },
+    {
+     "label": "Wikipedia — Jamshid bin Abdullah",
+     "url": "https://en.wikipedia.org/wiki/Jamshid_bin_Abdullah"
+    },
+    {
+     "label": "Wikipedia — Zanzibar Revolution",
+     "url": "https://en.wikipedia.org/wiki/Zanzibar_Revolution"
     }
    ],
    "connections": [
@@ -104,7 +116,84 @@
      "type": "political",
      "label": "signatory"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Ahmad bin Said al-Busaidi",
+     "relation": "founder",
+     "years": "1694–1783",
+     "note": "Expelled the Persians and founded the dynasty c.1749.",
+     "id": "ahmad-bin-said-al-busaidi",
+     "basis": "documented"
+    },
+    {
+     "name": "Sultan bin Ahmad",
+     "relation": "ruler",
+     "years": "r. 1792–1804",
+     "note": "Father of Sayyid Saʿīd.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sayyid Saʿīd bin Sultan",
+     "relation": "ruler",
+     "years": "r. 1804–1856",
+     "note": "Moved the court to Zanzibar and built the clove-and-slave economy.",
+     "id": "sayyid-said-bin-sultan",
+     "basis": "documented"
+    },
+    {
+     "name": "Thuwaini bin Said",
+     "relation": "son (Oman line)",
+     "years": "r. 1856–1866",
+     "note": "Took Muscat and Oman when the realm split.",
+     "basis": "documented"
+    },
+    {
+     "name": "Majid bin Said",
+     "relation": "son (Zanzibar line)",
+     "years": "r. 1856–1870",
+     "note": "First Sultan of Zanzibar.",
+     "id": "majid-bin-said",
+     "basis": "documented"
+    },
+    {
+     "name": "Barghash bin Said",
+     "relation": "son",
+     "years": "r. 1870–1888",
+     "note": "Closed the Zanzibar slave market under the 1873 treaty.",
+     "id": "barghash-bin-said",
+     "basis": "documented"
+    },
+    {
+     "name": "Khalifa II bin Harub",
+     "relation": "Zanzibar sultan",
+     "years": "r. 1911–1960",
+     "note": "Longest-reigning Sultan of Zanzibar, under British protection.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jamshid bin Abdullah",
+     "relation": "last Sultan of Zanzibar",
+     "years": "1929–2024",
+     "note": "Overthrown in the 1964 revolution; died in December 2024.",
+     "basis": "documented"
+    },
+    {
+     "name": "Qaboos bin Said",
+     "relation": "Sultan of Oman",
+     "years": "r. 1970–2020",
+     "note": "Modernised Oman; Oman's abolition of slavery dates from 1970.",
+     "basis": "documented"
+    },
+    {
+     "name": "Haitham bin Tariq",
+     "relation": "Sultan of Oman",
+     "years": "since 2020",
+     "note": "Present ruler, 15th of the Al Bu Said dynasty.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Al Bu Said dynasty still rules Oman: Sultan Haitham bin Tariq, cousin of the late Sultan Qaboos, succeeded in 2020. The Zanzibar line ended with the 1964 revolution, and its last sultan, Jamshid bin Abdullah, died on 30 December 2024. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "sayyid-said-bin-sultan",
@@ -171,6 +260,10 @@
     {
      "label": "Oxford Research Encyclopedia of African History — The 19th Century Slave Trade in Eastern Africa",
      "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-598"
+    },
+    {
+     "label": "Wikipedia — Emily Ruete",
+     "url": "https://en.wikipedia.org/wiki/Emily_Ruete"
     }
    ],
    "connections": [
@@ -209,7 +302,62 @@
      "type": "family",
      "label": "son"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Sultan bin Ahmad",
+     "relation": "father",
+     "years": "r. 1792–1804",
+     "note": "Died on an expedition to Basra, leaving young sons under a regent.",
+     "basis": "documented"
+    },
+    {
+     "name": "Aisha bint Sultan",
+     "relation": "sister and regent",
+     "years": "1806",
+     "note": "Took the regency for her younger brother and commanded troops.",
+     "basis": "documented"
+    },
+    {
+     "name": "Shivji Topan and Jairam Shivji",
+     "relation": "bankers and customs farmers",
+     "years": "1819–1866",
+     "note": "Kutchi merchants who farmed his customs and lent him money.",
+     "id": "jairam-sewji",
+     "basis": "documented"
+    },
+    {
+     "name": "Thuwaini bin Said",
+     "relation": "son",
+     "years": "1821–1866",
+     "note": "Inherited Oman.",
+     "basis": "documented"
+    },
+    {
+     "name": "Majid bin Said",
+     "relation": "son",
+     "years": "c.1834–1870",
+     "note": "Inherited Zanzibar.",
+     "id": "majid-bin-said",
+     "basis": "documented"
+    },
+    {
+     "name": "Barghash bin Said",
+     "relation": "son",
+     "years": "c.1836–1888",
+     "note": "Later Sultan of Zanzibar.",
+     "id": "barghash-bin-said",
+     "basis": "documented"
+    },
+    {
+     "name": "Salme bint Said (Emily Ruete)",
+     "relation": "daughter",
+     "years": "1844–1924",
+     "note": "Eloped with a German merchant and wrote 'Memoirs of an Arabian Princess from Zanzibar', a key source on the enslaved household of the palace.",
+     "basis": "documented"
+    }
+   ],
+   "today": "His descendants include the present Omani royal family through the Muscat line (Sultan Haitham bin Tariq). The Zanzibar line ended with the 1964 revolution. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "barghash-bin-said",
@@ -275,6 +423,10 @@
     {
      "label": "The National Archives (UK) — The last slave market: Dr John Kirk and the struggle to end the African slave trade",
      "url": "https://media.nationalarchives.gov.uk/index.php/the-last-slave-market-dr-john-kirk-and-the-struggle-to-end-the-african-slave-trade/"
+    },
+    {
+     "label": "Wikipedia — Ali bin Said of Zanzibar",
+     "url": "https://en.wikipedia.org/wiki/Ali_bin_Said_of_Zanzibar"
     }
    ],
    "connections": [
@@ -308,7 +460,57 @@
      "type": "finance",
      "label": "customs chief from 1876"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Sayyid Saʿīd bin Sultan",
+     "relation": "father",
+     "years": "1791–1856",
+     "note": "Founder of the Zanzibar slave-and-clove economy.",
+     "id": "sayyid-said-bin-sultan",
+     "basis": "documented"
+    },
+    {
+     "name": "Majid bin Said",
+     "relation": "brother and predecessor",
+     "years": "r. 1856–1870",
+     "note": "Barghash tried to overthrow him in 1859 and was exiled to Bombay.",
+     "id": "majid-bin-said",
+     "basis": "documented"
+    },
+    {
+     "name": "Tharia Topan",
+     "relation": "customs farmer and adviser",
+     "years": "1876–1880s",
+     "note": "Took over the customs contract under Barghash.",
+     "id": "tharia-topan",
+     "basis": "documented"
+    },
+    {
+     "name": "John Kirk",
+     "relation": "British consul",
+     "years": "1866–1887",
+     "note": "Pressed him to sign the 1873 treaty.",
+     "id": "john-kirk",
+     "basis": "documented"
+    },
+    {
+     "name": "Tippu Tip",
+     "relation": "agent in the interior",
+     "years": "1880s",
+     "note": "Claimed eastern Congo for him in 1884–87.",
+     "id": "tippu-tip",
+     "basis": "documented"
+    },
+    {
+     "name": "Ali bin Said",
+     "relation": "brother and later successor",
+     "years": "r. 1890–1893",
+     "note": "Accepted the British protectorate in 1890.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Barghash's House of Wonders (Beit al-Ajaib) still stands in Stone Town, and Christ Church Cathedral occupies the site of the slave market he closed. The Zanzibar sultanate he ruled ended in 1964. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "tippu-tip",
@@ -375,6 +577,14 @@
     {
      "label": "Oxford Research Encyclopedia of African History — The 19th Century Slave Trade in Eastern Africa",
      "url": "https://oxfordre.com/africanhistory/display/10.1093/acrefore/9780190277734.001.0001/acrefore-9780190277734-e-598"
+    },
+    {
+     "label": "Wikipedia — Sefu bin Hamid",
+     "url": "https://en.wikipedia.org/wiki/Sefu_bin_Hamid"
+    },
+    {
+     "label": "Wikipedia — Congo Arab war",
+     "url": "https://en.wikipedia.org/wiki/Congo_Arab_war"
     }
    ],
    "connections": [
@@ -408,7 +618,63 @@
      "type": "political",
      "label": "target of 1890 act"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Muhammad bin Juma",
+     "relation": "father",
+     "years": "19th century",
+     "note": "Arab-Swahili caravan trader with ties to Tabora, whose caravans Tippu Tip joined as a young man.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Bint Habib bin Bushir",
+     "relation": "mother",
+     "years": "19th century",
+     "note": "Daughter of a prosperous Muscat family of the Wardi clan.",
+     "basis": "documented"
+    },
+    {
+     "name": "Tharia Topan",
+     "relation": "financier",
+     "years": "1860s–1880s",
+     "note": "Zanzibar merchant who advanced goods for his expeditions.",
+     "id": "tharia-topan",
+     "basis": "documented"
+    },
+    {
+     "name": "Barghash bin Said",
+     "relation": "sovereign",
+     "years": "r. 1870–1888",
+     "note": "Tippu Tip claimed eastern Congo for him in 1884–87.",
+     "id": "barghash-bin-said",
+     "basis": "documented"
+    },
+    {
+     "name": "David Livingstone",
+     "relation": "explorer he assisted",
+     "years": "1867",
+     "note": "Met and helped Livingstone in the interior.",
+     "id": "david-livingstone",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Morton Stanley",
+     "relation": "partner",
+     "years": "1876–1889",
+     "note": "Escorted Stanley down the Lualaba and in 1887 accepted Stanley's offer of the governorship of Stanley Falls for Leopold's Congo Free State.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sefu bin Hamid",
+     "relation": "son",
+     "years": "1850–1893",
+     "note": "Fought the Congo Free State and was killed in the Congo Arab war.",
+     "id": "sefu-bin-hamid",
+     "basis": "documented"
+    }
+   ],
+   "today": "Tippu Tip's Swahili autobiography is a classic source, and a house associated with him survives in Stone Town, Zanzibar. No publicly documented descendants have been traced. His career is also cited critically for how Leopold's Congo used 'Arab slave trade' rhetoric to justify its own conquest."
   },
   {
    "id": "jairam-sewji",
@@ -504,7 +770,54 @@
      "type": "finance",
      "label": "Indian credit to caravans"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Shivji Topan",
+     "relation": "father",
+     "years": "fl. 1785–1830s",
+     "note": "Muscat merchant who won the Zanzibar customs contract in 1819.",
+     "basis": "documented"
+    },
+    {
+     "name": "Madhavji Topan",
+     "relation": "uncle",
+     "years": "early 19th century",
+     "note": "Partner in the family firm where Jairam trained.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sayyid Saʿīd bin Sultan",
+     "relation": "patron",
+     "years": "1819–1856",
+     "note": "Drew funds from the firm and kept renewing its customs farm.",
+     "id": "sayyid-said-bin-sultan",
+     "basis": "documented"
+    },
+    {
+     "name": "Ladha Damji",
+     "relation": "agent and successor manager",
+     "years": "1850s–1870s",
+     "note": "Ran the firm's Zanzibar customs house.",
+     "basis": "documented"
+    },
+    {
+     "name": "Tharia Topan",
+     "relation": "employee turned rival",
+     "years": "1840s–1876",
+     "note": "Headed the firm's credit department before winning the customs farm himself in 1876.",
+     "id": "tharia-topan",
+     "basis": "documented"
+    },
+    {
+     "name": "Swali family",
+     "relation": "descendants",
+     "years": "after 1866",
+     "note": "His family adopted the surname Swali; a street in Mundra is called Swali Sheri.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Jairam Shivji died in 1866 and the firm lost the customs farm in 1876. His family, which took the surname Swali, is remembered in a street name in Mundra, Kutch; no private living individuals are named here, and they carry no guilt for his financing of the trade."
   },
   {
    "id": "tharia-topan",
@@ -583,7 +896,41 @@
      "type": "finance",
      "label": "Zanzibar customs"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jairam Shivji's firm",
+     "relation": "employer",
+     "years": "1840s",
+     "note": "He rose to head of its credit department.",
+     "id": "jairam-sewji",
+     "basis": "documented"
+    },
+    {
+     "name": "Barghash bin Said",
+     "relation": "patron",
+     "years": "1870s–1880s",
+     "note": "Gave him the customs contract and trusted him as adviser.",
+     "id": "barghash-bin-said",
+     "basis": "documented"
+    },
+    {
+     "name": "Tippu Tip",
+     "relation": "client",
+     "years": "1860s–1880s",
+     "note": "Received trade goods on credit from Topan for his caravans.",
+     "id": "tippu-tip",
+     "basis": "documented"
+    },
+    {
+     "name": "His widows",
+     "relation": "heirs",
+     "years": "1891–1893",
+     "note": "Continued building his charitable hospital (the Old Dispensary) after his death.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Old Dispensary he commissioned in Stone Town in 1887 still stands. He helped settle Khoja Ismaili migrants in East Africa, a community still prominent in the region. No private living individuals are named here."
   },
   {
    "id": "swahili-coast-merchants",
@@ -645,6 +992,10 @@
     {
      "label": "UNESCO World Heritage Centre — Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
      "url": "https://whc.unesco.org/en/list/144/"
+    },
+    {
+     "label": "Wikipedia — Kilwa Sultanate",
+     "url": "https://en.wikipedia.org/wiki/Kilwa_Sultanate"
     }
    ],
    "connections": [
@@ -673,7 +1024,32 @@
      "type": "political",
      "label": "under Omani suzerainty"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Ali ibn al-Hassan Shirazi",
+     "relation": "legendary founder of Kilwa",
+     "years": "10th century",
+     "note": "Persian-descended prince said to have founded the Kilwa Sultanate.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Kilwa sultans",
+     "relation": "successors",
+     "years": "10th–16th centuries",
+     "note": "Controlled the gold trade from Sofala until the Portuguese sack of 1505.",
+     "basis": "documented"
+    },
+    {
+     "name": "Busaidi sultans",
+     "relation": "later overlords",
+     "years": "18th–19th centuries",
+     "note": "Omani rulers who took control of the coast and its slave trade.",
+     "id": "busaidi-dynasty",
+     "basis": "documented"
+    }
+   ],
+   "today": "Swahili language and urban culture are the lasting legacy of these merchant towns; the ruins of Kilwa Kisiwani are a UNESCO World Heritage Site. No individual descendants are named here."
   },
   {
    "id": "mahe-de-la-bourdonnais",
@@ -731,6 +1107,14 @@
     {
      "label": "Wikipedia — Indian Ocean slave trade",
      "url": "https://en.wikipedia.org/wiki/Indian_Ocean_slave_trade"
+    },
+    {
+     "label": "Wikipedia — Bertrand-François Mahé de La Bourdonnais",
+     "url": "https://en.wikipedia.org/wiki/Bertrand-Fran%C3%A7ois_Mah%C3%A9_de_La_Bourdonnais"
+    },
+    {
+     "label": "Wikipedia — Louis-Charles Mahé de La Bourdonnais",
+     "url": "https://en.wikipedia.org/wiki/Louis-Charles_Mah%C3%A9_de_La_Bourdonnais"
     }
    ],
    "connections": [
@@ -755,7 +1139,39 @@
      "label": "bought captives from Mozambique"
     }
    ],
-   "aliases": []
+   "aliases": [],
+   "lineage": [
+    {
+     "name": "Compagnie des Indes",
+     "relation": "employer",
+     "years": "1718–1746",
+     "note": "Appointed him governor of Île de France and Bourbon in 1735.",
+     "id": "compagnie-des-indes",
+     "basis": "documented"
+    },
+    {
+     "name": "Joseph-François Dupleix",
+     "relation": "rival",
+     "years": "1746",
+     "note": "French governor in India whose quarrel with him led to his imprisonment in the Bastille.",
+     "basis": "documented"
+    },
+    {
+     "name": "His daughter (Mme de Montlezun-Pardiac)",
+     "relation": "daughter",
+     "years": "late 18th century",
+     "note": "Lived on Île de France and was granted a pension by the National Assembly in 1798.",
+     "basis": "documented"
+    },
+    {
+     "name": "Louis-Charles Mahé de La Bourdonnais",
+     "relation": "grandson",
+     "years": "1795–1840",
+     "note": "Chess master, possibly the strongest player of his time.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Mahébourg in Mauritius and Mahé island in the Seychelles carry his name, and his statue stands in Port Louis, though Mauritian debates over slavery memory increasingly question that tribute. His grandson Louis-Charles became a famous chess master; no living descendants are named here."
   },
   {
    "id": "moulay-ismail",
@@ -821,6 +1237,14 @@
     {
      "label": "Wikipedia — Ismail Ibn Sharif",
      "url": "https://en.wikipedia.org/wiki/Ismail_Ibn_Sharif"
+    },
+    {
+     "label": "Wikipedia — Alawi dynasty",
+     "url": "https://en.wikipedia.org/wiki/Alawi_dynasty"
+    },
+    {
+     "label": "Wikipedia — Mohammed VI of Morocco",
+     "url": "https://en.wikipedia.org/wiki/Mohammed_VI_of_Morocco"
     }
    ],
    "connections": [
@@ -844,7 +1268,59 @@
      "type": "parallel",
      "label": "Sahelian military slavery"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Moulay Sharif",
+     "relation": "father",
+     "years": "d. 1659",
+     "note": "Emir of Tafilalt and first sovereign of the ʿAlawī dynasty.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mubarka",
+     "relation": "mother",
+     "years": "d. 1668",
+     "note": "Described by the historian Ibn Zaydan as an enslaved Black woman of the Mghafra.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Moulay Rashid",
+     "relation": "half-brother and predecessor",
+     "years": "r. 1664–1672",
+     "note": "Unified Morocco before Ismail took over.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lalla Aisha Mubarka and Khnata bint Bakkar",
+     "relation": "wives",
+     "years": "1670s–1727",
+     "note": "Powerful wives who shaped court politics and succession.",
+     "basis": "documented"
+    },
+    {
+     "name": "Moulay Ahmad",
+     "relation": "son and successor",
+     "years": "r. 1727–1729",
+     "note": "Succeeded him amid civil war.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sidi Mohammed ben Abdallah",
+     "relation": "grandson",
+     "years": "r. 1757–1790",
+     "note": "Sultan who rebuilt the state after the succession wars.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mohammed VI",
+     "relation": "descendant",
+     "years": "King since 1999",
+     "note": "Present king of the ʿAlawī dynasty.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The ʿAlawī dynasty still reigns in Morocco; King Mohammed VI has ruled since 1999. Moulay Ismail's imperial city of Meknès is a UNESCO World Heritage Site. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "sokoto-caliphate",
@@ -911,6 +1387,14 @@
     {
      "label": "Wikipedia — Sokoto Caliphate",
      "url": "https://en.wikipedia.org/wiki/Sokoto_Caliphate"
+    },
+    {
+     "label": "Wikipedia — List of sultans of Sokoto",
+     "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_Sokoto"
+    },
+    {
+     "label": "Wikipedia — Nana Asmaʾu",
+     "url": "https://en.wikipedia.org/wiki/Nana_Asma%CA%BCu"
     }
    ],
    "connections": [
@@ -949,7 +1433,46 @@
      "type": "trade",
      "label": "captives via Lagos"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Usman dan Fodio",
+     "relation": "founder",
+     "years": "1754–1817",
+     "note": "Scholar whose jihad (1804–08) created the caliphate.",
+     "id": "usman-dan-fodio",
+     "basis": "documented"
+    },
+    {
+     "name": "Abdullahi dan Fodio",
+     "relation": "brother",
+     "years": "d. 1829",
+     "note": "Vizier and ruler of the western half from Gwandu.",
+     "basis": "documented"
+    },
+    {
+     "name": "Muhammad Bello",
+     "relation": "son and first sultan",
+     "years": "r. 1817–1837",
+     "note": "Built the caliphate's administration.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nana Asmaʾu",
+     "relation": "daughter",
+     "years": "1793–1864",
+     "note": "Poet, teacher and scholar, still revered in northern Nigeria.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sa'adu Abubakar",
+     "relation": "successor",
+     "years": "Sultan since 2006",
+     "note": "Present Sultan of Sokoto.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Sultan of Sokoto, now Sa'adu Abubakar (since 2006), remains the spiritual leader of Nigeria's Muslims and heads the Sokoto Sultanate Council. Slavery in Northern Nigeria was formally ended only in 1936. Descendants of the dan Fodio family carry no guilt for the caliphate's slave raiding."
   },
   {
    "id": "bornu-al-kanemi",
@@ -1012,6 +1535,10 @@
     {
      "label": "Wikipedia — Trans-Saharan slave trade (survey of estimates)",
      "url": "https://en.wikipedia.org/wiki/Trans-Saharan_slave_trade"
+    },
+    {
+     "label": "Wikipedia — Abubakar ibn Umar Garba el-Kanemi",
+     "url": "https://en.wikipedia.org/wiki/Abubakar_ibn_Umar_Garba_el-Kanemi"
     }
    ],
    "connections": [
@@ -1035,7 +1562,54 @@
      "type": "political",
      "label": "conquered by Rabih 1893"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Sayfawa dynasty",
+     "relation": "predecessors",
+     "years": "to 1846",
+     "note": "Ancient royal house of Kanem-Bornu; mai Dunama IX rewarded al-Kanemi with power.",
+     "basis": "documented"
+    },
+    {
+     "name": "Muhammad al-Amin al-Kanemi",
+     "relation": "founder of the shehu line",
+     "years": "1776–1837",
+     "note": "Scholar-warrior who defeated the Fulani jihadists.",
+     "id": "muhammad-al-amin-al-kanemi",
+     "basis": "documented"
+    },
+    {
+     "name": "Umar ibn Muhammad al-Amin",
+     "relation": "son",
+     "years": "shehu 1837–1881",
+     "note": "Ended Sayfawa rule in 1846.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Rabih az-Zubayr",
+     "relation": "conqueror",
+     "years": "1893–1900",
+     "note": "Destroyed Kukawa and displaced the dynasty.",
+     "id": "rabih-az-zubayr",
+     "basis": "documented"
+    },
+    {
+     "name": "Abubakar Garbai",
+     "relation": "restored shehu",
+     "years": "1900–1922",
+     "note": "Restored under colonial rule.",
+     "basis": "documented"
+    },
+    {
+     "name": "Abubakar Ibn Umar Garbai El-Kanemi",
+     "relation": "descendant",
+     "years": "Shehu since 2009",
+     "note": "Present Shehu of Borno, grandson of Abubakar Garbai.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The al-Kanemi line still provides the Shehu of Borno: Abubakar Ibn Umar Garbai El-Kanemi has held the title since 2009, much of his tenure overshadowed by the Boko Haram insurgency. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "fezzan-murzuq-traders",
@@ -1092,6 +1666,10 @@
     {
      "label": "Wikipedia — Trans-Saharan slave trade",
      "url": "https://en.wikipedia.org/wiki/Trans-Saharan_slave_trade"
+    },
+    {
+     "label": "Wikipedia — Karamanli dynasty",
+     "url": "https://en.wikipedia.org/wiki/Karamanli_dynasty"
     }
    ],
    "connections": [
@@ -1110,7 +1688,33 @@
      "type": "trade",
      "label": "delivered to Tripoli"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Awlad Muhammad dynasty",
+     "relation": "founders",
+     "years": "16th century",
+     "note": "Made Murzuq their capital and the hub of the Bornu–Tripoli caravan trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Karamanli dynasty of Tripoli",
+     "relation": "overlords",
+     "years": "1711–1835",
+     "note": "Autonomous Ottoman rulers who at their height controlled Fezzan.",
+     "id": "barbary-regencies",
+     "basis": "documented"
+    },
+    {
+     "name": "Bornu",
+     "relation": "southern partner",
+     "years": "16th–19th centuries",
+     "note": "Main source of captives sent north through Murzuq.",
+     "id": "bornu-al-kanemi",
+     "basis": "documented"
+    }
+   ],
+   "today": "No individual descendants of the Fezzan rulers or merchants are named here. Black Libyan communities in Fezzan partly descend from people enslaved in this trade."
   },
   {
    "id": "muhammad-ali-egypt",
@@ -1168,6 +1772,14 @@
     {
      "label": "Wikipedia — Trans-Saharan slave trade (survey of estimates)",
      "url": "https://en.wikipedia.org/wiki/Trans-Saharan_slave_trade"
+    },
+    {
+     "label": "Wikipedia — Muhammad Ali dynasty",
+     "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_dynasty"
+    },
+    {
+     "label": "Wikipedia — Fuad II of Egypt",
+     "url": "https://en.wikipedia.org/wiki/Fuad_II_of_Egypt"
     }
    ],
    "connections": [
@@ -1186,7 +1798,40 @@
      "type": "trade",
      "label": "Darb al-Arbaʿin to Egypt"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Ibrahim Pasha",
+     "relation": "son",
+     "years": "1789–1848",
+     "note": "Commander of the armies his father built partly from enslaved Sudanese recruits.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isma'il Pasha",
+     "relation": "grandson",
+     "years": "Khedive 1863–1879",
+     "note": "Expanded Egypt in Sudan and gave the slave trader Zubayr a governorship.",
+     "id": "ismail-pasha-egypt",
+     "basis": "documented"
+    },
+    {
+     "name": "Zubayr Pasha",
+     "relation": "client",
+     "years": "1870s",
+     "note": "Sudanese slave trader made governor under Isma'il.",
+     "id": "zubayr-pasha",
+     "basis": "documented"
+    },
+    {
+     "name": "Fuad II",
+     "relation": "descendant",
+     "years": "b. 1952",
+     "note": "Last King of Egypt as an infant (1952–53) and the dynasty's titular head.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Muhammad Ali dynasty ruled Egypt until the monarchy was abolished in 1953; Fuad II, who reigned as an infant, is its senior living member. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "zubayr-pasha",
@@ -1266,7 +1911,40 @@
      "type": "trade",
      "label": "captives to Red Sea markets"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Isma'il Pasha",
+     "relation": "patron",
+     "years": "1873–1879",
+     "note": "Made him a pasha and governor of Bahr el Ghazal.",
+     "id": "ismail-pasha-egypt",
+     "basis": "documented"
+    },
+    {
+     "name": "Rabih az-Zubayr",
+     "relation": "lieutenant",
+     "years": "1860s–1879",
+     "note": "His former slave-soldier, who carried his methods west.",
+     "id": "rabih-az-zubayr",
+     "basis": "documented"
+    },
+    {
+     "name": "Suleiman",
+     "relation": "son",
+     "years": "c.1856–1879",
+     "note": "Led his father's forces against Gordon's administration and was executed in 1879.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Gordon",
+     "relation": "adversary",
+     "years": "1877–1885",
+     "note": "Fought his network, then in 1884 recommended him as his successor in Sudan.",
+     "basis": "documented"
+    }
+   ],
+   "today": "After detention in Cairo and Gibraltar, Zubayr returned to Sudan in 1899 and died on his estates at Geili, north of Khartoum, in 1913. No publicly documented descendants have been traced."
   },
   {
    "id": "rabih-az-zubayr",
@@ -1322,6 +2000,10 @@
     {
      "label": "Britannica — History of Chad",
      "url": "https://www.britannica.com/topic/history-of-Chad"
+    },
+    {
+     "label": "Wikipedia — Fadlallah bin Rabih",
+     "url": "https://en.wikipedia.org/wiki/Fadlallah_bin_Rabih"
     }
    ],
    "connections": [
@@ -1340,7 +2022,32 @@
      "type": "political",
      "label": "defeated by French 1900"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Zubayr Pasha",
+     "relation": "master and commander",
+     "years": "1860s–1879",
+     "note": "Rabih rose as a slave-soldier in Zubayr's army.",
+     "id": "zubayr-pasha",
+     "basis": "documented"
+    },
+    {
+     "name": "Suleiman",
+     "relation": "commander",
+     "years": "d. 1879",
+     "note": "Zubayr's son, whose defeat sent Rabih west with his men.",
+     "basis": "documented"
+    },
+    {
+     "name": "Fadlallah bin Rabih",
+     "relation": "son and successor",
+     "years": "1900–1901",
+     "note": "Ruled parts of Bornu after his father's death and was killed fighting France.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Rabih's state collapsed with Fadlallah's death in 1901, and the al-Kanemi shehus were restored. No publicly documented descendants have been traced."
   },
   {
    "id": "barbary-regencies",
@@ -1408,6 +2115,14 @@
     {
      "label": "Wikipedia — Barbary slave trade",
      "url": "https://en.wikipedia.org/wiki/Barbary_slave_trade"
+    },
+    {
+     "label": "Wikipedia — Hayreddin Barbarossa",
+     "url": "https://en.wikipedia.org/wiki/Hayreddin_Barbarossa"
+    },
+    {
+     "label": "Wikipedia — Husainid dynasty",
+     "url": "https://en.wikipedia.org/wiki/Husainid_dynasty"
     }
    ],
    "connections": [
@@ -1436,7 +2151,39 @@
      "type": "political",
      "label": "Dutch squadron at Algiers 1816"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Oruç Reis and Hayreddin Barbarossa",
+     "relation": "founders (Algiers)",
+     "years": "1510s–1546",
+     "note": "Corsair brothers who placed Algiers under the Ottomans.",
+     "basis": "documented"
+    },
+    {
+     "name": "Murat Reis",
+     "relation": "corsair admiral",
+     "years": "c.1570–after 1641",
+     "note": "Dutch convert who raided as far as Iceland and Ireland.",
+     "id": "murat-reis",
+     "basis": "documented"
+    },
+    {
+     "name": "Husainid dynasty (Tunis)",
+     "relation": "rulers",
+     "years": "1705–1957",
+     "note": "Beys of Tunis.",
+     "basis": "documented"
+    },
+    {
+     "name": "Karamanli dynasty (Tripoli)",
+     "relation": "rulers",
+     "years": "1711–1835",
+     "note": "Rulers of Tripoli who fought the United States in the Barbary Wars.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The corsair regencies ended with the French conquest of Algiers (1830) and Ottoman reassertion in Tripoli (1835); Tunisia's Husainid beys ruled until 1957. No individual descendants are named here."
   },
   {
    "id": "murat-reis",
@@ -1488,6 +2235,14 @@
     {
      "label": "Wikipedia — Murat Reis the Younger",
      "url": "https://en.wikipedia.org/wiki/Murat_Reis_the_Younger"
+    },
+    {
+     "label": "Wikipedia — Jan Janszoon",
+     "url": "https://en.wikipedia.org/wiki/Jan_Janszoon"
+    },
+    {
+     "label": "Wikipedia — Anthony Janszoon van Salee",
+     "url": "https://en.wikipedia.org/wiki/Anthony_Janszoon_van_Salee"
     }
    ],
    "connections": [
@@ -1501,7 +2256,38 @@
      "type": "parallel",
      "label": "Dutch origins"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Soutgen Gave",
+     "relation": "first wife",
+     "years": "married 1603",
+     "note": "Dutch wife in Haarlem.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lysbeth Janszoon",
+     "relation": "daughter",
+     "years": "b. 1603",
+     "note": "Visited her father in Morocco in 1640.",
+     "basis": "documented"
+    },
+    {
+     "name": "Second wife (Cartagena)",
+     "relation": "spouse",
+     "years": "1610s",
+     "note": "A woman of Morisco background whom he married after becoming a corsair.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Anthony Janszoon van Salee",
+     "relation": "son",
+     "years": "1607–1676",
+     "note": "Landholder and merchant in New Netherland, known as 'Anthony the Turk'.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Through his son Anthony Janszoon van Salee, genealogists trace many American families to Murat Reis; no living individuals are named here. Baltimore in Co. Cork commemorates the 1631 raid."
   },
   {
    "id": "thomas-pellow",
@@ -1550,6 +2336,10 @@
     {
      "label": "Ohio State University News — Research reveals massive extent of slavery between Muslims and Christians (Robert C. Davis)",
      "url": "https://news.osu.edu/research-reveals-massive-extent-of-slavery-between-muslims-christians-for-three-centuries/"
+    },
+    {
+     "label": "Wikipedia — Thomas Pellow",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Pellow"
     }
    ],
    "connections": [
@@ -1564,7 +2354,39 @@
      "label": "captured by Salé corsairs"
     }
    ],
-   "aliases": []
+   "aliases": [],
+   "lineage": [
+    {
+     "name": "Thomas Pellow and Elizabeth Lyttleton",
+     "relation": "parents",
+     "years": "early 18th century",
+     "note": "His family in Penryn, Cornwall, who barely recognised him on his return in 1738.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Pellow",
+     "relation": "uncle",
+     "years": "1716",
+     "note": "Captain of the ship on which he was captured.",
+     "basis": "documented"
+    },
+    {
+     "name": "Moulay Ismail",
+     "relation": "enslaver",
+     "years": "1716–1727",
+     "note": "Sultan whose household and army Pellow was forced to serve.",
+     "id": "moulay-ismail",
+     "basis": "documented"
+    },
+    {
+     "name": "Wife and daughter",
+     "relation": "family in Morocco",
+     "years": "1720s–1730s",
+     "note": "Given a wife by the sultan; both she and their daughter died while he was campaigning.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His narrative was republished in 1890 and popularised by Giles Milton's 'White Gold' (2004)."
   },
   {
    "id": "menelik-ii",
@@ -1618,6 +2440,14 @@
     {
      "label": "Wikipedia — Slavery in Ethiopia",
      "url": "https://en.wikipedia.org/wiki/Slavery_in_Ethiopia"
+    },
+    {
+     "label": "Wikipedia — Menelik II",
+     "url": "https://en.wikipedia.org/wiki/Menelik_II"
+    },
+    {
+     "label": "Wikipedia — Zera Yacob Amha Selassie",
+     "url": "https://en.wikipedia.org/wiki/Zera_Yacob_Amha_Selassie"
     }
    ],
    "connections": [
@@ -1632,7 +2462,59 @@
      "label": "Egyptian–Ethiopian rivalry"
     }
    ],
-   "aliases": []
+   "aliases": [],
+   "lineage": [
+    {
+     "name": "Sahle Selassie",
+     "relation": "grandfather",
+     "years": "1795–1847",
+     "note": "Negus of Shewa, who named him Menelik.",
+     "basis": "documented"
+    },
+    {
+     "name": "Haile Melekot",
+     "relation": "father",
+     "years": "1824–1855",
+     "note": "Negus of Shewa.",
+     "basis": "documented"
+    },
+    {
+     "name": "Tewodros II",
+     "relation": "captor and mentor",
+     "years": "1855–1865",
+     "note": "Held him prisoner at Magdala but, Menelik said, 'loved me like a son'.",
+     "basis": "documented"
+    },
+    {
+     "name": "Taytu Betul",
+     "relation": "wife",
+     "years": "1851–1918",
+     "note": "Empress and co-founder of Addis Ababa.",
+     "basis": "documented"
+    },
+    {
+     "name": "Zewditu",
+     "relation": "daughter",
+     "years": "1876–1930",
+     "note": "Empress in her own right from 1916.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lij Iyasu",
+     "relation": "grandson and heir",
+     "years": "1895–1935",
+     "note": "Designated emperor 1913–1916, never crowned.",
+     "basis": "documented"
+    },
+    {
+     "name": "Zera Yacob Amha Selassie",
+     "relation": "head of the imperial house",
+     "years": "since 1997",
+     "note": "Grandson of Haile Selassie; heads the exiled Solomonic house today.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Ethiopia's monarchy was abolished in 1974; the Imperial House is headed by Zera Yacob Amha Selassie, grandson of Haile Selassie (Menelik's successor), recognised by the Crown Council since 1997. Menelik is honoured for the 1896 victory at Adwa, while Oromo and other southern historians stress the conquest and enslavement that funded his state. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "john-kirk",
@@ -1685,6 +2567,10 @@
     {
      "label": "National Library of Scotland — Out of Africa: The Kirk Papers",
      "url": "https://digital.nls.uk/kirk/"
+    },
+    {
+     "label": "Wikipedia — John Kirk (explorer)",
+     "url": "https://en.wikipedia.org/wiki/John_Kirk_(explorer)"
     }
    ],
    "connections": [
@@ -1709,7 +2595,34 @@
      "label": "secured closure"
     }
    ],
-   "aliases": []
+   "aliases": [],
+   "lineage": [
+    {
+     "name": "David Livingstone",
+     "relation": "mentor and expedition leader",
+     "years": "1858–1863",
+     "note": "Kirk served as doctor and botanist on the Zambezi expedition.",
+     "id": "david-livingstone",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartle Frere",
+     "relation": "envoy",
+     "years": "1873",
+     "note": "His mission prepared the treaty Kirk persuaded Barghash to sign.",
+     "id": "frere-treaty-1873",
+     "basis": "documented"
+    },
+    {
+     "name": "Barghash bin Said",
+     "relation": "counterpart",
+     "years": "1870–1887",
+     "note": "Sultan with whom Kirk negotiated the closure of the slave market.",
+     "id": "barghash-bin-said",
+     "basis": "documented"
+    }
+   ],
+   "today": "Kirk's papers and photographs are held by the National Library of Scotland. No living descendants are named here."
   },
   {
    "id": "david-livingstone",
@@ -1767,6 +2680,14 @@
     {
      "label": "Smithsonian Libraries — David Livingstone and the Other Slave Trade, Part III",
      "url": "https://blog.library.si.edu/blog/2013/10/23/david-livingstone-and-the-other-slave-trade-part-iii-the-slaver-and-the-abolitionist/"
+    },
+    {
+     "label": "Wikipedia — David Livingstone",
+     "url": "https://en.wikipedia.org/wiki/David_Livingstone"
+    },
+    {
+     "label": "Wikipedia — Robert Moffat (missionary)",
+     "url": "https://en.wikipedia.org/wiki/Robert_Moffat_(missionary)"
     }
    ],
    "connections": [
@@ -1791,7 +2712,61 @@
      "label": "condemned Portuguese slaving"
     }
    ],
-   "aliases": []
+   "aliases": [],
+   "lineage": [
+    {
+     "name": "Neil and Agnes Livingstone",
+     "relation": "parents",
+     "years": "early 19th century",
+     "note": "Poor Blantyre family; his father was a Sunday-school teacher and tea seller.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Moffat",
+     "relation": "mentor and father-in-law",
+     "years": "1795–1883",
+     "note": "Missionary at Kuruman who drew Livingstone to Africa.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Moffat Livingstone",
+     "relation": "wife",
+     "years": "1821–1862",
+     "note": "Moffat's daughter; died on the Zambezi expedition.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Kirk",
+     "relation": "colleague",
+     "years": "1858–1863",
+     "note": "Zambezi expedition doctor, later consul in Zanzibar.",
+     "id": "john-kirk",
+     "basis": "documented"
+    },
+    {
+     "name": "Tippu Tip",
+     "relation": "trader he relied on",
+     "years": "1867",
+     "note": "Livingstone travelled with Arab-Swahili caravans in the interior.",
+     "id": "tippu-tip",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Morton Stanley",
+     "relation": "rescuer",
+     "years": "1871",
+     "note": "Found him at Ujiji in 1871.",
+     "basis": "documented"
+    },
+    {
+     "name": "Susi, Chuma and Jacob Wainwright",
+     "relation": "companions",
+     "years": "1873–1874",
+     "note": "African companions who carried his body to the coast.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Livingstone's birthplace at Blantyre, Scotland, is a museum, and the Zambian town of Livingstone keeps his name. His legacy is contested: an icon of Victorian anti-slavery, he was also used to justify colonial rule. No living descendants are named here."
   },
   {
    "id": "zanzibar-slave-market",

@@ -1,0 +1,1759 @@
+{
+ "records": [
+  {
+   "id": "osei-tutu-i",
+   "name": "Osei Tutu I, founder of Asante",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Asante",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Founder of the state whose wars later made it one of the Gold Coast's main suppliers of captives; numbers for his own reign are not documented.",
+   "start": 1680,
+   "end": 1717,
+   "lifespan": "c.1660–c.1717",
+   "base": "Kumasi, Ghana",
+   "geo": [
+    6.688,
+    -1.624
+   ],
+   "aliases": [
+    "Osei Kofi Tutu I"
+   ],
+   "origins": "Ruler of the small Kwaman state from about 1680, he worked with the priest Okomfo Anokye to unite the Akan states of the Kumasi area around the Golden Stool.",
+   "role_summary": "He led the Asante alliance that defeated its overlord Denkyira at Feyiase in 1701 and set up the institutions of the Asante Empire. His wars, and those of his successors, produced captives sold to Dutch and English traders on the coast.",
+   "roleDetail": [
+    {
+     "t": "Founder of Asante.",
+     "d": "Defeated Denkyira in 1701 and ruled as first Asantehene until about 1717.",
+     "basis": "documented"
+    },
+    {
+     "t": "War and the coast.",
+     "d": "Asante's expansion fed captives into the Gold Coast trade with the Dutch at Elmina and the English at Cape Coast.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Golden Stool he founded is still the symbol of Asante unity; his successor on it today is Otumfuo Osei Tutu II.",
+   "legacyDetail": [
+    {
+     "t": "Golden Stool.",
+     "d": "The stool remains the centre of Asante kingship in Kumasi.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Osei Kofi Tutu I",
+     "url": "https://en.wikipedia.org/wiki/Osei_Kofi_Tutu_I"
+    },
+    {
+     "label": "Wikipedia — Okomfo Anokye",
+     "url": "https://en.wikipedia.org/wiki/Okomfo_Anokye"
+    }
+   ],
+   "connections": [
+    {
+     "id": "asante-empire",
+     "type": "ownership",
+     "label": "founder of the Asante Empire"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "trade",
+     "label": "Asante war captives sold at the coast"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "trade",
+     "label": "Dutch trading partners"
+    },
+    {
+     "id": "osei-bonsu-of-asante",
+     "type": "family",
+     "label": "later Asantehene on his stool"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Okomfo Anokye",
+     "relation": "priest and ally",
+     "years": "c.1655–c.1717",
+     "note": "Chief priest credited with bringing down the Golden Stool and codifying Asante law.",
+     "basis": "documented"
+    },
+    {
+     "name": "Opoku Ware I",
+     "relation": "successor",
+     "years": "r. c.1720–1750",
+     "note": "Second Asantehene, who greatly expanded the empire.",
+     "basis": "documented"
+    },
+    {
+     "name": "Osei Bonsu",
+     "relation": "later successor",
+     "years": "r. 1804–1824",
+     "note": "Asantehene at the height of Asante power.",
+     "id": "osei-bonsu-of-asante",
+     "basis": "documented"
+    },
+    {
+     "name": "Otumfuo Osei Tutu II",
+     "relation": "successor",
+     "years": "since 1999",
+     "note": "Present Asantehene, who took the regnal name of the founder.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Asante kingdom survives within Ghana, and Otumfuo Nana Osei Tutu II, enstooled in 1999, holds the Golden Stool. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "akitoye-of-lagos",
+   "name": "Akitoye, Oba of Lagos",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "A Lagos ruler during the illegal-trade era; he signed the 1852 abolition treaty but let the trade continue, per his Wikipedia biography.",
+   "start": 1841,
+   "end": 1853,
+   "lifespan": "d. 1853 (Oba 1841–1845, 1851–1853)",
+   "base": "Lagos, Nigeria",
+   "geo": [
+    6.455,
+    3.394
+   ],
+   "aliases": [
+    "Akintoye (erroneous)"
+   ],
+   "origins": "A son of Oba Ologun Kutere, he became Oba of Lagos in 1841 but was overthrown by his nephew Kosoko in 1845 and fled to Badagry and Abeokuta.",
+   "role_summary": "In exile he allied with the anti-slavery cause to win British backing. Britain bombarded Lagos in 1851 and restored him; on 1 January 1852 he signed the treaty abolishing the slave trade, yet he allowed Madam Tinubu and others to keep trading captives covertly.",
+   "roleDetail": [
+    {
+     "t": "Restored by Britain.",
+     "d": "Reinstated after the 1851 Reduction of Lagos.",
+     "basis": "documented"
+    },
+    {
+     "t": "1852 treaty.",
+     "d": "Signed the Anglo-Lagos treaty outlawing the slave trade on 1 January 1852.",
+     "basis": "documented"
+    },
+    {
+     "t": "Tinubu's patron.",
+     "d": "Granted Madam Tinubu commercial privileges and land at today's Tinubu Square.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His son Dosunmu succeeded him, and his line kept the Lagos throne. The first Eyo procession is said to have been held for his funeral.",
+   "legacyDetail": [
+    {
+     "t": "Eyo festival.",
+     "d": "Lagos tradition holds that the first Eyo procession commemorated his death.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Akitoye",
+     "url": "https://en.wikipedia.org/wiki/Akitoye"
+    },
+    {
+     "label": "Wikipedia — Reduction of Lagos",
+     "url": "https://en.wikipedia.org/wiki/Reduction_of_Lagos"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kosoko-of-lagos",
+     "type": "political",
+     "label": "rival nephew"
+    },
+    {
+     "id": "madam-tinubu",
+     "type": "trade",
+     "label": "patron and ally"
+    },
+    {
+     "id": "lagos-treaty-1852",
+     "type": "political",
+     "label": "signed 1852 treaty"
+    },
+    {
+     "id": "port-lagos",
+     "type": "ownership",
+     "label": "Oba of Lagos"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Ologun Kutere",
+     "relation": "father",
+     "years": "Oba 1749–1775",
+     "note": "Founder of the dominant Lagos royal line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Osinlokun and Adele",
+     "relation": "brothers",
+     "years": "Obas in the early 19th century",
+     "note": "Brothers who reigned as Oba before him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Madam Tinubu",
+     "relation": "ally",
+     "years": "c.1810–1887",
+     "note": "Widow of his brother Adele and his political ally.",
+     "id": "madam-tinubu",
+     "basis": "documented"
+    },
+    {
+     "name": "Kosoko",
+     "relation": "nephew and rival",
+     "years": "d. 1872",
+     "note": "Overthrew him in 1845.",
+     "id": "kosoko-of-lagos",
+     "basis": "documented"
+    },
+    {
+     "name": "Dosunmu",
+     "relation": "son and successor",
+     "years": "Oba 1853–1885",
+     "note": "Ceded Lagos to Britain in 1861.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ibikunle Akitoye",
+     "relation": "grandson",
+     "years": "Oba 1925–1928",
+     "note": "Later Oba of Lagos from his line.",
+     "basis": "documented"
+    }
+   ],
+   "today": "His descendants through Dosunmu remain central to the Lagos royal house; the present Oba of Lagos is Rilwan Akiolu (since 2003). Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "william-dappa-pepple",
+   "name": "William Dappa Pepple I, King of Bonny",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "King of Bonny in the last decades of its slave exports and the shift to palm oil; volumes in his reign are not separately documented.",
+   "start": 1830,
+   "end": 1866,
+   "lifespan": "d. 1866 (r. 1830–1854, 1861–1866)",
+   "base": "Bonny, Nigeria",
+   "geo": [
+    4.451,
+    7.17
+   ],
+   "aliases": [
+    "King William Dappa Pepple"
+   ],
+   "origins": "A member of the Perekule (Pepple) royal house, he came to the throne of Bonny in 1830 when the port was still exporting captives.",
+   "role_summary": "He signed anti-slave-trade agreements with Britain under naval pressure while Bonny moved into palm oil. Rivalries between the royal trading houses led Britain to depose and exile him in 1854; he was restored in 1861 and ruled until his death in 1866.",
+   "roleDetail": [
+    {
+     "t": "King in transition.",
+     "d": "Reigned as Bonny moved from the slave trade to palm oil.",
+     "basis": "documented"
+    },
+    {
+     "t": "Exiled and restored.",
+     "d": "Deposed by the British in 1854 and restored in 1861 with the help of Chief Omoni Jack Brown.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His son George Oruigbiji Pepple succeeded him, and the Pepple house still provides Bonny's king.",
+   "legacyDetail": [
+    {
+     "t": "Dynasty continues.",
+     "d": "The present Amanyanabo, Edward Asimini William Dappa Pepple III, bears his name.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Kingdom of Bonny",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bonny"
+    },
+    {
+     "label": "Victorian Web — King William Dappa Pepple",
+     "url": "https://www.victorianweb.org/history/antislavery/pepple.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-bonny",
+     "type": "ownership",
+     "label": "King of Bonny"
+    },
+    {
+     "id": "port-bonny",
+     "type": "trade",
+     "label": "ruled the port"
+    },
+    {
+     "id": "jaja-of-opobo",
+     "type": "political",
+     "label": "Anna Pepple House chief under his successors"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool palm-oil traders"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Opubo the Great",
+     "relation": "father",
+     "years": "r. c.1792–1830",
+     "note": "Predecessor during Bonny's slave-trade peak.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "George Oruigbiji Pepple (Perekule VII)",
+     "relation": "son and heir",
+     "years": "1849–1888",
+     "note": "English-educated king from 1866.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Asimini William Dappa Pepple III",
+     "relation": "descendant",
+     "years": "Amanyanabo since 1996",
+     "note": "Present king of Grand Bonny.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Pepple dynasty still reigns in Grand Bonny under King Edward Asimini William Dappa Pepple III (Perekule XI). Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "eyo-honesty-ii",
+   "name": "Eyo Honesty II of Creek Town",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Leading Efik trader of Creek Town; Old Calabar kept exporting captives until about 1840, after which he traded palm oil.",
+   "start": 1835,
+   "end": 1858,
+   "lifespan": "c.1788–1858 (r. 1835–1858)",
+   "base": "Creek Town, Calabar, Nigeria",
+   "geo": [
+    5.045,
+    8.282
+   ],
+   "aliases": [
+    "Eyo Eyo Nsa"
+   ],
+   "origins": "Born Eyo Eyo Nsa into a prominent Efik trading family, son of Eyo Nsa ('Willy Honesty'), he said he began poor and built his wealth by trading with European ships.",
+   "role_summary": "As ruler of Creek Town from 1835 he was one of the richest traders in Old Calabar, active as slave exports ended around 1840 and palm oil took over. He invited Presbyterian missionaries (Hope Waddell's mission arrived in 1846) and worked to end twin-killing and the killing of slaves at funerals.",
+   "roleDetail": [
+    {
+     "t": "Trader-king.",
+     "d": "Built a fortune trading with European ships before and after abolition.",
+     "basis": "documented"
+    },
+    {
+     "t": "Mission patron.",
+     "d": "Helped invite the Presbyterian mission to Calabar in 1846.",
+     "basis": "documented"
+    },
+    {
+     "t": "Reforms.",
+     "d": "Opposed twin-killing and the sacrifice of enslaved people at funerals.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His son Eyo Honesty III succeeded him, and the Eyo house remains one of the Efik royal houses of Calabar.",
+   "legacyDetail": [
+    {
+     "t": "Creek Town.",
+     "d": "Creek Town remains a seat of the Eyo royal house.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Eyo Honesty II",
+     "url": "https://en.wikipedia.org/wiki/Eyo_Honesty_II"
+    },
+    {
+     "label": "Wikipedia — Timeline of Old Calabar history",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Old_Calabar_history"
+    }
+   ],
+   "connections": [
+    {
+     "id": "old-calabar-efik",
+     "type": "ownership",
+     "label": "ruler of Creek Town"
+    },
+    {
+     "id": "duke-ephraim",
+     "type": "political",
+     "label": "rival Duke Town house"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "traded with Liverpool ships"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Eyo Nsa ('Willy Honesty')",
+     "relation": "father",
+     "years": "18th century",
+     "note": "Prominent Efik trader of his day.",
+     "basis": "documented"
+    },
+    {
+     "name": "Esien Ekpe Oku (Iyamba I)",
+     "relation": "maternal grandfather",
+     "years": "18th century",
+     "note": "Through his mother, Princess Inyang Esien Ekpe.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eyo Honesty III",
+     "relation": "son and successor",
+     "years": "after 1858",
+     "note": "Eldest son, who succeeded him.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Eyo house remains one of the Efik royal houses of Creek Town and Calabar. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "adandozan-of-dahomey",
+   "name": "Adandozan, King of Dahomey",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Dahomey",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Dahomey's slave exports were depressed during his reign; he raided the Mahi for captives with little success.",
+   "start": 1797,
+   "end": 1818,
+   "lifespan": "d. 1861? (reigned 1797–1818)",
+   "base": "Abomey, Benin",
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "aliases": [],
+   "origins": "He succeeded his father Agonglo in 1797 while still young, under a regent until 1804.",
+   "role_summary": "He tried to revive slave exports by raiding the Mahi to the north and disrupting rival ports, sent embassies to Portugal (1804) and the British at Cape Coast, and later promoted agriculture. He quarrelled with Francisco Félix de Souza, who backed his brother Ghezo's coup in 1818.",
+   "roleDetail": [
+    {
+     "t": "Raids for captives.",
+     "d": "Raided the Mahi to supply the slave trade, largely without success.",
+     "basis": "documented"
+    },
+    {
+     "t": "Embassy to Portugal.",
+     "d": "Sent ambassadors to Portugal in 1804.",
+     "basis": "documented"
+    },
+    {
+     "t": "Overthrown 1818.",
+     "d": "Deposed by Ghezo with de Souza's help and erased from official king lists.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Ghezo and Glele painted him as a cruel usurper and removed him from official history. A 2018 conference at the University of Abomey-Calavi marked 'two hundred years of ostracism'.",
+   "legacyDetail": [
+    {
+     "t": "Rehabilitation.",
+     "d": "Beninese scholars have re-examined his reign.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Adandozan",
+     "url": "https://en.wikipedia.org/wiki/Adandozan"
+    },
+    {
+     "label": "Wikipedia — King of Dahomey",
+     "url": "https://en.wikipedia.org/wiki/King_of_Dahomey"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "king of Dahomey"
+    },
+    {
+     "id": "ghezo-of-dahomey",
+     "type": "family",
+     "label": "brother who deposed him"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "political",
+     "label": "imprisoned de Souza; overthrown with his help"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "slave port"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "embassy to Portugal 1804"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Agonglo",
+     "relation": "father",
+     "years": "r. 1789–1797",
+     "note": "King assassinated in 1797.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ghezo",
+     "relation": "brother and successor",
+     "years": "r. 1818–1858",
+     "note": "Deposed him in 1818.",
+     "id": "ghezo-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Francisco Félix de Souza",
+     "relation": "opponent",
+     "years": "1771?–1849",
+     "note": "Trader he imprisoned, who then helped overthrow him.",
+     "id": "francisco-felix-de-souza",
+     "basis": "documented"
+    }
+   ],
+   "today": "No individual descendants are named here. His name has been partly restored by Beninese historians; members of the royal lineages carry no guilt for the kingdom's slave trade."
+  },
+  {
+   "id": "behanzin-of-dahomey",
+   "name": "Béhanzin, King of Dahomey",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Dahomey",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Reigned after the Atlantic slave trade had largely ended; Dahomey still relied on war captives and enslaved labour at home.",
+   "start": 1890,
+   "end": 1894,
+   "lifespan": "c.1845–1906 (reigned 1890–1894)",
+   "base": "Abomey, Benin",
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "aliases": [
+    "Gbehanzin",
+    "Kondo"
+   ],
+   "origins": "Born Kondo, a son of King Glele, he took the throne in January 1890 after his father's death.",
+   "role_summary": "He led Dahomey against France in the Franco-Dahomean wars. French propaganda used the killing of captives at the Annual Customs to justify conquest. Defeated in 1894, he was exiled to Martinique and later Algeria.",
+   "roleDetail": [
+    {
+     "t": "Last independent king.",
+     "d": "Ruled 1890–1894 and resisted French conquest.",
+     "basis": "documented"
+    },
+    {
+     "t": "War captives.",
+     "d": "Dahomey's state still depended on captives and enslaved labour, which France used as propaganda.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He died in exile in 1906; his remains were later returned to Abomey. Royal objects taken by France are in the Musée du Quai Branly and at the centre of restitution debates.",
+   "legacyDetail": [
+    {
+     "t": "Restitution.",
+     "d": "His throne and statues taken in 1892 are central to Benin's restitution claims.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Béhanzin",
+     "url": "https://en.wikipedia.org/wiki/B%C3%A9hanzin"
+    },
+    {
+     "label": "Wikipedia — King of Dahomey",
+     "url": "https://en.wikipedia.org/wiki/King_of_Dahomey"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "last independent king"
+    },
+    {
+     "id": "glele-of-dahomey",
+     "type": "family",
+     "label": "son of Glele"
+    },
+    {
+     "id": "abomey-royal-palaces",
+     "type": "ownership",
+     "label": "royal palace"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "political",
+     "label": "conquered by France 1892–94"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Glele",
+     "relation": "father",
+     "years": "r. 1858–1889",
+     "note": "Previous king.",
+     "id": "glele-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Agoli-agbo",
+     "relation": "brother and successor",
+     "years": "r. 1894–1900",
+     "note": "Installed by the French.",
+     "basis": "documented"
+    },
+    {
+     "name": "Georges Collinet Béhanzin (Dada Dèwènondè Gbéhanzin)",
+     "relation": "descendant",
+     "years": "enthroned 2022",
+     "note": "Member of his line chosen as king of Dahomey in 2022.",
+     "basis": "documented"
+    }
+   ],
+   "today": "In February 2022 Georges Collinet Béhanzin was enthroned at Abomey as Dada Dèwènondè Gbéhanzin, chosen by agreement among the rival royal lineages. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "ahmad-bin-said-al-busaidi",
+   "name": "Ahmad bin Said al-Busaidi",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Oman / Zanzibar",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Founder of the dynasty that later built the Zanzibar slave economy; his own role in East African slaving is not quantified.",
+   "start": 1749,
+   "end": 1783,
+   "lifespan": "1694–1783",
+   "base": "Rustaq, Oman",
+   "geo": [
+    23.391,
+    57.424
+   ],
+   "aliases": [],
+   "origins": "A governor of Sohar during the Omani civil war, he led resistance to the Persian occupation and was elected imam about 1749.",
+   "role_summary": "He founded the Al Bu Said dynasty and restored Oman's position in the Gulf and Indian Ocean trade, including claims on the Swahili coast that his descendants turned into a slave-and-clove empire.",
+   "roleDetail": [
+    {
+     "t": "Founder.",
+     "d": "First Al Bu Said ruler, c.1749–1783.",
+     "basis": "documented"
+    },
+    {
+     "t": "Maritime power.",
+     "d": "Rebuilt Oman's trade and navy.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His dynasty still rules Oman.",
+   "legacyDetail": [
+    {
+     "t": "Al Bu Said today.",
+     "d": "Sultan Haitham bin Tariq (since 2020) is the fifteenth ruler of the dynasty.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Ahmad bin Said al-Busaidi",
+     "url": "https://en.wikipedia.org/wiki/Ahmad_bin_Said_al-Busaidi"
+    },
+    {
+     "label": "Wikipedia — Haitham bin Tariq",
+     "url": "https://en.wikipedia.org/wiki/Haitham_bin_Tariq"
+    }
+   ],
+   "connections": [
+    {
+     "id": "busaidi-dynasty",
+     "type": "ownership",
+     "label": "founder of the dynasty"
+    },
+    {
+     "id": "sayyid-said-bin-sultan",
+     "type": "family",
+     "label": "grandson"
+    },
+    {
+     "id": "swahili-coast-merchants",
+     "type": "political",
+     "label": "Omani claims on the Swahili coast"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Sultan bin Ahmad",
+     "relation": "son",
+     "years": "r. 1792–1804",
+     "note": "Ruled Oman and fathered Sayyid Saʿīd.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sayyid Saʿīd bin Sultan",
+     "relation": "grandson",
+     "years": "1791–1856",
+     "note": "Moved the court to Zanzibar.",
+     "id": "sayyid-said-bin-sultan",
+     "basis": "documented"
+    },
+    {
+     "name": "Haitham bin Tariq",
+     "relation": "descendant",
+     "years": "since 2020",
+     "note": "Present Sultan of Oman.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The dynasty he founded rules Oman today under Sultan Haitham bin Tariq. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "majid-bin-said",
+   "name": "Majid bin Said, first Sultan of Zanzibar",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Zanzibar",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ruled Zanzibar at the height of its slave market in the 1860s, when tens of thousands of captives a year passed through, per historians of the trade.",
+   "start": 1856,
+   "end": 1870,
+   "lifespan": "c.1834–1870",
+   "base": "Zanzibar Stone Town",
+   "geo": [
+    -6.162,
+    39.188
+   ],
+   "aliases": [
+    "Sayyid Majid"
+   ],
+   "origins": "A son of Sayyid Saʿīd, he took Zanzibar and the East African coast when his father's realm was divided in 1856.",
+   "role_summary": "His sultanate's revenue rested on the slave market, slave-worked clove plantations and customs on ivory and captives. He survived a coup attempt by his brother Barghash in 1859, accepted the 1861 Canning Award separating Zanzibar from Oman, and began building Dar es Salaam.",
+   "roleDetail": [
+    {
+     "t": "First sultan.",
+     "d": "Ruled Zanzibar 1856–1870 after the split with Oman.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave-market revenue.",
+     "d": "His treasury depended on taxes on the slave and ivory trades.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His brother Barghash succeeded him and was forced to close the slave market in 1873.",
+   "legacyDetail": [
+    {
+     "t": "Dar es Salaam.",
+     "d": "He began building the town that became Tanzania's largest city.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Majid bin Said",
+     "url": "https://en.wikipedia.org/wiki/Majid_bin_Said"
+    },
+    {
+     "label": "Wikipedia — Said bin Sultan",
+     "url": "https://en.wikipedia.org/wiki/Said_bin_Sultan"
+    }
+   ],
+   "connections": [
+    {
+     "id": "busaidi-dynasty",
+     "type": "family",
+     "label": "Busaidi sultan"
+    },
+    {
+     "id": "sayyid-said-bin-sultan",
+     "type": "family",
+     "label": "son and heir"
+    },
+    {
+     "id": "barghash-bin-said",
+     "type": "family",
+     "label": "brother and successor"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "ownership",
+     "label": "taxed the slave market"
+    },
+    {
+     "id": "jairam-sewji",
+     "type": "finance",
+     "label": "customs farmed by Jairam Shivji's firm"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Sayyid Saʿīd bin Sultan",
+     "relation": "father",
+     "years": "1791–1856",
+     "note": "Divided his realm between sons.",
+     "id": "sayyid-said-bin-sultan",
+     "basis": "documented"
+    },
+    {
+     "name": "Thuwaini bin Said",
+     "relation": "brother",
+     "years": "r. 1856–1866",
+     "note": "Ruled Oman.",
+     "basis": "documented"
+    },
+    {
+     "name": "Barghash bin Said",
+     "relation": "brother and successor",
+     "years": "r. 1870–1888",
+     "note": "Attempted a coup in 1859; succeeded in 1870.",
+     "id": "barghash-bin-said",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Zanzibar sultanate he founded ended in the 1964 revolution. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "sefu-bin-hamid",
+   "name": "Sefu bin Hamid",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Trader & Shipper",
+   "nation": "Zanzibar / eastern Congo",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Son and lieutenant of Tippu Tip who ran his father's slave-and-ivory network in the eastern Congo; numbers undocumented.",
+   "start": 1870,
+   "end": 1893,
+   "lifespan": "1850–1893",
+   "base": "Kasongo, eastern Congo",
+   "geo": [
+    -4.45,
+    26.667
+   ],
+   "aliases": [
+    "Sayf bin Hamed"
+   ],
+   "origins": "The son of Tippu Tip, he grew up in his father's trading world and took charge of his interests in the eastern Congo.",
+   "role_summary": "After Tippu Tip left the Congo, Sefu was one of the strongmen who held power there. In 1892 he attacked Belgian ivory traders, starting the Congo Arab war against the Congo Free State; he was killed in October 1893.",
+   "roleDetail": [
+    {
+     "t": "Heir in the Congo.",
+     "d": "Ran Tippu Tip's network from Kasongo.",
+     "basis": "documented"
+    },
+    {
+     "t": "Congo Arab war.",
+     "d": "His 1892 attack began the war in which he was killed in 1893.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His defeat ended Zanzibari power in the eastern Congo and opened it to Leopold's regime.",
+   "legacyDetail": [
+    {
+     "t": "Free State conquest.",
+     "d": "The war was used by Leopold's state to present its conquest as anti-slavery.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Sefu bin Hamid",
+     "url": "https://en.wikipedia.org/wiki/Sefu_bin_Hamid"
+    },
+    {
+     "label": "Wikipedia — Congo Arab war",
+     "url": "https://en.wikipedia.org/wiki/Congo_Arab_war"
+    }
+   ],
+   "connections": [
+    {
+     "id": "tippu-tip",
+     "type": "family",
+     "label": "son of Tippu Tip"
+    },
+    {
+     "id": "brussels-act-1890",
+     "type": "political",
+     "label": "anti-slavery rhetoric of the era"
+    },
+    {
+     "id": "zanzibar-slave-market",
+     "type": "trade",
+     "label": "Zanzibar network"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Tippu Tip",
+     "relation": "father",
+     "years": "c.1832–1905",
+     "note": "Leading Zanzibari slave and ivory trader.",
+     "id": "tippu-tip",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced."
+  },
+  {
+   "id": "usman-dan-fodio",
+   "name": "Usman dan Fodio",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Sokoto Caliphate (Hausaland)",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "His jihad founded the Sokoto Caliphate, which became one of the largest slave societies of the 19th century; jihad captives were also sold south to the coast.",
+   "start": 1804,
+   "end": 1817,
+   "lifespan": "1754–1817",
+   "base": "Sokoto, Nigeria",
+   "geo": [
+    13.062,
+    5.243
+   ],
+   "aliases": [
+    "Shehu Usman",
+    "ʿUthmān ibn Fūdī"
+   ],
+   "origins": "A Fulani Muslim scholar from Gobir, son of the scholar Muhammad Fodio, he preached from 1774 and built a reformist community at Degel.",
+   "role_summary": "He criticised the Hausa kings for enslaving Muslims, overtaxation and injustice, but the jihad he led from 1804 took many non-Muslim captives, and the caliphate came to depend on enslaved labour and raiding. He was proclaimed Commander of the Faithful and died at Sokoto in 1817.",
+   "roleDetail": [
+    {
+     "t": "Founder of Sokoto.",
+     "d": "Led the 1804–08 jihad that overthrew the Hausa kingdoms.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slavery and jihad.",
+     "d": "He condemned enslaving Muslims, yet the jihad and caliphate produced vast numbers of captives.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Scholar.",
+     "d": "Wrote widely, including 'Nur al-Ibad'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His tomb in Sokoto is a place of pilgrimage, and his descendants hold the sultanate.",
+   "legacyDetail": [
+    {
+     "t": "Sultanate today.",
+     "d": "The Sultan of Sokoto, Sa'adu Abubakar (since 2006), is his descendant and spiritual leader of Nigeria's Muslims.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Usman dan Fodio",
+     "url": "https://en.wikipedia.org/wiki/Usman_dan_Fodio"
+    },
+    {
+     "label": "Wikipedia — List of sultans of Sokoto",
+     "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_Sokoto"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sokoto-caliphate",
+     "type": "ownership",
+     "label": "founder"
+    },
+    {
+     "id": "bornu-al-kanemi",
+     "type": "political",
+     "label": "war with Bornu"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "political",
+     "label": "jihad spread to Ilorin"
+    },
+    {
+     "id": "male-revolt-1835",
+     "type": "legacy",
+     "label": "Hausa and Yoruba Muslim captives in Bahia"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Muhammad Fodio",
+     "relation": "father",
+     "years": "18th century",
+     "note": "Islamic scholar who taught him at Degel.",
+     "basis": "documented"
+    },
+    {
+     "name": "Abdullahi dan Fodio",
+     "relation": "brother",
+     "years": "d. 1829",
+     "note": "Scholar and vizier who ruled the western half of the caliphate.",
+     "basis": "documented"
+    },
+    {
+     "name": "Muhammad Bello",
+     "relation": "son and successor",
+     "years": "1781–1837",
+     "note": "First Sultan of Sokoto.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nana Asmaʾu",
+     "relation": "daughter",
+     "years": "1793–1864",
+     "note": "Poet and scholar.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sa'adu Abubakar",
+     "relation": "descendant",
+     "years": "since 2006",
+     "note": "Present Sultan of Sokoto.",
+     "basis": "documented"
+    }
+   ],
+   "today": "His descendants hold the Sokoto Sultanate; Sa'adu Abubakar has been Sultan since 2006. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "muhammad-al-amin-al-kanemi",
+   "name": "Muhammad al-Amin al-Kanemi",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Bornu",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Effective ruler of Bornu when it exported captives across the Sahara to Fezzan and Tripoli; numbers not documented for his rule.",
+   "start": 1809,
+   "end": 1837,
+   "lifespan": "1776–1837",
+   "base": "Kukawa, Bornu (Nigeria)",
+   "geo": [
+    12.924,
+    13.566
+   ],
+   "aliases": [
+    "Laminu"
+   ],
+   "origins": "An Islamic scholar who had studied in the Middle East, he returned to Bornu as Fulani jihadists attacked it around 1808.",
+   "role_summary": "He drove back the Fulani forces with a small band of students and mercenaries, and the Sayfawa mai Dunama IX rewarded him with power. He became Bornu's real ruler, founded Kukawa, and presided over a state that raided its southern neighbours and sold captives north across the Sahara.",
+   "roleDetail": [
+    {
+     "t": "Defender of Bornu.",
+     "d": "Repelled the Sokoto jihad from about 1808.",
+     "basis": "documented"
+    },
+    {
+     "t": "Saharan trade.",
+     "d": "His Bornu sent captives north via Murzuq to Tripoli.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His son Umar ended the Sayfawa line in 1846; the al-Kanemi shehus still rule Borno.",
+   "legacyDetail": [
+    {
+     "t": "Shehu today.",
+     "d": "Abubakar Ibn Umar Garbai El-Kanemi has been Shehu since 2009.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Muhammad al-Amin al-Kanemi",
+     "url": "https://en.wikipedia.org/wiki/Muhammad_al-Amin_al-Kanemi"
+    },
+    {
+     "label": "Wikipedia — Abubakar ibn Umar Garba el-Kanemi",
+     "url": "https://en.wikipedia.org/wiki/Abubakar_ibn_Umar_Garba_el-Kanemi"
+    }
+   ],
+   "connections": [
+    {
+     "id": "bornu-al-kanemi",
+     "type": "ownership",
+     "label": "founder of the shehu line"
+    },
+    {
+     "id": "sokoto-caliphate",
+     "type": "political",
+     "label": "fought the jihad"
+    },
+    {
+     "id": "fezzan-murzuq-traders",
+     "type": "trade",
+     "label": "trans-Saharan partners"
+    },
+    {
+     "id": "trans-saharan-caravan-routes",
+     "type": "trade",
+     "label": "caravan exports"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Dunama IX Lefiami",
+     "relation": "patron",
+     "years": "early 19th century",
+     "note": "Sayfawa king who gave him power.",
+     "basis": "documented"
+    },
+    {
+     "name": "Umar ibn Muhammad al-Amin",
+     "relation": "son",
+     "years": "shehu 1837–1881",
+     "note": "Ended the Sayfawa line.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Abubakar Ibn Umar Garbai El-Kanemi",
+     "relation": "descendant",
+     "years": "since 2009",
+     "note": "Present Shehu of Borno.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The al-Kanemi line still provides the Shehu of Borno. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "ismail-pasha-egypt",
+   "name": "Isma'il Pasha, Khedive of Egypt",
+   "category": "Arab, Saharan & Indian Ocean",
+   "role": "Ruler & Supplier",
+   "nation": "Ottoman Egypt",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ruled Egypt and Sudan while slave raiding in the White Nile and Bahr el Ghazal peaked; he also signed the 1877 Anglo-Egyptian slave-trade convention.",
+   "start": 1863,
+   "end": 1879,
+   "lifespan": "1830–1895",
+   "base": "Cairo, Egypt",
+   "geo": [
+    30.044,
+    31.236
+   ],
+   "aliases": [
+    "Ismail the Magnificent"
+   ],
+   "origins": "A grandson of Muhammad ʿAlī, he became ruler of Egypt in 1863 and took the title of Khedive in 1867.",
+   "role_summary": "He expanded Egyptian rule in Sudan and made the slave trader al-Zubayr a pasha and governor of Bahr el Ghazal, while also hiring Europeans such as Samuel Baker and Charles Gordon to suppress the trade. Heavy debts led Britain and France to have him removed in 1879.",
+   "roleDetail": [
+    {
+     "t": "Empire in Sudan.",
+     "d": "Pushed Egyptian power deep into Sudan.",
+     "basis": "documented"
+    },
+    {
+     "t": "Zubayr's patron.",
+     "d": "Granted the slave trader Zubayr titles and a governorship.",
+     "basis": "documented"
+    },
+    {
+     "t": "Anti-slavery mandate.",
+     "d": "Employed Baker and Gordon against the trade, a contradiction historians stress.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Deposed in 1879, he died in exile in 1895; his dynasty ruled until 1953.",
+   "legacyDetail": [
+    {
+     "t": "Dynasty.",
+     "d": "Fuad II, the last king (1952–53), is his great-grandson.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Isma'il Pasha",
+     "url": "https://en.wikipedia.org/wiki/Isma%27il_Pasha_of_Egypt"
+    },
+    {
+     "label": "Wikipedia — Al-Zubayr Rahma Mansur",
+     "url": "https://en.wikipedia.org/wiki/Al-Zubayr_Rahma_Mansur"
+    }
+   ],
+   "connections": [
+    {
+     "id": "muhammad-ali-egypt",
+     "type": "family",
+     "label": "grandson of Muhammad ʿAlī"
+    },
+    {
+     "id": "zubayr-pasha",
+     "type": "charter",
+     "label": "made Zubayr governor"
+    },
+    {
+     "id": "red-sea-slave-route",
+     "type": "trade",
+     "label": "Sudan and Red Sea trade"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Muhammad ʿAlī",
+     "relation": "grandfather",
+     "years": "1769–1849",
+     "note": "Founder of the dynasty.",
+     "id": "muhammad-ali-egypt",
+     "basis": "documented"
+    },
+    {
+     "name": "Ibrahim Pasha",
+     "relation": "father",
+     "years": "1789–1848",
+     "note": "General and briefly ruler of Egypt.",
+     "basis": "documented"
+    },
+    {
+     "name": "Zubayr Pasha",
+     "relation": "client",
+     "years": "1870s",
+     "note": "Slave trader he made governor.",
+     "id": "zubayr-pasha",
+     "basis": "documented"
+    },
+    {
+     "name": "Fuad II",
+     "relation": "descendant",
+     "years": "b. 1952",
+     "note": "Last King of Egypt and titular head of the dynasty.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Muhammad Ali dynasty's monarchy was abolished in 1953; Fuad II is its senior member. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "thomas-corker",
+   "name": "Thomas Corker (founder of the Caulkers)",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Royal African Company agent at a slave-trading station; his personal volumes are not documented, but his descendants became a major trading clan.",
+   "start": 1684,
+   "end": 1700,
+   "lifespan": "1669/70–1700",
+   "base": "York Island, Sherbro, Sierra Leone",
+   "geo": [
+    7.53,
+    -12.51
+   ],
+   "aliases": [
+    "Thomas Caulker"
+   ],
+   "origins": "Born in Falmouth, Cornwall, son of a ship's doctor, he joined the Royal African Company as an apprentice at 14 and was sent to the Guinea coast.",
+   "role_summary": "He became chief agent on York Island, a slave-trading centre on the Sherbro River, and married a daughter of a Sherbro chief, known to the English as Seniora Doll. He died in 1700, leaving two sons who inherited their mother's chiefdom.",
+   "roleDetail": [
+    {
+     "t": "Company agent.",
+     "d": "Chief RAC agent at York Island, Sherbro.",
+     "basis": "documented"
+    },
+    {
+     "t": "Marriage alliance.",
+     "d": "His marriage into a Sherbro ruling house gave his sons land and chiefly rights.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His sons Robin and Stephen founded the Caulker dynasty of Sherbro chiefs and slave traders.",
+   "legacyDetail": [
+    {
+     "t": "Caulker clan.",
+     "d": "The clan still keeps oral and written accounts of him.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Thomas Corker",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Corker"
+    },
+    {
+     "label": "Wikipedia — Thomas Stephen Caulker",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Stephen_Caulker"
+    }
+   ],
+   "connections": [
+    {
+     "id": "caulker-family",
+     "type": "family",
+     "label": "founder of the Caulker family"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "RAC chief agent"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "Sierra Leone RAC network"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Corker Sr",
+     "relation": "father",
+     "years": "17th century",
+     "note": "Ship's doctor from Co. Meath who settled in Falmouth.",
+     "basis": "documented"
+    },
+    {
+     "name": "Seniora Doll",
+     "relation": "spouse",
+     "years": "late 17th century",
+     "note": "Sherbro princess of the house of Ya Kumba.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robin and Stephen Corker",
+     "relation": "sons",
+     "years": "18th century",
+     "note": "Inherited their mother's chiefdom and founded the Caulker line.",
+     "id": "caulker-family",
+     "basis": "documented"
+    }
+   ],
+   "today": "Caulker descendants live mainly in Bonthe and Shenge, Sierra Leone; no private living individuals are named here. Present-day descendants carry no guilt for their ancestors' slave trading."
+  },
+  {
+   "id": "anne-pepin",
+   "name": "Anne Pépin",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Senegambia",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A wealthy signare whose household held enslaved domestic servants and whose family was in the slave trade, per her biography.",
+   "start": 1760,
+   "end": 1837,
+   "lifespan": "c.1747–1837",
+   "base": "Gorée Island, Senegal",
+   "geo": [
+    14.667,
+    -17.398
+   ],
+   "aliases": [],
+   "origins": "Born on Gorée to the signare Catherine Baudet and Jean Pépin, a Compagnie des Indes surgeon, she was married à la mode du pays by 14 to Bernard Dupuy.",
+   "role_summary": "She became the richest and most celebrated woman on Gorée, owning several properties and enslaved servants. Her brother Nicolas Pépin built the house now known as the Maison des Esclaves for the family's slave-trading business. In 1786 she became the companion of Governor Stanislas de Boufflers.",
+   "roleDetail": [
+    {
+     "t": "Leading signare.",
+     "d": "Richest woman of Gorée in the 1780s–1830s.",
+     "basis": "documented"
+    },
+    {
+     "t": "Family slave trade.",
+     "d": "Her brother's house served the family's slave-trading business.",
+     "basis": "documented"
+    },
+    {
+     "t": "Governor's companion.",
+     "d": "Linked with Governor de Boufflers from 1786.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "She appears in Maryse Condé's novel 'Segu' and remains an emblem of signare society.",
+   "legacyDetail": [
+    {
+     "t": "Memory.",
+     "d": "Her family house is tied to the Maison des Esclaves museum on Gorée.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Anne Pépin",
+     "url": "https://en.wikipedia.org/wiki/Anne_P%C3%A9pin"
+    },
+    {
+     "label": "Wikipedia — Signare",
+     "url": "https://en.wikipedia.org/wiki/Signare"
+    }
+   ],
+   "connections": [
+    {
+     "id": "signares-of-senegambia",
+     "type": "family",
+     "label": "leading signare"
+    },
+    {
+     "id": "goree-island",
+     "type": "ownership",
+     "label": "properties on Gorée"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "family",
+     "label": "father was a Company surgeon"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "political",
+     "label": "companion of the French governor"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Catherine Baudet and Jean Pépin",
+     "relation": "parents",
+     "years": "18th century",
+     "note": "A signare and a Company surgeon.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bernard Dupuy",
+     "relation": "spouse",
+     "years": "1760s–",
+     "note": "Her European husband; they had four sons, including René (1773–1820) and Jean (b. 1777).",
+     "basis": "documented"
+    },
+    {
+     "name": "Nicolas Pépin",
+     "relation": "brother",
+     "years": "late 18th century",
+     "note": "Trader who built the Maison des Esclaves house.",
+     "basis": "documented"
+    },
+    {
+     "name": "Stanislas de Boufflers",
+     "relation": "companion",
+     "years": "1786–1787",
+     "note": "French governor of Senegal.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anna Colas Pépin",
+     "relation": "niece",
+     "years": "19th century",
+     "note": "Known for her link with the Prince of Joinville.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants have been traced. Her family is remembered through the Maison des Esclaves on Gorée."
+  },
+  {
+   "id": "joao-i-of-kongo",
+   "name": "João I (Nzinga a Nkuwu) of Kongo",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Kongo",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "King when the Portuguese arrived; the Kongo slave trade grew mainly under his son Afonso I.",
+   "start": 1483,
+   "end": 1509,
+   "lifespan": "c.1440–1509 (r. 1470–1509)",
+   "base": "Mbanza Kongo, Angola",
+   "geo": [
+    -6.267,
+    14.243
+   ],
+   "aliases": [
+    "Nzinga a Nkuwu"
+   ],
+   "origins": "The fifth ManiKongo, he ruled the Kingdom of Kongo when Portuguese navigators arrived in 1483.",
+   "role_summary": "He welcomed Portuguese priests and craftsmen and was baptised as João on 3 May 1491, opening the relationship that soon included trade in captives. He later turned away from Christianity, partly because monogamy conflicted with Kongo's elective, alliance-based kingship.",
+   "roleDetail": [
+    {
+     "t": "Baptised 1491.",
+     "d": "First Kongo king to accept baptism.",
+     "basis": "documented"
+    },
+    {
+     "t": "Opened the Portuguese alliance.",
+     "d": "His welcome to Portugal set up the trade that his son expanded.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His son Afonso I won the succession in 1509 with Christian support.",
+   "legacyDetail": [
+    {
+     "t": "Christian Kongo.",
+     "d": "His baptism began Kongo's long Christian tradition.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — João I of Kongo",
+     "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_I_of_Kongo"
+    },
+    {
+     "label": "Wikipedia — Kingdom of Kongo",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Kongo"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-kongo",
+     "type": "ownership",
+     "label": "ManiKongo"
+    },
+    {
+     "id": "afonso-i-of-kongo",
+     "type": "family",
+     "label": "father of Afonso I"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "alliance and baptism 1491"
+    },
+    {
+     "id": "mbanza-kongo",
+     "type": "ownership",
+     "label": "royal capital"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Afonso I",
+     "relation": "son and successor",
+     "years": "r. 1509–1542",
+     "note": "Won the throne in 1509.",
+     "id": "afonso-i-of-kongo",
+     "basis": "documented"
+    }
+   ],
+   "today": "Kongo has no reigning monarch today; Mbanza Kongo is a UNESCO World Heritage Site. No individual descendants are named here."
+  },
+  {
+   "id": "karamokho-alfa",
+   "name": "Karamokho Alfa",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Founder of Futa Jallon, whose wars and raids became a major source of captives for the Upper Guinea coast; numbers undocumented.",
+   "start": 1725,
+   "end": 1751,
+   "lifespan": "d. c.1751",
+   "base": "Timbo, Guinea",
+   "geo": [
+    10.64,
+    -11.83
+   ],
+   "aliases": [
+    "Ibrahima Musa Sambeghu",
+    "Alfa Ibrahim"
+   ],
+   "origins": "A Fula religious leader, son of Alfa Ba, who had called for jihad but died before it began.",
+   "role_summary": "He led the jihad launched around 1726–27 and was chosen head of the new Imamate of Futa Jallon by nine Fulbe scholars. The state's wars and raids supplied captives to coastal traders and enslaved labour for Fulbe farms.",
+   "roleDetail": [
+    {
+     "t": "Founder.",
+     "d": "First almamy of Futa Jallon.",
+     "basis": "documented"
+    },
+    {
+     "t": "Captives.",
+     "d": "Futa Jallon's wars supplied captives to the Rio Pongo and Nunez traders.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His descendants formed the Alfaya house, which alternated power with the Soriya house of Ibrahima Sori.",
+   "legacyDetail": [
+    {
+     "t": "Dual dynasty.",
+     "d": "Alfaya and Soriya lineages alternated as almamy until 1896.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Karamokho Alfa",
+     "url": "https://en.wikipedia.org/wiki/Karamokho_Alfa"
+    },
+    {
+     "label": "Wikipedia — Imamate of Futa Jallon",
+     "url": "https://en.wikipedia.org/wiki/Imamate_of_Futa_Jallon"
+    }
+   ],
+   "connections": [
+    {
+     "id": "futa-jallon-imamate",
+     "type": "ownership",
+     "label": "founder"
+    },
+    {
+     "id": "rio-pongo",
+     "type": "trade",
+     "label": "captives to coastal factories"
+    },
+    {
+     "id": "kingdom-of-kaabu",
+     "type": "political",
+     "label": "later Futa wars against Kaabu"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Alfa Ba",
+     "relation": "father",
+     "years": "d. c.1725",
+     "note": "Called the jihad.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ibrahima Sori",
+     "relation": "successor",
+     "years": "r. c.1751–1784",
+     "note": "Military leader of the Soriya house.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No individual descendants are named here. Present-day descendants carry no guilt for their ancestors' slave trading."
+  }
+ ],
+ "events": [
+  {
+   "year": 1491,
+   "title": "Kongo king baptised",
+   "text": "Nzinga a Nkuwu of Kongo was baptised as João I, opening the Kongo–Portugal alliance that soon included trade in captives.",
+   "ids": [
+    "joao-i-of-kongo",
+    "kingdom-of-kongo",
+    "crown-of-portugal"
+   ],
+   "source": {
+    "label": "Wikipedia — João I of Kongo",
+    "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_I_of_Kongo"
+   }
+  },
+  {
+   "year": 1701,
+   "title": "Asante defeats Denkyira",
+   "text": "Osei Tutu I's Asante alliance won the Battle of Feyiase, founding the Asante Empire.",
+   "ids": [
+    "osei-tutu-i",
+    "asante-empire"
+   ],
+   "source": {
+    "label": "Wikipedia — Osei Kofi Tutu I",
+    "url": "https://en.wikipedia.org/wiki/Osei_Kofi_Tutu_I"
+   }
+  },
+  {
+   "year": 1818,
+   "title": "Ghezo's coup in Dahomey",
+   "text": "Ghezo overthrew his brother Adandozan with the help of Francisco Félix de Souza.",
+   "ids": [
+    "adandozan-of-dahomey",
+    "ghezo-of-dahomey",
+    "francisco-felix-de-souza"
+   ],
+   "source": {
+    "label": "Wikipedia — Adandozan",
+    "url": "https://en.wikipedia.org/wiki/Adandozan"
+   }
+  },
+  {
+   "year": 1852,
+   "title": "Akitoye signs Lagos treaty",
+   "text": "Restored by British force, Akitoye signed the treaty abolishing the slave trade at Lagos on 1 January 1852.",
+   "ids": [
+    "akitoye-of-lagos",
+    "lagos-treaty-1852",
+    "madam-tinubu"
+   ],
+   "source": {
+    "label": "Wikipedia — Akitoye",
+    "url": "https://en.wikipedia.org/wiki/Akitoye"
+   }
+  },
+  {
+   "year": 1854,
+   "title": "Britain exiles King William Dappa Pepple",
+   "text": "The king of Bonny was deposed and exiled by the British; he was restored in 1861.",
+   "ids": [
+    "william-dappa-pepple",
+    "kingdom-of-bonny"
+   ],
+   "source": {
+    "label": "Wikipedia — Kingdom of Bonny",
+    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bonny"
+   }
+  },
+  {
+   "year": 1893,
+   "title": "Death of Sefu bin Hamid",
+   "text": "Tippu Tip's son was killed fighting the Congo Free State in the Congo Arab war.",
+   "ids": [
+    "sefu-bin-hamid",
+    "tippu-tip"
+   ],
+   "source": {
+    "label": "Wikipedia — Sefu bin Hamid",
+    "url": "https://en.wikipedia.org/wiki/Sefu_bin_Hamid"
+   }
+  },
+  {
+   "year": 1999,
+   "title": "Osei Tutu II enstooled",
+   "text": "Otumfuo Nana Osei Tutu II became the 16th Asantehene, custodian of the Golden Stool.",
+   "ids": [
+    "asante-empire",
+    "osei-tutu-i"
+   ],
+   "source": {
+    "label": "Wikipedia — Otumfuo Nana Osei Tutu II",
+    "url": "https://en.wikipedia.org/wiki/Otumfuo_Nana_Osei_Tutu_II"
+   }
+  },
+  {
+   "year": 2022,
+   "title": "New king of Dahomey enthroned",
+   "text": "Georges Collinet Béhanzin was enthroned at Abomey as Dada Dèwènondè Gbéhanzin by agreement of the rival royal lineages.",
+   "ids": [
+    "kingdom-of-dahomey",
+    "behanzin-of-dahomey"
+   ],
+   "source": {
+    "label": "Benin Web TV — Georges Collinet Béhanzin intronisé",
+    "url": "https://beninwebtv.bj/benin-georges-collinet-behanzin-intronise-ce-lundi-au-palais-de-djime/"
+   }
+  },
+  {
+   "year": 2024,
+   "title": "Last Sultan of Zanzibar dies",
+   "text": "Jamshid bin Abdullah, deposed in the 1964 revolution, died on 30 December 2024.",
+   "ids": [
+    "busaidi-dynasty",
+    "majid-bin-said"
+   ],
+   "source": {
+    "label": "Wikipedia — Jamshid bin Abdullah",
+    "url": "https://en.wikipedia.org/wiki/Jamshid_bin_Abdullah"
+   }
+  }
+ ]
+}

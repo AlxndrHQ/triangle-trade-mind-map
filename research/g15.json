@@ -1,0 +1,2224 @@
+{
+ "records": [
+  {
+   "id": "diego-colon",
+   "name": "Diego Colón (Diego Columbus)",
+   "category": "Crowns & Explorers",
+   "role": "Planter & Enslaver",
+   "nation": "Spain",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Governor of Hispaniola during the shift to sugar and to enslaved African labour; enslaved Wolof people on his own sugar estate staged the first major African revolt in the Americas (Dec. 1521).",
+   "start": 1509,
+   "end": 1526,
+   "lifespan": "1479/80–1526",
+   "base": "Santo Domingo, Hispaniola",
+   "geo": [
+    18.476,
+    -69.883
+   ],
+   "aliases": [
+    "Diego Columbus",
+    "2nd Admiral of the Indies"
+   ],
+   "origins": "The only child of Christopher Columbus and Filipa Moniz Perestrelo, born on Porto Santo. He spent his adult life litigating to recover his father's privileges and married María de Toledo, a cousin of King Ferdinand.",
+   "role_summary": "As governor of Hispaniola (1509–1515, later as viceroy) Diego presided over the colony as Taíno forced labour collapsed and sugar planters, including his own household, turned to enslaved Africans. When enslaved Wolof people on his sugar estate rose in December 1521, he suppressed the revolt and issued ordinances in January 1522, considered the earliest laws in the Americas to control enslaved Africans.",
+   "roleDetail": [
+    {
+     "t": "Governor of Hispaniola from 1509.",
+     "d": "Appointed after Ovando, he held the governorship until recalled in 1514–15, and claimed the viceroyalty until his death.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sugar estate owner.",
+     "d": "His Nueva Isabela sugar plantation near Santo Domingo was worked by enslaved Africans.",
+     "basis": "documented"
+    },
+    {
+     "t": "Crushed the 1521 revolt.",
+     "d": "About twenty Wolof-speaking enslaved people began the uprising on 25–26 December 1521; many were captured and hanged, others escaped to form maroon communities.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave ordinances of 1522.",
+     "d": "His government issued rules restricting enslaved people's movement, thought to be the first such slave code in the Americas.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Diego's claims were settled after his death in the 1536 compromise that made his son Luis Duke of Veragua and Marquess of Jamaica, titles still held by Columbus's descendants. His palace, the Alcázar de Colón in Santo Domingo, survives as a museum.",
+   "legacyDetail": [
+    {
+     "t": "Alcázar de Colón.",
+     "d": "His Santo Domingo residence still stands within the UNESCO-listed Colonial City.",
+     "basis": "documented"
+    },
+    {
+     "t": "Memory of the 1521 revolt.",
+     "d": "Dominican commemorations and new research (2021 quincentenary) highlight the revolt and its leaders as remembered in oral tradition.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Diego Columbus",
+     "url": "https://en.wikipedia.org/wiki/Diego_Columbus"
+    },
+    {
+     "label": "BlackPast — The 1521 Santo Domingo Slave Revolt",
+     "url": "https://new.blackpast.org/global-african-history/the-1521-santo-domingo-slave-revolt"
+    },
+    {
+     "label": "AHA 2017 — The Great Wolof Scare of 1521",
+     "url": "https://aha.confex.com/aha/2017/webprogram/Paper21312.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "christopher-columbus",
+     "type": "family",
+     "label": "son and heir"
+    },
+    {
+     "id": "hispaniola-colony",
+     "type": "plantation",
+     "label": "governor; sugar estate worked by enslaved Africans"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "appointed governor 1509"
+    },
+    {
+     "id": "luis-colon-veragua",
+     "type": "family",
+     "label": "father of the 1st Duke of Veragua"
+    },
+    {
+     "id": "nicolas-de-ovando",
+     "type": "political",
+     "label": "succeeded Ovando as governor"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Christopher Columbus",
+     "relation": "father",
+     "years": "1451–1506",
+     "note": "Left Diego his titles and disputed privileges in the Indies.",
+     "id": "christopher-columbus",
+     "basis": "documented"
+    },
+    {
+     "name": "Filipa Moniz Perestrelo",
+     "relation": "mother",
+     "years": "c.1455–c.1484",
+     "note": "Daughter of the Porto Santo donatary Bartolomeu Perestrello.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartholomew Columbus",
+     "relation": "uncle",
+     "years": "c.1461–1514",
+     "note": "Accompanied Diego to Hispaniola in 1509.",
+     "basis": "documented"
+    },
+    {
+     "name": "María de Toledo y Rojas",
+     "relation": "spouse",
+     "years": "m. c.1508",
+     "note": "Cousin of King Ferdinand; acted as vicereine and governed during his absences.",
+     "basis": "documented"
+    },
+    {
+     "name": "Luis Colón de Toledo",
+     "relation": "son & heir",
+     "years": "c.1520–1572",
+     "note": "Received the Veragua and Jamaica titles in the 1536 settlement.",
+     "id": "luis-colon-veragua",
+     "basis": "documented"
+    }
+   ],
+   "today": "Diego's line continues in the Spanish title Duke of Veragua, held since 1986 by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke. His Santo Domingo palace is today a public museum."
+  },
+  {
+   "id": "luis-colon-veragua",
+   "name": "Luis Colón de Toledo, 1st Duke of Veragua",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Spain",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Heir who converted the Columbus family's colonial claims into titles, an annuity and the fief of Jamaica, a Spanish colony then reliant on forced Indigenous and enslaved African labour; no direct slave-trading is documented.",
+   "start": 1536,
+   "end": 1572,
+   "lifespan": "c.1520–1572",
+   "base": "Santo Domingo / Spain",
+   "geo": [
+    18.476,
+    -69.883
+   ],
+   "aliases": [
+    "Luis Colón",
+    "3rd Admiral of the Indies",
+    "1st Marquess of Jamaica"
+   ],
+   "origins": "Grandson of Christopher Columbus and son of Diego Colón and María de Toledo, probably born in Santo Domingo. He inherited the long-running 'pleitos colombinos' lawsuits against the Crown.",
+   "role_summary": "In 1536 Luis gave up the family's viceregal claims in exchange for a perpetual annuity of 10,000 ducats, the island of Jamaica as a fief, a 25-square-league estate in Veragua (Panama) and the titles Duke of Veragua and Marquess of Jamaica. He thus carried the profits of conquest and colonial labour forward into a hereditary Spanish title.",
+   "roleDetail": [
+    {
+     "t": "1536 settlement.",
+     "d": "Exchanged the Columbian viceroyalty for an annuity, the fief of Jamaica and the Veragua estate.",
+     "basis": "documented"
+    },
+    {
+     "t": "Lord of Jamaica.",
+     "d": "Spanish Jamaica's economy relied on forced Taíno and, increasingly, enslaved African labour during the family's proprietorship.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His titles passed to his daughter Felipa, 2nd Duchess, and after centuries of disputed succession the dukedom of Veragua remains in the Colón de Carvajal family. Luis died in exile in Oran in 1572 after convictions for bigamy.",
+   "legacyDetail": [
+    {
+     "t": "Title still held.",
+     "d": "Cristóbal Colón de Carvajal y Gorosábel has been 18th Duke of Veragua since 1986.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Luis Colón, 1st Duke of Veragua",
+     "url": "https://en.wikipedia.org/wiki/Luis_Col%C3%B3n,_1st_Duke_of_Veragua"
+    },
+    {
+     "label": "Wikipedia — Marquess of Jamaica",
+     "url": "https://en.wikipedia.org/wiki/Marquess_of_Jamaica"
+    },
+    {
+     "label": "Wikipedia — Cristóbal Colón de Carvajal, 18th Duke of Veragua",
+     "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n_de_Carvajal,_18th_Duke_of_Veragua"
+    }
+   ],
+   "connections": [
+    {
+     "id": "diego-colon",
+     "type": "family",
+     "label": "son and heir"
+    },
+    {
+     "id": "christopher-columbus",
+     "type": "legacy",
+     "label": "grandson; inherited Columbus claims as titles"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "1536 settlement granting Veragua and Jamaica"
+    },
+    {
+     "id": "hispaniola-colony",
+     "type": "political",
+     "label": "born and raised in Santo Domingo"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Diego Colón",
+     "relation": "father",
+     "years": "1479/80–1526",
+     "note": "Governor of Hispaniola whose lawsuits Luis settled.",
+     "id": "diego-colon",
+     "basis": "documented"
+    },
+    {
+     "name": "María de Toledo y Rojas",
+     "relation": "mother",
+     "years": "d.1549",
+     "note": "Vicereine who pursued the family's claims after Diego's death.",
+     "basis": "documented"
+    },
+    {
+     "name": "Felipa Colón de Toledo, 2nd Duchess of Veragua",
+     "relation": "daughter & heir",
+     "years": "fl. 1570s",
+     "note": "Inherited the dukedom.",
+     "basis": "documented"
+    },
+    {
+     "name": "Cristóbal Colón de Carvajal, 17th Duke",
+     "relation": "descendant",
+     "years": "1925–1986",
+     "note": "Naval officer killed by ETA in Madrid in 1986.",
+     "basis": "documented"
+    },
+    {
+     "name": "Cristóbal Colón de Carvajal y Gorosábel, 18th Duke",
+     "relation": "descendant",
+     "years": "b.1949",
+     "note": "Current holder of the Veragua and Jamaica titles.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The dukedom of Veragua and marquessate of Jamaica are held today by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke (since 1986), a public figure in Spain who has maintained ties with Panama's Veraguas province."
+  },
+  {
+   "id": "jakob-fugger",
+   "name": "Jakob Fugger \"the Rich\"",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Holy Roman Empire (German)",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "No slaving voyages of his own are documented; his weight comes from near-monopoly control of Central European copper after 1487, metal that Portuguese traders used as currency for captives (e.g. c. 4,000 ingots shipped to Benin/Upper Guinea in 1515, per a Linden-Museum record).",
+   "start": 1495,
+   "end": 1525,
+   "lifespan": "1459–1525",
+   "base": "Augsburg, Germany",
+   "geo": [
+    48.371,
+    10.898
+   ],
+   "aliases": [
+    "Jacob Fugger",
+    "Jakob Fugger der Reiche"
+   ],
+   "origins": "The grandson of a weaver who settled in Augsburg in 1367, Jakob trained in Venice and from 1487 ran the family business. Loans to the Habsburgs secured Tyrolean silver and Hungarian copper mines, giving the firm an almost monopolistic hold on European copper.",
+   "role_summary": "Fugger copper and brass moved through Antwerp to Lisbon, where Portuguese traders turned it into ingots and manillas exchanged for captives on the West African coast and sent it to India. He also financed the Habsburg crowns that licensed the Atlantic trade, above all Charles V's 1519 imperial election.",
+   "roleDetail": [
+    {
+     "t": "Copper monopoly feeding the Lisbon route.",
+     "d": "Hungarian copper shipped via Antwerp to Lisbon supplied Portuguese trade goods for Africa and India.",
+     "basis": "documented"
+    },
+    {
+     "t": "Metal as slave-trade currency.",
+     "d": "Copper ingots and manillas were standard prices for captives in Benin and Upper Guinea; a Fugger-linked ingot recovered from the Elbe illustrates the chain, though attributing specific metal to specific purchases remains uncertain.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Banker to Charles V.",
+     "d": "He lent most of the money that bought Charles V's election in 1519, binding the Habsburgs to the Augsburg houses that later received Atlantic concessions.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He died childless in 1525 and left the firm to his nephew Anton Fugger. The Fuggerei social housing he founded in 1516 is still run by the family foundations, and the family survives in comital and princely lines.",
+   "legacyDetail": [
+    {
+     "t": "Fuggerei (1516).",
+     "d": "The world's oldest social housing settlement still in use, administered by the Fürstlich und Gräflich Fuggersche Stiftungen.",
+     "basis": "documented"
+    },
+    {
+     "t": "Research on Fugger metals.",
+     "d": "University of Bonn's Global Heritage Lab and German museums now trace Central European metals in the Atlantic slave trade.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Jakob Fugger",
+     "url": "https://en.wikipedia.org/wiki/Jakob_Fugger"
+    },
+    {
+     "label": "Britannica — Fugger family (summary)",
+     "url": "https://www.britannica.com:443/summary/Fugger-family"
+    },
+    {
+     "label": "Deutsche Digitale Bibliothek / Linden-Museum — Fugger copper ingot",
+     "url": "https://ccc.deutsche-digitale-bibliothek.de/en/item/YMZH4UMJCLLPVV27PIX5XE6FRWHFYKAH"
+    },
+    {
+     "label": "Global Heritage Lab (Univ. Bonn) — Mining, Metals and Manillas in the Atlantic Slave Trade",
+     "url": "https://globalheritagelab.org/project/mining-metals-and-manillas-in-the-atlantic-slave-trade-pilot-study/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "fugger-family",
+     "type": "family",
+     "label": "head of the Fugger house 1487–1525"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "trade",
+     "label": "copper for Portuguese African barter"
+    },
+    {
+     "id": "port-lisbon",
+     "type": "trade",
+     "label": "copper via Antwerp to Lisbon"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "finance",
+     "label": "financed Charles V's 1519 election"
+    },
+    {
+     "id": "welser-family",
+     "type": "parallel",
+     "label": "fellow Augsburg financiers"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Jakob Fugger the Elder",
+     "relation": "father",
+     "years": "1398–1469",
+     "note": "Founder of the Fugger von der Lilie line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ulrich and Georg Fugger",
+     "relation": "brothers and partners",
+     "years": "d. 1510; d. 1506",
+     "note": "Ran the firm with Jakob before his sole control.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Anton Fugger",
+     "relation": "nephew and heir",
+     "years": "1493–1560",
+     "note": "Son of Georg; inherited the business in 1525.",
+     "basis": "documented"
+    },
+    {
+     "name": "Fürstlich und Gräflich Fuggersche Stiftungen",
+     "relation": "successor foundation",
+     "years": "1516–present",
+     "note": "Run the Fuggerei he founded.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Jakob had no children; his fortune passed to his nephew Anton, from whom the Kirchberg-Weißenhorn, Glött and Babenhausen lines descend. The Fuggerei and the other Fugger foundations are overseen by a Familienseniorat chaired since 2022 by Alexander Erbgraf Fugger-Babenhausen."
+  },
+  {
+   "id": "bartholomaus-welser",
+   "name": "Bartholomäus V. Welser",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Holy Roman Empire (German)",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Head of the firm whose agents signed the 1528 contract to deliver 4,000 enslaved Africans to the Spanish Indies and that governed Venezuela 1528–46; colonisation losses were estimated at c. 3 million florins.",
+   "start": 1519,
+   "end": 1551,
+   "lifespan": "1484–1561",
+   "base": "Augsburg, Germany",
+   "geo": [
+    48.371,
+    10.898
+   ],
+   "aliases": [
+    "Bartholomeus Welser",
+    "Bartolomé Welser"
+   ],
+   "origins": "Born in Memmingen in 1484, a son of Anton Welser (I.), he led the Augsburg house from the end of 1518 with his brother Anton (II.). The firm lent large sums to Charles V, and he became an imperial councillor and was ennobled in 1532.",
+   "role_summary": "Under his leadership the Welser agents Ehinger and Sailer signed the 1528 contracts with Charles V: a licence to ship 4,000 enslaved Africans to the Indies and the grant of Venezuela. His governors ran slaving expeditions against Indigenous peoples in search of El Dorado until the grant was revoked after 1546.",
+   "roleDetail": [
+    {
+     "t": "1528 contracts.",
+     "d": "The asiento for 4,000 Africans and the Venezuela concession were obtained by his firm in exchange for loans to the Crown.",
+     "basis": "documented"
+    },
+    {
+     "t": "Family-run conquest.",
+     "d": "His son-in-law Hieronymus Sailer co-signed the contract, and his son Bartholomäus VI joined the Hutten expedition and was executed at El Tocuyo in 1546.",
+     "basis": "documented"
+    },
+    {
+     "t": "Venezuela governed as property.",
+     "d": "Governors Ambrosius Ehinger, Georg Hohermuth von Speyer and Philipp von Hutten raided for gold and captives; Charles V revoked the charter after 1546.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He withdrew from the business in 1551/53 and handed it to his sons, notably Christoph; he died at Amberg in 1561. The Welser family foundation of 1539 survives under the Ulm branch.",
+   "legacyDetail": [
+    {
+     "t": "Recent German reckoning.",
+     "d": "Historians and museums in Augsburg now present the Welser Venezuela venture as an early chapter of German colonialism.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Bartholomeus Welser V",
+     "url": "https://en.wikipedia.org/wiki/Bartholomeus_Welser_V"
+    },
+    {
+     "label": "Deutsche Biographie (NDB/ADB) — Welser, Bartholomäus V.",
+     "url": "https://www.deutsche-biographie.de/sfz84981.html"
+    },
+    {
+     "label": "Wikipedia — Klein-Venedig",
+     "url": "https://en.wikipedia.org/wiki/Klein-Venedig"
+    }
+   ],
+   "connections": [
+    {
+     "id": "welser-family",
+     "type": "family",
+     "label": "head of the Welser house 1518–51"
+    },
+    {
+     "id": "klein-venedig",
+     "type": "ownership",
+     "label": "held the Venezuela grant 1528"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "1528 licence for 4,000 Africans"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "finance",
+     "label": "lender to Charles V"
+    },
+    {
+     "id": "hispaniola-colony",
+     "type": "trade",
+     "label": "Welser factory in Santo Domingo"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Anton Welser (I.)",
+     "relation": "father",
+     "years": "d. 1518",
+     "note": "Head of the firm before him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anton Welser (II.)",
+     "relation": "brother and partner",
+     "years": "1486–1557",
+     "note": "Supported him in running the firm.",
+     "basis": "documented"
+    },
+    {
+     "name": "Felicitas Welser and Hieronymus Sailer",
+     "relation": "daughter and son-in-law",
+     "years": "1513–1569",
+     "note": "Sailer was a Welser agent on the 1528 contract.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartholomäus VI. Welser",
+     "relation": "son",
+     "years": "d. 1546",
+     "note": "Executed at El Tocuyo with Philipp von Hutten.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christoph Welser",
+     "relation": "son and successor",
+     "years": "1517–1593",
+     "note": "Took over the firm from 1551/53.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants of his line have been traced. The family's Ulm branch survives and is reported to administer the Welsersche Familienstiftung founded in 1539."
+  },
+  {
+   "id": "claudio-lopez-bru",
+   "name": "Claudio López Bru, 2nd Marquis of Comillas",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Spain",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "No slave trading by him is documented; he is included as heir and manager of the fortune and companies built partly on his father's Cuban slave dealing, which he ran from 1883 while slavery and the patronato still existed in Cuba (to 1886).",
+   "start": 1883,
+   "end": 1925,
+   "lifespan": "1853–1925",
+   "base": "Barcelona / Madrid, Spain",
+   "geo": [
+    41.385,
+    2.173
+   ],
+   "origins": "Born in Barcelona in 1853, the son of Antonio López y López and Luisa Bru Lassús, he trained in the family shipping business at Cádiz. On his father's death in 1883 he inherited the companies and the Comillas title.",
+   "role_summary": "He ran the Compañía Trasatlántica, the Compañía General de Tabacos de Filipinas and related banking interests, extending them into coal, shipbuilding and banking. The shipping line held state mail and transport contracts linking Spain with Cuba, Puerto Rico and the Philippines.",
+   "roleDetail": [
+    {
+     "t": "Heir to a slave-trade fortune.",
+     "d": "He inherited the firms and title of a father whom notarial and British consular records show trafficked enslaved people in Cuba.",
+     "basis": "documented"
+    },
+    {
+     "t": "Colonial shipping magnate.",
+     "d": "Trasatlántica connected Spain with its remaining colonies, including during the 1895–98 wars.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Catholic patron.",
+     "d": "He promoted the Comillas seminary (founded 1890, university rank 1904) and dominated Catholic labour policy 1895–1925.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He died in Madrid in 1925 without heirs to the title, which passed to his nephew Juan Antonio Güell y López. A Catholic beatification cause opened in 1945, and he was declared Servant of God in 1947.",
+   "legacyDetail": [
+    {
+     "t": "Comillas Pontifical University.",
+     "d": "The seminary he and his father founded became the Pontifical University of Comillas, now based in Madrid.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Claudio López, 2nd Marquess of Comillas",
+     "url": "https://en.wikipedia.org/wiki/Claudio_L%C3%B3pez,_2nd_Marquess_of_Comillas"
+    },
+    {
+     "label": "Real Academia de la Historia — Claudio López Bru (DB~e)",
+     "url": "https://dbe.rah.es/biografias/12275/claudio-lopez-bru"
+    },
+    {
+     "label": "Wikipedia — Marquess of Comillas",
+     "url": "https://en.wikipedia.org/wiki/Marquess_of_Comillas"
+    }
+   ],
+   "connections": [
+    {
+     "id": "antonio-lopez-comillas",
+     "type": "family",
+     "label": "son and heir of the 1st Marquis"
+    },
+    {
+     "id": "compania-trasatlantica",
+     "type": "ownership",
+     "label": "ran Trasatlántica from 1883"
+    },
+    {
+     "id": "eusebi-guell",
+     "type": "family",
+     "label": "brother-in-law"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "Cuba shipping lines"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Antonio López y López",
+     "relation": "father",
+     "years": "1817–1883",
+     "note": "Source of the fortune, companies and title.",
+     "id": "antonio-lopez-comillas",
+     "basis": "documented"
+    },
+    {
+     "name": "Isabel López Bru and Eusebi Güell",
+     "relation": "sister and brother-in-law",
+     "years": "m. 1871",
+     "note": "Their son inherited the title.",
+     "id": "eusebi-guell",
+     "basis": "documented"
+    },
+    {
+     "name": "Juan Antonio Güell y López",
+     "relation": "nephew and heir",
+     "years": "title 1925–1958",
+     "note": "3rd Marquis of Comillas.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The title passed to the Güell family; the 5th Marchioness, María de los Reyes Güell y Merry del Val, succeeded in 2026 (BOE). The Comillas Pontifical University continues in Madrid."
+  },
+  {
+   "id": "eusebi-guell",
+   "name": "Eusebi Güell i Bacigalupi",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Spain",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "No direct slaving by him is documented; he links two Cuban-made fortunes: his father Joan Güell i Ferrer's (made in Havana 1818–35, said by some historians to derive partly from the slave trade) and his father-in-law Antonio López's.",
+   "start": 1871,
+   "end": 1918,
+   "lifespan": "1846–1918",
+   "base": "Barcelona, Spain",
+   "geo": [
+    41.385,
+    2.173
+   ],
+   "aliases": [
+    "Count Güell",
+    "Eusebio Güell"
+   ],
+   "origins": "Born in Barcelona in 1846, son of the textile industrialist Joan Güell i Ferrer, who had returned from Havana in 1835 with a large fortune. In 1871 he married Isabel López Bru, daughter of Antonio López y López.",
+   "role_summary": "He took over and expanded his father's textile business, founding the Colònia Güell workers' colony (1890), and joined his fortune to the López family by marriage. He is best known as Antoni Gaudí's patron; Alfonso XIII made him a count in 1908.",
+   "roleDetail": [
+    {
+     "t": "Cuban-made inheritance.",
+     "d": "His father monopolised much of the Havana market after 1821; some historians say much of that fortune came from the slave trade.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Union with the López fortune.",
+     "d": "His 1871 marriage to Isabel López Bru made his son Juan Antonio heir to the Marquisate of Comillas.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Gaudí's Palau Güell, Park Güell and the Colònia Güell crypt, built with his money, are now UNESCO-listed landmarks. His descendants hold the Comillas title.",
+   "legacyDetail": [
+    {
+     "t": "Comillas title.",
+     "d": "His son Juan Antonio Güell y López became 3rd Marquis of Comillas in 1925.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Eusebi Güell",
+     "url": "https://en.wikipedia.org/wiki/Eusebi_G%C3%BCell"
+    },
+    {
+     "label": "Gran Enciclopèdia Catalana — Joan Güell i Ferrer",
+     "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/joan-guell-i-ferrer"
+    },
+    {
+     "label": "Diari de Tarragona — Los negociantes que vivían como nobles en Torredembarra",
+     "url": "https://www.diaridetarragona.com/cat-es-mon/los-negociantes-que-vivian-como-nobles-en-torredembarra-20170104-0007-ALDT201701040007"
+    }
+   ],
+   "connections": [
+    {
+     "id": "antonio-lopez-comillas",
+     "type": "family",
+     "label": "son-in-law (m. Isabel López Bru, 1871)"
+    },
+    {
+     "id": "claudio-lopez-bru",
+     "type": "family",
+     "label": "brother-in-law"
+    },
+    {
+     "id": "port-havana",
+     "type": "legacy",
+     "label": "father's Havana fortune"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Joan Güell i Ferrer",
+     "relation": "father",
+     "years": "1800–1872",
+     "note": "Made a fortune in Havana 1818–35 and reinvested it in Catalan textiles.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isabel López Bru",
+     "relation": "spouse",
+     "years": "m. 1871",
+     "note": "Daughter of Antonio López; brought the link to the Comillas fortune.",
+     "id": "antonio-lopez-comillas",
+     "basis": "documented"
+    },
+    {
+     "name": "Juan Antonio Güell y López",
+     "relation": "son",
+     "years": "title 1925–1958",
+     "note": "3rd Marquis of Comillas, also Count Güell.",
+     "basis": "documented"
+    },
+    {
+     "name": "Juan Alfonso Güell y Martos",
+     "relation": "great-grandson",
+     "years": "title from 1958",
+     "note": "4th Marquis of Comillas.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Güell family holds the Marquisate of Comillas; María de los Reyes Güell y Merry del Val succeeded as 5th Marchioness in 2026 (BOE). The family has not been documented speaking publicly about the slavery link."
+  },
+  {
+   "id": "abraham-gradis",
+   "name": "Abraham Gradis",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "France",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Historian Éric Saugera counts ten slaving voyages for David Gradis et fils (1730–1786), about 5% of the house's activity. Abraham also armed about forty ships for New France and left a fortune estimated at over 10 million livres (per French Wikipedia).",
+   "start": 1730,
+   "end": 1780,
+   "lifespan": "c.1699–1780",
+   "base": "Bordeaux, France",
+   "geo": [
+    44.838,
+    -0.579
+   ],
+   "aliases": [
+    "Abraham Gradis I"
+   ],
+   "origins": "Born in Bordeaux around 1699 into a Portuguese-Jewish merchant family. Most sources make him the son of David Gradis and Marie Sara Mendes-Moreno; Encyclopedia Judaica calls him a nephew. He worked in the family house and from 1738 was syndic of Bordeaux's Portuguese Jewish community.",
+   "role_summary": "Abraham made the Gradis house a royal supplier: he was named royal purveyor in 1744 and in 1748 set up the Société du Canada with intendant François Bigot to supply New France. Under a 1763 contract to supply French posts in West Africa, arranged through naval minister Choiseul, he accepted enslaved people as payment and sold them in Saint-Domingue for sugar.",
+   "roleDetail": [
+    {
+     "t": "Slaving voyages.",
+     "d": "The house he led armed about ten slaving voyages between 1730 and 1786, a small share of its fleet but one tied to Gorée and the Caribbean sugar trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Paid in captives.",
+     "d": "From 1763 the firm supplied French West African posts with spirits, gunpowder, knives and cloth, took enslaved people in payment and sold them in Saint-Domingue.",
+     "basis": "documented"
+    },
+    {
+     "t": "Crown supplier in Canada.",
+     "d": "He armed about forty ships for New France during the Seven Years' War. His partners Bigot and Bréard were convicted in the 1763 'affaire du Canada'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Personal enslaver and plantation owner.",
+     "d": "He kept enslaved servants, among them a man named Mercure, and the firm acquired the Prunes estate in Martinique (1773) and La Caze in Saint-Domingue (1777) when debtors defaulted.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Abraham had no children and left his fortune in equal shares to four nephews, among them Moïse and David II, who carried the firm on. It survives today as the Société française pour le commerce avec l'Outre-mer. The Hôtel Gradis in Bordeaux (1750) is a listed building, and Canton Gradis in Quebec was named after him in 1947.",
+   "legacyDetail": [
+    {
+     "t": "Firm carried forward.",
+     "d": "The Maison Gradis passed to his nephews and in the 20th century became the SFCO, still associated with the family.",
+     "basis": "documented"
+    },
+    {
+     "t": "Commemorated in Canada and Bordeaux.",
+     "d": "Canton Gradis (1947) and the rue Gradis in Bordeaux, which now carries an explanatory plaque on the slave trade, keep the name in public space.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipédia (FR) — Abraham Gradis",
+     "url": "https://fr.wikipedia.org/wiki/Abraham_Gradis"
+    },
+    {
+     "label": "Encyclopedia.com (Encyclopaedia Judaica) — Gradis",
+     "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gradis"
+    },
+    {
+     "label": "Wikipedia — Société française pour le commerce avec l'Outre-mer",
+     "url": "https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_fran%C3%A7aise_pour_le_commerce_avec_l%27Outre-mer"
+    },
+    {
+     "label": "Isidore / Revue historique de Bordeaux (1913) — J. de Maupassant, Un grand armateur de Bordeaux, Abraham Gradis (1699?–1780)",
+     "url": "https://isidore.science/document/10.3406/rhbg.1913.2877"
+    }
+   ],
+   "connections": [
+    {
+     "id": "gradis-family",
+     "type": "family",
+     "label": "head of the Gradis house"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "charter",
+     "label": "royal purveyor; 1763 West Africa contract"
+    },
+    {
+     "id": "goree-island",
+     "type": "trade",
+     "label": "Gorée trading base"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "sold captives, bought plantations"
+    },
+    {
+     "id": "port-bordeaux",
+     "type": "voyage",
+     "label": "Bordeaux shipowner"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "David Gradis I",
+     "relation": "father",
+     "years": "c.1665–1751",
+     "note": "Founder of David Gradis et fils, which Abraham joined and later led (Encyclopedia Judaica calls David his uncle).",
+     "basis": "documented"
+    },
+    {
+     "name": "Esther Gradis",
+     "relation": "spouse",
+     "years": "1712–1776",
+     "note": "His niece, daughter of Samuel Gradis, whom he married in 1730; the marriage kept capital within the family firm, and they had no children.",
+     "basis": "documented"
+    },
+    {
+     "name": "François Bigot",
+     "relation": "partner",
+     "years": "1748–1756",
+     "note": "Intendant of New France and partner in the Société du Canada; convicted in the 1763 'affaire du Canada'.",
+     "basis": "documented"
+    },
+    {
+     "name": "Duc de Choiseul",
+     "relation": "patron",
+     "years": "1763",
+     "note": "As naval minister he backed Abraham's contract to supply French West African posts, which was paid partly in captives.",
+     "basis": "documented"
+    },
+    {
+     "name": "Moïse Gradis",
+     "relation": "heir",
+     "years": "1740–1788",
+     "note": "Inherited the firm with his brothers on Abraham's death in 1780.",
+     "basis": "documented"
+    },
+    {
+     "name": "David Gradis II",
+     "relation": "nephew and heir",
+     "years": "1742–1811",
+     "note": "Co-heir who led the firm into the 19th century and presided over Bordeaux's Jewish consistory.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Abraham had no children; his estate went to four nephews. The family firm survives as the Société française pour le commerce avec l'Outre-mer, and its archives, given to the Archives nationales in 2005 by Henri Gradis (1920–2022), are open to historians."
+  },
+  {
+   "id": "hope-family",
+   "name": "Hope family (Hope & Co., Amsterdam)",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Netherlands",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "IISH research (2022) found Hope & Co. had stakes in at least 73 Caribbean plantations, about 4,500 enslaved people pledged as collateral at once in the 1770s, and a quarter to a third of revenue from slavery in 1770 and 1790.",
+   "start": 1762,
+   "end": 1813,
+   "lifespan": "c.1660–1901 (Rotterdam settlement to the sale of the Hope Diamond)",
+   "base": "Amsterdam (Keizersgracht 444–446)",
+   "geo": [
+    52.366,
+    4.885
+   ],
+   "aliases": [
+    "Thomas Hope",
+    "Adrian Hope",
+    "Henry Hope",
+    "John Williams Hope"
+   ],
+   "origins": "The family came from Scotland and settled in Rotterdam around 1660 under merchant Archibald Hope (1664–1743), whose sons traded in shipping, insurance and credit. Thomas Hope (1704–1779) and Adrian Hope (1709–1781) built the Amsterdam house, and in 1762 their nephew Henry Hope (1735/6–1811) and Thomas's son John joined, and it took the name Hope & Co.",
+   "role_summary": "The Hopes made Hope & Co. the largest financial and commercial house in the late-18th-century Netherlands. It lent heavily to plantations in Suriname, the British Caribbean and the Danish West Indies, with land and enslaved people as security, and sold the plantations' produce. Thomas Hope also represented the stadholder on the boards of the VOC and WIC.",
+   "roleDetail": [
+    {
+     "t": "Plantation lending on enslaved collateral.",
+     "d": "Per IISH, the firm was financially involved in at least 73 Caribbean plantations, and in the 1770s about 4,500 enslaved people served as collateral for its loans at the same time.",
+     "basis": "documented"
+    },
+    {
+     "t": "Close to the stadholder.",
+     "d": "Thomas Hope joined the VOC's Heeren XVII in 1752 as the representative of Anne of Hanover, became William V's spokesman in 1766, and represented the stadholder on the WIC board.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sovereign and colonial loans.",
+     "d": "Henry Hope arranged the firm's first major foreign loan, to Sweden, in 1768; a Saint Croix plantation later served as collateral for a loan to Denmark's Frederick VI.",
+     "basis": "documented"
+    },
+    {
+     "t": "US slavery after 1830.",
+     "d": "IISH found the successor firm was also financially involved in slavery in the American South after 1830.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The family fled to London in 1795, and after Henry Hope's death in 1811 the London business merged with Baring Brothers, while the Amsterdam house passed to Pierre César Labouchère. Hope & Co. survived until 1966, then through Mees & Hope and MeesPierson it became part of ABN AMRO, which apologised in 2022. Henry Hope's villa Welgelegen in Haarlem now houses the provincial government of North Holland.",
+   "legacyDetail": [
+    {
+     "t": "Bank lineage to ABN AMRO.",
+     "d": "Hope & Co. → Mees & Hope (1966) → ABN (1975) → ABN AMRO, which apologised in April 2022 after the IISH study.",
+     "basis": "documented"
+    },
+    {
+     "t": "Collections and the Hope Diamond.",
+     "d": "Family wealth funded the collections of Thomas Hope of Deepdene (1769–1831) and the gems of Henry Philip Hope. The Hope Diamond takes its name from the family and was sold in 1901 by Lord Francis Hope.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "IISH — Research shows large-scale involvement in slavery by predecessors of ABN AMRO",
+     "url": "https://iisg.amsterdam/en/blog/research-iish-shows-large-scale-involvement-slavery-predecessors-abn-amro"
+    },
+    {
+     "label": "Wikipedia — Hope & Co.",
+     "url": "https://en.wikipedia.org/wiki/Hope_%26_Co."
+    },
+    {
+     "label": "Wikipedia — Thomas Hope (banker, born 1704)",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Hope_(banker,_born_1704)"
+    },
+    {
+     "label": "Wikipedia — Paviljoen Welgelegen",
+     "url": "https://en.wikipedia.org/wiki/Paviljoen_Welgelegen"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hope-and-co",
+     "type": "ownership",
+     "label": "founders and partners of Hope & Co."
+    },
+    {
+     "id": "abn-amro",
+     "type": "legacy",
+     "label": "firm passed into ABN AMRO"
+    },
+    {
+     "id": "house-of-orange",
+     "type": "political",
+     "label": "Thomas Hope, stadholder's representative at VOC/WIC"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "finance",
+     "label": "Suriname plantation loans"
+    },
+    {
+     "id": "baring-brothers",
+     "type": "legacy",
+     "label": "London business merged with Barings, 1811"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Archibald Hope",
+     "relation": "patriarch",
+     "years": "1664–1743",
+     "note": "Scottish merchant in Rotterdam whose sons ran shipping, insurance and credit businesses.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Hope and Adrian Hope",
+     "relation": "sons",
+     "years": "1704–1779; 1709–1781",
+     "note": "Built the Amsterdam house; Thomas sat on the VOC's Heeren XVII and was the stadholder's spokesman; the firm traded with Virginia and the West Indies and lent to plantations.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Hope",
+     "relation": "nephew and partner",
+     "years": "1735/6–1811",
+     "note": "Joined in 1762 when the firm became Hope & Co.; led its sovereign lending, built Welgelegen in Haarlem, and fled to London in 1794–95.",
+     "basis": "documented"
+    },
+    {
+     "name": "John (Jan) Hope",
+     "relation": "son of Thomas",
+     "years": "1737–1784",
+     "note": "Partner from 1762 who took over his father's responsibilities after Thomas's stroke in 1770.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Williams Hope",
+     "relation": "adopted son of Henry",
+     "years": "1757–1813",
+     "note": "Partner from 1782; in 1803 he bought the Hope properties on the Keizersgracht.",
+     "basis": "documented"
+    },
+    {
+     "name": "Baring Brothers and Pierre César Labouchère",
+     "relation": "successor partners",
+     "years": "1811–1813",
+     "note": "After Henry's death the London business merged with Barings, and the Amsterdam house continued under Labouchère, Alexander Baring's brother-in-law.",
+     "id": "baring-brothers",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Hope of Deepdene and his heirs",
+     "relation": "grandson and descendants",
+     "years": "1769–1901",
+     "note": "The collector Thomas Hope, son of John, and his heirs Henry Thomas Hope and Lord Francis Hope spent the fortune on collections and sold the Hope Diamond in 1901.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The family's banking role ended in the early 19th century. Its wealth flowed into British collections (Thomas Hope of Deepdene) and the Hope gems, and Lord Francis Hope sold the Hope Diamond in 1901. The firm's lineage runs through Mees & Hope to ABN AMRO, which apologised in 2022, and Henry Hope's villa Welgelegen is now the seat of North Holland's provincial government. No living descendants who have spoken publicly about the link have been traced."
+  },
+  {
+   "id": "cornelis-van-aerssen-van-sommelsdijck",
+   "name": "Cornelis van Aerssen van Sommelsdijck",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "He co-owned (one-third) and governed Suriname from 1683 to 1688. The Society of Suriname colony reached about 13,000 enslaved Africans on about 200 plantations by 1713 (per the Society of Suriname record). The figures for his own years are not separately documented.",
+   "start": 1683,
+   "end": 1688,
+   "lifespan": "1637–1688",
+   "base": "Paramaribo, Suriname",
+   "geo": [
+    5.852,
+    -55.204
+   ],
+   "aliases": [
+    "Cornelis van Aerssen",
+    "Lord of Sommelsdijk"
+   ],
+   "origins": "Born in The Hague on 20 August 1637 into one of the richest families of the Dutch Golden Age, the fourth generation of a political dynasty. He was lord of Sommelsdijk, Plaat, Bommel and Spijk, and through his French wife Margaret he was also Marquis of Saint-André-Montbrun and Ferrassières.",
+   "role_summary": "In 1683 he bought a one-third share of the new Society of Suriname, alongside the WIC and the city of Amsterdam, and became its first governor. He ran a plantation colony worked by enslaved Africans, encouraged Huguenot and Labadist planters to settle, made peace with Indigenous peoples in 1686, and fortified the plantation districts, until mutinous soldiers shot him in 1688.",
+   "roleDetail": [
+    {
+     "t": "Co-owner and governor.",
+     "d": "He held a one-third share of the Society of Suriname and governed the colony from 27 November 1683 to 19 July 1688.",
+     "basis": "documented"
+    },
+    {
+     "t": "Expanded the plantation colony.",
+     "d": "He found the colony neglected and recruited French Huguenots and Labadists to start plantations, which depended on enslaved African labour.",
+     "basis": "documented"
+    },
+    {
+     "t": "Fortified the plantation districts.",
+     "d": "In 1684 the decision was taken to build Fort Sommelsdijk (built 1686) at the meeting of the Commewijne and Cottica rivers, on the site of his own plantation, to cover the upriver plantations.",
+     "basis": "documented"
+    },
+    {
+     "t": "Killed by his own garrison.",
+     "d": "About 300 soldiers he had brought in rebelled over his strict discipline and their pay and rations; on 19 July 1688 they shot him and Laurens Verboom.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "After his death large debts came to light, but his family kept its third of the Society of Suriname until a descendant sold it to Amsterdam in 1770 for 700,000 guilders. Fort Sommelsdijk, named after him in 1688, later became a Moravian mission and hospital and is now overgrown.",
+   "legacyDetail": [
+    {
+     "t": "Family share held until 1770.",
+     "d": "The Sommelsdijk stake earned income from the plantation colony for nearly a century before it was sold to Amsterdam.",
+     "basis": "documented"
+    },
+    {
+     "t": "Name on the landscape.",
+     "d": "Fort Sommelsdijk, decommissioned in 1748, was a Moravian mission from 1785 and a hospital from 1789 to 1870.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Cornelis van Aerssen van Sommelsdijck",
+     "url": "https://en.wikipedia.org/wiki/Cornelis_van_Aerssen_van_Sommelsdijck"
+    },
+    {
+     "label": "Wikipedia — Fort Sommelsdijk",
+     "url": "https://en.wikipedia.org/wiki/Fort_Sommelsdijk"
+    },
+    {
+     "label": "Atlas of Mutual Heritage — Sommelsdijk (fort)",
+     "url": "https://www.atlasofmutualheritage.nl/en/id/2129"
+    },
+    {
+     "label": "Wikipedia — Society of Suriname",
+     "url": "https://en.wikipedia.org/wiki/Society_of_Suriname"
+    }
+   ],
+   "connections": [
+    {
+     "id": "van-aerssen-van-sommelsdijck-family",
+     "type": "family",
+     "label": "member of the family"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "ownership",
+     "label": "one-third owner and first governor"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "fellow shareholder in the Society"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "political",
+     "label": "Amsterdam co-owner of the colony"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Cornelis van Aerssen",
+     "relation": "great-grandfather",
+     "years": "1543–1627",
+     "note": "Griffier of the States General and founder of the family's political fortune.",
+     "basis": "documented"
+    },
+    {
+     "name": "François van Aerssen",
+     "relation": "grandfather",
+     "years": "1572–1641",
+     "note": "Diplomat in Paris, baron from 1636, who built up the family's wealth and lordships.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Margaret (Marguerite), Marquise of Saint-André-Montbrun",
+     "relation": "spouse",
+     "years": "17th c.",
+     "note": "His French wife, through whom he held the title of Marquis of Saint-André-Montbrun.",
+     "basis": "documented"
+    },
+    {
+     "name": "Laurens Verboom",
+     "relation": "predecessor and aide",
+     "years": "d. 1688",
+     "note": "The previous commander of Suriname, who became his assistant and was killed with him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Johan van Scharphuizen",
+     "relation": "successor as governor",
+     "years": "1689–1695",
+     "note": "Succeeded him as governor of the Society's colony.",
+     "basis": "documented"
+    },
+    {
+     "name": "François Cornelis van Aerssen van Sommelsdijck",
+     "relation": "family heir",
+     "years": "1725–1793",
+     "note": "Sold the family's Suriname share to Amsterdam in 1770 for 700,000 guilders.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Sommelsdijk branch of the family has died out, per Dutch genealogical sources; a collateral Van Aerssen branch survives in the Dutch nobility. The family's stake in Suriname was sold to Amsterdam in 1770, and Fort Sommelsdijk survives as an overgrown site. No publicly documented descendants have spoken about the link."
+  },
+  {
+   "id": "otto-friedrich-von-der-groeben",
+   "name": "Otto Friedrich von der Groeben",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Brandenburg-Prussia",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "He commanded the 1682–83 expedition that founded Groß Friedrichsburg, the base from which the Brandenburg company traded captives for the next four decades; no voyage counts are attributed to him personally.",
+   "start": 1682,
+   "end": 1683,
+   "lifespan": "1657–1728",
+   "base": "Groß Friedrichsburg (Princes Town, Ghana) / Marienwerder (Kwidzyn)",
+   "geo": [
+    4.792,
+    -2.135
+   ],
+   "aliases": [
+    "Otto Friedrich von der Gröben"
+   ],
+   "origins": "Groeben was born in 1657 at Napraty in Warmia, the son of General Georg Heinrich von der Groeben. As a young man he travelled through Italy, Malta, Egypt, Palestine and Cyprus, returning in 1680.",
+   "role_summary": "In 1682 the Great Elector put him in command of the Brandenburg African Company's expedition to Guinea. On 1 January 1683 he raised the Brandenburg flag at Cape Three Points and began building Fort Groß Friedrichsburg, then renewed the company's treaty with Ahanta chiefs on 5 January. The fort became Brandenburg's main base for buying captives.",
+   "roleDetail": [
+    {
+     "t": "Founded Groß Friedrichsburg.",
+     "d": "His fleet left in May 1682, reached the coast in December and began the fort near present-day Princes Town on 1 January 1683.",
+     "basis": "documented"
+    },
+    {
+     "t": "Treaty with Ahanta chiefs.",
+     "d": "On 5 January 1683 he renewed the friendship treaty first signed by Philipp Pietersen Blonck, which secured the land for the company.",
+     "basis": "documented"
+    },
+    {
+     "t": "Short tenure.",
+     "d": "Struck by tropical fever, he handed command to Blonck and returned to Prussia in summer 1683; the slave trade from the fort grew after he left.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Groeben published an account of his Guinea voyage in 1694, which nationalists later used to celebrate Groß Friedrichsburg as 'Germany's first colony'. He went on to serve Venice, Prussia and Poland, rising to lieutenant general, and died in 1728 near Marienwerder (Kwidzyn), where he is buried in the cathedral.",
+   "legacyDetail": [
+    {
+     "t": "Colonial myth-making.",
+     "d": "His travel book helped shape the later Prussian and German colonial cult around Groß Friedrichsburg.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Military career.",
+     "d": "He fought for Venice in the Morea in 1686, became a Prussian Kammerherr in 1704 and a Polish lieutenant general after 1719.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Otto Friedrich von der Groeben",
+     "url": "https://en.wikipedia.org/wiki/Otto_Friedrich_von_der_Groeben"
+    },
+    {
+     "label": "Wikipedia — Brandenburger Gold Coast",
+     "url": "https://en.wikipedia.org/wiki/Brandenburger_Gold_Coast"
+    }
+   ],
+   "connections": [
+    {
+     "id": "brandenburg-african-company",
+     "type": "voyage",
+     "label": "commanded 1682–83 expedition"
+    },
+    {
+     "id": "frederick-william-brandenburg",
+     "type": "charter",
+     "label": "appointed by the Great Elector"
+    },
+    {
+     "id": "gross-friedrichsburg",
+     "type": "ownership",
+     "label": "founded the fort, 1 Jan 1683"
+    },
+    {
+     "id": "benjamin-raule",
+     "type": "voyage",
+     "label": "sailed under Raule's company"
+    },
+    {
+     "id": "john-conny",
+     "type": "legacy",
+     "label": "fort later held by Conny"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Georg Heinrich von der Groeben",
+     "relation": "father",
+     "years": "17th c.",
+     "note": "General in Prussian-Polish service; his son came from the Prussian landed nobility.",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick William, the Great Elector",
+     "relation": "patron",
+     "years": "1682",
+     "note": "Gave him command of the Guinea expedition.",
+     "id": "frederick-william-brandenburg",
+     "basis": "documented"
+    },
+    {
+     "name": "Philipp Pietersen Blonck",
+     "relation": "colleague & successor",
+     "years": "1681–1683",
+     "note": "Signed the first Ahanta treaty in 1681 and took over command of the fort when Groeben fell ill.",
+     "basis": "documented"
+    },
+    {
+     "name": "Von der Groeben family",
+     "relation": "descendants",
+     "years": "18th c.–",
+     "note": "He married three times and had 20 children; the noble family continued in Prussia.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced who connect themselves to his African voyage, though the von der Groeben noble family continued after him. Groß Friedrichsburg survives as a ruin at Pokesu (Princes Town) in Ghana."
+  },
+  {
+   "id": "laurens-de-geer",
+   "name": "Laurens De Geer",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Sweden",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Co-founder and Amsterdam commissioner of the Swedish Africa Company, whose total slave trade was small (c. 300–400 captives to São Tomé, per Wikipedia/Nováky); in 1657 he contracted to sell a further 500–600 captives to be bought on the Guinea coast.",
+   "start": 1649,
+   "end": 1663,
+   "lifespan": "1614–1666",
+   "base": "Amsterdam, Dutch Republic",
+   "geo": [
+    52.373,
+    4.893
+   ],
+   "aliases": [
+    "Laurens de Geer",
+    "Lourens de Geer"
+   ],
+   "origins": "Laurens was a son of Louis De Geer, the Walloon-born iron and armaments magnate of Sweden, and Adrienne Gérard. He worked from Amsterdam as the family's and the Swedish king's commercial agent.",
+   "role_summary": "Laurens co-founded the Swedish Africa Company with his father in 1649. In Amsterdam he signed its hiring contracts, including Hendrik Carloff's appointment as director and commandant. On 15 August 1657, acting for the company's directors, he contracted with three Amsterdam merchants to ship goods to the Guinea coast to be exchanged for 'against 500 to 600' enslaved Africans, bound towards Curaçao.",
+   "roleDetail": [
+    {
+     "t": "Co-founder of the company.",
+     "d": "He shared the 1649 founding with Louis under Queen Christina's charter.",
+     "basis": "documented"
+    },
+    {
+     "t": "Hired Carloff.",
+     "d": "Amsterdam notarial records of 1649 show Laurens, as the Swedish king's commissioner, engaging Carloff and the company's African staff.",
+     "basis": "documented"
+    },
+    {
+     "t": "1657 slave-trade contract.",
+     "d": "The contract, published by G.W. Kernkamp in 1901, names him as the seller in a deal for 500–600 captives.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Swedish Africa Company was wound up in 1663 after the Dutch WIC paid damages. Laurens's son Gerardus continued the family's Amsterdam line, and the wider De Geer family remains a noble family in Sweden and the Netherlands.",
+   "legacyDetail": [
+    {
+     "t": "Dutch branch.",
+     "d": "The ECARTICO database records Gerardus de Geer, an Amsterdam figure, as Laurens's son.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Bijdragen en Mededeelingen van het Historisch Genootschap — G.W. Kernkamp, 'Een contract tot slavenhandel van 1657'",
+     "url": "https://dbnl.org/tekst/_bij005190101_01/_bij005190101_01_0013.php"
+    },
+    {
+     "label": "Amsterdam City Archives (Open Archieven) — 1649 contract hiring Hendrik Carloff",
+     "url": "https://www.openarchieven.nl/transcripties/toon/NL-AsdSAA_5071036_44?lang=en"
+    },
+    {
+     "label": "Wikipedia — Swedish Africa Company",
+     "url": "https://en.wikipedia.org/wiki/Swedish_Africa_Company"
+    },
+    {
+     "label": "ECARTICO (University of Amsterdam) — Gerardus de Geer, son of Laurens de Geer",
+     "url": "https://vondel.humanities.uva.nl/ecartico/persons/62200"
+    }
+   ],
+   "connections": [
+    {
+     "id": "de-geer-family",
+     "type": "family",
+     "label": "son of Louis De Geer"
+    },
+    {
+     "id": "swedish-africa-company",
+     "type": "ownership",
+     "label": "co-founder & commissioner"
+    },
+    {
+     "id": "hendrik-carloff",
+     "type": "charter",
+     "label": "hired Carloff, 1649"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "trade",
+     "label": "1657 contract for 500–600 captives"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Louis De Geer",
+     "relation": "father",
+     "years": "1587–1652",
+     "note": "Brought Laurens into the Swedish Africa venture and its founding.",
+     "id": "de-geer-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Hendrik Carloff",
+     "relation": "employee",
+     "years": "1649–1657",
+     "note": "Director Laurens hired, who later deserted to Denmark.",
+     "id": "hendrik-carloff",
+     "basis": "documented"
+    },
+    {
+     "name": "Gerardus de Geer",
+     "relation": "son",
+     "years": "17th c.",
+     "note": "Continued the family's Amsterdam line.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants of Laurens specifically have spoken about the link. The wider De Geer family, with Swedish and Dutch branches, remains prominent."
+  },
+  {
+   "id": "charlotte-schimmelmann",
+   "name": "Charlotte Schimmelmann",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Denmark-Norway",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Wife of Ernst Schimmelmann, whose family owned four Danish West Indian plantations with about 1,000 enslaved people (per lex.dk); her own role was social and political, not managerial.",
+   "start": 1782,
+   "end": 1816,
+   "lifespan": "1757–1816",
+   "base": "Copenhagen (Bredgade) / Sølyst, Klampenborg",
+   "geo": [
+    55.684,
+    12.591
+   ],
+   "aliases": [
+    "Magdalene Charlotte Hedevig Schimmelmann",
+    "née Schubart"
+   ],
+   "origins": "She was born Magdalene Charlotte Schubart at Fossum near Skien, Norway, in 1757, the daughter of Lieutenant Carl Rudolph Schubart and Inger Løvenskiold. In 1782 she married Count Ernst Heinrich von Schimmelmann, one of Denmark's richest men and soon its finance minister.",
+   "role_summary": "Funded by plantation and trading wealth, she ran Denmark's best-known salon, at the Bredgade palace and at Sølyst, where diplomats, officials and scholars met. According to lex.dk, she and her sister repeatedly urged Ernst to act on the slave question, and the 1792 decree ending the Danish trade from 1803 was seen as a 'personal triumph' for the couple. The ten-year transition and the family's continued plantation ownership limited what it changed.",
+   "roleDetail": [
+    {
+     "t": "Political salon.",
+     "d": "Her salon worked as a political meeting place for the post-1784 reform government of Bernstorff, Reventlow and Schimmelmann.",
+     "basis": "documented"
+    },
+    {
+     "t": "Pressure on the slave question.",
+     "d": "Danish biography credits her with pushing Ernst towards the 1792 abolition decree.",
+     "basis": "documented"
+    },
+    {
+     "t": "Plantation wealth.",
+     "d": "The household was funded by an estate whose largest asset was its West Indian plantations and the enslaved people on them.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Most of the Schimmelmann fortune was lost in the 1813 state bankruptcy. The childless couple took in two foster children in 1790, one of whom, Louison, they later adopted. Her letters, published in the Reventlow family papers (1895–1932), shaped how historians see her salon; she also supported Friedrich Schiller.",
+   "legacyDetail": [
+    {
+     "t": "Historiography.",
+     "d": "A 2020 study in the journal 1700-tal argues that the publication of her letters shaped later accounts of her salon.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Den Store Danske (lex.dk) — Charlotte Schimmelmann",
+     "url": "https://lex.dk/Charlotte_Schimmelmann"
+    },
+    {
+     "label": "Wikipedia — Charlotte Schimmelmann",
+     "url": "https://en.wikipedia.org/wiki/Charlotte_Schimmelmann"
+    },
+    {
+     "label": "Nordic Women's Literature — Charlotte Hedevig Schimmelmann",
+     "url": "https://nordicwomensliterature.net/writers/schimmelmann-charlotte-hedevig/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "schimmelmann-family",
+     "type": "family",
+     "label": "married Ernst Schimmelmann 1782"
+    },
+    {
+     "id": "danish-1792-decree",
+     "type": "political",
+     "label": "urged the 1792 ban"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "plantation",
+     "label": "family plantations, c. 1,000 enslaved"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Carl Rudolph Schubart & Inger Løvenskiold",
+     "relation": "parents",
+     "years": "1714–1759; 1732–1808",
+     "note": "Norwegian officer and a daughter of the Løvenskiold ironworks family.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ernst Heinrich von Schimmelmann",
+     "relation": "spouse",
+     "years": "1747–1831; m. 1782",
+     "note": "Finance minister and heir to Heinrich Carl's plantations and firm.",
+     "id": "schimmelmann-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Louison (adopted daughter)",
+     "relation": "adopted daughter",
+     "years": "from 1790",
+     "note": "A craftsman's daughter taken in as a foster child in 1790 and later adopted.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; the couple had no children of their own, and Lindenborg passed to other Schimmelmann heirs."
+  },
+  {
+   "id": "heinrich-ludwig-ernst-schimmelmann",
+   "name": "Heinrich Ludwig Ernst von Schimmelmann",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Denmark-Norway",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Manager of the Schimmelmann plantations on St Croix (c. 1,000 enslaved people across four estates) from 1768, and governor-general of the Danish West Indies 1784–87.",
+   "start": 1768,
+   "end": 1787,
+   "lifespan": "1743–1793",
+   "base": "Christiansted, St Croix",
+   "geo": [
+    17.746,
+    -64.703
+   ],
+   "aliases": [
+    "Henrik Ludvig Ernst von Schimmelmann"
+   ],
+   "origins": "He was born in 1743 at Gross-Luckow, the son of Jacob Schimmelmann and Margrethe Sabine Neye, and was a nephew of Heinrich Carl von Schimmelmann. He grew up partly in his uncle's Hamburg house and became his chief bookkeeper in Copenhagen in 1765.",
+   "role_summary": "In 1768 his uncle sent him to the Danish West Indies to manage the family's sugar plantations and the enslaved people on them. He rose through the colonial government of St Croix, serving as vice governor and briefly as acting governor-general in 1773, and as governor-general of the Danish West Indies from 1784 to 1787.",
+   "roleDetail": [
+    {
+     "t": "Plantation manager.",
+     "d": "He ran Heinrich Carl's St Croix estates from 1768.",
+     "basis": "documented"
+    },
+    {
+     "t": "Colonial governor.",
+     "d": "He was vice governor of St Croix from 1773, acting governor-general in July–October 1773, and governor-general from 1784 to 1787, made major-general in 1785.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Ennobled in 1780, he returned to Denmark in the late 1780s and in 1790 bought Skodsborg House, which his widow kept until 1808. He died in Copenhagen in 1793 and is buried at the Garrison Cemetery.",
+   "legacyDetail": [
+    {
+     "t": "Family-run colony.",
+     "d": "His career shows how the Schimmelmanns combined plantation ownership with control of the colonial government.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Henrik Ludvig Ernst von Schimmelmann",
+     "url": "https://en.wikipedia.org/wiki/Henrik_Ludvig_Ernst_von_Schimmelmann"
+    },
+    {
+     "label": "Den Store Danske (lex.dk) — Heinrich Carl Schimmelmann",
+     "url": "https://lex.dk/Heinrich_Carl_Schimmelmann"
+    }
+   ],
+   "connections": [
+    {
+     "id": "schimmelmann-family",
+     "type": "family",
+     "label": "nephew of Heinrich Carl"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "plantation",
+     "label": "managed St Croix estates; governor-general"
+    },
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "charter",
+     "label": "royal governor-general 1784–87"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Jacob Schimmelmann & Margrethe Sabine Neye",
+     "relation": "parents",
+     "years": "18th c.",
+     "note": "Jacob was Heinrich Carl's brother.",
+     "basis": "documented"
+    },
+    {
+     "name": "Heinrich Carl von Schimmelmann",
+     "relation": "uncle & employer",
+     "years": "1724–1782",
+     "note": "Employed him as bookkeeper and sent him to run the plantations.",
+     "id": "schimmelmann-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Henriette Cathrine Schäffer (née Lexmond)",
+     "relation": "spouse",
+     "years": "m. 1775; d. 1816",
+     "note": "Married on St Croix; she kept Skodsborg until 1808.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His Skodsborg estate was sold by his widow in 1808."
+  },
+  {
+   "id": "margaret-hardenbroeck",
+   "name": "Margaret Hardenbroeck",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A leading shipowner in New Amsterdam and New York (ships including the New Netherland Indian, Beaver, Pearl, Morning Star and King Charles); her fleet and capital underpinned the Philipse trade, which included enslaved Africans, but no voyage counts are attributed to her personally.",
+   "start": 1662,
+   "end": 1691,
+   "lifespan": "c.1637–c.1691",
+   "base": "New Amsterdam (New York)",
+   "geo": [
+    40.704,
+    -74.013
+   ],
+   "aliases": [
+    "Margaret Hardenbroeck de Vries Philipse",
+    "Margaret Hardenbrook Philipse",
+    "Margrieta Hardenbroeck"
+   ],
+   "origins": "Born in the Rhine region and raised in a merchant family, she came to New Amsterdam about 1659 as an agent for a relative's trading business. She married the merchant Pieter Rudolphus de Vries in 1659, and when he died in 1661 she inherited his property and ships.",
+   "role_summary": "Trading in her own name under Dutch law, she sailed as supercargo on her own ships, exporting furs to the Netherlands and importing goods to New Amsterdam. Her 1662 marriage to Frederick Philipse combined their businesses; the Philipse fleet built on her ships became one of the northern colonies' largest carriers of enslaved Africans.",
+   "roleDetail": [
+    {
+     "t": "Shipowner in her own right.",
+     "d": "She owned and sailed with several transatlantic ships, among them the New Netherland Indian, Beaver, Pearl and Morning Star, and is credited with something close to a regular packet line between the Netherlands and New Amsterdam.",
+     "basis": "documented"
+    },
+    {
+     "t": "Capital behind the Philipse fortune.",
+     "d": "Their 1662 marriage, made under Dutch law so that she kept her own legal identity, merged her inherited fleet and business with Frederick Philipse's; after the English conquest of 1664 her business was carried on under his name.",
+     "basis": "documented"
+    },
+    {
+     "t": "Fleet linked to the slave trade.",
+     "d": "The Philipse ships that grew from this joint business carried enslaved Africans to New York, and in 1698 Governor Bellomont barred Frederick Philipse from office for bringing captives into the colony.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Her sons Philip and Adolph took over the business; Adolph built up the Philipsburg Upper Mills, where enslaved people did the work. Through her daughter Eva, who married Jacobus Van Cortlandt, her descendants include Founding Father John Jay. Historic Hudson Valley presents her as a pioneering woman merchant at Philipsburg Manor.",
+   "legacyDetail": [
+    {
+     "t": "Line to John Jay.",
+     "d": "Eva de Vries Philipse married Jacobus Van Cortlandt; their daughter Mary Van Cortlandt was John Jay's mother.",
+     "basis": "documented"
+    },
+    {
+     "t": "Commemorated as a woman entrepreneur.",
+     "d": "She is named on the Heritage Floor of Judy Chicago's 'The Dinner Party' (Brooklyn Museum), and the Philipse involvement in the slave trade is discussed at Philipsburg Manor.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Margaret Hardenbroeck",
+     "url": "https://en.wikipedia.org/wiki/Margaret_Hardenbroeck"
+    },
+    {
+     "label": "Historic Hudson Valley — Margaret Hardenbroeck DeVries Philipse (c. 1630–c. 1690)",
+     "url": "https://hudsonvalley.org/?p=4906"
+    },
+    {
+     "label": "Encyclopedia.com — Philipse, Margaret Hardenbrook (d. 1690)",
+     "url": "https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/philipse-margaret-hardenbrook-d-1690"
+    },
+    {
+     "label": "Brooklyn Museum — Margaret Philipse (Dinner Party Heritage Floor)",
+     "url": "https://brooklynmuseum.org/eascfa/dinner_party/heritage_floor/margaret_philipse"
+    }
+   ],
+   "connections": [
+    {
+     "id": "philipse-family",
+     "type": "family",
+     "label": "married Frederick Philipse 1662; fleet and capital"
+    },
+    {
+     "id": "van-cortlandt-family",
+     "type": "family",
+     "label": "daughter Eva married Jacobus Van Cortlandt"
+    },
+    {
+     "id": "new-amsterdam",
+     "type": "trade",
+     "label": "merchant and shipowner"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "trade",
+     "label": "transatlantic shipping to Holland"
+    },
+    {
+     "id": "philipsburg-manor",
+     "type": "legacy",
+     "label": "sons inherited business and manor"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Adolph Hardenbroeck",
+     "relation": "father",
+     "years": "17th c.",
+     "note": "Emigrant from the Rhine region whose family trading network brought Margaret to New Amsterdam.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pieter Rudolphus de Vries",
+     "relation": "first husband",
+     "years": "d.1661",
+     "note": "Merchant whose property and ships she inherited when he died in 1661.",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Philipse",
+     "relation": "second husband",
+     "years": "1626–1702",
+     "note": "Married in 1662; their merged business became the Philipse fortune.",
+     "id": "philipse-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Philip and Adolph Philipse",
+     "relation": "sons / heirs",
+     "years": "1663–1750",
+     "note": "Took over her business when she retired in about 1680; Adolph ran the Philipsburg Upper Mills.",
+     "id": "philipsburg-manor",
+     "basis": "documented"
+    },
+    {
+     "name": "Eva de Vries Philipse and Jacobus Van Cortlandt",
+     "relation": "daughter / son-in-law",
+     "years": "1660–1739",
+     "note": "Their marriage joined the Philipse and Van Cortlandt fortunes.",
+     "id": "van-cortlandt-family",
+     "basis": "documented"
+    },
+    {
+     "name": "John Jay",
+     "relation": "great-grandson",
+     "years": "1745–1829",
+     "note": "Son of Mary Van Cortlandt and Peter Jay; first Chief Justice of the United States.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Her best-known descendant is John Jay, through her daughter Eva and the Van Cortlandts. The Philipse fortune built on her ships was confiscated from Loyalist heirs after the Revolution. Philipsburg Manor (Historic Hudson Valley) interprets her story alongside those of the people the family enslaved."
+  },
+  {
+   "id": "escher-family-zurich",
+   "name": "Escher family (Escher vom Glas, Zurich)",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Switzerland",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Held the Buen Retiro coffee plantation near Artemisa, Cuba, with about 85 enslaved people (c.1821–1845, per HLS); Hans Caspar Escher and the Hottinguer firm are also linked to the slave trade.",
+   "start": 1801,
+   "end": 1846,
+   "lifespan": "1801–1882 (slavery-linked generation to Alfred Escher)",
+   "base": "Zurich, Switzerland",
+   "geo": [
+    47.37,
+    8.539
+   ],
+   "aliases": [
+    "Escher vom Glas",
+    "Heinrich Escher",
+    "Friedrich Ludwig Escher",
+    "Alfred Escher"
+   ],
+   "origins": "The Eschers vom Glas were an old Zurich patrician family active in textiles and finance. Hans Caspar Escher (1755–1831), a banker and merchant described as active in the slave trade, had nine children; his eldest, Heinrich (1776–1853), worked in the United States and from 1801 was a partner in Hottinguer & Cie.",
+   "role_summary": "Heinrich's brothers Friedrich Ludwig and Ferdinand acquired the Buen Retiro cafetal near Artemisa, Cuba, most likely in 1821, with about 85 enslaved men and women, and Heinrich backed it with money and contacts. When Friedrich Ludwig died there in 1845, Heinrich inherited an estate nearly half of whose value lay in enslaved people; his son Alfred helped settle it.",
+   "roleDetail": [
+    {
+     "t": "Cuban slave plantation.",
+     "d": "Buen Retiro had 82 field and five house slaves around 1822; Friedrich Ludwig freed only two people, Serafina and her presumed daughter Albertina, in his will.",
+     "basis": "documented"
+    },
+    {
+     "t": "Finance through Hottinguer.",
+     "d": "Heinrich was a partner from 1801 in Hottinguer & Cie, a firm involved in Atlantic commerce, including slave trade-related business, that helped finance France's expedition against the Saint-Domingue revolution.",
+     "basis": "documented"
+    },
+    {
+     "t": "Seed money for Alfred Escher.",
+     "d": "Heinrich's fortune of about a million francs, partly derived from slavery, was the economic base of his son Alfred, who founded Credit Suisse in 1856.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Alfred Escher (1819–1882) founded Schweizerische Kreditanstalt (Credit Suisse), drove the Gotthard railway, and helped create ETH Zurich and Swiss Life; his statue stands in front of Zurich main station. The Cuban plantation became a public issue in 1846 and was rediscovered in 21st-century Swiss research on colonial entanglements.",
+   "legacyDetail": [
+    {
+     "t": "No living direct descendants of Alfred.",
+     "d": "Alfred's only daughter, Lydia Welti-Escher, died in 1891, ending his direct line; the wider Escher family continues in Zurich.",
+     "basis": "documented"
+    },
+    {
+     "t": "Monument debate.",
+     "d": "The Cuban link has been raised in Swiss debates on slavery-linked fortunes, including about Credit Suisse's founder.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historisches Lexikon der Schweiz — Heinrich Escher",
+     "url": "https://hls-dhs-dss.ch/fr/articles/030956/"
+    },
+    {
+     "label": "Wikipedia — Heinrich Escher (1776–1853)",
+     "url": "https://en.wikipedia.org/wiki/Heinrich_Escher_(1776%E2%80%931853)"
+    },
+    {
+     "label": "Wikipedia — Alfred Escher",
+     "url": "https://en.wikipedia.org/wiki/Alfred_Escher"
+    },
+    {
+     "label": "Wikipedia — Friedrich Ludwig Escher",
+     "url": "https://en.wikipedia.org/wiki/Friedrich_Ludwig_Escher"
+    }
+   ],
+   "connections": [
+    {
+     "id": "credit-suisse",
+     "type": "legacy",
+     "label": "Alfred Escher founded Kreditanstalt 1856"
+    },
+    {
+     "id": "port-havana",
+     "type": "plantation",
+     "label": "Buen Retiro cafetal, western Cuba"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "finance",
+     "label": "Hottinguer financed 1802 expedition"
+    },
+    {
+     "id": "leu-and-co-zurich",
+     "type": "parallel",
+     "label": "Zurich capital in slavery economies"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Hans Caspar Escher",
+     "relation": "father",
+     "years": "1755–1831",
+     "note": "Zurich banker and merchant described as active in the slave trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hottinguer & Cie",
+     "relation": "partner firm",
+     "years": "from 1801",
+     "note": "Heinrich became a partner in this Paris-linked house, involved in Atlantic trade and the Saint-Domingue expedition finance.",
+     "basis": "documented"
+    },
+    {
+     "name": "Heinrich Escher",
+     "relation": "financier",
+     "years": "1776–1853",
+     "note": "Backed the Cuban plantation and inherited most of it in 1845.",
+     "basis": "documented"
+    },
+    {
+     "name": "Friedrich Ludwig and Ferdinand Escher",
+     "relation": "brothers / planters",
+     "years": "1779–1845",
+     "note": "Ran Buen Retiro with about 85 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alfred Escher",
+     "relation": "son / heir",
+     "years": "1819–1882",
+     "note": "Helped settle the Cuban inheritance, then founded Credit Suisse, ETH and the Gotthard railway project.",
+     "id": "credit-suisse",
+     "basis": "documented"
+    },
+    {
+     "name": "Lydia Welti-Escher",
+     "relation": "granddaughter",
+     "years": "1858–1891",
+     "note": "Alfred's only child; she left her fortune to found the Gottfried Keller Foundation for Swiss art.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Alfred Escher has no living direct descendants: his only daughter, Lydia Welti-Escher, died in 1891 and left her fortune to the Gottfried Keller Foundation. The wider Escher family remains a Zurich patrician family. The money Heinrich passed on went into the founding of Credit Suisse, now absorbed into UBS."
+  },
+  {
+   "id": "credit-suisse",
+   "name": "Credit Suisse (Schweizerische Kreditanstalt)",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Switzerland",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Founded after Swiss involvement in slavery; its links are inherited: founder Alfred Escher's family fortune came partly from a Cuban slave plantation (c.85 enslaved people), and it absorbed Bank Leu, the successor of Zurich's 1755 commission that held South Sea and Compagnie des Indes stock.",
+   "start": 1856,
+   "end": 2024,
+   "lifespan": "1856–2024",
+   "base": "Zurich (Paradeplatz), Switzerland",
+   "geo": [
+    47.37,
+    8.539
+   ],
+   "aliases": [
+    "Schweizerische Kreditanstalt",
+    "SKA",
+    "CS Holding",
+    "Credit Suisse Group"
+   ],
+   "origins": "Alfred Escher founded the Schweizerische Kreditanstalt on 5 July 1856, with the Allgemeine Deutsche Credit-Anstalt, mainly to finance Swiss railways. Escher's father Heinrich had inherited a Cuban coffee plantation worked by enslaved people in 1845, which Alfred helped him settle.",
+   "role_summary": "Credit Suisse did not itself trade in captives. Its connection to slavery runs through its founder's family fortune and through Bank Leu, which it acquired in 1990; Bank Leu descended from the Zurich state commission that had invested public money in the slave-trading South Sea Company and Compagnie des Indes.",
+   "roleDetail": [
+    {
+     "t": "Founder's slavery-linked wealth.",
+     "d": "Heinrich Escher's fortune of about a million francs, nearly half of his 1845 Cuban inheritance being the value of enslaved people, underpinned Alfred's career.",
+     "basis": "documented"
+    },
+    {
+     "t": "Absorbed Bank Leu.",
+     "d": "CS Holding bought Bank Leu in 1990; it was merged into Clariden Leu (2006–07) and absorbed into Credit Suisse in 2012.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "UBS agreed to take over Credit Suisse on 19 March 2023 to avert its collapse; the deal closed in June 2023, and Credit Suisse ceased to exist as a legal entity on 31 May 2024. Alfred Escher's statue still stands outside Zurich main station.",
+   "legacyDetail": [
+    {
+     "t": "Now part of UBS.",
+     "d": "Liabilities and archives of Credit Suisse and of Bank Leu now sit with UBS Group.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Credit Suisse",
+     "url": "https://en.wikipedia.org/wiki/Credit_Suisse"
+    },
+    {
+     "label": "Historisches Lexikon der Schweiz — Bank Leu",
+     "url": "https://hls-dhs-dss.ch/de/articles/041661/"
+    },
+    {
+     "label": "Wikipedia — Alfred Escher",
+     "url": "https://en.wikipedia.org/wiki/Alfred_Escher"
+    }
+   ],
+   "connections": [
+    {
+     "id": "escher-family-zurich",
+     "type": "ownership",
+     "label": "founded by Alfred Escher 1856"
+    },
+    {
+     "id": "leu-and-co-zurich",
+     "type": "legacy",
+     "label": "acquired Bank Leu 1990"
+    },
+    {
+     "id": "south-sea-company",
+     "type": "legacy",
+     "label": "via Bank Leu's predecessor investments"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Zurich Zinskommission / Leu & Co.",
+     "relation": "absorbed predecessor",
+     "years": "1755–1990",
+     "note": "Zurich's state investment commission, invested in the South Sea Company and Compagnie des Indes, which became Bank Leu.",
+     "id": "leu-and-co-zurich",
+     "basis": "documented"
+    },
+    {
+     "name": "Heinrich Escher",
+     "relation": "founder's father",
+     "years": "1776–1853",
+     "note": "His Cuban slave-plantation inheritance formed part of the family fortune.",
+     "id": "escher-family-zurich",
+     "basis": "documented"
+    },
+    {
+     "name": "Alfred Escher",
+     "relation": "founder",
+     "years": "1819–1882",
+     "note": "Founded the Kreditanstalt in 1856 to finance railways.",
+     "id": "escher-family-zurich",
+     "basis": "documented"
+    },
+    {
+     "name": "CS Holding / Credit Suisse Group",
+     "relation": "successor",
+     "years": "1980s–2023",
+     "note": "Bought Bank Leu (1990) and folded it into Clariden Leu and then into Credit Suisse (2012).",
+     "basis": "documented"
+    },
+    {
+     "name": "UBS",
+     "relation": "successor",
+     "years": "2023–present",
+     "note": "Took over Credit Suisse in 2023; Credit Suisse ceased to exist as a legal entity in 2024.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Credit Suisse no longer exists. UBS took it over in 2023 and absorbed the legal entity in 2024. The bank has no family heirs: founder Alfred Escher's direct line ended with his daughter Lydia's death in 1891."
+  }
+ ],
+ "events": [
+  {
+   "year": 1521,
+   "title": "Wolof revolt on Diego Colón's sugar estate",
+   "text": "Around 25–26 December 1521 enslaved Wolof-speaking Africans rose on the Hispaniola sugar plantation of governor Diego Colón; the revolt was suppressed and followed by the first slave ordinances in the Americas (January 1522).",
+   "ids": [
+    "diego-colon",
+    "hispaniola-colony"
+   ],
+   "source": {
+    "label": "BlackPast — The 1521 Santo Domingo Slave Revolt",
+    "url": "https://new.blackpast.org/global-african-history/the-1521-santo-domingo-slave-revolt"
+   }
+  },
+  {
+   "year": 1536,
+   "title": "Columbus heirs become Dukes of Veragua",
+   "text": "Luis Colón surrendered the Columbian viceroyalty in return for an annuity, the fief of Jamaica and the titles Duke of Veragua and Marquess of Jamaica.",
+   "ids": [
+    "luis-colon-veragua",
+    "diego-colon",
+    "crown-of-castile"
+   ],
+   "source": {
+    "label": "Wikipedia — Luis Colón, 1st Duke of Veragua",
+    "url": "https://en.wikipedia.org/wiki/Luis_Col%C3%B3n,_1st_Duke_of_Veragua"
+   }
+  },
+  {
+   "year": 1528,
+   "title": "Welser contracts with Charles V",
+   "text": "Agents of Bartholomäus Welser's firm sign the licence for 4,000 enslaved Africans and the grant of Venezuela.",
+   "ids": [
+    "bartholomaus-welser",
+    "welser-family",
+    "crown-of-castile"
+   ],
+   "source": {
+    "label": "Wikipedia — Bartholomeus Welser V",
+    "url": "https://en.wikipedia.org/wiki/Bartholomeus_Welser_V"
+   }
+  },
+  {
+   "year": 1871,
+   "title": "Güell–López marriage",
+   "text": "Eusebi Güell marries Isabel López Bru, joining two Cuban-made fortunes; their son later inherits the Comillas title.",
+   "ids": [
+    "eusebi-guell",
+    "antonio-lopez-comillas"
+   ],
+   "source": {
+    "label": "Wikipedia — Eusebi Güell",
+    "url": "https://en.wikipedia.org/wiki/Eusebi_G%C3%BCell"
+   }
+  },
+  {
+   "year": 1883,
+   "title": "Claudio López Bru inherits Comillas",
+   "text": "On Antonio López's death his son Claudio inherits the Trasatlántica, Tabacos de Filipinas and the marquisate.",
+   "ids": [
+    "claudio-lopez-bru",
+    "antonio-lopez-comillas",
+    "compania-trasatlantica"
+   ],
+   "source": {
+    "label": "Wikipedia — Claudio López, 2nd Marquess of Comillas",
+    "url": "https://en.wikipedia.org/wiki/Claudio_L%C3%B3pez,_2nd_Marquess_of_Comillas"
+   }
+  },
+  {
+   "year": 1688,
+   "title": "Governor of Suriname killed by mutineers",
+   "text": "On 19 July 1688 mutinous soldiers shot Cornelis van Aerssen van Sommelsdijck, co-owner and governor of the Society of Suriname, together with Laurens Verboom.",
+   "ids": [
+    "cornelis-van-aerssen-van-sommelsdijck",
+    "society-of-suriname",
+    "van-aerssen-van-sommelsdijck-family"
+   ],
+   "source": {
+    "label": "Wikipedia — Cornelis van Aerssen van Sommelsdijck",
+    "url": "https://en.wikipedia.org/wiki/Cornelis_van_Aerssen_van_Sommelsdijck"
+   }
+  },
+  {
+   "year": 1770,
+   "title": "Sommelsdijk share in Suriname sold to Amsterdam",
+   "text": "François Cornelis van Aerssen van Sommelsdijck sold the family's one-third share of the Society of Suriname to the city of Amsterdam for 700,000 guilders.",
+   "ids": [
+    "van-aerssen-van-sommelsdijck-family",
+    "society-of-suriname",
+    "port-amsterdam"
+   ],
+   "source": {
+    "label": "JamesBoswell.info — Francis Cornelius van Aerssen van Sommelsdyck",
+    "url": "https://www.jamesboswell.info/biography/francis-cornelius-van-aerssen-van-sommelsdyck"
+   }
+  },
+  {
+   "year": 1763,
+   "title": "Gradis contract paid in captives",
+   "text": "With Choiseul's backing, Abraham Gradis won a contract to supply French posts in West Africa; he accepted enslaved people as payment and sold them in Saint-Domingue for sugar.",
+   "ids": [
+    "abraham-gradis",
+    "gradis-family",
+    "crown-of-france",
+    "saint-domingue"
+   ],
+   "source": {
+    "label": "Encyclopedia.com — Gradis",
+    "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gradis"
+   }
+  },
+  {
+   "year": 1683,
+   "title": "Groeben founds Groß Friedrichsburg",
+   "text": "On 1 January 1683 Otto Friedrich von der Groeben raised the Brandenburg flag at Cape Three Points and began the fort that became Brandenburg's base for buying captives.",
+   "ids": [
+    "otto-friedrich-von-der-groeben",
+    "brandenburg-african-company",
+    "gross-friedrichsburg"
+   ],
+   "source": {
+    "label": "Wikipedia — Otto Friedrich von der Groeben",
+    "url": "https://en.wikipedia.org/wiki/Otto_Friedrich_von_der_Groeben"
+   }
+  },
+  {
+   "year": 1657,
+   "title": "Laurens De Geer's slave-trade contract",
+   "text": "In Amsterdam on 15 August 1657, Laurens De Geer, acting for the Swedish Africa Company, contracted with three Amsterdam merchants for a cargo to be traded on the Guinea coast for 500–600 captives.",
+   "ids": [
+    "laurens-de-geer",
+    "swedish-africa-company"
+   ],
+   "source": {
+    "label": "Bijdragen en Mededeelingen van het Historisch Genootschap — 'Een contract tot slavenhandel van 1657'",
+    "url": "https://dbnl.org/tekst/_bij005190101_01/_bij005190101_01_0013.php"
+   }
+  },
+  {
+   "year": 1784,
+   "title": "A Schimmelmann governs the Danish West Indies",
+   "text": "Heinrich Ludwig Ernst von Schimmelmann, nephew of the largest Danish plantation owner, became governor-general of the Danish West Indies (1784–87).",
+   "ids": [
+    "heinrich-ludwig-ernst-schimmelmann",
+    "schimmelmann-family",
+    "danish-west-indies"
+   ],
+   "source": {
+    "label": "Wikipedia — Henrik Ludvig Ernst von Schimmelmann",
+    "url": "https://en.wikipedia.org/wiki/Henrik_Ludvig_Ernst_von_Schimmelmann"
+   }
+  },
+  {
+   "year": 1662,
+   "title": "Margaret Hardenbroeck marries Frederick Philipse",
+   "text": "The widow-shipowner's fleet and business were combined with Philipse's, laying the foundation of the Philipse fortune, which included trading enslaved Africans.",
+   "ids": [
+    "margaret-hardenbroeck",
+    "philipse-family"
+   ],
+   "source": {
+    "label": "Wikipedia — Margaret Hardenbroeck",
+    "url": "https://en.wikipedia.org/wiki/Margaret_Hardenbroeck"
+   }
+  },
+  {
+   "year": 1821,
+   "title": "Escher brothers take over Buen Retiro plantation, Cuba",
+   "text": "Friedrich Ludwig and Ferdinand Escher, backed by their brother Heinrich, most likely acquired the coffee estate near Artemisa with about 85 enslaved people in 1821.",
+   "ids": [
+    "escher-family-zurich"
+   ],
+   "source": {
+    "label": "Historisches Lexikon der Schweiz — Heinrich Escher",
+    "url": "https://hls-dhs-dss.ch/fr/articles/030956/"
+   }
+  },
+  {
+   "year": 1856,
+   "title": "Alfred Escher founds the Schweizerische Kreditanstalt",
+   "text": "Heinrich Escher's son, whose family fortune was partly built on the Cuban plantation, founded the bank later known as Credit Suisse.",
+   "ids": [
+    "credit-suisse",
+    "escher-family-zurich"
+   ],
+   "source": {
+    "label": "Wikipedia — Credit Suisse",
+    "url": "https://en.wikipedia.org/wiki/Credit_Suisse"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2920 @@
+{
+ "records": [
+  {
+   "id": "plantation-overseers",
+   "name": "Plantation overseers (the overseer class)",
+   "category": "Enforcers & Aftermath",
+   "role": "Overseer & Enforcer",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Overseers ran the daily labour and punishment regime on most large holdings; on the Lloyd estate alone a dozen or more farms each had an overseer (per MSA and the Frederick Douglass Papers). National numbers are estimated, not counted here.",
+   "start": 1640,
+   "end": 1865,
+   "lifespan": "c. 1640s–1865",
+   "base": "Lloyd estate farms, Talbot County, Maryland (exemplar)",
+   "geo": [
+    38.866,
+    -76.155
+   ],
+   "aliases": [
+    "drivers' bosses",
+    "managers",
+    "Mr. Severe / Sevier",
+    "Austin (Orson) Gore",
+    "Mr. Plummer",
+    "Mr. Hopkins"
+   ],
+   "origins": "Overseers were usually white men without land or capital of their own, hired by the year by planters who did not want to manage field labour themselves. Many were sons of yeoman families who hoped to save enough to buy land and enslaved people.",
+   "role_summary": "They set work quotas, allotted rations, tracked output, and whipped or otherwise punished enslaved workers, often paid partly by a share of the crop, which rewarded driving people harder. Frederick Douglass named the overseers he saw on the Lloyd and Anthony farms — Plummer, Severe (Sevier), Hopkins and Austin Gore — and described Gore shooting a young man, Bill Demby, in 1822 without being charged.",
+   "roleDetail": [
+    {
+     "t": "Paid to extract labour.",
+     "d": "Contracts commonly tied pay or bonuses to the crop, so an overseer's income depended on the output he could force from enslaved people.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Named in Douglass's narratives.",
+     "d": "Douglass describes 'Mr. Severe' (Sevier in My Bondage and My Freedom) as a cruel whipper on the Lloyd home plantation, replaced after his death by the milder Mr. Hopkins, and Plummer as Captain Anthony's overseer.",
+     "basis": "documented"
+    },
+    {
+     "t": "Austin Gore and the killing of Bill Demby.",
+     "d": "The Frederick Douglass Papers identify Austin (Orson) Gore (1794–1871) as overseer of Edward Lloyd V's Davis's Farm, where Demby died in 1822; Lloyd later promoted Gore to the Wye House home plantation.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Overseers left few papers of their own; they are known mostly through planters' account books and survivors' testimony. In emancipation, many former overseers became managers of sharecropping and convict-labour gangs, a continuity historians debate.",
+   "legacyDetail": [
+    {
+     "t": "Survivors' testimony.",
+     "d": "Narratives such as Douglass's and the 1930s WPA interviews are the main record of overseers' violence.",
+     "basis": "documented"
+    },
+    {
+     "t": "Continuity into Jim Crow labour.",
+     "d": "Historians note overlap between plantation management and later sharecropping and convict-camp supervision; the degree of personal continuity is debated.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Mr. Plummer",
+     "relation": "overseer",
+     "years": "fl. 1820s",
+     "note": "Overseer on Aaron Anthony's farm; Douglass calls him 'a miserable drunkard, a profane swearer, and a savage monster'.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Sevier ('Mr. Severe')",
+     "relation": "overseer",
+     "years": "d. c. 1820s",
+     "note": "Overseer on the Lloyd home plantation whom Douglass remembered whipping women and children; died during Douglass's early childhood.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mr. Hopkins",
+     "relation": "successor",
+     "years": "fl. 1820s",
+     "note": "Replaced Severe; Douglass called him less cruel and he soon left the post.",
+     "basis": "documented"
+    },
+    {
+     "name": "Austin (Orson) Gore",
+     "relation": "overseer",
+     "years": "1794–1871",
+     "note": "Shot Bill Demby on Davis's Farm in 1822; later overseer of Wye House; described by a friend as 'a respectable citizen living near St. Michaels'.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants of these overseers have been traced. Their names survive mainly through Douglass's books and Lloyd family account books studied at Wye House.",
+   "sources": [
+    {
+     "label": "UNC DocSouth — Narrative of the Life of Frederick Douglass (1845)",
+     "url": "https://docsouth.unc.edu/neh/douglass/douglass.html"
+    },
+    {
+     "label": "Frederick Douglass Papers Project — Narrative ch. IV with annotation on overseer Austin Gore",
+     "url": "https://frederickdouglasspapersproject.com/item/4282"
+    },
+    {
+     "label": "Lit2Go (Univ. of South Florida) — My Bondage and My Freedom, ch. 8 'A Chapter of Horrors'",
+     "url": "https://etc.usf.edu/lit2go/45/my-bondage-and-my-freedom/1450/chapter-8-a-chapter-of-horrors/"
+    },
+    {
+     "label": "Maryland State Archives — Aaron Anthony (b. c. 1760 – d. 1826) biography",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/051800/051876/html/51876bio.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "ownership",
+     "label": "hired by the Lloyds"
+    },
+    {
+     "id": "wye-house",
+     "type": "plantation",
+     "label": "Wye House farms"
+    },
+    {
+     "id": "aaron-anthony",
+     "type": "ownership",
+     "label": "Anthony was chief overseer"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "plantation",
+     "label": "described by Douglass"
+    },
+    {
+     "id": "edward-covey",
+     "type": "parallel",
+     "label": "fellow enforcer"
+    },
+    {
+     "id": "yeoman-small-slaveholders",
+     "type": "family",
+     "label": "recruited from yeoman class"
+    },
+    {
+     "id": "slave-patrols",
+     "type": "parallel",
+     "label": "on- and off-plantation control"
+    }
+   ]
+  },
+  {
+   "id": "aaron-anthony",
+   "name": "Aaron Anthony",
+   "category": "Enforcers & Aftermath",
+   "role": "Overseer & Enforcer",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Chief overseer and manager for Edward Lloyd V; owned 4 enslaved people in 1810 and 27 at his death in 1826 (MSA estate inventory), including the young Frederick Douglass.",
+   "start": 1790,
+   "end": 1826,
+   "lifespan": "c. 1760/1766–1826",
+   "base": "Wye House, Talbot County, Maryland",
+   "geo": [
+    38.866,
+    -76.155
+   ],
+   "aliases": [
+    "Captain Anthony",
+    "'Old Master'"
+   ],
+   "origins": "Born in Talbot County of modest means, Anthony earned the title 'Captain' sailing for the Lloyds before becoming manager of Edward Lloyd V's plantations. He accumulated land and enslaved people of his own while living on the Wye House grounds.",
+   "role_summary": "As Lloyd's chief overseer he managed the outlying farms, the overseers under him, livestock and business, and placed newspaper notices for people who escaped (Phill and George; Jack, 1812; Matts, 1813). He legally owned Frederick Douglass, his mother Harriet Bailey and his grandmother Betsy; Douglass's Narrative describes Anthony whipping his aunt Hester.",
+   "roleDetail": [
+    {
+     "t": "Manager of the Lloyd system.",
+     "d": "MSA describes him handling enslaved people, livestock and transactions across Lloyd's Wye plantation complex; he became a Talbot County justice of the peace in 1823.",
+     "basis": "documented"
+    },
+    {
+     "t": "Owner of the Bailey family.",
+     "d": "Douglass's grandmother Betsy Bailey and her descendants were Anthony's property, not Lloyd's — a distinction Douglass himself blurred.",
+     "basis": "documented"
+    },
+    {
+     "t": "Violence remembered.",
+     "d": "Douglass's earliest memory of slavery's brutality was Anthony's whipping of Aunt Hester, in the Narrative's first chapter.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "At his death in November 1826 his 27 enslaved people were divided between his son Andrew Anthony and son-in-law Thomas Auld; Douglass went to Auld. Anthony is remembered almost entirely through Douglass's autobiographies and MSA records.",
+   "legacyDetail": [
+    {
+     "t": "Estate division of 1826–27.",
+     "d": "The division split families: Douglass's relatives were parcelled out between Andrew Anthony and the Aulds, and some were later sold south.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Edward Lloyd V",
+     "relation": "employer",
+     "years": "1779–1834",
+     "note": "Governor and senator who employed Anthony as chief overseer of Wye.",
+     "basis": "documented",
+     "id": "lloyd-family"
+    },
+    {
+     "name": "Lucretia Anthony Auld",
+     "relation": "daughter",
+     "years": "d. 1827",
+     "note": "Married Thomas Auld; through her Douglass passed to the Auld family.",
+     "basis": "documented",
+     "id": "auld-family"
+    },
+    {
+     "name": "Andrew Anthony",
+     "relation": "son",
+     "years": "fl. 1826",
+     "note": "Received half of the enslaved people in the estate division.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Auld",
+     "relation": "son-in-law / heir",
+     "years": "1795–1880",
+     "note": "Took ownership of Douglass after the division.",
+     "basis": "documented",
+     "id": "auld-family"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His estate passed to the Auld and Anthony heirs; Wye House remains with the Lloyd family.",
+   "sources": [
+    {
+     "label": "Maryland State Archives — Aaron Anthony (b. c. 1760 – d. 1826) biography",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/051800/051876/html/51876bio.html"
+    },
+    {
+     "label": "UNC DocSouth — Narrative of the Life of Frederick Douglass (1845)",
+     "url": "https://docsouth.unc.edu/neh/douglass/douglass.html"
+    },
+    {
+     "label": "Maryland State Archives — Frederick Douglass biography (Special Collections)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/013800/013800/html/013800bio.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "ownership",
+     "label": "chief overseer for Edward Lloyd V"
+    },
+    {
+     "id": "wye-house",
+     "type": "plantation",
+     "label": "lived and managed at Wye"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "plantation",
+     "label": "legal owner of Douglass"
+    },
+    {
+     "id": "auld-family",
+     "type": "family",
+     "label": "daughter married Thomas Auld"
+    },
+    {
+     "id": "plantation-overseers",
+     "type": "ownership",
+     "label": "supervised other overseers"
+    }
+   ]
+  },
+  {
+   "id": "edward-covey",
+   "name": "Edward Covey",
+   "category": "Enforcers & Aftermath",
+   "role": "Overseer & Enforcer",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "A small tenant farmer known locally as a 'negro-breaker'; documented almost entirely through Douglass's account of his year with Covey (1 Jan–25 Dec 1833) in three autobiographies.",
+   "start": 1833,
+   "end": 1864,
+   "lifespan": "fl. 1833–1860s",
+   "base": "Bayside, near St. Michaels, Talbot County, Maryland",
+   "geo": [
+    38.79,
+    -76.3
+   ],
+   "aliases": [
+    "'the negro-breaker'",
+    "'slave-breaker'"
+   ],
+   "origins": "Covey was a poor white farmer who rented land on the Bay side of Talbot County. Enslavers hired enslaved young men out to him cheaply because he was reputed to 'break' resistant workers, so he gained labour while they gained a compliant worker.",
+   "role_summary": "Thomas Auld hired Douglass, then about 15, out to Covey for 1833. Covey worked him in all weather and whipped him almost weekly for six months; in August 1833 Douglass fought back for about two hours and Covey never whipped him again — the turning point Douglass called his resurrection to manhood.",
+   "roleDetail": [
+    {
+     "t": "A business model of breaking.",
+     "d": "Covey's local standing as a 'breaker' let him obtain field labour almost free, a market service for enslavers.",
+     "basis": "documented"
+    },
+    {
+     "t": "Surveillance as method.",
+     "d": "Douglass describes Covey creeping up on workers to catch them resting — 'the snake'.",
+     "basis": "documented"
+    },
+    {
+     "t": "The 1833 fight.",
+     "d": "Douglass says Covey kept the defeat quiet, likely to protect his reputation, rather than having him prosecuted.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Covey's name survives as a byword for the 'slave-breaker' in American literature and teaching of the Narrative. The house called 'Mount Misery' near St. Michaels is popularly linked to him and to Douglass (and was bought by Donald Rumsfeld in 2003), but local historians argue Covey bought that property only after Douglass had left, and that the 1833 farm was at Bayside.",
+   "legacyDetail": [
+    {
+     "t": "Mount Misery dispute.",
+     "d": "Talbot County researchers Neil King Jr. and Jeff McGuiness argue the Covey–Douglass fight did not happen at the property now called Mt. Misery.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Teaching text.",
+     "d": "The Covey chapter is one of the most widely taught passages in American literature.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Auld",
+     "relation": "client",
+     "years": "1795–1880",
+     "note": "Hired Douglass out to Covey for 1833 to have him 'broken'.",
+     "basis": "documented",
+     "id": "auld-family"
+    },
+    {
+     "name": "William Freeland",
+     "relation": "successor employer",
+     "years": "fl. 1834–1836",
+     "note": "Douglass was hired to Freeland after Covey; there he planned a failed escape in 1836.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced.",
+   "sources": [
+    {
+     "label": "UNC DocSouth — Narrative of the Life of Frederick Douglass (1845)",
+     "url": "https://docsouth.unc.edu/neh/douglass/douglass.html"
+    },
+    {
+     "label": "West Chester University — Frederick Douglass biography",
+     "url": "https://www.wcupa.edu/_academics/Fdouglass/biography.aspx"
+    },
+    {
+     "label": "Talbot Spy — Neil King Jr. & Jeff McGuiness on Covey, Douglass and the 'Mt. Misery' myth",
+     "url": "https://talbotspy.org/?p=100152"
+    }
+   ],
+   "connections": [
+    {
+     "id": "frederick-douglass",
+     "type": "plantation",
+     "label": "hired Douglass in 1833"
+    },
+    {
+     "id": "auld-family",
+     "type": "trade",
+     "label": "hired Douglass from Thomas Auld"
+    },
+    {
+     "id": "plantation-overseers",
+     "type": "parallel",
+     "label": "enforcer for hire"
+    },
+    {
+     "id": "yeoman-small-slaveholders",
+     "type": "family",
+     "label": "poor-white tenant farmer"
+    }
+   ]
+  },
+  {
+   "id": "auld-family",
+   "name": "Auld family (Thomas & Hugh Auld)",
+   "category": "Enforcers & Aftermath",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Small slaveholders, documented through Douglass's narratives and MSA/NPS records, including the 1846 $100 bill of sale of Douglass between the brothers.",
+   "start": 1826,
+   "end": 1864,
+   "lifespan": "1795–1880 (Thomas); c. 1799–1861 (Hugh)",
+   "base": "St. Michaels, Talbot County, and Fells Point, Baltimore",
+   "geo": [
+    38.785,
+    -76.224
+   ],
+   "aliases": [
+    "Captain Thomas Auld",
+    "Hugh and Sophia Auld"
+   ],
+   "origins": "Thomas and Hugh were sons of Hugh Auld Sr. and Zipporah Auld of Talbot County. Thomas, a ship captain, married Aaron Anthony's daughter Lucretia and inherited Douglass in the 1826–27 estate division; Hugh was a Baltimore shipbuilder.",
+   "role_summary": "Thomas sent the child Douglass to Hugh's household in Baltimore, where Sophia Auld began teaching him to read until Hugh forbade it. Thomas later recalled him to St. Michaels (1833), hired him to the slave-breaker Covey, and after a failed 1836 escape plot sent him back to Hugh, from whom he escaped in 1838. In 1846 Thomas sold Douglass to Hugh for $100 so British supporters could buy his freedom.",
+   "roleDetail": [
+    {
+     "t": "Literacy forbidden.",
+     "d": "Hugh Auld's order that Sophia stop teaching Douglass, and his reasoning that reading would 'unfit him to be a slave', is a key passage of the Narrative.",
+     "basis": "documented"
+    },
+    {
+     "t": "Hiring out for profit.",
+     "d": "Hugh hired Douglass out as a caulker in the Fells Point shipyards and collected his wages.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sale and manumission, 1846.",
+     "d": "MSA and NPS hold the bill of sale from Thomas to Hugh (November 1846); Hugh then manumitted Douglass after British abolitionists paid about £150.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Thomas Auld met Douglass again in St. Michaels in 1877, a reconciliation Douglass described in Life and Times. The family's St. Michaels and Baltimore connections are interpreted by the Maryland State Archives' 'Son of Maryland' exhibit and the NPS Frederick Douglass collection.",
+   "legacyDetail": [
+    {
+     "t": "1877 meeting.",
+     "d": "Douglass visited the elderly, ailing Thomas Auld at St. Michaels in 1877; per Douglass, Auld said he would have done the same in Douglass's place.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Hugh Auld Sr. and Zipporah Auld",
+     "relation": "parents",
+     "years": "18th c.–early 19th c.",
+     "note": "Talbot County family; parents of Thomas and Hugh.",
+     "basis": "documented"
+    },
+    {
+     "name": "Aaron Anthony",
+     "relation": "father-in-law",
+     "years": "c. 1760–1826",
+     "note": "Thomas married his daughter Lucretia and inherited Douglass from his estate.",
+     "basis": "documented",
+     "id": "aaron-anthony"
+    },
+    {
+     "name": "Thomas Auld",
+     "relation": "head",
+     "years": "1795–1880",
+     "note": "Ship captain and storekeeper at St. Michaels; Douglass's legal owner 1827–1846.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hugh and Sophia Auld",
+     "relation": "brother & sister-in-law",
+     "years": "fl. 1826–1846",
+     "note": "Baltimore household where Douglass lived c. 1826–1833 and 1836–1838.",
+     "basis": "documented"
+    },
+    {
+     "name": "Tommy Auld",
+     "relation": "son (of Hugh)",
+     "years": "fl. 1820s",
+     "note": "The child Douglass was sent to Baltimore to look after.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced in connection with this history. The family's documents are held by MSA, the Maryland Center for History and Culture and NPS.",
+   "sources": [
+    {
+     "label": "Maryland State Archives — Frederick Douglass biography (Special Collections)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/013800/013800/html/013800bio.html"
+    },
+    {
+     "label": "Maryland State Archives — Frederick Douglass: Son of Maryland, 'Escape'",
+     "url": "https://msa.maryland.gov/msa/mdslavery/exhibit/frederickd/escape.html"
+    },
+    {
+     "label": "NPS Museum Collections — Bill of sale for Frederick Douglass, Thomas Auld to Hugh Auld (1846)",
+     "url": "https://www.nps.gov/museum/treasures/html/D/FRDO3861.htm"
+    },
+    {
+     "label": "Maryland Center for History and Culture — Portrait of Zipporah Auld (mother of Thomas and Hugh Auld)",
+     "url": "https://www.mdhistory.org/digital-resource/10152"
+    }
+   ],
+   "connections": [
+    {
+     "id": "frederick-douglass",
+     "type": "ownership",
+     "label": "owned Douglass 1827–1846"
+    },
+    {
+     "id": "aaron-anthony",
+     "type": "family",
+     "label": "Thomas married Anthony's daughter"
+    },
+    {
+     "id": "edward-covey",
+     "type": "trade",
+     "label": "hired Douglass to Covey"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Hugh hired Douglass to Fells Point yards"
+    },
+    {
+     "id": "yeoman-small-slaveholders",
+     "type": "parallel",
+     "label": "small slaveholders"
+    }
+   ]
+  },
+  {
+   "id": "slave-patrols",
+   "name": "Slave patrols ('paterollers')",
+   "category": "Enforcers & Aftermath",
+   "role": "Overseer & Enforcer",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Statutory, compulsory patrols operated in every slave state from South Carolina's 1704 act until 1865; South Carolina required regular patrols after the 1739 Stono Rebellion (SC Encyclopedia; Hadden 2001).",
+   "start": 1704,
+   "end": 1865,
+   "lifespan": "1704–1865",
+   "base": "Charleston and the South Carolina Lowcountry (first statutory patrols)",
+   "geo": [
+    32.776,
+    -79.931
+   ],
+   "aliases": [
+    "paterollers",
+    "patty rollers",
+    "beat companies"
+   ],
+   "origins": "Modelled on Barbadian practice, South Carolina's assembly created patrols in 1704 amid fear of revolt and of Spanish-backed attack; Virginia had patrols by 1727, and Maryland's 1723 act directed county constables to break up gatherings of enslaved people.",
+   "role_summary": "White men, typically aged 16 to 60 and drawn from militia rolls, rode at night in small groups, demanded passes, searched quarters, broke up meetings and whipped those caught off their home plantations. Service was compulsory for most free white men, so patrols drew planters and non-slaveholding yeomen alike into enforcing slavery.",
+   "roleDetail": [
+    {
+     "t": "Compulsory community service.",
+     "d": "In South Carolina all plantation owners were expected to serve; substitutes were allowed for women and exempt men (SC Encyclopedia).",
+     "basis": "documented"
+    },
+    {
+     "t": "Intensification after revolts.",
+     "d": "The 1740 Negro Act after Stono required constant patrols; scares such as Vesey (1822) and Nat Turner (1831) brought further tightening.",
+     "basis": "documented"
+    },
+    {
+     "t": "Links to modern policing.",
+     "d": "Some scholars and commentators see patrols as a direct precursor of Southern policing; others (e.g. a 1988 American Journal of Police study) argue they were a distinct form of policing lacking modern police features. The debate is ongoing.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "After 1865 the patrol tradition fed into Black Codes enforcement, militias, the Klan's night riding and some local policing. Hadden's Slave Patrols (2001) is the standard study, and the patrol-to-police lineage became a prominent public argument after 2014–2020.",
+   "legacyDetail": [
+    {
+     "t": "Night riding continued.",
+     "d": "Formerly enslaved people often described Reconstruction Klansmen as the patrollers returned.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Public debate.",
+     "d": "The patrol-policing connection is widely cited in debates over policing; historians caution against a single straight line.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No individual descendants are relevant. The statutes survive in state archives; the scholarly literature is led by Sally Hadden's Harvard University Press study.",
+   "sources": [
+    {
+     "label": "South Carolina Encyclopedia — Slave patrols",
+     "url": "https://www.scencyclopedia.org/sce/entries/slave-patrols/"
+    },
+    {
+     "label": "FSU via Newswise — New book on slave patrols (Sally Hadden, Harvard UP 2001)",
+     "url": "https://www.newswise.com/articles/book-on-slave-patrols-reveals-roots-of-race-based-policing"
+    },
+    {
+     "label": "NCJRS — Abstract: slave patrols as a form of policing (American Journal of Police, 1988)",
+     "url": "https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=116023"
+    },
+    {
+     "label": "EBSCO Research Starters — Slave patrols",
+     "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/slave-patrols"
+    }
+   ],
+   "connections": [
+    {
+     "id": "south-carolina-patrol-act-1704",
+     "type": "charter",
+     "label": "created by 1704 act"
+    },
+    {
+     "id": "port-charleston",
+     "type": "political",
+     "label": "Lowcountry origin"
+    },
+    {
+     "id": "yeoman-small-slaveholders",
+     "type": "family",
+     "label": "manned by yeomen"
+    },
+    {
+     "id": "denmark-vesey",
+     "type": "political",
+     "label": "tightened after Vesey plot"
+    },
+    {
+     "id": "nat-turner",
+     "type": "political",
+     "label": "tightened after 1831 revolt"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "legacy",
+     "label": "night-riding tradition"
+    },
+    {
+     "id": "black-codes-1865",
+     "type": "legacy",
+     "label": "enforcement continued"
+    }
+   ]
+  },
+  {
+   "id": "patty-cannon-gang",
+   "name": "Patty Cannon & the Cannon-Johnson gang",
+   "category": "Enforcers & Aftermath",
+   "role": "Overseer & Enforcer",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Kidnapped free Black people and fugitives for about a decade (c. 1810s–1829) and sold them south; victim totals in popular accounts (hundreds to 'thousands') are unverified; MSA documents murder indictments and remains found in 1829.",
+   "start": 1815,
+   "end": 1829,
+   "lifespan": "c. 1746 (or 1759/60) – 1829",
+   "base": "Johnson's Crossroads (Reliance), Maryland–Delaware line",
+   "geo": [
+    38.636,
+    -75.711
+   ],
+   "aliases": [
+    "Martha Cannon",
+    "Joe Johnson",
+    "the 'Reverse Underground Railroad'"
+   ],
+   "origins": "Cannon kept a tavern at Johnson's Crossroads (now Reliance) where Dorchester and Caroline counties in Maryland meet Sussex County, Delaware; the border let gang members slip between jurisdictions. Her son-in-law Joe Johnson was a slave trader who bought the crossroads tract in 1821.",
+   "role_summary": "The multiracial gang lured or seized free Black people — some from Philadelphia by boat — and fugitives, held them in the house, and shipped them south for sale to the cotton states. In April 1829 a tenant ploughing her former land uncovered remains; Cannon was indicted for murder in Georgetown, Delaware, and died in jail on 11 May 1829 before trial.",
+   "roleDetail": [
+    {
+     "t": "Kidnapping across state lines.",
+     "d": "The tri-county border allowed the gang to evade sheriffs; Maryland and Delaware laws against kidnapping were weakly enforced (MSA).",
+     "basis": "documented"
+    },
+    {
+     "t": "The 1829 discovery.",
+     "d": "MSA lists remains of a Georgia slave trader, children and a free Black man; murder indictments (reported as three or four counts) were found against Cannon.",
+     "basis": "documented"
+    },
+    {
+     "t": "The Reverse Underground Railroad.",
+     "d": "Historians use the term for the kidnapping network that ran opposite to the escape routes; numbers attributed to Cannon in later legend are inflated or unverified.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Joe Johnson and his brother Ebenezer were indicted but escaped, possibly to Alabama. A Delaware Public Archives marker near Seaford honours the gang's victims and those who resisted it; Cannon's legend was spread by an 1841 pamphlet and George Alfred Townsend's 1884 novel.",
+   "legacyDetail": [
+    {
+     "t": "Delaware marker.",
+     "d": "The Delaware Public Archives marker 'The Cannon-Johnson Kidnapping Gang' stands on the state line near Seaford.",
+     "basis": "documented"
+    },
+    {
+     "t": "Legend vs record.",
+     "d": "Much popular detail (e.g. 'thousands' kidnapped, Cannon's confession) comes from sensational 19th-century print.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Jesse Cannon",
+     "relation": "spouse",
+     "years": "d. before 1826",
+     "note": "Sussex County husband of Patty Cannon.",
+     "basis": "documented"
+    },
+    {
+     "name": "Joe Johnson",
+     "relation": "son-in-law / partner",
+     "years": "fl. 1821–1829",
+     "note": "Slave trader and gang leader; indicted for murder, never captured.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ebenezer F. Johnson",
+     "relation": "partner",
+     "years": "fl. 1829",
+     "note": "Joe's brother, also indicted.",
+     "basis": "documented"
+    },
+    {
+     "name": "Cyrus James",
+     "relation": "gang member / witness",
+     "years": "fl. 1829",
+     "note": "Raised by Cannon; arrested April 1829 and testified about the murders.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced.",
+   "sources": [
+    {
+     "label": "Maryland State Archives — Martha 'Patty' Cannon (c. 1746 – 1829) biography",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/051200/051231/html/051231bio.html"
+    },
+    {
+     "label": "Delaware Public Archives — Historical marker: The Cannon-Johnson Kidnapping Gang",
+     "url": "https://archives.delaware.gov/historical-markers-map/the-cannon-johnson-kidnapping-gang"
+    },
+    {
+     "label": "Wikipedia — Patty Cannon",
+     "url": "https://en.wikipedia.org/wiki/Patty_Cannon"
+    }
+   ],
+   "connections": [
+    {
+     "id": "austin-woolfolk",
+     "type": "parallel",
+     "label": "Chesapeake traders bought captives for the Deep South"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Chesapeake-to-Deep South trade"
+    },
+    {
+     "id": "solomon-northup",
+     "type": "parallel",
+     "label": "kidnapped free man (1841)"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "parallel",
+     "label": "'reverse' of the escape network"
+    },
+    {
+     "id": "harriet-tubman",
+     "type": "parallel",
+     "label": "same Dorchester County landscape"
+    },
+    {
+     "id": "fugitive-slave-act-1850",
+     "type": "legacy",
+     "label": "kidnapping fears in free states"
+    }
+   ]
+  },
+  {
+   "id": "yeoman-small-slaveholders",
+   "name": "Yeoman farmers and small slaveholders",
+   "category": "Enforcers & Aftermath",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "The 1860 census counted 393,975 slaveholders; about 25% of white Southern families held enslaved people in 1860 (down from 36% in 1830), with ~40% in cotton counties and ~10% in Appalachia (Henretta, America's History). Most holders owned fewer than ten people.",
+   "start": 1700,
+   "end": 1865,
+   "lifespan": "c. 1700–1865",
+   "base": "Upcountry and Piedmont South (e.g. Georgia Piedmont)",
+   "geo": [
+    33.95,
+    -83.38
+   ],
+   "aliases": [
+    "plain folk",
+    "smallholders",
+    "non-slaveholding whites"
+   ],
+   "origins": "Most white Southerners in 1860 — over six million of eight million — lived in households without enslaved people, farming their own land for subsistence and local markets; a smaller layer held one to nine enslaved people and worked alongside them.",
+   "role_summary": "Though most yeomen owned no one, they upheld slavery: they served in compulsory patrols and militias, sat on juries and voted for slaveholding politicians, and many aspired to buy enslaved people. They supplied most Confederate soldiers in 1861–65.",
+   "roleDetail": [
+    {
+     "t": "Owning was widespread but concentrated.",
+     "d": "About one white family in four held enslaved people in 1860; holders of 200+ people were under 1% of slaveholders but held a large share of the enslaved (census tabulations).",
+     "basis": "documented"
+    },
+    {
+     "t": "Enforcers without plantations.",
+     "d": "Patrol and militia duty made non-slaveholders part of the coercive system.",
+     "basis": "documented"
+    },
+    {
+     "t": "Why they supported slavery.",
+     "d": "Historians cite racial status, kinship with planters, credit networks and hope of upward mobility; the weight of each is debated.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The 'Lost Cause' later cast the yeoman soldier as fighting for home rather than slavery, a claim historians reject given secession documents. After the war many yeomen fell into tenancy and sharecropping alongside freedpeople, while some joined the Klan and Redeemer militias.",
+   "legacyDetail": [
+    {
+     "t": "The '1.4%' meme.",
+     "d": "Viral claims that only ~1.4% of Americans owned slaves divide by the whole US population; household-level figures for the slave states are far higher.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No individual descendants are relevant; 1860 slave schedules are searchable for genealogy and widely used by descendants of both enslaved and enslaving families.",
+   "sources": [
+    {
+     "label": "Henretta et al., America's History (Macmillan) — Planters, Smallholding Yeomen, and Tenants",
+     "url": "https://digfir-published.macmillanusa.com/henretta8e/henretta8e_ch12_13.html"
+    },
+    {
+     "label": "Hewitt & Lawson, Exploring American Histories (Macmillan) — White Southerners without Slaves",
+     "url": "https://digfir-published.macmillanusa.com/hewittlawson2e/hewittlawson2e_ch10_18.html"
+    },
+    {
+     "label": "Rootsweb (Tom Blake) — Largest slaveholders and 1860 slave schedule totals",
+     "url": "https://sites.rootsweb.com/~ajac/biggest16.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "slave-patrols",
+     "type": "family",
+     "label": "manned the patrols"
+    },
+    {
+     "id": "plantation-overseers",
+     "type": "family",
+     "label": "supplied overseers"
+    },
+    {
+     "id": "auld-family",
+     "type": "parallel",
+     "label": "small Maryland slaveholders"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "legacy",
+     "label": "many joined postwar Klan"
+    },
+    {
+     "id": "edward-covey",
+     "type": "parallel",
+     "label": "poor-white tenant farmer"
+    }
+   ]
+  },
+  {
+   "id": "edward-gorsuch",
+   "name": "Edward Gorsuch",
+   "category": "Enforcers & Aftermath",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A Baltimore County farmer killed at Christiana, Pennsylvania, on 11 September 1851 while pursuing four men who had fled him in 1849 (MSA).",
+   "start": 1849,
+   "end": 1851,
+   "lifespan": "d. 1851",
+   "base": "Baltimore County, Maryland",
+   "geo": [
+    39.53,
+    -76.63
+   ],
+   "origins": "Gorsuch held enslaved people on his Baltimore County farm. In 1849 George and Joshua Hammond, Nelson Ford and Noah Buley fled to Lancaster County, Pennsylvania; Gorsuch spent two years trying to recover them, including petitioning Maryland's governor.",
+   "role_summary": "The Fugitive Slave Act of 1850 gave him federal backing. With his son Dickinson, nephew Dr Thomas Pearce, cousin Joshua Gorsuch, two neighbours and U.S. Deputy Marshal Henry Kline, he went to William Parker's house at Christiana before dawn on 11 September 1851. Parker's wife Eliza sounded a horn; dozens of Black and some white neighbours came; Gorsuch was killed and his son badly wounded.",
+   "roleDetail": [
+    {
+     "t": "Using federal law.",
+     "d": "Gorsuch obtained federal warrants under the 1850 Act, which let claimants enter free states to seize alleged fugitives.",
+     "basis": "documented"
+    },
+    {
+     "t": "The posse.",
+     "d": "Five associates and a federal marshal (MSA).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Gorsuch's death made him a martyr in Maryland and the South; the federal treason prosecution of 38 men, beginning with Castner Hanway, ended in acquittal in December 1851. Parker escaped to Canada with help from Frederick Douglass.",
+   "legacyDetail": [
+    {
+     "t": "Treason trial.",
+     "d": "The largest treason trial in US history ended in acquittal (MSA; Dickinson College).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Dickinson Gorsuch",
+     "relation": "son",
+     "years": "fl. 1851",
+     "note": "Seriously wounded at Christiana.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are relevant to this record.",
+   "sources": [
+    {
+     "label": "Maryland State Archives — Roedown Plantation and the Christiana Resistance",
+     "url": "https://msa.maryland.gov/msa/mdslavery/html/casestudies/roedown_essay.html"
+    },
+    {
+     "label": "Dickinson College, House Divided — Christiana Treason Trial (1851)",
+     "url": "https://housedivided.dickinson.edu/ugrr/case_1851.htm"
+    },
+    {
+     "label": "WITF — Why the 1851 Christiana Resistance was so significant",
+     "url": "https://witf.org/2023/09/19/why-1851-christiana-resistance-in-lancaster-county-so-significant-leading-up-to-the-civil-war"
+    }
+   ],
+   "connections": [
+    {
+     "id": "christiana-resistance-1851",
+     "type": "political",
+     "label": "killed at Christiana"
+    },
+    {
+     "id": "fugitive-slave-act-1850",
+     "type": "charter",
+     "label": "pursued under the 1850 Act"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "political",
+     "label": "Douglass sheltered Parker"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "freedom-seekers he pursued"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "parallel",
+     "label": "Maryland slaveholding to 1864"
+    }
+   ]
+  },
+  {
+   "id": "knights-of-the-golden-circle",
+   "name": "Knights of the Golden Circle",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Secret pro-slavery society (founded 4 July 1854, Lexington, KY, per its own 1860 records); Bickley claimed 16,000 under arms on paper and 32 'castles' were organised in Texas (TSHA). Actual strength is uncertain.",
+   "start": 1854,
+   "end": 1865,
+   "lifespan": "1854–c. 1865",
+   "base": "Lexington, Kentucky; later Cincinnati and Texas",
+   "geo": [
+    38.04,
+    -84.503
+   ],
+   "aliases": [
+    "KGC",
+    "George W. L. Bickley",
+    "Golden Circle"
+   ],
+   "origins": "Founded by George W. L. Bickley, a Virginia-born doctor and editor of unreliable self-description, with four others. Its 'Golden Circle' was a slaveholding empire of roughly 2,400 miles diameter centred on Havana, taking in the US South, Mexico, Central America and the West Indies.",
+   "role_summary": "The KGC organised 'castles' to back filibuster invasions of Mexico (1859–60) and annexation of slave territory, imagining a monopoly in sugar, tobacco and cotton. After Lincoln's election it agitated for secession, and members helped displace federal authority in Texas.",
+   "roleDetail": [
+    {
+     "t": "Slave empire plan.",
+     "d": "Leaders expected the Circle to protect slavery from abolitionists and add slave states (TSHA).",
+     "basis": "documented"
+    },
+    {
+     "t": "Secession role.",
+     "d": "Unionists blamed the KGC for 1860–61 votes in Texas; historians cannot confirm how decisive it was (TSHA).",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Copperhead fears.",
+     "d": "In the Civil War, Northern Republicans used the KGC name to describe anti-war Democrats; many such charges were exaggerated.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Bickley served as a Confederate surgeon, was arrested as a spy in Indiana in 1863 and died in 1867. TSHA finds no dependable evidence the KGC survived the war; claims tying it to John Wilkes Booth, Jesse James or buried Confederate gold are undocumented folklore.",
+   "legacyDetail": [
+    {
+     "t": "Treasure-hunting myth.",
+     "d": "The KGC now lives on mainly in buried-treasure lore and conspiracy books, not in any documented organisation.",
+     "basis": "documented"
+    },
+    {
+     "t": "'Golden Knights'.",
+     "d": "No reliable SPLC or ADL listing of a modern hate group named 'Golden Knights' was found in this research; occasional modern uses of the KGC name are not documented as an active organisation.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "George W. L. Bickley",
+     "relation": "founder",
+     "years": "1823–1867",
+     "note": "Promoter and self-styled 'General'; confirmed leader at the May 1860 Raleigh convention.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are relevant. The KGC is studied as an episode of antebellum expansionism (TSHA, NCpedia).",
+   "sources": [
+    {
+     "label": "Texas State Historical Association, Handbook of Texas — Knights of the Golden Circle",
+     "url": "https://www.tshaonline.org/handbook/entries/knights-of-the-golden-circle"
+    },
+    {
+     "label": "NCpedia — Knights of the Golden Circle",
+     "url": "https://www.ncpedia.org/knights-golden-circle"
+    },
+    {
+     "label": "HistoryNet — 'Avowed Enemies of Our Country': the Knights of the Golden Circle",
+     "url": "https://www.historynet.com/avowed-enemies-country-knights-golden-circle/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-havana",
+     "type": "political",
+     "label": "centre of the 'Golden Circle'"
+    },
+    {
+     "id": "charles-lamar",
+     "type": "parallel",
+     "label": "1850s slave-trade reopening movement"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "parallel",
+     "label": "later secret order"
+    },
+    {
+     "id": "fugitive-slave-act-1850",
+     "type": "political",
+     "label": "sectional crisis of the 1850s"
+    }
+   ]
+  },
+  {
+   "id": "nathan-bedford-forrest",
+   "name": "Nathan Bedford Forrest",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "One of Memphis's leading slave traders in the 1850s (Forrest & Maples 1854–55; a slave pen on Adams Street), Confederate general, and first Grand Wizard of the Ku Klux Klan (1867–69).",
+   "start": 1851,
+   "end": 1869,
+   "lifespan": "1821–1877",
+   "base": "Memphis, Tennessee",
+   "geo": [
+    35.149,
+    -90.049
+   ],
+   "aliases": [
+    "'Forrest's Traders Yard'",
+    "Grand Wizard"
+   ],
+   "origins": "Born poor in Bedford County, Tennessee, Forrest moved to Memphis in 1851 and became a dealer in enslaved people, cotton planter and alderman.",
+   "role_summary": "He operated a slave jail (Forrest's Traders Yard) on Adams Street and the partnership Forrest & Maples, buying in the Upper South and selling in the Mississippi Valley. As a Confederate general his troops massacred surrendering Black Union soldiers at Fort Pillow (April 1864). In 1867 he became the Klan's first Grand Wizard; he later claimed to have ordered it disbanded in 1869.",
+   "roleDetail": [
+    {
+     "t": "Slave trader.",
+     "d": "A 2023 Civil War History article and contemporary advertisements document his trading volume in Memphis in the 1850s.",
+     "basis": "documented"
+    },
+    {
+     "t": "Fort Pillow.",
+     "d": "Congressional investigation in 1864 found Black soldiers were killed after surrender; Forrest's culpability is still argued by apologists but is accepted by most historians.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Klan leadership.",
+     "d": "SPLC and most histories name him the first Grand Wizard; he denied membership before Congress in 1871.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Forrest became a Lost Cause icon; his bust, installed in the Tennessee Capitol in 1978, was removed to the State Museum on 23 July 2021 after a 5–2 State Building Commission vote. The 1915 Klan and later Klans invoked him.",
+   "legacyDetail": [
+    {
+     "t": "Bust removed (2021).",
+     "d": "Moved to the Tennessee State Museum with two other busts (NBC News).",
+     "basis": "documented"
+    },
+    {
+     "t": "Memphis statue.",
+     "d": "His equestrian statue in Memphis was removed in December 2017 after the city sold the park.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Josiah Maples",
+     "relation": "partner",
+     "years": "fl. 1854–1855",
+     "note": "Partner in Forrest & Maples, Memphis slave traders.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No privately identified descendants are named here. The memorials debate continues in Tennessee and Memphis.",
+   "sources": [
+    {
+     "label": "Encyclopedia.com — Nathan Bedford Forrest",
+     "url": "https://Encyclopedia.com/people/history/us-history-biographies/nathan-bedford-forrest"
+    },
+    {
+     "label": "Civil War History (Project MUSE, 2023) — article on Forrest's slave-trading career",
+     "url": "https://muse.jhu.edu/article/879775/summary"
+    },
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    },
+    {
+     "label": "NBC News — Bust of former KKK leader removed from Tennessee Capitol (July 2021)",
+     "url": "https://www.nbcnews.com/news/us-news/bust-former-kkk-leader-removed-tennessee-capitol-building-n1274845"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kkk-reconstruction",
+     "type": "ownership",
+     "label": "first Grand Wizard 1867"
+    },
+    {
+     "id": "isaac-franklin",
+     "type": "parallel",
+     "label": "fellow domestic slave trader"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "parallel",
+     "label": "interstate trade"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "Mississippi Valley market"
+    },
+    {
+     "id": "kkk-second-era",
+     "type": "legacy",
+     "label": "invoked by 1915 Klan"
+    }
+   ]
+  },
+  {
+   "id": "kkk-reconstruction",
+   "name": "Ku Klux Klan — first era (1865–c. 1872)",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Founded in Pulaski, Tennessee, by six Confederate veterans in 1865; by 1868–71 it waged a campaign of murder, beatings and arson across the South that prompted the Enforcement Acts and congressional hearings (SPLC; U.S. Senate).",
+   "start": 1865,
+   "end": 1872,
+   "lifespan": "1865–c. 1872",
+   "base": "Pulaski, Tennessee",
+   "geo": [
+    35.2,
+    -87.031
+   ],
+   "aliases": [
+    "the Invisible Empire",
+    "KKK"
+   ],
+   "origins": "Six Confederate veterans formed a social club in Pulaski in December 1865 (the date is often given as 24 December). It quickly became a vigilante network; at an 1867 Nashville meeting Nathan Bedford Forrest was named Grand Wizard.",
+   "role_summary": "Klansmen attacked freedpeople, Black officeholders, teachers and white Republicans to keep Black Southerners from voting, holding office, owning land or bargaining over labour. Federal Enforcement Acts (1870–71) and prosecutions, especially in South Carolina in 1871–72, broke the first Klan, but allied 'white leagues' and rifle clubs carried on.",
+   "roleDetail": [
+    {
+     "t": "Political terror.",
+     "d": "SPLC describes intimidation to keep Black Americans and white Reconstruction supporters from voting and holding office.",
+     "basis": "documented"
+    },
+    {
+     "t": "Federal response.",
+     "d": "The Ku Klux Klan Act (20 April 1871) let President Grant suspend habeas corpus; he did so in nine South Carolina counties.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The first Klan's name, regalia myths and night-riding were revived in 1915 and again later. 42 U.S.C. § 1983 and § 1985, from the 1871 Act, remain the main federal civil-rights lawsuit statutes today.",
+   "legacyDetail": [
+    {
+     "t": "Living law.",
+     "d": "Section 1983 suits against officials trace to the Ku Klux Klan Act of 1871.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Not a family; no descendants are relevant. Pulaski residents have repeatedly opposed modern Klan rallies held there.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    },
+    {
+     "label": "U.S. Senate — Landmark Legislation: The Enforcement Acts of 1870 and 1871",
+     "url": "https://www.senate.gov/artandhistory/history/common/generic/EnforcementActs.htm"
+    },
+    {
+     "label": "U.S. House History, Art & Archives — The Ku Klux Klan Act of 1871",
+     "url": "https://history.house.gov/HistoricalHighlight/Detail/15032451486?ret=True"
+    }
+   ],
+   "connections": [
+    {
+     "id": "nathan-bedford-forrest",
+     "type": "ownership",
+     "label": "Forrest Grand Wizard"
+    },
+    {
+     "id": "enforcement-acts-1870-71",
+     "type": "political",
+     "label": "targeted by Enforcement Acts"
+    },
+    {
+     "id": "black-codes-1865",
+     "type": "political",
+     "label": "same era of white 'redemption'"
+    },
+    {
+     "id": "knights-of-the-white-camelia",
+     "type": "parallel",
+     "label": "Louisiana counterpart"
+    },
+    {
+     "id": "slave-patrols",
+     "type": "legacy",
+     "label": "night-riding tradition"
+    },
+    {
+     "id": "andrew-johnson",
+     "type": "political",
+     "label": "rose under Johnson's lenient Reconstruction"
+    },
+    {
+     "id": "kkk-second-era",
+     "type": "legacy",
+     "label": "revived 1915"
+    }
+   ]
+  },
+  {
+   "id": "kkk-second-era",
+   "name": "Ku Klux Klan — second era (1915–1944)",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Refounded at Stone Mountain on Thanksgiving night 1915 by William J. Simmons; reportedly up to ~4 million members by 1925 (SPLC), a mass movement with national political influence.",
+   "start": 1915,
+   "end": 1944,
+   "lifespan": "1915–1944",
+   "base": "Atlanta and Stone Mountain, Georgia",
+   "geo": [
+    33.806,
+    -84.145
+   ],
+   "aliases": [
+    "Knights of the Ku Klux Klan, Inc.",
+    "Invisible Empire"
+   ],
+   "origins": "Simmons, a fraternal-order recruiter, was inspired by D. W. Griffith's The Birth of a Nation and by the August 1915 lynching of Leo Frank by the 'Knights of Mary Phagan'. He and sixteen men burned a cross on Stone Mountain and obtained a Georgia charter.",
+   "role_summary": "The second Klan was anti-Black, anti-Catholic, anti-Jewish and anti-immigrant, recruiting white native-born Protestant men nationwide through paid organisers after 1920. It elected officials, staged mass parades (Washington, 1925) and committed floggings and murders; scandals (e.g. Indiana's D. C. Stephenson, 1925) and tax debts collapsed it, and it formally dissolved in 1944.",
+   "roleDetail": [
+    {
+     "t": "Stone Mountain 1915.",
+     "d": "Simmons designed the hooded robe and ritual and secured a state charter (New Georgia Encyclopedia).",
+     "basis": "documented"
+    },
+    {
+     "t": "Mass movement.",
+     "d": "The Klan grew slowly in WWI, then sharply after 1920 when it adopted commission-based recruiting.",
+     "basis": "documented"
+    },
+    {
+     "t": "Broader targets.",
+     "d": "SPLC notes the second Klan added Catholics and Jews to its anti-Black core.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Its iconography (cross burning, robes) came largely from Griffith's film, not the 1860s Klan. Stone Mountain hosted Klan cross-burnings for decades and the Confederate carving completed in 1972; the park remains contested.",
+   "legacyDetail": [
+    {
+     "t": "Stone Mountain memorial.",
+     "d": "The state-owned park carries the largest Confederate monument; reform debates continue (New Georgia Encyclopedia).",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "William J. Simmons",
+     "relation": "founder",
+     "years": "1880–1945",
+     "note": "Refounded the Klan in 1915 and was its Imperial Wizard until ousted in 1922.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hiram Wesley Evans",
+     "relation": "successor",
+     "years": "fl. 1922–1939",
+     "note": "Imperial Wizard during the mid-1920s peak.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Not a family; no descendants are relevant.",
+   "sources": [
+    {
+     "label": "New Georgia Encyclopedia — Ku Klux Klan in the Twentieth Century",
+     "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/ku-klux-klan-twentieth-century"
+    },
+    {
+     "label": "New Georgia Encyclopedia — Stone Mountain",
+     "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/stone-mountain/"
+    },
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "the-birth-of-a-nation-1915",
+     "type": "legacy",
+     "label": "inspired by Griffith's film"
+    },
+    {
+     "id": "stone-mountain",
+     "type": "ownership",
+     "label": "refounded on Stone Mountain"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "legacy",
+     "label": "claimed 1860s Klan's mantle"
+    },
+    {
+     "id": "nathan-bedford-forrest",
+     "type": "legacy",
+     "label": "venerated Forrest"
+    },
+    {
+     "id": "kkk-civil-rights-era",
+     "type": "legacy",
+     "label": "succeeded by 1950s Klans"
+    }
+   ]
+  },
+  {
+   "id": "kkk-civil-rights-era",
+   "name": "Ku Klux Klans of the civil-rights era (1950s–1980s)",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Rival Klans (notably the United Klans of America and the White Knights of Mississippi) carried out bombings and murders against the civil-rights movement; key cases include the 1963 Birmingham church bombing (4 girls killed) and the 1964 Mississippi murders of three civil-rights workers (SPLC).",
+   "start": 1954,
+   "end": 1987,
+   "lifespan": "1954–1987",
+   "base": "Birmingham, Alabama and Mississippi",
+   "geo": [
+    33.517,
+    -86.815
+   ],
+   "aliases": [
+    "United Klans of America",
+    "White Knights of the Ku Klux Klan of Mississippi",
+    "Knights of the Ku Klux Klan (David Duke, 1975)"
+   ],
+   "origins": "After Brown v. Board (1954), fragmented Klans revived across the South, often overlapping with local police and White Citizens' Councils.",
+   "role_summary": "Klansmen bombed churches and homes, attacked Freedom Riders (1961) and murdered civil-rights workers, including James Chaney, Andrew Goodman and Michael Schwerner (1964) and Viola Liuzzo (1965). Many killers went unpunished for decades; later prosecutions convicted Robert Chambliss (1977), Thomas Blanton (2001), Bobby Frank Cherry (2002) and Edgar Ray Killen (2005).",
+   "roleDetail": [
+    {
+     "t": "16th Street Baptist Church, 1963.",
+     "d": "Blanton was convicted of murder in 2001 and Cherry in 2002, both sentenced to life (CNN; Seattle Times/AP).",
+     "basis": "documented"
+    },
+    {
+     "t": "Mississippi Burning, 1964.",
+     "d": "Federal civil-rights convictions in 1967; Edgar Ray Killen was convicted of manslaughter by Mississippi in 2005.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bankrupted in civil court.",
+     "d": "Donald v. United Klans of America (1987) produced a $7 million verdict over the 1981 lynching of Michael Donald in Mobile and ended the UKA (SPLC).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "David Duke's Knights of the KKK (1975) attempted a 'kinder, gentler' image; SPLC civil suits in the 1980s–90s bankrupted several Klans. Cold-case reinvestigations under the 2008 Emmett Till Act continued into the 2010s.",
+   "legacyDetail": [
+    {
+     "t": "Civil-suit strategy.",
+     "d": "SPLC and others used tort law to seize Klan assets, a model later used against other hate groups.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Not a family; convicted individuals named are public court records. The 16th Street Baptist Church is a National Monument site within the Birmingham Civil Rights National Monument.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    },
+    {
+     "label": "CNN — Ex-Klansman Thomas Blanton convicted in 1963 church bombing (May 2001)",
+     "url": "https://cnn.com/2001/LAW/05/01/church.bombing.05/index.html"
+    },
+    {
+     "label": "Seattle Times (AP) — Ex-Klansman finally convicted for 1963 church-bomb deaths (May 2002)",
+     "url": "https://archive.seattletimes.com/archive/20020523/cherry230/ex-klansman-finally-convicted-for-1963-church-bomb-deaths"
+    },
+    {
+     "label": "SPLC — Landmark case: Donald v. United Klans of America",
+     "url": "https://www.splcenter.org/resources/civil-rights-case-docket/donald-v-united-klans-america/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kkk-second-era",
+     "type": "legacy",
+     "label": "successor Klans"
+    },
+    {
+     "id": "donald-v-united-klans",
+     "type": "political",
+     "label": "UKA bankrupted 1987"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "legacy",
+     "label": "remnant factions today"
+    },
+    {
+     "id": "africatown",
+     "type": "parallel",
+     "label": "Mobile, site of 1981 lynching"
+    }
+   ]
+  },
+  {
+   "id": "knights-of-the-white-camelia",
+   "name": "Knights of the White Camelia",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Louisiana's Klan-like secret order, founded 1867 in St. Martin Parish by Alcibiades DeBlanc; spread across most of the state by summer 1868 (64 Parishes).",
+   "start": 1867,
+   "end": 1870,
+   "lifespan": "1867–c. 1870",
+   "base": "St. Martinville and Franklin, Louisiana",
+   "geo": [
+    30.125,
+    -91.833
+   ],
+   "aliases": [
+    "Knights of the White Camellia"
+   ],
+   "origins": "Founded by Confederate colonel Alcibiades DeBlanc and Franklin newspaper editor Daniel Dennett to fight Congressional Reconstruction and Black suffrage.",
+   "role_summary": "It campaigned violently for the Democratic ticket in 1868, a year of massacres in Louisiana (e.g. Opelousas, St. Bernard) in which hundreds of Black people were killed. Short-lived, it shaped the tactics later used by the White League.",
+   "roleDetail": [
+    {
+     "t": "1868 election violence.",
+     "d": "64 Parishes ties its main early push to the 1868 presidential campaign.",
+     "basis": "documented"
+    },
+    {
+     "t": "DeBlanc's later role.",
+     "d": "In 1873 DeBlanc led an armed revolt in St. Martin Parish against Governor Kellogg.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "64 Parishes argues its tactics shaped how Democratic conservatives overthrew Reconstruction. The name was reused by a small 20th-century group.",
+   "legacyDetail": [
+    {
+     "t": "Template for the White League.",
+     "d": "Its members and methods fed the 1874 White League.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Alcibiades DeBlanc",
+     "relation": "founder",
+     "years": "1821–1883",
+     "note": "Confederate colonel; later Louisiana Supreme Court justice.",
+     "basis": "documented"
+    },
+    {
+     "name": "Daniel Dennett",
+     "relation": "co-founder",
+     "years": "fl. 1867",
+     "note": "Franklin newspaper editor.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are relevant.",
+   "sources": [
+    {
+     "label": "64 Parishes (Encyclopedia of Louisiana) — Knights of the White Camellia",
+     "url": "https://64parishes.org/entry/knights-of-the-white-camellia"
+    },
+    {
+     "label": "Wikipedia — Knights of the White Camelia",
+     "url": "https://en.wikipedia.org/wiki/Knights_of_the_White_Camelia"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kkk-reconstruction",
+     "type": "parallel",
+     "label": "Louisiana counterpart"
+    },
+    {
+     "id": "white-league",
+     "type": "legacy",
+     "label": "precursor"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "political",
+     "label": "Louisiana politics"
+    }
+   ]
+  },
+  {
+   "id": "white-league",
+   "name": "White League",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Open paramilitary of the Louisiana Democratic Party (1874–77); at the Battle of Liberty Place (14 Sept 1874) c. 5,000 White Leaguers routed c. 3,500 police and militia and held New Orleans' government for three days (64 Parishes; Wikipedia).",
+   "start": 1874,
+   "end": 1877,
+   "lifespan": "1874–1877",
+   "base": "New Orleans and Red River / Grant parishes, Louisiana",
+   "geo": [
+    29.951,
+    -90.071
+   ],
+   "origins": "Formed in 1874 in Grant Parish and neighbouring parishes, drawing on veterans of the 1873 Colfax massacre, then organised as armed companies in New Orleans.",
+   "role_summary": "In August 1874 at Coushatta it forced six white Republican officials to resign and murdered them along with several Black men. On 14 September 1874 it attacked the integrated Metropolitan Police to install John McEnery as governor, withdrawing only when federal troops arrived. Its intimidation helped end Reconstruction in Louisiana in 1877.",
+   "roleDetail": [
+    {
+     "t": "Coushatta massacre.",
+     "d": "Casualty counts vary between sources (64 Parishes: six white and four Black Republicans).",
+     "basis": "documented"
+    },
+    {
+     "t": "Liberty Place.",
+     "d": "League losses c. 21 killed; police and militia also suffered deaths.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "New Orleans erected an obelisk to the White League in 1891, inscribed in 1932 with white-supremacist language; it was removed in April 2017 in the city's Confederate-monuments removal.",
+   "legacyDetail": [
+    {
+     "t": "Liberty Place monument removed 2017.",
+     "d": "First of four monuments New Orleans took down that year.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Not a family; no descendants are relevant.",
+   "sources": [
+    {
+     "label": "64 Parishes (Encyclopedia of Louisiana) — White League",
+     "url": "https://64parishes.org/entry/white-league"
+    },
+    {
+     "label": "Wikipedia — White League",
+     "url": "https://en.wikipedia.org/wiki/White_League"
+    },
+    {
+     "label": "Wikipedia — Coushatta massacre",
+     "url": "https://en.wikipedia.org/wiki/Coushatta_massacre"
+    }
+   ],
+   "connections": [
+    {
+     "id": "knights-of-the-white-camelia",
+     "type": "legacy",
+     "label": "successor movement"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "political",
+     "label": "Battle of Liberty Place"
+    },
+    {
+     "id": "red-shirts",
+     "type": "parallel",
+     "label": "SC counterpart"
+    },
+    {
+     "id": "enforcement-acts-1870-71",
+     "type": "political",
+     "label": "federal troops intervened"
+    }
+   ]
+  },
+  {
+   "id": "red-shirts",
+   "name": "Red Shirts",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Mounted Democratic paramilitaries in South Carolina (1876) and Mississippi (1875), revived in North Carolina in 1898; the 1876 campaign followed the Hamburg Massacre (July 1876) and ousted South Carolina's Republican government (SC Encyclopedia).",
+   "start": 1875,
+   "end": 1900,
+   "lifespan": "1875–c. 1900",
+   "base": "Edgefield and Aiken counties, South Carolina",
+   "geo": [
+    33.79,
+    -81.929
+   ],
+   "aliases": [
+    "rifle clubs",
+    "sabre clubs"
+   ],
+   "origins": "Grew out of earlier rifle and sabre clubs organised by white Democrats; General Martin W. Gary's 'Edgefield Plan' called for intimidation of Black voters.",
+   "role_summary": "Horsemen in red shirts escorted Wade Hampton III and other Democrats across South Carolina in 1876, broke up Republican meetings and intimidated Black voters. At Hamburg (8 July 1876) a white force killed several Black militiamen; 94 white men were indicted but none prosecuted. In 1898 North Carolina Red Shirts helped force the Wilmington coup.",
+   "roleDetail": [
+    {
+     "t": "Hamburg Massacre.",
+     "d": "SC Encyclopedia calls it a turning point of the 1876 campaign; Benjamin Tillman, a participant, later boasted of the violence.",
+     "basis": "documented"
+    },
+    {
+     "t": "1876 'redemption'.",
+     "d": "With disputed returns and the 1877 withdrawal of federal troops, Hampton became governor.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Red Shirt veterans dominated South Carolina politics for decades and built the 1895 disfranchising constitution. A Hamburg memorial and renewed interpretation in Aiken County address the massacre today.",
+   "legacyDetail": [
+    {
+     "t": "Disfranchisement.",
+     "d": "The 1895 SC constitution (Tillman era) stripped most Black men of the vote.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Martin W. Gary",
+     "relation": "organiser",
+     "years": "1831–1881",
+     "note": "Author of the Edgefield intimidation plan.",
+     "basis": "documented"
+    },
+    {
+     "name": "Wade Hampton III",
+     "relation": "candidate",
+     "years": "1818–1902",
+     "note": "Governor 1876–79, escorted by Red Shirts.",
+     "basis": "documented",
+     "id": "hampton-family"
+    },
+    {
+     "name": "Benjamin Tillman",
+     "relation": "participant",
+     "years": "1847–1918",
+     "note": "Took part at Hamburg; later governor and senator.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Not a family; see the Hampton family record for that lineage.",
+   "sources": [
+    {
+     "label": "South Carolina Encyclopedia — Red Shirts",
+     "url": "https://www.scencyclopedia.org/sce/entries/red-shirts/"
+    },
+    {
+     "label": "South Carolina Encyclopedia — Hamburg Massacre",
+     "url": "https://www.scencyclopedia.org/sce/entries/hamburg-massacre/"
+    },
+    {
+     "label": "Wikipedia — Hamburg massacre",
+     "url": "https://en.wikipedia.org/wiki/Hamburg_massacre"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hampton-family",
+     "type": "political",
+     "label": "escorted Wade Hampton III, 1876"
+    },
+    {
+     "id": "white-league",
+     "type": "parallel",
+     "label": "Louisiana counterpart"
+    },
+    {
+     "id": "wilmington-coup-1898",
+     "type": "political",
+     "label": "NC Red Shirts, 1898"
+    },
+    {
+     "id": "port-charleston",
+     "type": "political",
+     "label": "South Carolina politics"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "legacy",
+     "label": "successor to the Klan"
+    }
+   ]
+  },
+  {
+   "id": "alfred-moore-waddell",
+   "name": "Alfred Moore Waddell",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Self-proclaimed leader of the 10 November 1898 Wilmington coup, in which at least 14–22+ Black residents were killed (sources vary; later estimates higher) and the elected biracial government was forced out (NCpedia; DNCR).",
+   "start": 1898,
+   "end": 1905,
+   "lifespan": "1834–1912",
+   "base": "Wilmington, North Carolina",
+   "geo": [
+    34.236,
+    -77.946
+   ],
+   "origins": "A lawyer, Confederate officer, former congressman and newspaper editor, Waddell revived his career in the 1898 white-supremacy campaign with a speech vowing to 'choke the Cape Fear River with carcasses' if needed.",
+   "role_summary": "On 10 November 1898 he led an armed mob that burned the office of the Black-owned Daily Record, killed Black residents and forced the Republican mayor and council to resign; the new council elected Waddell mayor the same afternoon. Black leaders and white Republicans were banished from the city.",
+   "roleDetail": [
+    {
+     "t": "Planned campaign.",
+     "d": "NCpedia describes the coup as the product of a long-range Democratic strategy.",
+     "basis": "documented"
+    },
+    {
+     "t": "Death toll uncertain.",
+     "d": "Contemporary counts and later estimates vary widely.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He served as mayor until 1905. North Carolina's 1898 Wilmington Race Riot Commission (report 2006) documented the coup; a memorial park opened in Wilmington in 2008.",
+   "legacyDetail": [
+    {
+     "t": "State commission.",
+     "d": "The 2006 report acknowledged the event as a coup that led to disfranchisement across the state.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are relevant to this record.",
+   "sources": [
+    {
+     "label": "NCpedia — Waddell, Alfred Moore (1834–1912)",
+     "url": "https://www.ncpedia.org/biography/waddell-alfred-moore"
+    },
+    {
+     "label": "N.C. Dept. of Natural and Cultural Resources — The Wilmington Coup (1898)",
+     "url": "https://www.dncr.nc.gov/blog/2016/11/10/wilmington-coup"
+    },
+    {
+     "label": "North Carolina History Project — The Wilmington Coup",
+     "url": "https://northcarolinahistory.org/encyclopedia/the-wilmington-coup/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "wilmington-coup-1898",
+     "type": "ownership",
+     "label": "led the coup"
+    },
+    {
+     "id": "red-shirts",
+     "type": "political",
+     "label": "Red Shirt campaign"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "parallel",
+     "label": "white-supremacist violence"
+    }
+   ]
+  },
+  {
+   "id": "tennessee-coal-iron-railroad",
+   "name": "Tennessee Coal, Iron & Railroad Co. (TCI) / U.S. Steel",
+   "category": "Enforcers & Aftermath",
+   "role": "Convict Leasing & Jim Crow",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Largest lessee of Alabama state and county convicts in the Birmingham District; leased prisoners worked its Pratt mines, and U.S. Steel continued the practice after buying TCI in 1907 (Blackmon; EJI).",
+   "start": 1886,
+   "end": 1928,
+   "lifespan": "1852–1952 (TCI); U.S. Steel 1901–present",
+   "base": "Pratt mines, Birmingham, Alabama",
+   "geo": [
+    33.55,
+    -86.87
+   ],
+   "aliases": [
+    "TCI",
+    "Pratt Coal and Coke",
+    "United States Steel Corporation"
+   ],
+   "origins": "TCI expanded into Alabama by acquiring Pratt Coal and Coke in the 1880s, inheriting its use of leased convicts. Convict labour was central to its growth as the South's largest iron and coal concern.",
+   "role_summary": "Counties and the state leased mostly Black men, often convicted of petty offences or vagrancy under Jim Crow laws, to TCI's mines, where deaths from disease, explosions and abuse were common. Blackmon's case study Green Cottenham was arrested in 1908 for 'vagrancy' and sold to TCI for $12 a month to work Slope No. 12 at Pratt; he died there.",
+   "roleDetail": [
+    {
+     "t": "Pratt mines.",
+     "d": "Leased prisoners mined coal under Birmingham in 'inhumane and often deadly' conditions (EJI).",
+     "basis": "documented"
+    },
+    {
+     "t": "U.S. Steel inherits.",
+     "d": "U.S. Steel acquired TCI in 1907 and continued using leased convicts for several more years, per Blackmon.",
+     "basis": "documented"
+    },
+    {
+     "t": "Company response.",
+     "d": "U.S. Steel has said it inherited the practice from TCI; it has not offered reparations.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Douglas Blackmon's Pulitzer-winning Slavery by Another Name (2008) and the 2012 PBS film made TCI the emblem of convict leasing. U.S. Steel still operates; Nippon Steel completed its acquisition of U.S. Steel in 2025.",
+   "legacyDetail": [
+    {
+     "t": "Slavery by Another Name.",
+     "d": "The book argues that forced Black labour persisted into World War II.",
+     "basis": "documented"
+    },
+    {
+     "t": "Nippon Steel acquisition.",
+     "d": "U.S. Steel became a subsidiary of Nippon Steel in June 2025.",
+     "basis": "documented"
+    }
+   ],
+   "today": "A corporate entity, not a family. U.S. Steel continues as a Nippon Steel subsidiary; graves of leased prisoners near Birmingham have been studied by local researchers.",
+   "sources": [
+    {
+     "label": "PBS — Slavery by Another Name (documentary, based on Douglas Blackmon's book)",
+     "url": "https://www.pbs.org/tpt/slavery-by-another-name/home/"
+    },
+    {
+     "label": "NPR/VPM — Excerpt: 'Slavery by Another Name' (Green Cottenham and the Pratt mines)",
+     "url": "https://www.vpm.org/npr-news/2008-03-25/excerpt-slavery-by-another-name"
+    },
+    {
+     "label": "Equal Justice Initiative — Convict Leasing in Alabama Coal Mines",
+     "url": "https://eji.org/news/convict-leasing-alabama-coal-mines/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "alabama-convict-lease-system",
+     "type": "trade",
+     "label": "leased Alabama convicts"
+    },
+    {
+     "id": "thirteenth-amendment-punishment-clause",
+     "type": "charter",
+     "label": "legal basis"
+    },
+    {
+     "id": "black-codes-1865",
+     "type": "legacy",
+     "label": "vagrancy laws supplied prisoners"
+    },
+    {
+     "id": "imperial-sugar-convict-leasing",
+     "type": "parallel",
+     "label": "fellow lessee"
+    }
+   ]
+  },
+  {
+   "id": "imperial-sugar-convict-leasing",
+   "name": "Imperial Sugar & the Sugar Land convict farms",
+   "category": "Enforcers & Aftermath",
+   "role": "Convict Leasing & Jim Crow",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Sugar plantations at Sugar Land, later incorporated into Imperial Sugar, leased Texas state convicts c. 1878–1910; 95 burials (94 men, 1 woman, aged c. 14–70) were found in 2018 (Fort Bend ISD; History.com).",
+   "start": 1878,
+   "end": 1910,
+   "lifespan": "1843–present (Imperial Sugar as successor)",
+   "base": "Sugar Land, Fort Bend County, Texas",
+   "geo": [
+    29.619,
+    -95.635
+   ],
+   "aliases": [
+    "Ellis & Cunningham plantations",
+    "Imperial State Prison Farm",
+    "Bullhead Convict Labor Camp"
+   ],
+   "origins": "Sugar Land's plantations were worked by enslaved people before 1865; after emancipation, operators leased convicts from the state penitentiary. The plantation was later bought and incorporated into the Imperial Sugar Company.",
+   "role_summary": "Mostly Black prisoners cut and processed cane under brutal conditions; remains in the 2018 cemetery show heavy labour, injury and malnutrition. In 1908 the state bought land from Imperial Sugar for the Imperial State Prison Farm, which ran until 2011.",
+   "roleDetail": [
+    {
+     "t": "Leasing to 1910.",
+     "d": "Texas formally ended convict leasing in 1910 but continued state prison-farm labour (History.com).",
+     "basis": "documented"
+    },
+    {
+     "t": "The 2018 discovery.",
+     "d": "Uncovered February 2018 during construction of FBISD's James C. Reese Career and Technical Center.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Activist and former prison guard Reginald Moore had sought the graves since the 1990s; Rice University's Sugar Land Convict Leasing Project and FBISD's DNA program seek descendants. The Imperial Sugar brand survives under later corporate owners.",
+   "legacyDetail": [
+    {
+     "t": "Memorialization.",
+     "d": "The remains were reburied at the site, and Fort Bend ISD runs a memorial and DNA descendant-identification program.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Corporate successor only; no family descendants are named. Descendants of the 95 are being sought by DNA comparison.",
+   "sources": [
+    {
+     "label": "History.com — Graves of 95 Black Forced Laborers Found in Texas (Sugar Land)",
+     "url": "https://www.history.com/articles/graves-texas-forced-laborers-jim-crow"
+    },
+    {
+     "label": "Archaeology Magazine — Another Form of Slavery (Sugar Land, 2018)",
+     "url": "https://archaeology.org/issues/november-december-2018/digs-discoveries/trenches-texas-prison-labor/"
+    },
+    {
+     "label": "Fort Bend ISD — Sugar Land 95 information mailer (PDF)",
+     "url": "https://www.fortbendisd.com/cms/lib/TX01917858/Centricity/Domain/18553/Sugar%20Land 95 Mailer for Web.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sugar-land-95",
+     "type": "legacy",
+     "label": "the 2018 cemetery"
+    },
+    {
+     "id": "thirteenth-amendment-punishment-clause",
+     "type": "charter",
+     "label": "legal basis"
+    },
+    {
+     "id": "tennessee-coal-iron-railroad",
+     "type": "parallel",
+     "label": "fellow lessee"
+    }
+   ]
+  },
+  {
+   "id": "alabama-convict-lease-system",
+   "name": "State of Alabama convict-lease system",
+   "category": "Enforcers & Aftermath",
+   "role": "Convict Leasing & Jim Crow",
+   "nation": "United States",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Alabama, its counties and towns leased prisoners to mines and farms from 1875 until 1928, the last state to abolish leasing; the 1911 Banner Mine explosion killed c. 123–128, mostly Black prisoners (Encyclopedia of Alabama; Alabama News Center).",
+   "start": 1875,
+   "end": 1928,
+   "lifespan": "1875–1928",
+   "base": "Montgomery and the Birmingham District, Alabama",
+   "geo": [
+    32.377,
+    -86.3
+   ],
+   "origins": "After emancipation, Black Codes, vagrancy laws and fee-driven local courts produced a mostly Black convict population that the state hired out for revenue instead of building prisons.",
+   "role_summary": "State convicts went chiefly to coal companies around Birmingham (TCI, Sloss-Sheffield and others), and county convicts were sold for fines and fees. Leasing became a major source of state revenue; death rates were high.",
+   "roleDetail": [
+    {
+     "t": "Fees and fines.",
+     "d": "County officials earned fees per arrest, encouraging arrests for petty offences (Blackmon).",
+     "basis": "documented"
+    },
+    {
+     "t": "Banner Mine, 1911.",
+     "d": "The explosion at a leasing mine near Birmingham spurred reform.",
+     "basis": "documented"
+    },
+    {
+     "t": "Abolished 1928.",
+     "d": "Alabama halted the practice five years after Florida (Encyclopedia of Alabama).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "EJI's Legacy Museum in Montgomery interprets convict leasing as a continuation of slavery; prison labour under the Thirteenth Amendment exception remains contested in Alabama, where voters removed slavery language from the state constitution in 2022.",
+   "legacyDetail": [
+    {
+     "t": "2022 constitutional change.",
+     "d": "Alabama voters approved removing the 'except as punishment for crime' slavery language from the state constitution.",
+     "basis": "documented"
+    }
+   ],
+   "today": "A state system; no descendants are relevant.",
+   "sources": [
+    {
+     "label": "Equal Justice Initiative — Convict Leasing in Alabama Coal Mines",
+     "url": "https://eji.org/news/convict-leasing-alabama-coal-mines/"
+    },
+    {
+     "label": "Equal Justice Initiative — A Different Kind of Slavery",
+     "url": "https://eji.org/history-racial-injustice-different-kind-of-slavery"
+    },
+    {
+     "label": "Alabama Legacy — Convict leasing in Alabama",
+     "url": "https://www.alabamalegacy.org/?p=1963"
+    }
+   ],
+   "connections": [
+    {
+     "id": "tennessee-coal-iron-railroad",
+     "type": "trade",
+     "label": "main lessee"
+    },
+    {
+     "id": "thirteenth-amendment-punishment-clause",
+     "type": "charter",
+     "label": "legal basis"
+    },
+    {
+     "id": "black-codes-1865",
+     "type": "legacy",
+     "label": "vagrancy laws"
+    },
+    {
+     "id": "georgia-convict-lease-system",
+     "type": "parallel",
+     "label": "neighbouring system"
+    },
+    {
+     "id": "national-memorial-peace-justice",
+     "type": "legacy",
+     "label": "interpreted by EJI"
+    }
+   ]
+  },
+  {
+   "id": "georgia-convict-lease-system",
+   "name": "State of Georgia convict-lease system",
+   "category": "Enforcers & Aftermath",
+   "role": "Convict Leasing & Jim Crow",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Georgia's first lease (1868) supplied 100 Black prisoners for a year for $2,500; leasing ran until 1908 and was replaced by county chain gangs used by 135 of 146 counties by 1911 (New Georgia Encyclopedia).",
+   "start": 1868,
+   "end": 1908,
+   "lifespan": "1868–1908 (chain gangs to 1943)",
+   "base": "Atlanta, Georgia",
+   "geo": [
+    33.749,
+    -84.388
+   ],
+   "aliases": [
+    "chain gang"
+   ],
+   "origins": "The Georgia General Assembly legalised leasing prisoners to private individuals and companies in the late 1860s, under military Reconstruction and then Redeemer governments.",
+   "role_summary": "Lessees ran brickyards, mines, railroads and turpentine camps with mostly Black prisoners; several lessees were leading politicians. After press exposés and the 1907 depression, the legislature abolished leasing in 1908 but created the state-run chain gang, outlawed only in 1943.",
+   "roleDetail": [
+    {
+     "t": "Political lessees.",
+     "d": "Prominent Georgians, including former governor Joseph E. Brown's Dade Coal Company, held leases (New Georgia Encyclopedia).",
+     "basis": "documented"
+    },
+    {
+     "t": "Chain gang successor.",
+     "d": "The 1908 law moved prisoners to county road gangs.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Chain gangs were memorialised in I Am a Fugitive from a Georgia Chain Gang (1932). Historians and UGA digital exhibits document the system.",
+   "legacyDetail": [
+    {
+     "t": "Public memory.",
+     "d": "The New Georgia Encyclopedia exhibition 'The New South and the New Slavery' documents the system.",
+     "basis": "documented"
+    }
+   ],
+   "today": "A state system; no descendants are relevant.",
+   "sources": [
+    {
+     "label": "New Georgia Encyclopedia — Convict Lease System",
+     "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/convict-lease-system/"
+    },
+    {
+     "label": "New Georgia Encyclopedia — Exhibition: The New South and the New Slavery",
+     "url": "https://www.georgiaencyclopedia.org/exhibition/the-new-south-and-the-new-slavery-convict-labor-in-georgia/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "alabama-convict-lease-system",
+     "type": "parallel",
+     "label": "neighbouring system"
+    },
+    {
+     "id": "thirteenth-amendment-punishment-clause",
+     "type": "charter",
+     "label": "legal basis"
+    },
+    {
+     "id": "black-codes-1865",
+     "type": "legacy",
+     "label": "vagrancy laws"
+    }
+   ]
+  },
+  {
+   "id": "ku-klux-klan-today",
+   "name": "Ku Klux Klan today (fragmented factions)",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "SPLC counted a peak of 221 Klan chapters in 2010, 130 in 2016, 72 in 2017, 25 in 2020 and 14 Klan groups in 2025; ADL (2016) estimated ~30 groups and ~3,000 members. Counts measure groups, not members.",
+   "start": 1990,
+   "end": null,
+   "lifespan": "1990s–present",
+   "base": "Dispersed small groups across the United States",
+   "geo": [
+    36.5,
+    -86.5
+   ],
+   "aliases": [
+    "Silent Knights",
+    "Trinity White Knights",
+    "Sacred White Knights",
+    "Knights of the KKK (Thom Robb)"
+   ],
+   "origins": "After the 1980s civil judgments and the rise of neo-Nazi, Christian Identity and online white-nationalist movements, the Klan splintered into dozens of tiny, short-lived 'realms' competing for the same recruits.",
+   "role_summary": "Today's Klan groups mostly distribute racist and antisemitic flyers, hold occasional small rallies and post on fringe platforms (Stormfront, Gab, VK). SPLC's 2025 'Top Takeaways' report shrinking influence, frequent rebranding and very limited new recruitment; Silent Knights (Indiana) and Trinity White Knights (Ohio) are among the few consistently active groups.",
+   "roleDetail": [
+    {
+     "t": "Steep decline.",
+     "d": "SPLC's Klan count fell from 130 (2016) to 72 (2017) even as neo-Nazi groups rose (SPLC; press reports).",
+     "basis": "documented"
+    },
+    {
+     "t": "Fragmentation.",
+     "d": "ADL notes most Klan groups are only a few years old and grow by poaching members from other Klans.",
+     "basis": "documented"
+    },
+    {
+     "t": "Caveat on counts.",
+     "d": "Some groups go underground rather than disband, and splintering can inflate group counts. Separately, in April 2026 a federal grand jury in Alabama indicted the SPLC itself on wire-fraud, bank false-statement and money-laundering-conspiracy counts, alleging it misled donors by secretly paying more than $3 million to informants inside extremist groups, including Klan groups; the SPLC calls the charges false and politically motivated and has pleaded not guilty, and the case had not gone to trial as of October 2026 (NPR; CNN).",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Klan's brand is weaker than at any time since the 1940s, but its symbols remain potent and are used by other white-supremacist movements. Civil suits (e.g. Sines v. Kessler over Charlottesville 2017) continue the strategy of holding groups financially liable.",
+   "legacyDetail": [
+    {
+     "t": "Shift to other movements.",
+     "d": "Researchers stress that the threat has moved to newer white-nationalist and accelerationist networks rather than disappeared.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No families involved. This record deliberately omits addresses, recruiting details and private individuals; only public leaders and people convicted in court are named.",
+   "sources": [
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    },
+    {
+     "label": "ADL — Tattered Robes: The State of the Ku Klux Klan in the United States (2016)",
+     "url": "https://www.adl.org/resources/report/tattered-robes-state-ku-klux-klan-united-states"
+    },
+    {
+     "label": "ADL press release — ADL Report: KKK Declining in Stature and Significance",
+     "url": "https://adl.org/news/press-releases/adl-report-kkk-declining-in-stature-and-significance"
+    },
+    {
+     "label": "Civil Rights Litigation Clearinghouse — United States v. Southern Poverty Law Center (2026)",
+     "url": "https://clearinghouse.net/case/48122/"
+    },
+    {
+     "label": "NPR — DOJ indicts Southern Poverty Law Center on federal fraud charges (22 April 2026)",
+     "url": "https://www.npr.org/2026/04/22/nx-s1-5794620/doj-indicts-southern-poverty-law-center-on-federal-fraud-charges"
+    }
+   ],
+   "connections": [
+    {
+     "id": "loyal-white-knights",
+     "type": "ownership",
+     "label": "faction"
+    },
+    {
+     "id": "traditionalist-american-knights",
+     "type": "ownership",
+     "label": "faction"
+    },
+    {
+     "id": "kkk-civil-rights-era",
+     "type": "legacy",
+     "label": "descended from earlier Klans"
+    },
+    {
+     "id": "donald-v-united-klans",
+     "type": "legacy",
+     "label": "civil liability precedent"
+    },
+    {
+     "id": "national-memorial-peace-justice",
+     "type": "parallel",
+     "label": "counter-memory of racial terror"
+    }
+   ]
+  },
+  {
+   "id": "loyal-white-knights",
+   "name": "Loyal White Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Founded 2011 in Pelham, North Carolina; peaked at 200+ members and accounted for 217 of 394 Klan flyering incidents over five years; defunct by 2024, its remnant forming the Sacred White Knights (ADL).",
+   "start": 2011,
+   "end": 2024,
+   "lifespan": "2011–2024",
+   "base": "Pelham, North Carolina",
+   "geo": [
+    36.548,
+    -79.468
+   ],
+   "aliases": [
+    "LWK",
+    "Sacred White Knights (successor)"
+   ],
+   "origins": "Founded and led by Christopher Barker and Amanda Barker; during Christopher Barker's probation Amanda often acted as de facto leader (ADL).",
+   "role_summary": "LWK was for several years the most visible US Klan, known chiefly for mass flyer drops and rallies, including a 2015 Columbia, SC protest over the Confederate flag and the July 2017 rally in Charlottesville against removing the Robert E. Lee statue.",
+   "roleDetail": [
+    {
+     "t": "Court outcomes.",
+     "d": "A December 2016 assault case against Christopher Barker was dropped when the victim refused to testify; California leader William Hagen was convicted in 2017 of assault with a deadly weapon and sentenced to eight years (ADL).",
+     "basis": "documented"
+    },
+    {
+     "t": "Leadership-driven decline.",
+     "d": "ADL attributes the group's collapse to its founder's repeated arrests and leadership problems.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Defunct since 2024 per ADL; remnant members formed the Sacred White Knights, which has shown limited activity.",
+   "legacyDetail": [
+    {
+     "t": "Flyering as tactic.",
+     "d": "LWK's flyer campaigns typified the low-cost propaganda of today's Klans.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Organisation defunct. Only the public leaders named in ADL reporting are mentioned here.",
+   "sources": [
+    {
+     "label": "ADL — Backgrounder: Loyal White Knights of the Ku Klux Klan",
+     "url": "https://www.adl.org/resources/backgrounder/loyal-white-knights-ku-klux-klan"
+    },
+    {
+     "label": "SPLC — Extremist Files: Ku Klux Klan",
+     "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "traditionalist-american-knights",
+     "type": "parallel",
+     "label": "rival faction"
+    }
+   ]
+  },
+  {
+   "id": "traditionalist-american-knights",
+   "name": "Traditionalist American Knights of the Ku Klux Klan",
+   "category": "Enforcers & Aftermath",
+   "role": "Hate Group & Terror",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Missouri-based Klan faction led by 'imperial wizard' Frank Ancona until his murder in February 2017; it drew national attention in 2014 for threatening Ferguson protesters (press reports).",
+   "start": 2010,
+   "end": 2017,
+   "lifespan": "2000s–c. 2017",
+   "base": "Missouri (St. Francois County area)",
+   "geo": [
+    37.854,
+    -90.518
+   ],
+   "aliases": [
+    "TAK"
+   ],
+   "origins": "One of the many small Klan 'realms' that emerged in the 2000s, active in Missouri and neighbouring states.",
+   "role_summary": "Ancona's group distributed recruiting flyers and in November 2014 issued threats against protesters in Ferguson, Missouri. In February 2017 Ancona was shot dead; his wife Malissa Ancona pleaded guilty in April 2019 to second-degree murder and received life in prison, and his stepson Paul Jinkerson Jr. was convicted of involuntary manslaughter and other charges and sentenced to a total of 59 years.",
+   "roleDetail": [
+    {
+     "t": "Court outcome.",
+     "d": "Malissa Ancona's plea in St. Francois County Court (KSDK).",
+     "basis": "documented"
+    },
+    {
+     "t": "Group's fate.",
+     "d": "The faction largely collapsed after Ancona's death; SPLC no longer lists it among active Klans.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Its rapid collapse after one leader's death illustrates how personality-dependent today's Klans are.",
+   "legacyDetail": [
+    {
+     "t": "Personalised leadership.",
+     "d": "Small Klan factions often fail to outlive their founders, as with TAK after 2017.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "Organisation inactive. Only the public leader and people convicted in court are named.",
+   "sources": [
+    {
+     "label": "KSDK (St. Louis) — Wife of KKK leader Frank Ancona pleads guilty to killing him in 2017",
+     "url": "https://www.ksdk.com/article/news/wife-of-kkk-leader-frank-ancona-pleads-guilty-to-killing-him-in-2017/63-4b90c915-60d7-4732-84d6-2b0af60f50b4"
+    },
+    {
+     "label": "Riverfront Times — KKK 'Imperial Wizard' Frank Ancona murdered; wife and stepson arrested",
+     "url": "https://www.riverfronttimes.com/news/kkk-imperial-wizard-frank-ancona-murdered-wife-and-stepson-arrested-3142221"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ku-klux-klan-today",
+     "type": "family",
+     "label": "faction of today's Klan"
+    },
+    {
+     "id": "loyal-white-knights",
+     "type": "parallel",
+     "label": "rival faction"
+    }
+   ]
+  },
+  {
+   "id": "south-carolina-patrol-act-1704",
+   "name": "South Carolina patrol act (1704) and Negro Act (1740)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "South Carolina's assembly created the first statutory slave patrols in 1704, modelled on Barbados. After the 1739 Stono Rebellion the Negro Act of 1740 required regular patrols, a system that lasted with minor revisions until 1865 (SC Encyclopedia).",
+   "start": 1704,
+   "geo": [
+    32.776,
+    -79.931
+   ],
+   "connections": [
+    {
+     "id": "slave-patrols",
+     "type": "charter",
+     "label": "created the patrols"
+    },
+    {
+     "id": "port-charleston",
+     "type": "political",
+     "label": "Lowcountry colony"
+    },
+    {
+     "id": "code-noir",
+     "type": "parallel",
+     "label": "contemporary slave codes"
+    }
+   ]
+  },
+  {
+   "id": "fugitive-slave-act-1850",
+   "name": "Fugitive Slave Act of 1850",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Part of the Compromise of 1850, it created federal commissioners to issue certificates of removal, denied alleged fugitives a jury trial or testimony, compelled bystanders to assist and paid commissioners $10 for returning a person but $5 for freeing them (National Constitution Center). It drove thousands of Black Northerners to Canada and provoked resistance such as Christiana.",
+   "start": 1850,
+   "connections": [
+    {
+     "id": "edward-gorsuch",
+     "type": "charter",
+     "label": "Gorsuch's warrants"
+    },
+    {
+     "id": "christiana-resistance-1851",
+     "type": "political",
+     "label": "resisted at Christiana"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "routes extended to Canada"
+    },
+    {
+     "id": "harriet-tubman",
+     "type": "political",
+     "label": "Tubman's rescues after 1850"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "political",
+     "label": "Douglass denounced the Act"
+    }
+   ]
+  },
+  {
+   "id": "christiana-resistance-1851",
+   "name": "Christiana Resistance (1851)",
+   "type": "entity",
+   "kind": "Revolt / uprising",
+   "description": "On 11 September 1851 William Parker, Eliza Parker and neighbours at Christiana, Lancaster County, Pennsylvania, resisted a posse led by Maryland enslaver Edward Gorsuch and a federal marshal; Gorsuch was killed. The federal treason trial that followed — the largest in US history — ended in acquittal, and Parker escaped to Canada with Frederick Douglass's help (MSA).",
+   "start": 1851,
+   "geo": [
+    39.955,
+    -75.996
+   ],
+   "connections": [
+    {
+     "id": "edward-gorsuch",
+     "type": "political",
+     "label": "Gorsuch killed"
+    },
+    {
+     "id": "fugitive-slave-act-1850",
+     "type": "political",
+     "label": "test of the 1850 Act"
+    },
+    {
+     "id": "frederick-douglass",
+     "type": "political",
+     "label": "helped Parker escape"
+    },
+    {
+     "id": "underground-railroad",
+     "type": "political",
+     "label": "freedom-seekers' defence"
+    }
+   ]
+  },
+  {
+   "id": "black-codes-1865",
+   "name": "Black Codes (1865–1866)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Laws passed by former Confederate states, starting with Mississippi in November 1865, that required freedpeople to sign annual labour contracts, criminalised 'vagrancy' and allowed sheriffs to hire out those fined; South Carolina taxed Black workers outside farm and domestic labour $10–100 a year. Congress cited them in passing the Civil Rights Act of 1866 and the Fourteenth Amendment (National Constitution Center).",
+   "start": 1865,
+   "connections": [
+    {
+     "id": "andrew-johnson",
+     "type": "political",
+     "label": "passed under Johnson's Reconstruction"
+    },
+    {
+     "id": "thirteenth-amendment-punishment-clause",
+     "type": "charter",
+     "label": "exploited the crime exception"
+    },
+    {
+     "id": "alabama-convict-lease-system",
+     "type": "legacy",
+     "label": "fed convict leasing"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "parallel",
+     "label": "same reaction to emancipation"
+    },
+    {
+     "id": "slave-patrols",
+     "type": "legacy",
+     "label": "continued patrol-style control"
+    }
+   ]
+  },
+  {
+   "id": "thirteenth-amendment-punishment-clause",
+   "name": "Thirteenth Amendment 'punishment clause' (1865)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "The Thirteenth Amendment (ratified December 1865) abolished slavery and involuntary servitude 'except as a punishment for crime whereof the party shall have been duly convicted'. Southern states used the exception, combined with Black Codes, to lease convicts to private companies until the 1920s; several states have since removed similar language from their constitutions.",
+   "start": 1865,
+   "connections": [
+    {
+     "id": "black-codes-1865",
+     "type": "legacy",
+     "label": "criminalised freedpeople"
+    },
+    {
+     "id": "tennessee-coal-iron-railroad",
+     "type": "charter",
+     "label": "legal basis for leasing"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "parallel",
+     "label": "state abolition a year earlier"
+    }
+   ]
+  },
+  {
+   "id": "enforcement-acts-1870-71",
+   "name": "Enforcement Acts (1870–1871) and Ku Klux Klan Act",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Three federal laws (May 1870, February 1871 and the Ku Klux Klan Act of 20 April 1871) made conspiracies to deny civil rights federal crimes and let the president use troops and suspend habeas corpus. Grant used them against the Klan in South Carolina in 1871; Section 1983 suits descend from the 1871 Act (U.S. Senate; House History).",
+   "start": 1870,
+   "connections": [
+    {
+     "id": "kkk-reconstruction",
+     "type": "political",
+     "label": "broke the first Klan"
+    },
+    {
+     "id": "white-league",
+     "type": "political",
+     "label": "limited enforcement by 1874"
+    }
+   ]
+  },
+  {
+   "id": "the-birth-of-a-nation-1915",
+   "name": "The Birth of a Nation (1915 film)",
+   "type": "entity",
+   "kind": "Film / propaganda",
+   "description": "D. W. Griffith's film, based on Thomas Dixon's novel The Clansman, glorified the Reconstruction Klan and popularised the burning cross. Its Atlanta run in December 1915 helped drive William J. Simmons's revival of the Klan (New Georgia Encyclopedia); the NAACP campaigned against it.",
+   "start": 1915,
+   "connections": [
+    {
+     "id": "kkk-second-era",
+     "type": "legacy",
+     "label": "inspired 1915 revival"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "legacy",
+     "label": "mythologised first Klan"
+    }
+   ]
+  },
+  {
+   "id": "stone-mountain",
+   "name": "Stone Mountain, Georgia",
+   "type": "entity",
+   "kind": "Site / memorial",
+   "description": "Granite dome east of Atlanta where William J. Simmons refounded the Klan with a cross burning on Thanksgiving night 1915; the Klan rallied there for decades. The state-owned park bears the largest Confederate relief carving (completed 1972), still debated (New Georgia Encyclopedia).",
+   "start": 1915,
+   "geo": [
+    33.806,
+    -84.145
+   ],
+   "connections": [
+    {
+     "id": "kkk-second-era",
+     "type": "ownership",
+     "label": "1915 refounding"
+    },
+    {
+     "id": "nathan-bedford-forrest",
+     "type": "parallel",
+     "label": "Lost Cause memorial culture"
+    }
+   ]
+  },
+  {
+   "id": "wilmington-coup-1898",
+   "name": "Wilmington coup and massacre (1898)",
+   "type": "entity",
+   "kind": "Massacre / coup",
+   "description": "On 10 November 1898 an armed white mob led by Alfred Moore Waddell burned the Black-owned Daily Record, killed at least 14–22 Black residents (estimates vary) and forced the elected biracial city government to resign — often described as the only successful coup d'état on US soil. It launched statewide disfranchisement; a state commission reported in 2006 (NCpedia; DNCR).",
+   "start": 1898,
+   "geo": [
+    34.236,
+    -77.946
+   ],
+   "connections": [
+    {
+     "id": "alfred-moore-waddell",
+     "type": "ownership",
+     "label": "led by Waddell"
+    },
+    {
+     "id": "red-shirts",
+     "type": "political",
+     "label": "Red Shirt intimidation"
+    }
+   ]
+  },
+  {
+   "id": "sugar-land-95",
+   "name": "Sugar Land 95 cemetery (found 2018)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Unmarked graves of 95 people — 94 men and one woman, mostly Black prisoners leased to Sugar Land cane plantations c. 1878–1910 — found in February 2018 on Fort Bend ISD land. Rice University and the district study the remains and seek descendants through DNA; local activist Reginald Moore had searched for the graves for decades.",
+   "start": 2018,
+   "geo": [
+    29.619,
+    -95.635
+   ],
+   "connections": [
+    {
+     "id": "imperial-sugar-convict-leasing",
+     "type": "legacy",
+     "label": "convict-lease graves"
+    },
+    {
+     "id": "national-memorial-peace-justice",
+     "type": "parallel",
+     "label": "memory of racial terror"
+    }
+   ]
+  },
+  {
+   "id": "national-memorial-peace-justice",
+   "name": "National Memorial for Peace and Justice (Montgomery, 2018)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Opened by the Equal Justice Initiative on 26 April 2018, it commemorates more than 4,400 victims of racial-terror lynching (1877–1950) documented in EJI's Lynching in America report, including 4,084 in twelve Southern states, with 805 steel monuments for the counties where lynchings occurred. EJI's Legacy Museum nearby interprets slavery, lynching, convict leasing and mass incarceration.",
+   "start": 2018,
+   "geo": [
+    32.373,
+    -86.308
+   ],
+   "connections": [
+    {
+     "id": "alabama-convict-lease-system",
+     "type": "legacy",
+     "label": "interprets convict leasing"
+    },
+    {
+     "id": "kkk-reconstruction",
+     "type": "legacy",
+     "label": "documents racial terror"
+    },
+    {
+     "id": "descendants-truth-reconciliation-foundation",
+     "type": "parallel",
+     "label": "truth-telling efforts"
+    }
+   ]
+  },
+  {
+   "id": "donald-v-united-klans",
+   "name": "Donald v. United Klans of America (1987)",
+   "type": "entity",
+   "kind": "Court case",
+   "description": "After Klansmen Henry Hays and James 'Tiger' Knowles lynched 19-year-old Michael Donald in Mobile in 1981, SPLC and attorney Michael Figures sued the United Klans of America for his mother Beulah Mae Donald. A Mobile jury awarded $7 million in February 1987, bankrupting the UKA, which surrendered its Tuscaloosa headquarters (SPLC).",
+   "start": 1987,
+   "geo": [
+    30.695,
+    -88.04
+   ],
+   "connections": [
+    {
+     "id": "kkk-civil-rights-era",
+     "type": "political",
+     "label": "bankrupted the UKA"
+    },
+    {
+     "id": "ku-klux-klan-today",
+     "type": "legacy",
+     "label": "civil-liability precedent"
+    },
+    {
+     "id": "africatown",
+     "type": "parallel",
+     "label": "Mobile"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1704,
+   "title": "South Carolina creates slave patrols",
+   "text": "The assembly passes the first statutory slave-patrol law in British North America, modelled on Barbados.",
+   "ids": [
+    "south-carolina-patrol-act-1704",
+    "slave-patrols",
+    "port-charleston"
+   ],
+   "source": {
+    "label": "South Carolina Encyclopedia — Slave patrols",
+    "url": "https://www.scencyclopedia.org/sce/entries/slave-patrols/"
+   }
+  },
+  {
+   "year": 1829,
+   "title": "Patty Cannon dies in jail",
+   "text": "After remains are found on her former land, the Delmarva kidnapper is indicted for murder and dies in the Georgetown, Delaware, jail on 11 May before trial.",
+   "ids": [
+    "patty-cannon-gang"
+   ],
+   "source": {
+    "label": "Maryland State Archives — Martha 'Patty' Cannon (c. 1746 – 1829) biography",
+    "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/051200/051231/html/051231bio.html"
+   }
+  },
+  {
+   "year": 1833,
+   "title": "Douglass fights the slave-breaker Covey",
+   "text": "Hired out by Thomas Auld to Edward Covey, the teenage Douglass fights back in August 1833; Covey never whips him again.",
+   "ids": [
+    "edward-covey",
+    "frederick-douglass",
+    "auld-family"
+   ],
+   "source": {
+    "label": "UNC DocSouth — Narrative of the Life of Frederick Douglass (1845)",
+    "url": "https://docsouth.unc.edu/neh/douglass/douglass.html"
+   }
+  },
+  {
+   "year": 1850,
+   "title": "Fugitive Slave Act",
+   "text": "Federal commissioners, paid $10 per person returned and $5 per person freed, are empowered to send alleged fugitives south without jury trial.",
+   "ids": [
+    "fugitive-slave-act-1850",
+    "underground-railroad"
+   ],
+   "source": {
+    "label": "National Constitution Center — The Fugitive Slave Act (1850)",
+    "url": "https://constitutioncenter.org/the-constitution/historic-document-library/detail/the-fugitive-slave-act-1850"
+   }
+  },
+  {
+   "year": 1851,
+   "title": "Christiana Resistance",
+   "text": "Black residents of Christiana, Pennsylvania, resist Maryland enslaver Edward Gorsuch's posse; Gorsuch is killed and the treason defendants are acquitted.",
+   "ids": [
+    "christiana-resistance-1851",
+    "edward-gorsuch",
+    "fugitive-slave-act-1850"
+   ],
+   "source": {
+    "label": "Maryland State Archives — Roedown Plantation and the Christiana Resistance",
+    "url": "https://msa.maryland.gov/msa/mdslavery/html/casestudies/roedown_essay.html"
+   }
+  },
+  {
+   "year": 1854,
+   "title": "Knights of the Golden Circle founded",
+   "text": "George Bickley and four others found the KGC at Lexington, Kentucky, to build a slave empire around the Caribbean.",
+   "ids": [
+    "knights-of-the-golden-circle",
+    "port-havana"
+   ],
+   "source": {
+    "label": "Texas State Historical Association, Handbook of Texas — Knights of the Golden Circle",
+    "url": "https://www.tshaonline.org/handbook/entries/knights-of-the-golden-circle"
+   }
+  },
+  {
+   "year": 1865,
+   "title": "Klan founded at Pulaski; Black Codes passed",
+   "text": "Six Confederate veterans found the Ku Klux Klan in Pulaski, Tennessee, as Mississippi and South Carolina pass the first Black Codes.",
+   "ids": [
+    "kkk-reconstruction",
+    "black-codes-1865",
+    "thirteenth-amendment-punishment-clause"
+   ],
+   "source": {
+    "label": "SPLC — Extremist Files: Ku Klux Klan",
+    "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+   }
+  },
+  {
+   "year": 1871,
+   "title": "Ku Klux Klan Act signed",
+   "text": "Grant signs the third Enforcement Act on 20 April 1871 and suspends habeas corpus in nine South Carolina counties that autumn.",
+   "ids": [
+    "enforcement-acts-1870-71",
+    "kkk-reconstruction"
+   ],
+   "source": {
+    "label": "U.S. House History, Art & Archives — The Ku Klux Klan Act of 1871",
+    "url": "https://history.house.gov/HistoricalHighlight/Detail/15032451486?ret=True"
+   }
+  },
+  {
+   "year": 1874,
+   "title": "White League's Battle of Liberty Place",
+   "text": "Thousands of White Leaguers rout New Orleans' police and militia on 14 September and hold the city government for three days.",
+   "ids": [
+    "white-league",
+    "port-new-orleans"
+   ],
+   "source": {
+    "label": "64 Parishes (Encyclopedia of Louisiana) — White League",
+    "url": "https://64parishes.org/entry/white-league"
+   }
+  },
+  {
+   "year": 1876,
+   "title": "Hamburg Massacre and Red Shirt campaign",
+   "text": "White paramilitaries kill Black militiamen at Hamburg, SC; Red Shirts then escort Wade Hampton III to the governorship.",
+   "ids": [
+    "red-shirts",
+    "hampton-family"
+   ],
+   "source": {
+    "label": "South Carolina Encyclopedia — Hamburg Massacre",
+    "url": "https://www.scencyclopedia.org/sce/entries/hamburg-massacre/"
+   }
+  },
+  {
+   "year": 1898,
+   "title": "Wilmington coup",
+   "text": "Alfred Moore Waddell's mob kills Black residents and forces Wilmington's elected government out on 10 November.",
+   "ids": [
+    "wilmington-coup-1898",
+    "alfred-moore-waddell",
+    "red-shirts"
+   ],
+   "source": {
+    "label": "N.C. Dept. of Natural and Cultural Resources — The Wilmington Coup (1898)",
+    "url": "https://www.dncr.nc.gov/blog/2016/11/10/wilmington-coup"
+   }
+  },
+  {
+   "year": 1908,
+   "title": "Green Cottenham sold to TCI; Georgia ends leasing",
+   "text": "Arrested for 'vagrancy' in Alabama, Cottenham is sold to TCI (now U.S. Steel) for the Pratt mines; Georgia abolishes leasing that year but creates chain gangs.",
+   "ids": [
+    "tennessee-coal-iron-railroad",
+    "alabama-convict-lease-system",
+    "georgia-convict-lease-system"
+   ],
+   "source": {
+    "label": "NPR/VPM — Excerpt: 'Slavery by Another Name' (Green Cottenham and the Pratt mines)",
+    "url": "https://www.vpm.org/npr-news/2008-03-25/excerpt-slavery-by-another-name"
+   }
+  },
+  {
+   "year": 1915,
+   "title": "Klan refounded at Stone Mountain",
+   "text": "Inspired by The Birth of a Nation, William J. Simmons burns a cross on Stone Mountain on Thanksgiving night.",
+   "ids": [
+    "kkk-second-era",
+    "stone-mountain",
+    "the-birth-of-a-nation-1915"
+   ],
+   "source": {
+    "label": "New Georgia Encyclopedia — Ku Klux Klan in the Twentieth Century",
+    "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/ku-klux-klan-twentieth-century"
+   }
+  },
+  {
+   "year": 1928,
+   "title": "Alabama ends convict leasing",
+   "text": "Alabama becomes the last state to abolish the convict-lease system.",
+   "ids": [
+    "alabama-convict-lease-system",
+    "tennessee-coal-iron-railroad"
+   ],
+   "source": {
+    "label": "Equal Justice Initiative — A Different Kind of Slavery",
+    "url": "https://eji.org/history-racial-injustice-different-kind-of-slavery"
+   }
+  },
+  {
+   "year": 1963,
+   "title": "16th Street Baptist Church bombing",
+   "text": "Klansmen bomb the Birmingham church, killing four girls; Thomas Blanton and Bobby Frank Cherry are convicted only in 2001 and 2002.",
+   "ids": [
+    "kkk-civil-rights-era"
+   ],
+   "source": {
+    "label": "CNN — Ex-Klansman Thomas Blanton convicted in 1963 church bombing (May 2001)",
+    "url": "https://cnn.com/2001/LAW/05/01/church.bombing.05/index.html"
+   }
+  },
+  {
+   "year": 1987,
+   "title": "Klan bankrupted in civil court",
+   "text": "A Mobile jury awards Beulah Mae Donald $7 million against the United Klans of America for her son Michael's 1981 lynching.",
+   "ids": [
+    "donald-v-united-klans",
+    "kkk-civil-rights-era"
+   ],
+   "source": {
+    "label": "SPLC — Landmark case: Donald v. United Klans of America",
+    "url": "https://www.splcenter.org/resources/civil-rights-case-docket/donald-v-united-klans-america/"
+   }
+  },
+  {
+   "year": 2018,
+   "title": "Sugar Land 95 found; lynching memorial opens",
+   "text": "Graves of 95 leased convicts are found in Sugar Land, Texas, and EJI opens the National Memorial for Peace and Justice on 26 April.",
+   "ids": [
+    "sugar-land-95",
+    "imperial-sugar-convict-leasing",
+    "national-memorial-peace-justice"
+   ],
+   "source": {
+    "label": "History.com — Graves of 95 Black Forced Laborers Found in Texas (Sugar Land)",
+    "url": "https://www.history.com/articles/graves-texas-forced-laborers-jim-crow"
+   }
+  },
+  {
+   "year": 2025,
+   "title": "SPLC counts 14 Klan groups",
+   "text": "SPLC's 2025 data list just 14 Klan groups, down from 221 chapters in 2010; the Loyal White Knights had become defunct in 2024.",
+   "ids": [
+    "ku-klux-klan-today",
+    "loyal-white-knights"
+   ],
+   "source": {
+    "label": "SPLC — Extremist Files: Ku Klux Klan",
+    "url": "https://www.splcenter.org/resources/extremist-files/ku-klux-klan/"
+   }
+  }
+ ]
+}

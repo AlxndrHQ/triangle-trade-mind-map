@@ -1056,6 +1056,10 @@
     {
      "label": "Wikipedia — John Newton",
      "url": "https://en.wikipedia.org/wiki/John_Newton"
+    },
+    {
+     "label": "Royal Museums Greenwich — John Newton's journal, Duke of Argyle and African, 1750–1754 (LOG/M/46)",
+     "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-510468"
     }
    ],
    "connections": [
@@ -1079,7 +1083,67 @@
      "type": "trade",
      "label": "traded on Sierra Leone coast"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Newton the Elder",
+     "relation": "father",
+     "years": "fl. 1720s–1742",
+     "note": "A shipmaster in the Mediterranean service who took his son to sea at eleven and retired in 1742; it was through his friendship with Joseph Manesty that the younger Newton entered the slave trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Amos Clow (Clowe)",
+     "relation": "master",
+     "years": "fl. 1745",
+     "note": "A slave trader on the Plantain Islands off Sierra Leone who took Newton on in 1745 and left him with his African wife, known as Princess Peye of the Sherbro, under whom Newton was himself held in servitude.",
+     "basis": "documented"
+    },
+    {
+     "name": "Joseph Manesty",
+     "relation": "employer",
+     "years": "fl. 1740s–1750s",
+     "note": "Liverpool merchant and friend of Newton's father who got him the mate's berth on the Brownlow (1748), gave him command of the Duke of Argyle and the African (1750–54), and in 1755 helped him become tide surveyor at Liverpool; Newton kept investing in Manesty's slaving voyages after leaving the sea.",
+     "basis": "documented",
+     "id": "joseph-manesty"
+    },
+    {
+     "name": "Mary Catlett",
+     "relation": "spouse",
+     "years": "m. 1750–d. 1790",
+     "note": "His childhood sweetheart, married in February 1750 just before his first command; he wrote her letters throughout his slaving voyages, and they were buried together.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Thornton",
+     "relation": "patron",
+     "years": "1720–1790",
+     "note": "Evangelical merchant who supplemented Newton's stipend at Olney and in 1779 presented him to the rectory of St Mary Woolnoth in the City of London, which he held until his death.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Cowper",
+     "relation": "collaborator",
+     "years": "1731–1800",
+     "note": "The poet moved to Olney in 1767 to be near Newton; together they published the Olney Hymns (1779), which include 'Amazing Grace'.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Cunningham and Eliza Catlett",
+     "relation": "adopted nieces",
+     "years": "fl. 1780s–1800s",
+     "note": "Two orphaned nieces from his wife's family whom the childless Newtons adopted and raised in London.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Wilberforce",
+     "relation": "protégé",
+     "years": "1759–1833",
+     "note": "Newton counselled the young MP after his conversion to stay in Parliament, and his 1788 pamphlet 'Thoughts upon the African Slave Trade', sent to every MP, fed the abolition campaign Wilberforce led.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Newton had no children of his own, and no publicly documented descendants have been traced. He and Mary were first buried at St Mary Woolnoth and reinterred at Olney's parish church of St Peter and St Paul in 1893; his journal of the Duke of Argyle and African voyages is held by the National Maritime Museum, Greenwich. His fame now rests on 'Amazing Grace', which is often told in ways that downplay his years as a slave-ship captain."
   },
   {
    "id": "hugh-crow",
@@ -1135,6 +1199,18 @@
     {
      "label": "Wikipedia — Hugh Crow",
      "url": "https://www.wikipedia.org/wiki/Hugh_Crow"
+    },
+    {
+     "label": "Wikipedia — Will (1797 ship)",
+     "url": "https://en.wikipedia.org/wiki/Will_(1797_ship)"
+    },
+    {
+     "label": "Wikipedia — Kitty's Amelia (1803 ship)",
+     "url": "https://en.wikipedia.org/wiki/Kitty%27s_Amelia_(1803_ship)"
+    },
+    {
+     "label": "Manx National Heritage iMuseum — Portrait, Hugh Crow 1765–1829",
+     "url": "https://imuseum.im/search/collections/archive/mnh-museum-378841.html"
     }
    ],
    "connections": [
@@ -1163,7 +1239,47 @@
      "type": "voyage",
      "label": "career slaving seaman"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Edmund and Judith Crow",
+     "relation": "parents",
+     "years": "1730–1809 / 1737–1807",
+     "note": "A tradesman of Ramsey, Isle of Man, and his wife, from whose home Crow went to sea.",
+     "basis": "documented"
+    },
+    {
+     "name": "Aspinall & Co. (Aspinall family)",
+     "relation": "employer",
+     "years": "fl. 1780s–1800s",
+     "note": "The Liverpool slaving house that built the Will in 1797 and employed Crow as her master, notably when he drove off a French privateer in 1800; the family were also partners in the Zong syndicate.",
+     "basis": "documented",
+     "id": "aspinall-family-liverpool"
+    },
+    {
+     "name": "Pepple kings of Bonny",
+     "relation": "trading partners",
+     "years": "c. 1790s–1807",
+     "note": "The rulers of Bonny with whom Crow traded for captives over many voyages, and whose town and customs he described at length in his Memoirs.",
+     "basis": "documented",
+     "id": "kingdom-of-bonny"
+    },
+    {
+     "name": "Thomas Clarke",
+     "relation": "owner",
+     "years": "fl. 1804–1807",
+     "note": "Liverpool merchant listed in Lloyd's Register (1804) as owner of the Kitty's Amelia; whether he still owned her when Crow took her out in July 1807 for the last legal British slaving voyage is not confirmed.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "His executors",
+     "relation": "heirs/editors",
+     "years": "1829–1830",
+     "note": "At Crow's request his executors compiled his Memoirs, chiefly from his own manuscripts, and published them in London in 1830 with his portrait.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Crow settled in Liverpool in 1817 and died there in 1829; his Memoirs, reissued in 2007 with an introduction by John Pinfold, remain a heavily used (and partisan) source on Bonny. His portrait is held in the Manx National Heritage collections."
   },
   {
    "id": "thomas-phillips-hannibal",
@@ -1213,6 +1329,14 @@
     {
      "label": "Wikipedia — Hannibal (slave ship)",
      "url": "https://en.wikipedia.org/wiki/Hannibal_(slave_ship)"
+    },
+    {
+     "label": "Brecon & Radnor Express — Controversial plaque commemorating Brecon's links to slave trader is removed ahead of review",
+     "url": "https://www.brecon-radnor.co.uk/news/controversial-plaque-commemorating-brecons-links-to-slave-trader-is-removed-ahead-of-review-82586"
+    },
+    {
+     "label": "Wikipedia — Jeffrey Jeffreys",
+     "url": "https://en.wikipedia.org/wiki/Jeffrey_Jeffreys"
     }
    ],
    "connections": [
@@ -1241,7 +1365,40 @@
      "type": "voyage",
      "label": "sailed from London"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "William Phillips",
+     "relation": "father",
+     "years": "d. before 1690s",
+     "note": "Phillips's father in Brecon, from whom he inherited his town house, Harvard House.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Jeffrey Jeffreys",
+     "relation": "employer/owner",
+     "years": "c.1652–1709",
+     "note": "London merchant and MP for Brecon who, with others, owned the Hannibal and engaged his fellow Breconian Phillips to command her on the 1693–94 voyage chartered to the Royal African Company.",
+     "basis": "documented",
+     "id": "jeffrey-jeffreys"
+    },
+    {
+     "name": "Royal African Company",
+     "relation": "charterer",
+     "years": "1693–1695",
+     "note": "The chartered monopoly that hired the Hannibal and paid her owners (Phillips among them, as a part-owner) freight only for each captive landed alive at Barbados.",
+     "basis": "documented",
+     "id": "royal-african-company"
+    },
+    {
+     "name": "Walthoe (publisher) and Churchill's Collection",
+     "relation": "publication",
+     "years": "1732",
+     "note": "Phillips's journal was printed in 1732 as 'A Journal of a Voyage Made in the Hannibal of London', which carried his account into the textbooks.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; Phillips retired to Brecon after the voyage and died in late 1712 or early 1713, being buried at what is now Brecon Cathedral. In 2010 Brecon Town Council unveiled a plaque honouring him that made no mention of the slave trade; it was taken down in June 2020 before the council's review was complete and is now in storage at Y Gaer, Brecon Museum. Rosemary Caldicott's book 'Voyage of Despair' (2024) reconstructs the voyage and its crew."
   },
   {
    "id": "luke-collingwood",
@@ -1308,7 +1465,62 @@
      "type": "trade",
      "label": "took command off Cape Coast"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "The William and her master",
+     "relation": "previous ship",
+     "years": "1780–1781",
+     "note": "Collingwood was surgeon on the Gregson syndicate's William; at Cape Coast in March 1781 the William's master bought the captured Dutch ship Zorg for the syndicate and Collingwood got his first command in her.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gregson syndicate",
+     "relation": "employers/owners",
+     "years": "1780–1783",
+     "note": "William, John and James Gregson, with Edward Wilson, George Case and James Aspinall, owned the Zong and later sued her underwriters for the people thrown overboard.",
+     "basis": "documented",
+     "id": "gregson-family"
+    },
+    {
+     "name": "James Aspinall",
+     "relation": "owner (partner)",
+     "years": "fl. 1780s",
+     "note": "One of the six Liverpool partners in the Zong; the Aspinall house also owned other slavers, including the Will commanded by Hugh Crow.",
+     "basis": "documented",
+     "id": "aspinall-family-liverpool"
+    },
+    {
+     "name": "James Kelsall",
+     "relation": "first mate",
+     "years": "fl. 1780–1783",
+     "note": "Kelsall, who had also served on the William, was the Zong's mate; suspended after a quarrel, he later said he first opposed the killings, and his affidavit was used by the insurers.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Stubbs",
+     "relation": "passenger/former captain",
+     "years": "fl. 1780s",
+     "note": "A former slave-ship captain aboard as a passenger, who took charge of the ship when Collingwood fell ill.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gregson v Gilbert",
+     "relation": "legal aftermath",
+     "years": "1783",
+     "note": "After Collingwood's death three days after reaching Jamaica, the owners' insurance claim went to court; Lord Mansfield ordered a new trial, which is not recorded as having happened.",
+     "basis": "documented"
+    },
+    {
+     "name": "Olaudah Equiano and Granville Sharp",
+     "relation": "aftermath",
+     "years": "1783",
+     "note": "Equiano brought the case to Sharp, who tried and failed to have the crew prosecuted for murder, making the Zong a rallying point for abolition.",
+     "basis": "documented",
+     "id": "olaudah-equiano"
+    }
+   ],
+   "today": "No publicly documented descendants of Collingwood have been traced, and no one was ever prosecuted for the killings. The Zong is remembered through J. M. W. Turner's 'The Slave Ship' (1840), a memorial stone at Black River, Jamaica (2007), M. NourbeSe Philip's 'Zong!' (2008) and the film 'Belle' (2013); the owners' profits stayed in the Gregson and allied Liverpool houses."
   },
   {
    "id": "gregson-family",
@@ -1429,6 +1641,10 @@
     {
      "label": "Wikipedia — Alexander Falconbridge",
      "url": "https://en.wikipedia.org/wiki/Alexander_Falconbridge"
+    },
+    {
+     "label": "Wikipedia — Anna Maria Falconbridge",
+     "url": "https://en.wikipedia.org/wiki/Anna_Maria_Falconbridge"
     }
    ],
    "connections": [
@@ -1452,7 +1668,52 @@
      "type": "parallel",
      "label": "evidence used by the same campaign"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Bristol slaving voyages (Tartar, Emilia, Alexander)",
+     "relation": "employers",
+     "years": "c. 1780–1787",
+     "note": "He served as surgeon on four slaving voyages, which provided the evidence for his 1788 'Account'.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Clarkson",
+     "relation": "mentor",
+     "years": "1760–1846",
+     "note": "The abolitionist recruited Falconbridge in Bristol, used him as guide and armed bodyguard while gathering evidence, and brought him into the abolition committee's work.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anna Maria Falconbridge (née Horwood)",
+     "relation": "spouse",
+     "years": "1769–1835",
+     "note": "A Bristol woman who married him in 1788 against her family's wishes, went with him to Sierra Leone in 1791, and wrote the 'Narrative of Two Voyages to the River Sierra Leone' (1794), the first published narrative of Africa by an English woman.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Falconbridge",
+     "relation": "brother",
+     "years": "fl. 1791",
+     "note": "His brother travelled with him on the 1791 mission to re-found Granville Town in Sierra Leone.",
+     "basis": "documented"
+    },
+    {
+     "name": "St George's Bay Company / Sierra Leone Company",
+     "relation": "employer",
+     "years": "1791–1792",
+     "note": "The abolitionist-backed company sent him to reorganise the failed Granville Town settlement and employed him as commercial agent at Freetown, dismissing him (with his brother-in-law Charles Horwood) shortly before his death in December 1792.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isaac DuBois",
+     "relation": "widow's second husband",
+     "years": "m. 1793",
+     "note": "A Sierra Leone Company employee whom Anna Maria married weeks after Falconbridge's death; the company refused her claim for money owed to her late husband.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants of Alexander Falconbridge have been traced; he died in Freetown in 1792 with no recorded children. His 'Account of the Slave Trade on the Coast of Africa' and Anna Maria's 'Narrative' are both freely available and widely used in teaching."
   },
   {
    "id": "james-field-stanfield",
@@ -1501,6 +1762,14 @@
     {
      "label": "Wikipedia — James Field Stanfield",
      "url": "https://en.wikipedia.org/wiki/James_Field_Stanfield"
+    },
+    {
+     "label": "Wikipedia — Clarkson Frederick Stanfield",
+     "url": "https://en.wikipedia.org/wiki/Clarkson_Frederick_Stanfield"
+    },
+    {
+     "label": "Wikipedia — George Clarkson Stanfield",
+     "url": "https://en.wikipedia.org/wiki/George_Clarkson_Stanfield"
     }
    ],
    "connections": [
@@ -1514,7 +1783,52 @@
      "type": "political",
      "label": "seaman witness"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Liverpool slaving voyage to Benin",
+     "relation": "employer",
+     "years": "1774–1776",
+     "note": "He signed on in Liverpool in September 1774 as a seaman on a ship bound for Benin, which delivered more than 200 Africans to Jamaica.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Clarkson",
+     "relation": "patron",
+     "years": "1760–1846",
+     "note": "The abolitionist to whom Stanfield addressed his 'Observations on a Guinea Voyage' (1788); Stanfield later named his son after him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Hoad",
+     "relation": "spouse",
+     "years": "m. 1785–d. 1801",
+     "note": "An artist and actress of Cheltenham whom he married in 1785 while working in the theatre; she was the mother of the painter Clarkson Stanfield.",
+     "basis": "documented"
+    },
+    {
+     "name": "Clarkson Frederick Stanfield",
+     "relation": "son",
+     "years": "1793–1867",
+     "note": "Born in Sunderland and named after Thomas Clarkson, he became a leading marine painter, a Royal Academician (1835) and a close friend and collaborator of Charles Dickens.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Clarkson Stanfield",
+     "relation": "grandson",
+     "years": "1828–1878",
+     "note": "Son of Clarkson Stanfield and a marine and landscape painter trained by his father.",
+     "basis": "documented"
+    },
+    {
+     "name": "Francis Stanfield",
+     "relation": "grandson",
+     "years": "1835–1914",
+     "note": "Son of Clarkson Stanfield who became a Catholic priest and hymn composer.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No living descendants are publicly documented. The family name survives mainly through Clarkson Stanfield's paintings, held in the Royal Collection, Sunderland Museum and Winter Gardens and elsewhere, which carry the abolitionist's name chosen by a former slave-ship sailor."
   },
   {
    "id": "william-foster",
@@ -1564,6 +1878,14 @@
     {
      "label": "National Geographic — Clotilda, America's last slave ship",
      "url": "https://www.nationalgeographic.com/magazine/article/clotilda-americas-last-slave-ship-stole-them-from-home-it-couldnt-steal-their-identities-feature"
+    },
+    {
+     "label": "Wikipedia — Timothy Meaher",
+     "url": "https://en.wikipedia.org/wiki/Timothy_Meaher"
+    },
+    {
+     "label": "Wikipedia — Clotilda (slave ship)",
+     "url": "https://en.wikipedia.org/wiki/Clotilda_(slave_ship)"
     }
    ],
    "connections": [
@@ -1597,7 +1919,49 @@
      "type": "political",
      "label": "violated federal ban"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Timothy Meaher",
+     "relation": "patron/employer",
+     "years": "1812–1892",
+     "note": "The Mobile shipyard and steamboat owner who backed the 1860 voyage on a wager, hired Foster (a shipbuilder friend) to build or fit out and command the Clotilda, and kept about 30 of the captives himself.",
+     "basis": "documented",
+     "id": "clotilda-meaher"
+    },
+    {
+     "name": "Meaher brothers",
+     "relation": "co-backers",
+     "years": "fl. 1860",
+     "note": "Timothy's brothers, who had come with him from Maine to Mobile and held plantations, sawmills and steamboats, took shares of the captives after the landing.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Abile (Celia Lewis) and fifteen others",
+     "relation": "enslaved by him",
+     "years": "1860–1865",
+     "note": "Foster took 16 of the captives as his share, among them Abile, who after emancipation married Kossola (Cudjo Lewis) in Africatown.",
+     "basis": "documented",
+     "id": "kossola-cudjo-lewis"
+    },
+    {
+     "name": "Africatown",
+     "relation": "survivors' community",
+     "years": "1866–present",
+     "note": "The settlement founded by the Clotilda survivors on land they bought near Mobile, whose descendants still live there.",
+     "basis": "documented",
+     "id": "africatown"
+    },
+    {
+     "name": "Meaher family",
+     "relation": "sponsor's heirs",
+     "years": "1926–present",
+     "note": "Meaher's heirs leased Africatown-area land to a paper mill in 1926 and long refused comment, before family members issued a public statement in October 2022 acknowledging that his actions had harmed generations.",
+     "basis": "documented",
+     "id": "clotilda-meaher"
+    }
+   ],
+   "today": "No publicly documented descendants of Foster have been traced. The wreck he burned and scuttled was identified in 2019; descendants of the captives, organised in the Clotilda Descendants Association (whose public figures include Joycelyn Davis), lead Africatown's preservation work, and the Africatown Heritage House museum opened in 2023. In National Geographic, Meaher's great-grandson Robert Meaher said 'slavery is wrong' and apologised, while declining to meet descendants; the October 2022 Meaher family statement said the family had 'been silent for too long'."
   },
   {
    "id": "ramon-ferrer",
@@ -1644,6 +2008,10 @@
     {
      "label": "Wikipedia — La Amistad",
      "url": "https://en.wikipedia.org/wiki/La_Amistad"
+    },
+    {
+     "label": "Wikipedia — United States v. The Amistad",
+     "url": "https://en.wikipedia.org/wiki/United_States_v._The_Amistad"
     }
    ],
    "connections": [
@@ -1662,7 +2030,48 @@
      "type": "political",
      "label": "killed in revolt"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "José Ruiz and Pedro Montes",
+     "relation": "charterers/'owners' of the captives",
+     "years": "1839–1841",
+     "note": "Spanish merchants who bought 53 newly imported Africans in Havana (49 for Ruiz, 4 for Montes) under false papers and shipped them on Ferrer's schooner; spared in the revolt, they later sued for their 'property' and lost.",
+     "basis": "documented",
+     "id": "ruiz-and-montes"
+    },
+    {
+     "name": "Antonio",
+     "relation": "enslaved cabin boy",
+     "years": "fl. 1839–1841",
+     "note": "Ferrer's personal slave, spared to interpret during the revolt; the district court awarded him to Ferrer's heirs, but he is reported to have escaped to New York or Canada with abolitionist help.",
+     "basis": "documented"
+    },
+    {
+     "name": "Celestino",
+     "relation": "ship's cook",
+     "years": "d. 1839",
+     "note": "The enslaved (or free mulatto) cook killed alongside Ferrer in the revolt led by Sengbe Pieh.",
+     "basis": "documented",
+     "id": "sengbe-pieh"
+    },
+    {
+     "name": "Ferrer's heirs",
+     "relation": "heirs",
+     "years": "1839–1850s",
+     "note": "His heirs claimed the ship and Antonio; their and Spain's demands for compensation remained a diplomatic issue between Spain and the US for years.",
+     "basis": "documented"
+    },
+    {
+     "name": "La Amistad / Ion",
+     "relation": "the ship",
+     "years": "1840",
+     "note": "The US government auctioned the schooner in 1840 to George Hawford of Newport, Rhode Island, who renamed her Ion.",
+     "basis": "documented",
+     "id": "amistad-ship"
+    }
+   ],
+   "today": "No publicly documented descendants of Ferrer have been traced. The Supreme Court freed the Africans in 1841 and 35 returned to Sierra Leone in 1842; the replica Freedom Schooner Amistad (built at Mystic Seaport, 1998–2000) now tells their story."
   },
   {
    "type": "entity",

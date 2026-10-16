@@ -70,6 +70,18 @@
     {
      "label": "SlaveVoyages — Voyage 36998 (Philipse-owned voyage)",
      "url": "https://slavevoyages.org/voyage/36998/variables"
+    },
+    {
+     "label": "Wikipedia — Mary Philipse",
+     "url": "https://en.wikipedia.org/wiki/Mary_Philipse"
+    },
+    {
+     "label": "Wikipedia — Philipsburg Manor House",
+     "url": "https://en.wikipedia.org/wiki/Philipsburg_Manor_House"
+    },
+    {
+     "label": "Historic Hudson Valley — Margaret Hardenbroeck DeVries Philipse",
+     "url": "https://hudsonvalley.org/?p=4906"
     }
    ],
    "connections": [
@@ -103,7 +115,47 @@
      "type": "political",
      "label": "prospered under Stuyvesant's New Amsterdam"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Margaret Hardenbroeck",
+     "relation": "spouse",
+     "years": "c.1637–c.1691",
+     "note": "Widow of merchant Pieter Rudolphus de Vries; her inherited ships and trading business, joined to Frederick's by their 1662 marriage, underpinned the Philipse fleet that later carried African captives.",
+     "id": "margaret-hardenbroeck",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Philipse",
+     "relation": "founder",
+     "years": "1626–1702",
+     "note": "WIC carpenter turned New York's richest merchant; received the 1693 royal charter for the c.52,000-acre manor of Philipsburg.",
+     "basis": "documented"
+    },
+    {
+     "name": "Adolph Philipse",
+     "relation": "son",
+     "years": "1665–1750",
+     "note": "Ran the Upper Mills for nearly 50 years; his 1750 probate inventory lists 23 enslaved people at Philipsburg; he died without children.",
+     "id": "philipsburg-manor",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Philipse II",
+     "relation": "grandson / heir",
+     "years": "1695–1751",
+     "note": "Son of Philip Philipse (1663–1699); inherited the manor lands from his grandfather and uncle Adolph and passed them to his children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Philipse III, Mary Philipse Morris and Susanna Philipse Robinson",
+     "relation": "heirs",
+     "years": "1720s–1820s",
+     "note": "The last lord of the manor and his sisters were Loyalists; New York's 1779 Act of Attainder confiscated their estates, which were sold off in lots, and the family left for England in 1783.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Philipse estates were confiscated and sold after the Revolution, so the family fortune did not pass down in New York; Frederick Philipse III and Mary Philipse Morris ended their lives in England, and descendants of Susanna Philipse Robinson settled among the Loyalists of New Brunswick. Through Margaret Hardenbroeck's daughter Eva, who married Jacobus Van Cortlandt, the line runs to Founding Father John Jay. Philipsburg Manor (Sleepy Hollow) is run by Historic Hudson Valley as a site interpreting northern colonial slavery, and Philipse Manor Hall in Yonkers is a New York State Historic Site."
   },
   {
    "id": "peter-stuyvesant",
@@ -169,6 +221,18 @@
     {
      "label": "amNY — New York and Curaçao: the Dutch connection",
      "url": "https://www.amny.com/news/new-york-and-curaao-the-dutch-connection"
+    },
+    {
+     "label": "Wikipedia — Peter Gerard Stuyvesant",
+     "url": "https://en.wikipedia.org/wiki/Peter_Gerard_Stuyvesant"
+    },
+    {
+     "label": "Bowery Boys History — The secrets of St. Mark's Church in-the-Bowery",
+     "url": "https://www.boweryboyshistory.com/?p=621"
+    },
+    {
+     "label": "Shared Cemeteries — The Stuyvesant Vault",
+     "url": "https://sharedcemeteries.net/en/usa/cemetery-articles/the-stuyvesant-vault"
     }
    ],
    "connections": [
@@ -197,7 +261,53 @@
      "type": "political",
      "label": "governed Philipse's early career"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Dutch West India Company",
+     "relation": "employer",
+     "years": "1630s–1664",
+     "note": "Stuyvesant rose through WIC service in Brazil and Curaçao before the company made him director-general of New Netherland (1645/47).",
+     "id": "dutch-west-india-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Peter Stuyvesant",
+     "relation": "self",
+     "years": "c.1610–1672",
+     "note": "Held enslaved people on his Manhattan bouwerij and was buried in the family vault beneath the chapel on that land.",
+     "basis": "documented"
+    },
+    {
+     "name": "Petrus Stuyvesant",
+     "relation": "great-grandson",
+     "years": "1727–1805",
+     "note": "Inherited the Bowery estate and in 1793 gave the chapel site to the Episcopal Church, on condition a new church be built: St Mark's Church in-the-Bowery.",
+     "basis": "documented"
+    },
+    {
+     "name": "Peter Gerard Stuyvesant",
+     "relation": "heir",
+     "years": "1778–1847",
+     "note": "Childless heir to the Manhattan landholdings; his 1847 will split the estate between his great-nephew Stuyvesant Rutherfurd and his nephews Hamilton Fish and Gerard Stuyvesant.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hamilton Fish",
+     "relation": "descendant / heir",
+     "years": "1808–1893",
+     "note": "Son of Elizabeth Stuyvesant and Nicholas Fish; governor of New York and US Secretary of State, he received part of the Stuyvesant estate.",
+     "basis": "documented"
+    },
+    {
+     "name": "Rutherfurd Stuyvesant",
+     "relation": "descendant / heir",
+     "years": "1843–1909",
+     "note": "Born Stuyvesant Rutherfurd, he took the Stuyvesant name in 1847, as the will required, to inherit a third of a fortune then put at about $2.5 million.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Stuyvesant's land wealth passed to prominent New York families, the Stuyvesants, Fishes and Rutherfurds, including Hamilton Fish and his son Stuyvesant Fish (1851–1923), president of the Illinois Central Railroad. The family vault at St Mark's Church in-the-Bowery was sealed in 1953 after the burial of Augustus Van Horne Stuyvesant Jr., described as the last direct descendant in the male line. The church still stands on the former bouwerij, and Stuyvesant Square, Stuyvesant Street and Elizabeth Fish's garden keep the family names."
   },
   {
    "id": "van-cortlandt-family",
@@ -258,6 +368,18 @@
     {
      "label": "NESRI/CUNY — Stephanus Van Cortlandt",
      "url": "https://nesri.commons.gc.cuny.edu/stephanus-van-cortlandt-11th-18th"
+    },
+    {
+     "label": "Wikipedia — Van Cortlandt House Museum",
+     "url": "https://en.wikipedia.org/wiki/Van_Cortlandt_House_Museum"
+    },
+    {
+     "label": "Wikipedia — Van Cortlandt Manor",
+     "url": "https://en.wikipedia.org/wiki/Van_Cortlandt_Manor"
+    },
+    {
+     "label": "Wikipedia — Margaret Hardenbroeck",
+     "url": "https://en.wikipedia.org/wiki/Margaret_Hardenbroeck"
     }
    ],
    "connections": [
@@ -276,7 +398,54 @@
      "type": "trade",
      "label": "founder arrived as WIC soldier"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Oloff Stevense Van Cortlandt",
+     "relation": "founder",
+     "years": "1600–1684",
+     "note": "Came to New Amsterdam as a WIC soldier in 1638; became a brewer, merchant and burgomaster, building the family's capital.",
+     "id": "dutch-west-india-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Stephanus Van Cortlandt",
+     "relation": "son",
+     "years": "1643–1700",
+     "note": "Merchant and partner of Robert Livingston; received the 1697 royal patent for Van Cortlandt Manor on the Croton River.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jacobus Van Cortlandt and Eva Philipse",
+     "relation": "son / spouse",
+     "years": "1658–1739",
+     "note": "Jacobus, a merchant who sold enslaved people on consignment, married Eva, Margaret Hardenbroeck's daughter (adopted by Frederick Philipse), joining the Van Cortlandt and Philipse fortunes.",
+     "id": "philipse-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Van Cortlandt",
+     "relation": "son",
+     "years": "1699–1749",
+     "note": "Built the Bronx plantation house (1748); his will bequeathed 11 or 12 enslaved people with the estate.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pierre Van Cortlandt",
+     "relation": "grandson of Stephanus",
+     "years": "1721–1814",
+     "note": "Lived permanently at Van Cortlandt Manor from 1749 and became New York's first lieutenant governor (1777–95).",
+     "basis": "documented"
+    },
+    {
+     "name": "Augustus Van Cortlandt and heirs",
+     "relation": "descendants",
+     "years": "to 1888",
+     "note": "The Bronx household still held 17 enslaved people in 1790, and they stayed enslaved until New York's 1827 abolition; heirs passed the house down until the City of New York acquired it in 1888.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Through Mary Van Cortlandt, daughter of Jacobus and Eva, the family line runs to Founding Father John Jay. The Croton manor stayed in the family until 1945; John D. Rockefeller Jr. bought it in 1953, and Historic Hudson Valley runs it today. The Bronx house, sold to the city in 1888, is run as the Van Cortlandt House Museum by the National Society of Colonial Dames in the State of New York, with an attic exhibit on the people enslaved there."
   },
   {
    "id": "willem-gideon-deutz",
@@ -338,6 +507,14 @@
     {
      "label": "Itinerario (Cambridge) — Debunking Debts: Suriname at the end of the 18th century",
      "url": "https://www.cambridge.org/core/journals/itinerario/article/abs/debunking-debts-image-and-reality-of-a-colonial-crisis-suriname-at-the-end-of-the-18th-century/4C5D6D783AF2290200E6CDB08187BA58"
+    },
+    {
+     "label": "Wikipedia (NL) — Willem Gideon Deutz",
+     "url": "https://nl.wikipedia.org/wiki/Willem_Gideon_Deutz"
+    },
+    {
+     "label": "Parlement.com — Jhr.Mr. A.A. Deutz van Assendelft",
+     "url": "https://parlement.com/biografie/jhrmr-aa-deutz-van-assendelft"
     }
    ],
    "connections": [
@@ -366,7 +543,47 @@
      "type": "parallel",
      "label": "fellow Amsterdam colonial financiers"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jean Deutz van Assendelft",
+     "relation": "father",
+     "years": "fl.1692–1719",
+     "note": "Amsterdam regent from 1692 and head of the trading house Deutz & Zonen, which Willem Gideon took over in 1719.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jan Jacob Mauricius",
+     "relation": "patron",
+     "years": "governor 1742–1751",
+     "note": "Governor of Suriname, thought to have encouraged Deutz to extend credit to Surinamese planters.",
+     "id": "society-of-suriname",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Willem Gideon Deutz",
+     "relation": "self",
+     "years": "1697–1757",
+     "note": "Burgomaster of Amsterdam five times; in 1753 he launched a one-million-guilder plantation loan, with the city contributing 30,000 guilders, that grew to about four million guilders lent against Surinamese plantations and the enslaved people on them.",
+     "id": "plantation-negotiaties",
+     "basis": "documented"
+    },
+    {
+     "name": "Deutz heirs",
+     "relation": "heirs",
+     "years": "1757–1758",
+     "note": "His affairs were left in a tangled state, so the heirs accepted the estate only conditionally and in 1758 sold the De Eult estate near Baarn to Princess Anne of Hanover for 319,000 guilders.",
+     "basis": "documented"
+    },
+    {
+     "name": "Deutz van Assendelft family",
+     "relation": "descendants (family line)",
+     "years": "18th–19th c.",
+     "note": "The family remained in Amsterdam's patriciate; Andries Adolf Deutz van Assendelft (1764–1833) was burgomaster from 1821, though his exact descent from Willem Gideon is not confirmed here.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented direct descendants of Willem Gideon Deutz have been traced. The Deutz van Assendelft name continued among Amsterdam's patrician families into the 19th century. His house at Herengracht 605 is now Museum Willet-Holthuysen (Amsterdam Museum), named after later owners who left it to the city in 1895. The plantation loans his firm pioneered led to the planter defaults of the 1770s."
   },
   {
    "id": "coopstad-and-rochussen",
@@ -426,6 +643,14 @@
     {
      "label": "New West Indian Guide — Kardux, 'Dutch cities in global slavery' (2022)",
      "url": "https://doi.org/10.1163/22134360-09603002"
+    },
+    {
+     "label": "Omroep Brabant — Deze premier voerde oorlogen in Indië maar wilde afschaffing slavernij",
+     "url": "https://www.omroepbrabant.nl/nieuws/6003375/deze-premier-voerde-oorlogen-in-indie-maar-wilde-afschaffing-slavernij"
+    },
+    {
+     "label": "Erasmus Magazine — How Rotterdam, too, was involved in the slave trade",
+     "url": "https://www.erasmusmagazine.nl/en/?p=117072"
     }
    ],
    "connections": [
@@ -454,7 +679,46 @@
      "type": "legacy",
      "label": "city reckoning 2021"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Dutch West India Company",
+     "relation": "predecessor monopoly",
+     "years": "1621–1730",
+     "note": "After the WIC's Africa monopoly ended in 1730, private firms like Coopstad & Rochussen could fit out slaving voyages by paying fees to the company.",
+     "id": "dutch-west-india-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Herman van Coopstad",
+     "relation": "co-founder",
+     "years": "fl.1747–1780s",
+     "note": "Rotterdam merchant and partner in the firm, which a Dutch broadcaster dates to 1747.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isaac Jacobus Rochussen",
+     "relation": "co-founder",
+     "years": "fl.1747–1780s",
+     "note": "Co-founder of what became Rotterdam's largest slave-trading firm; one estimate is c.20,000 Africans carried to Suriname and the Dutch Antilles in about 30 years.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jan Jacob Rochussen",
+     "relation": "grandson",
+     "years": "1797–1871",
+     "note": "Grandson of Isaac Jacobus; Governor-General of the Dutch East Indies, Minister of Colonies and Prime Minister (1858–60), from a family whose fortune came from the slave trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Stadsarchief Rotterdam",
+     "relation": "archive custodian",
+     "years": "present",
+     "note": "Holds the firm's records, a core source for Dutch slave-trade data.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The firm no longer exists. Its best-known descendant is Jan Jacob Rochussen (1797–1871), grandson of the co-founder, who later defended a Dutch abolition proposal in parliament as a minister; the plan stalled over planters' demands for compensation. The firm's papers are held by the Rotterdam City Archives. Rotterdam's mayor apologised for the city's role in slavery in 2021."
   },
   {
    "id": "manuel-pinto-da-fonseca",
@@ -547,7 +811,40 @@
      "type": "political",
      "label": "expelled after 1850 law"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Pinto da Fonseca brothers",
+     "relation": "partners (brothers)",
+     "years": "c.1837–1851",
+     "note": "He went into slave trafficking with his brothers in about 1837, as a family house; their individual roles are poorly documented in the sources consulted.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "José Bernardino de Sá",
+     "relation": "rival",
+     "years": "1802–1855",
+     "note": "The leading rival trafficker in Rio during the illegal era.",
+     "id": "jose-bernardino-de-sa",
+     "basis": "documented"
+    },
+    {
+     "name": "Manuel Pinto da Fonseca",
+     "relation": "self",
+     "years": "1804–1855",
+     "note": "Ran a four-continent house shipping captives from Angola and the Congo coast to Rio, often under the US flag.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eusébio de Queirós Law",
+     "relation": "end of business",
+     "years": "1850–1852",
+     "note": "After Brazil's 1850 law he was expelled to Portugal; he died in Paris in 1855.",
+     "id": "eusebio-de-queiros-law-1850",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. What became of his fortune after his expulsion and his death in Paris in 1855 is not clearly documented in the sources consulted."
   },
   {
    "id": "joaquim-ferreira-dos-santos",
@@ -604,6 +901,10 @@
     {
      "label": "Hyperallergic — Portugal hospital removes artwork about its slavery ties",
      "url": "https://hyperallergic.com/portugal-hospital-removes-artwork-about-its-slavery-ties"
+    },
+    {
+     "label": "Wikipedia (PT) — Joaquim Ferreira dos Santos",
+     "url": "https://pt.wikipedia.org/wiki/Joaquim_Ferreira_dos_Santos"
     }
    ],
    "connections": [
@@ -632,7 +933,39 @@
      "type": "parallel",
      "label": "Portuguese reckoning debates"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "João Ferreira dos Santos and Ana Martins da Luz",
+     "relation": "parents",
+     "years": "18th c.",
+     "note": "Small landowners at Vila Meã, Campanhã (Porto); Joaquim was their fifth and youngest son, left school at 14 and emigrated to Brazil in 1800.",
+     "basis": "documented"
+    },
+    {
+     "name": "Joaquim Ferreira dos Santos",
+     "relation": "self",
+     "years": "1782–1866",
+     "note": "Rio merchant whose Angola trade is put at about 10,000 enslaved people imported into Brazil; made Baron (1842), Viscount (1843) and Count of Ferreira (1850), and a peer of the realm.",
+     "basis": "documented"
+    },
+    {
+     "name": "Severa Lastra",
+     "relation": "spouse",
+     "years": "19th c.",
+     "note": "Married him in Rio de Janeiro; their only child died young, leaving no direct heirs.",
+     "basis": "documented"
+    },
+    {
+     "name": "Santa Casa da Misericórdia do Porto and charitable heirs",
+     "relation": "heirs (bequest)",
+     "years": "1866–present",
+     "note": "His will left most of the fortune to charities, which founded the Hospital Conde de Ferreira (opened 1883) and paid for 120 primary schools; 91 were built and about 70 still stand.",
+     "id": "hospital-conde-de-ferreira",
+     "basis": "documented"
+    }
+   ],
+   "today": "He had no direct heirs, and no publicly documented descendants have been traced. His slave-trade fortune went to Porto and Rio charities: the Hospital Conde de Ferreira in Porto still operates, many 'Escolas Conde de Ferreira' buildings survive, and his mausoleum by António Soares dos Reis stands in Agramonte Cemetery."
   },
   {
    "id": "joao-fernandes-vieira",
@@ -691,6 +1024,10 @@
     {
      "label": "Canoa do Tempo (UFAM) — Vieira and Vidal de Negreiros against Congo",
      "url": "https://periodicos.ufam.edu.br/index.php/Canoa_do_Tempo/article/view/8868"
+    },
+    {
+     "label": "Wikipedia (PT) — João Fernandes Vieira",
+     "url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Fernandes_Vieira"
     }
    ],
    "connections": [
@@ -714,7 +1051,39 @@
      "type": "political",
      "label": "pursued interests against Kongo"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jacob Stachouwer",
+     "relation": "employer / patron",
+     "years": "fl.1630s",
+     "note": "A wealthy Dutch merchant, sugar-mill owner and WIC member in Olinda; Vieira built his first property and wealth working for him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Maria César",
+     "relation": "spouse",
+     "years": "m.1643",
+     "note": "Daughter of Francisco Berenguer de Andrada; the marriage brought Vieira into Pernambuco's planter aristocracy.",
+     "basis": "documented"
+    },
+    {
+     "name": "João Fernandes Vieira",
+     "relation": "self",
+     "years": "c.1613–1681",
+     "note": "Owned five sugar mills worked by enslaved Africans, led the 1645 insurrection against the WIC and governed Angola from 1658 to 1661.",
+     "basis": "documented"
+    },
+    {
+     "name": "Crown of Portugal",
+     "relation": "appointing power",
+     "years": "1654–1681",
+     "note": "Rewarded him with the governorships of Angola and Paraíba, which he used to tie the Luanda captive trade to Pernambuco.",
+     "id": "crown-of-portugal",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. In 2012, Brazilian Federal Law 12.701 ordered his name entered in the Book of Heroes of the Homeland. He is commemorated as a hero of the Pernambucan Restoration, and the Brazilian Army dates its origins to the Battles of Guararapes; his role in the Angola slave trade is far less remembered."
   },
   {
    "id": "antonio-fernandes-de-elvas",
@@ -804,7 +1173,48 @@
      "type": "parallel",
      "label": "succeeded by Lamego"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Pedro Gomes Reinel",
+     "relation": "predecessor asentista",
+     "years": "asiento 1595–1600",
+     "note": "First Portuguese holder of the general asiento, which set the pattern of Lisbon converso merchants supplying Spanish America.",
+     "id": "pedro-gomes-reinel",
+     "basis": "documented"
+    },
+    {
+     "name": "Coutinho brothers",
+     "relation": "predecessor asentistas",
+     "years": "1601–1609",
+     "note": "João Rodrigues Coutinho and Gonçalo Vaz Coutinho held the asiento and the Angola contract before Elvas.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "António Fernandes de Elvas",
+     "relation": "self",
+     "years": "d.1623; asiento 1615–1622",
+     "note": "Held the asiento together with the Angola, Cape Verde and Guinea contracts.",
+     "id": "spanish-asiento",
+     "basis": "documented"
+    },
+    {
+     "name": "Jorge Fernandes de Elvas",
+     "relation": "son",
+     "years": "fl.1610s–1620s",
+     "note": "Acted as his father's agent in Cartagena de Indias, the main port where the captives were sold.",
+     "basis": "documented"
+    },
+    {
+     "name": "Manuel Rodrigues Lamego",
+     "relation": "successor asentista",
+     "years": "asiento 1623–1631",
+     "note": "Took over the asiento and the Angola contract after Elvas died.",
+     "id": "manuel-rodrigues-lamego",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His business ended with his death in 1623, and the asiento passed to other Portuguese converso financiers until Portugal's break with Spain in 1640."
   },
   {
    "id": "manuel-rodrigues-lamego",
@@ -884,7 +1294,47 @@
      "type": "parallel",
      "label": "predecessor"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "António Fernandes de Elvas",
+     "relation": "predecessor asentista",
+     "years": "d.1623",
+     "note": "Lamego took over his asiento and Angola contract.",
+     "id": "antonio-fernandes-de-elvas",
+     "basis": "documented"
+    },
+    {
+     "name": "Juan Núñez Saravia",
+     "relation": "kinsman by marriage / financier",
+     "years": "fl.1620s–1630s",
+     "note": "A Portuguese converso banker at Madrid linked to Lamego by marriage; he was himself tried by the Inquisition in the 1630s.",
+     "basis": "documented"
+    },
+    {
+     "name": "Manuel Rodrigues Lamego",
+     "relation": "self",
+     "years": "c.1590–?; asiento 1623–1631",
+     "note": "Held the asiento and the 1623–24 Angola contract while under attack from Seville's Old Christian merchants.",
+     "id": "spanish-asiento",
+     "basis": "documented"
+    },
+    {
+     "name": "António Rodrigues Lamego",
+     "relation": "brother",
+     "years": "fl.1620s",
+     "note": "Tried by the Inquisition for 'Judaising', part of the pressure on the family network.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lamego network in Rouen and Amsterdam",
+     "relation": "family network",
+     "years": "17th c.",
+     "note": "Relatives settled among the Sephardic merchants of Rouen and Amsterdam, beyond the Iberian Inquisition's reach.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The family's capital and kin moved into the Sephardic merchant communities of Rouen and Amsterdam, and no firm or institution carries the name today."
   },
   {
    "id": "joachim-nettelbeck",
@@ -971,7 +1421,39 @@
      "type": "parallel",
      "label": "sought to revive Prussian Africa trade"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Dutch slave ships from Amsterdam",
+     "relation": "first employer",
+     "years": "c.1749–1770s",
+     "note": "As a boy of eleven he stowed away on a Dutch slaver and learned seafaring in the Dutch Guinea and Suriname trades.",
+     "id": "port-amsterdam",
+     "basis": "documented"
+    },
+    {
+     "name": "Joachim Nettelbeck",
+     "relation": "self",
+     "years": "1738–1824",
+     "note": "First mate on a 1771 Guinea–Suriname slaving voyage, he commanded the longboat that bought captives on the coast; he later urged Prussian slave colonies.",
+     "basis": "documented"
+    },
+    {
+     "name": "August Neidhardt von Gneisenau",
+     "relation": "ally",
+     "years": "1807–1814",
+     "note": "Commander at Kolberg in 1807 and the man to whom Nettelbeck put his 1814 colonial plan.",
+     "basis": "documented"
+    },
+    {
+     "name": "J. C. L. Haken",
+     "relation": "editor",
+     "years": "1821–1823",
+     "note": "Edited and published Nettelbeck's autobiography, the source both of the hero cult and of the details of his slaving voyages.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His legacy is a contested name: the 1807 hero cult, which Nazi propaganda took up, is being reversed by German cities. Berlin's Nettelbeckplatz became Martha-Ndumbe-Platz and Dortmund's Nettelbeckstraße became May-Ayim-Straße."
   },
   {
    "id": "david-de-pury",
@@ -1041,6 +1523,14 @@
     {
      "label": "Le Temps — Neuchâtel: an artwork and explanatory plaque installed facing the David de Pury statue",
      "url": "https://www.letemps.ch/suisse/neuchatel/neuchatel-une-oeuvre-dart-une-plaque-explicative-ont-installees-face-statue-david"
+    },
+    {
+     "label": "Historisches Lexikon der Schweiz — David de Pury",
+     "url": "https://hls-dhs-dss.ch/de/articles/028614/"
+    },
+    {
+     "label": "Swissinfo — Esclavitud: debate en Suiza sobre monumentos polémicos",
+     "url": "https://www.swissinfo.ch/spa/sociedad/esclavitud_debate-en-suiza-sobre-monumentos-pol%C3%A9micos/45829568"
     }
    ],
    "connections": [
@@ -1074,7 +1564,55 @@
      "type": "parallel",
      "label": "fellow Neuchâtel colonial fortune"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jean-Pierre Pury",
+     "relation": "father",
+     "years": "1675–1736",
+     "note": "Former Dutch East India Company employee who founded Purrysburg, a Swiss colony in slaveholding South Carolina.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isaac Tarteiron",
+     "relation": "mentor",
+     "years": "fl.1726",
+     "note": "A Marseille merchant who gave him his commercial training from 1726.",
+     "basis": "documented"
+    },
+    {
+     "name": "South Sea Company (under John Gore)",
+     "relation": "employer",
+     "years": "1730s",
+     "note": "He joined the asiento slave-trading company in London in 1730.",
+     "id": "south-sea-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartolomeu Miguel Viana; Joseph Mellish & Gerard Devisme",
+     "relation": "partners",
+     "years": "1730s–1786",
+     "note": "Viana, an early Lisbon partner, also traded in enslaved people; Mellish (Gore's son-in-law) and Devisme co-founded Purry, Mellish & Devisme (London, 1759), holder of the Brazil-wood and diamond monopolies.",
+     "basis": "documented"
+    },
+    {
+     "name": "Marquis of Pombal",
+     "relation": "patron",
+     "years": "1750s–1777",
+     "note": "Portugal's first minister and a close associate; Pury became banker to King Joseph I in 1762 and was made a Prussian baron in 1785.",
+     "id": "marquis-of-pombal",
+     "basis": "documented"
+    },
+    {
+     "name": "City of Neuchâtel",
+     "relation": "heir (bequest)",
+     "years": "1786–present",
+     "note": "Unmarried and childless, he left most of his fortune, c.2.25 million livres tournois, to Neuchâtel for charity and public buildings.",
+     "id": "de-pury-statue-neuchatel",
+     "basis": "documented"
+    }
+   ],
+   "today": "David de Pury never married and had no children, so he has no direct descendants. The wider Pury family of Neuchâtel survives through collateral lines and keeps a family fund (Caisse de famille). His fortune lives on in Neuchâtel's town hall, schools and hospital and in the contested statue on Place Pury."
   },
   {
    "id": "burckhardt-family-basel",
@@ -1141,6 +1679,10 @@
     {
      "label": "SRF — Wie auch Schweizer mit Sklaven Geld verdienten",
      "url": "https://www.srf.ch/kultur/gesellschaft-religion/wie-auch-schweizer-mit-sklaven-geld-verdienten"
+    },
+    {
+     "label": "Wikipedia — Burckhardt family",
+     "url": "https://en.wikipedia.org/wiki/Burckhardt_family"
     }
    ],
    "connections": [
@@ -1169,7 +1711,47 @@
      "type": "trade",
      "label": "French Caribbean markets"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Christoph (Stoffel) Burckhardt",
+     "relation": "founder of the Basel family",
+     "years": "1490–1578",
+     "note": "A cloth and silk merchant from the Black Forest, made a citizen of Basel in 1523; ancestor of the patrician clan that sat on the Grand Council into the 20th century.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christoph Burckhardt the elder",
+     "relation": "father",
+     "years": "18th c.",
+     "note": "Basel merchant of the same name, whose trading house his son took over.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christoph Burckhardt",
+     "relation": "self",
+     "years": "1740–1812",
+     "note": "Ran a worldwide trade in indiennes and colonial goods from the Segerhof and invested in slaving voyages through La Rochelle and Nantes houses.",
+     "id": "segerhof-basel",
+     "basis": "documented"
+    },
+    {
+     "name": "Christophe Bourcard",
+     "relation": "son",
+     "years": "fl.1790s",
+     "note": "Founded Bourcard, Legrand & Cie in Nantes (1790), which fitted out slave ships such as the Intrépide and Cultivateur.",
+     "id": "port-nantes",
+     "basis": "documented"
+    },
+    {
+     "name": "de Bourcard branches (Nantes, Naples)",
+     "relation": "descendant branches",
+     "years": "19th c.",
+     "note": "Family branches settled in Nantes and the Kingdom of Naples, where they were ennobled as 'de Bourcard'.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Burckhardts remain one of Basel's best-known patrician families. Its wider clan includes public figures such as the historian Jacob Burckhardt (1818–1897), the explorer Johann Ludwig Burckhardt and the diplomat and Red Cross president Carl Jacob Burckhardt, though they come from other lines than Christoph's slave-trade branch. The Segerhof papers are now a public research source on Swiss involvement in slavery."
   },
   {
    "id": "pourtales-family",
@@ -1227,6 +1809,18 @@
     {
      "label": "Wikipedia — Jacques-Louis de Pourtalès",
      "url": "https://en.wikipedia.org/wiki/Jacques-Louis_de_Pourtal%C3%A8s"
+    },
+    {
+     "label": "Historisches Lexikon der Schweiz — Jacques-Louis de Pourtalès",
+     "url": "https://hls-dhs-dss.ch/fr/articles/041303/"
+    },
+    {
+     "label": "Historisches Lexikon der Schweiz — Pourtalès (famille)",
+     "url": "https://hls-dhs-dss.ch/fr/articles/022389/"
+    },
+    {
+     "label": "Wikipedia — Pourtalès family",
+     "url": "https://en.wikipedia.org/wiki/Pourtal%C3%A8s_family"
     }
    ],
    "connections": [
@@ -1250,7 +1844,45 @@
      "type": "parallel",
      "label": "Indian calico trade"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jérémie Pourtalès",
+     "relation": "father",
+     "years": "1701–1784",
+     "note": "Huguenot refugee merchant in Neuchâtel and co-founder of a calico-printing works; ennobled by Frederick the Great in 1750. He married Esther Marguerite Deluze of an indiennes-making family.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jacques-Louis de Pourtalès",
+     "relation": "self",
+     "years": "1722–1814",
+     "note": "Founded Pourtalès & Cie (1753) with his brother Paul. In 1770, with Johann Jakob Thurneysen, he bought Grenada plantations employing about 350 enslaved people, sold in 1797, and he held shares in the slave-trading firm Romberg, Bapst & Cie.",
+     "basis": "documented"
+    },
+    {
+     "name": "Rose-Augustine Deluze",
+     "relation": "spouse",
+     "years": "m.1769",
+     "note": "His cousin, daughter of his uncle Jean-Jacques Deluze, from the family textile network.",
+     "basis": "documented"
+    },
+    {
+     "name": "Louis, James-Alexandre and Frédéric de Pourtalès",
+     "relation": "sons",
+     "years": "1773–1855",
+     "note": "Louis managed the Grenada estates from 1792; James-Alexandre became a Paris art collector; Frédéric founded the Berlin branch; in 1814 Prussia made all three counts.",
+     "basis": "documented"
+    },
+    {
+     "name": "Friedrich von Pourtalès; Hermann and Hélène de Pourtalès; Guy de Pourtalès",
+     "relation": "descendants",
+     "years": "19th–20th c.",
+     "note": "Friedrich (1853–1928) was German ambassador at St Petersburg in 1914; Hermann and Hélène won Olympic sailing medals in 1900; Guy, a writer, won the Académie française novel prize in 1937.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The family still exists, with lines in Neuchâtel, Bern, Germany, France, North America and Geneva, and its prominent members are historical figures (diplomats, Olympians, writers, the salon hostess Mélanie de Pourtalès at the Château de Pourtalès in Strasbourg). Hôpital Pourtalès in Neuchâtel, founded in 1808, still bears the name."
   },
   {
    "id": "isaak-faesch",
@@ -1302,6 +1934,10 @@
     {
      "label": "Wikipedia — Isaak Faesch",
      "url": "https://en.wikipedia.org/wiki/Isaak_Faesch"
+    },
+    {
+     "label": "Wikipedia (DE) — Isaac Faesch",
+     "url": "https://de.wikipedia.org/wiki/Isaac_Faesch"
     }
    ],
    "connections": [
@@ -1335,7 +1971,47 @@
      "type": "parallel",
      "label": "his firm collapsed in 1720 bubble"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Faesch family of Basel",
+     "relation": "family",
+     "years": "16th–18th c.",
+     "note": "Isaak was the youngest of ten children of a wealthy Basel patrician family.",
+     "basis": "documented"
+    },
+    {
+     "name": "Brother's Amsterdam West India house",
+     "relation": "employer (brother)",
+     "years": "1713–1720",
+     "note": "After leaving the army in 1713 he joined his brother's Amsterdam West India trading firm, which collapsed in the 1720 South Sea and Mississippi bubbles.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dutch West India Company",
+     "relation": "employer",
+     "years": "1736–1758",
+     "note": "Appointed him governor of Sint Eustatius (1736) and Curaçao (1740).",
+     "id": "dutch-west-india-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Isaak Faesch",
+     "relation": "self",
+     "years": "1687–1758",
+     "note": "In 1750 he put down the Hato uprising; 47 enslaved people were executed, 30 of them from his own holdings.",
+     "id": "hato-revolt-1750",
+     "basis": "documented"
+    },
+    {
+     "name": "Basel relatives",
+     "relation": "heirs",
+     "years": "1758–c.1768",
+     "note": "He died without direct heirs; settling his estate of about 121,000 guilders among relatives took nearly ten years.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced: Faesch died without direct heirs. His estate of about 121,000 guilders went to Basel relatives after nearly a decade of settlement. He now features in Swiss research on Basel citizens who served colonial slavery."
   },
   {
    "id": "leu-and-co-zurich",
@@ -1405,6 +2081,10 @@
     {
      "label": "Wikipedia — Bank Leu",
      "url": "https://en.wikipedia.org/wiki/Bank_Leu"
+    },
+    {
+     "label": "Wikipedia — Credit Suisse",
+     "url": "https://en.wikipedia.org/wiki/Credit_Suisse"
     }
    ],
    "connections": [
@@ -1433,7 +2113,47 @@
      "type": "parallel",
      "label": "Bern's similar stake"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Zurich state South Sea investments",
+     "relation": "predecessor",
+     "years": "from 1727",
+     "note": "Zurich put public funds into South Sea Company stock, tied to the asiento slave trade, before creating a standing investment commission.",
+     "id": "south-sea-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Johann Jacob Leu and Hans Conrad Heidegger",
+     "relation": "founders",
+     "years": "1755",
+     "note": "Leu, Zurich's treasurer (later mayor, 1689–1768), and Heidegger founded the state-owned commission to invest public and private wealth abroad.",
+     "basis": "documented"
+    },
+    {
+     "name": "Leu & Co. / Bank Leu",
+     "relation": "successor firm",
+     "years": "1798–1990",
+     "note": "Privatised in 1798 after French Revolution losses, a joint-stock company from 1854 and one of the six big Swiss banks by 1908.",
+     "basis": "documented"
+    },
+    {
+     "name": "Credit Suisse",
+     "relation": "parent / successor",
+     "years": "1990–2023",
+     "note": "CS Holding bought Bank Leu in 1990; it merged into Clariden Leu (2006–07), which was absorbed into Credit Suisse in 2012.",
+     "id": "credit-suisse",
+     "basis": "documented"
+    },
+    {
+     "name": "UBS",
+     "relation": "successor",
+     "years": "2023–present",
+     "note": "UBS took over Credit Suisse in 2023, and Credit Suisse ceased to exist as a legal entity in 2024.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The institution has no family heirs; its corporate line ran from Bank Leu, which Credit Suisse called 'Switzerland's oldest bank', through Clariden Leu and Credit Suisse to UBS, which absorbed Credit Suisse in 2023–24. Zurich's 2020 study of the city's colonial entanglements brought this early state investment in slave-trading companies back into public debate."
   },
   {
    "id": "bern-south-sea-shares",

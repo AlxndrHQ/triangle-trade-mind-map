@@ -74,6 +74,14 @@
     {
      "label": "Wikisource — 1911 Encyclopædia Britannica, 'Vespucci, Amerigo'",
      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Vespucci,_Amerigo"
+    },
+    {
+     "label": "Wikipedia — Giovanni Vespucci",
+     "url": "https://en.wikipedia.org/wiki/Giovanni_Vespucci"
+    },
+    {
+     "label": "Edizioni Ca' Foscari — The Medici/Berardi house in Seville (chapter)",
+     "url": "https://edizionicafoscari.it/media/pdf/books/978-88-6969-403-5/978-88-6969-403-5-ch-04_eHNYKvg.pdf"
     }
    ],
    "connections": [
@@ -122,7 +130,55 @@
      "type": "ownership",
      "label": "based in Seville from c. 1492"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Giorgio Antonio Vespucci",
+     "relation": "uncle & tutor",
+     "years": "c.1434–1514",
+     "note": "Dominican humanist who taught both Amerigo and Lorenzo di Pierfrancesco de' Medici, opening the door to Amerigo's Medici employment.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lorenzo di Pierfrancesco de' Medici",
+     "relation": "employer",
+     "years": "1463–1503",
+     "note": "Employed Amerigo from 1483 and sent him to Seville; recipient of most of his New World letters.",
+     "id": "lorenzo-di-pierfrancesco-medici",
+     "basis": "documented"
+    },
+    {
+     "name": "Gianotto Berardi",
+     "relation": "employer",
+     "years": "c.1457–1495",
+     "note": "Medici agent in Seville whose house traded Guinea captives and financed Columbus; Amerigo served as his factor and settled his affairs.",
+     "id": "gianotto-berardi",
+     "basis": "documented"
+    },
+    {
+     "name": "Christopher Columbus",
+     "relation": "associate",
+     "years": "1451–1506",
+     "note": "Friend and business contact through the Berardi house, which provisioned Columbus's fleets.",
+     "id": "christopher-columbus",
+     "basis": "documented"
+    },
+    {
+     "name": "María Cerezo",
+     "relation": "spouse",
+     "years": "fl. 1500s",
+     "note": "Spanish wife (daughter of Gonzalo Cerezo); the childless Vespucci left his property to her.",
+     "basis": "documented"
+    },
+    {
+     "name": "Juan (Giovanni) Vespucci",
+     "relation": "nephew & heir",
+     "years": "c.1487–after 1524",
+     "note": "Inherited his uncle's instruments and books and served the Casa de Contratación as pilot and, from 1524, examiner of pilots.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Vespucci had no children; his property passed to his wife María Cerezo and his professional legacy to his nephew Juan at the Casa de Contratación. No publicly documented descendants have been traced. His enduring legacy is the name 'America' itself and the Vespucci memorials in Florence's Ognissanti church."
   },
   {
    "id": "christopher-columbus",
@@ -184,6 +240,18 @@
     {
      "label": "New York Review of Books — Indians, Slaves, and Mass Murder: The Hidden History",
      "url": "https://www.nybooks.com/articles/2016/11/24/indians-slaves-and-mass-murder-the-hidden-history/"
+    },
+    {
+     "label": "Wikipedia — Cristóbal Colón de Carvajal, 18th Duke of Veragua",
+     "url": "https://en.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n_de_Carvajal,_18th_Duke_of_Veragua"
+    },
+    {
+     "label": "Wikipedia — Diego Columbus",
+     "url": "https://en.wikipedia.org/wiki/Diego_Columbus"
+    },
+    {
+     "label": "Wikipedia — Bartholomew Columbus",
+     "url": "https://en.wikipedia.org/wiki/Bartholomew_Columbus"
     }
    ],
    "connections": [
@@ -222,7 +290,62 @@
      "type": "political",
      "label": "his voyages prompted the 1494 division"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Bartolomeu Perestrello",
+     "relation": "father-in-law",
+     "years": "c.1395–1457",
+     "note": "Captain-donatary of Porto Santo under Henry the Navigator; marriage into his family gave Columbus entry to Portuguese Atlantic networks.",
+     "basis": "documented"
+    },
+    {
+     "name": "Filipa Moniz Perestrelo",
+     "relation": "spouse",
+     "years": "c.1455–c.1484",
+     "note": "Portuguese noblewoman, mother of his heir Diego.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gianotto Berardi",
+     "relation": "financier",
+     "years": "c.1457–1495",
+     "note": "Florentine slave-trading merchant in Seville who backed and provisioned his voyages.",
+     "id": "gianotto-berardi",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartholomew Columbus",
+     "relation": "brother",
+     "years": "c.1461–1514",
+     "note": "Adelantado of Hispaniola who led forces against the Taíno at Vega Real (1495) and founded Santo Domingo (1496–98).",
+     "basis": "documented"
+    },
+    {
+     "name": "Diego Colón",
+     "relation": "son & heir",
+     "years": "1479/80–1526",
+     "note": "2nd Admiral and governor of Hispaniola from 1509; enslaved Africans on his sugar estate rebelled in 1521.",
+     "id": "diego-colon",
+     "basis": "documented"
+    },
+    {
+     "name": "Luis Colón de Toledo",
+     "relation": "grandson",
+     "years": "c.1520–1572",
+     "note": "Traded the family's viceregal claims in 1536 for the titles Duke of Veragua and Marquess of Jamaica, an annuity and a fief.",
+     "id": "luis-colon-veragua",
+     "basis": "documented"
+    },
+    {
+     "name": "Dukes of Veragua",
+     "relation": "descendants (title)",
+     "years": "1536–present",
+     "note": "Title still held: the 17th Duke was killed by ETA in 1986 and was succeeded by his son Cristóbal Colón de Carvajal (b. 1949).",
+     "basis": "documented"
+    }
+   ],
+   "today": "Columbus's direct line continues through the Spanish peerage title Duke of Veragua, held since 1986 by Cristóbal Colón de Carvajal y Gorosábel, 18th Duke, a retired naval officer and public figure who also bears the title Marquess of Jamaica; his father, the 17th Duke, was assassinated by ETA in 1986. The family's colonial privileges were converted into titles and an annuity by the 1536 settlement of the 'pleitos colombinos'."
   },
   {
    "id": "lorenzo-di-pierfrancesco-medici",
@@ -278,6 +401,10 @@
     {
      "label": "Univ. of Minnesota Bell Library — Vespucci's journeys",
      "url": "https://apps.lib.umn.edu/bell/map/WALD/AMER/vesjour.html"
+    },
+    {
+     "label": "Wikipedia — Lorenzo di Pierfrancesco de' Medici",
+     "url": "https://en.wikipedia.org/wiki/Lorenzo_di_Pierfrancesco_de%27_Medici"
     }
    ],
    "connections": [
@@ -296,7 +423,53 @@
      "type": "trade",
      "label": "branch house in Seville"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Pierfrancesco de' Medici the Elder",
+     "relation": "father",
+     "years": "1430–1476",
+     "note": "Founder of the junior ('Popolano') Medici branch whose inherited fortune Lorenzo invested.",
+     "basis": "documented"
+    },
+    {
+     "name": "Semiramide Appiano",
+     "relation": "spouse",
+     "years": "m.1482",
+     "note": "Daughter of Jacopo III Appiano of Piombino; marriage arranged by Lorenzo the Magnificent.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gianotto Berardi & Amerigo Vespucci",
+     "relation": "agents",
+     "years": "1480s–1500s",
+     "note": "His agents in Seville, whose house dealt in Guinea captives and financed Columbus.",
+     "id": "gianotto-berardi",
+     "basis": "documented"
+    },
+    {
+     "name": "Giovanni il Popolano",
+     "relation": "brother",
+     "years": "1467–1498",
+     "note": "Married Caterina Sforza; father of the condottiere Giovanni dalle Bande Nere.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pierfrancesco the Younger and Lorenzino de' Medici",
+     "relation": "son & grandson",
+     "years": "1487–1525; 1514–1548",
+     "note": "Lorenzino's murder of Duke Alessandro (1537) opened the way for the junior branch to take power.",
+     "basis": "documented"
+    },
+    {
+     "name": "Cosimo I and the Grand Dukes of Tuscany",
+     "relation": "grandnephew & successors",
+     "years": "1537–1737",
+     "note": "The junior branch ruled Tuscany until Gian Gastone died in 1737 without heirs.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Medici grand-ducal line died out in 1737 (Anna Maria Luisa, the last of the line, died in 1743). Under her 1737 'Family Pact' the dynasty's collections stayed in Florence and form the core of the Uffizi and other public museums. No publicly documented descendants of Lorenzo di Pierfrancesco's line have been traced."
   },
   {
    "id": "gianotto-berardi",
@@ -359,6 +532,14 @@
     {
      "label": "Wikisource — 1911 Encyclopædia Britannica, 'Vespucci, Amerigo'",
      "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Vespucci,_Amerigo"
+    },
+    {
+     "label": "Edizioni Ca' Foscari — The Medici/Berardi house in Seville (chapter)",
+     "url": "https://edizionicafoscari.it/media/pdf/books/978-88-6969-403-5/978-88-6969-403-5-ch-04_eHNYKvg.pdf"
+    },
+    {
+     "label": "Universidad de Sevilla, Temas Americanistas — Florentine merchants in Seville",
+     "url": "https://revistascientificas.us.es/index.php/Temas_Americanistas/article/download/14654/12783/52308"
     }
    ],
    "connections": [
@@ -392,7 +573,49 @@
      "type": "trade",
      "label": "contract to supply 12 ships to Hispaniola"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Lorenzo di Pierfrancesco de' Medici",
+     "relation": "principal",
+     "years": "1463–1503",
+     "note": "Berardi ran the Medici/Berardi house in Seville as agent of this Florentine patron.",
+     "id": "lorenzo-di-pierfrancesco-medici",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartolomeo Marchionni",
+     "relation": "partner",
+     "years": "c.1450–1530",
+     "note": "Lisbon merchant who held Portuguese captive-import leases; Berardi is described as his associate in the Guinea trade.",
+     "id": "bartolomeo-marchionni",
+     "basis": "documented"
+    },
+    {
+     "name": "Barzi family (Valencia)",
+     "relation": "correspondents",
+     "years": "1480s–1490s",
+     "note": "Florentine merchants in Valencia to whom the Medici/Berardi house sent most of its Guinea captives for resale.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christopher Columbus",
+     "relation": "client",
+     "years": "1492–1495",
+     "note": "Berardi lent to and provisioned Columbus and contracted to supply ships for Hispaniola.",
+     "id": "christopher-columbus",
+     "basis": "documented"
+    },
+    {
+     "name": "Amerigo Vespucci",
+     "relation": "factor & executor",
+     "years": "1492–1496",
+     "note": "Took over Berardi's affairs, including the 1496 Indies fleet contract, after his death.",
+     "id": "amerigo-vespucci",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Berardi died heavily indebted around 1495–96, and his Seville business was wound up by Vespucci; the network's capital and expertise passed into Vespucci's and other Florentines' service to the Castilian crown."
   },
   {
    "id": "bartolomeo-marchionni",
@@ -453,6 +676,10 @@
     {
      "label": "FLORE, Università di Firenze — Guidi Bruscoli, Bartolomeo Marchionni",
      "url": "https://flore.unifi.it/handle/2158/858922"
+    },
+    {
+     "label": "Revistas Gran Canaria — Florentine merchants and the Atlantic (article)",
+     "url": "https://revistas.grancanaria.com/index.php/CHCA/article/download/7228/6129/7340"
     }
    ],
    "connections": [
@@ -481,7 +708,54 @@
      "type": "trade",
      "label": "Gold Coast / Mina trade network"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Cambini firm (Florence)",
+     "relation": "employer",
+     "years": "c.1468–1480s",
+     "note": "Florentine bank that sent him to Lisbon as its agent c.1468–70.",
+     "basis": "documented"
+    },
+    {
+     "name": "Crown of Portugal",
+     "relation": "licensor",
+     "years": "1486–1490s",
+     "note": "Leased him the import of captives from the 'Rios dos Escravos' (Slave Rivers) region, making him Portugal's leading slave importer.",
+     "id": "crown-of-portugal",
+     "basis": "documented"
+    },
+    {
+     "name": "Gianotto Berardi",
+     "relation": "associate",
+     "years": "1480s–1495",
+     "note": "Seville merchant with whom he traded Guinea captives into Castile.",
+     "id": "gianotto-berardi",
+     "basis": "documented"
+    },
+    {
+     "name": "Cesare Barzi",
+     "relation": "correspondent",
+     "years": "1490s",
+     "note": "Florentine who dominated Valencia's slave market and received captives shipped by Marchionni.",
+     "basis": "documented"
+    },
+    {
+     "name": "Girolamo Sernigi & Dom Álvaro of Portugal",
+     "relation": "co-investors",
+     "years": "1500–1501",
+     "note": "Partners in his ship in Cabral's 1500 fleet and the 1501 João da Nova voyage.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pêro Paulo Marchionni",
+     "relation": "son",
+     "years": "fl. early 1500s",
+     "note": "Followed his father into business as a shipowner.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His son Pêro Paulo continued as a shipowner, but the family firm does not appear to have survived beyond the 16th century; his career is known chiefly through Francesco Guidi Bruscoli's 2014 study."
   },
   {
    "id": "crown-of-castile",
@@ -553,6 +827,10 @@
     {
      "label": "Britannica — asiento de negros",
      "url": "https://www.britannica.com/print/article/38687"
+    },
+    {
+     "label": "Wikipedia — Monarchy of Spain",
+     "url": "https://en.wikipedia.org/wiki/Monarchy_of_Spain"
     }
    ],
    "connections": [
@@ -601,7 +879,55 @@
      "type": "political",
      "label": "agreed to end trade 1817"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Isabella I and Ferdinand II",
+     "relation": "founders",
+     "years": "1474/1479–1504/1516",
+     "note": "Sponsored Columbus and authorised the first enslavement and export of Indigenous captives and African slaves to Hispaniola.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles V and the Spanish Habsburgs",
+     "relation": "successor dynasty",
+     "years": "1516–1700",
+     "note": "Issued the 1518 licence to Gorrevod and built the asiento system that supplied enslaved Africans to Spanish America.",
+     "id": "charter-1518",
+     "basis": "documented"
+    },
+    {
+     "name": "The Spanish Asiento",
+     "relation": "institution",
+     "years": "1518–1789",
+     "note": "Crown monopoly contracts let to Genoese, Portuguese, Dutch, French and British contractors.",
+     "id": "spanish-asiento",
+     "basis": "documented"
+    },
+    {
+     "name": "House of Bourbon (Philip V onward)",
+     "relation": "successor dynasty",
+     "years": "1700–present",
+     "note": "Granted the 1713 asiento to Britain's South Sea Company and presided over slavery in Cuba and Puerto Rico until abolition (1873, 1886).",
+     "id": "south-sea-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Juan Carlos I",
+     "relation": "restored monarch",
+     "years": "r.1975–2014",
+     "note": "Restored the Bourbon monarchy after Franco.",
+     "basis": "documented"
+    },
+    {
+     "name": "Felipe VI",
+     "relation": "current monarch",
+     "years": "r.2014–present",
+     "note": "Current King of Spain and head of the Spanish Bourbons.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Spanish monarchy continues under King Felipe VI (since 2014), a constitutional monarch of the House of Bourbon descended from the dynasty that ran the asiento system. Spain has made no formal state apology for the slave trade; the public debate has focused on monuments such as the 2018 removal of Antonio López's statue in Barcelona."
   },
   {
    "id": "crown-of-portugal",
@@ -673,6 +999,10 @@
     {
      "label": "The EastAfrican/Reuters — Portugal must 'pay costs' of slavery, President says (2024)",
      "url": "https://www.theeastafrican.co.ke/tea/news/world/portugal-must-pay-costs-of-slavery-and-colonial-crimes-4601652"
+    },
+    {
+     "label": "Wikipedia — Duarte Pio, Duke of Braganza",
+     "url": "https://en.wikipedia.org/wiki/Duarte_Pio,_Duke_of_Braganza"
     }
    ],
    "connections": [
@@ -721,7 +1051,57 @@
      "type": "legacy",
      "label": "2024 reparations debate"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "House of Aviz (João I onward)",
+     "relation": "founding dynasty",
+     "years": "1385–1580",
+     "note": "Sponsored the African voyages through Prince Henry and took the royal fifth of captives.",
+     "id": "henry-the-navigator",
+     "basis": "documented"
+    },
+    {
+     "name": "Afonso V and the Guinea lease",
+     "relation": "monarch",
+     "years": "r.1438–1481",
+     "note": "Leased the Guinea trade to Fernão Gomes (1469) under papal bulls permitting enslavement.",
+     "id": "fernao-gomes",
+     "basis": "documented"
+    },
+    {
+     "name": "João II",
+     "relation": "monarch",
+     "years": "r.1481–1495",
+     "note": "Re-took the Guinea trade as a crown monopoly and built Elmina (1482).",
+     "id": "elmina-castle",
+     "basis": "documented"
+    },
+    {
+     "name": "Philippine dynasty (Spanish Habsburgs)",
+     "relation": "union of crowns",
+     "years": "1580–1640",
+     "note": "Portuguese contractors held the Spanish asiento during the union.",
+     "id": "spanish-asiento",
+     "basis": "documented"
+    },
+    {
+     "name": "House of Braganza",
+     "relation": "successor dynasty",
+     "years": "1640–1910",
+     "note": "Ruled Portugal and Brazil through the peak of the Angola–Brazil trade; Braganza Princess Isabel signed Brazil's Lei Áurea (1888).",
+     "id": "lei-aurea-1888",
+     "basis": "documented"
+    },
+    {
+     "name": "Duarte Pio, Duke of Braganza",
+     "relation": "head of house",
+     "years": "b.1945; head since 1976",
+     "note": "Miguelist-line head of the former royal house and pretender to the abolished throne.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The monarchy ended in 1910. Dom Duarte Pio, Duke of Braganza (b. 1945), is the publicly recognised head of the House of Braganza and pretender, with his son Afonso, Prince of Beira, as heir; there is no significant restoration movement. The Portuguese Republic carries the official debate: in 2024 President Marcelo Rebelo de Sousa said Portugal should 'pay the costs' of slavery, which the government declined to act on."
   },
   {
    "id": "henry-the-navigator",
@@ -783,6 +1163,10 @@
     {
      "label": "Contested Histories — Portugal: Slave Market Museum in Lagos",
      "url": "https://contestedhistories.org/wp-content/uploads/Portugal-Slave-Market-Museum-in-Lagos.pdf"
+    },
+    {
+     "label": "Wikipedia — Prince Henry the Navigator",
+     "url": "https://en.wikipedia.org/wiki/Prince_Henry_the_Navigator"
     }
    ],
    "connections": [
@@ -806,7 +1190,53 @@
      "type": "charter",
      "label": "bulls ratified his African conquests"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "João I and Philippa of Lancaster",
+     "relation": "parents",
+     "years": "r.1385–1433",
+     "note": "Founders of the House of Aviz; Henry was their third surviving son.",
+     "basis": "documented"
+    },
+    {
+     "name": "Order of Christ",
+     "relation": "institution governed",
+     "years": "1420–1460",
+     "note": "Henry administered the Templar-successor order, whose revenues funded his expeditions.",
+     "basis": "documented"
+    },
+    {
+     "name": "Infante Pedro, Duke of Coimbra",
+     "relation": "brother & regent",
+     "years": "1392–1449",
+     "note": "As regent granted Henry the royal fifth and control of voyages south of Cape Bojador.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lancarote de Freitas",
+     "relation": "squire",
+     "years": "fl. 1440s",
+     "note": "Led the 1444 Lagos expedition whose 235 captives were sold before Henry.",
+     "id": "lancarote-de-freitas",
+     "basis": "documented"
+    },
+    {
+     "name": "Ferdinand, Duke of Viseu",
+     "relation": "nephew & heir",
+     "years": "1433–1470",
+     "note": "Succeeded Henry as Duke of Viseu and in his estates.",
+     "basis": "documented"
+    },
+    {
+     "name": "Manuel I",
+     "relation": "grand-nephew",
+     "years": "r.1495–1521",
+     "note": "Ferdinand's son, who as king inherited the Viseu patrimony and presided over the expansion to India and Brazil.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Henry never married and left no publicly documented descendants; his dukedom passed to his nephew Ferdinand and then into the crown with Manuel I. The Order of Christ survives as a Portuguese state honorific order, and Henry remains celebrated in monuments such as the Padrão dos Descobrimentos, now debated alongside the Lagos slave-market museum."
   },
   {
    "id": "lancarote-de-freitas",
@@ -877,7 +1307,40 @@
      "type": "charter",
      "label": "royal fifth paid"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Prince Henry the Navigator",
+     "relation": "patron",
+     "years": "1394–1460",
+     "note": "Lancarote was a squire of Henry's household and paid him the royal fifth of the 1444 captives.",
+     "id": "henry-the-navigator",
+     "basis": "documented"
+    },
+    {
+     "name": "Lagos merchant company",
+     "relation": "partners",
+     "years": "1443–1445",
+     "note": "Lagos merchants chartered by Henry who funded the 1444 expedition.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gil Eanes",
+     "relation": "fellow captain",
+     "years": "fl. 1434–1445",
+     "note": "Commanded a caravel in Lancarote's 1444 fleet, per Zurara.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lagos slave market",
+     "relation": "site",
+     "years": "1444–present",
+     "note": "Site of the August 1444 sale, today a museum.",
+     "id": "lagos-slave-market",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. He is remembered mainly through Zurara's chronicle; the profits of the 1444 sale went to the Lagos investors and Henry's fifth."
   },
   {
    "id": "fernao-gomes",
@@ -947,7 +1410,54 @@
      "type": "trade",
      "label": "Lisbon merchant"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Tristão Gomes de Brito",
+     "relation": "father (probable)",
+     "years": "fl. 15th c.",
+     "note": "Possibly his father; the link is not firmly established.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Martim Leme",
+     "relation": "father-in-law",
+     "years": "fl. 15th c.",
+     "note": "Flemish-Portuguese merchant whose illegitimate daughter Catarina Leme married Gomes.",
+     "basis": "documented"
+    },
+    {
+     "name": "Afonso V",
+     "relation": "licensor",
+     "years": "r.1438–1481",
+     "note": "Leased him the Guinea monopoly in 1469 for rent and an exploring obligation.",
+     "id": "crown-of-portugal",
+     "basis": "documented"
+    },
+    {
+     "name": "João de Santarém, Pedro Escobar, Fernão do Pó",
+     "relation": "captains",
+     "years": "1469–1475",
+     "note": "Explorers he employed who reached the Mina gold coast and the Bight of Biafra.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nuno Fernandes da Mina",
+     "relation": "son",
+     "years": "fl. late 15th c.",
+     "note": "Inherited the 'da Mina' surname granted to his father.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elmina Castle",
+     "relation": "successor (crown)",
+     "years": "1482–",
+     "note": "João II took the trade back and built the fort on the coast Gomes's captains had reached.",
+     "id": "elmina-castle",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced beyond his children Catarina Leme and Nuno Fernandes da Mina. The trade he pioneered was absorbed into the crown monopoly centred on Elmina."
   },
   {
    "id": "laurent-de-gorrevod",
@@ -1004,6 +1514,14 @@
     {
      "label": "Academia Dominicana de la Historia — The Italian Presence in Santo Domingo (p. 44)",
      "url": "https://italianlegacyrden.academiadominicanahistoria.org.do/files/assets/basic-html/page-44.html"
+    },
+    {
+     "label": "Wikipedia — Louis de Gorrevod",
+     "url": "https://en.wikipedia.org/wiki/Louis_de_Gorrevod"
+    },
+    {
+     "label": "Black Italy (FBK) — Centurione (Centurion) Melchor",
+     "url": "https://blackitaly.fbk.eu/s/eng/item/779"
     }
    ],
    "connections": [
@@ -1022,7 +1540,47 @@
      "type": "trade",
      "label": "sold licence to Genoese/Centurione"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jean de Gorrevod and Jeanne de Loriol-Challes",
+     "relation": "parents",
+     "years": "15th c.",
+     "note": "Savoyard nobles of Bresse; Laurent and his brother were also heirs of their uncle Guillaume (will of 1482).",
+     "basis": "documented"
+    },
+    {
+     "name": "Margaret of Austria",
+     "relation": "patron",
+     "years": "1480–1530",
+     "note": "Regent of the Netherlands whom Gorrevod served as councillor; he was buried at her monastery of Brou.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles V",
+     "relation": "patron",
+     "years": "r.1516–1556",
+     "note": "Granted him the 1518 licence for 4,000 Africans, the Golden Fleece (1516) and the county of Pont-de-Vaux (1521).",
+     "id": "charter-1518",
+     "basis": "documented"
+    },
+    {
+     "name": "Genoese buyers (Forne, Vivaldo, Vázquez; Centurione agents)",
+     "relation": "licence buyers",
+     "years": "1518–1526",
+     "note": "He resold the licence in parts to Genoese merchants; their agent Melchor Centurione traded captives for sugar in Santo Domingo.",
+     "id": "centurione-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Cardinal Louis de Gorrevod",
+     "relation": "brother",
+     "years": "c.1473–1535",
+     "note": "Bishop of Maurienne; the family's ecclesiastical branch.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Gorrevod profited by reselling the licence rather than shipping captives; his titles (count of Pont-de-Vaux) passed within his Savoyard family, and his tomb is at the Royal Monastery of Brou near Bourg-en-Bresse."
   },
   {
    "id": "centurione-family",
@@ -1080,6 +1638,14 @@
     {
      "label": "Britannica — asiento de negros",
      "url": "https://www.britannica.com/print/article/38687"
+    },
+    {
+     "label": "Wikipedia — Agostino Centurione",
+     "url": "https://en.wikipedia.org/wiki/Agostino_Centurione"
+    },
+    {
+     "label": "Università di Teramo Digital History — The Republic of Genoa (Genoese bankers and the Iberian crowns)",
+     "url": "https://digitalhistory.unite.it/en/territories/international-routes/genoa/the-genoese-in-the-port-of-cadiz-in-the-seventeenth-century/the-republic-of-genoa/"
     }
    ],
    "connections": [
@@ -1113,7 +1679,47 @@
      "type": "trade",
      "label": "captives sourced via São Tomé/Cape Verde"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Centurione merchant-bankers in Andalusia",
+     "relation": "family branch",
+     "years": "late 1400s–1510s",
+     "note": "Genoese bankers in Granada, Seville and Cádiz who financed the Castilian crown.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gaspar and Melchor Centurione",
+     "relation": "brothers",
+     "years": "1518–1526",
+     "note": "Melchor was agent in Santo Domingo for Forne, Vivaldo and Vázquez, buyers of the Gorrevod licence, exchanging captives for sugar.",
+     "id": "laurent-de-gorrevod",
+     "basis": "documented"
+    },
+    {
+     "name": "Adamo Centurione",
+     "relation": "banker",
+     "years": "fl. 1520s–1540s",
+     "note": "Banker and shipowner allied with Andrea Doria during Genoa's 1528 alignment with Charles V's Spain.",
+     "basis": "documented"
+    },
+    {
+     "name": "Centurione doges of Genoa",
+     "relation": "descendants",
+     "years": "1600s",
+     "note": "Including Giorgio Centurione and Agostino Centurione (Doge 1650–52).",
+     "basis": "documented"
+    },
+    {
+     "name": "Grillo & Lomellini asiento",
+     "relation": "successor Genoese capital",
+     "years": "1662–1670s",
+     "note": "Genoese return to the asiento after the Centurione era.",
+     "id": "grillo-and-lomellini",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "The Centurione name survives in Genoa's palazzi, several listed in the UNESCO 'Strade Nuove and the Palazzi dei Rolli' site. No publicly documented descendant has addressed the family's early slave-trade links."
   },
   {
    "id": "welser-family",
@@ -1175,6 +1781,14 @@
     {
      "label": "Wikipedia — Welser family",
      "url": "https://en.wikipedia.org/wiki/Welser_family"
+    },
+    {
+     "label": "Deutsche Biographie (NDB/ADB) — Welser, Bartholomäus V.",
+     "url": "https://www.deutsche-biographie.de/sfz84981.html"
+    },
+    {
+     "label": "Wikipedia — Bartholomeus Welser V",
+     "url": "https://en.wikipedia.org/wiki/Bartholomeus_Welser_V"
     }
    ],
    "connections": [
@@ -1203,7 +1817,53 @@
      "type": "trade",
      "label": "factory in Santo Domingo"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Lukas Welser",
+     "relation": "ancestor",
+     "years": "15th c.",
+     "note": "Augsburg merchant whose son Anton (I.) carried the family trading business forward.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anton Welser (I.)",
+     "relation": "founder of firm",
+     "years": "d. 1518",
+     "note": "Head of the Augsburg house and among the first Germans to use the Portuguese sea route to India; his death in 1518 passed the firm to his sons.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartholomäus V. Welser",
+     "relation": "head of firm",
+     "years": "1484–1561",
+     "note": "Led the company from 1518/19 with his brother Anton (II.); lent heavily to Charles V and obtained the 1528 Venezuela grant and African-captive licence; ennobled 1532.",
+     "id": "bartholomaus-welser",
+     "basis": "documented"
+    },
+    {
+     "name": "Hieronymus Sailer",
+     "relation": "son-in-law",
+     "years": "fl. 1528",
+     "note": "Welser factor who co-signed the 1528 contract for 4,000 enslaved Africans; married Bartholomäus's daughter Felicitas (1513–1569).",
+     "basis": "documented"
+    },
+    {
+     "name": "Bartholomäus VI. and Christoph Welser",
+     "relation": "sons",
+     "years": "d. 1546; 1517–1593",
+     "note": "Bartholomäus VI was executed at El Tocuyo in 1546 with Philipp von Hutten; Christoph took over the firm, which was renamed after him when his father withdrew in 1551/53.",
+     "basis": "documented"
+    },
+    {
+     "name": "Welsersche Familienstiftung / Ulm branch (Freiherren von Welser)",
+     "relation": "successor",
+     "years": "1539–present",
+     "note": "The family foundation of 1539 survives; the Augsburg line ended in 1797 and the Nuremberg (Neunhof) line in 1878, while the Ulm branch, made imperial barons in 1713, continues.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Augsburg trading house failed in the early 17th century, and the Augsburg (1797) and Nuremberg/Neunhof (1878) lines have died out. The Ulm branch, imperial barons (Freiherren von Welser) since 1713, still exists and is reported to administer the Welsersche Familienstiftung founded in 1539. The family's history, including Venezuela, is exhibited at the Fugger und Welser Erlebnismuseum in Augsburg; no individual living descendants have spoken publicly about the slave-trade link that we have traced."
   },
   {
    "id": "fugger-family",
@@ -1260,6 +1920,18 @@
     {
      "label": "Global Heritage Lab (Univ. Bonn) — Mining, Metals and Manillas in the Atlantic Slave Trade",
      "url": "https://globalheritagelab.org/project/mining-metals-and-manillas-in-the-atlantic-slave-trade-pilot-study/"
+    },
+    {
+     "label": "Wikipedia — Fugger family",
+     "url": "https://en.wikipedia.org/wiki/Fugger"
+    },
+    {
+     "label": "Fuggersche Stiftungen — Press release: Generationswechsel bei den Fuggerschen Stiftungen (30.01.2022)",
+     "url": "https://media.fugger.de/fileadmin/Daten/next_500_daten/presse/pm-generationswechsel-seniorat/PM_Generationswechsel_bei_den_Fuggerschen_Stiftungen_im_Jubilaeumsjahr_30.01.2022.pdf"
+    },
+    {
+     "label": "Wikipedia — Jakob Fugger",
+     "url": "https://en.wikipedia.org/wiki/Jakob_Fugger"
     }
    ],
    "connections": [
@@ -1283,7 +1955,53 @@
      "type": "parallel",
      "label": "fellow Augsburg financiers"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Hans Fugger",
+     "relation": "founder",
+     "years": "fl. 1367–1408",
+     "note": "Weaver who moved to Augsburg in 1367, founding the dynasty.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jakob Fugger the Elder",
+     "relation": "son",
+     "years": "1398–1469",
+     "note": "Founded the 'Fugger von der Lilie' line from which the banking house grew.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jakob Fugger 'the Rich'",
+     "relation": "grandson",
+     "years": "1459–1525",
+     "note": "Built the near-monopoly in Central European copper whose metal reached Lisbon and West African barter markets; financed Charles V's election; founded the Fuggerei (1516).",
+     "id": "jakob-fugger",
+     "basis": "documented"
+    },
+    {
+     "name": "Anton Fugger",
+     "relation": "nephew and heir",
+     "years": "1493–1560",
+     "note": "Inherited the firm in 1525 and continued lending to the Habsburgs; made an imperial count in 1530.",
+     "basis": "documented"
+    },
+    {
+     "name": "Comital and princely lines (Kirchberg-Weißenhorn, Glött, Babenhausen)",
+     "relation": "descendants",
+     "years": "1514/1803/1913–present",
+     "note": "Kirchberg-Weißenhorn comital line; Babenhausen raised to princes of the Empire in 1803; Glött made Bavarian princes in 1913/14 (male line ended 1981, estate passed to an adopted Arco-Zinneberg heir).",
+     "basis": "documented"
+    },
+    {
+     "name": "Fürstlich und Gräflich Fuggersche Stiftungen",
+     "relation": "successor foundation",
+     "years": "16th c.–present",
+     "note": "Family foundations, including the Fuggerei, run by the Familienseniorat and Stiftungsadministration in Augsburg.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The family remains prominent in Bavaria. Prince Hubertus Fugger-Babenhausen owns Wellenburg Castle, the Fuggerhäuser in Augsburg and Babenhausen castle (with a family museum) and is a co-owner of the Fürst Fugger Privatbank. In 2022 Alexander Erbgraf Fugger-Babenhausen succeeded Countess Maria Elisabeth Thun-Fugger (heiress of the Kirchberg-Weißenhorn line) as chair of the Familienseniorat that oversees the Fuggerei and eight other Fugger foundations. Research projects now examine Fugger copper in the West African trade."
   },
   {
    "id": "nicolas-de-ovando",
@@ -1335,6 +2053,10 @@
     {
      "label": "Wikipedia — Encomienda",
      "url": "https://en.wikipedia.org/wiki/Encomienda"
+    },
+    {
+     "label": "Wikipedia — Nicolás de Ovando",
+     "url": "https://en.wikipedia.org/wiki/Nicol%C3%A1s_de_Ovando"
     }
    ],
    "connections": [
@@ -1353,7 +2075,45 @@
      "type": "trade",
      "label": "captives shipped from Spain"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Diego de Cáceres Ovando",
+     "relation": "father",
+     "years": "15th c.",
+     "note": "Captain from Brozas (Extremadura); Nicolás was his second son.",
+     "basis": "documented"
+    },
+    {
+     "name": "Order of Alcántara",
+     "relation": "patron institution",
+     "years": "from c. 1478",
+     "note": "Ovando rose to knight-commander of this military order, the basis of his standing at court.",
+     "basis": "documented"
+    },
+    {
+     "name": "Francisco de Bobadilla",
+     "relation": "predecessor",
+     "years": "gov. 1500–1502",
+     "note": "Isabella appointed Ovando to replace Bobadilla as governor of the Indies in 1501.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hernán Cortés",
+     "relation": "kinsman and protégé",
+     "years": "1485–1547",
+     "note": "A distant relative whom Ovando made a notary and gave a land grant on Hispaniola, launching his career.",
+     "basis": "documented"
+    },
+    {
+     "name": "Diego Colón",
+     "relation": "successor",
+     "years": "gov. 1509–1515",
+     "note": "Columbus's son replaced Ovando when Ferdinand recalled him in 1509.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; as a knight-commander of a military order he left no recorded heirs. He died in Seville in 1511 and was buried at San Benito de Alcántara; his will founded a chapel with weekly requiem masses."
   },
   {
    "id": "alonso-de-ojeda",
@@ -1428,7 +2188,47 @@
      "type": "trade",
      "label": "enslaved Taíno on Hispaniola"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Juan Rodríguez de Fonseca",
+     "relation": "patron",
+     "years": "1451–1524",
+     "note": "Bishop who ran Indies affairs for the Crown and backed Ojeda's licences against Columbus's monopoly.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christopher Columbus",
+     "relation": "commander",
+     "years": "1451–1506",
+     "note": "Ojeda served on the 1493 second voyage and led raids on Hispaniola under him.",
+     "id": "christopher-columbus",
+     "basis": "documented"
+    },
+    {
+     "name": "Juan de la Cosa",
+     "relation": "pilot and associate",
+     "years": "c. 1450–1510",
+     "note": "Piloted the 1499 voyage, represented Ojeda at court and died during his 1509–10 expedition.",
+     "basis": "documented"
+    },
+    {
+     "name": "Amerigo Vespucci",
+     "relation": "fellow voyager",
+     "years": "1454–1512",
+     "note": "Sailed on the 1499 voyage that ended with the sale of captives.",
+     "id": "amerigo-vespucci",
+     "basis": "documented"
+    },
+    {
+     "name": "Francisco Pizarro",
+     "relation": "lieutenant",
+     "years": "c. 1478–1541",
+     "note": "Sailed in Ojeda's flotilla and was left in charge of the San Sebastián de Urabá fort in 1510, beginning his career as a conquistador.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Ojeda died poor in Santo Domingo c. 1515; the enterprise of raiding and colonising the Tierra Firme coast passed to men who had served with him, notably Francisco Pizarro and Martín Fernández de Enciso."
   },
   {
    "id": "bartolome-de-las-casas",
@@ -1489,6 +2289,10 @@
     {
      "label": "College of Charleston LDHI — Emperor Charles V",
      "url": "https://ldhi.library.cofc.edu/exhibits/show/african_laborers_for_a_new_emp/emperor_charles_v"
+    },
+    {
+     "label": "Wikipedia — Bartolomé de las Casas",
+     "url": "https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas"
     }
    ],
    "connections": [
@@ -1512,7 +2316,47 @@
      "type": "political",
      "label": "chronicled his slaving"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Pedro de las Casas",
+     "relation": "father",
+     "years": "fl. 1493–1499",
+     "note": "Merchant who sailed on Columbus's second voyage and in 1499 brought his son a young Indigenous American as a servant.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nicolás de Ovando",
+     "relation": "governor / fleet leader",
+     "years": "1502",
+     "note": "Las Casas emigrated to Hispaniola in Ovando's 1502 fleet.",
+     "id": "nicolas-de-ovando",
+     "basis": "documented"
+    },
+    {
+     "name": "Pedro de la Rentería",
+     "relation": "partner",
+     "years": "fl. 1513–1514",
+     "note": "With Las Casas, jointly held a rich encomienda on the Arimao River in Cuba after the Velázquez–Narváez conquest; Las Casas renounced it in 1514–15.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dominican Order",
+     "relation": "religious order",
+     "years": "1522/23–1566",
+     "note": "He entered the Santa Cruz monastery in Santo Domingo in 1522 and became a friar in 1523.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles V and the New Laws",
+     "relation": "patron / outcome",
+     "years": "1542",
+     "note": "His lobbying fed into the New Laws signed 20 November 1542.",
+     "id": "crown-of-castile",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; he was a Dominican friar and bishop. His legacy passed to the Dominican Order and to human-rights thought, and a Catholic cause for his beatification has been opened."
   },
   {
    "id": "pedro-gomes-reinel",
@@ -1568,6 +2412,10 @@
     {
      "label": "Britannica — asiento de negros",
      "url": "https://www.britannica.com/print/article/38687"
+    },
+    {
+     "label": "Wikipedia — Asiento de Negros (list of asentistas)",
+     "url": "https://en.wikipedia.org/wiki/Asiento_de_Negros"
     }
    ],
    "connections": [
@@ -1591,7 +2439,46 @@
      "type": "political",
      "label": "Iberian Union subject"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Philip II (Crown of Castile and Portugal)",
+     "relation": "grantor",
+     "years": "1580–1598",
+     "note": "The Iberian Union let a Portuguese merchant hold the Spanish monopoly contract signed in 1595.",
+     "id": "crown-of-castile",
+     "basis": "documented"
+    },
+    {
+     "name": "João Rodrigues Coutinho",
+     "relation": "successor asentista",
+     "years": "1601–1604",
+     "note": "Took over the asiento; he was also governor of Angola in 1602–03.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gonçalo Vaz Coutinho",
+     "relation": "successor asentista",
+     "years": "1604–1615",
+     "note": "Continued the Portuguese monopoly contract.",
+     "basis": "documented"
+    },
+    {
+     "name": "António Fernandes de Elvas and Manuel Rodrigues Lamego",
+     "relation": "successor asentistas",
+     "years": "1615–1631",
+     "note": "New Christian merchant-financiers who held the contract in turn.",
+     "basis": "documented"
+    },
+    {
+     "name": "Melchor Gómez Angel and Cristóvão Mendes de Sousa",
+     "relation": "last Portuguese asentistas",
+     "years": "1631–1640",
+     "note": "The Portuguese cycle ended with the 1640 Restoration war.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The monopoly contract he pioneered passed after 1640 to Genoese (Grillo and Lomellini), Dutch, Portuguese, French and finally British (South Sea Company, 1713) holders."
   },
   {
    "id": "grillo-and-lomellini",
@@ -1648,6 +2535,14 @@
     {
      "label": "Univ. Pablo de Olavide — Genoese Entrepreneurship and the Asiento Slave Trade, 1650–1700",
      "url": "https://investiga.upo.es/documentos/63d9bf76d9f0044983e20044"
+    },
+    {
+     "label": "Wikipedia — Asiento de Negros (list of asentistas)",
+     "url": "https://en.wikipedia.org/wiki/Asiento_de_Negros"
+    },
+    {
+     "label": "Florida Slave Trade Center — Grillo and Lomelín asiento document",
+     "url": "https://floridaslavetradecenter.org/Detail/objects/11869"
     }
    ],
    "connections": [
@@ -1676,7 +2571,55 @@
      "type": "parallel",
      "label": "earlier Genoese asentistas"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Centurione and Genoese merchants of Seville",
+     "relation": "predecessors",
+     "years": "16th c.",
+     "note": "Earlier Genoese financiers of the Castilian crown and the licence trade.",
+     "id": "centurione-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Domenico (Domingo) Grillo",
+     "relation": "asentista",
+     "years": "1617–1687",
+     "note": "Held the asiento 1662–71 with Lomellini; died in Madrid in 1687 holding the title marqués de Clarafuente.",
+     "basis": "documented"
+    },
+    {
+     "name": "António Garcia",
+     "relation": "heir of Lomellini / successor",
+     "years": "1671–1674",
+     "note": "Portuguese merchant who took over the contract as Lomellini's heir.",
+     "basis": "documented"
+    },
+    {
+     "name": "Consulado de Sevilla (Hierro de Castro & Cortizos)",
+     "relation": "successor",
+     "years": "1676–1679",
+     "note": "The Seville merchant guild held the next asiento.",
+     "basis": "documented"
+    },
+    {
+     "name": "Balthasar Coymans",
+     "relation": "successor",
+     "years": "1685–1687",
+     "note": "Dutch merchant whose contract continued the reliance on Curaçao.",
+     "id": "coymans-family",
+     "basis": "documented"
+    },
+    {
+     "name": "South Sea Company",
+     "relation": "later holder",
+     "years": "1713",
+     "note": "The British company received the asiento under the Treaty of Utrecht.",
+     "id": "south-sea-company",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced in connection with the asiento. Grillo's fortune and the Clarafuente title stayed in Madrid court circles; the Grillo and Lomellini names survive as Genoese patrician families, but no member is documented as having spoken publicly about the trade."
   },
   {
    "id": "paulo-dias-de-novais",
@@ -1726,6 +2669,14 @@
     {
      "label": "BlackPast — Luanda, Angola (1576– )",
      "url": "https://new.blackpast.org/gah/luanda-angola-1576"
+    },
+    {
+     "label": "Wikipedia — Paulo Dias de Novais",
+     "url": "https://en.wikipedia.org/wiki/Paulo_Dias_de_Novais"
+    },
+    {
+     "label": "Wikipedia — List of colonial governors of Angola",
+     "url": "https://en.wikipedia.org/wiki/List_of_colonial_governors_of_Angola"
     }
    ],
    "connections": [
@@ -1749,7 +2700,40 @@
      "type": "political",
      "label": "Kongo aided early Portuguese Angola"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Bartolomeu Dias",
+     "relation": "grandfather",
+     "years": "c. 1450–1500",
+     "note": "The navigator who rounded the Cape of Good Hope; the family name carried crown favour.",
+     "basis": "documented"
+    },
+    {
+     "name": "King Sebastião (Crown of Portugal)",
+     "relation": "grantor",
+     "years": "1571/1575",
+     "note": "Granted him Angola as a hereditary donataria (charter dated 1571; office from 1575).",
+     "id": "crown-of-portugal",
+     "basis": "documented"
+    },
+    {
+     "name": "Luís Serrão",
+     "relation": "successor governor",
+     "years": "1589–1591",
+     "note": "Took over after Novais died bankrupt at Massangano in 1589; Angola then became a Crown colony.",
+     "basis": "documented"
+    },
+    {
+     "name": "Royal governors of Angola",
+     "relation": "successor state",
+     "years": "1589–1975",
+     "note": "Crown-appointed governors ran the slave-exporting colony from Luanda until independence in 1975.",
+     "id": "port-luanda",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Novais died bankrupt in 1589, having funded the venture himself, and the hereditary donataria lapsed to the Portuguese Crown rather than to heirs."
   },
   {
    "id": "marquis-of-pombal",
@@ -1810,6 +2794,18 @@
     {
      "label": "ANPUH — paper on the Companhia de Pernambuco e Paraíba slave imports",
      "url": "https://mail.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548206571_63aacaecd42fc49bda5d38847a2a25f3.pdf"
+    },
+    {
+     "label": "Wikipedia (pt) — Marquês de Pombal (title holders)",
+     "url": "https://pt.wikipedia.org/wiki/Marqu%C3%AAs_de_Pombal"
+    },
+    {
+     "label": "Wikipedia — Francisco Xavier de Mendonça Furtado",
+     "url": "https://en.wikipedia.org/wiki/Francisco_Xavier_de_Mendon%C3%A7a_Furtado"
+    },
+    {
+     "label": "Arquivo Histórico da PGR — 1871 claim by Manuel José de Carvalho Daun e Lorena",
+     "url": "https://arquivohistorico.ministeriopublico.pt/uploads/PT-AHPGR-PGR-04-029-063_T.pdf"
     }
    ],
    "connections": [
@@ -1838,7 +2834,47 @@
      "type": "parallel",
      "label": "Upper Guinea supply for Grão-Pará"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "King José I (Crown of Portugal)",
+     "relation": "patron",
+     "years": "r. 1750–1777",
+     "note": "Made Carvalho e Melo his chief minister; created him Count of Oeiras (1759) and Marquis of Pombal (1769).",
+     "id": "crown-of-portugal",
+     "basis": "documented"
+    },
+    {
+     "name": "Francisco Xavier de Mendonça Furtado",
+     "relation": "brother",
+     "years": "gov. 1751–1759",
+     "note": "Governor of Grão-Pará and Maranhão, instructed to move settlers from Indigenous to African enslaved labour as the monopoly company was set up.",
+     "id": "grao-para-maranhao-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Henrique José de Carvalho e Melo",
+     "relation": "son",
+     "years": "1748–1812",
+     "note": "2nd Marquis of Pombal; died in Rio de Janeiro leaving only illegitimate children.",
+     "basis": "documented"
+    },
+    {
+     "name": "José Francisco de Carvalho e Melo e Daun",
+     "relation": "son",
+     "years": "1754–1821",
+     "note": "3rd Marquis, son of Pombal's Austrian second wife (Daun family).",
+     "basis": "documented"
+    },
+    {
+     "name": "Carvalho Daun e Lorena family",
+     "relation": "descendants",
+     "years": "19th–20th c.",
+     "note": "Descendants who claimed compensation for the Oeiras estates in 1871 and, in the 1930s–40s, published defences of their ancestor.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The title passed through Pombal's sons to the Carvalho Daun e Lorena family, whose members publicly defended his reputation in the 1930s–40s. His fortune was bound up in the Oeiras and Pombal estates. No living descendant has been documented speaking publicly about the slave-trade companies he founded."
   },
   {
    "id": "antonio-lopez-comillas",
@@ -1909,6 +2945,18 @@
     {
      "label": "elDiario.es — El 'negrero' López y López gana al 'marqués' de Comillas",
      "url": "https://www.eldiario.es/cantabria/sociedad/negrero-lopez-marques-comillas-barcelona_1_2245065.amp.html"
+    },
+    {
+     "label": "Wikipedia — Marquess of Comillas",
+     "url": "https://en.wikipedia.org/wiki/Marquess_of_Comillas"
+    },
+    {
+     "label": "BOE — Orden PJC/52/2026, succession to the Marquisate of Comillas",
+     "url": "https://boe.es/boe/dias/2026/02/02/pdfs/BOE-A-2026-2398.pdf"
+    },
+    {
+     "label": "NacióDigital — Antonio López y López: un negrer o un emprenedor al centre de Barcelona?",
+     "url": "https://naciodigital.cat/societat/antonio-lopez-y-lopez-un-negrer-o-un-emprenedor-al-centre-de-barcelona.html"
     }
    ],
    "connections": [
@@ -1937,7 +2985,61 @@
      "type": "parallel",
      "label": "fellow Spanish-Cuban magnate"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Andrés Bru",
+     "relation": "father-in-law",
+     "years": "fl. 1840s",
+     "note": "Catalan merchant in Santiago de Cuba who rented López a house; López married his daughter Luisa.",
+     "basis": "documented"
+    },
+    {
+     "name": "Domingo Valdés",
+     "relation": "partner",
+     "years": "to 1849",
+     "note": "Partner in Valdés y López, Santiago de Cuba; he withdrew on 24 July 1849.",
+     "basis": "documented"
+    },
+    {
+     "name": "Claudio López y López",
+     "relation": "brother and partner",
+     "years": "fl. 1840s–1850s",
+     "note": "Partner in Antonio López y Hermano; historians document both brothers' involvement in buying and selling enslaved people, including illegally landed Africans.",
+     "basis": "documented"
+    },
+    {
+     "name": "Luisa Bru Lassús",
+     "relation": "spouse",
+     "years": "19th c.",
+     "note": "Wife and mother of four children; her brother Francisco Bru published an 1885 exposé calling López a slave trader.",
+     "basis": "documented"
+    },
+    {
+     "name": "Claudio López Bru, 2nd Marquis",
+     "relation": "son and heir",
+     "years": "1853–1925",
+     "note": "Inherited Trasatlántica, Tabacos de Filipinas and the title in 1883; co-founded the Comillas seminary (now the Pontifical University).",
+     "id": "claudio-lopez-bru",
+     "basis": "documented"
+    },
+    {
+     "name": "Eusebi Güell",
+     "relation": "son-in-law",
+     "years": "1846–1918",
+     "note": "Married Isabel López Bru in 1871; their son Juan Antonio Güell y López became 3rd Marquis of Comillas in 1925.",
+     "id": "eusebi-guell",
+     "basis": "documented"
+    },
+    {
+     "name": "Güell marquesses of Comillas",
+     "relation": "descendants",
+     "years": "1925–present",
+     "note": "Title held by Juan Antonio Güell y López (1925–58), Juan Alfonso Güell y Martos (from 1958) and, by succession published in 2026, María de los Reyes Güell y Merry del Val.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Marquisate of Comillas remains with López's descendants through the Güell family: the Spanish Official Gazette (BOE) published the succession of María de los Reyes Güell y Merry del Val as 5th Marchioness in February 2026. The Compañía Trasatlántica was absorbed into the state holding INI in 1978 and privatised in 1994; the Comillas Pontifical University, founded with family money as a seminary in 1890, now operates in Madrid."
   },
   {
    "id": "pedro-martinez-cadiz",
@@ -2011,7 +3113,32 @@
      "type": "political",
      "label": "traded in breach of 1817 treaty"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Pedro Felipe del Campo",
+     "relation": "partner",
+     "years": "fl. 1836–1837",
+     "note": "Co-owner with Martínez of the Cazador, pursued in the Gibraltar Vice-Admiralty court for slaving.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pedro Blanco",
+     "relation": "partner",
+     "years": "fl. 1822–1839",
+     "note": "Gallinas slave trader with whom Martínez worked; Martínez reportedly took over his business after 1839.",
+     "id": "pedro-blanco",
+     "basis": "documented"
+    },
+    {
+     "name": "Pedro Martínez y Compañía (the Martínez clan)",
+     "relation": "family firm",
+     "years": "1817–1867",
+     "note": "Cózar Navarro describes the house as the great Cádiz–Havana slave-trading firm of Isabel II's reign, run by Martínez and his relatives.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The firm's history was largely forgotten until Carmen Cózar Navarro's research (2018 chapter; 2021 book La Orca del Atlántico)."
   },
   {
    "id": "josep-xifre",
@@ -2062,6 +3189,14 @@
     {
      "label": "Ara — Huir de deudas y convertirse en hombres ricos",
      "url": "https://es.ara.cat/economia/empresas/huir-deudas-convertirse-hombres-ricos-europa_1_4960268.html"
+    },
+    {
+     "label": "Enciclopèdia.cat — Josep Xifré i l'hospital d'Arenys",
+     "url": "https://www.enciclopedia.cat/historia.-politica-societat-i-cultura-dels-paisos-catalans/josep-xifre-i-lhospital-darenys"
+    },
+    {
+     "label": "Diputació de Barcelona, Patrimoni Cultural — Xifré mausoleum, Arenys de Mar",
+     "url": "https://patrimonicultural.diba.cat/index.php/print/pdf/node/93883"
     }
    ],
    "connections": [
@@ -2075,7 +3210,45 @@
      "type": "parallel",
      "label": "fellow Catalan-Cuban fortune"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Joan Baptista Xifré i Horta",
+     "relation": "father",
+     "years": "d. 1787",
+     "note": "Arenys de Mar shipowner ruined during the war with Britain in 1786; his debts drove Josep to Havana.",
+     "basis": "documented"
+    },
+    {
+     "name": "Judit Downing (Dowling)",
+     "relation": "spouse",
+     "years": "m. 1818",
+     "note": "Daughter of his New York agent; renamed Júlia after a Catholic wedding in Rome in 1840.",
+     "basis": "documented"
+    },
+    {
+     "name": "Peter Harmony",
+     "relation": "banking partner",
+     "years": "fl. 1820s–1830s",
+     "note": "New York merchant-banker (spelled 'Harmong' in the Catalan encyclopedia) with whom Xifré banked; Xifré kept his Cuban properties after winding up in New York.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Caixa d'Estalvis i Mont de Pietat de Barcelona",
+     "relation": "institution led",
+     "years": "1844–",
+     "note": "Xifré was the savings bank's first president; it later became part of the institutions that formed today's CaixaBank group.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Josep Xifré Downing",
+     "relation": "son and heir",
+     "years": "19th c.",
+     "note": "Inherited the fortune but lived mostly in Paris and did not expand it; commissioned his father's tomb from Charles Gumery for the Arenys hospital chapel (1861).",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants have been traced. Part of the wealth went to the Arenys de Mar hospital, which he built and gave to the town in 1849 with an endowment for its upkeep; the Porxos d'en Xifré still stand in Barcelona."
   },
   {
    "id": "casa-de-contratacion",

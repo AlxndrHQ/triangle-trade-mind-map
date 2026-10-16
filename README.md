@@ -9,7 +9,7 @@ An interactive mind map and set of dossiers on the people, families, states and 
 | Tab | What it shows |
 |---|---|
 | **Web** (`#/web`) | A force-directed network of players (circles) and places/institutions (boxes). The **Timeline** layout (`#/web/timeline`) lays everything out left to right from 1492 to today. |
-| **Directory** (`#/directory`) | Dossier cards in seven groups: European families; African states & families; American families; companies & banks; crowns & explorers; enslaved & free Black lives; and Arab, Saharan & Indian Ocean traders. |
+| **Directory** (`#/directory`) | Dossier cards in eight groups: European families; African states & families; American families; companies & banks; crowns & explorers; enslaved & free Black lives; Arab, Saharan & Indian Ocean traders; and enforcers & aftermath. |
 | **Chronology** (`#/chronology`) | Dated events from 1492 to today, each linked to its players and a source, plus SlaveVoyages estimates "by the numbers". |
 | **Overlaps** (`#/overlaps`) | Companies, ports, forts and institutions shared by two or more players, and the direct ties that cross the triangle. |
 | **Map** (`#/map`) | Players pinned to their bases. The **Triangle Routes** layer (`#/map/routes`) draws the three legs and the direct Brazil–Africa trade. |
@@ -22,6 +22,7 @@ Filters for period, group, role and nation apply across every view. Click any na
 
 - `category`, `role`, `nation`, `scale` (Minor → Dominant, relative weight in the trade), `start`/`end` years, `base` and `geo`
 - `origins`, `role_summary` + `roleDetail[]`, `legacy` + `legacyDetail[]`. Every detail is tagged `documented` or `interpretive`.
+- `lineage[]` (mentors, parents, partners, heirs, successor firms) and `today`, the family's documented present. Living people are named only if they are public figures or have spoken publicly about the history.
 - `sources[]` and `connections[]` (edge types: ownership, trade, finance, charter, voyage, plantation, family, legacy, political, parallel)
 
 Entities (ports, forts, ships, charters, institutions) use `{id, name, type:"entity", kind, description, start, geo, connections}`.
@@ -32,7 +33,7 @@ The records draw on mainstream scholarship and archives: the [SlaveVoyages](http
 
 ## Rebuilding
 
-`research/g1.json … g12.json` are the source files, one per research group: Iberia & explorers, Britain, continental Europe, African states, the Americas, African trading families, US planter families, Dutch/Portuguese/German/Swiss families, financiers & legacy today, the Middle Passage (survivors, captains, crews, ships), enslaved and free Black lives, and the Arab, trans-Saharan and Indian Ocean trades. `research/SCHEMA.md` is the record format. To merge them, check links, and regenerate `data.json` plus the embedded copy in `index.html`, run:
+`research/g1.json … g17.json` are the source files, one per research group: Iberia & explorers, Britain, continental Europe, African states, the Americas, African trading families, US planter families, Dutch/Portuguese/German/Swiss families, financiers & legacy today, the Middle Passage (survivors, captains, crews, ships), enslaved and free Black lives, the Arab, trans-Saharan and Indian Ocean trades, family lineages (g13–g16: mentors, partners and heirs added in the lineage round), and enforcers & aftermath (g17: overseers, patrols, slave catchers, the Klan, convict leasing). `research/SCHEMA.md` is the record format. To merge them, check links, and regenerate `data.json` plus the embedded copy in `index.html`, run:
 
 ```sh
 python3 tools/build.py research .

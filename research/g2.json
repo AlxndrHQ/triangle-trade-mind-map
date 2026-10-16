@@ -69,6 +69,30 @@
     {
      "label": "Wikipedia — John Hawkins (naval commander)",
      "url": "https://en.wikipedia.org/wiki/John_Hawkins_(naval_commander)"
+    },
+    {
+     "label": "Wikipedia — William Hawkins (died c. 1554)",
+     "url": "https://en.wikipedia.org/wiki/William_Hawkins_(died_c._1554)"
+    },
+    {
+     "label": "Wikipedia — Benjamin Gonson",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Gonson"
+    },
+    {
+     "label": "Wikipedia — Lionel Duckett",
+     "url": "https://en.wikipedia.org/wiki/Lionel_Duckett"
+    },
+    {
+     "label": "Wikipedia — Richard Hawkins",
+     "url": "https://en.wikipedia.org/wiki/Richard_Hawkins"
+    },
+    {
+     "label": "Plymouth City Council — City council proposes naming city square after Plymouth Argyle pioneer",
+     "url": "https://www.plymouth.gov.uk/news/city-council-proposes-naming-city-square-after-plymouth-argyle-pioneer"
+    },
+    {
+     "label": "Plymouth City Council — New name proposed for city centre square",
+     "url": "https://www.plymouth.gov.uk/news/new-name-proposed-city-centre-square"
     }
    ],
    "connections": [
@@ -102,7 +126,76 @@
      "type": "finance",
      "label": "London investors"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "William Hawkins",
+     "relation": "father",
+     "years": "c.1495–1554/55",
+     "note": "Plymouth shipowner, merchant, mayor and MP who sailed to the Guinea coast and on to Brazil c.1528–32, passing his ships, trading networks and Atlantic know-how to his sons.",
+     "basis": "documented",
+     "id": "william-hawkins-plymouth"
+    },
+    {
+     "name": "William Hawkins the younger",
+     "relation": "brother",
+     "years": "d.1589",
+     "note": "Elder son of William Hawkins who carried on the family's Plymouth shipping business, the base from which John organised his voyages.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Benjamin Gonson",
+     "relation": "father-in-law",
+     "years": "d.1577",
+     "note": "Treasurer of the Navy whose daughter Katherine married Hawkins c.1559; Gonson and his circle helped back and supply the 1562 slaving voyage, and Hawkins later succeeded to his Treasurership (1578).",
+     "basis": "documented"
+    },
+    {
+     "name": "Katherine Gonson",
+     "relation": "spouse",
+     "years": "m. c.1559",
+     "note": "Daughter of Benjamin Gonson; the marriage tied Hawkins to the Navy Board and to London naval and mercantile investors.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lionel Duckett",
+     "relation": "backer",
+     "years": "c.1511–1587",
+     "note": "Wealthy London mercer (later Lord Mayor) who subscribed to Hawkins's 1562 voyage, part of the City syndicate that financed the first English slaving expeditions.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir William Wynter",
+     "relation": "backer",
+     "years": "c.1521–1589",
+     "note": "Senior naval officer and administrator described as a contributor and 'adventurer' in the 1562 syndicate alongside Gonson and Duckett.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth I",
+     "relation": "royal investor",
+     "years": "1533–1603",
+     "note": "Lent royal ships, including the Jesus of Lübeck, to the 1564 and 1567 voyages in return for a share of profits.",
+     "basis": "documented",
+     "id": "elizabeth-i"
+    },
+    {
+     "name": "Francis Drake",
+     "relation": "kinsman",
+     "years": "c.1540–1596",
+     "note": "Younger relative who learned his seamanship on Hawkins's slaving voyages and commanded the Judith in 1567–68.",
+     "basis": "documented",
+     "id": "francis-drake"
+    },
+    {
+     "name": "Sir Richard Hawkins",
+     "relation": "son",
+     "years": "c.1562–1622",
+     "note": "Hawkins's only son, a naval commander captured by the Spanish off Peru in 1594; John died at sea in 1595 on an expedition that partly aimed to secure his release.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Hawkins's 1565 coat of arms, which shows an enslaved African man, remains the clearest symbol of the family's origins in the trade. In Plymouth, the council moved in 2020 to rename Sir John Hawkins Square (first proposing to honour the Black Plymouth Argyle footballer Jack Leslie, later proposing 'Justice Square'); a court challenge to the renaming failed."
   },
   {
    "id": "francis-drake",
@@ -154,6 +247,18 @@
     {
      "label": "Encyclopedia.com — Hawkins, John",
      "url": "https://www.encyclopedia.com/humanities/news-wires-white-papers-and-books/hawkins-john"
+    },
+    {
+     "label": "National Trust — History of Buckland Abbey",
+     "url": "https://www.nationaltrust.org.uk/visit/devon/buckland-abbey/history-of-buckland-abbey"
+    },
+    {
+     "label": "Wikipedia — Drake baronets",
+     "url": "https://en.wikipedia.org/wiki/Drake_baronets"
+    },
+    {
+     "label": "Wikipedia — Buckland Abbey",
+     "url": "https://en.wikipedia.org/wiki/Buckland_Abbey"
     }
    ],
    "connections": [
@@ -177,7 +282,68 @@
      "type": "political",
      "label": "raided Spanish colonies"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Edmund Drake",
+     "relation": "father",
+     "years": "c.1518–1566",
+     "note": "Devon Protestant preacher and naval chaplain; the family's poverty led young Drake into the service of his Hawkins kin at sea.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Hawkins",
+     "relation": "kinsman & mentor",
+     "years": "1532–1595",
+     "note": "Older relative on whose slaving voyages Drake served and gained his first command (the Judith, 1567–68).",
+     "basis": "documented",
+     "id": "john-hawkins"
+    },
+    {
+     "name": "Elizabeth I",
+     "relation": "patron",
+     "years": "1533–1603",
+     "note": "Backed his later privateering and circumnavigation and knighted him in 1581.",
+     "basis": "documented",
+     "id": "elizabeth-i"
+    },
+    {
+     "name": "Mary Newman",
+     "relation": "spouse",
+     "years": "m.1569, d.1583",
+     "note": "First wife; the marriage was childless.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Sydenham",
+     "relation": "spouse",
+     "years": "m.1585",
+     "note": "Second wife, a Somerset heiress; this marriage was also childless.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Drake",
+     "relation": "brother & heir",
+     "years": "d.1606",
+     "note": "Inherited Buckland Abbey, the Devon estate Drake bought with his prize money, because Drake had no children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Francis Drake, 1st Baronet",
+     "relation": "nephew",
+     "years": "1588–1637",
+     "note": "Nephew who held Buckland and was created a baronet in 1622; the baronetcy became dormant or extinct in 1794.",
+     "basis": "documented"
+    },
+    {
+     "name": "Buckland Abbey",
+     "relation": "estate",
+     "years": "1581–1946 in family hands",
+     "note": "Drake's house stayed with his heirs' line until 1946, when it was bought and given to the National Trust.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Drake left no children, so no direct descendants exist; his estate passed through his brother Thomas's line, whose Drake baronetcy lapsed in 1794. Buckland Abbey, bought with his prize money, has belonged to the National Trust since the late 1940s. His statues in Plymouth and Tavistock were the subject of renewed debate in 2020."
   },
   {
    "id": "elizabeth-i",
@@ -229,6 +395,14 @@
     {
      "label": "Wikipedia — Jesus of Lübeck",
      "url": "https://en.wikipedia.org/wiki/Jesus_of_L%C3%BCbeck"
+    },
+    {
+     "label": "CBS News — King Charles supports research into monarchy's slavery links",
+     "url": "https://cbsnews.com/news/king-charles-slavery-investigation-monarchy"
+    },
+    {
+     "label": "Wikipedia — William Hawkins (died c. 1554)",
+     "url": "https://en.wikipedia.org/wiki/William_Hawkins_(died_c._1554)"
     }
    ],
    "connections": [
@@ -252,7 +426,55 @@
      "type": "parallel",
      "label": "later royal slave-trade investor"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Henry VIII",
+     "relation": "father",
+     "years": "1491–1547",
+     "note": "Built up the Tudor navy; William Hawkins, father of John, served as an officer on his ships and presented a Brazilian 'king' to him c.1531.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary I",
+     "relation": "half-sister & predecessor",
+     "years": "1516–1558",
+     "note": "Her reign saw early English trading voyages to Guinea that Portugal protested, the backdrop to Elizabeth's later investments.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "John Hawkins",
+     "relation": "venture partner",
+     "years": "1532–1595",
+     "note": "Elizabeth lent royal ships to his 1564 and 1567 slaving voyages in exchange for a share of the profits.",
+     "basis": "documented",
+     "id": "john-hawkins"
+    },
+    {
+     "name": "Francis Drake",
+     "relation": "protégé",
+     "years": "c.1540–1596",
+     "note": "Hawkins's kinsman, whom she later sponsored as a privateer and knighted.",
+     "basis": "documented",
+     "id": "francis-drake"
+    },
+    {
+     "name": "James VI and I",
+     "relation": "successor",
+     "years": "1566–1625",
+     "note": "Succeeded the childless Elizabeth in 1603, bringing in the Stuart dynasty that later chartered the African monopoly companies.",
+     "basis": "documented"
+    },
+    {
+     "name": "James, Duke of York (James II)",
+     "relation": "Stuart descendant",
+     "years": "1633–1701",
+     "note": "Great-grandson of James I, who led the Royal Adventurers (1660) and the Royal African Company (1672), turning royal involvement into a chartered monopoly.",
+     "basis": "documented",
+     "id": "james-duke-of-york"
+    }
+   ],
+   "today": "Elizabeth died childless in 1603 and the Tudor line ended; the Crown passed to the Stuarts. In April 2023 Buckingham Palace said King Charles III supports independent research into the British monarchy's historic links with the transatlantic slave trade (a PhD co-sponsored by Historic Royal Palaces), with access to the Royal Collection and Royal Archives."
   },
   {
    "id": "james-duke-of-york",
@@ -314,6 +536,14 @@
     {
      "label": "Wikipedia — Royal African Company",
      "url": "https://en.wikipedia.org/wiki/Royal_African_Company"
+    },
+    {
+     "label": "Wikipedia — Company of Royal Adventurers Trading to Africa",
+     "url": "https://en.wikipedia.org/wiki/Company_of_Royal_Adventurers_Trading_to_Africa"
+    },
+    {
+     "label": "CBS News — King Charles supports research into monarchy's slavery links",
+     "url": "https://cbsnews.com/news/king-charles-slavery-investigation-monarchy"
     }
    ],
    "connections": [
@@ -347,7 +577,63 @@
      "type": "parallel",
      "label": "earlier royal investor"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Charles I",
+     "relation": "father",
+     "years": "1600–1649",
+     "note": "Executed in 1649; his sons' return at the Restoration (1660) began direct Stuart sponsorship of the African trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles II",
+     "relation": "brother",
+     "years": "1630–1685",
+     "note": "Granted the 1660 and 1663 charters of the Company of Royal Adventurers and the 1672 charter of the Royal African Company, with James at their head.",
+     "basis": "documented"
+    },
+    {
+     "name": "Company of Royal Adventurers into Africa",
+     "relation": "predecessor firm",
+     "years": "1660–1672",
+     "note": "Stuart-backed monopoly that James oversaw; its 1663 charter explicitly added the trade in enslaved Africans, and it shipped c.27,500 people before collapsing in debt.",
+     "basis": "documented",
+     "id": "company-of-royal-adventurers"
+    },
+    {
+     "name": "Royal African Company",
+     "relation": "company",
+     "years": "1672–1752",
+     "note": "James was governor and largest shareholder until 1688; captives were branded 'DY' for Duke of York.",
+     "basis": "documented",
+     "id": "royal-african-company"
+    },
+    {
+     "name": "Edward Colston",
+     "relation": "colleague",
+     "years": "1636–1721",
+     "note": "RAC member and later deputy governor who in 1689 transferred £1,000 of RAC stock to William III.",
+     "basis": "documented",
+     "id": "edward-colston"
+    },
+    {
+     "name": "William III and Mary II",
+     "relation": "son-in-law & daughter",
+     "years": "r.1689–1702",
+     "note": "Took the throne when James was deposed in 1688; William received RAC stock in 1689, and Parliament opened the trade to private merchants in 1698.",
+     "basis": "documented"
+    },
+    {
+     "name": "Queen Anne",
+     "relation": "daughter",
+     "years": "1665–1714",
+     "note": "Her government won the asiento at Utrecht (1713) and granted it to the South Sea Company, carrying royal patronage of the trade into the 18th century.",
+     "basis": "documented",
+     "id": "south-sea-company"
+    }
+   ],
+   "today": "James's direct line lost the throne in 1688, but the Crown passed to his daughters Mary II and Anne and then to the Hanoverians, ancestors of today's royal family. In 2023 the Guardian published the 1689 Colston-to-William III RAC share transfer, and Buckingham Palace said King Charles III supports independent research into the monarchy's links to slavery."
   },
   {
    "id": "royal-african-company",
@@ -418,6 +704,18 @@
     {
      "label": "PBS Africans in America — The Royal African Company",
      "url": "https://www.pbs.org/wgbh/aia/part1/1p269.html"
+    },
+    {
+     "label": "Wikipedia — African Company of Merchants",
+     "url": "https://en.wikipedia.org/wiki/African_Company_of_Merchants"
+    },
+    {
+     "label": "The National Archives — Company of Royal Adventurers of England Trading with Africa and successors: Records",
+     "url": "https://discovery-cdn.nationalarchives.gov.uk/details/r/C13807"
+    },
+    {
+     "label": "AIM25 — The Company of Merchants Trading to Africa",
+     "url": "https://atom.aim25.com/index.php/the-company-of-merchants-trading-to-africa-3"
     }
    ],
    "connections": [
@@ -461,7 +759,70 @@
      "type": "trade",
      "label": "Gold Coast trading partners"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Charles II",
+     "relation": "founder (charter)",
+     "years": "1630–1685",
+     "note": "Granted the monopoly charters of 1660, 1663 and 1672 to companies headed by his brother.",
+     "basis": "documented"
+    },
+    {
+     "name": "Company of Royal Adventurers into Africa",
+     "relation": "predecessor firm",
+     "years": "1660–1672",
+     "note": "Ruined by debt in the Second Anglo-Dutch War, it surrendered its charter and assets to the new Royal African Company in 1672.",
+     "basis": "documented",
+     "id": "company-of-royal-adventurers"
+    },
+    {
+     "name": "James, Duke of York",
+     "relation": "governor",
+     "years": "1672–1688",
+     "note": "First governor and largest shareholder; captives were branded 'DY'.",
+     "basis": "documented",
+     "id": "james-duke-of-york"
+    },
+    {
+     "name": "Edward Colston",
+     "relation": "deputy governor",
+     "note": "Bristol-born London merchant who sat on the Court of Assistants and served as deputy governor.",
+     "basis": "documented",
+     "id": "edward-colston"
+    },
+    {
+     "name": "William III",
+     "relation": "royal shareholder",
+     "years": "1689",
+     "note": "Received £1,000 of RAC stock from Colston after the 1688 revolution, keeping the Crown tied to the company.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Hayes",
+     "relation": "last sub-governor",
+     "years": "to 1752",
+     "note": "Named in archive catalogues as sub-governor until the company was dissolved and replaced.",
+     "basis": "documented"
+    },
+    {
+     "name": "Company of Merchants Trading to Africa",
+     "relation": "successor",
+     "years": "1750/52–1821",
+     "note": "Regulated (non-joint-stock) company set up by Act of Parliament that took over the RAC's forts, including Cape Coast Castle.",
+     "basis": "documented",
+     "id": "company-of-merchants-trading-to-africa"
+    },
+    {
+     "name": "British Crown / Gold Coast colony",
+     "relation": "successor",
+     "years": "1821–",
+     "note": "When the Company of Merchants was abolished in 1821 its forts went to the Crown; Cape Coast Castle later became seat of the Gold Coast colonial government (1844).",
+     "basis": "documented",
+     "id": "cape-coast-castle"
+    }
+   ],
+   "today": "The company has no corporate successor; its assets passed via the Company of Merchants to the Crown in 1821. Its records, held at The National Archives (Kew), are a major source for historians. The monarchy's historic RAC links are part of independent research that King Charles III said in 2023 he supports."
   },
   {
    "id": "edward-colston",
@@ -524,6 +885,26 @@
     {
      "label": "DJ Mag — Colston Hall officially renamed Bristol Beacon",
      "url": "https://djmag.com/news/bristol-venue-colston-hall-officially-renamed-bristol-beacon"
+    },
+    {
+     "label": "Wikipedia — Edward Colston",
+     "url": "https://en.wikipedia.org/wiki/Edward_Colston"
+    },
+    {
+     "label": "Wikipedia — Edward Colston (MP for Wells)",
+     "url": "https://en.wikipedia.org/wiki/Edward_Colston_(MP_for_Wells)"
+    },
+    {
+     "label": "Society of Merchant Venturers — SMV's historical links to Edward Colston",
+     "url": "https://merchantventurers.com/about-us/history/edward-colston"
+    },
+    {
+     "label": "Bristol24/7 — School founded by Edward Colston announces new name",
+     "url": "https://www.bristol247.com/news-and-features/news/school-founded-by-edward-colston-announces-new-name/"
+    },
+    {
+     "label": "Wikipedia — Collegiate School, Bristol",
+     "url": "https://en.wikipedia.org/wiki/Collegiate_School,_Bristol"
     }
    ],
    "connections": [
@@ -552,7 +933,68 @@
      "type": "legacy",
      "label": "benefactor of Queen Anne's Bounty"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "William Colston",
+     "relation": "father",
+     "years": "1608–1681",
+     "note": "Royalist Bristol merchant and Merchant Venturer who traded wine, oil and fruit with Spain and Portugal and trained his eldest son Edward in the overseas trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Colston siblings",
+     "relation": "siblings",
+     "years": "17th century",
+     "note": "Edward was the eldest of at least eleven children; his siblings' children became his heirs because he never married.",
+     "basis": "documented"
+    },
+    {
+     "name": "Royal African Company",
+     "relation": "company",
+     "years": "1680–1692",
+     "note": "Colston held stock and sat on the governing court, serving as deputy governor in 1689–90, while the company shipped tens of thousands of Africans.",
+     "basis": "documented",
+     "id": "royal-african-company"
+    },
+    {
+     "name": "Society of Merchant Venturers",
+     "relation": "trustee",
+     "years": "1709/10–2020s",
+     "note": "Colston appointed the Society as trustees of his Bristol foundations, notably Colston's Hospital school, so it administered his legacy for three centuries.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Colston (MP for Wells)",
+     "relation": "nephew",
+     "years": "after 1672–1719",
+     "note": "On the nephew's 1704 marriage to Mary De Bert the unmarried Colston treated him as heir and settled a considerable amount of land on him; he died before his uncle.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Hayman (Mrs Thomas Edwards)",
+     "relation": "niece / heir",
+     "years": "early 18th century",
+     "note": "A niece married to Thomas Edwards, later MP for Bristol, and described as Colston's eventual heir to his remaining private estate.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Colston's School / Collegiate School",
+     "relation": "endowment",
+     "years": "1710–present",
+     "note": "The hospital school he founded in 1710 kept his name until it became Collegiate School, Bristol in September 2022.",
+     "basis": "documented"
+    },
+    {
+     "name": "Statue of Edward Colston",
+     "relation": "memorial",
+     "years": "1895–2020",
+     "note": "The Victorian statue was toppled into Bristol Harbour on 7 June 2020 and is now displayed at M Shed.",
+     "basis": "documented",
+     "id": "statue-of-edward-colston"
+    }
+   ],
+   "today": "Colston had no children, and no publicly documented descendants have been traced; his private estate passed to nephews and nieces and most of his fortune went into Bristol and London charities. Since 2020 his name has been removed from Bristol institutions: Colston Hall became Bristol Beacon (2020), Colston's Girls' School became Montpelier High, Colston's School became Collegiate School (2022), and the Colston Society disbanded in 2020. The Society of Merchant Venturers, his trustees, has published an account of its historical links to him."
   },
   {
    "id": "south-sea-company",
@@ -650,7 +1092,77 @@
      "type": "political",
      "label": "rival in public-debt finance"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Robert Harley, 1st Earl of Oxford",
+     "relation": "founder & first governor",
+     "years": "1661–1724",
+     "note": "As Chancellor of the Exchequer he devised the company in 1711 to take over government debt, becoming its first governor.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Blunt",
+     "relation": "founder & director",
+     "years": "1665–1733",
+     "note": "Financier who co-designed the scheme and drove the 1719–20 debt-for-equity conversions behind the Bubble.",
+     "basis": "documented"
+    },
+    {
+     "name": "The Spanish Asiento",
+     "relation": "contract",
+     "years": "1713–1750",
+     "note": "Won under the Treaty of Utrecht: a 30-year monopoly on supplying enslaved Africans to Spanish America, under which the company shipped over 34,000 people.",
+     "basis": "documented",
+     "id": "spanish-asiento"
+    },
+    {
+     "name": "Royal African Company",
+     "relation": "supplier",
+     "years": "1713–1730s",
+     "note": "Sold captives to the company on the African coast and in Jamaica for re-export to Spanish ports.",
+     "basis": "documented",
+     "id": "royal-african-company"
+    },
+    {
+     "name": "George I",
+     "relation": "governor",
+     "years": "1718–1727",
+     "note": "The king became the company's governor in 1718 (the Prince of Wales in 1715); later monarchs held the honorary post.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Robert Walpole",
+     "relation": "restructurer",
+     "years": "1676–1745",
+     "note": "After the 1720 crash he removed the directors and divided much of the company's capital with the Bank of England and East India Company.",
+     "basis": "documented",
+     "id": "bank-of-england"
+    },
+    {
+     "name": "Treaty of Madrid",
+     "relation": "end of asiento",
+     "years": "1750",
+     "note": "Britain surrendered the asiento to Spain for compensation, ending the company's slave trading.",
+     "basis": "documented"
+    },
+    {
+     "name": "National Debt (consolidated stock)",
+     "relation": "successor",
+     "years": "1853",
+     "note": "The South Sea Company's Arrangement Act 1853 wound up the company and reconsolidated its remaining debt into government stock.",
+     "basis": "documented"
+    },
+    {
+     "name": "Church Commissioners (Queen Anne's Bounty)",
+     "relation": "shareholder's heir",
+     "years": "1704–present",
+     "note": "Queen Anne's Bounty invested in South Sea stock; its successor, the Church Commissioners, made this the basis of its 2023 £100m fund.",
+     "basis": "documented",
+     "id": "church-commissioners-fund-2023"
+    }
+   ],
+   "today": "The company no longer exists; its remaining debt was folded into the national debt in 1853. Its best-known modern legacy is the Church Commissioners' 2023 decision, after tracing Queen Anne's Bounty's South Sea investments, to set aside £100m for an impact investment fund."
   },
   {
    "id": "lascelles-family",
@@ -722,6 +1234,26 @@
     {
      "label": "UCL LBS — Claim, Belle estate, Barbados",
      "url": "https://www.ucl.ac.uk/lbs/claim/view/5922"
+    },
+    {
+     "label": "Wikipedia — Henry Lascelles (1690–1753)",
+     "url": "https://en.wikipedia.org/wiki/Henry_Lascelles_(1690%E2%80%931753)"
+    },
+    {
+     "label": "UCL LBS — Henry Lascelles",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/2146667583"
+    },
+    {
+     "label": "UCL LBS — Edwin Lascelles, 1st Baron Harewood",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/2146638741"
+    },
+    {
+     "label": "Harewood House Trust — Heirs of Slavery",
+     "url": "https://harewood.org/stories/heirs-of-slavery/"
+    },
+    {
+     "label": "Wikipedia — Harewood House",
+     "url": "https://en.wikipedia.org/wiki/Harewood_House"
     }
    ],
    "connections": [
@@ -755,7 +1287,84 @@
      "type": "trade",
      "label": "London sugar house"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Daniel Lascelles",
+     "relation": "father",
+     "years": "1655–1734",
+     "note": "Yorkshire gentry father of Henry, George and Edward Lascelles, whose sons took the family into Barbados customs, sugar and slaving.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Lascelles",
+     "relation": "founder",
+     "years": "1690–1753",
+     "note": "Barbados Collector of Customs from 1714/15, slave-trade investor, lender to planters and East India Company director who bought Harewood in 1739 and left a fortune to his sons.",
+     "basis": "documented"
+    },
+    {
+     "name": "George and Edward Lascelles",
+     "relation": "brothers",
+     "years": "d. 1729 (George)",
+     "note": "George ran the London end of the brothers' sugar commission house while Edward worked with Henry in Barbados.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lascelles & Maxwell",
+     "relation": "family firm",
+     "years": "1743–1763",
+     "note": "London sugar-factoring house formed when George Maxwell joined Henry Lascelles; it lent to planters and foreclosed on estates and enslaved people.",
+     "basis": "documented",
+     "id": "lascelles-and-maxwell"
+    },
+    {
+     "name": "Edwin Lascelles, 1st Baron Harewood",
+     "relation": "son",
+     "years": "1713–1795",
+     "note": "Inherited slave property from his father in 1753 and his brother in 1784, and built Harewood House (1759–71).",
+     "basis": "documented",
+     "id": "harewood-house"
+    },
+    {
+     "name": "Daniel Lascelles",
+     "relation": "son",
+     "years": "1714–1784",
+     "note": "London sugar factor and MP for Northallerton who ran the family firm; his property passed to Edwin as he had no legitimate children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Lascelles, 1st Earl of Harewood",
+     "relation": "cousin / heir",
+     "years": "1740–1820",
+     "note": "Edwin's cousin and heir, who received Harewood and the Caribbean estates and was created Earl of Harewood in 1812.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Lascelles, 2nd Earl of Harewood",
+     "relation": "son",
+     "years": "1767–1841",
+     "note": "Received about £26,309 in compensation for enslaved people on the family's estates after 1833.",
+     "basis": "documented",
+     "id": "slavery-abolition-act-1833"
+    },
+    {
+     "name": "Henry Lascelles, 6th Earl, and Princess Mary",
+     "relation": "spouse",
+     "years": "1922",
+     "note": "Viscount Lascelles married Princess Mary, the only daughter of George V, linking Harewood to the royal family.",
+     "basis": "documented"
+    },
+    {
+     "name": "David Lascelles, 8th Earl of Harewood",
+     "relation": "descendant",
+     "years": "b. 1950",
+     "note": "Current earl, who has spoken publicly about the family's slavery wealth and is a member of the Heirs of Slavery group.",
+     "basis": "documented",
+     "id": "heirs-of-slavery"
+    }
+   ],
+   "today": "The earldom of Harewood continues; David Lascelles, 8th Earl, has spoken publicly about the family's Caribbean slavery wealth since the 2000s and is part of Heirs of Slavery (founded 2023). Harewood House is run by the Harewood House Trust, an educational charity established in 1986, which says the house was built from the profits of the transatlantic trade in enslaved people and runs projects about that history. The family sold its last Caribbean estate in 1975, and its West Indian papers are held for research at the University of York's Borthwick Institute."
   },
   {
    "id": "beckford-family",
@@ -818,6 +1427,22 @@
     {
      "label": "National Trust for Scotland — William Beckford (1760–1844), part one",
      "url": "https://www.nts.org.uk/stories/william-beckford-1760-1844-part-one"
+    },
+    {
+     "label": "UCL LBS — Alderman William Beckford",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/2146640587"
+    },
+    {
+     "label": "Wikipedia — Peter Beckford (junior)",
+     "url": "https://en.wikipedia.org/wiki/Peter_Beckford_(junior)"
+    },
+    {
+     "label": "Wikipedia — Beckford family",
+     "url": "https://en.wikipedia.org/wiki/Beckford_family"
+    },
+    {
+     "label": "Beckford's Tower — History",
+     "url": "https://beckfordstower.org.uk/about/history/"
     }
    ],
    "connections": [
@@ -841,7 +1466,59 @@
      "type": "parallel",
      "label": "planter class compensated"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Peter Beckford",
+     "relation": "founder",
+     "years": "c.1643–1710",
+     "note": "Arrived in Jamaica in 1662, acquired land and enslaved people, sat in the Assembly and served as acting governor, founding the dynasty.",
+     "basis": "documented"
+    },
+    {
+     "name": "Col. Peter Beckford",
+     "relation": "son",
+     "years": "1673–1735",
+     "note": "Speaker of the Jamaica Assembly and sugar planter who greatly enlarged the family's estates, which passed to his sons.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alderman William Beckford",
+     "relation": "grandson",
+     "years": "1709–1770",
+     "note": "Born in Jamaica, he inherited the sugar estates and became an MP, twice Lord Mayor of London and a leader of the West India interest.",
+     "basis": "documented"
+    },
+    {
+     "name": "Julines Beckford",
+     "relation": "brother",
+     "years": "c.1717–c.1764",
+     "note": "Brother of the Alderman whose line, through a later Peter Beckford's marriage to Louisa Pitt, led to the Pitt-Rivers barons.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Thomas Beckford",
+     "relation": "son",
+     "years": "1760–1844",
+     "note": "The Alderman's only legitimate child, who inherited the Jamaican fortune and spent it on Fonthill Abbey, later Beckford's Tower in Bath.",
+     "basis": "documented"
+    },
+    {
+     "name": "Susan Euphemia Beckford, Duchess of Hamilton",
+     "relation": "daughter",
+     "years": "1786–1859",
+     "note": "Married the 10th Duke of Hamilton in 1810 and inherited her father's Jamaica-based fortune and collections, giving Beckford's Tower to Bath in 1848.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dukes of Hamilton",
+     "relation": "descendants",
+     "years": "19th century",
+     "note": "Susan's son became the 11th Duke, and Beckford collections were later dispersed with the Hamilton Palace sales.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented living descendants who have spoken about the link have been traced. Much of the fortune was spent on Fonthill Abbey, and William Thomas Beckford's estate and collections passed to his daughter Susan, Duchess of Hamilton. Beckford's Tower in Bath, which she gave to the parish, is now a museum, and the Alderman's statue still stands in London's Guildhall."
   },
   {
    "id": "hibbert-family",
@@ -904,6 +1581,22 @@
     {
      "label": "Museum of London Docklands — Slavery, Culture and Collecting",
      "url": "https://www.museumoflondon.org.uk/museum-london-docklands/whats-on/exhibitions/slavery-culture-and-collecting"
+    },
+    {
+     "label": "UCL LBS — Robert Hibbert junior",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/14956"
+    },
+    {
+     "label": "UCL LBS — Thomas Hibbert senior",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/2146642349"
+    },
+    {
+     "label": "Jamaica Gleaner — The Hibbert Trust and the debt to Jamaica",
+     "url": "https://jamaica-gleaner.com/article/focus/20240505/hibbert-trust-and-debt-jamaica"
+    },
+    {
+     "label": "The Hibbert Trust — History",
+     "url": "https://www.thehibberttrust.org.uk/about-us/history"
     }
    ],
    "connections": [
@@ -932,7 +1625,60 @@
      "type": "legacy",
      "label": "documented in LBS"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Hibbert senior",
+     "relation": "founder",
+     "years": "1710–1780",
+     "note": "Manchester-born merchant who settled in Kingston in 1734 as a slave factor selling newly arrived Africans, built Hibbert House and founded the Kingston firm.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Hibbert",
+     "relation": "brother",
+     "years": "1717–1784",
+     "note": "Thomas's brother and father of George Hibbert, linking the Kingston house to the family's Manchester and London businesses.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Hibbert",
+     "relation": "brother",
+     "years": "1732–1769",
+     "note": "Another brother active in Jamaica, father of Robert Hibbert junior.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Hibbert",
+     "relation": "nephew",
+     "years": "1757–1837",
+     "note": "Senior partner of the London firms (Hibbert, Purrier & Horton, later G. W. S. Hibbert & Co.), chairman of the West India Dock Company and Agent for Jamaica; associated with c. 20 compensation claims.",
+     "basis": "documented",
+     "id": "west-india-docks"
+    },
+    {
+     "name": "Robert Hibbert of Chalfont Park and Birtles Hall",
+     "relation": "nephew",
+     "years": "1750–1835",
+     "note": "George's brother and Jamaica merchant who inherited a share of the family's Jamaican business and estates.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Hibbert junior",
+     "relation": "nephew",
+     "years": "1769–1849",
+     "note": "Joined his uncle Thomas's Kingston firm in 1791, owned the Georgia estate in Hanover, and in 1847 used his fortune to found the Hibbert Trust.",
+     "basis": "documented"
+    },
+    {
+     "name": "The Hibbert Trust",
+     "relation": "bequest",
+     "years": "1847–present",
+     "note": "Unitarian theological charity founded with plantation wealth; its trustees acknowledged the slavery link in 2020 and set up a reparative fund.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Hibbert Trust, founded by Robert Hibbert junior, still awards grants; its trustees (none of them family members) acknowledged in 2020 that its endowment came from slavery and in 2024 discussed a reparative fund in a Jamaica Gleaner interview. Hibbert House in Kingston is now Headquarters House, home of the National Trust of Jamaica, and the West India Docks site houses the Museum of London Docklands. No publicly documented descendants who have spoken about the link have been traced."
   },
   {
    "id": "gladstone-family",
@@ -999,6 +1745,22 @@
     {
      "label": "ITV News — William Gladstone's descendants to apologise",
      "url": "https://www.itv.com/news/2023-08-19/william-gladstones-descendants-to-apologise-for-familys-part-in-slave-trade"
+    },
+    {
+     "label": "UCL LBS — John Gladstone",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/8961"
+    },
+    {
+     "label": "Gladstone's Library — Statement regarding the Gladstone family Guyana apology",
+     "url": "https://gladstoneslibrary.org/news/statement-from-gladstones-library-regarding-the-gladstone-family-guyana-apology"
+    },
+    {
+     "label": "Deeside.com — Hawarden Estate: descendants of William Gladstone address family's ties to slavery",
+     "url": "https://www.deeside.com/hawarden-estate-descendants-of-william-gladstone-address-familys-ties-to-slavery-in-public-apology/"
+    },
+    {
+     "label": "University of Nottingham Manuscripts — William Ewart Gladstone (1809–1898)",
+     "url": "https://nottingham.ac.uk/manuscriptsandspecialcollections/learning/biographies/williamewartgladstone(1809-1898).aspx"
     }
    ],
    "connections": [
@@ -1032,7 +1794,76 @@
      "type": "parallel",
      "label": "2023 family apology"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Gladstones",
+     "relation": "father",
+     "years": "18th century",
+     "note": "Leith merchant whose son John moved to Liverpool in 1786 to work in the grain trade.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Sir John Gladstone",
+     "relation": "founder",
+     "years": "1764–1851",
+     "note": "Liverpool merchant who from 1803 bought sugar and cotton estates and enslaved people in Demerara and Jamaica, including Vreed-en-Hoop and Success.",
+     "basis": "documented"
+    },
+    {
+     "name": "Gladstone, Grant & Wilson",
+     "relation": "firm",
+     "years": "19th century",
+     "note": "West India and general merchant house of which John was senior partner; he was also a director of the Royal Bank of Scotland.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anne Mackenzie Robertson",
+     "relation": "spouse",
+     "years": "1771/2–1835",
+     "note": "John's second wife and mother of his sons Thomas, Robertson, John Neilson and William Ewart.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas, Robertson and John Neilson Gladstone",
+     "relation": "sons",
+     "years": "1804–1889 / 1805–1875 / 1807–1863",
+     "note": "Elder sons who carried on the family's business and political interests; Thomas and John Neilson became MPs.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Ewart Gladstone",
+     "relation": "son",
+     "years": "1809–1898",
+     "note": "Defended his father's Demerara plantations in his 1833 maiden speech and supported compensation; later four times Prime Minister.",
+     "basis": "documented",
+     "id": "william-ewart-gladstone"
+    },
+    {
+     "name": "Slavery compensation",
+     "relation": "compensation",
+     "years": "1835–1836",
+     "note": "John Gladstone was among the largest recipients of the £20m compensation, at roughly £93,000–£106,000 according to different counts of his claims.",
+     "basis": "documented",
+     "id": "slavery-abolition-act-1833"
+    },
+    {
+     "name": "Gladstone's Library and Hawarden",
+     "relation": "legacy",
+     "years": "1890s–present",
+     "note": "W. E. Gladstone founded the residential library at Hawarden; it is now an independent charity separate from the family's Hawarden Estate.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles (Charlie) Gladstone",
+     "relation": "descendant",
+     "years": "living",
+     "note": "Great-great-great-grandson of John, who runs the Hawarden Estate, is president of Gladstone's Library's trustees, and led the family's 2023 apology in Guyana.",
+     "basis": "documented",
+     "id": "heirs-of-slavery"
+    }
+   ],
+   "today": "In August 2023 Charles Gladstone and five other descendants travelled to Guyana, on the 200th anniversary of the 1823 Demerara revolt that began on a Gladstone estate, and apologised at the University of Guyana. They acknowledged John Gladstone's role in bringing indentured labourers to Guyana and pledged money for research and projects, reported as a £100,000 grant. Gladstone's Library at Hawarden is an independent charity that welcomed the apology and funds scholarships on enslavement and colonialism."
   },
   {
    "id": "codrington-family",
@@ -1089,6 +1920,18 @@
     {
      "label": "Wikipedia — Codrington Plantations",
      "url": "https://en.wikipedia.org/wiki/Codrington_Plantations"
+    },
+    {
+     "label": "UCL LBS — Sir Christopher Bethell Codrington",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/470"
+    },
+    {
+     "label": "Gloucester Cathedral — Christopher William Codrington",
+     "url": "https://gloucestercathedral.org.uk/cathedral/heritage/connected-lives/christopher-william-codrington"
+    },
+    {
+     "label": "Wotton Heritage — The Codringtons in Gloucester and Antigua",
+     "url": "https://www.wottonheritage.com/the-codringtons-in-gloucester-antigua-e53"
     }
    ],
    "connections": [
@@ -1117,7 +1960,76 @@
      "type": "legacy",
      "label": "documented in LBS"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Christopher Codrington the elder",
+     "relation": "founder",
+     "years": "c.1640–1698",
+     "note": "Barbados planter who moved to Antigua, founded Betty's Hope and leased Barbuda, becoming Governor of the Leeward Islands.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christopher Codrington",
+     "relation": "son",
+     "years": "1668–1710",
+     "note": "Governor of the Leeward Islands and fellow of All Souls who inherited the Antigua estates and Barbuda lease.",
+     "basis": "documented"
+    },
+    {
+     "name": "Society for the Propagation of the Gospel",
+     "relation": "bequest",
+     "years": "1710",
+     "note": "His will left two Barbados plantations and their enslaved workers to the SPG, which ran them until emancipation.",
+     "basis": "documented",
+     "id": "codrington-plantations-barbados"
+    },
+    {
+     "name": "All Souls College, Oxford",
+     "relation": "bequest",
+     "years": "1710",
+     "note": "He left £10,000 and his books to build the library long known as the Codrington Library.",
+     "basis": "documented",
+     "id": "all-souls-codrington-library"
+    },
+    {
+     "name": "Sir William Codrington, 1st Baronet",
+     "relation": "cousin / heir",
+     "years": "d. 1738",
+     "note": "First cousin who received most of Christopher's private estate, including Betty's Hope and the enslaved people there, and held Dodington.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir William Codrington, 2nd Baronet",
+     "relation": "son",
+     "years": "1719–1792",
+     "note": "MP for Minehead who passed over his own son and left the Antiguan estates to his nephew.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christopher Bethell Codrington",
+     "relation": "nephew / heir",
+     "years": "1764–1843",
+     "note": "Inherited the Antigua plantations and Barbuda in 1792, built Dodington Park (c. £68,000), and received about £31,000 in compensation for Antigua and Tobago claims.",
+     "basis": "documented",
+     "id": "slavery-abolition-act-1833"
+    },
+    {
+     "name": "Christopher William Codrington",
+     "relation": "son",
+     "years": "1805–1864",
+     "note": "Heir to Dodington and the Antigua estates and an MP; Gloucester Cathedral flags his memorial chapel as linked to transatlantic slavery.",
+     "basis": "documented"
+    },
+    {
+     "name": "Betty's Hope sale",
+     "relation": "estate",
+     "years": "1944",
+     "note": "The family kept its Antigua plantations until they were sold in 1944.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The family held Betty's Hope for about 270 years before selling the Antigua plantations in 1944; Betty's Hope is now a heritage site and Barbuda's main town is still named Codrington. Codrington College in Barbados, on the bequeathed estates, remains an Anglican seminary. In 2020 All Souls renamed its library, added a memorial and pledged £100,000 to Codrington College. No publicly documented living descendants who have spoken about the link have been traced."
   },
   {
    "id": "trevelyan-family",
@@ -1178,6 +2090,22 @@
     {
      "label": "Antigua Observer — Trevelyan family's slavery apology seen as significant move",
      "url": "https://antiguaobserver.com/?p=256311"
+    },
+    {
+     "label": "UCL LBS — Rev. George Trevelyan",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/45685"
+    },
+    {
+     "label": "UCL LBS — Walter Trevelyan",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/45683"
+    },
+    {
+     "label": "UCL LBS — Rev. John Thomas Trevelyan",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/45684"
+    },
+    {
+     "label": "VI Consortium — Descendant of slave-owning family apologizes to Grenada, contributes $100,000",
+     "url": "https://viconsortium.com/vi-caribbean/virgin-islands-british-descendant-of-slave-owning-family-apologizes-to-grenada-contributes-100000-to-community-economic-development-fund"
     }
    ],
    "connections": [
@@ -1201,7 +2129,68 @@
      "type": "parallel",
      "label": "2023 apology"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Simond family (Louisa's father)",
+     "relation": "father-in-law",
+     "years": "18th century",
+     "note": "London merchant whose partnership shares in Grenada sugar plantations passed into the Trevelyan family through his daughter Louisa.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Sir John Trevelyan, 4th Baronet of Nettlecombe",
+     "relation": "founder",
+     "years": "m. 1757",
+     "note": "Somerset baronet who acquired the Grenada property through his 1757 marriage to Louisa Simond and left it to his younger sons.",
+     "basis": "documented"
+    },
+    {
+     "name": "Louisa Simond",
+     "relation": "spouse",
+     "years": "m. 1757",
+     "note": "Brought the Grenada plantation interests (including the estate later called 'Simon') into the family.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Trevelyan, Archdeacon of Taunton",
+     "relation": "son",
+     "years": "1764–1827",
+     "note": "Younger son and legatee of the Grenada property under Sir John's will.",
+     "basis": "documented"
+    },
+    {
+     "name": "Rev. Walter Trevelyan",
+     "relation": "son",
+     "years": "d. c.1830",
+     "note": "Younger son who inherited a share of the Grenada estates, which passed to his own son Col. Walter Trevelyan (d. 1854).",
+     "basis": "documented"
+    },
+    {
+     "name": "Rev. George Trevelyan",
+     "relation": "grandson",
+     "years": "c.1796–1871",
+     "note": "Awardee with relatives on six Grenada claims (Beausejour, Tempe, Simon, Requin, Sagesse and one other) totalling about £27,000.",
+     "basis": "documented",
+     "id": "slavery-abolition-act-1833"
+    },
+    {
+     "name": "Sir Charles Edward Trevelyan",
+     "relation": "grandson",
+     "years": "1807–1886",
+     "note": "Brother of Rev. George and later senior civil servant, father of the historian George Otto Trevelyan and grandfather of G. M. Trevelyan.",
+     "basis": "documented"
+    },
+    {
+     "name": "Laura Trevelyan",
+     "relation": "descendant",
+     "years": "living",
+     "note": "Former BBC journalist who researched the family's Grenada holdings, led the 2023 apology and co-founded Heirs of Slavery.",
+     "basis": "documented",
+     "id": "heirs-of-slavery"
+    }
+   ],
+   "today": "On 27 February 2023 Laura Trevelyan and other family members apologised in Grenada for their ancestors' ownership of more than 1,000 enslaved people on six plantations and gave £100,000; reports variously describe the money as going to a community economic development fund and a reparations research fund linked to the University of the West Indies. She left the BBC to campaign on reparations and co-founded Heirs of Slavery in 2023. The family's best-known later members were the historians Sir George Otto Trevelyan and G. M. Trevelyan."
   },
   {
    "id": "richard-oswald",
@@ -1262,6 +2251,22 @@
     {
      "label": "University of Edinburgh — Richard Oswald and Bunce Island, Sierra Leone",
      "url": "https://blogs.ed.ac.uk/managingimperiallegacies/2020/06/22/richard-oswald-and-bunce-island-sierra-leone/"
+    },
+    {
+     "label": "UCL LBS — Richard Alexander Oswald",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/46072"
+    },
+    {
+     "label": "South Ayrshire Council — Oswald Road, Court, Lane and Place street name story",
+     "url": "https://south-ayrshire.gov.uk/article/26638/Oswald-Road-Court-Lane-and-Place-also-Auchincruive-Avenue-and-Oswald-Drive-Prestwick"
+    },
+    {
+     "label": "Glasgow Life — Inheritance and Privilege: Alexander Oswald of Changue",
+     "url": "https://www.glasgowlife.org.uk/museums/legacies-of-slavery-and-empire/inheritance-and-privilege-alexander-oswald-of-changue"
+    },
+    {
+     "label": "Wikipedia — Bunce Island",
+     "url": "https://en.wikipedia.org/wiki/Bunce_Island"
     }
    ],
    "connections": [
@@ -1290,7 +2295,62 @@
      "type": "trade",
      "label": "Sherbro-area trading partners"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Richard Oswald of Scotstoun and Alexander Oswald",
+     "relation": "mentors",
+     "years": "1687–1763 / 1694–1766",
+     "note": "Glasgow merchant cousins to whom Oswald was apprenticed at about 20; he worked as their factor in America and the Caribbean and became a partner in 1741.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Ramsay",
+     "relation": "spouse",
+     "years": "1719–1788",
+     "note": "Daughter of merchant Alexander Ramsay, raised in Jamaica; on their 1750 marriage she brought property in Jamaica and British North America.",
+     "basis": "documented"
+    },
+    {
+     "name": "Grant, Oswald & Co.",
+     "relation": "firm",
+     "years": "1748–1784",
+     "note": "London partnership with Alexander Grant, Augustus and John Boyd, John Mill and John Sargent that bought and rebuilt Bunce Island as a slave-trading depot.",
+     "basis": "documented",
+     "id": "grant-oswald-and-co"
+    },
+    {
+     "name": "Henry Laurens",
+     "relation": "agent",
+     "years": "1750s–1770s",
+     "note": "Charleston merchant who sold captives shipped from Bunce Island on commission.",
+     "basis": "documented",
+     "id": "henry-laurens"
+    },
+    {
+     "name": "John and Alexander Anderson",
+     "relation": "nephews",
+     "years": "1784–1785",
+     "note": "Nephews with interests on Bunce Island who became his executors; the island was conveyed to their firm in 1785.",
+     "basis": "documented",
+     "id": "bunce-island"
+    },
+    {
+     "name": "George Oswald",
+     "relation": "nephew / heir",
+     "years": "1735–1819",
+     "note": "Glasgow tobacco merchant, son of Oswald's elder brother James, who inherited Auchincruive.",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Alexander Oswald",
+     "relation": "great-nephew",
+     "years": "1771–1841",
+     "note": "George's son, MP for Ayrshire, who held Auchincruive and shared Jamaican compensation through his wife's family.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Oswald had no children with his wife, and no publicly documented living descendants who have spoken about the link have been traced; his estates passed to nephews and a great-nephew. Auchincruive House in Ayrshire survives as Oswald Hall, and South Ayrshire street names still record the family. Bunce Island is a protected heritage site in Sierra Leone and a place of pilgrimage for Gullah Geechee descendants."
   },
   {
    "id": "tarleton-family",
@@ -1348,6 +2408,18 @@
     {
      "label": "Wikipedia — Banastre Tarleton",
      "url": "https://en.wikipedia.org/wiki/Banastre_Tarleton"
+    },
+    {
+     "label": "Wikipedia — John Tarleton (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/John_Tarleton_(slave_trader)"
+    },
+    {
+     "label": "Wikipedia — John Tarleton (MP)",
+     "url": "https://en.wikipedia.org/wiki/John_Tarleton_(MP)"
+    },
+    {
+     "label": "Victoria University of Wellington — Radburn, William Davenport, the Slave Trade, and Merchant Enterprise in Eighteenth-Century Liverpool (MA thesis, 2009)",
+     "url": "https://openaccess.wgtn.ac.nz/articles/thesis/William_Davenport_the_Slave_Trade_and_Merchant_Enterprise_in_Eighteenth-Century_Liverpool/16968493"
     }
    ],
    "connections": [
@@ -1371,7 +2443,59 @@
      "type": "political",
      "label": "Liverpool council allies"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Tarleton",
+     "relation": "grandfather",
+     "years": "c. 1700s",
+     "note": "Father of John Tarleton (1718–73); with his brother John he traded with the West Indies and Africa, starting the family's Atlantic business.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Tarleton",
+     "relation": "father",
+     "years": "1718–1773",
+     "note": "Ship-owner and slave trader (ships Tarleton, Swan, John) and Mayor of Liverpool in 1764; he owned enslaved people on the Belfield estate, Dominica, and estates on Carriacou, and bought part of Aigburth Hall.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jane Parker",
+     "relation": "spouse",
+     "years": "1726–1797",
+     "note": "Daughter and co-heir of Banastre Parker of Cuerden, Lancashire; Banastre Tarleton was named after her father.",
+     "basis": "documented"
+    },
+    {
+     "name": "John, Clayton and Thomas Tarleton",
+     "relation": "sons / partners",
+     "years": "1755–1841 (John)",
+     "note": "Three of the five sons ran the family firm, with Daniel Backhouse as Tarleton & Backhouse; John (MP for Seaford 1792–96) invested in 39 Liverpool-registered ships in 1786–1804, and Clayton was Mayor in 1792.",
+     "basis": "documented"
+    },
+    {
+     "name": "Daniel Backhouse",
+     "relation": "partner",
+     "years": "fl. 1770s–1800s",
+     "note": "Partner in Tarleton & Backhouse, which in 1778 hired away Davenport's captain Fairweather.",
+     "basis": "documented"
+    },
+    {
+     "name": "Banastre Tarleton",
+     "relation": "son",
+     "years": "1754–1833",
+     "note": "Cavalry commander and MP for Liverpool (1790–1812, with one break) who spoke against abolition; made a baronet in 1816, he had no children, so the title died with him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isabella Collingwood",
+     "relation": "spouse (of John Jr)",
+     "years": "c. 1770–c. 1850",
+     "note": "An heiress whose marriage brought John Tarleton Jr the Collingwood estates at Unthank and Little Ryle, Northumberland.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Banastre Tarleton's baronetcy died with him in 1833 because he had no children; no publicly documented living descendants of the slave-trading line have been traced. The name survives in Liverpool's Tarleton Street, in Reynolds's portrait of Banastre in the National Gallery, London, and in the family papers (1678–1838) at Liverpool Record Office, which are also published digitally. Aigburth Hall, the family seat, was demolished around 1840."
   },
   {
    "id": "earle-family",
@@ -1429,6 +2553,26 @@
     {
      "label": "Historic Society of Lancashire and Cheshire — Littler, The Earle collection",
      "url": "https://www.hslc.org.uk/wp-content/uploads/2017/05/146-5-Littler.pdf"
+    },
+    {
+     "label": "Wikipedia — William Earle (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/William_Earle_(slave_trader)"
+    },
+    {
+     "label": "Wikipedia — Thomas Earle (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Earle_(slave_trader)"
+    },
+    {
+     "label": "Wikipedia — Earle baronets",
+     "url": "https://en.wikipedia.org/wiki/Earle_baronets"
+    },
+    {
+     "label": "Wikipedia — Sir Hardman Earle, 1st Baronet",
+     "url": "https://en.wikipedia.org/wiki/Hardman_Earle"
+    },
+    {
+     "label": "Victoria University of Wellington — Radburn, William Davenport, the Slave Trade, and Merchant Enterprise in Eighteenth-Century Liverpool (MA thesis, 2009)",
+     "url": "https://openaccess.wgtn.ac.nz/articles/thesis/William_Davenport_the_Slave_Trade_and_Merchant_Enterprise_in_Eighteenth-Century_Liverpool/16968493"
     }
    ],
    "connections": [
@@ -1452,7 +2596,76 @@
      "type": "legacy",
      "label": "papers held"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Earle",
+     "relation": "founder",
+     "years": "1674–1749",
+     "note": "Came from Warrington, became Mayor of Liverpool in 1709 and began the family's slave trading; in 1699 he and William Clayton financed one of Liverpool's first slaving voyages.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ralph, Thomas and William Earle",
+     "relation": "sons",
+     "years": "1715–1788",
+     "note": "Three of John's four sons entered the trade; Thomas lived in Livorno and supplied Italian beads, and William became a captain and then an owner of at least 117 voyages.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Davenport",
+     "relation": "partner",
+     "years": "1725–1797",
+     "note": "Co-invested with William Earle in about 50 voyages, and with the Earle brothers in the 1766 Liverpool bead company.",
+     "basis": "documented",
+     "id": "william-davenport"
+    },
+    {
+     "name": "Ann Wynstanley",
+     "relation": "spouse (of William)",
+     "years": "fl. 1750s",
+     "note": "A widow with a substantial dowry; the marriage tied William Earle to the slave traders John Copeland and Robert Jennings, who had married her sisters.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Earle and William Earle Jr (T. & W. Earle)",
+     "relation": "sons",
+     "years": "1754–1822 / 1759–1839",
+     "note": "Took over the business and between them were responsible for some 140 voyages carrying over 19,000 captives, about 3,000 of whom died; Thomas was Mayor in 1787, and the Crown seized their ship Annabella in 1804.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Hardman Earle, 1st Baronet",
+     "relation": "grandson",
+     "years": "1792–1877",
+     "note": "Son of Thomas; received c. £19,000 compensation for enslaved people on Antiguan estates, was a founding director and later chairman of the Bank of Liverpool, and was a railway director (L&NWR); baronet of Allerton Tower from 1869.",
+     "basis": "documented",
+     "id": "hardman-earle"
+    },
+    {
+     "name": "T. Algernon Earle",
+     "relation": "descendant",
+     "years": "1860–1945",
+     "note": "The 4th Baronet, who gathered the family papers and wrote a family history.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Sir George Earle",
+     "relation": "descendant",
+     "years": "1932–2025",
+     "note": "Sir (Hardman) George Algernon Earle, 6th Baronet, who donated the family papers (17 boxes, 1700s–1930s) to Merseyside Maritime Museum in 1993.",
+     "basis": "documented",
+     "id": "international-slavery-museum"
+    },
+    {
+     "name": "Earle baronetcy of Allerton Tower",
+     "relation": "title",
+     "years": "1869–present",
+     "note": "The baronetcy created for Hardman Earle still exists.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Earle baronetcy of Allerton Tower, created in 1869 for Sir Hardman Earle, still exists. At emancipation the family received over £25,000 in compensation for more than 300 enslaved people on 12 Antiguan estates. Sir George Earle, 6th Baronet (d. 2025), gave the family archive to Merseyside Maritime Museum in 1993, where it underpins the International Slavery Museum's research, and Peter Earle's history The Earles of Liverpool (2015) is in print. Earle Road and other Liverpool place names still carry the name."
   },
   {
    "id": "william-davenport",
@@ -1508,6 +2721,30 @@
     {
      "label": "Wikipedia — William Davenport (slave trader)",
      "url": "https://en.wikipedia.org/wiki/William_Davenport_(slave_trader)"
+    },
+    {
+     "label": "Victoria University of Wellington — Radburn, William Davenport, the Slave Trade, and Merchant Enterprise in Eighteenth-Century Liverpool (MA thesis, 2009)",
+     "url": "https://openaccess.wgtn.ac.nz/articles/thesis/William_Davenport_the_Slave_Trade_and_Merchant_Enterprise_in_Eighteenth-Century_Liverpool/16968493"
+    },
+    {
+     "label": "Wikipedia — William Whaley",
+     "url": "https://en.wikipedia.org/wiki/William_Whaley"
+    },
+    {
+     "label": "Wikipedia — Capesthorne Hall",
+     "url": "https://en.wikipedia.org/wiki/Capesthorne_Hall"
+    },
+    {
+     "label": "Wikipedia — Davies Davenport (1757–1837)",
+     "url": "https://en.wikipedia.org/wiki/Davies_Davenport"
+    },
+    {
+     "label": "Gresham College — Tibbles, Liverpool and the slave trade (lecture transcript, 2007)",
+     "url": "https://www.gresham.ac.uk/sites/default/files/transcript/Liverpool%20and%20the%20slave%20trade.pdf"
+    },
+    {
+     "label": "University of Manchester Rylands Blog — The Heywoods",
+     "url": "https://rylandscollections.com/2023/09/18/the-heywoods/"
     }
    ],
    "connections": [
@@ -1531,7 +2768,76 @@
      "type": "legacy",
      "label": "archive held"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Ward of Capesthorne",
+     "relation": "grandfather",
+     "years": "1670–1749",
+     "note": "His maternal grandfather and guardian, a Tory MP who bought luxury groceries from William Whaley; he placed the orphaned William with Whaley and paid the £120 apprenticeship fee plus his first trading stake.",
+     "basis": "documented"
+    },
+    {
+     "name": "Davies Davenport I and Phoebe Ward",
+     "relation": "parents",
+     "years": "d. 1740 / d. 1737",
+     "note": "Cheshire gentry (his father a barrister of the Inner Temple); William, born in Red Lion Square, London in 1725, was the fourth of eleven children and orphaned by 14, so as a younger son he had to make his own fortune.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Whaley",
+     "relation": "master",
+     "years": "fl. 1722–1762",
+     "note": "Liverpool grocer, tobacco and slave-ship merchant to whom Davenport was apprenticed in 1742 for seven years; the two co-owned slaving voyages until Whaley was ruined by the collapse of Edward Lowndes & Co. in 1754.",
+     "basis": "documented",
+     "id": "william-whaley"
+    },
+    {
+     "name": "Christopher, Richard and Thomas Davenport",
+     "relation": "brothers",
+     "years": "1729–1799 (Richard)",
+     "note": "His younger brothers invested in his voyages (Christopher in 37, Thomas in 13, Richard in 11), contributing up to c. £40,000; Thomas, later MP for Newton, was a lawyer for the insurers in the Zong case (1783).",
+     "basis": "documented"
+    },
+    {
+     "name": "William Earle and the Earle brothers",
+     "relation": "partner",
+     "years": "1721–1788",
+     "note": "Earle, once a captain for Whaley and Davenport, co-invested with Davenport in about 50 voyages, and the Earles brought him Italian glass beads from Livorno; in 1766 Davenport managed a bead company with the Earle brothers, Thomas Hodgson, Peter Holme and John Copeland.",
+     "basis": "documented",
+     "id": "earle-family"
+    },
+    {
+     "name": "Ambrose Lace, John Copeland, Patrick Black",
+     "relation": "partners",
+     "years": "1760s–1786",
+     "note": "Former Calabar captains and Liverpool merchants who were Davenport's regular co-investors in Old Calabar and Cameroon voyages.",
+     "basis": "documented"
+    },
+    {
+     "name": "Arthur and Benjamin Heywood",
+     "relation": "co-investors",
+     "years": "1750s–1780s",
+     "note": "Davenport co-invested in 36 of the Heywood family's slaving voyages, per Rylands research.",
+     "basis": "documented",
+     "id": "heywood-family"
+    },
+    {
+     "name": "Richard Davenport and nephew Davies Davenport",
+     "relation": "heirs",
+     "years": "1797",
+     "note": "Davenport never married; when he died on 31 August 1797 his estate of c. £34,000 (the largest known among his Liverpool slaving contemporaries) passed to his surviving brother Richard and his nephew Davies (1757–1837), later MP for Cheshire and owner of Capesthorne.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bromley-Davenport family, Capesthorne Hall",
+     "relation": "descendants of the wider family",
+     "years": "1867–present",
+     "note": "Capesthorne passed down Davies Davenport's line to the Bromley-Davenports, who still own it; how far William's legacy fed the estate has not been quantified.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "William Davenport died a bachelor with no children, so he has no direct descendants. His c. £34,000 estate went to his brother Richard and his nephew Davies Davenport of Capesthorne Hall, Cheshire, a house still owned by the Bromley-Davenport family and open to the public. His business papers survive as among the most detailed records of a British slave-trading firm, held at Keele University (Raymond Richards Collection, 16 volumes, 1745–97) and National Museums Liverpool."
   },
   {
    "id": "thomas-leyland",
@@ -1587,6 +2893,22 @@
     {
      "label": "Myles Zhang — The Slave Trader Turned Banker (paper)",
      "url": "https://www.myleszhang.org/files/2023/06/The-Slave-Trader-Turned-Banker.pdf"
+    },
+    {
+     "label": "Wikipedia — Walton Hall, Liverpool",
+     "url": "https://en.wikipedia.org/wiki/Walton_Hall,_Liverpool"
+    },
+    {
+     "label": "Wikipedia — Naylor-Leyland baronets",
+     "url": "https://en.wikipedia.org/wiki/Naylor-Leyland_baronets"
+    },
+    {
+     "label": "Wikipedia — The North and South Wales Bank",
+     "url": "https://en.wikipedia.org/wiki/The_North_and_South_Wales_Bank"
+    },
+    {
+     "label": "Gresham College — Tibbles, Liverpool and the slave trade (lecture transcript, 2007)",
+     "url": "https://www.gresham.ac.uk/sites/default/files/transcript/Liverpool%20and%20the%20slave%20trade.pdf"
     }
    ],
    "connections": [
@@ -1610,7 +2932,75 @@
      "type": "parallel",
      "label": "slave trader turned banker"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Dillon & Leyland",
+     "relation": "early firm",
+     "years": "1774–1776",
+     "note": "His Irish provisions partnership with Dillon; in 1776 the two won £20,000 in a lottery, which gave Leyland the capital for slaving shares.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ellen Bridges",
+     "relation": "spouse",
+     "years": "m. c. 1776",
+     "note": "Daughter of Edward Bridges; she survived him and lived at Walton Hall until her death in 1839. They had no children who inherited.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Molyneux",
+     "relation": "partner",
+     "years": "1790s",
+     "note": "Co-owner of the Enterprize; their 1794 voyage sold 356 Africans for about £22,000.",
+     "basis": "documented"
+    },
+    {
+     "name": "Clarkes and Roscoe",
+     "relation": "bank partners",
+     "years": "1802",
+     "note": "Leyland briefly joined this Liverpool bank, whose partner William Roscoe was an abolitionist; the partnership was dissolved within months.",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Bullin",
+     "relation": "nephew / partner",
+     "years": "fl. 1807–1840s",
+     "note": "His sister Margaret's son and a fellow slave-trade investor; co-founded Leyland & Bullins (1807) and, with his brother Christopher (partner from 1815, retired 1847), inherited Walton Hall on condition of taking the Leyland name.",
+     "basis": "documented",
+     "id": "leyland-and-bullins"
+    },
+    {
+     "name": "Dorothy Bullin and John Wrench Naylor",
+     "relation": "heirs",
+     "years": "1813–1889 (John)",
+     "note": "When both Bullin nephews died childless, the Walton estate passed to their sister Dorothy and her husband John Naylor, who was also a bank partner.",
+     "basis": "documented"
+    },
+    {
+     "name": "Christopher John Naylor (Leyland)",
+     "relation": "heir",
+     "years": "1849–1926",
+     "note": "Inherited the Leyland estate and took the name Leyland in 1893; Liverpool Corporation bought Walton Hall and demolished it by 1907, and the site became Walton Hall Park.",
+     "basis": "documented"
+    },
+    {
+     "name": "Naylor-Leyland baronets",
+     "relation": "title",
+     "years": "1895–present",
+     "note": "The baronetcy created for Herbert Naylor-Leyland MP comes from the Naylor family that inherited the Leyland name and fortune; the exact line of descent is reported inconsistently.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "North & South Wales Bank → Midland Bank → HSBC",
+     "relation": "successor firm",
+     "years": "1901 / 1908 / 1992",
+     "note": "Leyland & Bullins was bought by the North and South Wales Bank in 1901, which merged into Midland in 1908; HSBC acquired Midland in 1992.",
+     "basis": "documented",
+     "id": "hsbc"
+    }
+   ],
+   "today": "Leyland's banking line ended up in HSBC UK. HSBC's history site acknowledges that his slave-trade wealth partly funded Leyland & Bullins and says it is still researching his relatives' links. His fortune (c. £600,000) passed through his Bullin nephews to the Naylor family. The Naylor-Leyland baronetcy (created 1895) is held by Sir Philip Naylor-Leyland, 4th Baronet, of Nantclwyd Hall and Milton Hall, though the exact line of descent from Leyland's heirs is reported inconsistently. Walton Hall was demolished and is now Walton Hall Park in Liverpool."
   },
   {
    "id": "heywood-family",
@@ -1674,6 +3064,22 @@
     {
      "label": "NatWest Group Heritage Hub — Heywood Brothers & Co",
      "url": "https://www.natwestgroup.com/heritage/companies/heywood-brothers-and-co.html"
+    },
+    {
+     "label": "Wikipedia — Heywood baronets",
+     "url": "https://en.wikipedia.org/wiki/Heywood_baronets"
+    },
+    {
+     "label": "Wikipedia — Sir Benjamin Heywood, 1st Baronet",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Heywood"
+    },
+    {
+     "label": "Wikipedia — Sir Arthur Heywood, 3rd Baronet",
+     "url": "https://en.wikipedia.org/wiki/Arthur_Heywood"
+    },
+    {
+     "label": "Wikipedia — Martins Bank",
+     "url": "https://en.wikipedia.org/wiki/Martins_Bank"
     }
    ],
    "connections": [
@@ -1697,7 +3103,84 @@
      "type": "parallel",
      "label": "slave trader turned banker"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Pemberton",
+     "relation": "father-in-law",
+     "years": "fl. mid-1700s",
+     "note": "A Liverpool merchant who invested in at least ten slaving voyages; Arthur and Benjamin Heywood both married his heiresses.",
+     "basis": "documented"
+    },
+    {
+     "name": "Samuel Ogden",
+     "relation": "ancestor",
+     "years": "fl. 1700s",
+     "note": "Invested in 23 slaving expeditions; he was great-grandfather of Sir Benjamin Heywood, 1st Baronet.",
+     "basis": "documented"
+    },
+    {
+     "name": "Arthur and Benjamin Heywood",
+     "relation": "founders",
+     "years": "1750s–1807",
+     "note": "The brothers invested in 82 slaving voyages, and Arthur founded a Liverpool bank by 1773; William Davenport co-invested in 36 Heywood voyages.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Arthur and Nathaniel Heywood",
+     "relation": "sons",
+     "years": "d. 1828 / d. 1815",
+     "note": "Benjamin's sons co-owned slave ships, which brought the family total to 133 voyages and c. 42,000 captives; with their father they founded the Manchester bank in 1788 with £10,000 of family money.",
+     "basis": "documented"
+    },
+    {
+     "name": "Arthur Heywood, Sons & Co. → Bank of Liverpool",
+     "relation": "successor firm",
+     "years": "1773 → 1883",
+     "note": "The Liverpool bank, whose customers included the Corporation and the Mersey Docks and Harbour Board, was taken over by the Bank of Liverpool in 1883.",
+     "basis": "documented",
+     "id": "heywoods-bank-liverpool"
+    },
+    {
+     "name": "Bank of Liverpool / Martins Bank",
+     "relation": "successor firm",
+     "years": "1883–1969",
+     "note": "The Bank of Liverpool became Martins Bank (1928), and Barclays bought it in 1969.",
+     "basis": "documented",
+     "id": "bank-of-liverpool-martins"
+    },
+    {
+     "name": "Barclays",
+     "relation": "successor firm",
+     "years": "1969–present",
+     "note": "Absorbed Martins and its 700 branches.",
+     "basis": "documented",
+     "id": "barclays"
+    },
+    {
+     "name": "Heywood's Bank, Manchester → Williams Deacon's → RBS",
+     "relation": "successor firm",
+     "years": "1788 → 1874 → 1930",
+     "note": "The Manchester bank was sold to the Manchester & Salford Bank in 1874 (Williams Deacon's from 1890), which the Royal Bank of Scotland, now NatWest Group, acquired in 1930.",
+     "basis": "documented",
+     "id": "natwest-group"
+    },
+    {
+     "name": "Sir Benjamin Heywood, 1st Baronet",
+     "relation": "grandson",
+     "years": "1793–1865",
+     "note": "Nathaniel's son, sole proprietor of the Manchester bank by 1828, MP for Lancashire (1831–32), founder of the Manchester Mechanics' Institute, and made a baronet of Claremont in 1838.",
+     "basis": "documented"
+    },
+    {
+     "name": "Heywood baronets of Claremont",
+     "relation": "title",
+     "years": "1838–present",
+     "note": "Later holders include Sir Arthur Percival Heywood, 3rd Bt, the minimum-gauge railway pioneer; the baronetcy is extant.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Heywood baronetcy of Claremont (1838) still exists. The family's two banks ended up in today's Barclays (Liverpool line, through Martins) and NatWest Group (Manchester line, through Williams Deacon's and RBS). Heywood's 1848 bank building at 25 St Ann Street, Manchester, still stands and long served as a Royal Bank of Scotland branch. University of Manchester (Rylands) research now publicly ties the family's wealth to 133 slaving voyages."
   },
   {
    "id": "john-bolton",
@@ -1750,6 +3233,18 @@
     {
      "label": "UCL LBS — John Bolton (British Guiana record)",
      "url": "https://www.ucl.ac.uk/lbs/person/view/7019"
+    },
+    {
+     "label": "Wikipedia — John Bolton (merchant)",
+     "url": "https://en.wikipedia.org/wiki/John_Bolton_(merchant)"
+    },
+    {
+     "label": "Wikipedia — Storrs Hall",
+     "url": "https://en.wikipedia.org/wiki/Storrs_Hall"
+    },
+    {
+     "label": "Wikipedia — Thomas Staniforth",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Staniforth"
     }
    ],
    "connections": [
@@ -1773,7 +3268,60 @@
      "type": "legacy",
      "label": "documented in LBS"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Abraham Bolton and Ann Philipson",
+     "relation": "parents",
+     "years": "d. 1764 (Abraham)",
+     "note": "An Ulverston apothecary and his wife; John, born in 1756, was their third son.",
+     "basis": "documented"
+    },
+    {
+     "name": "Rawlinsons & Chorley",
+     "relation": "master firm",
+     "years": "1773–1783",
+     "note": "The Liverpool West India cotton merchants to whom Bolton was apprenticed; they sent him to St Vincent and St Lucia, and he returned rich in 1783–84.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Littledale",
+     "relation": "spouse",
+     "years": "1768–1848",
+     "note": "Daughter of the merchant Henry Littledale; they married in 1797 and had no children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anthony Littledale (Bolton & Littledale)",
+     "relation": "partner / brother-in-law",
+     "years": "fl. 1800s–1830s",
+     "note": "Elizabeth's brother and Bolton's later partner in Bolton & Littledale, a leading cotton house trading with British Guiana.",
+     "basis": "documented"
+    },
+    {
+     "name": "Storrs Hall, Windermere",
+     "relation": "estate",
+     "years": "1804/06–1848",
+     "note": "Bought with his fortune with c. 1,000 acres; there he entertained Wordsworth, Scott, Canning and Huskisson.",
+     "basis": "documented"
+    },
+    {
+     "name": "Slavery compensation",
+     "relation": "compensation",
+     "years": "1830s",
+     "note": "Bolton and then his estate received c. £35,240 for 783 enslaved people on land in Demerara/British Guiana, St Vincent and elsewhere.",
+     "basis": "documented",
+     "id": "slavery-abolition-act-1833"
+    },
+    {
+     "name": "Rev. Thomas Staniforth",
+     "relation": "heir",
+     "years": "d. 1887",
+     "note": "His widow's nephew, grandson of the slave-trading mayor Thomas Staniforth; he inherited Storrs Hall in 1848 and, being childless, the estate was sold off in lots after his death.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Bolton's marriage was childless, so he has no direct descendants. He died worth c. £180,000; Storrs Hall went to his widow's nephew Rev. Thomas Staniforth and was split up and sold after 1887. The house is now a four-star hotel, and a marble memorial to Bolton survives at St Martin's Church, Bowness-on-Windermere."
   },
   {
    "id": "john-tobin",
@@ -1827,6 +3375,10 @@
     {
      "label": "Wikipedia — Sir John Tobin",
      "url": "https://en.wikipedia.org/wiki/Sir_John_Tobin"
+    },
+    {
+     "label": "Wikipedia — Liscard Hall",
+     "url": "https://en.wikipedia.org/wiki/Liscard_Hall"
     }
    ],
    "connections": [
@@ -1850,7 +3402,67 @@
      "type": "family",
      "label": "related by marriage network"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Patrick Tobin and Helen Breakill",
+     "relation": "parents",
+     "years": "fl. 1760s",
+     "note": "His father was a Manx merchant of Irish background; John was born in Braddan, Isle of Man, in 1763, one of a large family.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sarah Aspinall",
+     "relation": "spouse",
+     "years": "m. 1798",
+     "note": "Daughter of James Aspinall of the Liverpool slave-trading Aspinall family.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Bridge Aspinall",
+     "relation": "partner / brother-in-law",
+     "years": "fl. 1799–1820s",
+     "note": "His wife's brother and partner in John Tobin & Co. (founded 1799).",
+     "basis": "documented"
+    },
+    {
+     "name": "Peter Whitfield Brancker",
+     "relation": "brother-in-law / co-owner",
+     "years": "1750–1836",
+     "note": "A Liverpool merchant with whom Tobin co-owned the Cold Spring plantation in Jamaica.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Tobin",
+     "relation": "brother",
+     "years": "fl. 1800s",
+     "note": "His partner in the post-1807 palm-oil trade with West Africa and father of Sir Thomas Tobin.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Gladstone",
+     "relation": "associate",
+     "years": "1764–1851",
+     "note": "Business associate in Liverpool's West India and shipping circles.",
+     "basis": "documented",
+     "id": "gladstone-family"
+    },
+    {
+     "name": "Rev. John Tobin",
+     "relation": "son",
+     "years": "1809–1874",
+     "note": "One of his sons; Tobin also received compensation for enslaved people on two Jamaican estates after 1833.",
+     "basis": "documented"
+    },
+    {
+     "name": "Harold Littledale",
+     "relation": "son-in-law / heir",
+     "years": "d. 1889",
+     "note": "Inherited Liscard Hall, Wallasey, after Tobin died there in 1851.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Tobin's Liscard Hall estate went to his son-in-law Harold Littledale; after 1889 Wallasey Local Board bought the grounds, which became Central Park, Wallasey. The derelict house was destroyed by fire in 2008 and demolished. His continuity from slave ships to palm oil is now presented by National Museums Liverpool and documented in UCL's Legacies of British Slavery database."
   },
   {
    "id": "pinney-family",
@@ -1916,6 +3528,22 @@
     {
      "label": "University of Bristol — Mountravers plantation community (introduction)",
      "url": "https://seis.bristol.ac.uk/~emceee/mountravers~introduction.pdf"
+    },
+    {
+     "label": "Wikipedia — Charles Pinney",
+     "url": "https://en.wikipedia.org/wiki/Charles_Pinney"
+    },
+    {
+     "label": "Wikipedia — John Frederick Pinney",
+     "url": "https://en.wikipedia.org/wiki/John_Frederick_Pinney"
+    },
+    {
+     "label": "University of Bristol Special Collections — Pinney Papers",
+     "url": "https://www.bristol.ac.uk/library/special-collections/strengths/pinney/"
+    },
+    {
+     "label": "Wikipedia — William Wordsworth",
+     "url": "https://en.wikipedia.org/wiki/William_Wordsworth"
     }
    ],
    "connections": [
@@ -1939,7 +3567,76 @@
      "type": "legacy",
      "label": "family compensation era"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Azariah Pinney",
+     "relation": "founder",
+     "years": "1661–1720",
+     "note": "A Monmouth rebel pardoned on condition that he go to the West Indies, he reached Nevis in 1682 and built the family's plantations; his sister Hester's letters on his release are in the Pinney Papers.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Frederick Pinney",
+     "relation": "benefactor",
+     "years": "1719–1762",
+     "note": "MP for Bridport and Nevis plantation owner; childless, he left the Dorset land and Nevis estates to his distant cousin John Pretor on condition that he take the Pinney name.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Pretor Pinney",
+     "relation": "heir",
+     "years": "1740–1818",
+     "note": "Ran Mountravers on Nevis from 1764 to 1783, then became a Bristol sugar merchant and lender; he was worth c. £70,000 in 1783 and c. £340,000 at his death.",
+     "basis": "documented",
+     "id": "mountravers-plantation"
+    },
+    {
+     "name": "Jane Weekes",
+     "relation": "spouse",
+     "years": "m. 1772",
+     "note": "A white Creole of Nevis; they had seven children.",
+     "basis": "documented"
+    },
+    {
+     "name": "James Tobin (Pinney & Tobin)",
+     "relation": "partner",
+     "years": "fl. 1780s–1810s",
+     "note": "A Bristol sugar merchant and pro-slave-trade pamphleteer; the firm shipped sugar, lent to planters at interest and foreclosed on estates and enslaved people. He is not the Liverpool Sir John Tobin.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pero Jones and Frances Coker",
+     "relation": "enslaved / servants",
+     "years": "1753–1798 (Pero)",
+     "note": "Brought from Nevis to the Great George Street house; Pero, never freed, is commemorated by Pero's Bridge.",
+     "basis": "documented",
+     "id": "georgian-house-bristol"
+    },
+    {
+     "name": "John Frederick and Azariah Pinney (sons)",
+     "relation": "sons",
+     "years": "1790s",
+     "note": "Friends of Wordsworth; the family's Racedown Lodge in Dorset housed William and Dorothy Wordsworth in 1795–97.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Pinney (Pinney & Case)",
+     "relation": "son",
+     "years": "1793–1867",
+     "note": "Ran the business with Robert Edward Case and was Mayor of Bristol during the 1831 riots; at emancipation Charles and John Frederick received c. £23,210 for 1,220 enslaved people, and he died worth c. £60,000.",
+     "basis": "documented",
+     "id": "slavery-abolition-act-1833"
+    },
+    {
+     "name": "Pinney Papers, University of Bristol",
+     "relation": "archive",
+     "years": "17th c.–present",
+     "note": "The family's archive of plantation account and letter books, now a key source, including Christine Eickelmann's study of the 903 people enslaved on Mountravers.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants have been traced in sources reviewed. The family's wealth survives in public memory through the Georgian House Museum (7 Great George Street, run by Bristol City Council), which since 2018 lists the 903 people enslaved on Mountravers. The Pinney Papers at the University of Bristol's Special Collections remain open to researchers. Mountravers itself was sold in 1808."
   },
   {
    "id": "barclays",
@@ -2000,6 +3697,22 @@
     {
      "label": "UCL LBS — Person freed from Unity Valley by David Barclay",
      "url": "https://www.ucl.ac.uk/lbs/person/view/2146643793"
+    },
+    {
+     "label": "Barclays — Our history",
+     "url": "https://home.barclays/who-we-are/our-history"
+    },
+    {
+     "label": "Quakers in the World — Barclays Bank and its Quaker roots",
+     "url": "https://www.quakersintheworld.org/quakers-in-action/327"
+    },
+    {
+     "label": "Wikipedia — David Barclay of Youngsbury",
+     "url": "https://en.wikipedia.org/wiki/David_Barclay_of_Youngsbury"
+    },
+    {
+     "label": "Wikipedia — Barclays",
+     "url": "https://en.wikipedia.org/wiki/Barclays"
     }
    ],
    "connections": [
@@ -2023,7 +3736,68 @@
      "type": "legacy",
      "label": "documented in LBS"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Freame",
+     "relation": "founder",
+     "years": "d.1745",
+     "note": "Quaker goldsmith who with Thomas Gould began banking in Lombard Street in 1690, the origin of Barclays.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Gould",
+     "relation": "founding partner",
+     "years": "fl.1690",
+     "note": "Freame's Quaker partner in the original goldsmith-banking business.",
+     "basis": "documented"
+    },
+    {
+     "name": "James Barclay",
+     "relation": "partner & son-in-law",
+     "years": "partner 1736",
+     "note": "Married Freame's daughter Sarah and joined as a partner in 1736, bringing the Barclay name into the bank.",
+     "basis": "documented"
+    },
+    {
+     "name": "David Barclay of Cheapside",
+     "relation": "partner family",
+     "years": "1682–1769",
+     "note": "Quaker linen merchant whose house traded with North America and the West Indies; he married Priscilla Freame, linking the merchant and banking sides of the family.",
+     "basis": "documented"
+    },
+    {
+     "name": "David Barclay of Youngsbury",
+     "relation": "partner",
+     "years": "1729–1809",
+     "note": "Merchant-banker who, with his brother Alexander, was engaged in the slave trade in 1756, acquired Unity Valley Pen, Jamaica, through a debt, and in 1795 freed its enslaved people and resettled them in Philadelphia.",
+     "basis": "documented",
+     "id": "david-barclay-youngsbury"
+    },
+    {
+     "name": "John Tritton",
+     "relation": "partner",
+     "years": "partner 1785",
+     "note": "Married into the Barclay family; the firm became Barclay, Bevan, Bening and Tritton.",
+     "basis": "documented"
+    },
+    {
+     "name": "Barclay & Co. (1896)",
+     "relation": "successor firm",
+     "years": "1896",
+     "note": "Barclay, Bevan, Tritton & Co. merged with other mostly Quaker banks to form the joint-stock Barclay & Co.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martins Bank / Heywood's Bank",
+     "relation": "acquired bank",
+     "years": "1969",
+     "note": "Barclays acquired Martins Bank, successor to the Liverpool bank founded by slave-ship owners Arthur and Benjamin Heywood.",
+     "basis": "documented",
+     "id": "heywoods-bank-liverpool"
+    }
+   ],
+   "today": "The bank is today Barclays PLC, a global banking group headquartered in London. It has acknowledged that it may have benefited from slavery through acquired banks (2007) and in 2020 published archive research on the Unity Valley emancipation; critics argue it has not made a full reckoning. No further Barclay family descendants are profiled here."
   },
   {
    "id": "lloyds-of-london",
@@ -2085,6 +3859,14 @@
     {
      "label": "Insurance Business — Lloyd's of London apologises over founders' slavery links",
      "url": "https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-of-london-apologises-over-founders-slavery-links-225611.aspx"
+    },
+    {
+     "label": "Lloyd's — Chapter one (history)",
+     "url": "https://www.lloyds.com/about-lloyds/history/chapter-one"
+    },
+    {
+     "label": "Lloyd's — John Julius Angerstein",
+     "url": "https://www.lloyds.com/about-lloyds/history/important-people-from-our-past/john-julius-angerstein"
     }
    ],
    "connections": [
@@ -2113,7 +3895,53 @@
      "type": "legacy",
      "label": "founders compensated"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Edward Lloyd",
+     "relation": "founder",
+     "years": "c.1648–1713",
+     "note": "Kept the coffee house on Tower Street (first recorded 1688; moved to Lombard Street 1691) where ship-owners, merchants and underwriters met to insure voyages.",
+     "basis": "documented"
+    },
+    {
+     "name": "New Lloyd's Coffee House",
+     "relation": "successor",
+     "years": "1769",
+     "note": "Underwriters broke away from the original house over gambling and set up a 'New Lloyd's', which became the real Lloyd's.",
+     "basis": "documented"
+    },
+    {
+     "name": "1771 founding subscribers",
+     "relation": "founders",
+     "years": "1771",
+     "note": "77 named subscribers who took the market into their own hands; Lloyd's research groups them by confirmed slave-trade links, links to the wider slave economy, and no confirmed links.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Julius Angerstein",
+     "relation": "chairman",
+     "years": "c.1735–1823",
+     "note": "Leading underwriter long called 'the Father of Lloyd's', who secured rooms at the Royal Exchange and was trustee and creditor of Grenada estates with several hundred enslaved people.",
+     "basis": "documented",
+     "id": "john-julius-angerstein"
+    },
+    {
+     "name": "Royal Exchange",
+     "relation": "home",
+     "years": "1774–1928",
+     "note": "The Society's first true underwriting room, where much insurance of slave voyages and West India cargoes was written.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lloyd's Act 1871",
+     "relation": "incorporation",
+     "years": "1871",
+     "note": "Incorporated the members of the Society as a corporate body, the legal form it keeps today.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Corporation of Lloyd's still runs the London insurance market from Lime Street. After its June 2020 apology, Lloyd's commissioned research with Lancaster University (Professor William Pettigrew, 'The Register of British Slave Traders') and a collaboration with Johns Hopkins University's Black Beyond Data; its Angerstein report concluded that the title 'Father of Lloyd's' is no longer appropriate."
   },
   {
    "id": "bank-of-england",
@@ -2173,6 +4001,18 @@
     {
      "label": "Positive Money — Slavery & the Bank: acknowledgement is not action",
      "url": "https://positivemoney.org/2022/06/slavery-the-bank-acknowledgement-is-not-action/"
+    },
+    {
+     "label": "Bank of England Museum — Humphry Morice: slave trader, embezzler of the Bank",
+     "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/humphry-morice-slave-trader-embezzler-of-the-bank"
+    },
+    {
+     "label": "FinTech Futures — Bank of England apologises for role of former governors linked to slave trade",
+     "url": "https://www.fintechfutures.com/bankingtech/bank-of-england-apologises-for-role-of-former-governors-linked-to-slave-trade"
+    },
+    {
+     "label": "Wikipedia — Benjamin Buck Greene",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Buck_Greene"
     }
    ],
    "connections": [
@@ -2201,7 +4041,64 @@
      "type": "legacy",
      "label": "LBS revealed directors' links"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Founding subscribers (1694)",
+     "relation": "founders",
+     "years": "1694",
+     "note": "The Bank was chartered to lend to William III's government; UCL research found that at least 11 former governors and 16 early directors had links to slavery or compensation.",
+     "basis": "documented"
+    },
+    {
+     "name": "Humphry Morice",
+     "relation": "governor",
+     "years": "1727–1729",
+     "note": "Leading London slave trader who fitted out c.110 voyages (1704–32) carrying over 30,000 people, and who defrauded the Bank of c.£27,700 just before he died.",
+     "basis": "documented",
+     "id": "humphry-morice"
+    },
+    {
+     "name": "South Sea Company",
+     "relation": "rival",
+     "years": "1711–1853",
+     "note": "Competed with the Bank in public-debt finance; after the 1720 crash the Bank took on part of its capital and became the government's banker.",
+     "basis": "documented",
+     "id": "south-sea-company"
+    },
+    {
+     "name": "Bacolet & Chemin plantations, Grenada",
+     "relation": "estate",
+     "years": "1772–1790",
+     "note": "Taken as security for a £160,000 loan, held outright from the late 1780s with 599 enslaved people, and sold in 1790.",
+     "basis": "documented",
+     "id": "bank-of-england-grenada-plantations"
+    },
+    {
+     "name": "Jeremiah Harman",
+     "relation": "governor",
+     "years": "1816–1818",
+     "note": "Former governor whose slavery-derived wealth is documented by UCL LBS; his portrait was among those removed in 2020.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Buck Greene",
+     "relation": "governor",
+     "years": "1873–1875",
+     "note": "Son of Greene King's founder, who managed his father's St Kitts plantations (1829–37) and became a Bank director in 1850 and governor in 1873.",
+     "basis": "documented",
+     "id": "benjamin-buck-greene"
+    },
+    {
+     "name": "1835 compensation loan",
+     "relation": "government finance",
+     "years": "1835–2015",
+     "note": "The Bank operated within the City finance system that raised the £15m loan to compensate slave-owners.",
+     "basis": "interpretive",
+     "id": "compensation-loan-1835"
+    }
+   ],
+   "today": "The Bank, nationalised in 1946, is the UK's central bank. In June 2020 it apologised for the 'inexcusable' involvement of former governors and directors, removed their portraits, and reviewed its collections; its museum ran 'Slavery & the Bank' (2022–24)."
   },
   {
    "id": "nm-rothschild",
@@ -2267,6 +4164,22 @@
     {
      "label": "Full Fact — What we know about the government loan to pay slave owners compensation",
      "url": "https://fullfact.org/economy/slavery-abolition-act-loan/"
+    },
+    {
+     "label": "Wikipedia — Nathan Mayer Rothschild",
+     "url": "https://en.wikipedia.org/wiki/Nathan_Mayer_Rothschild"
+    },
+    {
+     "label": "Wikipedia — Rothschild & Co",
+     "url": "https://en.wikipedia.org/wiki/Rothschild_%26_Co"
+    },
+    {
+     "label": "UCL LBS — Antigua 390 (Mathews or Constitution Hill) claim",
+     "url": "https://www.ucl.ac.uk/lbs/claim/view/124"
+    },
+    {
+     "label": "Anti-Slavery International — Top UK City firm founders linked to slavery",
+     "url": "https://www.antislavery.org/top-uk-city-firm-founders-linked-slavery/"
     }
    ],
    "connections": [
@@ -2290,7 +4203,61 @@
      "type": "finance",
      "label": "City government finance"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Mayer Amschel Rothschild",
+     "relation": "father",
+     "years": "1744–1812",
+     "note": "Frankfurt banker whose five sons founded branches across Europe; Nathan, the third son, settled in England in 1798.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nathan Mayer Rothschild",
+     "relation": "founder",
+     "years": "1777–1836",
+     "note": "Founded the London house (New Court, 1809/1811), co-arranged the £15m slave-owner compensation loan, and was himself a mortgagee who claimed on an Antigua estate with 158 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hannah Barent-Cohen",
+     "relation": "spouse",
+     "years": "m.1806",
+     "note": "Her marriage to Nathan linked the Rothschilds to the Cohen and Montefiore families of London.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Moses Montefiore",
+     "relation": "brother-in-law & partner",
+     "years": "1784–1885",
+     "note": "Married Hannah's sister Judith; acted as Nathan's stockbroker and partner and co-raised the 1835 loan.",
+     "basis": "documented",
+     "id": "moses-montefiore"
+    },
+    {
+     "name": "1835 compensation loan",
+     "relation": "transaction",
+     "years": "1835",
+     "note": "The £15m government loan, raised by Rothschild and Montefiore, that funded most of the £20m compensation paid to slave-owners.",
+     "basis": "documented",
+     "id": "compensation-loan-1835"
+    },
+    {
+     "name": "Lionel de Rothschild",
+     "relation": "son & heir",
+     "years": "1808–1879",
+     "note": "Took over the London house on Nathan's death in 1836 and became the first Jewish MP to take his seat (1858).",
+     "basis": "documented"
+    },
+    {
+     "name": "Rothschild & Co",
+     "relation": "successor group",
+     "years": "2003/2015–present",
+     "note": "The London and Paris houses were unified in the 2000s under Paris Orléans, renamed Rothschild & Co in 2015; the family took it private in 2023.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The business continues as Rothschild & Co, a family-controlled advisory and wealth-management group whose executive chairman is Alexandre de Rothschild. In 2009, after UCL research reported by the Financial Times, the bank said it 'greatly regrets' any link to 'the abhorrent institution of slavery'. The Rothschild Archive in London holds the West India loan papers."
   },
   {
    "id": "greene-king",
@@ -2352,6 +4319,22 @@
     {
      "label": "UCL LBS — Benjamin Greene (1780–1860)",
      "url": "https://www.ucl.ac.uk/lbs/person/view/25002"
+    },
+    {
+     "label": "Wikipedia — Benjamin Greene (brewer)",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Greene_(brewer)"
+    },
+    {
+     "label": "Wikipedia — Greene King",
+     "url": "https://en.wikipedia.org/wiki/Greene_King"
+    },
+    {
+     "label": "Wikipedia — Edward Greene (MP)",
+     "url": "https://en.wikipedia.org/wiki/Edward_Greene_(MP)"
+    },
+    {
+     "label": "Restaurant Online — Greene King apologises for links with slave trade",
+     "url": "https://restaurantonline.co.uk/Article/2020/06/18/Pub-group-Greene-King-apologises-for-links-with-slave-trade-black-lives-matter"
     }
    ],
    "connections": [
@@ -2375,7 +4358,74 @@
      "type": "legacy",
      "label": "documented in LBS"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Benjamin Greene",
+     "relation": "founder",
+     "years": "1780–1860",
+     "note": "Founded the Bury St Edmunds brewery in 1799, owned St Kitts and Montserrat estates, used the Bury and Suffolk Herald (bought 1828) against abolition, and was compensated for 231 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Greene & Son",
+     "relation": "family firm",
+     "years": "c.1830s–1846",
+     "note": "West India merchants and shipowners at 11 Mincing Lane, London, which ran the family's Caribbean estates.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Buck Greene",
+     "relation": "son",
+     "years": "1808–1902",
+     "note": "Managed his father's St Kitts plantations 1829–37, partnered with the Blyths (Blyths & Greene, 1846) and became Governor of the Bank of England (1873–75).",
+     "basis": "documented",
+     "id": "benjamin-buck-greene"
+    },
+    {
+     "name": "Edward Greene",
+     "relation": "son",
+     "years": "1815–1891",
+     "note": "Took over the brewery in 1836, expanded it to c.40,000 barrels a year, and was Conservative MP for Bury St Edmunds and Stowmarket.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Greene",
+     "relation": "son",
+     "years": "1824–1881",
+     "note": "Ran the family's St Kitts plantations; grandfather of the novelist Graham Greene.",
+     "basis": "documented"
+    },
+    {
+     "name": "Greene King (merger with F. W. King)",
+     "relation": "successor firm",
+     "years": "1887",
+     "note": "Edward Greene's brewery merged with Frederick William King's to form Greene King.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir (Edward) Walter Greene, 1st Baronet",
+     "relation": "grandson",
+     "years": "1842–1920",
+     "note": "Edward's son, who succeeded him as brewer and MP.",
+     "basis": "documented"
+    },
+    {
+     "name": "Graham Greene and Sir Hugh Greene",
+     "relation": "great-grandsons",
+     "years": "1904–1991; 1910–1987",
+     "note": "Grandsons of William Greene: the novelist and the BBC Director-General.",
+     "basis": "documented"
+    },
+    {
+     "name": "CK Asset Holdings",
+     "relation": "owner",
+     "years": "2019–present",
+     "note": "Hong Kong group whose takeover of Greene King was approved in October 2019.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Greene King is now owned by CK Asset Holdings and is one of Britain's largest pub and brewing groups. In June 2020 its chief executive Nick Mackenzie called the founder's profiting from slavery 'inexcusable', apologised and pledged investment for BAME communities; in 2024 St Kitts and Nevis sought reparations talks with the company. Publicly known descendants of the founder include the late novelist Graham Greene and the late BBC Director-General Sir Hugh Greene."
   },
   {
    "id": "slavery-abolition-act-1833",

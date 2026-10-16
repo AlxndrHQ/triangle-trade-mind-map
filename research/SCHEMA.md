@@ -93,3 +93,15 @@ For people in "Enslaved & Free Black Lives" the fields mean:
 - start/end = years enslaved or active (end null only if an organisation/community still exists).
 Captains and crew use their usual category ("European Families"/"American Families") with role "Captain & Crew".
 Ships, voyages, slave pens and revolts are ENTITIES (kind "Ship / voyage", "Revolt / uprising", "Slave pen / market").
+
+## ROUND 4 ADDITIONS
+### Family & lineage fields (optional on any profile)
+```json
+"lineage": [ {"name":"William Whaley", "relation":"mentor" | "father" | "son" | "daughter" | "spouse" | "partner" | "heir" | "grandson" | "descendant" | "successor firm" | "apprentice" | other short word,
+              "years":"c.1700–1760", "note":"1 sentence: who they were and what passed between them (money, ships, land, firm, title)", "id":"existing-record-id-if-any", "basis":"documented"|"interpretive"} ],
+"today": "2–4 sentences: what the family / its money / its name is today. Name only PUBLICLY documented descendants (public figures, people who have spoken publicly about the link, peerage titles, published genealogies, family companies or foundations). Never name or describe private individuals (no jobs, addresses, social media of private people). If nothing public is documented, say: 'No publicly documented descendants have been traced.' and say where the wealth went if known (estates sold, firm wound up, bequests)."
+```
+Order lineage oldest → newest (predecessors/mentors first, then the person's own generation, then heirs down to today).
+
+### New category "Enforcers & Aftermath"
+For the middle tier and the post-emancipation enforcement of racial hierarchy. Roles: "Overseer & Enforcer" (overseers, slave-breakers, slave patrols, slave catchers, kidnappers), "Planter & Enslaver" (small slaveholders/yeoman class), "Hate Group & Terror" (Knights of the Golden Circle, KKK eras, White League, Red Shirts, today's factions), "Convict Leasing & Jim Crow" (companies and states that leased convicts).

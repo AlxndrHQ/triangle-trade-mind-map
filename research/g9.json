@@ -67,6 +67,18 @@
     {
      "label": "Christ's College Cambridge — Frederick Baring (Legacies of Enslavement)",
      "url": "https://www.christs.cam.ac.uk/legaciesofenslavement-at-christs/frederick-baring.html"
+    },
+    {
+     "label": "Wikipedia — Baring family",
+     "url": "https://en.wikipedia.org/wiki/Baring_family"
+    },
+    {
+     "label": "Wikipedia — Alexander Baring, 1st Baron Ashburton",
+     "url": "https://en.wikipedia.org/wiki/Alexander_Baring,_1st_Baron_Ashburton"
+    },
+    {
+     "label": "The Baring Archive — University of Leeds PhD student begins research on the role of slavery in the British financial sector",
+     "url": "https://baringarchive.org.uk/university-of-leeds-phd-student-begins-research-on-the-role-of-slavery-in-the-british-financial-sector/"
     }
    ],
    "connections": [
@@ -95,7 +107,75 @@
      "type": "legacy",
      "label": "Christ's College legacy research"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Johann (John) Baring",
+     "relation": "founder",
+     "years": "1697–1748",
+     "note": "A Bremen-born wool-trade apprentice who settled in Exeter in 1717; his merchant fortune paid for his sons' London and Exeter partnerships.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Baring",
+     "relation": "son",
+     "years": "1730–1816",
+     "note": "Eldest son and Exeter MP who co-signed the 1762 articles founding John and Francis Baring & Co. but stayed mainly a silent partner.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Francis Baring, 1st Baronet",
+     "relation": "son",
+     "years": "1740–1810",
+     "note": "Led the London house that became Barings; per LBS he and Nathaniel Clayton took over half of the Bogue estate in Jamaica and the enslaved people on it, probably as mortgagees.",
+     "basis": "documented",
+     "id": "sir-francis-baring"
+    },
+    {
+     "name": "Alexander Baring, 1st Baron Ashburton",
+     "relation": "son",
+     "years": "1774–1848",
+     "note": "Partner from 1807 who married Ann Louisa Bingham, daughter of the very rich Philadelphia senator William Bingham, opposed emancipation in the Commons and was made Baron Ashburton in 1835.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Thomas Baring, 2nd Baronet, and Henry Baring",
+     "relation": "sons",
+     "years": "1772–1848; 1777–1848",
+     "note": "Became partners in Baring Brothers & Co. with Alexander in 1807; Thomas's son became Baron Northbrook and Henry's grandsons became Lord Revelstoke and the Earl of Cromer.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas, John and Francis Baring",
+     "relation": "grandsons",
+     "years": "1830s",
+     "note": "Partners of the grandchildren's generation who, per LBS, went after the compensation money for the enslaved people of the Berbice owner Wolfert Katz, a heavy debtor of the firm.",
+     "basis": "documented"
+    },
+    {
+     "name": "Francis Baring, 1st Baron Northbrook",
+     "relation": "grandson",
+     "years": "1796–1866",
+     "note": "Son of Sir Thomas; a politician raised to the peerage in 1866, starting the Northbrook line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Baring, 1st Baron Revelstoke, and Evelyn Baring, 1st Earl of Cromer",
+     "relation": "great-grandsons",
+     "years": "1828–1897; 1841–1917",
+     "note": "Grandsons of Henry: Revelstoke ran the bank into the 1890 Argentine crisis, and Cromer governed British-occupied Egypt as Consul-General.",
+     "basis": "documented"
+    },
+    {
+     "name": "Rowland Baring, 3rd Earl of Cromer",
+     "relation": "descendant",
+     "years": "1918–1991",
+     "note": "A Baring partner who became Governor of the Bank of England, showing the family's continued place in British finance.",
+     "basis": "documented",
+     "id": "bank-of-england"
+    }
+   ],
+   "today": "The peerages of Baron Ashburton, Baron Northbrook, Baron Revelstoke and Earl of Cromer are still held by Baring descendants, though the family no longer controls a bank. Barings collapsed in 1995 and was bought by ING for £1. The family name lives on in the Baring Foundation (a charity set up in 1969), the Baring Archive, and the asset manager Barings. Baring Asset Management and ING fund a University of Leeds PhD, begun in 2022, on Baring Brothers' involvement with slavery."
   },
   {
    "id": "baring-brothers",
@@ -167,6 +247,18 @@
     {
      "label": "The Baring Archive — Leeds PhD on slavery in the British financial sector",
      "url": "https://baringarchive.org.uk/university-of-leeds-phd-student-begins-research-on-the-role-of-slavery-in-the-british-financial-sector/"
+    },
+    {
+     "label": "Wikipedia — Barings Bank",
+     "url": "https://en.wikipedia.org/wiki/Barings_Bank"
+    },
+    {
+     "label": "University of Leeds — Arina Zarei (PhD: Barings Bank and the Atlantic Slave Trade)",
+     "url": "https://ahc.leeds.ac.uk/history/pgr/4869/arina-zarei"
+    },
+    {
+     "label": "National Gallery — Alexander Baring, 1st Baron Ashburton",
+     "url": "https://www.nationalgallery.org.uk/people/alexander-baring-1st-baron-ashburton"
     }
    ],
    "connections": [
@@ -200,7 +292,70 @@
      "type": "finance",
      "label": "1890 rescue"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John and Francis Baring",
+     "relation": "founders",
+     "years": "1762",
+     "note": "The brothers signed the articles founding John and Francis Baring & Co. in London on Christmas Day 1762, backed by their father Johann's Exeter fortune.",
+     "basis": "documented",
+     "id": "baring-family"
+    },
+    {
+     "name": "Sir Francis Baring",
+     "relation": "senior partner",
+     "years": "1740–1810",
+     "note": "Built the house into a leading Atlantic trade financier; per LBS it held an interest in the Bogue estate in Jamaica, probably as mortgagee.",
+     "basis": "documented",
+     "id": "sir-francis-baring"
+    },
+    {
+     "name": "Hope & Co.",
+     "relation": "partner firm",
+     "years": "1803–1811",
+     "note": "The Amsterdam house that partnered Barings on the Louisiana Purchase bonds; after Henry Hope died in 1811, Hope's London offices merged into Barings.",
+     "basis": "documented",
+     "id": "hope-and-co"
+    },
+    {
+     "name": "Baring Brothers & Co. (Alexander, Thomas and Henry Baring)",
+     "relation": "successor firm",
+     "years": "1807",
+     "note": "The firm was renamed when the three sons became partners; Alexander later served as an anti-abolition MP and as Lord Ashburton.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Baring, 1st Baron Revelstoke",
+     "relation": "senior partner",
+     "years": "1828–1897",
+     "note": "Under his leadership Argentine losses almost destroyed the bank in 1890, and a consortium organised by the Bank of England rescued it.",
+     "basis": "documented",
+     "id": "bank-of-england"
+    },
+    {
+     "name": "ING",
+     "relation": "successor firm",
+     "years": "1995",
+     "note": "After Nick Leeson's hidden losses of about £827m, the Dutch bank ING bought Barings for £1 and took on its liabilities.",
+     "basis": "documented"
+    },
+    {
+     "name": "Barings (asset manager)",
+     "relation": "successor firm",
+     "years": "2005–present",
+     "note": "ING sold Baring Asset Management to MassMutual and Northern Trust in 2005; the Barings name continues in asset management.",
+     "basis": "documented"
+    },
+    {
+     "name": "Baring Foundation and The Baring Archive",
+     "relation": "legacy institutions",
+     "years": "1969–present",
+     "note": "The charity outlived the 1995 collapse, and the archive holds the firm's records from 1762 to 1995 and co-sponsors research on its slavery links.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The banking business went to ING in 1995. The asset-management arm, sold to MassMutual and Northern Trust in 2005, still trades under the Barings name. The Baring Foundation and The Baring Archive survive. Baring Asset Management and ING Bank fund a University of Leeds PhD on 'Barings Bank and the Atlantic Slave Trade', begun in 2022; no corporate apology has been found."
   },
   {
    "id": "lloyds-banking-group",
@@ -262,6 +417,14 @@
     {
      "label": "Leasing Life — UK bank asset finance providers' past links to slavery (July 2020)",
      "url": "https://www.leasinglife.com/features/uk-bank-asset-finance-providers-past-links-to-slavery/"
+    },
+    {
+     "label": "Grace's Guide — Taylors and Lloyds",
+     "url": "https://www.gracesguide.co.uk/Taylors_and_Lloyds"
+    },
+    {
+     "label": "Wikipedia — Lloyds Bank",
+     "url": "https://en.wikipedia.org/wiki/Lloyds_Bank"
     }
    ],
    "connections": [
@@ -290,7 +453,61 @@
      "type": "legacy",
      "label": "collateral lawful until Brazilian abolition"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Sampson Lloyd II and John Taylor",
+     "relation": "founders",
+     "years": "1765",
+     "note": "A Quaker iron founder and a Unitarian Birmingham manufacturer who each put about £2,000 into the private bank Taylors & Lloyds at Dale End in June 1765. No direct slavery link to the two founders has been documented; the group's links run through later predecessor banks.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lloyds & Co. / Lloyds Banking Company",
+     "relation": "successor firm",
+     "years": "1852–1889",
+     "note": "The Taylor family left in 1852 and the firm became Lloyds & Co., a joint-stock company in 1865 and Lloyds Bank Limited by 1889, which went on to absorb hundreds of English banks.",
+     "basis": "documented"
+    },
+    {
+     "name": "London & Brazilian Bank",
+     "relation": "predecessor firm",
+     "years": "1862–1923",
+     "note": "British bank in Brazil that, per Joe Mulhern (LSE), knowingly took enslaved people as loan collateral until 1888; its president John White Cater had received British compensation on five Jamaican claims. Lloyds bought it in 1923 and it became part of the Bank of London & South America.",
+     "basis": "documented",
+     "id": "london-and-brazilian-bank"
+    },
+    {
+     "name": "Bank of London & South America (BOLSA) / Lloyds Bank International",
+     "relation": "successor firm",
+     "years": "1923–1986",
+     "note": "Merger of the London & Brazilian and London & River Plate banks; fully absorbed into Lloyds as Lloyds Bank International, carrying the Brazilian business into the group.",
+     "basis": "documented"
+    },
+    {
+     "name": "Other UK predecessor banks (eight named in LBS)",
+     "relation": "predecessor firms",
+     "years": "18th–19th c.",
+     "note": "UCL's Legacies of British Slavery database links eight former Lloyds-group companies to people who claimed or received compensation under the 1833 Act.",
+     "basis": "documented",
+     "id": "ucl-legacies-of-british-slavery"
+    },
+    {
+     "name": "Lloyds TSB and HBOS (Bank of Scotland, Halifax)",
+     "relation": "merger",
+     "years": "1995–2009",
+     "note": "Lloyds merged with TSB in 1995 and took over HBOS in 2009, bringing in the Bank of Scotland (1695) and the Trustee Savings Banks, whose Scottish commercial success Stephen Mullen (2023) found was tied to Atlantic slavery.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lloyds Banking Group plc",
+     "relation": "today's group",
+     "years": "2009–present",
+     "note": "The current listed group (Lloyds, Halifax, Bank of Scotland, Scottish Widows).",
+     "basis": "documented"
+    }
+   ],
+   "today": "Lloyds Banking Group plc is one of the UK's largest retail banking groups (Lloyds Bank, Halifax, Bank of Scotland, Scottish Widows). In June 2020, after press reports drawing on the UCL LBS database, a spokeswoman said 'we can't be proud of it all' and that the bank stands 'against racism, slavery and discrimination in all its forms'. A 2023 University of Glasgow study by Stephen Mullen for the Corra Foundation (a charity funded from Lloyds TSB) concluded that the group's commercial success depended in part on Atlantic slavery; no formal corporate apology or reparations scheme has been documented."
   },
   {
    "id": "natwest-group",
@@ -369,6 +586,14 @@
     {
      "label": "Fortune — UK companies pressed on slavery reparations (June 2020)",
      "url": "https://fortune.com/2020/06/18/george-floyd-protests-uk-slavery-reparations"
+    },
+    {
+     "label": "NatWest Group Heritage Hub — Smith, Payne & Smiths",
+     "url": "https://www.natwestgroup.com/heritage/companies/smith-payne-and-smiths.html"
+    },
+    {
+     "label": "Christ's College Cambridge — Legacies of Enslavement: the Smith family",
+     "url": "https://christs.cam.ac.uk/legaciesofenslavement-at-christs/smith-family.html"
     }
    ],
    "connections": [
@@ -402,7 +627,70 @@
      "type": "legacy",
      "label": "US disclosure via Citizens"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Captain Samuel Hankey / Hankey & Co",
+     "relation": "founder firm",
+     "years": "1685–1865",
+     "note": "Founded by a partner in a West India merchant house; in 1766 it took a mortgage on a Grenada plantation with enslaved people, owned it after default until 1772, and four partners were compensated in the 1830s.",
+     "basis": "documented",
+     "id": "hankey-family"
+    },
+    {
+     "name": "Smith, Payne & Smiths",
+     "relation": "predecessor firm",
+     "years": "1758–1902",
+     "note": "London bank of the Nottingham Smith banking family; it took mortgages on slave-holding Caribbean plantations, once helped fund the purchase of more enslaved people, and its partners received substantial compensation.",
+     "basis": "documented",
+     "id": "smith-payne-and-smiths"
+    },
+    {
+     "name": "Bristol predecessor banks (Miles, Harfords, Cave, Ames etc.)",
+     "relation": "predecessor firms",
+     "years": "1750–1810",
+     "note": "Seven Bristol banks that later joined NatWest served a merchant community that NatWest says 'highly likely' profited from the slave trade.",
+     "basis": "documented",
+     "id": "port-bristol"
+    },
+    {
+     "name": "Prescott's Bank",
+     "relation": "predecessor firm",
+     "years": "1766–1903",
+     "note": "As Prescott, Grote & Prescott it lent in 1816 on a mortgage of a Dominica plantation worked by enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "London and Westminster Bank (John Stewart, director)",
+     "relation": "predecessor firm",
+     "years": "1834–1909",
+     "note": "Its director John Stewart received c.£22,485 for 433 enslaved people in British Guiana (per LBS, reported by The Times); it later merged into Westminster Bank.",
+     "basis": "documented"
+    },
+    {
+     "name": "National Provincial & Westminster banks → National Westminster Bank",
+     "relation": "merger",
+     "years": "1918–1970",
+     "note": "Union of London & Smiths (heir to Smith, Payne & Smiths) joined National Provincial in 1918, and National Provincial merged with Westminster to begin trading as NatWest in 1970.",
+     "basis": "documented"
+    },
+    {
+     "name": "Royal Bank of Scotland Group",
+     "relation": "acquirer",
+     "years": "1727; 2000",
+     "note": "RBS took over NatWest in 2000; the group published a report on its predecessors' slavery links in 2006 (updated 2009).",
+     "basis": "documented"
+    },
+    {
+     "name": "NatWest Group plc (incl. Coutts, Ulster Bank; formerly Citizens)",
+     "relation": "today's group",
+     "years": "2020–present",
+     "note": "The group renamed itself NatWest Group in 2020; its former US arm Citizens filed slavery-era disclosures for US predecessors.",
+     "basis": "documented",
+     "id": "chicago-slavery-era-ordinance"
+    }
+   ],
+   "today": "NatWest Group plc (NatWest, Royal Bank of Scotland, Coutts) runs a Heritage Hub page on 'Enslavement and Colonialism' that names Hankey & Co, Prescott's, Smith, Payne & Smiths and seven Bristol banks and publishes digitised sources. In June 2020 an RBS spokeswoman said these 'important and painful issues have a place in our history' and that 'we recognise our responsibility to engage with that', and pledged a BAME-led review and support for minority-ethnic groups; no formal apology or reparations programme has been documented. The Smith banking family's descendants include the Barons Carrington (see Smith, Payne & Smiths)."
   },
   {
    "id": "hankey-family",
@@ -459,6 +747,22 @@
     {
      "label": "NatWest Group Heritage Hub — Enslavement and Colonialism",
      "url": "https://natwestgroup.com/heritage/subjects/enslavement-and-colonialism.html"
+    },
+    {
+     "label": "NatWest Group Heritage Hub — Hankey & Co",
+     "url": "https://www.natwestgroup.com/heritage/companies/hankey-and-co.html"
+    },
+    {
+     "label": "NatWest Group Heritage Hub — Consolidated Bank Ltd",
+     "url": "https://www.natwestgroup.com/heritage/companies/consolidated-bank-ltd.html"
+    },
+    {
+     "label": "UCL Legacies of British Slavery — Thomas Hankey I of Fetcham Park",
+     "url": "https://wwwdepts-live.ucl.ac.uk/lbs/person/view/2146649541"
+    },
+    {
+     "label": "King's College London, King's Past — Thomson Hankey",
+     "url": "https://kingspast.kcl.ac.uk/database/people/thomson-hankey-376"
     }
    ],
    "connections": [
@@ -482,7 +786,75 @@
      "type": "trade",
      "label": "West India merchants"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Captain Samuel Hankey",
+     "relation": "founder",
+     "years": "1640–1686",
+     "note": "A Cheshire-born goldsmith-banker who set up the Fenchurch Street firm in 1685; he was also a West India merchant trading to Jamaica, Antigua and the Leeward Islands.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Houblon",
+     "relation": "partner",
+     "years": "from c. 1674",
+     "note": "Hankey's partner in the West India house of Houblon & Hankey and later the first Governor of the Bank of England; NatWest says both men profited from a trade wholly reliant on enslaved Africans.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Henry Hankey",
+     "relation": "nephew",
+     "years": "c. 1667–1737",
+     "note": "Took over the bank aged 19 after Samuel's death, became an alderman and was knighted in 1732; by then his sons were partners in Henry Hankey & Sons.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir Joseph and Sir Thomas Hankey",
+     "relation": "sons",
+     "years": "d. 1769; d. 1770",
+     "note": "Ran the bank in turn as Sir Joseph Hankey & Co. (1739–1769), and passed it to the next generation of partners.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Hankey I of Fetcham Park",
+     "relation": "partner",
+     "years": "partner 1765, d. 1793",
+     "note": "Per LBS he was an extensive mortgagee of Jamaican plantations and the enslaved people on them; the firm became legal owner of Grenada's Union plantation after a default.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Hankey",
+     "relation": "brother",
+     "years": "18th century",
+     "note": "Co-founded the West India house Thomson Hankey & Co. with Peter Simond; it ran separately from the bank but in close association with it.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Alers Hankey",
+     "relation": "son",
+     "years": "d. 1859",
+     "note": "Natural son of Thomas Hankey I, who left him £6,000; he joined the bank in 1789 and was senior partner by 1830.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomson Hankey",
+     "relation": "descendant",
+     "years": "1805–1893",
+     "note": "West India merchant, Governor of the Bank of England 1851–53 and Liberal MP, who received at least £15,002 compensation for Grenada estates where 524 people were enslaved.",
+     "basis": "documented",
+     "id": "thomson-hankey"
+    },
+    {
+     "name": "Consolidated Bank → Parr's → Westminster → NatWest",
+     "relation": "successor firm",
+     "years": "1863/65–present",
+     "note": "Consolidated Bank Ltd took over Hankey & Co. (NatWest gives both 1863 and 1865), merged with Parr's in 1896, and the line ran on through Westminster Bank into today's NatWest Group.",
+     "basis": "documented",
+     "id": "natwest-group"
+    }
+   ],
+   "today": "Hankey & Co. survives only as a constituent of NatWest Group. NatWest's heritage pages state that the Hankeys profited from a West India trade wholly reliant on enslaved Africans. The Bank of England's 2020 apology and portrait review covered former governors, including Thomson Hankey. No publicly documented descendants have spoken about the link."
   },
   {
    "id": "hsbc",
@@ -544,6 +916,14 @@
     {
      "label": "UCL LBS — George Pollard",
      "url": "https://lbs.ucl.ac.uk/lbs/person/view/23791"
+    },
+    {
+     "label": "HSBC History — Galton and James",
+     "url": "https://history.hsbc.com/collections/global-archives/galton-and-james"
+    },
+    {
+     "label": "Leasing Life — UK bank asset finance providers' past links to slavery (2020)",
+     "url": "https://www.leasinglife.com/features/uk-bank-asset-finance-providers-past-links-to-slavery/"
     }
    ],
    "connections": [
@@ -572,7 +952,69 @@
      "type": "legacy",
      "label": "leaders compensated"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Leyland",
+     "relation": "founder",
+     "years": "1752–1827",
+     "note": "Liverpool merchant who helped finance at least 69 slaving voyages (per HSBC); profits from the trade helped capitalise his 1807 bank.",
+     "basis": "documented",
+     "id": "thomas-leyland"
+    },
+    {
+     "name": "Richard Bullin",
+     "relation": "partner (nephew)",
+     "years": "fl. 1807",
+     "note": "Leyland's nephew and co-founder of Leyland & Bullins, who also invested in the slave trade (per HSBC).",
+     "basis": "documented"
+    },
+    {
+     "name": "Leyland & Bullins",
+     "relation": "predecessor firm",
+     "years": "1807–1901",
+     "note": "Liverpool private bank acquired by the North and South Wales Bank in 1901.",
+     "basis": "documented",
+     "id": "leyland-and-bullins"
+    },
+    {
+     "name": "Moss and Co (John Moss) → North Western Bank",
+     "relation": "predecessor firm",
+     "years": "1807–1897",
+     "note": "Founded as Moss, Dales & Rogers; John Moss and his brother inherited about 1,000 enslaved people in the Bahamas in 1820; it became the North Western Bank (1864) and passed to London and Midland Bank in 1897.",
+     "basis": "documented",
+     "id": "moss-family-liverpool"
+    },
+    {
+     "name": "Galton family (Samuel Galton & Son) / Galton and James",
+     "relation": "possible predecessor",
+     "years": "1804–1831",
+     "note": "Birmingham gun makers who sold guns for the slave trade and part-owned the ship Africa (1774–75) founded the bank Galton and James; HSBC says it cannot confirm the bank was a Midland predecessor.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "London Joint Stock Bank (George Pollard, first manager)",
+     "relation": "predecessor firm",
+     "years": "1836–1918",
+     "note": "Its first manager George Pollard was awarded £2,416 for 134 enslaved people on Nevis (per LBS); it merged with Midland in 1918.",
+     "basis": "documented"
+    },
+    {
+     "name": "North and South Wales Bank → Midland Bank",
+     "relation": "successor firm",
+     "years": "1901–1992",
+     "note": "The Welsh bank that bought Leyland & Bullins was itself bought by Midland in 1908, making Midland heir to both Liverpool slave-trade banks.",
+     "basis": "documented"
+    },
+    {
+     "name": "HSBC Holdings plc / HSBC UK",
+     "relation": "today's group",
+     "years": "1992–present",
+     "note": "HSBC bought Midland in 1992; Midland is now HSBC UK.",
+     "basis": "documented"
+    }
+   ],
+   "today": "HSBC Holdings plc is one of the world's largest banking groups and Midland Bank survives as HSBC UK. After internal archive research completed in 2023 it published a 'Lessons from history' page naming Leyland and Bullins, Moss and Co, City Bank, Galton and James and London Joint Stock Bank, stating that HSBC 'regrets the past actions and activities of individuals associated with these predecessor banks and the harm they caused'. No reparations commitment has been made."
   },
   {
    "id": "moss-family-liverpool",
@@ -634,6 +1076,14 @@
     {
      "label": "Grace's Guide — John Moss",
      "url": "https://gracesguide.co.uk/John_Moss"
+    },
+    {
+     "label": "UCL Legacies of British Slavery — Henry Moss of Liverpool",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/41621"
+    },
+    {
+     "label": "Wikipedia — Edwards-Moss baronets",
+     "url": "https://en.wikipedia.org/wiki/Edwards-Moss_baronets"
     }
    ],
    "connections": [
@@ -657,7 +1107,69 @@
      "type": "legacy",
      "label": "£40,353 award"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Moss",
+     "relation": "father",
+     "years": "fl. 1784–1803",
+     "note": "A Liverpool merchant listed in the Transatlantic Slave Trade Database for 14 slave voyages (1784–1803); John joined his firm in 1803.",
+     "basis": "documented",
+     "id": "thomas-moss-liverpool"
+    },
+    {
+     "name": "James Moss senior",
+     "relation": "uncle",
+     "years": "d. 1820",
+     "note": "Held about 1,000 enslaved people in the Bahamas and died in October 1820 while moving them from Crooked Island; John and his brothers inherited them.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Moss of Otterspool",
+     "relation": "self",
+     "years": "1782–1858",
+     "note": "Founded Moss, Dales & Rogers in 1807, moved hundreds of the inherited people to Demerara, received £40,353 compensation for Anna Regina, and chaired Liverpool railway boards.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Moss and James Moss junior",
+     "relation": "brothers",
+     "years": "Henry 1790–1848",
+     "note": "Co-heirs of their uncle's enslaved people; Henry bought Anna Regina in Demerara with John in 1823 for £10,000 cash plus £40,000 in crops.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hannah Taylor",
+     "relation": "spouse",
+     "years": "m. 1805",
+     "note": "Married John Moss in 1805; they had sons Thomas, Gilbert Winter, John James and James.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir John Gladstone",
+     "relation": "ally",
+     "years": "1820s–1830s",
+     "note": "Fellow Liverpool Demerara owner; John Moss's 312 surviving letters to him underpin the account of their joint lobbying for slave-owner compensation.",
+     "basis": "interpretive",
+     "id": "gladstone-family"
+    },
+    {
+     "name": "Sir Thomas Edwards-Moss, 1st Baronet",
+     "relation": "son",
+     "years": "1811–1890",
+     "note": "John's eldest son, who added 'Edwards' on marrying the heiress of Roby Hall and was made a baronet in 1868.",
+     "basis": "documented"
+    },
+    {
+     "name": "North Western Bank → Midland → HSBC",
+     "relation": "successor firm",
+     "years": "1864–present",
+     "note": "The family bank, Moss & Co., became the North Western Bank in 1864 and joined the London and Midland Bank in 1897; it is now part of HSBC.",
+     "basis": "documented",
+     "id": "hsbc"
+    }
+   ],
+   "today": "The Edwards-Moss baronetcy created for John Moss's son is dormant: the last confirmed holder died in 1988, and no successor has been placed on the Official Roll. HSBC, the successor to the Moss bank, named John Moss's slavery links in 2023. No publicly documented descendants have spoken about the link. John Moss left about £90,000 at his death."
   },
   {
    "id": "drax-family",
@@ -699,7 +1211,7 @@
      "basis": "interpretive"
     }
    ],
-   "legacy": "Richard Drax, Conservative MP for South Dorset 2010–2024, inherited the 617-acre Drax Hall estate in 2017 and the family seat at Charborough. Barbados's government considered seeking reparations from him in 2022; a 2024 plan to buy 50 acres for housing (reportedly c. £3m) was paused after public outcry. He has called his ancestors' role 'deeply regrettable' but says no one today can be held responsible.",
+   "legacy": "Richard Drax, Conservative MP for South Dorset 2010–2024, inherited the c. 617-acre Drax Hall estate on his father's death in 2017 (probate of the Barbados holding was still being completed in 2021) and the family seat at Charborough. Barbados's government considered seeking reparations from him in 2022; a 2024 plan to buy 50 acres for housing (reportedly c. £3m) was paused after public outcry. He has called his ancestors' role 'deeply regrettable' but says no one today can be held responsible.",
    "legacyDetail": [
     {
      "t": "First individual reparations claim by a state.",
@@ -728,6 +1240,22 @@
     {
      "label": "CARICOM Reparations Commission — campaigners demand Drax pay reparations",
      "url": "https://caricomreparations.org/caribbean-campaigners-demand-tory-mp-pays-reparations-to-barbados-because-family-plantation-held-slaves-from-1640-to-1836/"
+    },
+    {
+     "label": "UCL Legacies of British Slavery — John Samuel Wanley Sawbridge Erle-Drax",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/2246"
+    },
+    {
+     "label": "Wikipedia — James Drax",
+     "url": "https://en.wikipedia.org/wiki/James_Drax"
+    },
+    {
+     "label": "Wikipedia — Reginald Drax",
+     "url": "https://en.wikipedia.org/wiki/Reginald_Drax"
+    },
+    {
+     "label": "Wikipedia — Richard Drax",
+     "url": "https://en.wikipedia.org/wiki/Richard_Drax"
     }
    ],
    "connections": [
@@ -756,7 +1284,74 @@
      "type": "legacy",
      "label": "claim in LBS"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "William Drax",
+     "relation": "father",
+     "years": "c. 1580–1632",
+     "note": "A Warwickshire gentleman of Finham, Stoneleigh, and father of the Barbados pioneer.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir James Drax",
+     "relation": "founder",
+     "years": "c. 1609–1662",
+     "note": "Reached Barbados in 1627, built Drax Hall around 1650 and made African captives the labour force of large-scale sugar; he was also an East India Company investor.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Drax",
+     "relation": "son",
+     "years": "1641–1682",
+     "note": "Ran the Barbados estate after his father died and continued the Drax Hall system.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Shetterden Drax",
+     "relation": "grandson",
+     "years": "1660–1702",
+     "note": "Son of James's daughter Elizabeth; he took the Drax surname to inherit the Drax estates from his uncle.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Drax and the Erle marriage",
+     "relation": "great-grandson",
+     "years": "c. 1693–1755; 1719",
+     "note": "In 1719 the Drax family married into the Erles of Charborough, Dorset, joining Barbados and Jamaica plantation wealth to the Dorset estate.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "John Samuel Wanley Sawbridge Erle-Drax",
+     "relation": "spouse",
+     "years": "1800–1887",
+     "note": "Married the heiress Jane Erle-Drax in 1827 and took her name; he received £4,293 compensation for 189 people at Drax Hall and spent heavily on Charborough, including its long brick wall.",
+     "basis": "documented",
+     "id": "john-sawbridge-erle-drax"
+    },
+    {
+     "name": "Ernle Elizabeth Burton (later Plunkett-Ernle-Erle-Drax)",
+     "relation": "heiress",
+     "years": "1855–1916",
+     "note": "Inherited the Erle-Drax estates in 1905 and took the family surnames by royal licence; she married John Plunkett, 17th Baron of Dunsany.",
+     "basis": "documented"
+    },
+    {
+     "name": "Admiral Sir Reginald Plunkett-Ernle-Erle-Drax",
+     "relation": "son",
+     "years": "1880–1967",
+     "note": "Inherited most of his mother's estates in 1916 and added the names, creating the Plunkett-Ernle-Erle-Drax line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Drax",
+     "relation": "descendant",
+     "years": "b. 1958",
+     "note": "Grandson of the admiral, Conservative MP for South Dorset 2010–2024; he inherited Drax Hall on his father's death in 2017 (the Barbados title was still in probate in 2021) together with Charborough and Ellerton Abbey.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Richard Drax, a former MP, still owns the c. 617–621-acre Drax Hall estate in Barbados, where sugar is still grown, along with c. 13,870 acres at Charborough in Dorset and the Ellerton Abbey estate in Swaledale. In 2023 Barbados's reparations commission proposed returning Drax Hall as a museum. A 2024 plan to buy land there for housing was dropped after public opposition, and in April 2024 Prime Minister Mia Mottley said no settlement had been agreed. He has declined to make a formal apology."
   },
   {
    "id": "james-duff",
@@ -811,6 +1406,10 @@
     {
      "label": "Channel 4 News — Jamaica calls for Britain to pay slave trade reparations",
      "url": "https://www.channel4.com/news/jamaica-calls-for-britain-to-pay-slave-trade-reparations"
+    },
+    {
+     "label": "Wikipedia — James Duff (British Army officer)",
+     "url": "https://en.wikipedia.org/wiki/James_Duff_(British_Army_officer)"
     }
    ],
    "connections": [
@@ -829,7 +1428,52 @@
      "type": "political",
      "label": "2015 reparations demands"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "James Duff, 2nd Earl Fife",
+     "relation": "father",
+     "years": "1729–1809",
+     "note": "A Scottish peer and landowner; Sir James was his eldest illegitimate son, born at Keith to Margaret Adam.",
+     "basis": "documented"
+    },
+    {
+     "name": "Margaret Adam",
+     "relation": "mother",
+     "years": "18th century",
+     "note": "A woman of Keith of humble status, mother of the future general.",
+     "basis": "documented"
+    },
+    {
+     "name": "Basilia Dawes",
+     "relation": "spouse",
+     "years": "m. 1785, d. 1849",
+     "note": "Daughter and heir of James Dawes of Rockspring, Jamaica, through whom Duff gained a considerable fortune; Jamaican plantation property likely came to him this way.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Grange estate, Hanover, Jamaica",
+     "relation": "estate",
+     "years": "to 1834",
+     "note": "Sugar estate where about 202 people were enslaved; Duff received £4,101 compensation for it (claim Jamaica Hanover 455).",
+     "basis": "documented"
+    },
+    {
+     "name": "One son and three daughters",
+     "relation": "children",
+     "years": "",
+     "note": "Duff's children are recorded but not named in the main published sources used here.",
+     "basis": "documented"
+    },
+    {
+     "name": "David Cameron",
+     "relation": "collateral relative",
+     "years": "b. 1966",
+     "note": "UCL's LBS project identified the former Prime Minister as Duff's first cousin six times removed, a link raised by Jamaican campaigners during his 2015 visit.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented direct descendants have been traced. The family's public link today runs through a collateral line: UCL identified David Cameron as a distant cousin, and Jamaican reparations campaigners cited this when he visited Jamaica in 2015. Duff's compensation of £4,101 has been valued at roughly £420,000 in modern terms."
   },
   {
    "id": "cumberbatch-family",
@@ -881,6 +1525,14 @@
     {
      "label": "AOL / USA Today — Is Benedict Cumberbatch facing slavery reparations in Barbados? Official says no",
      "url": "https://www.aol.com/news/benedict-cumberbatch-facing-slavery-reparations-232214396.html"
+    },
+    {
+     "label": "UCL Legacies of British Slavery — Abraham Cumberbatch",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/2146643993"
+    },
+    {
+     "label": "Wikipedia — Benedict Cumberbatch",
+     "url": "https://en.wikipedia.org/wiki/Benedict_Cumberbatch"
     }
    ],
    "connections": [
@@ -904,7 +1556,73 @@
      "type": "political",
      "label": "reparations context"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Abraham Cumberbatch",
+     "relation": "founder",
+     "years": "d. 1753",
+     "note": "Acquired Barbados properties worked by enslaved people; the family went on to own St Nicholas Abbey for at least two centuries.",
+     "basis": "documented"
+    },
+    {
+     "name": "Cumberbatch Sober",
+     "relation": "grandfather",
+     "years": "18th century",
+     "note": "Maternal grandfather of Abraham Parry Cumberbatch, through whose daughter Mary further Barbados family wealth joined the line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Abraham Cumberbatch",
+     "relation": "father",
+     "years": "1754–1796",
+     "note": "Married his second cousin Mary Cumberbatch Sober and left the Cleland estate to his son by will.",
+     "basis": "documented"
+    },
+    {
+     "name": "Abraham Parry Cumberbatch",
+     "relation": "self",
+     "years": "1784–1840",
+     "note": "Absentee owner of Cleland and Farm, where 219–243 people were enslaved in 1817–32; the compensation was paid to trustees to fund his widow's annuity.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charlotte Jones and Caroline Chaloner",
+     "relation": "spouses",
+     "years": "m. 1805; m. 1819",
+     "note": "His first wife's mother held an annuity charged on Cleland; his second wife's brother, Robert Chaloner MP, was a trustee of the compensation money.",
+     "basis": "documented"
+    },
+    {
+     "name": "Abraham Carleton Cumberbatch",
+     "relation": "son",
+     "years": "1807–1875",
+     "note": "Eldest son and heir under an entail of the estates; he reportedly left £30,000.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert William Cumberbatch",
+     "relation": "son",
+     "years": "1821–1876",
+     "note": "Son by Caroline Chaloner who became a British consul in the Ottoman and Russian empires; the actor's line descends from him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Alfred and Henry Carlton Cumberbatch",
+     "relation": "descendants",
+     "years": "19th–20th c.",
+     "note": "A diplomat and consul in Turkey and Lebanon, and his son, a submarine officer in both world wars.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "relation": "descendant",
+     "years": "b. 1976",
+     "note": "The actor, son of the actor Timothy Carlton, is a direct descendant of Abraham Parry Cumberbatch.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The actor Benedict Cumberbatch is the best-known public descendant. He has reportedly said most of the family money had run out by the time he was born and that he grew up 'definitely middle class'. Media speculation in 2023–24 that Barbados would seek reparations from the family was rebuked by Barbadian officials. No wrongdoing by living descendants is alleged."
   },
   {
    "id": "mcgarel-hogg-family",
@@ -967,6 +1685,14 @@
     {
      "label": "Irish Post — Amnesty calls on Larne to rename McGarel Town Hall",
      "url": "https://www.irishpost.com/news/amnesty-international-calls-on-larne-to-rename-mcgarel-town-hall-because-of-links-to-slave-trader-186891"
+    },
+    {
+     "label": "Wikipedia — Charles McGarel",
+     "url": "https://en.wikipedia.org/wiki/Charles_McGarel"
+    },
+    {
+     "label": "Wikipedia — Quintin Hogg (merchant)",
+     "url": "https://en.wikipedia.org/wiki/Quintin_Hogg_(merchant)"
     }
    ],
    "connections": [
@@ -990,7 +1716,74 @@
      "type": "trade",
      "label": "London West India sugar trade"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Alexander and David Hall",
+     "relation": "partners",
+     "years": "1820s–1830s",
+     "note": "Co-founders with McGarel of Hall, McGarel & Co. of 7 Austin Friars; per LBS the partners received almost £100,000 compensation for nearly 1,000 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles McGarel",
+     "relation": "self",
+     "years": "1788–1876",
+     "note": "Larne-born Demerara merchant and slave-owner who in 1826 petitioned against compulsory manumission and paid c. £5,500 for Larne Town Hall in 1870.",
+     "basis": "documented"
+    },
+    {
+     "name": "Sir James Weir Hogg",
+     "relation": "father-in-law",
+     "years": "1790–1876",
+     "note": "Chairman of the East India Company and MP, whose daughter McGarel married.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Rosina Hogg",
+     "relation": "spouse",
+     "years": "m. 1856, d. 1913",
+     "note": "Married McGarel in 1856, when he was 68 and she was 28; the marriage tied his Demerara wealth to the Hogg family.",
+     "basis": "documented"
+    },
+    {
+     "name": "James McGarel-Hogg, 1st Baron Magheramorne",
+     "relation": "heir",
+     "years": "19th c.",
+     "note": "McGarel's brother-in-law, who inherited his estate on condition that he add 'McGarel' to his name, and was later made a peer.",
+     "basis": "documented"
+    },
+    {
+     "name": "Quintin Hogg",
+     "relation": "brother-in-law",
+     "years": "1845–1903",
+     "note": "With McGarel's help he joined Demerara sugar merchants Bosanquet, Curtis & Co. in 1864–65, rose to senior partner, and spent about £100,000 founding the Regent Street Polytechnic.",
+     "basis": "documented",
+     "id": "quintin-hogg-merchant"
+    },
+    {
+     "name": "Douglas Hogg, 1st Viscount Hailsham",
+     "relation": "son of Quintin",
+     "years": "1872–1950",
+     "note": "Conservative Lord Chancellor; the Hailsham viscountcy was created for him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Quintin McGarel Hogg, 2nd Viscount Hailsham",
+     "relation": "grandson of Quintin",
+     "years": "1907–2001",
+     "note": "Carried the McGarel name and was Lord Chancellor in 1970–74 and 1979–87 (as Lord Hailsham of St Marylebone).",
+     "basis": "documented"
+    },
+    {
+     "name": "Douglas Hogg, 3rd Viscount Hailsham",
+     "relation": "great-grandson",
+     "years": "b. 1945",
+     "note": "Former Conservative MP and Cabinet minister who holds the viscountcy today.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Hailsham viscountcy, descended from Quintin Hogg, is held by Douglas Hogg, 3rd Viscount Hailsham, a former Cabinet minister. No public statement by him on the McGarel link has been found. McGarel's name remains on Larne's McGarel Town Hall, which Amnesty International asked to be renamed in 2020. Quintin Hogg's Polytechnic is now the University of Westminster."
   },
   {
    "id": "moses-taylor",
@@ -1046,6 +1839,14 @@
     {
      "label": "NYPL — Moses Taylor papers",
      "url": "https://rp-digitalcollections.nypl.org/collections/moses-taylor-papers"
+    },
+    {
+     "label": "Wikipedia — Moses Taylor",
+     "url": "https://en.wikipedia.org/wiki/Moses_Taylor"
+    },
+    {
+     "label": "Wikipedia — Moses Taylor Pyne",
+     "url": "https://en.wikipedia.org/wiki/Moses_Taylor_Pyne"
     }
    ],
    "connections": [
@@ -1069,7 +1870,69 @@
      "type": "parallel",
      "label": "Cuban slave-trade economy"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Moses Taylor's father",
+     "relation": "father",
+     "years": "early 19th c.",
+     "note": "An agent for John Jacob Astor whose connections gave Moses an early start in New York commerce.",
+     "basis": "documented"
+    },
+    {
+     "name": "The Howland shipping house",
+     "relation": "mentor firm",
+     "years": "c. 1821–1832",
+     "note": "The New York shipping house where Taylor started as a clerk at 15 and learned the Latin American trade before setting up as a Cuban sugar broker in 1832.",
+     "basis": "documented"
+    },
+    {
+     "name": "Catharine Anne Wilson",
+     "relation": "spouse",
+     "years": "m. 1833",
+     "note": "Married Taylor in 1833; they had five children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Percy Rivington Pyne I",
+     "relation": "son-in-law",
+     "years": "1820–1895",
+     "note": "Taylor's partner in the Cuban sugar commission business who married his daughter Albertina and succeeded him as president of City Bank in 1882.",
+     "basis": "documented"
+    },
+    {
+     "name": "City Bank of New York",
+     "relation": "firm",
+     "years": "president 1856–1882",
+     "note": "Taylor ran the bank for 26 years; his Cuban-trade businesses kept accounts there, which Citi says let the bank profit indirectly from enslaved labour.",
+     "basis": "documented",
+     "id": "citigroup"
+    },
+    {
+     "name": "Moses Taylor Pyne",
+     "relation": "grandson",
+     "years": "1855–1921",
+     "note": "Heir to part of the Taylor sugar fortune who became one of Princeton University's leading benefactors and built Drumthwacket.",
+     "basis": "documented",
+     "id": "moses-taylor-pyne"
+    },
+    {
+     "name": "Percy Rivington Pyne 2nd",
+     "relation": "great-grandson",
+     "years": "20th c.",
+     "note": "Son of Moses Taylor Pyne, who carried on the family's banking and Princeton connections.",
+     "basis": "documented"
+    },
+    {
+     "name": "National City Bank → Citigroup",
+     "relation": "successor firm",
+     "years": "1865–present",
+     "note": "City Bank became National City Bank and, through later mergers, Citigroup.",
+     "basis": "documented",
+     "id": "citigroup"
+    }
+   ],
+   "today": "Taylor's bank is now Citigroup, which has acknowledged that City Bank profited indirectly from enslaved labour through his businesses. His grandson's Princeton gifts and estate, Drumthwacket (now the New Jersey governor's official residence), are documented by the Princeton & Slavery Project. The Moses Taylor Hospital in Scranton, endowed in 1882, still operates. No publicly documented living descendants have spoken about the link."
   },
   {
    "id": "citigroup",
@@ -1118,6 +1981,14 @@
     {
      "label": "Fortune — Citigroup says predecessor companies likely saw indirect financial benefits from slavery",
      "url": "https://fortune.com/2023/07/27/citigroup-predecessor-companies-indirect-financial-benefits-from-slavery"
+    },
+    {
+     "label": "Wikipedia — Moses Taylor",
+     "url": "https://en.wikipedia.org/wiki/Moses_Taylor"
+    },
+    {
+     "label": "Wikipedia — Haitian independence debt",
+     "url": "https://en.wikipedia.org/wiki/Haitian_independence_debt"
     }
    ],
    "connections": [
@@ -1136,7 +2007,61 @@
      "type": "parallel",
      "label": "similar US bank disclosure"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "City Bank of New York (founding directors)",
+     "relation": "founders",
+     "years": "1812",
+     "note": "Chartered in 1812; Citi's 2023 review found some founding or early directors 'likely owned enslaved persons', without naming them.",
+     "basis": "documented"
+    },
+    {
+     "name": "G. G. & S. Howland",
+     "relation": "mentor firm",
+     "years": "c.1820s–1832",
+     "note": "New York shipping and import house trading with South America where Moses Taylor trained as a clerk before setting up his own Cuban sugar brokerage in 1832.",
+     "basis": "documented"
+    },
+    {
+     "name": "Moses Taylor",
+     "relation": "president",
+     "years": "1806–1882",
+     "note": "Sugar broker and lender to Cuban planters, made a director after the 1837 panic and president in the mid-1850s; his slave-grown sugar businesses banked at City Bank.",
+     "basis": "documented",
+     "id": "moses-taylor"
+    },
+    {
+     "name": "Percy Pyne",
+     "relation": "son-in-law & successor",
+     "years": "pres. 1882–1891",
+     "note": "Taylor's son-in-law and former assistant, who succeeded him as president.",
+     "basis": "documented"
+    },
+    {
+     "name": "National City Bank of New York",
+     "relation": "successor firm",
+     "years": "1865–1955",
+     "note": "City Bank took a national charter in 1865; after 1922 Haiti's refinanced French-era debt was owed to American investors and, per a 2022 New York Times analysis, Haiti's final payment went to National City Bank in 1947.",
+     "basis": "documented",
+     "id": "haiti-independence-debt"
+    },
+    {
+     "name": "First National City Bank / Citibank / Citicorp",
+     "relation": "successor firm",
+     "years": "1955–1998",
+     "note": "Successive names of the same bank.",
+     "basis": "documented"
+    },
+    {
+     "name": "Citigroup Inc.",
+     "relation": "today's group",
+     "years": "1998–present",
+     "note": "Formed by the 1998 merger of Citicorp and Travelers Group.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Citigroup Inc. is one of the largest US banks. In July 2023 it published the results of a 2022 review with an independent historical firm, finding no record that Citi or its predecessors directly bought, sold or held enslaved people, but that some predecessors 'likely indirectly profited' from slavery, through clients such as Moses Taylor's Cuban sugar businesses and directors who likely owned enslaved people. It linked the findings to its $1bn Action for Racial Equity programme (2020) rather than an apology or direct reparations."
   },
   {
    "id": "bank-of-america",
@@ -1222,7 +2147,62 @@
      "type": "parallel",
      "label": "Wachovia's 2005 apology"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Brown",
+     "relation": "founder",
+     "years": "1736–1803",
+     "note": "Providence slave-ship owner and slave trader who was the Providence Bank's founding president, director and shareholder (23 shares).",
+     "basis": "documented",
+     "id": "brown-family-providence"
+    },
+    {
+     "name": "Providence Bank",
+     "relation": "predecessor firm",
+     "years": "1791",
+     "note": "Rhode Island's first bank; BofA's 2005 research said it kept its distance from slave-trade activity, while reparations plaintiffs alleged it lent money for Brown's slaving; the claim remains disputed.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Fleet / FleetBoston Financial",
+     "relation": "successor firm",
+     "years": "to 2004",
+     "note": "New England bank group that inherited the Providence Bank line, named as a defendant in the 2002 reparations suits and bought by Bank of America in 2004.",
+     "basis": "documented",
+     "id": "farmer-paellmann-lawsuit"
+    },
+    {
+     "name": "Boatmen's Savings Institution and Southern Bank of St. Louis",
+     "relation": "predecessor firms",
+     "years": "1847–1860s",
+     "note": "St. Louis predecessors which, per BofA's 2005 Heritage Research Center report, recorded enslaved people as collateral in transactions (1863), though the report said neither took possession of them; Boatmen's later passed to NationsBank (1997).",
+     "basis": "documented"
+    },
+    {
+     "name": "Bank of Metropolis",
+     "relation": "predecessor firm",
+     "years": "19th c.",
+     "note": "A further predecessor reported to have accepted enslaved people as loan collateral; detail is from secondary reporting of the disclosure.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "NationsBank and BankAmerica",
+     "relation": "merger",
+     "years": "1998",
+     "note": "NationsBank (heir of Boatmen's) merged with BankAmerica in 1998 to form today's Bank of America.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bank of America Corporation",
+     "relation": "today's group",
+     "years": "1998–present",
+     "note": "Headquartered in Charlotte; filed its slavery-era disclosure under the Chicago ordinance in 2005.",
+     "basis": "documented",
+     "id": "chicago-slavery-era-ordinance"
+    }
+   ],
+   "today": "Bank of America Corporation is the second-largest US bank. Its 2005 disclosure (filed under Chicago's Slavery Era Disclosure Ordinance and later posted by Philadelphia) found slave-collateral transactions by St. Louis predecessors, and CEO Kenneth Lewis expressed regret for predecessor institutions that supported or tolerated slavery. Chicago aldermen disputed its account of the Providence Bank; no reparations scheme specific to slavery has been made."
   },
   {
    "id": "csx-corporation",
@@ -1276,6 +2256,18 @@
     {
      "label": "Business & Human Rights Resource Centre — Rail networks own lines built with slave labor (USA Today, 2002)",
      "url": "https://www.business-humanrights.org/de/neuste-meldungen/rail-networks-own-lines-built-with-slave-labor-usa"
+    },
+    {
+     "label": "Wikipedia — Richmond and Petersburg Railroad",
+     "url": "https://en.wikipedia.org/wiki/Richmond_and_Petersburg_Railroad"
+    },
+    {
+     "label": "Wikipedia — Richmond, Fredericksburg and Potomac Railroad",
+     "url": "https://en.wikipedia.org/wiki/Richmond,_Fredericksburg_and_Potomac_Railroad"
+    },
+    {
+     "label": "American Historical Association 2009 — paper on enslaved workers' earnings on the RF&P",
+     "url": "https://aha.confex.com/aha/2009/webprogram/Paper2257.html"
     }
    ],
    "connections": [
@@ -1294,7 +2286,46 @@
      "type": "parallel",
      "label": "co-defendant 2002"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Richmond, Fredericksburg & Potomac Railroad",
+     "relation": "predecessor railroad",
+     "years": "1834–1991",
+     "note": "Virginia line whose surviving payroll records document hired enslaved workers (with annual hire paid to their enslavers); its corporation passed into CSX Transportation in 1991.",
+     "basis": "documented"
+    },
+    {
+     "name": "Richmond & Petersburg Railroad",
+     "relation": "predecessor railroad",
+     "years": "1836–1900",
+     "note": "Ran largely on enslaved labour: in 1864 it used 118 enslaved workers beside 78 paid staff, nearly all leased from enslavers, and it owned one enslaved person in 1858.",
+     "basis": "documented"
+    },
+    {
+     "name": "Atlantic Coast Line Railroad",
+     "relation": "successor firm",
+     "years": "1900–1967",
+     "note": "Formed in 1900 by merging the Richmond & Petersburg with four other Southern lines.",
+     "basis": "documented"
+    },
+    {
+     "name": "Seaboard Coast Line and Chessie System (B&O, C&O)",
+     "relation": "merger",
+     "years": "1967–1980",
+     "note": "ACL merged with Seaboard Air Line in 1967; the Seaboard family and the Chessie System combined in 1980 to form CSX.",
+     "basis": "documented"
+    },
+    {
+     "name": "CSX Corporation",
+     "relation": "today's group",
+     "years": "1980–present",
+     "note": "Named in 2002 as a defendant in the Farmer-Paellmann reparations suits, which were dismissed.",
+     "basis": "documented",
+     "id": "farmer-paellmann-lawsuit"
+    }
+   ],
+   "today": "CSX Corporation, based in Jacksonville, Florida, is one of the largest US freight railroads and still runs over track built or worked by enslaved people, such as the RF&P Subdivision. The 2002 reparations claims against it were dismissed in 2004–05, and no CSX apology or historical study of its predecessors' use of enslaved labour has been found."
   },
   {
    "id": "norfolk-southern",
@@ -1347,6 +2378,18 @@
     {
      "label": "Business & Human Rights Resource Centre — Rail networks own lines built with slave labor (USA Today, 2002)",
      "url": "https://www.business-humanrights.org/de/neuste-meldungen/rail-networks-own-lines-built-with-slave-labor-usa"
+    },
+    {
+     "label": "South Carolina Encyclopedia — South Carolina Railroad",
+     "url": "https://www.scencyclopedia.org/sce/entries/south-carolina-railroad"
+    },
+    {
+     "label": "SC Department of Archives and History — St. Matthews Railroad Cut brochure",
+     "url": "https://scdah.sc.gov/sites/scdah/files/Documents/Historic%20Preservation%20(SHPO)/Research/Historic%20Contexts/St.%20Matthews%20Railroad%20Cut%20Brochure.pdf"
+    },
+    {
+     "label": "American-Rails — South Carolina Canal and Rail Road Company",
+     "url": "https://www.american-rails.com/south-carolina-canal-and-rail-road-company.html"
     }
    ],
    "connections": [
@@ -1370,7 +2413,55 @@
      "type": "parallel",
      "label": "railroads built with enslaved labour"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "South Carolina Canal & Rail Road Company",
+     "relation": "predecessor railroad",
+     "years": "1827–1844",
+     "note": "Its 136-mile Charleston–Hamburg line (1833) was built largely by enslaved labourers, and enslaved firemen worked its engines, including the Best Friend of Charleston, which exploded in 1831.",
+     "basis": "documented",
+     "id": "south-carolina-railroad"
+    },
+    {
+     "name": "South Carolina Railroad",
+     "relation": "successor firm",
+     "years": "1844–1894",
+     "note": "Renamed company that hired enslaved people from nearby plantations and bought 89 African Americans between 1845 and 1860 to maintain the line.",
+     "basis": "documented",
+     "id": "south-carolina-railroad"
+    },
+    {
+     "name": "South Carolina & Georgia Railroad",
+     "relation": "successor firm",
+     "years": "1894–1899",
+     "note": "Reorganised successor, absorbed into the Southern Railway system.",
+     "basis": "documented"
+    },
+    {
+     "name": "Southern Railway",
+     "relation": "successor firm",
+     "years": "1894–1982",
+     "note": "Southern system that gathered dozens of antebellum lines, including the old South Carolina Railroad.",
+     "basis": "documented"
+    },
+    {
+     "name": "Norfolk & Western Railway",
+     "relation": "merger partner",
+     "years": "1838–1982",
+     "note": "Virginia-based system whose antebellum predecessor lines also operated in the slave South; its own use of enslaved labour is less well documented.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Norfolk Southern Corporation",
+     "relation": "today's group",
+     "years": "1982–present",
+     "note": "Formed by merging Southern and N&W; sued in 2002 as successor to slave-labour railroads.",
+     "basis": "documented",
+     "id": "farmer-paellmann-lawsuit"
+    }
+   ],
+   "today": "Norfolk Southern Corporation, based in Atlanta, is a major US freight railroad. Its oldest strand, the South Carolina Canal & Rail Road, is celebrated in railroad history for the Best Friend of Charleston, though state histories record that enslaved people built, fired and maintained it. The 2002 reparations suits were dismissed, and no company apology or historical study has been found."
   },
   {
    "id": "brooks-brothers",
@@ -1417,6 +2508,10 @@
     {
      "label": "The Historic New Orleans Collection — Enslaved servant's coat loan to the Met",
      "url": "https://www.hnoc.org/publications/first-draft/enslaved-servants-coat-loan-met-helps-tell-unfinished-stories-about"
+    },
+    {
+     "label": "Wikipedia — Brooks Brothers",
+     "url": "https://en.wikipedia.org/wiki/Brooks_Brothers"
     }
    ],
    "connections": [
@@ -1430,7 +2525,60 @@
      "type": "parallel",
      "label": "Northern firm serving slave economy"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Henry Sands Brooks",
+     "relation": "founder",
+     "years": "c.1772–1833",
+     "note": "Opened H. & D. H. Brooks & Co. at Catherine and Cherry Streets, New York, on 7 April 1818; the firm passed to his four sons on his death in 1833.",
+     "basis": "documented"
+    },
+    {
+     "name": "The four Brooks sons",
+     "relation": "sons & heirs",
+     "years": "1833–1870s",
+     "note": "They renamed the firm Brooks Brothers in 1850, built its ready-to-wear and livery trade, and in 1853 it appeared among creditors in 'The Tailor's Appeal' over unpaid bills from Southern customers.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dr William Newton Mercer household, New Orleans",
+     "relation": "customer",
+     "years": "d.1874",
+     "note": "Two Brooks Brothers livery coats with Mercer falcon-crest buttons, now at The Historic New Orleans Collection, were probably made for young enslaved domestic servants.",
+     "basis": "interpretive",
+     "id": "port-new-orleans"
+    },
+    {
+     "name": "Winthrop Holley Brooks",
+     "relation": "descendant",
+     "years": "head 1935–1946",
+     "note": "Last Brooks family member to run the company; on his retirement it was sold.",
+     "basis": "documented"
+    },
+    {
+     "name": "Garfinckel's, Allied Stores, Marks & Spencer",
+     "relation": "owners",
+     "years": "1946–2001",
+     "note": "Julius Garfinckel & Co. bought it in 1946, Allied Stores took over in 1981 and Marks & Spencer owned it from 1988.",
+     "basis": "documented"
+    },
+    {
+     "name": "Retail Brand Alliance (Claudio Del Vecchio)",
+     "relation": "owner",
+     "years": "2001–2020",
+     "note": "Bought from M&S in 2001; filed for Chapter 11 in July 2020.",
+     "basis": "documented"
+    },
+    {
+     "name": "SPARC Group / Catalyst Brands",
+     "relation": "today's owner",
+     "years": "2020–present",
+     "note": "Authentic Brands Group and Simon Property Group's SPARC bought it in 2020; since 2025 it is part of Catalyst Brands (with JCPenney).",
+     "basis": "documented"
+    }
+   ],
+   "today": "Brooks Brothers trades as a brand of Catalyst Brands. Historian Jonathan Michael Square writes that the company has not publicly acknowledged its sale of livery to slaveholding households and did not respond to his requests to see its archive. No Brooks family descendants have spoken publicly about the link."
   },
   {
    "id": "caisse-des-depots",
@@ -1487,6 +2635,10 @@
     {
      "label": "Collège de France — Haiti 1825: from independence to debt (symposium)",
      "url": "https://college-de-france.fr/en/agenda/symposium/haiti-1825-from-independence-to-debt"
+    },
+    {
+     "label": "Ligue des droits de l'Homme — Letter to the French President on the debt imposed on Haiti in 1825 (2025)",
+     "url": "https://www.ldh-france.org/wp-content/uploads/2025/03/20250326-Lettre-au-PR-sur-la-dette-imposee-a-Haiti-en-1825.pdf"
     }
    ],
    "connections": [
@@ -1510,7 +2662,71 @@
      "type": "charter",
      "label": "1825 ordinance of Charles X"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Restoration finance law of 1816",
+     "relation": "founding",
+     "years": "1816",
+     "note": "Louis XVIII's government created the Caisse des Dépôts et Consignations to hold public and court-ordered deposits.",
+     "basis": "documented",
+     "id": "crown-of-france"
+    },
+    {
+     "name": "Charles X's ordinance of 17 April 1825",
+     "relation": "charter",
+     "years": "1825",
+     "note": "Recognised Haiti's independence in exchange for 150 million francs in five instalments, payable to the Caisse for distribution to former colonists.",
+     "basis": "documented",
+     "id": "haiti-independence-debt"
+    },
+    {
+     "name": "Ternaux Gandolphe et Cie and the Laffitte consortium",
+     "relation": "lenders",
+     "years": "1825–1826",
+     "note": "Paris bankers who arranged and bought Haiti's 1825 bond, creating the 'double debt' of indemnity plus loan.",
+     "basis": "documented"
+    },
+    {
+     "name": "Former Saint-Domingue colonists",
+     "relation": "beneficiaries",
+     "years": "1825–1880s",
+     "note": "Ex-planters and heirs who received payments through the Caisse as compensation for lost property, including enslaved people.",
+     "basis": "documented",
+     "id": "saint-domingue"
+    },
+    {
+     "name": "1838 treaties",
+     "relation": "revision",
+     "years": "1838",
+     "note": "France cut the total to 90 million francs, payable over 30 years; France acknowledged it as paid in 1888.",
+     "basis": "documented"
+    },
+    {
+     "name": "Crédit Industriel et Commercial (CIC)",
+     "relation": "lender",
+     "years": "1874–1880",
+     "note": "Lent Haiti money in 1874–75 to finish paying the indemnity and in 1880 set up the Paris-run National Bank of Haiti.",
+     "basis": "documented",
+     "id": "cic-bank"
+    },
+    {
+     "name": "National City Bank of New York",
+     "relation": "later creditor",
+     "years": "1922–1947",
+     "note": "After 1922 Haiti's French-era debt was owed to American investors; per the New York Times (2022) Haiti's last payment went to National City Bank in 1947.",
+     "basis": "documented",
+     "id": "citigroup"
+    },
+    {
+     "name": "Groupe Caisse des Dépôts",
+     "relation": "today's institution",
+     "years": "present",
+     "note": "The same public institution, today France's main public financial group.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Caisse des Dépôts is today France's public financial group, controlling bodies such as La Poste and Bpifrance. In 2025 Pierre-Yves Bocquet of the Fondation pour la mémoire de l'esclavage used documents in the Caisse's archives to argue that the French Treasury may itself have profited from the 'double debt'. In 2025 France set up a joint Franco-Haitian commission of historians on the indemnity's impact; restitution has not been agreed."
   },
   {
    "id": "royal-exchange-assurance",
@@ -1566,6 +2782,14 @@
     {
      "label": "Global Trade Review — Insurance giants apologise over slave trade ties (2020)",
      "url": "https://www.gtreview.com/news/europe/insurance-giants-apologise-over-slave-trade-ties-amid-bleak-bame-employee-stats-for-industry/"
+    },
+    {
+     "label": "Wikipedia — Guardian Royal Exchange Assurance",
+     "url": "https://en.wikipedia.org/wiki/Guardian_Royal_Exchange_Assurance"
+    },
+    {
+     "label": "AIM25 / London Metropolitan Archives — Royal Exchange Assurance (CLC/B/107-02)",
+     "url": "https://atom.aim25.com/index.php/royal-exchange-assurance-2"
     }
    ],
    "connections": [
@@ -1584,7 +2808,54 @@
      "type": "finance",
      "label": "London marine insurance"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "'Onslow's Bubble' promoters (Richard Onslow, 1st Baron Onslow)",
+     "relation": "founders",
+     "years": "1717–1720",
+     "note": "Royal Exchange Assurance grew out of an insurance scheme promoted under Lord Onslow, who is usually named as its first governor when it was chartered in 1720.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Royal charter of 1720 (Bubble Act)",
+     "relation": "charter",
+     "years": "1720",
+     "note": "With London Assurance, one of two companies granted marine-insurance charters in the same Act that served the South Sea scheme.",
+     "basis": "documented",
+     "id": "south-sea-company"
+    },
+    {
+     "name": "Directors and a deputy governor in LBS",
+     "relation": "governors",
+     "years": "18th–19th c.",
+     "note": "UCL's Legacies of British Slavery database links three directors and one deputy governor to slavery.",
+     "basis": "documented",
+     "id": "ucl-legacies-of-british-slavery"
+    },
+    {
+     "name": "Guardian Royal Exchange Assurance",
+     "relation": "merger",
+     "years": "1968–1999",
+     "note": "Formed when Royal Exchange Assurance combined with the Guardian Assurance Company in 1968.",
+     "basis": "documented"
+    },
+    {
+     "name": "AXA (Sun Life & Provincial Holdings)",
+     "relation": "acquirer",
+     "years": "1999",
+     "note": "AXA bought Guardian Royal Exchange for c.$5.7bn in February 1999 and folded it into its UK arm Sun Life & Provincial Holdings, selling the life business to Aegon. It was not part of Sun Alliance, which merged with Royal Insurance to form RSA in 1996.",
+     "basis": "documented"
+    },
+    {
+     "name": "AXA UK",
+     "relation": "today's group",
+     "years": "present",
+     "note": "The French group AXA's UK insurance business holds the old general-insurance line.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Royal Exchange Assurance's business sits today within the French insurer AXA (its UK arm). When Lloyd's, Aviva and RSA acknowledged slave-trade links in 2020, AXA was named for its Guardian Royal Exchange inheritance but was unavailable to comment, and no apology specific to Royal Exchange Assurance has been found. Its archives are held at London Metropolitan Archives (CLC/B/107)."
   },
   {
    "id": "elihu-yale",
@@ -1640,6 +2911,10 @@
     {
      "label": "Yale and Slavery Research Project — Yale and Slavery: A History (2024, PDF)",
      "url": "https://yaleandslavery.yale.edu/sites/default/files/2024-02/Yale%20and%20Slavery%20A%20History%20Feb2024%20David%20Blight%20with%20the%20Yale%20and%20Slavery%20Research%20Project.pdf"
+    },
+    {
+     "label": "Wikipedia — Elihu Yale",
+     "url": "https://en.wikipedia.org/wiki/Elihu_Yale"
     }
    ],
    "connections": [
@@ -1653,7 +2928,67 @@
      "type": "parallel",
      "label": "contemporary chartered-company slave trade"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Theophilus Eaton",
+     "relation": "step-grandfather",
+     "years": "1590–1658",
+     "note": "Married Elihu's grandmother Anne Yale (née Lloyd), making him stepfather to David Yale; Eaton co-founded the New Haven colony, where Yale College later settled.",
+     "basis": "documented"
+    },
+    {
+     "name": "David Yale",
+     "relation": "father",
+     "years": "1613–1690",
+     "note": "A Boston merchant and attorney who moved the family to London, where Elihu grew up.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ursula Knight",
+     "relation": "mother",
+     "years": "17th century",
+     "note": "Elihu Yale's mother.",
+     "basis": "documented"
+    },
+    {
+     "name": "Catherine Elford Hynmers",
+     "relation": "spouse",
+     "years": "m. 1680",
+     "note": "Widow of the Company official Joseph Hynmers and daughter of a Levant merchant; her first husband's estate is thought to have added to Yale's Madras fortune.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Hieronima de Paiva",
+     "relation": "partner",
+     "years": "1680s",
+     "note": "Widow of the Madras diamond trader Jacques de Paiva, whom Yale took in and with whom he had a son, Charles.",
+     "basis": "documented"
+    },
+    {
+     "name": "David Yale (son)",
+     "relation": "son",
+     "years": "d. 1687",
+     "note": "Elihu's only legitimate son died as a child, leaving no male heir to the name.",
+     "basis": "documented"
+    },
+    {
+     "name": "Katherine, Anne and Ursula Yale",
+     "relation": "daughters",
+     "years": "d. 1715; d. 1734; d. 1721",
+     "note": "Katherine married Dudley North of Glemham Hall, Anne married Lord James Cavendish, and Ursula did not marry; his wealth passed mainly through them.",
+     "basis": "documented"
+    },
+    {
+     "name": "Yale College (Yale University)",
+     "relation": "namesake",
+     "years": "1718–present",
+     "note": "Took his name after his 1718 gift of goods and books, arranged through Cotton Mather and Jeremiah Dummer.",
+     "basis": "documented",
+     "id": "yale-and-slavery-project"
+    }
+   ],
+   "today": "Yale University carries his name. In February 2024 it apologised for its early leaders' ties to slavery, alongside David Blight's history of Yale and slavery. Yale is buried at St Giles' Church, Wrexham, near his Plas Grono estate. No publicly documented present-day descendants have been identified with the link; his line passed through his daughters into the North and Cavendish families."
   },
   {
    "type": "entity",

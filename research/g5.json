@@ -69,6 +69,10 @@
     {
      "label": "Christian Science Monitor — Family confronts the North's slave-trading past",
      "url": "https://www.csmonitor.com/2008/0131/p13s02-lire.html"
+    },
+    {
+     "label": "Penguin Random House — Thomas Norman DeWolf, Inheriting the Trade",
+     "url": "https://penguinrandomhouse.ca/books/205897/inheriting-the-trade-by-thomas-norman-dewolf/9780807072820"
     }
    ],
    "connections": [
@@ -102,7 +106,76 @@
      "type": "political",
      "label": "continued trading after the 1808 ban"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Simeon Potter",
+     "relation": "mentor",
+     "years": "1720–1806",
+     "note": "Bristol privateer and slave-ship owner who brought the Guadeloupe-born Mark Anthony DeWolf to Rhode Island as a young seaman and gave him his first slaving commands.",
+     "id": "simeon-potter",
+     "basis": "documented"
+    },
+    {
+     "name": "Mark Anthony DeWolf",
+     "relation": "founder",
+     "years": "1726–1793",
+     "note": "Patriarch of the Bristol line; married Potter's sister Abigail in 1744 and captained slaving voyages for Potter before his sons took over the business.",
+     "basis": "documented"
+    },
+    {
+     "name": "Abigail Potter DeWolf",
+     "relation": "spouse",
+     "years": "m. 1744",
+     "note": "Simeon Potter's sister; the marriage tied the DeWolfs to the Potter shipping and privateering network.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles, William and John DeWolf",
+     "relation": "sons",
+     "years": "fl. 1780s–1820",
+     "note": "Mark Anthony's sons, who ran ships, a rum distillery and the Bank of Bristol alongside their brother James.",
+     "basis": "documented"
+    },
+    {
+     "name": "James DeWolf",
+     "relation": "son",
+     "years": "1764–1837",
+     "note": "The family's dominant trader and later U.S. Senator, who moved the profits into Cuban plantations and textile mills.",
+     "id": "james-dewolf",
+     "basis": "documented"
+    },
+    {
+     "name": "George DeWolf",
+     "relation": "grandson",
+     "years": "1779–1844",
+     "note": "Son of Charles; builder of Linden Place (1810), slave-ship owner until c. 1820, bankrupt and fled to his Cuban plantation in 1825.",
+     "id": "george-dewolf",
+     "basis": "documented"
+    },
+    {
+     "name": "Samuel Pomeroy Colt",
+     "relation": "descendant",
+     "years": "1852–1921",
+     "note": "Grandson of George DeWolf; lived at Linden Place, founded the Industrial Trust Company (a later Fleet predecessor) and the U.S. Rubber Company.",
+     "basis": "documented"
+    },
+    {
+     "name": "Katrina Browne",
+     "relation": "descendant",
+     "years": "living (public figure)",
+     "note": "Filmmaker and DeWolf descendant whose 2008 documentary 'Traces of the Trade' followed ten family members retracing the triangle trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Norman DeWolf",
+     "relation": "descendant",
+     "years": "living (public figure)",
+     "note": "Oregon author on the 2001 family journey; wrote 'Inheriting the Trade' (Beacon Press, 2008) about the family's legacy.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Linden Place, built with slave-trade money, stayed in the family for 177 years until the nonprofit Friends of Linden Place took ownership in 1988; it is now a house museum. Publicly identified descendants Katrina Browne ('Traces of the Trade', 2008) and Thomas Norman DeWolf ('Inheriting the Trade', 2008) speak about the family's role, and the Tracing Center continues their education work. Part of the wealth passed through Samuel P. Colt into banking (Industrial Trust, later Fleet) and U.S. Rubber (later Uniroyal)."
   },
   {
    "id": "james-dewolf",
@@ -154,6 +227,10 @@
     {
      "label": "Wikipedia — James DeWolf",
      "url": "https://en.wikipedia.org/wiki/James_DeWolf"
+    },
+    {
+     "label": "Linden Place — Meet the Family",
+     "url": "https://www.lindenplace.org/meet-the-family"
     }
    ],
    "connections": [
@@ -177,7 +254,61 @@
      "type": "political",
      "label": "evaded federal bans"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Simeon Potter",
+     "relation": "uncle",
+     "years": "1720–1806",
+     "note": "His mother Abigail's brother, the Bristol privateer and slaver in whose ships the DeWolfs learned the trade.",
+     "id": "simeon-potter",
+     "basis": "documented"
+    },
+    {
+     "name": "Mark Anthony DeWolf",
+     "relation": "father",
+     "years": "1726–1793",
+     "note": "Captain of slaving voyages for Potter; James went to sea under the family's flag as a boy.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles, William and John DeWolf",
+     "relation": "brothers / partners",
+     "years": "fl. 1780s–1820",
+     "note": "Co-owners of ships, the distillery and the Bank of Bristol; the brothers outfitted slaving voyages together.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nancy Bradford DeWolf",
+     "relation": "spouse",
+     "years": "m. 1790",
+     "note": "Daughter of Rhode Island Deputy Governor William Bradford; the marriage gave James political connections in Bristol and Providence.",
+     "basis": "documented"
+    },
+    {
+     "name": "George DeWolf",
+     "relation": "nephew",
+     "years": "1779–1844",
+     "note": "Fellow trader and builder of Linden Place; James bought the house for $5,150 in 1828 after George's bankruptcy.",
+     "id": "george-dewolf",
+     "basis": "documented"
+    },
+    {
+     "name": "William Henry DeWolf",
+     "relation": "son",
+     "years": "fl. 1830s",
+     "note": "Received Linden Place from his father in 1834.",
+     "basis": "documented"
+    },
+    {
+     "name": "Katrina Browne",
+     "relation": "descendant",
+     "years": "living (public figure)",
+     "note": "Filmmaker of 'Traces of the Trade' (2008), which retraced the voyages James organised.",
+     "basis": "documented"
+    }
+   ],
+   "today": "James's mills and Cuban estates did not survive as family businesses, but Linden Place, which he owned from 1828, is a house museum in Bristol. His descendants Katrina Browne and Thomas Norman DeWolf have spoken and written publicly about him; private family members are not named here."
   },
   {
    "id": "brown-family-providence",
@@ -248,6 +379,18 @@
     {
      "label": "Rhode Island Historical Society — John Brown papers, historical note",
      "url": "https://www.rihs.org/mssinv/Mss312.htm"
+    },
+    {
+     "label": "Wikipedia — John Brown (Rhode Island politician)",
+     "url": "https://en.wikipedia.org/wiki/John_Brown_(Rhode_Island_politician)"
+    },
+    {
+     "label": "Rhode Island Historical Society — Moses Brown Papers, historical note",
+     "url": "https://www.rihs.org/mssinv/Mss313.htm"
+    },
+    {
+     "label": "Rhodetour — John Brown & The John Brown House Museum",
+     "url": "https://rhodetour.org/items/show/279"
     }
    ],
    "connections": [
@@ -281,7 +424,85 @@
      "type": "trade",
      "label": "Rhode Island slaving network"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Chad Brown",
+     "relation": "ancestor",
+     "years": "c. 1600–1650",
+     "note": "Baptist elder and early settler of Providence with Roger Williams; founder of the family's standing in the colony.",
+     "basis": "documented"
+    },
+    {
+     "name": "James Brown and Obadiah Brown",
+     "relation": "uncles / mentors",
+     "years": "1698–1739; 1712–1762",
+     "note": "James sent the family's first slaving voyage (the Mary, 1736); Obadiah trained his four nephews in the business that became Nicholas Brown and Company.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nicholas, Joseph, John and Moses Brown",
+     "relation": "brothers",
+     "years": "1729–1836",
+     "note": "The 'four brothers' who ran the firm; they financed the 1764 Sally voyage together and later split over slavery.",
+     "basis": "documented"
+    },
+    {
+     "name": "Esek Hopkins",
+     "relation": "captain",
+     "years": "1718–1802",
+     "note": "Hired to command the Sally (1764–65), on which at least 109 of 196 captives died.",
+     "id": "esek-hopkins",
+     "basis": "documented"
+    },
+    {
+     "name": "John Brown",
+     "relation": "brother",
+     "years": "1736–1803",
+     "note": "The brother who stayed in the trade; first person tried under the 1794 federal Slave Trade Act and founder of the Providence Bank.",
+     "id": "john-brown-providence",
+     "basis": "documented"
+    },
+    {
+     "name": "Moses Brown",
+     "relation": "brother",
+     "years": "1738–1836",
+     "note": "Left the trade, joined the Quakers and freed the people he enslaved; prosecuted his brother John through the Providence Abolition Society.",
+     "id": "moses-brown",
+     "basis": "documented"
+    },
+    {
+     "name": "Nicholas Brown Jr.",
+     "relation": "nephew / heir",
+     "years": "1769–1841",
+     "note": "Son of Nicholas; with Thomas Poynton Ives formed Brown & Ives (1796); his 1804 gift led the College of Rhode Island to rename itself Brown University.",
+     "id": "brown-university",
+     "basis": "documented"
+    },
+    {
+     "name": "Providence Bank",
+     "relation": "successor firm",
+     "years": "1791–present (via mergers)",
+     "note": "Founded by John Brown; absorbed into FleetBoston, which Bank of America acquired in 2004.",
+     "id": "bank-of-america",
+     "basis": "documented"
+    },
+    {
+     "name": "John Carter Brown",
+     "relation": "grandson",
+     "years": "1797–1874",
+     "note": "Son of Nicholas Jr.; his book collection became the John Carter Brown Library at Brown University.",
+     "basis": "documented"
+    },
+    {
+     "name": "J. Carter Brown",
+     "relation": "descendant",
+     "years": "1934–2002",
+     "note": "Director of the National Gallery of Art (1969–1992), a descendant of Nicholas Brown Jr.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The family name lives on in Brown University, whose 2006 Slavery and Justice report and 2014 memorial address the Brown brothers' trade, and in the John Brown House Museum run by the Rhode Island Historical Society. John Brown's Providence Bank survives inside Bank of America via FleetBoston. Public figures among later descendants include J. Carter Brown (National Gallery of Art); John Brown's grandson John Brown Francis was a U.S. Senator and governor, and the Herreshoff boatbuilding firm grew out of another grandson's line."
   },
   {
    "id": "esek-hopkins",
@@ -331,6 +552,14 @@
     {
      "label": "Wikipedia — Sally (1764 ship)",
      "url": "https://en.wikipedia.org/wiki/Sally_(1764_ship)"
+    },
+    {
+     "label": "Brown University — Slavery and Justice report (2006)",
+     "url": "https://slaveryandjustice.brown.edu/sites/default/files/reports/SlaveryAndJustice2006.pdf"
+    },
+    {
+     "label": "Wikipedia — Esek Hopkins",
+     "url": "https://en.wikipedia.org/wiki/Esek_Hopkins"
     }
    ],
    "connections": [
@@ -349,7 +578,39 @@
      "type": "legacy",
      "label": "Sally voyage central to Brown's 2006 report"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Stephen Hopkins",
+     "relation": "brother",
+     "years": "1707–1785",
+     "note": "Governor of Rhode Island and signer of the Declaration of Independence; himself an enslaver, he helped connect Esek to Providence's merchant elite.",
+     "basis": "documented"
+    },
+    {
+     "name": "Brown family of Providence",
+     "relation": "employers",
+     "years": "1764–1765",
+     "note": "Hired him to command the Sally; the disastrous voyage was his only known slaving command.",
+     "id": "brown-family-providence",
+     "basis": "documented"
+    },
+    {
+     "name": "Continental Congress",
+     "relation": "appointment",
+     "years": "1775–1778",
+     "note": "Named him commander-in-chief of the Continental Navy in 1775; Congress removed him in 1778.",
+     "basis": "documented"
+    },
+    {
+     "name": "Desire Burroughs Hopkins",
+     "relation": "spouse",
+     "years": "fl. 1740s–1780s",
+     "note": "Mother of his nine children, including the naval captain John Burroughs Hopkins.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Hopkins is still honoured with a statue by Theo Alice Ruggles Kitson (1891) in Providence, and the Esek Hopkins House (c. 1754) is on the National Register of Historic Places; Brown University's research has made his Sally voyage a central teaching case."
   },
   {
    "id": "aaron-lopez",
@@ -405,6 +666,10 @@
     {
      "label": "Wikipedia — Cleopatra (slave ship)",
      "url": "https://en.wikipedia.org/wiki/Cleopatra_(slave_ship)"
+    },
+    {
+     "label": "Wikipedia — Jacob Rodriguez Rivera",
+     "url": "https://en.wikipedia.org/wiki/Jacob_Rodriguez_Rivera"
     }
    ],
    "connections": [
@@ -423,7 +688,46 @@
      "type": "parallel",
      "label": "Rhode Island slaving merchants"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Moses Lopez",
+     "relation": "half-brother",
+     "years": "fl. 1740s–1760s",
+     "note": "Preceded Aaron to Newport and introduced him to its merchant community.",
+     "basis": "documented"
+    },
+    {
+     "name": "Abigail (Anna) Lopez",
+     "relation": "spouse",
+     "years": "d. 1762",
+     "note": "His first wife, who came with him from Portugal.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jacob Rodriguez Rivera",
+     "relation": "father-in-law / partner",
+     "years": "1717–1789",
+     "note": "Spermaceti-candle pioneer; Lopez married his daughter Sarah in 1763 and they co-owned slaving vessels such as the Cleopatra.",
+     "id": "jacob-rodriguez-rivera",
+     "basis": "documented"
+    },
+    {
+     "name": "Sarah Rivera Lopez",
+     "relation": "spouse",
+     "years": "m. 1763",
+     "note": "Rivera's daughter; the marriage joined the two leading Jewish merchant houses of Newport.",
+     "basis": "documented"
+    },
+    {
+     "name": "Congregation Jeshuat Israel (Touro Synagogue)",
+     "relation": "institution",
+     "years": "1763–present",
+     "note": "Lopez was a founding member and laid a cornerstone of the synagogue.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Lopez's papers survive at the Newport Historical Society and other archives, and Touro Synagogue (1763), which he helped found, is a National Historic Site; historians still debate how profitable his roughly dozen slaving voyages with Rivera were."
   },
   {
    "id": "peter-faneuil",
@@ -477,6 +781,10 @@
     {
      "label": "Wikipedia — Peter Faneuil",
      "url": "https://en.wikipedia.org/wiki/Peter_Faneuil"
+    },
+    {
+     "label": "National Park Service — Faneuil Hall",
+     "url": "https://www.nps.gov/bost/learn/historyculture/fh.htm"
     }
    ],
    "connections": [
@@ -495,7 +803,31 @@
      "type": "parallel",
      "label": "Huguenot merchant networks linking French and British Caribbean"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Benjamin Faneuil",
+     "relation": "father",
+     "years": "d. 1719",
+     "note": "Huguenot merchant who fled La Rochelle and settled in New Rochelle and New York.",
+     "basis": "documented"
+    },
+    {
+     "name": "Andrew Faneuil",
+     "relation": "uncle / mentor",
+     "years": "d. 1738",
+     "note": "Childless Boston merchant who threatened to disinherit any nephew who married; Peter stayed single and inherited most of the fortune in 1738, while his brother Benjamin married and lost his share.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Faneuil Phillips and Benjamin Faneuil",
+     "relation": "siblings / heirs",
+     "years": "fl. 1740s",
+     "note": "Peter died unmarried in 1743; his estate, which included five enslaved people named in his will, went mainly to Mary and Benjamin Jr., who later became a Loyalist.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; Peter died unmarried and his fortune dispersed among his siblings' families. His name survives on Faneuil Hall, part of Boston National Historical Park, where campaigns to rename it continue."
   },
   {
    "id": "royall-family",
@@ -557,6 +889,14 @@
     {
      "label": "Wikipedia — Royall House and Slave Quarters",
      "url": "https://en.wikipedia.org/wiki/Royall_House_and_Slave_Quarters"
+    },
+    {
+     "label": "Harvard Magazine — Medford's Royall House and Slave Quarters (2020)",
+     "url": "https://www.harvardmagazine.com/2020/08/h2-royall-house"
+    },
+    {
+     "label": "Wikipedia — Isaac Royall Jr.",
+     "url": "https://en.wikipedia.org/wiki/Isaac_Royall_Jr."
     }
    ],
    "connections": [
@@ -575,7 +915,47 @@
      "type": "parallel",
      "label": "fellow Antigua sugar planters"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Isaac Royall Sr.",
+     "relation": "founder",
+     "years": "c. 1677–1739",
+     "note": "Antigua sugar planter and trader who moved to Medford in 1737 with 27 enslaved Africans.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isaac Royall Jr.",
+     "relation": "son / heir",
+     "years": "1719–1781",
+     "note": "Inherited the Medford and Antigua estates, held more enslaved people than anyone else in Massachusetts, fled as a Loyalist in 1775 and left land to Harvard for its first law professorship.",
+     "id": "isaac-royall-jr",
+     "basis": "documented"
+    },
+    {
+     "name": "Penelope Royall Vassall",
+     "relation": "daughter",
+     "years": "fl. 1740s–1770s",
+     "note": "Isaac Sr.'s daughter; married Henry Vassall of Cambridge's 'Tory Row', another West Indian planter family.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Royall Pepperrell and Mary Royall Erving",
+     "relation": "granddaughters",
+     "years": "fl. 1760s–1780s",
+     "note": "Isaac Jr.'s daughters, who married into Loyalist families; the estate was confiscated during the Revolution.",
+     "basis": "documented"
+    },
+    {
+     "name": "Belinda Sutton",
+     "relation": "enslaved by the family",
+     "years": "c. 1713–after 1787",
+     "note": "Enslaved by Isaac Jr.; in 1783 petitioned the Massachusetts legislature for a pension from his estate and won.",
+     "id": "belinda-sutton",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The Medford estate is the Royall House and Slave Quarters museum, and the Royall bequest still funds the Royall Professorship of Law at Harvard, although the Royall crest was dropped from the Harvard Law School shield in 2016."
   },
   {
    "id": "henry-laurens",
@@ -655,7 +1035,69 @@
      "type": "legacy",
      "label": "Charleston landing history interpreted"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jean Samuel (John) Laurens",
+     "relation": "father",
+     "years": "1696–1747",
+     "note": "Huguenot saddler in Charleston whose estate gave Henry his start.",
+     "basis": "documented"
+    },
+    {
+     "name": "James Crokatt",
+     "relation": "mentor",
+     "years": "1740s",
+     "note": "London merchant in whose counting house Laurens trained (1744–47) before returning to Charleston.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Austin",
+     "relation": "partner",
+     "years": "partnership 1748–1762",
+     "note": "Senior partner in Austin & Laurens (later Austin, Laurens & Appleby), Charleston's leading slave-importing house.",
+     "id": "george-austin",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Oswald",
+     "relation": "trading partner",
+     "years": "fl. 1750s–1780s",
+     "note": "London merchant of Bunce Island who consigned captives to Laurens; later Britain's negotiator opposite Laurens at the 1782 Paris peace talks.",
+     "id": "richard-oswald",
+     "basis": "documented"
+    },
+    {
+     "name": "Eleanor Ball Laurens",
+     "relation": "spouse",
+     "years": "m. 1750",
+     "note": "Daughter of the rice-planting Ball family; the marriage tied Laurens to the Cooper River planters.",
+     "id": "ball-family",
+     "basis": "documented"
+    },
+    {
+     "name": "John Laurens",
+     "relation": "son",
+     "years": "1754–1782",
+     "note": "Continental Army officer who proposed freeing and arming enslaved men; killed in 1782.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Laurens Ramsay and Henry Laurens Jr.",
+     "relation": "children / heirs",
+     "years": "1759–1811; 1763–1821",
+     "note": "Inherited the plantations, including Mepkin, and the enslaved people on them.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mepkin Abbey",
+     "relation": "successor",
+     "years": "1949–present",
+     "note": "Henry and Clare Boothe Luce bought Mepkin in 1936 and gave it to the Trappist order in 1949.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants have been traced. Mepkin, his main plantation, is now Mepkin Abbey, and Laurens County and Laurens Street in Charleston carry his name."
   },
   {
    "id": "franklin-and-armfield",
@@ -709,6 +1151,18 @@
     {
      "label": "City of Alexandria — Freedom House Museum",
      "url": "https://www.alexandriava.gov/go/1760"
+    },
+    {
+     "label": "Encyclopedia Virginia — John Armfield (1797–1871)",
+     "url": "https://encyclopediavirginia.org/entries/armfield-john-1797-1871/"
+    },
+    {
+     "label": "City of Alexandria — Biography of John Armfield (PDF)",
+     "url": "https://media.alexandriava.gov/docs-archives/historic/info/freedomhouse/web=boxes/biographyjohnarmfield.pdf"
+    },
+    {
+     "label": "Wikipedia — Rice C. Ballard",
+     "url": "https://en.wikipedia.org/wiki/Rice_C._Ballard"
     }
    ],
    "connections": [
@@ -732,7 +1186,47 @@
      "type": "political",
      "label": "domestic trade boomed after 1808 import ban"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Isaac Franklin",
+     "relation": "founder",
+     "years": "1789–1846",
+     "note": "Ran the New Orleans and Natchez end of the business.",
+     "id": "isaac-franklin",
+     "basis": "documented"
+    },
+    {
+     "name": "John Armfield",
+     "relation": "founder",
+     "years": "1797–1871",
+     "note": "Ran the Alexandria pen and shipping; married Franklin's niece Martha Franklin.",
+     "id": "john-armfield",
+     "basis": "documented"
+    },
+    {
+     "name": "Rice C. Ballard",
+     "relation": "partner / agent",
+     "years": "c. 1798–1860",
+     "note": "Richmond-based partner; afterwards invested in land and, with Samuel S. Boyd, held about 500 people in 1860; his UNC papers are a key source on the firm.",
+     "basis": "documented"
+    },
+    {
+     "name": "Later Duke Street operators",
+     "relation": "successors",
+     "years": "1836–1861",
+     "note": "Other traders, including George Kephart and later Price, Birch & Co., used the Duke Street pen until Union troops took Alexandria in 1861.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Freedom House Museum",
+     "relation": "successor site",
+     "years": "2022–present",
+     "note": "The City of Alexandria bought 1315 Duke Street in 2020 and runs it as a museum.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The firm was wound up in the 1830s; its partners' fortunes went into Tennessee and Louisiana land. The Duke Street building, long the Northern Virginia Urban League's headquarters, is now the city-run Freedom House Museum, and neither partner left publicly documented descendants (Armfield died childless)."
   },
   {
    "id": "isaac-franklin",
@@ -786,6 +1280,10 @@
     {
      "label": "City of Alexandria — Biography of Isaac Franklin (PDF)",
      "url": "https://media.alexandriava.gov/docs-archives/historic/info/freedomhouse/web=boxes/biographyisaacfranklin.pdf"
+    },
+    {
+     "label": "Wikipedia — Adelicia Acklen",
+     "url": "https://en.wikipedia.org/wiki/Adelicia_Acklen"
     }
    ],
    "connections": [
@@ -804,7 +1302,47 @@
      "type": "ownership",
      "label": "firm's Alexandria pen"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "James and John Franklin",
+     "relation": "brothers",
+     "years": "fl. 1808–1820s",
+     "note": "Brothers with whom Isaac began driving coffles from the Chesapeake to Natchez in 1808.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Armfield",
+     "relation": "partner",
+     "years": "1797–1871",
+     "note": "Partner in Franklin & Armfield (1828–36); married Franklin's niece.",
+     "id": "john-armfield",
+     "basis": "documented"
+    },
+    {
+     "name": "Rice C. Ballard",
+     "relation": "partner",
+     "years": "c. 1798–1860",
+     "note": "Richmond partner in the trade who later invested his profits in land and enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Adelicia Hayes Franklin (Acklen)",
+     "relation": "spouse / heir",
+     "years": "1817–1887",
+     "note": "Married Franklin in 1839; inherited most of his estate in 1846, including Louisiana cotton plantations and some 750 enslaved people.",
+     "id": "adelicia-acklen",
+     "basis": "documented"
+    },
+    {
+     "name": "Belmont Mansion",
+     "relation": "successor",
+     "years": "1850s–present",
+     "note": "Built by Adelicia and her second husband with the inherited fortune; now a museum at Belmont University.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Franklin's four children all died young, and no publicly documented direct descendants have been traced. His Louisiana land became the Louisiana State Penitentiary ('Angola'), his Fairvue home in Gallatin survives amid a residential development, and Belmont Mansion now researches the people the Acklens enslaved."
   },
   {
    "id": "lehman-brothers",
@@ -861,6 +1399,14 @@
     {
      "label": "Business Alabama — The Alabama Origin of Lehman Bros.",
      "url": "https://businessalabama.com/the-alabama-origin-of-lehman-bros/"
+    },
+    {
+     "label": "Wikipedia — Lehman Brothers",
+     "url": "https://en.wikipedia.org/wiki/Lehman_Brothers"
+    },
+    {
+     "label": "Wikipedia — Herbert H. Lehman",
+     "url": "https://en.wikipedia.org/wiki/Herbert_H._Lehman"
     }
    ],
    "connections": [
@@ -879,7 +1425,52 @@
      "type": "trade",
      "label": "cotton sold to British markets"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Henry Lehman",
+     "relation": "founder",
+     "years": "1822–1855",
+     "note": "Opened the Montgomery store in 1844; died of yellow fever in New Orleans.",
+     "basis": "documented"
+    },
+    {
+     "name": "Emanuel Lehman and Mayer Lehman",
+     "relation": "founders",
+     "years": "1827–1907; 1830–1897",
+     "note": "Brothers who turned the store into a cotton-brokerage firm; the 1860 census lists Mayer as owner of seven enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lehman, Durr & Co.",
+     "relation": "affiliate",
+     "years": "from 1862",
+     "note": "Partnership formed in 1862 with Montgomery cotton merchant John Durr.",
+     "basis": "documented"
+    },
+    {
+     "name": "Herbert H. Lehman",
+     "relation": "son of Mayer",
+     "years": "1878–1963",
+     "note": "Partner who became governor of New York and U.S. Senator; Lehman College (CUNY) is named for him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robert Lehman",
+     "relation": "grandson",
+     "years": "1891–1969",
+     "note": "Last family head of the firm; his art collection is the Robert Lehman Wing of the Metropolitan Museum of Art.",
+     "basis": "documented"
+    },
+    {
+     "name": "Shearson/American Express; Barclays; Nomura",
+     "relation": "successor firms",
+     "years": "1984–2008",
+     "note": "American Express bought the firm in 1984 and spun it off in 1994; after the 2008 bankruptcy Barclays took the U.S. business and Nomura the Asian and European arms.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The bank no longer exists; Lehman Brothers Holdings has spent the years since 2008 paying creditors. The family name survives in Lehman College, the Met's Robert Lehman Wing and the play 'The Lehman Trilogy'. Later family members have not been prominent in the firm since Robert Lehman's death in 1969."
   },
   {
    "id": "jpmorgan-chase",
@@ -937,6 +1528,10 @@
     {
      "label": "New York Sun — From J.P. Morgan Chase, an Apology and $5 Million in Slavery Reparations",
      "url": "https://nysun.com/article/business-from-jp-morgan-chase-an-apology-and-5-million"
+    },
+    {
+     "label": "Wikipedia — JPMorgan Chase",
+     "url": "https://en.wikipedia.org/wiki/JPMorgan_Chase"
     }
    ],
    "connections": [
@@ -960,7 +1555,39 @@
      "type": "parallel",
      "label": "2005 bank apologies"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Citizens Bank of Louisiana",
+     "relation": "predecessor",
+     "years": "1833–1920s",
+     "note": "Property bank that lent against land and enslaved people; with Canal Bank accepted about 13,000 enslaved people as collateral and took ownership of about 1,250 (per JPMorgan's 2005 disclosure).",
+     "id": "citizens-bank-louisiana",
+     "basis": "documented"
+    },
+    {
+     "name": "Canal Bank",
+     "relation": "predecessor",
+     "years": "1831–1930s",
+     "note": "New Orleans bank later absorbed, via National Bank of Commerce, into Bank One's lineage.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bank One",
+     "relation": "predecessor",
+     "years": "1998–2004",
+     "note": "Merged into JPMorgan Chase in 2004, bringing the Louisiana banks' history with it.",
+     "basis": "documented"
+    },
+    {
+     "name": "J.P. Morgan & Co. and Chase Manhattan",
+     "relation": "merger partners",
+     "years": "merged 2000",
+     "note": "Formed JPMorgan Chase & Co.",
+     "basis": "documented"
+    }
+   ],
+   "today": "JPMorgan Chase is the largest U.S. bank. Its 2005 apology came with a $5 million scholarship fund for Black students in Louisiana. The founding families of the antebellum Louisiana banks have no documented role in the bank today."
   },
   {
    "id": "wells-fargo-wachovia",
@@ -1017,6 +1644,10 @@
     {
      "label": "JURIST — Fourth-largest US bank apologizes for slavery ties",
      "url": "https://www.jurist.org/news/2005/06/fourth-largest-us-bank-apologizes-for"
+    },
+    {
+     "label": "Wikipedia — Wachovia",
+     "url": "https://en.wikipedia.org/wiki/Wachovia"
     }
    ],
    "connections": [
@@ -1035,7 +1666,38 @@
      "type": "parallel",
      "label": "2005 bank apologies"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Georgia Railroad and Banking Company",
+     "relation": "predecessor",
+     "years": "1833–1980s",
+     "note": "Owned or leased enslaved people to build and run its railroad; later merged into First Union's lineage.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bank of Charleston",
+     "relation": "predecessor",
+     "years": "1834–1920s",
+     "note": "Founded 1834; later South Carolina National Corporation, which Wachovia acquired in 1991.",
+     "basis": "documented"
+    },
+    {
+     "name": "Wachovia / First Union",
+     "relation": "successor",
+     "years": "2001–2008",
+     "note": "First Union and Wachovia merged in 2001; Wachovia published its slavery-era research in 2005.",
+     "basis": "documented"
+    },
+    {
+     "name": "Wells Fargo",
+     "relation": "successor",
+     "years": "2008–present",
+     "note": "Bought Wachovia in 2008, taking over its history and its 2005 apology.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Wachovia name was retired in 2011, when its last branches became Wells Fargo. Wells Fargo has occasionally pointed to Wachovia's 2005 apology and grants to Black communities; no individual founding family is publicly linked to the bank today."
   },
   {
    "id": "aetna",
@@ -1086,6 +1748,14 @@
     {
      "label": "Democracy Now! — Aetna acknowledges issuing slave policies",
      "url": "https://www.democracynow.org/2000/3/14/aetna_acknowledges_issuing_slave_policies_during"
+    },
+    {
+     "label": "Wikipedia — Aetna",
+     "url": "https://en.wikipedia.org/wiki/Aetna"
+    },
+    {
+     "label": "Wikipedia — Morgan Bulkeley",
+     "url": "https://en.wikipedia.org/wiki/Morgan_Bulkeley"
     }
    ],
    "connections": [
@@ -1104,7 +1774,38 @@
      "type": "parallel",
      "label": "insuring human 'property'"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Aetna (Fire) Insurance Company",
+     "relation": "parent",
+     "years": "1819–",
+     "note": "Hartford fire insurer (1819); the life company split off from its annuity department in 1853. The fire company later became part of Cigna.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eliphalet Adams Bulkeley",
+     "relation": "founder",
+     "years": "1803–1872",
+     "note": "First president of Aetna Life.",
+     "basis": "documented"
+    },
+    {
+     "name": "Morgan G. Bulkeley",
+     "relation": "son",
+     "years": "1837–1922",
+     "note": "Aetna president from 1879, governor of Connecticut, U.S. Senator and first president of baseball's National League.",
+     "basis": "documented"
+    },
+    {
+     "name": "CVS Health",
+     "relation": "parent",
+     "years": "2018–present",
+     "note": "Completed its $69 billion purchase of Aetna in November 2018.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Aetna is now a CVS Health subsidiary. Its 2000 apology for antebellum policies on enslaved people remains its main public statement; the Bulkeley family no longer runs it."
   },
   {
    "id": "new-york-life",
@@ -1151,6 +1852,10 @@
     {
      "label": "New York Public Library Archives — Nautilus/New York Life slave policy records",
      "url": "https://archives.nypl.org/scm/24140"
+    },
+    {
+     "label": "Wikipedia — New York Life Insurance Company",
+     "url": "https://en.wikipedia.org/wiki/New_York_Life_Insurance_Company"
     }
    ],
    "connections": [
@@ -1169,7 +1874,24 @@
      "type": "legacy",
      "label": "slavery-era insurance disclosure"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Nautilus Insurance Company",
+     "relation": "predecessor",
+     "years": "chartered 1841",
+     "note": "Insured enslaved people for their enslavers from 1846 to 1848; by 1847 such policies were about a third of its business, until the board ended the practice in 1848.",
+     "basis": "documented"
+    },
+    {
+     "name": "New York Life Insurance Company",
+     "relation": "successor",
+     "years": "1840s–present",
+     "note": "Took the New York Life name in the 1840s; still a mutual company owned by its policyholders.",
+     "basis": "documented"
+    }
+   ],
+   "today": "New York Life is still a mutual insurer. It has expressed regret for the Nautilus policies on enslaved people and funds scholarships and research. No founding family is publicly linked to it today."
   },
   {
    "id": "brown-brothers-harriman",
@@ -1223,6 +1945,14 @@
     {
      "label": "Kirkus Reviews — Inside Money by Zachary Karabell",
      "url": "https://kirkusreviews.com/book-reviews/zachary-karabell/inside-money/print"
+    },
+    {
+     "label": "Wikipedia — Brown Brothers Harriman & Co.",
+     "url": "https://en.wikipedia.org/wiki/Brown_Brothers_Harriman_%26_Co."
+    },
+    {
+     "label": "Wikipedia — Alex. Brown & Sons",
+     "url": "https://en.wikipedia.org/wiki/Alex._Brown_%26_Sons"
     }
    ],
    "connections": [
@@ -1246,7 +1976,45 @@
      "type": "parallel",
      "label": "plantation credit secured on enslaved people"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Alexander Brown",
+     "relation": "founder",
+     "years": "1764–1834",
+     "note": "Irish linen merchant who founded Alex. Brown & Sons in Baltimore in 1800.",
+     "basis": "documented"
+    },
+    {
+     "name": "William, George, John A. and James Brown",
+     "relation": "sons",
+     "years": "fl. 1810s–1870s",
+     "note": "William founded the English house (1810; Brown, Shipley & Co. from 1839), John A. the Philadelphia house (1818), James the New York house (1825) and George stayed in Baltimore; together they financed and shipped Southern cotton.",
+     "basis": "documented"
+    },
+    {
+     "name": "Brown, Shipley & Co.",
+     "relation": "successor firm",
+     "years": "1839–present",
+     "note": "The English house, a separate firm since 1918; now part of Quintet Private Bank.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alex. Brown & Sons",
+     "relation": "successor firm",
+     "years": "1800–2016",
+     "note": "The Baltimore house was bought by Bankers Trust (1997), which Deutsche Bank acquired; the business went to Raymond James in 2016.",
+     "basis": "documented"
+    },
+    {
+     "name": "W. Averell and E. Roland Harriman; Prescott Bush",
+     "relation": "partners",
+     "years": "merged 1931",
+     "note": "The 1931 merger with Harriman Brothers & Co. created Brown Brothers Harriman; Prescott Bush became a partner.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Brown Brothers Harriman is still a private partnership in New York and acknowledges its predecessor's role in the slavery-based cotton trade. The Brown family's Baltimore and London houses survive inside Raymond James and Quintet."
   },
   {
    "id": "clotilda-meaher",
@@ -1312,6 +2080,10 @@
     {
      "label": "Wikipedia — Clotilda (slave ship)",
      "url": "https://en.wikipedia.org/wiki/Clotilda_(slave_ship)"
+    },
+    {
+     "label": "Wikipedia — Timothy Meaher",
+     "url": "https://en.wikipedia.org/wiki/Timothy_Meaher"
     }
    ],
    "connections": [
@@ -1340,7 +2112,46 @@
      "type": "parallel",
      "label": "late illegal US slave voyages"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "James Meaher and other brothers",
+     "relation": "brothers / partners",
+     "years": "fl. 1840s–1860s",
+     "note": "Timothy's brothers, Mobile shipowners and planters; Clotilda survivors were held on Meaher land until 1865.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Foster",
+     "relation": "captain",
+     "years": "1825–1901",
+     "note": "Builder and captain of the Clotilda, who sailed it to Ouidah in 1860 and burned it to hide evidence.",
+     "id": "william-foster",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary C. Waters Meaher",
+     "relation": "spouse",
+     "years": "m. 1855",
+     "note": "Timothy's wife; the family's land passed through their children.",
+     "basis": "documented"
+    },
+    {
+     "name": "Augustine Meaher Jr.",
+     "relation": "grandson",
+     "years": "fl. 1920s",
+     "note": "Leased family land to a paper mill in 1926, displacing Africatown residents.",
+     "basis": "documented"
+    },
+    {
+     "name": "Meaher heirs",
+     "relation": "heirs",
+     "years": "1892–present",
+     "note": "Still hold large tracts around Africatown; Meaher State Park is named for the family; the family issued a public statement in October 2022 disapproving of Timothy's actions.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Meaher descendants still own substantial land around Africatown, and in October 2022 the family issued a statement disapproving of their ancestor; living family members are private individuals and are not named here. Descendants of the Clotilda survivors, organised in the Clotilda Descendants Association and featured in the documentary 'Descendant' (2022), lead Africatown's revival, including the Africatown Heritage House exhibition (2023)."
   },
   {
    "id": "charles-lamar",
@@ -1387,6 +2198,14 @@
     {
      "label": "Massachusetts Historical Society — The Wanderer, the last American slave ship?",
      "url": "https://masshist.org/beehiveblog/2016/02/the-wanderer-the-last-american-slave-ship"
+    },
+    {
+     "label": "Wikipedia — Gazaway Bugg Lamar",
+     "url": "https://en.wikipedia.org/wiki/Gazaway_Bugg_Lamar"
+    },
+    {
+     "label": "Georgia Historical Society — Slave Trader's Letter Book Open for Research",
+     "url": "https://www.georgiahistory.com/?p=43480"
     }
    ],
    "connections": [
@@ -1410,7 +2229,39 @@
      "type": "parallel",
      "label": "late illegal US slave voyages"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Gazaway Bugg Lamar",
+     "relation": "father",
+     "years": "1798–1874",
+     "note": "Savannah cotton and shipping magnate who founded New York's Bank of the Republic (1850); left Charles in charge of his Georgia business.",
+     "id": "gazaway-bugg-lamar",
+     "basis": "documented"
+    },
+    {
+     "name": "Mirabeau B. Lamar",
+     "relation": "kinsman",
+     "years": "1798–1859",
+     "note": "President of the Republic of Texas, from the same Georgia Lamar clan.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Caroline Agnes Nicoll Lamar",
+     "relation": "spouse",
+     "years": "m. 1845",
+     "note": "Daughter of a Savannah judge; mother of his children.",
+     "basis": "documented"
+    },
+    {
+     "name": "William C. Corrie",
+     "relation": "partner",
+     "years": "fl. 1858",
+     "note": "South Carolina yachtsman who held the Wanderer's title and commanded it on the 1858 voyage.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Lamar's letter book, a key source on the Wanderer conspiracy, is open for research at the Georgia Historical Society, and a memorial on Jekyll Island marks the 1858 landing."
   },
   {
    "id": "nathaniel-gordon",
@@ -1483,7 +2334,24 @@
      "type": "trade",
      "label": "illegal trade aimed at Cuban markets"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Nathaniel Gordon Sr.",
+     "relation": "father",
+     "years": "fl. 1838",
+     "note": "Sea captain arrested when his son was 12 for trying to smuggle enslaved people into the U.S.; he was not executed.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Gordon and son Nathaniel",
+     "relation": "spouse / son",
+     "years": "fl. 1860–1862",
+     "note": "His wife and young son; supporters, including over 11,000 New Yorkers who signed a petition, sought clemency, but Lincoln allowed only a two-week stay.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His case is remembered through Ron Soodalter's 'Hanging Captain Gordon' (2006) and Jonathan W. White's 'Shipwrecked' (2023), and as the only U.S. execution under the 1820 law that made slave trading piracy."
   },
   {
    "id": "julian-de-zulueta",
@@ -1540,6 +2408,18 @@
     {
      "label": "Simon & Schuster — Hugh Thomas, The Slave Trade",
      "url": "https://www.simonandschuster.net/books/The-Slave-Trade/Hugh-Thomas/9780684835655"
+    },
+    {
+     "label": "Real Academia de la Historia — Julián de Zulueta y Amondo",
+     "url": "https://dbe.rah.es/biografias/54987/julian-de-zulueta-y-amondo"
+    },
+    {
+     "label": "Argia — Gasteiz: azukrezko jauregiak eta historia garratzak",
+     "url": "https://argia.eus/en/albistea/gasteiz-azukrezko-jauregiak-eta-historia-garratzak"
+    },
+    {
+     "label": "Project Gutenberg — Trial of Pedro de Zulueta, jun., on a Charge of Slave Trading (1844)",
+     "url": "https://gutenberg.org/ebooks/63348"
     }
    ],
    "connections": [
@@ -1568,7 +2448,46 @@
      "type": "trade",
      "label": "captives from West Central Africa (Cabinda)"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Pedro de Zulueta (Zulueta & Co., London)",
+     "relation": "kinsman",
+     "years": "fl. 1820s–1840s",
+     "note": "Head of the family's London house; tried at the Old Bailey in 1843 for supplying slave-trading ships and acquitted.",
+     "basis": "documented"
+    },
+    {
+     "name": "Salvador Samá",
+     "relation": "patron / in-law",
+     "years": "1797–1866",
+     "note": "Catalan-born Havana trafficker and banker into whose family Zulueta married; both were named in consular reports on slave landings.",
+     "id": "salvador-sama",
+     "basis": "documented"
+    },
+    {
+     "name": "Francisca de los Dolores Samá y de la Mota",
+     "relation": "spouse",
+     "years": "1825–1857",
+     "note": "First wife (m. 1842); mother of Josefa, Salvador, Eduardo and Ernesto.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ernesto de Zulueta y Samá",
+     "relation": "son",
+     "years": "fl. 1870s–1910s",
+     "note": "Son from the first marriage and later Spanish politician.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alfredo de Zulueta",
+     "relation": "son",
+     "years": "fl. 1890s–1900s",
+     "note": "Son by his third wife, Juliana Ruiz de Gámiz; built the Palacio Zulueta in Vitoria-Gasteiz.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Zulueta's eleven children shared an inheritance of more than 200 million reales plus properties. It paid for Vitoria-Gasteiz's 'sugar palaces' and later local donations, such as those of Elvira Zulueta. Basque media and researchers have recently reassessed this legacy. Living private descendants are not named."
   },
   {
    "id": "pedro-blanco",
@@ -1638,7 +2557,32 @@
      "type": "trade",
      "label": "Zulueta & Co. supplied his factories"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "King Siaka of Gallinas",
+     "relation": "ally / supplier",
+     "years": "fl. 1820s–1840s",
+     "note": "Vai ruler whose protection let Blanco build the Lomboko barracoons.",
+     "id": "king-siaka-gallinas",
+     "basis": "documented"
+    },
+    {
+     "name": "Lino Carballo",
+     "relation": "partner",
+     "years": "fl. 1830s",
+     "note": "Partner in Blanco & Carballo, the Havana house with branches in Puerto Rico, Trinidad and Texas.",
+     "basis": "documented"
+    },
+    {
+     "name": "Fernando and Julio Blanco",
+     "relation": "nephews / heirs",
+     "years": "fl. 1840s–1850s",
+     "note": "Used the fortune to set up merchant houses in London, Madrid and Havana.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; his nephews' firms have not survived. Blanco is now known mainly through history and fiction, such as Carlos Bardem's novel 'Mongo Blanco' (2019)."
   },
   {
    "id": "joaquim-pereira-marinho",
@@ -1718,7 +2662,24 @@
      "type": "parallel",
      "label": "statue debate after Colston's toppling"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Bahian trading networks",
+     "relation": "partners",
+     "years": "1830s–1850s",
+     "note": "Worked with Salvador-based captains and agents in the Bight of Benin; Cristiana Ximenes's 1999 UFBA dissertation reconstructs the network.",
+     "basis": "documented"
+    },
+    {
+     "name": "Heirs of the Count of Pereira Marinho",
+     "relation": "heirs",
+     "years": "1887–",
+     "note": "Shared a fortune valued at about 8,000 contos de réis at his death; his will called it the fruit of 'persevering work'.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His bequests and statue at the Santa Casa's Hospital Santa Izabel are the most visible legacy, and the statue has been contested since 2020."
   },
   {
    "id": "elias-antonio-lopes",
@@ -1770,6 +2731,14 @@
     {
      "label": "Wikipedia — Paço de São Cristóvão",
      "url": "https://en.wikipedia.org/wiki/Pa%C3%A7o_de_S%C3%A3o_Crist%C3%B3v%C3%A3o"
+    },
+    {
+     "label": "World Monuments Fund — Quinta da Boa Vista",
+     "url": "https://wmf.org/monuments/quinta-da-boa-vista"
+    },
+    {
+     "label": "Wikipedia — Quinta da Boa Vista",
+     "url": "https://en.wikipedia.org/wiki/Quinta_da_Boa_Vista"
     }
    ],
    "connections": [
@@ -1793,7 +2762,18 @@
      "type": "trade",
      "label": "Rio–Angola trade route"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Prince Regent João (later João VI)",
+     "relation": "patron",
+     "years": "1808–1815",
+     "note": "Lopes gave him the Quinta da Boa Vista in 1808 and was made a Commander of the Order of Christ, with offices and contracts.",
+     "id": "crown-of-portugal",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The Quinta da Boa Vista is a public park in Rio, and its palace, which housed Brazil's National Museum, is being rebuilt after the 2018 fire."
   },
   {
    "id": "jose-bernardino-de-sa",
@@ -1845,6 +2825,10 @@
     {
      "label": "ArtCultura (UFU) — article on José Bernardino de Sá and the São Pedro theatre",
      "url": "https://seer.ufu.br/index.php/artcultura/article/view/40081"
+    },
+    {
+     "label": "Correio — Banco do Brasil recebe estudo que mostra apoio do banco à escravidão",
+     "url": "https://www.correio24horas.com.br/brasil/banco-do-brasil-recebe-estudo-que-mostra-apoio-do-banco-a-escravidao-1123"
     }
    ],
    "connections": [
@@ -1868,7 +2852,31 @@
      "type": "charter",
      "label": "titled Viscount of Vila Nova do Minho"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Rio trading house (employer)",
+     "relation": "mentor",
+     "years": "1820s",
+     "note": "He was a clerk in a Rio commercial house when he organised his first shipment in 1825.",
+     "basis": "documented"
+    },
+    {
+     "name": "Banco do Brasil",
+     "relation": "investment",
+     "years": "1853–",
+     "note": "Its largest individual shareholder after the 1853 refoundation; researchers credit him with about 50 voyages landing about 19,000 Africans (1825–1851).",
+     "basis": "documented"
+    },
+    {
+     "name": "Viscount of Vila Nova do Minho",
+     "relation": "title",
+     "years": "1850s",
+     "note": "Portuguese noble title he was granted for his wealth and services.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. His fortune's clearest trace is in the Banco do Brasil, which apologised in November 2023 during a federal prosecutors' inquiry that drew on research into his shareholding."
   },
   {
    "type": "entity",

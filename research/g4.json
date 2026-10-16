@@ -79,6 +79,18 @@
     {
      "label": "Boydell & Brewer — Robin Law, Ouidah: The Social History of a West African Slaving Port 1727–1892",
      "url": "https://boydellandbrewer.com/book/ouidah-9780852554975/"
+    },
+    {
+     "label": "Wikipedia — King of Dahomey",
+     "url": "https://en.wikipedia.org/wiki/King_of_Dahomey"
+    },
+    {
+     "label": "Benin Web TV — Georges Collinet Béhanzin intronisé au palais de Djimè (2022)",
+     "url": "https://beninwebtv.bj/benin-georges-collinet-behanzin-intronise-ce-lundi-au-palais-de-djime/"
+    },
+    {
+     "label": "Wikipedia — Dah Sagbadjou Glele",
+     "url": "https://en.wikipedia.org/wiki/Dah_Sagbadjou_Glele"
     }
    ],
    "connections": [
@@ -122,7 +134,86 @@
      "type": "trade",
      "label": "sold captives to French traders"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Houegbadja",
+     "relation": "founder",
+     "years": "r. c.1645–1685",
+     "note": "Usually counted as the first king; built the Abomey palace and the institutions later rulers used to wage slave-raiding wars.",
+     "basis": "documented"
+    },
+    {
+     "name": "Agaja",
+     "relation": "king",
+     "years": "r. 1718–1740",
+     "note": "Conquered Allada (1724) and Whydah (1727), giving Dahomey direct access to European slave ships.",
+     "id": "agaja-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Tegbesu",
+     "relation": "king",
+     "years": "r. 1740–1774",
+     "note": "Organised the royal slave-trade system at Ouidah.",
+     "id": "tegbesu-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Kpengla and Agonglo",
+     "relation": "kings",
+     "years": "r. 1774–1789; 1789–1797",
+     "note": "Father and son who struggled with falling slave-trade revenues and rivalry over its profits.",
+     "basis": "documented"
+    },
+    {
+     "name": "Adandozan",
+     "relation": "king",
+     "years": "r. 1797–1818",
+     "note": "Overthrown by his brother Ghezo with the help of Francisco Félix de Souza and erased from official history.",
+     "id": "adandozan-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Ghezo",
+     "relation": "king",
+     "years": "r. 1818–1858",
+     "note": "Revived the trade in partnership with de Souza; later shifted towards palm oil under British pressure.",
+     "id": "ghezo-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Glele",
+     "relation": "king",
+     "years": "r. 1858–1889",
+     "note": "Continued exporting captives into the 1860s.",
+     "id": "glele-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Béhanzin",
+     "relation": "king",
+     "years": "r. 1890–1894",
+     "note": "Last independent king; defeated and exiled by France.",
+     "id": "behanzin-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Agoli-agbo",
+     "relation": "king",
+     "years": "r. 1894–1900",
+     "note": "Béhanzin's brother, installed by the French; the kingship was then stripped of political power.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dada Dèwènondè Gbéhanzin (Georges Collinet Béhanzin)",
+     "relation": "successor",
+     "years": "enthroned 2022",
+     "note": "Chosen by agreement between the rival royal lineages and enthroned at Abomey on 28 February 2022 after the death of Dada Kêfa Sagbadjou Glèlè (r. 2019–2021).",
+     "basis": "documented"
+    }
+   ],
+   "today": "Under Benin's constitution the king of Dahomey has no power, but the kingship survives as a ceremonial and religious office in Abomey. Since 2000 rival lineages have put forward competing claimants; Dada Kêfa Sagbadjou Glèlè, a grandson of King Glele, was chosen in 2019 and died in December 2021, and Georges Collinet Béhanzin was enthroned as Dada Dèwènondè Gbéhanzin in February 2022. The Royal Palaces of Abomey are a UNESCO World Heritage Site, and Benin's 1999 apology acknowledged the kingdom's part in the trade. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "agaja-of-dahomey",
@@ -174,6 +265,10 @@
     {
      "label": "Wikipedia — History of the Kingdom of Dahomey",
      "url": "https://en.wikipedia.org/wiki/History_of_the_Kingdom_of_Dahomey"
+    },
+    {
+     "label": "Wikipedia — King of Dahomey",
+     "url": "https://en.wikipedia.org/wiki/King_of_Dahomey"
     }
    ],
    "connections": [
@@ -197,7 +292,47 @@
      "type": "family",
      "label": "succeeded by son Tegbesu"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Houegbadja",
+     "relation": "father",
+     "years": "r. c.1645–1685",
+     "note": "Builder of the Abomey state that Agaja inherited.",
+     "basis": "documented"
+    },
+    {
+     "name": "Akaba",
+     "relation": "brother and predecessor",
+     "years": "r. c.1685–1716/18",
+     "note": "Agaja followed his brother Akaba on the throne.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hangbe",
+     "relation": "sister",
+     "years": "early 18th century",
+     "note": "Akaba's twin, remembered in some traditions as a female ruler who was later written out of the official king lists.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Tegbesu",
+     "relation": "son and heir",
+     "years": "r. 1740–1774",
+     "note": "Won a succession struggle after Agaja's death and built the royal trading system on Agaja's conquests.",
+     "id": "tegbesu-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Abomey royal family",
+     "relation": "descendants",
+     "years": "to present",
+     "note": "Agaja's line continues within the royal lineages of Abomey.",
+     "id": "kingdom-of-dahomey",
+     "basis": "documented"
+    }
+   ],
+   "today": "Agaja is honoured in Abomey as one of the great founding kings, and his reign is recalled in the Royal Palaces of Abomey (a UNESCO site). His descendants are part of the wider Abomey royal family; no individual descendants are singled out here. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "tegbesu-of-dahomey",
@@ -249,6 +384,14 @@
     {
      "label": "Britannica (Students) — Dahomey, historical kingdom",
      "url": "https://kids.britannica.com/students/article/Dahomey/28540"
+    },
+    {
+     "label": "Wikipedia — Kpengla",
+     "url": "https://en.wikipedia.org/wiki/Kpengla"
+    },
+    {
+     "label": "Wikipedia — Agonglo",
+     "url": "https://en.wikipedia.org/wiki/Agonglo"
     }
    ],
    "connections": [
@@ -272,7 +415,40 @@
      "type": "political",
      "label": "tributary to Oyo"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Agaja",
+     "relation": "father",
+     "years": "r. 1718–1740",
+     "note": "Left him the newly conquered coast and the port of Ouidah.",
+     "id": "agaja-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Kpengla",
+     "relation": "son and successor",
+     "years": "r. 1774–1789",
+     "note": "Tried and failed to control the slave trade amid falling prices; died of smallpox.",
+     "basis": "documented"
+    },
+    {
+     "name": "Agonglo",
+     "relation": "grandson",
+     "years": "r. 1789–1797",
+     "note": "Cut taxes and lifted limits on the slave trade to revive revenue; assassinated in 1797.",
+     "basis": "documented"
+    },
+    {
+     "name": "Adandozan and Ghezo",
+     "relation": "great-grandsons",
+     "years": "r. 1797–1818; 1818–1858",
+     "note": "Brothers whose rivalry over the throne was settled by Ghezo's 1818 coup.",
+     "id": "ghezo-of-dahomey",
+     "basis": "documented"
+    }
+   ],
+   "today": "Tegbesu's line continues through the later kings and the present-day Abomey royal lineages (see Kingdom of Dahomey). No individual descendants are singled out here. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "ghezo-of-dahomey",
@@ -338,6 +514,14 @@
     {
      "label": "Fontes Historiae Africanae — Dahomey and the Ending of the Trans-Atlantic Slave Trade (Law, ed.)",
      "url": "https://www.fonteshistoriaeafricanae.co.uk/wp-content/uploads/2024/02/Dahomey-and-the-Ending-of-the-Trans-Atlantic-Slave-Trade.pdf"
+    },
+    {
+     "label": "Wikipedia — Ghezo",
+     "url": "https://en.wikipedia.org/wiki/Ghezo"
+    },
+    {
+     "label": "Wikipedia — Adandozan",
+     "url": "https://en.wikipedia.org/wiki/Adandozan"
     }
    ],
    "connections": [
@@ -371,7 +555,57 @@
      "type": "trade",
      "label": "sold to Portuguese/Brazilian buyers"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Agonglo",
+     "relation": "father",
+     "years": "r. 1789–1797",
+     "note": "King whose assassination in 1797 brought Adandozan to the throne.",
+     "basis": "documented"
+    },
+    {
+     "name": "Adandozan",
+     "relation": "brother and predecessor",
+     "years": "r. 1797–1818",
+     "note": "Overthrown by Ghezo during the 1818 Annual Customs; reportedly kept confined in the palace for decades afterwards.",
+     "id": "adandozan-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Francisco Félix de Souza",
+     "relation": "ally and partner",
+     "years": "1818–1849",
+     "note": "The Brazilian trader backed Ghezo's coup and was made Chachá, the king's chief agent at Ouidah; tradition says they swore a blood pact.",
+     "id": "francisco-felix-de-souza",
+     "basis": "documented"
+    },
+    {
+     "name": "Domingo José Martinez",
+     "relation": "trading partner",
+     "years": "1830s–1864",
+     "note": "Leading Brazilian trader at Ouidah in Ghezo's later reign.",
+     "id": "domingo-jose-martinez",
+     "basis": "documented"
+    },
+    {
+     "name": "Glele",
+     "relation": "son and successor",
+     "years": "r. 1858–1889",
+     "note": "Inherited the throne and the struggle with British naval pressure.",
+     "id": "glele-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Béhanzin",
+     "relation": "grandson",
+     "years": "r. 1890–1894",
+     "note": "Glele's son and the last independent king.",
+     "id": "behanzin-of-dahomey",
+     "basis": "documented"
+    }
+   ],
+   "today": "Ghezo is remembered in Benin as a strong king who ended Dahomey's tribute to Oyo; his descendants make up one of the main branches of the Abomey royal family. Dada Kêfa Sagbadjou Glèlè, king from 2019 to 2021, was his great-grandson through Glele. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "glele-of-dahomey",
@@ -428,6 +662,14 @@
     {
      "label": "Britannica (Students) — Dahomey, historical kingdom",
      "url": "https://kids.britannica.com/students/article/Dahomey/28540"
+    },
+    {
+     "label": "Wikipedia — Dah Sagbadjou Glele",
+     "url": "https://en.wikipedia.org/wiki/Dah_Sagbadjou_Glele"
+    },
+    {
+     "label": "Wikipedia — Yaya Migansi",
+     "url": "https://en.wikipedia.org/wiki/Yaya_Migansi"
     }
    ],
    "connections": [
@@ -451,7 +693,47 @@
      "type": "trade",
      "label": "Clotilda captives bought at Ouidah, 1860"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Ghezo",
+     "relation": "father",
+     "years": "r. 1818–1858",
+     "note": "Glele inherited the throne and its partnership with Ouidah's Brazilian traders.",
+     "id": "ghezo-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Yaya Migansi (Houekode)",
+     "relation": "daughter",
+     "years": "c.1850–1932",
+     "note": "Princess and senior royal woman (Na Daho), married to a leading minister; her descendants are still active in royal affairs.",
+     "basis": "documented"
+    },
+    {
+     "name": "Béhanzin",
+     "relation": "son and successor",
+     "years": "r. 1890–1894",
+     "note": "Took the throne after Glele's death in 1889 and fought France.",
+     "id": "behanzin-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Agoli-agbo",
+     "relation": "son",
+     "years": "r. 1894–1900",
+     "note": "Installed by the French after Béhanzin's defeat.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dada Kêfa Sagbadjou Glèlè",
+     "relation": "grandson",
+     "years": "d. 2021 (king 2019–2021)",
+     "note": "Former priest elected king by the royal families in 2019; described as Glele's last living grandson.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Glele's descendants form one of the main royal lineages of Abomey: his grandson Dada Kêfa Sagbadjou Glèlè was elected king of Dahomey in 2019 and died on 17 December 2021, and a member of Béhanzin's line succeeded in 2022. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "francisco-felix-de-souza",
@@ -523,6 +805,14 @@
     {
      "label": "SEPHIS / Elisée Soumonni — Daomé e o mundo atlântico (2001)",
      "url": "https://sephis.org/wp-content/uploads/tainacan-items/4273/4351/LT6_Soumonni_2001_Daome_PT.pdf"
+    },
+    {
+     "label": "Wikipedia — De Souza family",
+     "url": "https://en.wikipedia.org/wiki/De_Souza_family"
+    },
+    {
+     "label": "Wikipedia — Moise de Souza",
+     "url": "https://en.wikipedia.org/wiki/Moise_de_Souza"
     }
    ],
    "connections": [
@@ -561,7 +851,63 @@
      "type": "trade",
      "label": "supplied Cuban buyers"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Tomé de Sousa",
+     "relation": "claimed ancestor",
+     "years": "1503–1579",
+     "note": "The family says Francisco descended from Brazil's first governor-general; this has not been proven.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Adandozan",
+     "relation": "opponent",
+     "years": "r. 1797–1818",
+     "note": "The king who imprisoned de Souza; his overthrow made de Souza's fortune.",
+     "id": "adandozan-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Ghezo",
+     "relation": "patron and ally",
+     "years": "r. 1818–1858",
+     "note": "Made de Souza Chachá, the king's agent for trade at Ouidah.",
+     "id": "ghezo-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Domingo José Martinez",
+     "relation": "protégé",
+     "years": "1830s–1864",
+     "note": "Started under the Chachá at Ouidah before rising at Lagos.",
+     "id": "domingo-jose-martinez",
+     "basis": "documented"
+    },
+    {
+     "name": "Isidoro Félix de Souza",
+     "relation": "son and heir",
+     "years": "Chachá c.1850–1858",
+     "note": "Succeeded his father as Chachá after 1849, per family tradition and historians of Ouidah.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "De Souza family",
+     "relation": "descendants",
+     "years": "1849–present",
+     "note": "Descendants of his many wives, still a prominent Beninese clan.",
+     "id": "de-souza-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Moise de Souza",
+     "relation": "descendant",
+     "years": "Chachá IX (present)",
+     "note": "Current head of the family, holding the hereditary Chachá title.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The de Souza family is still prominent in Benin, and the hereditary title of Chachá is held by its head, at present Moise de Souza (Chachá IX), a construction engineer. He has been quoted as saying the family history 'makes me feel bad… all I can do is apologize', while opposing the label 'slave merchant' for the founder in Ouidah's museum. Publicly known members of the clan include Archbishop Isidore de Souza (1934–1999), Paul-Émile de Souza (head of Dahomey's ruling Directory 1969–70) and Chantal de Souza Yayi (First Lady 2006–16). Descendants carry no guilt for the founder's slave trading."
   },
   {
    "id": "de-souza-family",
@@ -613,6 +959,22 @@
     {
      "label": "University of Bayreuth, Africa Multiple — Black Atlantic Revisited, Station 1 (de Souza)",
      "url": "https://www.africamultiple.uni-bayreuth.de/en/1_2-Research/Research-Projects/Arts-and-Aesthetics/Black-Atlantic-revisited/May-Exhibition/Station-1/index.html"
+    },
+    {
+     "label": "Wikipedia — Moise de Souza",
+     "url": "https://en.wikipedia.org/wiki/Moise_de_Souza"
+    },
+    {
+     "label": "Wikipedia — Chantal Yayi",
+     "url": "https://en.wikipedia.org/wiki/Chantal_Yayi"
+    },
+    {
+     "label": "Wikipedia — Isidore de Souza",
+     "url": "https://en.wikipedia.org/wiki/Isidore_de_Souza"
+    },
+    {
+     "label": "Manioc — Honoré Feliciano de Souza, Chacha VIII (photograph record)",
+     "url": "https://www.manioc.org/BUAPH230357"
     }
    ],
    "connections": [
@@ -636,7 +998,61 @@
      "type": "legacy",
      "label": "contested memorialisation"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Francisco Félix de Souza",
+     "relation": "founder",
+     "years": "1771?–1849",
+     "note": "Brazilian slave trader and first Chachá of Ouidah.",
+     "id": "francisco-felix-de-souza",
+     "basis": "documented"
+    },
+    {
+     "name": "Ghezo",
+     "relation": "patron",
+     "years": "r. 1818–1858",
+     "note": "Granted the Chachá title and the family's privileged trading role.",
+     "id": "ghezo-of-dahomey",
+     "basis": "documented"
+    },
+    {
+     "name": "Isidoro Félix de Souza",
+     "relation": "heir",
+     "years": "Chachá c.1850–1858",
+     "note": "Son who succeeded as Chachá, per family tradition.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Honoré Feliciano de Souza",
+     "relation": "descendant",
+     "years": "Chachá VIII from 1995",
+     "note": "Recorded as appointed Chachá VIII in October 1995, a life-long office.",
+     "basis": "documented"
+    },
+    {
+     "name": "Moise de Souza",
+     "relation": "descendant",
+     "years": "Chachá IX (present)",
+     "note": "Present head of the family.",
+     "basis": "documented"
+    },
+    {
+     "name": "Isidore de Souza",
+     "relation": "family member",
+     "years": "1934–1999",
+     "note": "Archbishop of Cotonou (1990–99) and a leading figure of Benin's 1990 democratic transition.",
+     "basis": "documented"
+    },
+    {
+     "name": "Chantal de Souza Yayi",
+     "relation": "family member",
+     "years": "b. 1949",
+     "note": "Politician and First Lady of Benin (2006–16).",
+     "basis": "documented"
+    }
+   ],
+   "today": "The de Souzas remain part of Benin's elite, with a family compound at Singbomey in Ouidah's Brazil Quarter and an annual commemoration of the founder. The Chachá title passes to the family head, now Moise de Souza (Chachá IX). Public figures from the clan include Archbishop Isidore de Souza, army officer and Directory chairman Paul-Émile de Souza (1930–1999) and former First Lady Chantal de Souza Yayi. Family leaders have acknowledged the pain of the history, and descendants carry no guilt for it."
   },
   {
    "id": "oyo-empire",
@@ -694,6 +1110,18 @@
     {
      "label": "World History Encyclopedia — Oyo Empire",
      "url": "https://www.worldhistory.org/Oyo_Empire/"
+    },
+    {
+     "label": "Wikipedia — Alaafin",
+     "url": "https://en.wikipedia.org/wiki/Alaafin"
+    },
+    {
+     "label": "Wikipedia — Gaha",
+     "url": "https://en.wikipedia.org/wiki/Gaha"
+    },
+    {
+     "label": "Wikipedia — Atiba Atobatele",
+     "url": "https://en.wikipedia.org/wiki/Atiba_Atobatele"
     }
    ],
    "connections": [
@@ -722,7 +1150,52 @@
      "type": "parallel",
      "label": "Lagos traded Oyo-war captives"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Bashorun Gaha",
+     "relation": "kingmaker",
+     "years": "fl. 1750s–1774",
+     "note": "Head of the Oyo Mesi council who dominated several Alaafins until his overthrow.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alaafin Abiodun",
+     "relation": "ruler",
+     "years": "r. c.1774–1789",
+     "note": "Overthrew Gaha; his reign saw Oyo's slave exports through Porto-Novo and Ouidah peak.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Afonja",
+     "relation": "general",
+     "years": "c.1750s–c.1813",
+     "note": "Are-Ona-Kakanfo whose revolt at Ilorin began the empire's collapse.",
+     "basis": "documented"
+    },
+    {
+     "name": "Atiba Atobatele",
+     "relation": "son of Abiodun / refounder",
+     "years": "Alaafin from c.1837",
+     "note": "Rebuilt the kingdom at New Oyo after Old Oyo was abandoned.",
+     "basis": "documented"
+    },
+    {
+     "name": "Oba Lamidi Adeyemi III",
+     "relation": "successor",
+     "years": "Alaafin 1970–2022",
+     "note": "Long-reigning Alaafin of modern Oyo.",
+     "basis": "documented"
+    },
+    {
+     "name": "Oba Abimbola Akeem Owoade I",
+     "relation": "successor",
+     "years": "Alaafin since 2025",
+     "note": "Present Alaafin of Oyo, successor to Adeyemi III.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Alaafin of Oyo remains one of Nigeria's foremost Yoruba traditional rulers, now based at modern Oyo; Oba Abimbola Akeem Owoade I (installed 2025) succeeded Oba Lamidi Adeyemi III (d. 2022). The Oyo wars sent many Yoruba captives to Brazil and Cuba, where their religion shaped Candomblé and Santería. Members of the royal house carry no guilt for the empire's slave trading."
   },
   {
    "id": "asante-empire",
@@ -784,6 +1257,18 @@
     {
      "label": "Wikipedia — Asante Empire",
      "url": "https://en.wikipedia.org/wiki/Asante_Empire"
+    },
+    {
+     "label": "Wikipedia — Otumfuo Nana Osei Tutu II",
+     "url": "https://en.wikipedia.org/wiki/Otumfuo_Nana_Osei_Tutu_II"
+    },
+    {
+     "label": "Wikipedia — Osei Kofi Tutu I",
+     "url": "https://en.wikipedia.org/wiki/Osei_Kofi_Tutu_I"
+    },
+    {
+     "label": "Wikipedia — Prempeh I",
+     "url": "https://en.wikipedia.org/wiki/Prempeh_I"
     }
    ],
    "connections": [
@@ -822,7 +1307,68 @@
      "type": "political",
      "label": "longstanding wars with Fante"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Osei Tutu I",
+     "relation": "founder",
+     "years": "c.1660–c.1717",
+     "note": "First Asantehene, who defeated Denkyira in 1701 and set up the state's institutions.",
+     "id": "osei-tutu-i",
+     "basis": "documented"
+    },
+    {
+     "name": "Okomfo Anokye",
+     "relation": "priest and co-founder",
+     "years": "c.1655–c.1717",
+     "note": "Chief priest credited with the Golden Stool and Asante's constitution.",
+     "basis": "documented"
+    },
+    {
+     "name": "Opoku Ware I",
+     "relation": "successor",
+     "years": "r. c.1720–1750",
+     "note": "Expanded the empire, bringing in war captives sold at the coast.",
+     "basis": "documented"
+    },
+    {
+     "name": "Osei Kwadwo",
+     "relation": "Asantehene",
+     "years": "r. 1764–1777",
+     "note": "Reformed the administration and fought the Akyem and Fante.",
+     "basis": "documented"
+    },
+    {
+     "name": "Osei Bonsu",
+     "relation": "Asantehene",
+     "years": "r. 1804–1824",
+     "note": "Defended the slave trade to British envoys after 1807.",
+     "id": "osei-bonsu-of-asante",
+     "basis": "documented"
+    },
+    {
+     "name": "Kwaku Dua I",
+     "relation": "Asantehene",
+     "years": "r. 1834–1867",
+     "note": "Long reign as trade shifted to gold, kola and palm products.",
+     "basis": "documented"
+    },
+    {
+     "name": "Prempeh I",
+     "relation": "Asantehene",
+     "years": "r. 1888–1931",
+     "note": "Exiled by Britain to the Seychelles (1896–1924) before Asante was annexed.",
+     "basis": "documented"
+    },
+    {
+     "name": "Otumfuo Osei Tutu II",
+     "relation": "successor",
+     "years": "Asantehene since 1999",
+     "note": "Present king, custodian of the Golden Stool.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Asante kingdom survives as a powerful traditional state within Ghana. Otumfuo Nana Osei Tutu II, born 1950, was enstooled as the 16th Asantehene on 26 April 1999 and is custodian of the Golden Stool at Kumasi. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "osei-bonsu-of-asante",
@@ -878,6 +1424,14 @@
     {
      "label": "EAUMF — 28 Feb 1820: British envoy Joseph Dupuis arrives in Kumasi",
      "url": "https://www.eaumf.org/ejm-blog/2018/2/28/february-28-1820-british-envoy-joseph-dupuis-arrives-in-kumasi"
+    },
+    {
+     "label": "Wikipedia — Osei Yaw Akoto",
+     "url": "https://en.wikipedia.org/wiki/Osei_Yaw_Akoto"
+    },
+    {
+     "label": "Wikipedia — Otumfuo Nana Osei Tutu II",
+     "url": "https://en.wikipedia.org/wiki/Otumfuo_Nana_Osei_Tutu_II"
     }
    ],
    "connections": [
@@ -896,7 +1450,46 @@
      "type": "political",
      "label": "negotiated with British at Cape Coast"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Osei Tutu I",
+     "relation": "dynastic founder",
+     "years": "c.1660–c.1717",
+     "note": "Founder of the Oyoko Golden Stool line Osei Bonsu inherited.",
+     "id": "osei-tutu-i",
+     "basis": "documented"
+    },
+    {
+     "name": "Osei Kwame Panyin",
+     "relation": "predecessor",
+     "years": "r. 1777–1801",
+     "note": "Asantehene whose troubled reign ended in his suicide.",
+     "basis": "documented"
+    },
+    {
+     "name": "Osei Yaw Akoto",
+     "relation": "successor",
+     "years": "r. 1824–1834",
+     "note": "Fought the British, who defeated Asante at Katamanso in 1826.",
+     "basis": "documented"
+    },
+    {
+     "name": "Kwaku Dua I",
+     "relation": "later successor",
+     "years": "r. 1834–1867",
+     "note": "Restored stability after the wars with Britain.",
+     "basis": "documented"
+    },
+    {
+     "name": "Otumfuo Osei Tutu II",
+     "relation": "successor on the Golden Stool",
+     "years": "since 1999",
+     "note": "Present Asantehene.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Osei Bonsu's Golden Stool is held today by Otumfuo Nana Osei Tutu II, Asantehene since 1999. No individual descendants of Osei Bonsu are singled out here. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "akwamu-kingdom",
@@ -985,7 +1578,38 @@
      "type": "trade",
      "label": "traded with English at Accra"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Ansa Sasraku I",
+     "relation": "Akwamuhene",
+     "years": "fl. 1677",
+     "note": "Conquered the Ga kingdom of Accra in 1677, executing its king Okai Koi.",
+     "basis": "documented"
+    },
+    {
+     "name": "Asameni",
+     "relation": "trader-commander",
+     "years": "fl. 1693",
+     "note": "Akwamu trader who seized the Danish Christiansborg Castle in 1693 and held it for about a year.",
+     "basis": "documented"
+    },
+    {
+     "name": "Akwamu captives on St John",
+     "relation": "descendants in diaspora",
+     "years": "1733",
+     "note": "Akwamu people sold after the kingdom's 1730 defeat led the 1733 slave revolt on Danish St John.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Akwamuhene of Akwamufie",
+     "relation": "successors",
+     "years": "1730s–present",
+     "note": "After defeat by Akyem the dynasty moved east of the Volta, where its paramount chiefs still rule.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Akwamu survives as a traditional paramountcy at Akwamufie in Ghana's Eastern Region, ruled by an Akwamuhene. Its history is told both as resistance (the seizure of Christiansborg) and as collaboration in the slave trade; Akwamu captives were among the leaders of the 1733 revolt on St John in the Danish West Indies. Present-day Akwamu people carry no guilt for the kingdom's slave trading."
   },
   {
    "id": "kingdom-of-kongo",
@@ -1056,6 +1680,18 @@
     {
      "label": "African History Extra — The kingdom of Kongo and the Portuguese (1483–1670)",
      "url": "https://www.africanhistoryextra.com/p/the-kingdom-of-kongo-and-the-portuguese"
+    },
+    {
+     "label": "Wikipedia — Mbanza Kongo",
+     "url": "https://en.wikipedia.org/wiki/M%27banza-Kongo"
+    },
+    {
+     "label": "Wikipedia — Diogo I Nkumbi a Mpudi",
+     "url": "https://en.wikipedia.org/wiki/Diogo_I_Nkumbi_a_Mpudi"
+    },
+    {
+     "label": "Wikipedia — Pedro IV of Kongo",
+     "url": "https://en.wikipedia.org/wiki/Pedro_IV_of_Kongo"
     }
    ],
    "connections": [
@@ -1089,7 +1725,54 @@
      "type": "political",
      "label": "allied vs Portugal in 1640s"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "João I (Nzinga a Nkuwu)",
+     "relation": "king",
+     "years": "r. 1470–1509",
+     "note": "Received the Portuguese and was baptised in 1491.",
+     "id": "joao-i-of-kongo",
+     "basis": "documented"
+    },
+    {
+     "name": "Afonso I",
+     "relation": "king",
+     "years": "r. 1509–1542",
+     "note": "Built Christian Kongo and its slave trade with Portugal.",
+     "id": "afonso-i-of-kongo",
+     "basis": "documented"
+    },
+    {
+     "name": "Diogo I",
+     "relation": "grandson of Afonso",
+     "years": "r. 1545–1561",
+     "note": "Expelled all 70 Portuguese residents in 1555.",
+     "basis": "documented"
+    },
+    {
+     "name": "António I",
+     "relation": "king",
+     "years": "r. 1661–1665",
+     "note": "Killed at the Battle of Mbwila (1665), after which Kongo fell into civil war.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pedro IV",
+     "relation": "king",
+     "years": "r. 1695–1718",
+     "note": "Restored the kingdom; the prophet Beatriz Kimpa Vita was executed in his reign (1706).",
+     "basis": "documented"
+    },
+    {
+     "name": "Kongo kingship",
+     "relation": "successors",
+     "years": "to 1914/15",
+     "note": "Later kings ruled at São Salvador as Portuguese vassals until the monarchy was abolished.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Kongo has no recognised monarch today; the kingship was abolished under Portuguese rule in the 1910s and its lands are divided between Angola, the DR Congo and Congo-Brazzaville. Its capital Mbanza Kongo was inscribed as a UNESCO World Heritage Site in 2017. No individual descendants of the royal houses are named here."
   },
   {
    "id": "afonso-i-of-kongo",
@@ -1155,6 +1838,14 @@
     {
      "label": "South African History Online — Kingdom of Kongo 1390–1914",
      "url": "https://sahistory.org.za/article/kingdom-kongo-1390-1914"
+    },
+    {
+     "label": "Wikipedia — Pedro I of Kongo",
+     "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Kongo"
+    },
+    {
+     "label": "Wikipedia — João I of Kongo",
+     "url": "https://en.wikipedia.org/wiki/Jo%C3%A3o_I_of_Kongo"
     }
    ],
    "connections": [
@@ -1178,7 +1869,47 @@
      "type": "trade",
      "label": "Central African trade route"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "João I (Nzinga a Nkuwu)",
+     "relation": "father",
+     "years": "r. 1470–1509",
+     "note": "First Kongo king to be baptised (1491); later turned away from the new faith.",
+     "id": "joao-i-of-kongo",
+     "basis": "documented"
+    },
+    {
+     "name": "Crown of Portugal",
+     "relation": "ally and partner",
+     "years": "1491–1542",
+     "note": "Portuguese kings sent priests and craftsmen and bought captives; Afonso wrote to them protesting abuses.",
+     "id": "crown-of-portugal",
+     "basis": "documented"
+    },
+    {
+     "name": "Henrique",
+     "relation": "son",
+     "years": "c.1495–c.1531",
+     "note": "Educated in Lisbon and made a bishop in 1518, the first from sub-Saharan Africa.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Pedro I",
+     "relation": "son and successor",
+     "years": "r. 1543–1545",
+     "note": "Deposed by his nephew Diogo.",
+     "basis": "documented"
+    },
+    {
+     "name": "Diogo I",
+     "relation": "grandson",
+     "years": "r. 1545–1561",
+     "note": "Overthrew Pedro and expelled the Portuguese in 1555.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Afonso is remembered as Kongo's great Christian king, and his letters to Portugal are widely taught. Kongo has no reigning monarch today; no individual descendants are named here."
   },
   {
    "id": "queen-nzinga",
@@ -1264,7 +1995,54 @@
      "type": "political",
      "label": "neighbouring kingdom"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Ngola Kilombo kia Kasenda",
+     "relation": "grandfather",
+     "years": "16th century",
+     "note": "King of Ndongo.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ngola Mbandi Kiluanji and Kengela ka Nkombe",
+     "relation": "parents",
+     "years": "d. 1617 (father)",
+     "note": "Her father was king; her mother was one of his slave wives, which rivals later used to dispute her right to rule.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ngola Mbandi",
+     "relation": "brother and predecessor",
+     "years": "r. 1617–1624",
+     "note": "Killed rivals, including Njinga's son, then died in 1624, leaving her the throne.",
+     "basis": "documented"
+    },
+    {
+     "name": "Kasanje",
+     "relation": "husband and ally",
+     "years": "c.1629–1631",
+     "note": "Imbangala warlord whose band she married into to rebuild her army.",
+     "id": "imbangala-kasanje",
+     "basis": "documented"
+    },
+    {
+     "name": "Dutch West India Company",
+     "relation": "ally",
+     "years": "1641–1648",
+     "note": "Bought captives from her in exchange for firearms during the Dutch occupation of Luanda.",
+     "id": "dutch-west-india-company",
+     "basis": "documented"
+    },
+    {
+     "name": "Kambu (Dona Bárbara)",
+     "relation": "sister and successor",
+     "years": "r. 1663–1666",
+     "note": "Twice captured by the Portuguese; succeeded Njinga in Matamba.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Njinga is a national heroine in Angola: a major Luanda street bears her name and her statue was placed in Kinaxixi square in 2002. No publicly documented descendants have been traced; her throne passed to her sister Kambu."
   },
   {
    "id": "imbangala-kasanje",
@@ -1321,6 +2099,10 @@
     {
      "label": "Library of Congress Country Studies (Angola) — Matamba and Kasanje Kingdoms",
      "url": "https://countrystudies.us/angola/8.htm"
+    },
+    {
+     "label": "Wikipedia — Kasanje Kingdom",
+     "url": "https://en.wikipedia.org/wiki/Kasanje_Kingdom"
     }
    ],
    "connections": [
@@ -1344,7 +2126,54 @@
      "type": "political",
      "label": "raided Kongo region"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Kinguri",
+     "relation": "legendary founder",
+     "years": "16th century",
+     "note": "Lunda-linked leader whom some oral traditions name as ancestor of the Imbangala bands.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Kasanje",
+     "relation": "founder of the kingdom",
+     "years": "c.1620",
+     "note": "Leader of a band that broke from Portuguese service and settled on the upper Kwango.",
+     "basis": "documented"
+    },
+    {
+     "name": "Njinga",
+     "relation": "wife / ally and rival",
+     "years": "1629–1660s",
+     "note": "Married Kasanje to rebuild her army, then fought his successors.",
+     "id": "queen-nzinga",
+     "basis": "documented"
+    },
+    {
+     "name": "Kaza",
+     "relation": "rival band leader",
+     "years": "1629",
+     "note": "Leader of another band who betrayed Njinga.",
+     "basis": "documented"
+    },
+    {
+     "name": "Pombeiros",
+     "relation": "trading partners",
+     "years": "17th–19th centuries",
+     "note": "Luanda's caravan agents bought captives at Kasanje's market.",
+     "id": "pombeiros",
+     "basis": "documented"
+    },
+    {
+     "name": "Kinguri kings",
+     "relation": "successors",
+     "years": "1620–1910",
+     "note": "Elected from the three founding clans until Portuguese conquest.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Baixa de Cassange (Kasanje lowlands) in Angola keeps the kingdom's name. In January 1961 a cotton workers' revolt there, crushed by Portugal, became one of the first events of Angola's war of independence and is commemorated each 4 January. No individual descendants of the kinguri are named here."
   },
   {
    "id": "aro-confederacy",
@@ -1410,6 +2239,10 @@
     {
      "label": "Wikipedia — Anglo-Aro War",
      "url": "https://en.wikipedia.org/wiki/Anglo-Aro_War"
+    },
+    {
+     "label": "Wikipedia — Arochukwu",
+     "url": "https://en.wikipedia.org/wiki/Arochukwu"
     }
    ],
    "connections": [
@@ -1433,7 +2266,48 @@
      "type": "trade",
      "label": "captives sold to Liverpool ships"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Agwu Inobia",
+     "relation": "founding leader",
+     "years": "17th century",
+     "note": "Led the first Igbo settlers (Eze Agwu group) into the Aro area, per local tradition.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Ibini Ukpabi oracle",
+     "relation": "spiritual centre",
+     "years": "c.1690–1902",
+     "note": "The 'Long Juju' whose verdicts supplied captives to Aro traders.",
+     "id": "arochukwu-long-juju",
+     "basis": "documented"
+    },
+    {
+     "name": "Bonny and Old Calabar brokers",
+     "relation": "trading partners",
+     "years": "18th–19th centuries",
+     "note": "Coastal houses bought Aro-supplied captives for European ships.",
+     "id": "kingdom-of-bonny",
+     "basis": "documented"
+    },
+    {
+     "name": "Jaja of Opobo",
+     "relation": "captive",
+     "years": "c.1821–1891",
+     "note": "Possibly kidnapped and sold by Aro traders as a boy before rising in Bonny.",
+     "id": "jaja-of-opobo",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Eze Aro",
+     "relation": "successors",
+     "years": "to present",
+     "note": "Paramount traditional ruler of Arochukwu.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Eze Aro remains the paramount traditional ruler of Arochukwu in Abia State, Nigeria, and Aro settlements founded along the old trade routes survive across Igboland. The Arochukwu slave-route sites are on Nigeria's UNESCO tentative list and are visited as heritage sites. Present-day Aro people carry no guilt for the confederacy's slave trading."
   },
   {
    "id": "kingdom-of-bonny",
@@ -1503,6 +2377,10 @@
     {
      "label": "Britannica — Bonny (Nigeria)",
      "url": "https://www.britannica.com/place/Bonny"
+    },
+    {
+     "label": "Wikipedia — George Oruigbiji Pepple",
+     "url": "https://en.wikipedia.org/wiki/George_Oruigbiji_Pepple"
     }
    ],
    "connections": [
@@ -1526,7 +2404,61 @@
      "type": "ownership",
      "label": "port"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Asimini",
+     "relation": "founding king",
+     "years": "early period",
+     "note": "One of the four founding kings in Ibani (Bonny) tradition.",
+     "basis": "documented"
+    },
+    {
+     "name": "Perekule I",
+     "relation": "founder of the Pepple dynasty",
+     "years": "18th century",
+     "note": "Succeeded King Awusa Halliday and created the chieftaincy houses that ran the trade.",
+     "basis": "documented"
+    },
+    {
+     "name": "Opubo the Great",
+     "relation": "king",
+     "years": "r. c.1792–1830",
+     "note": "Ruled during Bonny's peak as the largest slave port in the Bight of Biafra.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "William Dappa Pepple I",
+     "relation": "king",
+     "years": "r. 1830–1854, 1861–1866",
+     "note": "Signed anti-slave-trade treaties, was exiled by Britain in 1854 and restored in 1861.",
+     "id": "william-dappa-pepple",
+     "basis": "documented"
+    },
+    {
+     "name": "Jaja (Anna Pepple House)",
+     "relation": "chief",
+     "years": "1863–1869",
+     "note": "Formerly enslaved head of a royal trading house who left to found Opobo.",
+     "id": "jaja-of-opobo",
+     "basis": "documented"
+    },
+    {
+     "name": "George Oruigbiji Pepple (Perekule VII)",
+     "relation": "son and heir",
+     "years": "r. 1866–1883, 1887–1888",
+     "note": "English-educated king of the palm-oil era; Bonny became a British protectorate in 1886.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Asimini William Dappa Pepple III (Perekule XI)",
+     "relation": "successor",
+     "years": "Amanyanabo since 1996",
+     "note": "Present king (Amanyanabo) of Grand Bonny.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Pepple (Perekule) royal house still provides the Amanyanabo of Grand Bonny: King Edward Asimini William Dappa Pepple III, Perekule XI, has reigned since 1996, with a council of chiefs heading the historic trading houses. Bonny Island is now a centre of Nigeria's oil and liquefied-gas industry. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "old-calabar-efik",
@@ -1594,6 +2526,18 @@
     {
      "label": "Smithsonian Transcription Center — Autograph note to William Turner by Eyamba V",
      "url": "https://transcription.si.edu/project/38352"
+    },
+    {
+     "label": "Wikipedia — Obong of Calabar",
+     "url": "https://en.wikipedia.org/wiki/Obong_of_Calabar"
+    },
+    {
+     "label": "ThisDay — Edidem Otu V is Obong of Calabar, say Efik kingmakers (2023)",
+     "url": "https://www.thisdaylive.com/index.php/2023/05/24/edidem-otu-v-is-obong-of-calabar-say-efik-kingmakers"
+    },
+    {
+     "label": "Wikipedia — Antera Duke",
+     "url": "https://en.wikipedia.org/wiki/Antera_Duke"
     }
    ],
    "connections": [
@@ -1622,7 +2566,47 @@
      "type": "ownership",
      "label": "Duke Town leader"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Duke Ephraim (Duke Town)",
+     "relation": "leading house",
+     "years": "18th century–1834",
+     "note": "Rulers of Duke Town who dominated trade with British ships.",
+     "id": "duke-ephraim",
+     "basis": "documented"
+    },
+    {
+     "name": "Little Ephraim Robin John and Ancona Robin John",
+     "relation": "Old Town traders",
+     "years": "1767–c.1774",
+     "note": "Enslaved in the 1767 massacre, they won their freedom in Bristol and returned to Calabar, where Ephraim probably resumed slave trading.",
+     "basis": "documented"
+    },
+    {
+     "name": "Antera Duke",
+     "relation": "trader and diarist",
+     "years": "fl. 1785–1788",
+     "note": "Kept the only known diary by an African slave trader.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eyo Honesty II",
+     "relation": "king of Creek Town",
+     "years": "r. 1835–1858",
+     "note": "Wealthy trader who invited Presbyterian missionaries in 1846.",
+     "id": "eyo-honesty-ii",
+     "basis": "documented"
+    },
+    {
+     "name": "Edidem Ekpo Okon Abasi Otu V",
+     "relation": "successor",
+     "years": "Obong since 2008",
+     "note": "78th Obong of Calabar, re-proclaimed by the Etubom conclave in 2023 after a court challenge.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Obong of Calabar remains paramount ruler of the Efik. Edidem Ekpo Okon Abasi Otu V has held the title since 2008; a 2023 Supreme Court judgment ordered a fresh selection, after which the Etubom (house heads) re-proclaimed him and the Cross River State government stated he remains the valid Obong. The Ekpe society survives in Calabar and, through enslaved Efik, as Abakuá in Cuba. Present-day descendants and members of the royal house carry no guilt for their ancestors' slave trading."
   },
   {
    "id": "duke-ephraim",
@@ -1679,6 +2663,14 @@
     {
      "label": "Times Higher Education — review of Sparks, The Two Princes of Calabar",
      "url": "https://www.timeshighereducation.com/books/enslaved-slavers-turn-on-dirty-trade-when-free/193646.article"
+    },
+    {
+     "label": "Wikipedia — Antera Duke",
+     "url": "https://en.wikipedia.org/wiki/Antera_Duke"
+    },
+    {
+     "label": "Wikipedia — Eyo Honesty II",
+     "url": "https://en.wikipedia.org/wiki/Eyo_Honesty_II"
     }
    ],
    "connections": [
@@ -1697,7 +2689,54 @@
      "type": "trade",
      "label": "traded with Bristol captains"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Duke Ephraim of New Town",
+     "relation": "house leader",
+     "years": "fl. 1767",
+     "note": "Joined British captains in the 1767 ambush on Old Town traders.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robin John family (Old Town)",
+     "relation": "rivals",
+     "years": "18th century",
+     "note": "Rival Efik house whose members were enslaved in 1767.",
+     "id": "old-calabar-efik",
+     "basis": "documented"
+    },
+    {
+     "name": "Antera Duke",
+     "relation": "kinsman and partner",
+     "years": "fl. 1785–1788",
+     "note": "Duke Town trader whose diary records sales to Liverpool ships.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Great Duke Ephraim",
+     "relation": "head of house",
+     "years": "d. 1834",
+     "note": "Dominant Duke Town ruler of the early 19th century.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eyamba V",
+     "relation": "successor in Duke Town",
+     "years": "c.1834–1847",
+     "note": "Next leading ruler of Duke Town.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Eyo Honesty II",
+     "relation": "rival (Creek Town)",
+     "years": "r. 1835–1858",
+     "note": "Creek Town king who rivalled Duke Town.",
+     "id": "eyo-honesty-ii",
+     "basis": "documented"
+    }
+   ],
+   "today": "Duke Town is the core of modern Calabar, and the Duke house remains one of the Efik houses whose Etubom take part in choosing the Obong of Calabar. No individual descendants are named here; they carry no guilt for the house's slave trading."
   },
   {
    "id": "jaja-of-opobo",
@@ -1755,6 +2794,14 @@
     {
      "label": "NOW Grenada — This day in history: 8 June 1888 (Jaja arrives in Grenada)",
      "url": "https://nowgrenada.com/2022/06/this-day-in-history-8-june-1888-2/"
+    },
+    {
+     "label": "Wikipedia — Jaja of Opobo",
+     "url": "https://en.wikipedia.org/wiki/Jaja_of_Opobo"
+    },
+    {
+     "label": "Wikipedia — Opobo",
+     "url": "https://en.wikipedia.org/wiki/Opobo"
     }
    ],
    "connections": [
@@ -1773,7 +2820,47 @@
      "type": "parallel",
      "label": "inland Igbo trade networks"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Aro traders",
+     "relation": "captors",
+     "years": "c.1830s",
+     "note": "Jaja (Jubo Jubogha) was kidnapped from Igboland as a boy, possibly by the Aro, and sold to Bonny.",
+     "id": "aro-confederacy",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Anna Pepple House",
+     "relation": "adoptive house",
+     "years": "1830s–1869",
+     "note": "He worked his way out of slavery in this royal trading house and became its head in 1863.",
+     "id": "kingdom-of-bonny",
+     "basis": "documented"
+    },
+    {
+     "name": "Oko Jumbo",
+     "relation": "rival",
+     "years": "1860s",
+     "note": "Head of the rival Manilla Pepple House; their war led Jaja to found Opobo in 1869–70.",
+     "basis": "documented"
+    },
+    {
+     "name": "Prince Waribo",
+     "relation": "son",
+     "years": "c.1868–1882",
+     "note": "Sent to school in Frodsham, Cheshire, where he died aged about 13; his grave is at St Laurence's Church.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jaja dynasty",
+     "relation": "heirs",
+     "years": "1891–present",
+     "note": "Jaja's descendants hold the throne of Opobo.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Jaja's descendants still provide the Amanyanabo (king) of Opobo, a kingdom of 14 sections and 67 war-canoe houses in Rivers State. He is honoured in Nigeria as an anti-colonial hero and recalled in a Barbadian folk song from his exile. He himself had been enslaved as a child; his descendants carry no guilt for the slave trading of his era."
   },
   {
    "id": "kosoko-of-lagos",
@@ -1825,6 +2912,14 @@
     {
      "label": "Wikipedia — Akitoye",
      "url": "https://en.wikipedia.org/wiki/Akitoye"
+    },
+    {
+     "label": "Wikipedia — Osinlokun",
+     "url": "https://en.wikipedia.org/wiki/Osinlokun"
+    },
+    {
+     "label": "Wikipedia — Oba of Lagos",
+     "url": "https://en.wikipedia.org/wiki/Oba_of_Lagos"
     }
    ],
    "connections": [
@@ -1853,7 +2948,61 @@
      "type": "trade",
      "label": "sold captives from Yoruba wars"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Ologun Kutere",
+     "relation": "grandfather",
+     "years": "Oba 1749–1775",
+     "note": "Founder of the dominant Lagos royal line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Osinlokun",
+     "relation": "father",
+     "years": "Oba 1821–1829",
+     "note": "Oba of Lagos; Kosoko's brother Idewu Ojulari succeeded him.",
+     "basis": "documented"
+    },
+    {
+     "name": "Akitoye",
+     "relation": "uncle and rival",
+     "years": "Oba 1841–1845, 1851–1853",
+     "note": "Kosoko overthrew him in 1845; Britain restored him in 1851.",
+     "id": "akitoye-of-lagos",
+     "basis": "documented"
+    },
+    {
+     "name": "Domingo José Martinez",
+     "relation": "partner",
+     "years": "1840s",
+     "note": "The Brazilian slave trader carried Kosoko back to Lagos on his ship.",
+     "id": "domingo-jose-martinez",
+     "basis": "documented"
+    },
+    {
+     "name": "Oshodi Tapa",
+     "relation": "war captain",
+     "years": "fl. 1840s–1860s",
+     "note": "Kosoko's commander at Epe, later settled at Epetedo in Lagos.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dosunmu",
+     "relation": "rival",
+     "years": "Oba 1853–1885",
+     "note": "Akitoye's son; his descendants, not Kosoko's, kept the Lagos throne.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jide Kosoko",
+     "relation": "descendant",
+     "years": "contemporary",
+     "note": "Nollywood actor named by Wikipedia among Kosoko's prominent descendants.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Kosoko was buried at Iga Ereko in Lagos, and the Kosoko family remains part of the Lagos royal (Ologun Kutere) lineage, though the Obaship stayed with the Akitoye–Dosunmu branch. Publicly known descendants include the actor Jide Kosoko. The current Oba of Lagos is Rilwan Akiolu (since 2003). Descendants carry no guilt for Kosoko's slave trading."
   },
   {
    "id": "madam-tinubu",
@@ -1909,6 +3058,10 @@
     {
      "label": "The Guardian (Nigeria) — Efunroye Tinubu film: glorification of a slave master?",
      "url": "https://guardian.ng/life/film/fathia-baloguns-efunroye-tinubu-glorification-of-a-slave-master-or-promotion-of-art-culture/"
+    },
+    {
+     "label": "Wikipedia — Akitoye",
+     "url": "https://en.wikipedia.org/wiki/Akitoye"
     }
    ],
    "connections": [
@@ -1932,7 +3085,76 @@
      "type": "trade",
      "label": "alleged sales to Brazilian traders"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Olumosa and Nijeede",
+     "relation": "parents",
+     "years": "early 19th century",
+     "note": "Egba parents; she was her father's only known daughter.",
+     "basis": "documented"
+    },
+    {
+     "name": "First (Owu) husband",
+     "relation": "spouse",
+     "years": "1820s",
+     "note": "She had two sons with him before moving to Badagry and Lagos.",
+     "basis": "documented"
+    },
+    {
+     "name": "Oba Adele",
+     "relation": "spouse",
+     "years": "d. 1837",
+     "note": "Marriage to the exiled Oba gave her access to European traders in Badagry and Lagos.",
+     "basis": "documented"
+    },
+    {
+     "name": "Oluwole",
+     "relation": "stepson and ally",
+     "years": "Oba 1837–1841",
+     "note": "Adele's son, whom she backed against Kosoko.",
+     "basis": "documented"
+    },
+    {
+     "name": "Yesufu Bada (Obadina)",
+     "relation": "spouse",
+     "years": "fl. 1840s–1850s",
+     "note": "Oluwole's war captain; together they expanded trade with Egbaland.",
+     "basis": "documented"
+    },
+    {
+     "name": "Akitoye",
+     "relation": "patron and ally",
+     "years": "Oba 1841–1845, 1851–1853",
+     "note": "Her former brother-in-law granted her commercial privileges and land at what is now Tinubu Square.",
+     "id": "akitoye-of-lagos",
+     "basis": "documented"
+    },
+    {
+     "name": "Kosoko",
+     "relation": "rival",
+     "years": "Oba 1845–1851",
+     "note": "His accession forced her to flee to Badagry.",
+     "id": "kosoko-of-lagos",
+     "basis": "documented"
+    },
+    {
+     "name": "Dosunmu",
+     "relation": "Oba who banished her",
+     "years": "1856",
+     "note": "On the British consul's advice he expelled her to Abeokuta.",
+     "basis": "documented"
+    },
+    {
+     "name": "Tinubu family",
+     "relation": "name-bearers and heirs",
+     "years": "to present",
+     "note": "The family and estate bearing her name.",
+     "id": "tinubu-family",
+     "basis": "documented"
+    }
+   ],
+   "today": "Tinubu Square in Lagos and statues in Lagos and Abeokuta commemorate her, and she is buried in Ojokodo, Abeokuta. Claims that Nigeria's President Bola Ahmed Tinubu descends from her remain unproven: no published genealogy links him to her line. Anyone who bears her name or descends from her carries no guilt for her slave trading."
   },
   {
    "id": "nana-olomu",
@@ -2003,7 +3225,39 @@
      "type": "parallel",
      "label": "Delta house system"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Olomu",
+     "relation": "father",
+     "years": "d. 1883",
+     "note": "Leading Itsekiri merchant and Governor of the Benin River (1879–83), who left Nana his trading organisation intact.",
+     "basis": "documented"
+    },
+    {
+     "name": "Memese",
+     "relation": "mother",
+     "years": "19th century",
+     "note": "An Urhobo woman from Evhro (Effurun).",
+     "basis": "documented"
+    },
+    {
+     "name": "Idiare",
+     "relation": "predecessor in office",
+     "years": "elected 1851",
+     "note": "First Governor of the Benin River, during the interregnum after Olu Akengbuwa's death (1848).",
+     "basis": "documented"
+    },
+    {
+     "name": "Jaja of Opobo",
+     "relation": "parallel",
+     "years": "c.1821–1891",
+     "note": "Nana feared being deported as Jaja had been in 1887.",
+     "id": "jaja-of-opobo",
+     "basis": "documented"
+    }
+   ],
+   "today": "Nana's last residence at Koko houses the Nanna Living History Museum, a national monument since 1990, whose board has asked for the return of objects held at the National Maritime Museum, Greenwich. No individual descendants are named here; they carry no guilt for his use of enslaved labour."
   },
   {
    "id": "caulker-family",
@@ -2064,6 +3318,10 @@
     {
      "label": "Wikipedia — Richard Canreba Caulker",
      "url": "https://en.wikipedia.org/wiki/Richard_Canreba_Caulker"
+    },
+    {
+     "label": "Wikipedia — Thomas Stephen Caulker",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Stephen_Caulker"
     }
    ],
    "connections": [
@@ -2087,7 +3345,60 @@
      "type": "trade",
      "label": "sold to British ships"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Corker",
+     "relation": "founder",
+     "years": "1669/70–1700",
+     "note": "Royal African Company agent on York Island, Sherbro.",
+     "id": "thomas-corker",
+     "basis": "documented"
+    },
+    {
+     "name": "Seniora Doll",
+     "relation": "founding mother",
+     "years": "late 17th century",
+     "note": "Sherbro royal woman of the house of Ya Kumba whose lineage gave her sons chiefly rights.",
+     "basis": "documented"
+    },
+    {
+     "name": "Robin and Stephen Corker",
+     "relation": "sons and heirs",
+     "years": "18th century",
+     "note": "Inherited their mother's chiefdom and used their English name to trade with European ships.",
+     "basis": "documented"
+    },
+    {
+     "name": "Skinner Caulker",
+     "relation": "possible in-law",
+     "years": "mid-18th century",
+     "note": "English settler whose descendants may have intermarried with the Corkers.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Thomas Stephen Caulker",
+     "relation": "descendant",
+     "years": "d. 1898",
+     "note": "Chief of Kagboro (Shenge).",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Canreba Caulker",
+     "relation": "descendant",
+     "years": "d. 1901",
+     "note": "Ruler of Bumpe (1864–88, 1894–1901) who helped end the Sherbro slave trade in 1853.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Canry Caulker",
+     "relation": "descendant",
+     "years": "c.1846–1859",
+     "note": "Son of the King of Bompey, sent to England for schooling.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Caulker paramount chiefs dominated the Bumpe and Kagboro chiefdoms into the 20th century. According to Wikipedia, most Caulker descendants today live in Bonthe and Shenge in Sierra Leone's Moyamba District, and the clan keeps oral and written accounts of its English founder. No private living individuals are named here; descendants carry no guilt for the family's slave trading."
   },
   {
    "id": "tucker-and-rogers-families",
@@ -2168,7 +3479,46 @@
      "type": "trade",
      "label": "regional trade"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Tucker",
+     "relation": "founder",
+     "years": "fl. 1665",
+     "note": "English agent who married a Sherbro princess; her matrilineage gave their children chiefly claims.",
+     "basis": "documented"
+    },
+    {
+     "name": "Zachary Rogers",
+     "relation": "founder",
+     "years": "fl. 1665",
+     "note": "English company trader who married into a Sherbro chiefly family.",
+     "basis": "documented"
+    },
+    {
+     "name": "James Cleveland",
+     "relation": "founder",
+     "years": "mid-18th century",
+     "note": "English settler whose Afro-European descendants competed for power.",
+     "basis": "documented"
+    },
+    {
+     "name": "Caulker family",
+     "relation": "rivals and in-laws",
+     "years": "18th–19th centuries",
+     "note": "Rival Afro-European clan of the same coast.",
+     "id": "caulker-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Harry Tucker",
+     "relation": "descendant",
+     "years": "mid-19th century",
+     "note": "Sherbro chief on whose territory the American Missionary Association, linked to the Amistad returnees, set up a mission school.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Tucker descendants kept matrilineal claims to chieftaincy, centred on Gbap, and remain a known Sherbro family in southern Sierra Leone. No private living individuals are named here; descendants carry no guilt for their ancestors' trading."
   },
   {
    "id": "signares-of-senegambia",
@@ -2221,6 +3571,10 @@
     {
      "label": "American Historical Association 2012 — paper on the signares of Senegambia",
      "url": "https://aha.confex.com/aha/2012/webprogram/Paper8039.html"
+    },
+    {
+     "label": "Wikipedia — Anne Pépin",
+     "url": "https://en.wikipedia.org/wiki/Anne_P%C3%A9pin"
     }
    ],
    "connections": [
@@ -2244,7 +3598,39 @@
      "type": "trade",
      "label": "linked to French traders"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Catherine Baudet and Jean Pépin",
+     "relation": "example lineage",
+     "years": "18th century",
+     "note": "A signare and a Compagnie des Indes surgeon, parents of Anne and Nicolas Pépin.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anne Pépin",
+     "relation": "leading signare",
+     "years": "c.1747–1837",
+     "note": "Richest woman on Gorée and partner of Governor de Boufflers.",
+     "id": "anne-pepin",
+     "basis": "documented"
+    },
+    {
+     "name": "Nicolas Pépin",
+     "relation": "trader",
+     "years": "late 18th century",
+     "note": "Anne's brother, who built the house known today as the Maison des Esclaves for the family's slave-trading business.",
+     "basis": "documented"
+    },
+    {
+     "name": "Anna Colas Pépin",
+     "relation": "niece",
+     "years": "19th century",
+     "note": "Known for her association with the Prince of Joinville.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Signare culture is a strong image in Senegalese heritage on Gorée and in Saint-Louis, and the Pépin house is linked to the Maison des Esclaves museum on Gorée. No private living individuals are named here; descendants of signare families carry no guilt for the slaveholding of their ancestors."
   },
   {
    "id": "futa-jallon-imamate",
@@ -2300,6 +3686,14 @@
     {
      "label": "Cambridge, Social Science History — The Impact of the Atlantic Slave Trade on the Societies of the Western Sudan",
      "url": "https://resolve.cambridge.org/core/journals/social-science-history/article/impact-of-the-atlantic-slave-trade-on-the-societies-of-the-western-sudan/7CDA2AC76F07C42FCC9704E234B6450E"
+    },
+    {
+     "label": "Wikipedia — Karamokho Alfa",
+     "url": "https://en.wikipedia.org/wiki/Karamokho_Alfa"
+    },
+    {
+     "label": "Wikipedia — Bokar Biro",
+     "url": "https://en.wikipedia.org/wiki/Bokar_Biro"
     }
    ],
    "connections": [
@@ -2318,7 +3712,39 @@
      "type": "parallel",
      "label": "Western Sudan supply states"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Alfa Ba",
+     "relation": "founder of the movement",
+     "years": "d. c.1725",
+     "note": "Called the jihad but died before it began.",
+     "basis": "documented"
+    },
+    {
+     "name": "Karamokho Alfa",
+     "relation": "founder and first almamy",
+     "years": "d. c.1751",
+     "note": "Led the jihad that created the imamate.",
+     "id": "karamokho-alfa",
+     "basis": "documented"
+    },
+    {
+     "name": "Ibrahima Sori",
+     "relation": "successor",
+     "years": "r. c.1751–1784",
+     "note": "Military leader whose Soriya house alternated power with Karamokho Alfa's Alfaya house.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bokar Biro",
+     "relation": "last independent almamy",
+     "years": "d. 1896",
+     "note": "Killed at the Battle of Porédaka by French forces.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Timbo and Labé remain centres of Fulbe Muslim learning in Guinea, and the Alfaya and Soriya lineages are remembered in local history. Descendants of people enslaved under the imamate still face status discrimination in parts of the region. No individual descendants of the almamys are named here; they carry no guilt for the imamate's slave raiding."
   },
   {
    "id": "port-ouidah",

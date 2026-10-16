@@ -75,6 +75,22 @@
     {
      "label": "Humanities DC — Adam Francis Plummer",
      "url": "https://dcwritershomes.humanitiesdc.org/adam-francis-plummer"
+    },
+    {
+     "label": "Riversdale House Museum — The Calvert Family",
+     "url": "https://riversdale.org/the-calvert-family"
+    },
+    {
+     "label": "University of Maryland DRUM — The 1856 Project Inaugural Symposium",
+     "url": "https://drum.lib.umd.edu/items/9fbe17a5-9227-4d13-b527-5d9a5f316789"
+    },
+    {
+     "label": "Wikipedia — Frederick Calvert, 6th Baron Baltimore",
+     "url": "https://en.wikipedia.org/wiki/Frederick_Calvert,_6th_Baron_Baltimore"
+    },
+    {
+     "label": "Wikipedia — Benedict Swingate Calvert",
+     "url": "https://en.wikipedia.org/wiki/Benedict_Swingate_Calvert"
     }
    ],
    "connections": [
@@ -103,7 +119,91 @@
      "type": "legacy",
      "label": "city named for the title"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "George Calvert, 1st Baron Baltimore",
+     "relation": "founder",
+     "years": "1579–1632",
+     "note": "Secretary of State to James I who sought the Maryland charter; died weeks before it was sealed.",
+     "basis": "documented"
+    },
+    {
+     "name": "Cecil Calvert, 2nd Baron Baltimore",
+     "relation": "son",
+     "years": "1605–1675",
+     "note": "Received the 1632 charter and ran Maryland as proprietor from England.",
+     "basis": "documented"
+    },
+    {
+     "name": "Leonard Calvert",
+     "relation": "son",
+     "years": "1606–1647",
+     "note": "Led the 1634 settlement at St. Mary's City as first governor.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Calvert, 3rd Baron Baltimore",
+     "relation": "grandson",
+     "years": "1637–1715",
+     "note": "Governor when Maryland's 1664 act made slavery lifelong and hereditary.",
+     "id": "maryland-slave-law-1664",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Calvert, 5th Baron Baltimore",
+     "relation": "descendant",
+     "years": "1699–1751",
+     "note": "Proprietor; father of the illegitimate Benedict Swingate Calvert, founder of the American line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Calvert, 6th Baron Baltimore",
+     "relation": "descendant",
+     "years": "1731–1771",
+     "note": "Last Lord Baltimore; the barony became extinct at his death.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Harford",
+     "relation": "heir",
+     "years": "1758–1834",
+     "note": "Frederick's illegitimate son and last proprietor of Maryland, who lost the province in the Revolution.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benedict Swingate Calvert",
+     "relation": "son of 5th Lord",
+     "years": "c. 1730–1788",
+     "note": "Planter and enslaver at Mount Airy, Prince George's County; founder of the Maryland Calverts.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eleanor Calvert Custis",
+     "relation": "daughter",
+     "years": "1758–1811",
+     "note": "Benedict's daughter; married John Parke Custis, Martha Washington's son, in 1774, joining the Calverts to the Custis–Washington estate.",
+     "id": "custis-family",
+     "basis": "documented"
+    },
+    {
+     "name": "George Calvert and Rosalie Stier Calvert",
+     "relation": "son / spouse",
+     "years": "1768–1838; 1778–1821",
+     "note": "Married in 1799; Rosalie's Belgian family money built Riversdale, and the couple held about 77 enslaved people at their marriage.",
+     "id": "riversdale",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Benedict Calvert",
+     "relation": "grandson",
+     "years": "1808–1864",
+     "note": "Riversdale planter and slave trader who founded the Maryland Agricultural College (now the University of Maryland) in 1856; enslaved 52 people in 1860.",
+     "id": "charles-benedict-calvert",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Barons Baltimore title died out in 1771, and the proprietary estates were confiscated in the Revolution. The Maryland Calverts' houses are public: Riversdale (M-NCPPC) and Mount Airy (Rosaryville State Park). The University of Maryland's 1856 Project studies the enslaved people who built Charles Benedict Calvert's fortune, and Riversdale has sought descendants of the people enslaved there. No living Calvert descendants are named here."
   },
   {
    "id": "macon-family",
@@ -197,7 +297,60 @@
      "type": "political",
      "label": "states'-rights contemporary"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Gideon Macon",
+     "relation": "founder",
+     "years": "d. 1702",
+     "note": "New Kent County, Virginia planter and burgess; founder of the Virginia line.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Macon Jones",
+     "relation": "daughter",
+     "years": "fl. 1700s",
+     "note": "Married Orlando Jones; their daughter Frances Jones married John Dandridge.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Dandridge Custis Washington",
+     "relation": "great-granddaughter",
+     "years": "1731–1802",
+     "note": "Gideon Macon's great-granddaughter; the Custis dower estate she brought to George Washington was built on enslaved labor.",
+     "id": "custis-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Maj. Gideon Macon (North Carolina)",
+     "relation": "father of Nathaniel",
+     "years": "d. 1761",
+     "note": "Left his son Nathaniel three enslaved people, George, Robb and Lucy.",
+     "basis": "documented"
+    },
+    {
+     "name": "Nathaniel Macon",
+     "relation": "son",
+     "years": "1757/58–1837",
+     "note": "Speaker of the U.S. House (1801–1807) and senator, a firm defender of slavery, who enslaved dozens of people at Buck Spring.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hannah Plummer Macon",
+     "relation": "spouse",
+     "years": "m. 1783",
+     "note": "Nathaniel's wife; she died in 1790 and he did not remarry.",
+     "basis": "documented"
+    },
+    {
+     "name": "Daughters' families",
+     "relation": "heirs",
+     "years": "1837–",
+     "note": "Buck Spring and the people enslaved there passed to the families of Nathaniel's daughters.",
+     "basis": "interpretive"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The family's main legacy is its name, on Macon (Georgia), Fort Macon, several Macon counties and Randolph-Macon College; Buck Spring survives as a historic site."
   },
   {
    "id": "contee-family",
@@ -277,6 +430,14 @@
     {
      "label": "Wikipedia — Oaklands (Laurel, Maryland)",
      "url": "https://en.wikipedia.org/wiki/Oaklands_(Laurel,_Maryland)"
+    },
+    {
+     "label": "Maryland State Archives — John Hanson (1721–1783), biography",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000500/000585/html/585bio.html"
+    },
+    {
+     "label": "Wikipedia — John Hanson",
+     "url": "https://en.wikipedia.org/wiki/John_Hanson"
     }
    ],
    "connections": [
@@ -300,7 +461,45 @@
      "type": "parallel",
      "label": "fellow Prince George's planter families"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Alexander Contee",
+     "relation": "founder",
+     "years": "d. 1740",
+     "note": "Prince George's County planter and merchant; father of Jane Contee Hanson.",
+     "basis": "documented"
+    },
+    {
+     "name": "Jane Contee Hanson",
+     "relation": "daughter",
+     "years": "1728–1812",
+     "note": "Married John Hanson (President of Congress under the Articles, 1781–82), himself an enslaver; their marriage linked the two families' estates.",
+     "basis": "documented"
+    },
+    {
+     "name": "Col. Thomas Contee",
+     "relation": "son",
+     "years": "fl. 1750s–1780s",
+     "note": "Planter at Brookefield near Nottingham on the Patuxent.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Contee",
+     "relation": "grandson",
+     "years": "1755–1815",
+     "note": "Revolutionary officer, Confederation Congress delegate and first-Congress representative; later an Episcopal clergyman; ran stores with his brother Alexander.",
+     "basis": "documented"
+    },
+    {
+     "name": "Capt. John Contee",
+     "relation": "descendant",
+     "years": "fl. 1800s–1830s",
+     "note": "Naval officer who acquired the Snowden plantation Oaklands near Laurel by marriage.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; the Contee estates were broken up after emancipation in 1864. The name survives in the Contee area near Laurel and Contee Road, and the related Hanson line in John Hanson's statue in the U.S. Capitol."
   },
   {
    "id": "george-washington",
@@ -370,6 +569,14 @@
     {
      "label": "Founders Online — Washington to Joseph Thompson, 2 July 1766",
      "url": "https://founders.archives.gov/documents/Washington/02-07-02-0300"
+    },
+    {
+     "label": "Wikipedia — Bushrod Washington",
+     "url": "https://en.wikipedia.org/wiki/Bushrod_Washington"
+    },
+    {
+     "label": "Mount Vernon — The Growth of Mount Vernon's Enslaved Community",
+     "url": "https://www.mountvernon.org/george-washington/slavery/the-growth-of-mount-vernons-enslaved-community/"
     }
    ],
    "connections": [
@@ -403,7 +610,62 @@
      "type": "parallel",
      "label": "Chesapeake tobacco/grain economy"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Augustine Washington",
+     "relation": "father",
+     "years": "1694–1743",
+     "note": "Planter whose will left eleven-year-old George ten enslaved people and Ferry Farm.",
+     "basis": "documented"
+    },
+    {
+     "name": "Lawrence Washington",
+     "relation": "half-brother / mentor",
+     "years": "1718–1752",
+     "note": "Built Mount Vernon and married into the Fairfax family; George leased Mount Vernon from Lawrence's widow from 1754 and inherited it in 1761.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Dandridge Custis Washington",
+     "relation": "spouse",
+     "years": "1731–1802",
+     "note": "The 1759 marriage gave Washington control of the Custis dower lands and enslaved people.",
+     "id": "custis-family",
+     "basis": "documented"
+    },
+    {
+     "name": "William Lee",
+     "relation": "enslaved valet",
+     "years": "c. 1750–1828",
+     "note": "Washington's enslaved valet through the Revolution; the only person freed outright by his 1799 will.",
+     "id": "william-lee",
+     "basis": "documented"
+    },
+    {
+     "name": "John Parke Custis and Eleanor Calvert",
+     "relation": "stepson / daughter-in-law",
+     "years": "1754–1781; 1758–1811",
+     "note": "Their children were raised at Mount Vernon and inherited Custis people.",
+     "id": "calvert-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Bushrod Washington",
+     "relation": "nephew / heir",
+     "years": "1762–1829",
+     "note": "Supreme Court justice who inherited Mount Vernon in 1802 and sold 54 enslaved people to Louisiana for $10,000 in 1821.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Augustine Washington III",
+     "relation": "great-grandnephew",
+     "years": "1821–1861",
+     "note": "Last private owner; sold Mount Vernon to the Mount Vernon Ladies' Association in 1858.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Washington had no biological children, so there are no direct descendants; collateral Washington and Custis lines are numerous but private and not named here. Martha freed his 123 enslaved people in 1801, while the Custis dower people passed to her grandchildren. Mount Vernon, owned by the Mount Vernon Ladies' Association since 1858, works with descendants of the enslaved community."
   },
   {
    "id": "custis-family",
@@ -471,6 +733,18 @@
     {
      "label": "Mount Vernon — The Growth of Mount Vernon's Enslaved Community",
      "url": "https://www.mountvernon.org/george-washington/slavery/the-growth-of-mount-vernons-enslaved-community/"
+    },
+    {
+     "label": "Wikipedia — John Custis IV",
+     "url": "https://en.wikipedia.org/wiki/John_Custis_IV"
+    },
+    {
+     "label": "Wikipedia — Maria Carter Syphax",
+     "url": "https://en.wikipedia.org/wiki/Maria_Carter_Syphax"
+    },
+    {
+     "label": "NPS — Robert E. Lee and Slavery",
+     "url": "https://www.nps.gov/arho/learn/historyculture/robert-e-lee-and-slavery.htm"
     }
    ],
    "connections": [
@@ -494,7 +768,76 @@
      "type": "family",
      "label": "Martha descended from Gideon Macon"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Daniel Parke",
+     "relation": "grandfather",
+     "years": "1664/69–1710",
+     "note": "Governor of the Leeward Islands, killed by a mob in Antigua in 1710; his debts burdened the Custis estate.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Custis IV",
+     "relation": "founder",
+     "years": "1678–1749",
+     "note": "Williamsburg planter; in 1744 petitioned to free 'Jack', his son by an enslaved woman named Alice; left his plantations to Daniel.",
+     "basis": "documented"
+    },
+    {
+     "name": "Daniel Parke Custis",
+     "relation": "son",
+     "years": "1711–1757",
+     "note": "Married Martha Dandridge in 1750; died leaving about 17,500 acres and close to 300 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Dandridge Custis (Washington)",
+     "relation": "spouse",
+     "years": "1731–1802",
+     "note": "Took her dower third, with its enslaved people, into her marriage to George Washington.",
+     "id": "george-washington",
+     "basis": "documented"
+    },
+    {
+     "name": "John Parke Custis",
+     "relation": "son",
+     "years": "1754–1781",
+     "note": "Married Eleanor Calvert; died at Yorktown, leaving four children.",
+     "id": "calvert-family",
+     "basis": "documented"
+    },
+    {
+     "name": "George Washington Parke Custis",
+     "relation": "grandson",
+     "years": "1781–1857",
+     "note": "Built Arlington House from 1802 and held 196–197 enslaved people on three plantations; his will ordered them freed within five years.",
+     "basis": "documented"
+    },
+    {
+     "name": "Maria Carter Syphax",
+     "relation": "daughter (by an enslaved woman)",
+     "years": "1803–1886",
+     "note": "Daughter of G. W. P. Custis and the enslaved Arianna Carter; freed in 1826 with 17 acres of Arlington; Congress restored the land to her in 1866.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Anna Randolph Custis Lee",
+     "relation": "daughter / heir",
+     "years": "1808–1873",
+     "note": "Married Robert E. Lee in 1831; inherited Arlington for life.",
+     "id": "robert-e-lee",
+     "basis": "documented"
+    },
+    {
+     "name": "George Washington Custis Lee",
+     "relation": "grandson",
+     "years": "1832–1913",
+     "note": "Won United States v. Lee (1882) and sold Arlington to the federal government for $150,000 in 1883.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Arlington House is an NPS memorial inside Arlington National Cemetery, and the restored slave quarters now centre the enslaved community's story. Syphax descendants, from the line of Maria Carter Syphax, have been civic leaders and educators in the Washington area, and the family is publicly recognised by the NPS. Private living descendants are not named."
   },
   {
    "id": "andrew-jackson",
@@ -564,6 +907,10 @@
     {
      "label": "Scalawag — Ending the myth of the historic Natchez Trace",
      "url": "https://scalawagmagazine.org/2020/05/natchez-trace-tourism-history/"
+    },
+    {
+     "label": "Wikipedia — Andrew Jackson Jr.",
+     "url": "https://en.wikipedia.org/wiki/Andrew_Jackson_Jr."
     }
    ],
    "connections": [
@@ -597,7 +944,52 @@
      "type": "parallel",
      "label": "Deep South cotton expansion"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Rachel Donelson Jackson",
+     "relation": "spouse",
+     "years": "1767–1828",
+     "note": "Daughter of the Donelson family, Nashville founders and enslavers; her family's land and kin underpinned Jackson's rise.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Overton",
+     "relation": "partner",
+     "years": "1766–1833",
+     "note": "Jackson's land-speculation partner, with whom he and James Winchester founded Memphis (1819).",
+     "basis": "documented"
+    },
+    {
+     "name": "Andrew Jackson Donelson",
+     "relation": "nephew",
+     "years": "1799–1871",
+     "note": "Rachel's nephew, Jackson's ward and White House private secretary.",
+     "basis": "documented"
+    },
+    {
+     "name": "Andrew Jackson Jr.",
+     "relation": "son by adoption / heir",
+     "years": "1808–1865",
+     "note": "Rachel's nephew, raised as Jackson's son; inherited the Hermitage in 1845 with its enslaved people, ran up c. $100,000 of debt and sold the estate to Tennessee in the 1850s.",
+     "basis": "documented"
+    },
+    {
+     "name": "Alfred Jackson",
+     "relation": "enslaved worker",
+     "years": "c. 1812–1901",
+     "note": "Born enslaved at the Hermitage; stayed after emancipation and is buried near the Jacksons' tomb.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ladies' Hermitage Association",
+     "relation": "successor",
+     "years": "1889–present",
+     "note": "Took over the Hermitage as a museum; now the Andrew Jackson Foundation.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The Hermitage is run by the Andrew Jackson Foundation, which works with descendants of the enslaved community and in 2024 located its cemetery. Jackson had no biological children; Andrew Jackson Jr.'s descendants lived at the Hermitage into the late 19th century, and no living descendants are named here."
   },
   {
    "id": "johnson-family-catoctin",
@@ -674,6 +1066,18 @@
     {
      "label": "Science (Harvard Reich Lab PDF) — Catoctin Furnace ancient DNA study (2023)",
      "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/Catoctin_main_Science_0.pdf"
+    },
+    {
+     "label": "Catoctin Furnace Historical Society — History",
+     "url": "https://catoctinfurnace.org/history/"
+    },
+    {
+     "label": "NPS Catoctin Mountain Park — African Americans",
+     "url": "https://www.nps.gov/cato/learn/historyculture/africanamericans.htm"
+    },
+    {
+     "label": "Wikipedia — Joshua Johnson (merchant)",
+     "url": "https://en.wikipedia.org/wiki/Joshua_Johnson_(merchant)"
     }
    ],
    "connections": [
@@ -697,7 +1101,52 @@
      "type": "political",
      "label": "fellow Maryland Revolutionary leaders"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Thomas Johnson Sr.",
+     "relation": "father",
+     "years": "fl. 1730s",
+     "note": "Calvert County planter; father of the ironmaster brothers.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas, James, Baker and Roger Johnson",
+     "relation": "brothers / partners",
+     "years": "1770s–1793",
+     "note": "Founded the Catoctin ironworks and owned it jointly, then divided their holdings in 1793.",
+     "basis": "documented"
+    },
+    {
+     "name": "Joshua Johnson",
+     "relation": "brother",
+     "years": "1742–1802",
+     "note": "London merchant and U.S. consul; his daughter Louisa Catherine married John Quincy Adams in 1797.",
+     "basis": "documented"
+    },
+    {
+     "name": "Ann Jennings Johnson",
+     "relation": "spouse",
+     "years": "m. 1766",
+     "note": "Wife of Governor Thomas Johnson.",
+     "basis": "documented"
+    },
+    {
+     "name": "Baker Johnson",
+     "relation": "brother / heir",
+     "years": "1747–1811",
+     "note": "Sole owner of Catoctin Furnace from 1803.",
+     "basis": "documented"
+    },
+    {
+     "name": "John McPherson Jr. and John Brien",
+     "relation": "successors",
+     "years": "from 1820",
+     "note": "Bought the furnace at auction in 1820; during the Brien years (1820–1843) most workers were Black, many of them enslaved.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants are named here. The Johnsons' fortune spread through Frederick County land and the Adams connection. The Catoctin Furnace Historical Society and Cunningham Falls State Park preserve the furnace and its African American cemetery, and a 2023 DNA study linked nearly 42,000 living people to the workers buried there."
   },
   {
    "id": "andrew-johnson",
@@ -756,6 +1205,14 @@
     {
      "label": "American Battlefield Trust — Andrew Johnson National Historic Site",
      "url": "https://www.battlefields.org/visit/heritage-sites/andrew-johnson-national-historic-site-0"
+    },
+    {
+     "label": "Wikipedia — Andrew Johnson National Historic Site",
+     "url": "https://en.wikipedia.org/wiki/Andrew_Johnson_National_Historic_Site"
+    },
+    {
+     "label": "Wikipedia — Andrew Johnson",
+     "url": "https://en.wikipedia.org/wiki/Andrew_Johnson"
     }
    ],
    "connections": [
@@ -774,7 +1231,52 @@
      "type": "parallel",
      "label": "border-state wartime emancipation"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Jacob Johnson",
+     "relation": "father",
+     "years": "d. 1812",
+     "note": "Raleigh porter who died when Andrew was three, leaving the family poor.",
+     "basis": "documented"
+    },
+    {
+     "name": "James Selby",
+     "relation": "master (apprenticeship)",
+     "years": "1818–c. 1824",
+     "note": "Raleigh tailor to whom Andrew was bound at about age ten; Andrew and his brother William ran away after about five years and Selby advertised a reward.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eliza McCardle Johnson",
+     "relation": "spouse",
+     "years": "1810–1876",
+     "note": "Married him in 1827 and helped him improve his reading and writing.",
+     "basis": "documented"
+    },
+    {
+     "name": "Dolly, Sam and Henry",
+     "relation": "enslaved by Johnson",
+     "years": "1843–1863",
+     "note": "Dolly was bought in 1843, then her half-brother Sam, and Henry in 1857; he held at least ten people and freed them on 8 August 1863.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Johnson Patterson",
+     "relation": "daughter",
+     "years": "1828–1901",
+     "note": "White House hostess during his presidency.",
+     "basis": "documented"
+    },
+    {
+     "name": "Margaret Johnson Patterson Bartlett",
+     "relation": "great-granddaughter",
+     "years": "d. 1992",
+     "note": "Campaigned with her mother to preserve the Greeneville homestead and gave tours there until 1976.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The family's Greeneville properties are now the Andrew Johnson National Historic Site (monument 1942, NHS 1963), thanks largely to descendants' preservation efforts. Margaret Johnson Patterson Bartlett, who died in 1992, is the last family member buried in its cemetery. 8 August is still marked locally as Emancipation Day, recalling the date Johnson freed the people he enslaved."
   },
   {
    "id": "carroll-family",
@@ -841,6 +1343,18 @@
     {
      "label": "WYPR — Shining a light on enslavers in Congress (Homewood)",
      "url": "https://www.wypr.org/show/on-the-record/2022-01-26/shining-light-on-enslavers-in-congress-and-honoring-those-held-in-bondage"
+    },
+    {
+     "label": "Wikipedia — Doughoregan Manor",
+     "url": "https://en.wikipedia.org/wiki/Doughoregan_Manor"
+    },
+    {
+     "label": "Wikipedia — Charles Carroll of Carrollton",
+     "url": "https://en.wikipedia.org/wiki/Charles_Carroll_of_Carrollton"
+    },
+    {
+     "label": "The Daily Record — Historic Howard County property will stay untouched (2011)",
+     "url": "https://thedailyrecord.com/2011/09/13/historic-howard-county-property-will-stay-untouched/"
     }
    ],
    "connections": [
@@ -874,7 +1388,68 @@
      "type": "trade",
      "label": "tobacco and credit via London"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Charles Carroll the Settler",
+     "relation": "founder",
+     "years": "1660–1720",
+     "note": "Irish Catholic lawyer sent in 1688 as attorney general for Lord Baltimore; built the land, lending and ironworks base.",
+     "id": "calvert-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Carroll of Annapolis",
+     "relation": "son",
+     "years": "1702–1782",
+     "note": "Expanded the estate and held a share in the Baltimore Iron Works, worked by enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Carroll of Carrollton",
+     "relation": "grandson",
+     "years": "1737–1832",
+     "note": "Signer of the Declaration and one of the largest enslavers in Maryland (c. 300 people at Doughoregan and elsewhere).",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Darnall Carroll",
+     "relation": "spouse",
+     "years": "m. 1768",
+     "note": "Cousin from the Catholic Darnall family; marriage kept land within the Catholic gentry.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Carroll",
+     "relation": "cousin",
+     "years": "1735–1815",
+     "note": "First Catholic bishop in the United States and founder of Georgetown (1789).",
+     "id": "georgetown-university",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Carroll Caton",
+     "relation": "daughter",
+     "years": "1770–1846",
+     "note": "Married Richard Caton; their daughters married into the British aristocracy (Marchioness Wellesley, Duchess of Leeds, Baroness Stafford).",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Carroll of Homewood",
+     "relation": "son",
+     "years": "1775–1825",
+     "note": "Received Homewood (Baltimore) from his father; the house is now Homewood Museum at Johns Hopkins.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Lee Carroll",
+     "relation": "great-grandson",
+     "years": "1830–1911",
+     "note": "Governor of Maryland (1876–1880) who lived at Doughoregan Manor.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Doughoregan Manor is still owned and lived in by Carroll descendants, who are private and not named here. In 2011 Howard County paid $19.1 million to keep about 500 acres from development. Homewood Museum (Johns Hopkins) and the Maryland Center for History and Culture research the families the Carrolls enslaved."
   },
   {
    "id": "lloyd-family",
@@ -936,6 +1511,14 @@
     {
      "label": "Wikipedia — Wye House",
      "url": "https://en.wikipedia.org/wiki/Wye_House"
+    },
+    {
+     "label": "Archaeology Magazine — A Community's Roots",
+     "url": "https://archaeology.org/issues/online/features/33827-2/"
+    },
+    {
+     "label": "Talbot Spy — UMD Wye House archeology exhibition opens at Academy Art Museum",
+     "url": "https://talbotspy.org/umd-wye-house-archeology-exhibition-opens-at-academy-art-museum-on-august-24/"
     }
    ],
    "connections": [
@@ -964,7 +1547,60 @@
      "type": "parallel",
      "label": "peer Maryland dynasty"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Edward Lloyd I",
+     "relation": "founder",
+     "years": "c. 1620s–1696",
+     "note": "Welsh Puritan who settled on the Wye River in the 1650s.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Lloyd IV",
+     "relation": "descendant",
+     "years": "1744–1796",
+     "note": "'The Patriot'; built the present Wye House in the 1780s.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Tayloe Lloyd Key",
+     "relation": "daughter",
+     "years": "1784–1859",
+     "note": "Married Francis Scott Key in 1802, linking the Lloyds to the Keys and Howards.",
+     "basis": "documented"
+    },
+    {
+     "name": "Edward Lloyd V",
+     "relation": "son",
+     "years": "1779–1834",
+     "note": "Governor and U.S. Senator; at its peak the family enslaved more than 1,000 people across about 42,000 acres.",
+     "basis": "documented"
+    },
+    {
+     "name": "Aaron Anthony",
+     "relation": "chief overseer / enslaver",
+     "years": "1767–1826",
+     "note": "Lloyd's general manager and the enslaver of the young Frederick Douglass.",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Douglass",
+     "relation": "enslaved on the estate",
+     "years": "1818–1895",
+     "note": "Lived at Wye House as a boy and described it in his autobiographies; returned in 1881.",
+     "id": "frederick-douglass",
+     "basis": "documented"
+    },
+    {
+     "name": "Lloyd descendants",
+     "relation": "heirs",
+     "years": "1834–present",
+     "note": "Still own about 1,300 acres; an 11th-generation descendant inherited in 1993 and opened the site to University of Maryland archaeologists in 2005.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Wye House is still privately owned by Lloyd descendants, now in the 11th–12th generation on the property; they have allowed archaeology but are private and not named here. Descendants of the enslaved community, many living in nearby Unionville, work with University of Maryland researchers, and the finds have been shown at the Academy Art Museum in Easton."
   },
   {
    "id": "ridgely-family",
@@ -1026,6 +1662,18 @@
     {
      "label": "NPS — Daniel and Mary Harris",
      "url": "https://www.nps.gov/hamp/learn/historyculture/daniel-and-mary-harris.htm"
+    },
+    {
+     "label": "Wikipedia — Charles Carnan Ridgely",
+     "url": "https://en.wikipedia.org/wiki/Charles_Carnan_Ridgely"
+    },
+    {
+     "label": "NPS — Hampton Preserved",
+     "url": "https://www.nps.gov/hamp/learn/historyculture/hampton-preserved.htm"
+    },
+    {
+     "label": "NPS History — Hampton NHS Maryland Historical Magazine (1948)",
+     "url": "https://www.npshistory.com/publications/hamp/mhm-v43n2-1948.pdf"
     }
    ],
    "connections": [
@@ -1054,7 +1702,45 @@
      "type": "legacy",
      "label": "remaining people freed 1864"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Col. Charles Ridgely 'the Merchant'",
+     "relation": "founder",
+     "years": "c. 1702–1772",
+     "note": "Baltimore merchant who bought the Northampton tract in 1745.",
+     "basis": "documented"
+    },
+    {
+     "name": "Capt. Charles Ridgely",
+     "relation": "son",
+     "years": "1733–1790",
+     "note": "Ran the Northampton Ironworks with enslaved and convict labour and built Hampton; childless.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Carnan Ridgely",
+     "relation": "nephew / heir",
+     "years": "1760–1829",
+     "note": "Born Charles Ridgely Carnan; inherited Hampton on condition he take the Ridgely name (1790). Governor of Maryland; held over 300 enslaved people. His will freed all those under 45.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Carnan Ridgely and Eliza Ridgely",
+     "relation": "son / spouse",
+     "years": "1790–1867; 1803–1867",
+     "note": "Inherited the mansion and 4,500 acres and went on enslaving people at Hampton until 1864.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Ridgely Jr.",
+     "relation": "descendant",
+     "years": "20th century",
+     "note": "Last family owner; the Avalon Foundation (Ailsa Mellon Bruce) bought the mansion and gave it to the U.S. in 1948, and he lived in the farmhouse until his death.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Hampton has been a National Historic Site since 1948, and the family's last land passed to the Interior Department in 1980. The NPS 'Tracing the Lives of the Enslaved' study (2020) traced living descendants of the people the Ridgelys enslaved. The site does not name living Ridgely descendants."
   },
   {
    "id": "howard-family",
@@ -1116,6 +1802,10 @@
     {
      "label": "Wikipedia — John Eager Howard",
      "url": "https://en.wikipedia.org/wiki/John_Eager_Howard"
+    },
+    {
+     "label": "Wikipedia — Benjamin Chew Howard",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Chew_Howard"
     }
    ],
    "connections": [
@@ -1139,7 +1829,45 @@
      "type": "legacy",
      "label": "gave land for Washington Monument"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Cornelius Howard and Ruth Eager",
+     "relation": "parents",
+     "years": "fl. 1740s–1770s",
+     "note": "The Eager land on which Baltimore later spread came through John Eager Howard's mother.",
+     "basis": "documented"
+    },
+    {
+     "name": "Margaret 'Peggy' Chew Howard",
+     "relation": "spouse",
+     "years": "m. 1787",
+     "note": "Daughter of Benjamin Chew of Cliveden, Philadelphia, whose family also held enslaved people in Delaware and Maryland.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Howard",
+     "relation": "son",
+     "years": "1789–1846",
+     "note": "Governor of Maryland; planter at Waverly (Marriottsville).",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Chew Howard",
+     "relation": "son",
+     "years": "1791–1872",
+     "note": "Congressman and U.S. Supreme Court Reporter of Decisions (1843–1860), the period that included Dred Scott v. Sandford.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Howard and Francis Key Howard",
+     "relation": "son / grandson",
+     "years": "fl. 1840s–1860s",
+     "note": "Charles married Elizabeth Key, daughter of Francis Scott Key; father and son were imprisoned at Fort McHenry in 1861 as Southern sympathisers.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Belvidere was demolished in the 1870s and the estates became Baltimore's Mount Vernon, Howard and Eager street districts. No publicly documented descendants are named here; the statue and place names are the main legacy."
   },
   {
    "id": "thomas-jefferson",
@@ -1206,6 +1934,18 @@
     {
      "label": "Monticello — Sale of Monticello",
      "url": "https://www.monticello.org/encyclopedia/sale-monticello/"
+    },
+    {
+     "label": "Wikipedia — Thomas Jefferson Randolph",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Jefferson_Randolph"
+    },
+    {
+     "label": "Wikipedia — John Wayles",
+     "url": "https://en.wikipedia.org/wiki/John_Wayles"
+    },
+    {
+     "label": "Wikipedia — Lucian Truscott IV",
+     "url": "https://en.wikipedia.org/wiki/Lucian_Truscott_IV"
     }
    ],
    "connections": [
@@ -1234,7 +1974,61 @@
      "type": "political",
      "label": "refused to recognize Haiti"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Peter Jefferson",
+     "relation": "father",
+     "years": "1708–1757",
+     "note": "Surveyor and planter who left Thomas land and enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Wayles",
+     "relation": "father-in-law",
+     "years": "1715–1773",
+     "note": "Lawyer, planter and agent for Bristol slave-trading firms; his estate brought Jefferson the Hemings family and about 11,000 acres, along with heavy debts.",
+     "id": "john-wayles",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Wayles Skelton Jefferson",
+     "relation": "spouse",
+     "years": "1748–1782",
+     "note": "Wayles's daughter and Sally Hemings's half-sister.",
+     "basis": "documented"
+    },
+    {
+     "name": "Hemings family",
+     "relation": "enslaved family",
+     "years": "1774–1827+",
+     "note": "Elizabeth Hemings and her children, including Sally, came to Monticello through Wayles's estate.",
+     "id": "hemings-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Jefferson Randolph",
+     "relation": "daughter",
+     "years": "1772–1836",
+     "note": "Kept house at Monticello; her children inherited the debts.",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomas Jefferson Randolph",
+     "relation": "grandson / executor",
+     "years": "1792–1875",
+     "note": "Ran the 1827 sale of about 130 enslaved people to pay Jefferson's debts.",
+     "basis": "documented"
+    },
+    {
+     "name": "Uriah P. Levy",
+     "relation": "later owner",
+     "years": "1792–1862",
+     "note": "Bought Monticello in 1834 after a brief sale to James Barclay; the Thomas Jefferson Foundation bought it from his heirs in 1923.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Both lines of descendants are public. The Monticello Association is the society of Jefferson's documented white descendants. Hemings descendants such as Shannon Lanier, co-author of 'Jefferson's Children' (2000), have spoken widely about the family. Journalist Lucian K. Truscott IV, a Randolph-line descendant, campaigned for Hemings descendants to be recognised. Monticello's Getting Word project has recorded descendants of the enslaved community since 1993."
   },
   {
    "id": "austin-woolfolk",
@@ -1299,6 +2093,14 @@
     {
      "label": "Wikipedia — Austin Woolfolk",
      "url": "https://en.wikipedia.org/wiki/Austin_Woolfolk"
+    },
+    {
+     "label": "Wikipedia — Sowell Woolfolk",
+     "url": "https://en.wikipedia.org/wiki/Sowell_Woolfolk"
+    },
+    {
+     "label": "History News Network — What Else You Should Know About Baltimore",
+     "url": "https://historynewsnetwork.org/article/159294"
     }
    ],
    "connections": [
@@ -1332,7 +2134,46 @@
      "type": "parallel",
      "label": "Eastern Shore market Douglass described"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Woolfolk",
+     "relation": "uncle",
+     "years": "fl. 1810s–1830s",
+     "note": "Sold the people Austin marched from Baltimore to Georgia and ran the family's New Orleans and Natchez sales agency.",
+     "basis": "documented"
+    },
+    {
+     "name": "Woolfolk brothers and cousins (incl. Sowell Woolfolk)",
+     "relation": "relatives / partners",
+     "years": "fl. 1820s–1840s",
+     "note": "Brothers and relatives came to Maryland to buy people and drove coffles overland to Augusta, Georgia.",
+     "basis": "documented"
+    },
+    {
+     "name": "Benjamin Lundy",
+     "relation": "adversary",
+     "years": "1789–1839",
+     "note": "Abolitionist editor whom Woolfolk beat in Baltimore in 1827; a court fined Woolfolk only $1.",
+     "basis": "documented"
+    },
+    {
+     "name": "Frederick Douglass",
+     "relation": "witness",
+     "years": "1818–1895",
+     "note": "Named 'Austin Woldfolk' in his 1845 Narrative as the trader who loomed over enslaved Marylanders.",
+     "id": "frederick-douglass",
+     "basis": "documented"
+    },
+    {
+     "name": "Joseph Donovan",
+     "relation": "successor",
+     "years": "1840s",
+     "note": "Took over the Pratt Street site after Woolfolk withdrew.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced; his profits went into land and enslaved people in Louisiana and Georgia. The Pratt Street site is now under highway lanes and is marked by Baltimore Heritage."
   },
   {
    "id": "hope-h-slatter",
@@ -1393,6 +2234,10 @@
     {
      "label": "Afrolumens Project — Hope H. Slatter, 1843 advertisement",
      "url": "https://afrolumens.com/violent/TraderSlatter18430715.htm"
+    },
+    {
+     "label": "Wikipedia — Bernard M. Campbell and Walter L. Campbell",
+     "url": "https://en.wikipedia.org/wiki/Bernard_M._Campbell_and_Walter_L._Campbell"
     }
    ],
    "connections": [
@@ -1421,7 +2266,32 @@
      "type": "parallel",
      "label": "rival Chesapeake firm"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Shadrack Slatter",
+     "relation": "brother",
+     "years": "fl. 1820s–1840s",
+     "note": "Partner in the family's earlier trading in New Orleans and Georgia.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Slatter",
+     "relation": "son",
+     "years": "fl. 1840s",
+     "note": "Worked in his father's Baltimore business.",
+     "basis": "documented"
+    },
+    {
+     "name": "Bernard M. and Walter L. Campbell",
+     "relation": "successors",
+     "years": "1848–1864",
+     "note": "Bought Slatter's Pratt Street business in 1848, after his purchase of about thirty escapees from the schooner Pearl, and ran 'Slatter's old stand' until the Army freed the jail in 1863.",
+     "id": "bernard-m-campbell",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The pen was torn down in 1864; Baltimore Heritage's slave-trade tour now marks the site near Camden Yards."
   },
   {
    "id": "ball-family",
@@ -1492,6 +2362,10 @@
     {
      "label": "Charleston City Paper — Polite: My family's link to West Africa is told in IAAM exhibit",
      "url": "https://charlestoncitypaper.com/2024/01/22/polite-my-familys-link-to-west-africa-is-told-in-iaam-exhibit/"
+    },
+    {
+     "label": "Wikipedia — Elias Ball",
+     "url": "https://en.wikipedia.org/wiki/Elias_Ball"
     }
    ],
    "connections": [
@@ -1520,7 +2394,53 @@
      "type": "parallel",
      "label": "Lowcountry rice dynasty"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "John Coming and Affra Harleston Coming",
+     "relation": "uncle / aunt",
+     "years": "d. 1695; d. 1699",
+     "note": "Early Carolina settlers whose Comingtee plantation passed to Elias Ball.",
+     "basis": "documented"
+    },
+    {
+     "name": "Elias 'Red Cap' Ball",
+     "relation": "founder",
+     "years": "1676–1751",
+     "note": "Emigrated from Devon in 1698 and became a Cooper River rice planter at Comingtee; married Elizabeth Harleston and later Mary Delamare.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eleanor Ball Laurens",
+     "relation": "daughter",
+     "years": "m. 1750",
+     "note": "Married the Charleston slave-trading merchant Henry Laurens.",
+     "id": "henry-laurens",
+     "basis": "documented"
+    },
+    {
+     "name": "Later Ball generations",
+     "relation": "descendants",
+     "years": "1750s–1865",
+     "note": "Spread across Comingtee, Limerick, Kensington and other Cooper River plantations; Edward Ball estimates the family enslaved nearly 4,000 people over 167 years.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Edward Ball",
+     "relation": "descendant",
+     "years": "living (public figure)",
+     "note": "Author of 'Slaves in the Family' (1998), which traced the family and descendants of the people it enslaved; later wrote 'Life of a Klansman' (2020).",
+     "basis": "documented"
+    },
+    {
+     "name": "Thomalind Martin Polite",
+     "relation": "descendant of an enslaved girl (Priscilla)",
+     "years": "living (public figure)",
+     "note": "Descendant of Priscilla, a child enslaved by the Balls; she visited Sierra Leone in 2005 in a homecoming organised by Joseph Opala.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Ball family plantations were sold off after 1865. The family's best-known public descendant is Edward Ball, whose 1998 book won the National Book Award. Thomalind Martin Polite has spoken publicly about her line, and her family's story is in the International African American Museum. No other living descendants are named."
   },
   {
    "id": "hampton-family",
@@ -1587,6 +2507,10 @@
     {
      "label": "Digital History (University of Houston) — Biographical sidebar: Wade Hampton",
      "url": "https://www.digitalhistory.uh.edu/exhibits/reconstruction/section5/section5_hampton.html"
+    },
+    {
+     "label": "Wikipedia — Wade Hampton I",
+     "url": "https://en.wikipedia.org/wiki/Wade_Hampton_I"
     }
    ],
    "connections": [
@@ -1615,7 +2539,45 @@
      "type": "political",
      "label": "benefited from lenient Reconstruction"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Anthony Hampton",
+     "relation": "father of Wade I",
+     "years": "d. 1776",
+     "note": "Settler killed in a Cherokee raid on the South Carolina frontier.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Wade Hampton I",
+     "relation": "founder",
+     "years": "1752–1835",
+     "note": "Revolutionary officer and speculator; bought The Houmas (Louisiana) in 1811; said at his death to hold about 3,000 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "name": "John Smith Preston and Caroline Hampton Preston",
+     "relation": "son-in-law / daughter",
+     "years": "fl. 1820s–1850s",
+     "note": "Managed The Houmas by 1825 and sold it to John Burnside in 1857.",
+     "basis": "interpretive"
+    },
+    {
+     "name": "Wade Hampton II",
+     "relation": "son",
+     "years": "1791–1858",
+     "note": "Ran Millwood near Columbia and Mississippi cotton plantations.",
+     "basis": "documented"
+    },
+    {
+     "name": "Wade Hampton III",
+     "relation": "grandson",
+     "years": "1818–1902",
+     "note": "Confederate general and governor (1876), carried into office by the Red Shirt campaign of terror; later U.S. Senator.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Millwood was burned in 1865 and survives only as ruins; Houmas House is a privately owned museum and garden. Wade Hampton III's State House statue remains, though some Hampton-named places were renamed after 2020. No publicly documented living descendants are named here."
   },
   {
    "id": "middleton-family",
@@ -1678,6 +2640,18 @@
     {
      "label": "The Cultural Landscape Foundation — Middleton Place",
      "url": "https://www.tclf.org/middleton-place"
+    },
+    {
+     "label": "Post and Courier — Charles Duell wins award for historic preservation efforts",
+     "url": "https://www.postandcourier.com/news/telling-the-american-story-charles-duell-wins-award-for-historic-preservation-efforts/article_01aa9872-a19f-11ed-a1ed-a3813d2c733b.html"
+    },
+    {
+     "label": "Charleston Magazine — Charles Duell steps down after nearly 50 years",
+     "url": "https://charlestonmag.com/node/33240"
+    },
+    {
+     "label": "Wikipedia — Henry Middleton",
+     "url": "https://en.wikipedia.org/wiki/Henry_Middleton"
     }
    ],
    "connections": [
@@ -1706,7 +2680,66 @@
      "type": "parallel",
      "label": "Lowcountry rice dynasty"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "Edward Middleton",
+     "relation": "founder",
+     "years": "d. 1685",
+     "note": "Arrived from Barbados in 1678 and took up land on Goose Creek.",
+     "basis": "documented"
+    },
+    {
+     "name": "Arthur Middleton (1681–1737)",
+     "relation": "son",
+     "years": "1681–1737",
+     "note": "Led the 1719 revolt against the Lords Proprietors; acting governor.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Middleton",
+     "relation": "grandson",
+     "years": "1717–1784",
+     "note": "Married Mary Williams in 1741, which brought Middleton Place; president of the First Continental Congress.",
+     "basis": "documented"
+    },
+    {
+     "name": "Arthur Middleton",
+     "relation": "son",
+     "years": "1742–1787",
+     "note": "Signer of the Declaration of Independence.",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Middleton (1770–1846)",
+     "relation": "grandson",
+     "years": "1770–1846",
+     "note": "Governor of South Carolina and U.S. minister to Russia.",
+     "basis": "documented"
+    },
+    {
+     "name": "Williams Middleton",
+     "relation": "descendant",
+     "years": "1809–1883",
+     "note": "Signed the 1860 Ordinance of Secession; Union troops burned the house in 1865.",
+     "basis": "documented"
+    },
+    {
+     "name": "J. J. Pringle Smith and Heningham Smith",
+     "relation": "descendants",
+     "years": "20th century",
+     "note": "Restored the gardens from 1916.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles H. P. Duell",
+     "relation": "descendant",
+     "years": "living (public figure)",
+     "note": "Tenth-generation Middleton descendant who inherited Middleton Place in 1969 and created the Middleton Place Foundation in 1974.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Middleton Place belongs to the Middleton Place Foundation, set up by descendant Charles H. P. Duell, who led it for decades before stepping back around 2018. Since 2006 it has held joint reunions of white Middleton descendants and descendants of the people the family enslaved. Private family members are not named."
   },
   {
    "id": "pinckney-family",
@@ -1765,6 +2798,14 @@
     {
      "label": "NPS — Charles Pinckney",
      "url": "https://www.nps.gov/chpi/learn/historyculture/charles-pinckney.htm"
+    },
+    {
+     "label": "Wikipedia — Eliza Lucas",
+     "url": "https://en.wikipedia.org/wiki/Eliza_Lucas"
+    },
+    {
+     "label": "Wikipedia — Henry L. Pinckney",
+     "url": "https://en.wikipedia.org/wiki/Henry_L._Pinckney"
     }
    ],
    "connections": [
@@ -1793,7 +2834,53 @@
      "type": "political",
      "label": "C. C. Pinckney served in Washington administration"
     }
-   ]
+   ],
+   "lineage": [
+    {
+     "name": "George Lucas",
+     "relation": "father of Eliza",
+     "years": "d. 1747",
+     "note": "Antigua planter and officer who left his teenage daughter to manage his South Carolina plantations.",
+     "basis": "documented"
+    },
+    {
+     "name": "Eliza Lucas Pinckney",
+     "relation": "matriarch",
+     "years": "1722–1793",
+     "note": "Developed indigo as an export crop with enslaved workers' skills; married Charles Pinckney in 1744.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Pinckney (c. 1699–1758)",
+     "relation": "spouse",
+     "years": "c. 1699–1758",
+     "note": "Chief justice of South Carolina.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Cotesworth Pinckney and Thomas Pinckney",
+     "relation": "sons",
+     "years": "1746–1825; 1750–1828",
+     "note": "Federalist statesmen who defended slavery and the slave trade at the 1787 Convention.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Pinckney (1757–1824)",
+     "relation": "cousin",
+     "years": "1757–1824",
+     "note": "Framer and owner of Snee Farm; married Mary Eleanor Laurens, daughter of Henry Laurens.",
+     "id": "henry-laurens",
+     "basis": "documented"
+    },
+    {
+     "name": "Henry Laurens Pinckney",
+     "relation": "son of Charles",
+     "years": "1794–1863",
+     "note": "Congressman and Charleston mayor, author of the 1836 House 'gag rule' resolutions against antislavery petitions.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Snee Farm is the Charles Pinckney National Historic Site, which interprets its enslaved community through archaeology. No publicly documented living descendants are named here; the family's plantations were broken up after 1865."
   },
   {
    "id": "port-baltimore",

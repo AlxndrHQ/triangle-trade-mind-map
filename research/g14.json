@@ -1,0 +1,1637 @@
+{
+ "records": [
+  {
+   "id": "simeon-potter",
+   "name": "Simeon Potter",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A leading Bristol privateer and slave-ship owner of the 1740s–1760s; the number of his slaving voyages is not fully documented.",
+   "start": 1740,
+   "end": 1770,
+   "lifespan": "1720–1806",
+   "base": "Bristol, Rhode Island",
+   "geo": [
+    41.677,
+    -71.266
+   ],
+   "aliases": [],
+   "origins": "A Bristol, Rhode Island mariner who made his fortune as a privateer in King George's War. He brought the young Guadeloupe-born seaman Mark Anthony DeWolf to Bristol.",
+   "role_summary": "Potter owned and sent out slaving ships from Bristol and trained Mark Anthony DeWolf, who married his sister Abigail in 1744 and sailed with him on the privateer Prince Charles of Lorraine. Bristol's slave trade, later dominated by the DeWolfs, grew out of his ventures.",
+   "roleDetail": [
+    {
+     "t": "Mentor to the DeWolfs.",
+     "d": "Hired the 17-year-old Mark Anthony DeWolf as a deckhand on a slaving vessel and made him his brother-in-law and captain.",
+     "basis": "documented"
+    },
+    {
+     "t": "'Water your rum.'",
+     "d": "Sailing instructions credited to Potter in 1764 told his captain to water the rum and cheat the African traders as much as possible; historians often quote them.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His privateering and slaving profits founded the Bristol merchant network that the DeWolfs went on to dominate. No public memorial singles him out; his story is told through DeWolf histories.",
+   "legacyDetail": [
+    {
+     "t": "Root of the DeWolf dynasty.",
+     "d": "Without Potter's patronage the Guadeloupe-born DeWolf would probably not have entered Bristol's trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Abigail Potter DeWolf",
+     "relation": "sister",
+     "years": "m. 1744",
+     "note": "Married Mark Anthony DeWolf, tying the DeWolfs to Potter's ships.",
+     "basis": "documented"
+    },
+    {
+     "name": "Mark Anthony DeWolf",
+     "relation": "protégé / brother-in-law",
+     "years": "1726–1793",
+     "note": "Sailed for Potter as deckhand, privateer and slaving captain.",
+     "id": "dewolf-family",
+     "basis": "documented"
+    },
+    {
+     "name": "James DeWolf",
+     "relation": "nephew",
+     "years": "1764–1837",
+     "note": "Potter's sister's son, who became the family's leading trader.",
+     "id": "james-dewolf",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants of Potter himself have been traced. His legacy runs through the DeWolf family, whose descendants Katrina Browne and Thomas Norman DeWolf have publicly confronted it.",
+   "sources": [
+    {
+     "label": "Wikipedia — Mark Anthony DeWolf",
+     "url": "https://en.wikipedia.org/wiki/Mark_Anthony_DeWolf"
+    },
+    {
+     "label": "Providence Journal / USA Today Network — Living Off the Trade: Bristol and the DeWolfs",
+     "url": "https://stories.usatodaynetwork.com/slaveryinrhodeisland/living-off-the-trade-bristol-and-the-dewolfs/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dewolf-family",
+     "type": "family",
+     "label": "sister married Mark Anthony DeWolf"
+    },
+    {
+     "id": "james-dewolf",
+     "type": "family",
+     "label": "uncle"
+    },
+    {
+     "id": "port-bristol-rhode-island",
+     "type": "ownership",
+     "label": "Bristol shipowner"
+    },
+    {
+     "id": "port-newport",
+     "type": "trade",
+     "label": "Rhode Island slaving network"
+    }
+   ]
+  },
+  {
+   "id": "george-dewolf",
+   "name": "George DeWolf",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Owned several slave ships in the early 1800s and, on Linden Place's evidence, stayed in the trade illegally until about 1820; exact voyage counts vary.",
+   "start": 1800,
+   "end": 1825,
+   "lifespan": "1779–1844",
+   "base": "Bristol, Rhode Island",
+   "geo": [
+    41.672,
+    -71.278
+   ],
+   "aliases": [
+    "General George DeWolf"
+   ],
+   "origins": "A son of Charles DeWolf and grandson of Mark Anthony DeWolf. He joined the family business as a shipowner and militia officer ('General').",
+   "role_summary": "George owned slave ships and Cuban sugar land and kept trading after the 1808 federal ban. In 1810 he finished Linden Place, Bristol's grandest Federal house, on land bought from his mother-in-law. In 1825 his businesses collapsed and he fled to his Cuban plantation; creditors stripped the house.",
+   "roleDetail": [
+    {
+     "t": "Illegal trading after 1808.",
+     "d": "Linden Place's history says evidence suggests he stayed in the trade illegally until about 1820.",
+     "basis": "documented"
+    },
+    {
+     "t": "1825 collapse.",
+     "d": "His bankruptcy hit Bristol's economy; townspeople forced the house and took its contents, and he escaped to Cuba.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His uncle James bought Linden Place for $5,150 in 1828. George's descendants, including Samuel Pomeroy Colt and the actor Ethel Barrymore's husband Russell Colt, lived there until 1988, and it is now a museum.",
+   "legacyDetail": [
+    {
+     "t": "Linden Place museum.",
+     "d": "Friends of Linden Place has owned the house since 1988 and interprets the family's slave-trade wealth.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Charles DeWolf",
+     "relation": "father",
+     "years": "1745–1820",
+     "note": "One of Mark Anthony's slave-trading sons.",
+     "id": "dewolf-family",
+     "basis": "documented"
+    },
+    {
+     "name": "James DeWolf",
+     "relation": "uncle",
+     "years": "1764–1837",
+     "note": "Bought Linden Place after George's bankruptcy.",
+     "id": "james-dewolf",
+     "basis": "documented"
+    },
+    {
+     "name": "Theodora DeWolf Colt",
+     "relation": "daughter",
+     "years": "fl. 1850s–1900s",
+     "note": "Restored Linden Place and passed it to her son.",
+     "basis": "documented"
+    },
+    {
+     "name": "Samuel Pomeroy Colt",
+     "relation": "grandson",
+     "years": "1852–1921",
+     "note": "Founder of the Industrial Trust Company (later part of Fleet) and U.S. Rubber; died at Linden Place.",
+     "basis": "documented"
+    },
+    {
+     "name": "Russell Colt and Ethel Barrymore",
+     "relation": "great-grandson / spouse",
+     "years": "m. 1909",
+     "note": "The actor Ethel Barrymore married Russell Colt; the house now displays her memorabilia.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Linden Place has been a museum, run by the nonprofit Friends of Linden Place, since 1988 after 177 years of family occupation. The fortune George lost was partly rebuilt by his grandson Samuel P. Colt in banking and rubber. No living descendants are named here.",
+   "sources": [
+    {
+     "label": "Linden Place — Meet the Family",
+     "url": "https://www.lindenplace.org/meet-the-family"
+    },
+    {
+     "label": "Wikipedia — Linden Place",
+     "url": "https://en.wikipedia.org/wiki/Linden_Place"
+    },
+    {
+     "label": "Wikipedia — Samuel P. Colt",
+     "url": "https://en.wikipedia.org/wiki/Samuel_P._Colt"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dewolf-family",
+     "type": "family",
+     "label": "grandson of Mark Anthony DeWolf"
+    },
+    {
+     "id": "james-dewolf",
+     "type": "family",
+     "label": "nephew; James bought Linden Place"
+    },
+    {
+     "id": "port-havana",
+     "type": "plantation",
+     "label": "Cuban plantation; fled there 1825"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "traded after the ban"
+    },
+    {
+     "id": "port-bristol-rhode-island",
+     "type": "ownership",
+     "label": "Bristol shipowner"
+    }
+   ]
+  },
+  {
+   "id": "john-brown-providence",
+   "name": "John Brown (Providence)",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Backed the 1764 Sally and later voyages; his Hope landed 229 captives in Havana in 1796, which led to the first federal prosecution under the 1794 Act.",
+   "start": 1764,
+   "end": 1799,
+   "lifespan": "1736–1803",
+   "base": "Providence, Rhode Island",
+   "geo": [
+    41.824,
+    -71.405
+   ],
+   "aliases": [],
+   "origins": "One of the four Brown brothers of Providence, John was the boldest merchant of the family. He took part in the 1772 Gaspee affair and sold the Continental Navy its first ship.",
+   "role_summary": "John stayed in the slave trade after his brothers left it and openly defended it. In 1797 he became the first American tried under the 1794 Slave Trade Act over the Hope's voyage. He was acquitted but lost the ship. He also enslaved people in his own household.",
+   "roleDetail": [
+    {
+     "t": "First 1794 Act prosecution.",
+     "d": "His brother Moses's Providence Abolition Society pushed the case; the federal court ordered the Hope forfeited in August 1797.",
+     "basis": "documented"
+    },
+    {
+     "t": "Banker and congressman.",
+     "d": "Co-founded the Providence Bank (1791), was Brown University's treasurer (1775–96) and sat in Congress (1799–1801).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His Providence Bank is a distant ancestor of Bank of America through FleetBoston. His house is the John Brown House Museum, a National Historic Landmark.",
+   "legacyDetail": [
+    {
+     "t": "Brown University reckoning.",
+     "d": "The 2006 Slavery and Justice report made the brothers' split over slavery central to the university's history.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Obadiah Brown",
+     "relation": "uncle / mentor",
+     "years": "1712–1762",
+     "note": "Trained the brothers in the family firm.",
+     "id": "brown-family-providence",
+     "basis": "documented"
+    },
+    {
+     "name": "Moses Brown",
+     "relation": "brother / opponent",
+     "years": "1738–1836",
+     "note": "Quaker abolitionist who backed the case against him.",
+     "id": "moses-brown",
+     "basis": "documented"
+    },
+    {
+     "name": "Providence Bank",
+     "relation": "successor firm",
+     "years": "1791–",
+     "note": "Founded with John as first president; later part of FleetBoston and, from 2004, Bank of America.",
+     "id": "bank-of-america",
+     "basis": "documented"
+    },
+    {
+     "name": "John Brown Francis",
+     "relation": "grandson",
+     "years": "1791–1864",
+     "note": "Governor of Rhode Island and U.S. Senator.",
+     "basis": "documented"
+    },
+    {
+     "name": "Charles Frederick Herreshoff",
+     "relation": "grandson",
+     "years": "fl. 19th century",
+     "note": "His sons founded the Herreshoff Manufacturing Company, the Bristol boatbuilders.",
+     "basis": "documented"
+    }
+   ],
+   "today": "The John Brown House Museum (Rhode Island Historical Society) interprets his slave trading. His bank survives within Bank of America. Public figures among his descendants include Gov. John Brown Francis and the Herreshoff boatbuilders; living descendants are not named.",
+   "sources": [
+    {
+     "label": "Wikipedia — John Brown (Rhode Island politician)",
+     "url": "https://en.wikipedia.org/wiki/John_Brown_(Rhode_Island_politician)"
+    },
+    {
+     "label": "Wikipedia — Slave Trade Act of 1794",
+     "url": "https://en.wikipedia.org/wiki/Slave_Trade_Act_of_1794"
+    },
+    {
+     "label": "Rhodetour — John Brown & The John Brown House Museum",
+     "url": "https://rhodetour.org/items/show/279"
+    }
+   ],
+   "connections": [
+    {
+     "id": "brown-family-providence",
+     "type": "family",
+     "label": "one of the four brothers"
+    },
+    {
+     "id": "moses-brown",
+     "type": "family",
+     "label": "brother; prosecuted via Abolition Society"
+    },
+    {
+     "id": "sally-1764",
+     "type": "finance",
+     "label": "co-owner of the Sally"
+    },
+    {
+     "id": "bank-of-america",
+     "type": "legacy",
+     "label": "founded Providence Bank 1791"
+    },
+    {
+     "id": "brown-university",
+     "type": "ownership",
+     "label": "treasurer 1775–96"
+    },
+    {
+     "id": "port-havana",
+     "type": "voyage",
+     "label": "Hope landed 229 captives 1796"
+    }
+   ]
+  },
+  {
+   "id": "moses-brown",
+   "name": "Moses Brown",
+   "category": "American Families",
+   "role": "Free & Abolitionist",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Leading New England Quaker abolitionist; helped pass Rhode Island's 1787 ban and push the federal 1794 Slave Trade Act.",
+   "start": 1764,
+   "end": 1836,
+   "lifespan": "1738–1836",
+   "base": "Providence, Rhode Island",
+   "geo": [
+    41.83,
+    -71.39
+   ],
+   "aliases": [],
+   "origins": "The youngest of the four Brown brothers; he shared in the firm's 1764 Sally venture. His crisis of conscience came after that voyage and his wife's death in 1773.",
+   "role_summary": "Moses freed the people he enslaved, became a Quaker (1774) and gave his life to fighting the slave trade. He helped pass Rhode Island's 1787 ban, co-founded the Providence Abolition Society (1789) and supplied the evidence used to prosecute his brother John.",
+   "roleDetail": [
+    {
+     "t": "From investor to abolitionist.",
+     "d": "A partner in the Sally (1764), he later petitioned the legislature (1783) and distributed antislavery pamphlets across New England.",
+     "basis": "documented"
+    },
+    {
+     "t": "Cotton contradiction.",
+     "d": "He financed Samuel Slater's Pawtucket mill (Almy & Brown, 1790), which spun cotton grown by enslaved people.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Moses Brown School in Providence and his antislavery book collection (Providence Athenaeum) carry his name. He left $500 to the Providence Abolition Society.",
+   "legacyDetail": [
+    {
+     "t": "Abolition with limits.",
+     "d": "Historians stress both his activism and his family's continued profit from slavery-linked trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Obadiah Brown",
+     "relation": "uncle / mentor",
+     "years": "1712–1762",
+     "note": "Raised him in the family firm.",
+     "id": "brown-family-providence",
+     "basis": "documented"
+    },
+    {
+     "name": "John Brown",
+     "relation": "brother / opponent",
+     "years": "1736–1803",
+     "note": "The brother he helped prosecute in 1797.",
+     "id": "john-brown-providence",
+     "basis": "documented"
+    },
+    {
+     "name": "Anna Brown",
+     "relation": "spouse",
+     "years": "d. 1773",
+     "note": "Her death helped set off his religious conversion.",
+     "basis": "documented"
+    },
+    {
+     "name": "Samuel Slater",
+     "relation": "partner",
+     "years": "1768–1835",
+     "note": "English mechanic whose cotton mill Moses financed, founding New England's textile industry.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants are named here. His legacy is institutional: the Moses Brown School, his papers at the Rhode Island Historical Society, his antislavery collection at the Providence Athenaeum, and the Slater Mill (Blackstone River Valley National Historical Park).",
+   "sources": [
+    {
+     "label": "Wikipedia — Moses Brown",
+     "url": "https://en.wikipedia.org/wiki/Moses_Brown"
+    },
+    {
+     "label": "Rhode Island Historical Society — Moses Brown Papers, historical note",
+     "url": "https://www.rihs.org/mssinv/Mss313.htm"
+    },
+    {
+     "label": "Providence Athenaeum — Moses Brown's anti-slavery collection",
+     "url": "https://providenceathenaeum.org/moses-browns-anti-slavery-collection/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "brown-family-providence",
+     "type": "family",
+     "label": "youngest brother"
+    },
+    {
+     "id": "john-brown-providence",
+     "type": "family",
+     "label": "brother; opposed his trading"
+    },
+    {
+     "id": "sally-1764",
+     "type": "finance",
+     "label": "partner in the 1764 voyage"
+    },
+    {
+     "id": "brown-university",
+     "type": "ownership",
+     "label": "family co-founder"
+    }
+   ]
+  },
+  {
+   "id": "jacob-rodriguez-rivera",
+   "name": "Jacob Rodriguez Rivera",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "With Aaron Lopez sent at least 14 slaving ships to West Africa, carrying an estimated 1,100 captives (1761–1774).",
+   "start": 1761,
+   "end": 1774,
+   "lifespan": "1717–1789",
+   "base": "Newport, Rhode Island",
+   "geo": [
+    41.49,
+    -71.313
+   ],
+   "aliases": [],
+   "origins": "A Sephardic Jewish merchant born in Spain who settled in Newport in the 1740s. He is credited with bringing spermaceti-candle making to the colonies.",
+   "role_summary": "Rivera was Aaron Lopez's father-in-law and partner. Together they sent ships such as the Cleopatra to West Africa, and on its voyages perhaps 287 or more captives died. Historians debate whether the slaving ventures made money at all.",
+   "roleDetail": [
+    {
+     "t": "Spermaceti and slaving.",
+     "d": "Candle and whaling profits financed joint Africa voyages with Lopez.",
+     "basis": "documented"
+    },
+    {
+     "t": "Profit contested.",
+     "d": "Jewish Action and others argue few voyages turned a profit.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Rivera was a founder of Newport's Jewish community and Touro Synagogue. His slaving voyages are now part of Newport's public history.",
+   "legacyDetail": [
+    {
+     "t": "Newport memory.",
+     "d": "Recent Newport histories include the Lopez–Rivera voyages alongside the city's colonial prosperity.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Sarah Rivera Lopez",
+     "relation": "daughter",
+     "years": "m. 1763",
+     "note": "Married Aaron Lopez.",
+     "basis": "documented"
+    },
+    {
+     "name": "Aaron Lopez",
+     "relation": "son-in-law / partner",
+     "years": "1731–1782",
+     "note": "Newport's richest merchant and Rivera's slaving partner.",
+     "id": "aaron-lopez",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Touro Synagogue, which he helped found, is a National Historic Site.",
+   "sources": [
+    {
+     "label": "Wikipedia — Jacob Rodriguez Rivera",
+     "url": "https://en.wikipedia.org/wiki/Jacob_Rodriguez_Rivera"
+    },
+    {
+     "label": "Wikipedia — Cleopatra (slave ship)",
+     "url": "https://en.wikipedia.org/wiki/Cleopatra_(slave_ship)"
+    },
+    {
+     "label": "Jewish Action — Aaron Lopez (1731–1782)",
+     "url": "https://jewishaction.com/cover-story/aaron-lopez-1731-1782-faith-before-fortune-jewish-life-in-colonial-america/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "aaron-lopez",
+     "type": "family",
+     "label": "father-in-law and partner"
+    },
+    {
+     "id": "port-newport",
+     "type": "ownership",
+     "label": "Newport merchant"
+    },
+    {
+     "id": "dewolf-family",
+     "type": "parallel",
+     "label": "fellow Rhode Island slaving merchants"
+    }
+   ]
+  },
+  {
+   "id": "isaac-royall-jr",
+   "name": "Isaac Royall Jr.",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "The largest slaveholder in colonial Massachusetts, with Antigua plantation income; held dozens of enslaved people in Medford.",
+   "start": 1739,
+   "end": 1775,
+   "lifespan": "1719–1781",
+   "base": "Medford, Massachusetts",
+   "geo": [
+    42.418,
+    -71.107
+   ],
+   "aliases": [],
+   "origins": "Born in Antigua, the son of the planter and trader Isaac Royall Sr. He inherited the Medford estate and Antigua property in 1739.",
+   "role_summary": "Royall lived as a Massachusetts grandee on income from Antigua sugar and enslaved labour, sat on the Governor's Council and held people such as Belinda Sutton. He fled as a Loyalist days before Lexington in 1775. He died of smallpox in England in 1781.",
+   "roleDetail": [
+    {
+     "t": "Harvard's first law chair.",
+     "d": "His will left about 1,000 acres to Harvard to endow a professorship of law, established in 1815–17.",
+     "basis": "documented"
+    },
+    {
+     "t": "Belinda's petition.",
+     "d": "Belinda Sutton, whom he enslaved, won a pension from his confiscated estate in 1783.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Royall Professorship of Law still exists. Harvard Law School dropped its Royall-crest shield in 2016, and the Medford house is the Royall House and Slave Quarters museum.",
+   "legacyDetail": [
+    {
+     "t": "Royall Must Fall.",
+     "d": "Student protests led Harvard to retire the shield in March 2016.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Isaac Royall Sr.",
+     "relation": "father",
+     "years": "c. 1677–1739",
+     "note": "Antigua planter and slave trader who founded the Medford estate.",
+     "id": "royall-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Royall Pepperrell and Mary Royall Erving",
+     "relation": "daughters",
+     "years": "fl. 1760s–1780s",
+     "note": "Married into Loyalist families; one inherited enslaved people under his will.",
+     "basis": "documented"
+    },
+    {
+     "name": "Belinda Sutton",
+     "relation": "enslaved by him",
+     "years": "c. 1713–after 1787",
+     "note": "Petitioned for and won a pension from his estate.",
+     "id": "belinda-sutton",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. The Royall House and Slave Quarters museum interprets his household, and Harvard's Legacy of Slavery initiative examines his bequest.",
+   "sources": [
+    {
+     "label": "Wikipedia — Isaac Royall Jr.",
+     "url": "https://en.wikipedia.org/wiki/Isaac_Royall_Jr."
+    },
+    {
+     "label": "Harvard Magazine — Medford's Royall House and Slave Quarters (2020)",
+     "url": "https://www.harvardmagazine.com/2020/08/h2-royall-house"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royall-family",
+     "type": "family",
+     "label": "son and heir"
+    },
+    {
+     "id": "royall-house-medford",
+     "type": "plantation",
+     "label": "Medford estate"
+    },
+    {
+     "id": "belinda-sutton",
+     "type": "plantation",
+     "label": "enslaved Belinda Sutton"
+    },
+    {
+     "id": "harvard-legacy-of-slavery",
+     "type": "legacy",
+     "label": "bequest endowed Harvard law chair"
+    }
+   ]
+  },
+  {
+   "id": "george-austin",
+   "name": "George Austin",
+   "category": "American Families",
+   "role": "Broker & Agent",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Austin & Laurens oversaw the sale of more than 8,000 enslaved Africans in the 1750s (estimates run to 10,000+ for 1749–1762).",
+   "start": 1748,
+   "end": 1762,
+   "lifespan": "fl. 1740s–1770s",
+   "base": "Charleston, South Carolina",
+   "geo": [
+    32.776,
+    -79.931
+   ],
+   "aliases": [],
+   "origins": "An established Charleston merchant who took the young Henry Laurens into partnership in 1748–49. Later partner George Appleby joined to form Austin, Laurens & Appleby.",
+   "role_summary": "Austin's firm received slave ships, advertised and auctioned their captives in Charleston, and took a 10 percent commission (versus 5 percent on other goods). It had ties to Grant, Oswald & Co. of Bunce Island.",
+   "roleDetail": [
+    {
+     "t": "Rice for captives.",
+     "d": "The firm's most common and profitable deal was exchanging rice for enslaved Africans.",
+     "basis": "documented"
+    },
+    {
+     "t": "Partnership ends 1762.",
+     "d": "Laurens carried on alone after 1762 and withdrew in 1764.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His partnership made Henry Laurens rich. Austin's own family left little public trace in Charleston.",
+   "legacyDetail": [
+    {
+     "t": "Charleston's slave market.",
+     "d": "Austin & Laurens is a key case in histories of Charleston as the main North American landing port.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Henry Laurens",
+     "relation": "partner",
+     "years": "1724–1792",
+     "note": "Junior partner who became the firm's public face.",
+     "id": "henry-laurens",
+     "basis": "documented"
+    },
+    {
+     "name": "George Appleby",
+     "relation": "partner",
+     "years": "fl. 1759–1762",
+     "note": "Third partner in Austin, Laurens & Appleby.",
+     "basis": "documented"
+    },
+    {
+     "name": "Richard Oswald",
+     "relation": "trading partner",
+     "years": "fl. 1750s–1780s",
+     "note": "Bunce Island owner whose captives the firm sold.",
+     "id": "richard-oswald",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced.",
+   "sources": [
+    {
+     "label": "World History Encyclopedia — Henry Laurens",
+     "url": "https://www.worldhistory.org/Henry_Laurens/"
+    },
+    {
+     "label": "Encyclopedia.com — Laurens, Henry (1724–1792)",
+     "url": "https://encyclopedia.com/people/history/us-history-biographies/henry-laurens"
+    }
+   ],
+   "connections": [
+    {
+     "id": "henry-laurens",
+     "type": "trade",
+     "label": "partner in Austin & Laurens"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "slave-sale factor"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "received Bunce Island captives"
+    },
+    {
+     "id": "richard-oswald",
+     "type": "trade",
+     "label": "consignments from Oswald"
+    }
+   ]
+  },
+  {
+   "id": "john-armfield",
+   "name": "John Armfield",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Co-ran Franklin & Armfield, the largest U.S. domestic slave-trading firm of the 1830s; his fortune was about $500,000 in 1850.",
+   "start": 1824,
+   "end": 1836,
+   "lifespan": "1797–1871",
+   "base": "Alexandria, Virginia; later Beersheba Springs, Tennessee",
+   "geo": [
+    38.805,
+    -77.047
+   ],
+   "aliases": [],
+   "origins": "A North Carolina-born man who worked in the stagecoach business before he met Isaac Franklin in 1824 and became his partner in 1828. He married Franklin's niece Martha Franklin.",
+   "role_summary": "Armfield ran the firm's Alexandria pen at 1315 Duke Street, bought people across the Chesapeake, and shipped them to New Orleans on the firm's own vessels or marched them overland in coffles. He retired rich around 1836.",
+   "roleDetail": [
+    {
+     "t": "Coastal shipping.",
+     "d": "Franklin & Armfield ran regular brigs from Alexandria to New Orleans.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sewanee founder.",
+     "d": "He was a founding trustee of the University of the South, pledging $25,000 a year, and developed the Beersheba Springs resort (1854–56).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His fortune fell to under $60,000 by 1870. He died childless at Beersheba Springs in 1871; Sewanee lists him among its founding funders.",
+   "legacyDetail": [
+    {
+     "t": "Sewanee reckoning.",
+     "d": "The University of the South's Founding Funders project lists him among the donors whose wealth came from slavery.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Isaac Franklin",
+     "relation": "partner / in-law",
+     "years": "1789–1846",
+     "note": "Senior partner, uncle of Armfield's wife.",
+     "id": "isaac-franklin",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Franklin Armfield",
+     "relation": "spouse",
+     "years": "fl. 1830s–1870s",
+     "note": "Franklin's niece.",
+     "basis": "documented"
+    },
+    {
+     "name": "University of the South",
+     "relation": "beneficiary",
+     "years": "1857–",
+     "note": "He helped found it and pledged funds.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Armfield died childless, so there are no direct descendants. His fortune went into Beersheba Springs and the University of the South, which now researches its slavery-era founders. The Alexandria pen is the Freedom House Museum.",
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — John Armfield (1797–1871)",
+     "url": "https://encyclopediavirginia.org/entries/armfield-john-1797-1871/"
+    },
+    {
+     "label": "Wikipedia — John Armfield",
+     "url": "https://en.wikipedia.org/wiki/John_Armfield"
+    },
+    {
+     "label": "Sewanee — Founding Funders donor list",
+     "url": "https://foundingfunders.sewanee.edu/explore/donor-list/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "franklin-and-armfield",
+     "type": "ownership",
+     "label": "co-founder"
+    },
+    {
+     "id": "isaac-franklin",
+     "type": "family",
+     "label": "partner and in-law"
+    },
+    {
+     "id": "freedom-house-alexandria",
+     "type": "ownership",
+     "label": "ran the Duke Street pen"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "voyage",
+     "label": "shipped captives to New Orleans"
+    }
+   ]
+  },
+  {
+   "id": "adelicia-acklen",
+   "name": "Adelicia Acklen",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Inherited Isaac Franklin's estate (1846), valued at over $900,000, with seven Louisiana cotton plantations and about 750 enslaved people.",
+   "start": 1846,
+   "end": 1865,
+   "lifespan": "1817–1887",
+   "base": "Belmont, Nashville, Tennessee",
+   "geo": [
+    36.134,
+    -86.793
+   ],
+   "aliases": [
+    "Adelicia Hayes Franklin Acklen Cheatham"
+   ],
+   "origins": "Born Adelicia Hayes in Nashville; she married the slave trader Isaac Franklin in 1839. On his death in 1846 she became one of the wealthiest women in the South.",
+   "role_summary": "Adelicia managed and expanded the Franklin plantations with her second husband Joseph Acklen, who signed a prenuptial agreement leaving her control of her property. With the profits they built Belmont, a summer estate run by enslaved workers (13 in 1850, joined by 19 more by 1860).",
+   "roleDetail": [
+    {
+     "t": "Angola.",
+     "d": "In 1880 she sold four contiguous Louisiana plantations; since 1901 they have formed the Louisiana State Penitentiary ('Angola').",
+     "basis": "documented"
+    },
+    {
+     "t": "Wartime cotton.",
+     "d": "During the Civil War she negotiated to get her Louisiana cotton to market.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Belmont Mansion, now a museum on the Belmont University campus, researches the people the Acklens enslaved.",
+   "legacyDetail": [
+    {
+     "t": "Belmont's enslaved people.",
+     "d": "The museum publishes biographies of people enslaved there.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Isaac Franklin",
+     "relation": "first husband",
+     "years": "1789–1846",
+     "note": "Slave trader whose estate she inherited.",
+     "id": "isaac-franklin",
+     "basis": "documented"
+    },
+    {
+     "name": "Joseph Acklen",
+     "relation": "second husband",
+     "years": "m. 1849",
+     "note": "Lawyer who managed the Louisiana plantations under a prenuptial agreement.",
+     "basis": "documented"
+    },
+    {
+     "name": "William Cheatham",
+     "relation": "third husband",
+     "years": "m. 1867",
+     "note": "Nashville physician.",
+     "basis": "documented"
+    },
+    {
+     "name": "Belmont University",
+     "relation": "successor site",
+     "years": "1890–present",
+     "note": "The estate, sold in 1887, became a girls' school and later Belmont University.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants are named here. Belmont Mansion is a museum, Belmont University occupies her estate, and her Louisiana land is the Angola prison.",
+   "sources": [
+    {
+     "label": "Wikipedia — Adelicia Acklen",
+     "url": "https://en.wikipedia.org/wiki/Adelicia_Acklen"
+    },
+    {
+     "label": "Belmont Mansion — Belmont's enslaved people",
+     "url": "https://www.belmontmansion.com/belmont-s-enslaved-people-1/mortimer"
+    }
+   ],
+   "connections": [
+    {
+     "id": "isaac-franklin",
+     "type": "family",
+     "label": "widow and heir"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "legacy",
+     "label": "inherited the firm's profits"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "Louisiana cotton plantations"
+    }
+   ]
+  },
+  {
+   "id": "john-wayles",
+   "name": "John Wayles",
+   "category": "American Families",
+   "role": "Broker & Agent",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Agent with Richard Randolph for the Prince of Wales, which reached Virginia in 1772 with 280 captives (266 sold), for Bristol's Farell & Jones and Powell & Co.",
+   "start": 1760,
+   "end": 1773,
+   "lifespan": "1715–1773",
+   "base": "The Forest, Charles City County, Virginia",
+   "geo": [
+    37.35,
+    -77.07
+   ],
+   "aliases": [],
+   "origins": "English-born lawyer and planter who acted as a Virginia agent for the Bristol merchant house Farell & Jones. He was Thomas Jefferson's father-in-law.",
+   "role_summary": "In 1772 Wayles and Randolph received and sold the captives of the slave ship Prince of Wales on credit. The debt to Farell & Jones passed to his executors, including Jefferson, and was still being litigated in the 1790s.",
+   "roleDetail": [
+    {
+     "t": "Prince of Wales sale.",
+     "d": "Wayles wrote on 24 September 1772 that the ship had arrived with 280 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "t": "Hemings family.",
+     "d": "He held Elizabeth Hemings and is widely believed to have fathered her children, including Sally Hemings.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His estate brought Jefferson about 11,000 acres, some 135 enslaved people (including the Hemings family) and heavy British debts.",
+   "legacyDetail": [
+    {
+     "t": "Debt to Monticello.",
+     "d": "The Wayles debt helped push Jefferson's estate into the 1827 sale.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Farell & Jones",
+     "relation": "principal",
+     "years": "fl. 1760s–1790s",
+     "note": "Bristol merchants he represented.",
+     "basis": "documented"
+    },
+    {
+     "name": "Martha Wayles Skelton Jefferson",
+     "relation": "daughter",
+     "years": "1748–1782",
+     "note": "Married Thomas Jefferson in 1772.",
+     "id": "thomas-jefferson",
+     "basis": "documented"
+    },
+    {
+     "name": "Elizabeth Hemings and her children",
+     "relation": "enslaved by him",
+     "years": "fl. 1735–1807",
+     "note": "Passed to Jefferson under Wayles's estate.",
+     "id": "hemings-family",
+     "basis": "documented"
+    }
+   ],
+   "today": "Wayles's descendants run through both the Jefferson–Randolph and Hemings lines, whose public members are described under Thomas Jefferson. No other descendants are named.",
+   "sources": [
+    {
+     "label": "Wikipedia — John Wayles",
+     "url": "https://en.wikipedia.org/wiki/John_Wayles"
+    },
+    {
+     "label": "Founders Online — John Wayles to Farell & Jones, 24 September 1772",
+     "url": "https://founders.archives.gov/documents/Jefferson/01-15-02-0620-0008"
+    },
+    {
+     "label": "Encyclopedia Virginia — Will and Codicil of John Wayles",
+     "url": "https://encyclopediavirginia.org/primary-documents/will-and-codicil-of-john-wayles-1760-1772-1773/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "thomas-jefferson",
+     "type": "family",
+     "label": "father-in-law"
+    },
+    {
+     "id": "hemings-family",
+     "type": "plantation",
+     "label": "enslaved Elizabeth Hemings and children"
+    },
+    {
+     "id": "port-bristol",
+     "type": "finance",
+     "label": "agent for Bristol's Farell & Jones"
+    }
+   ]
+  },
+  {
+   "id": "robert-e-lee",
+   "name": "Robert E. Lee",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "As executor of the Custis estate (1857–1862) controlled 189–197 enslaved people on three plantations.",
+   "start": 1857,
+   "end": 1862,
+   "lifespan": "1807–1870",
+   "base": "Arlington House, Arlington, Virginia",
+   "geo": [
+    38.882,
+    -77.073
+   ],
+   "aliases": [],
+   "origins": "Son of Revolutionary general Henry 'Light-Horse Harry' Lee. In 1831 he married Mary Anna Randolph Custis, heir to Arlington.",
+   "role_summary": "When G. W. P. Custis died in 1857, his will freed his enslaved people within five years. As executor, Lee kept them working for the full five years to clear debts and tried in court to delay their freedom. Escapees including Wesley Norris were recaptured in 1859, and Norris later said Lee had them whipped. Lee signed the deed of manumission in December 1862.",
+   "roleDetail": [
+    {
+     "t": "Delayed emancipation.",
+     "d": "Two courts rejected Lee's bid to postpone the will's order indefinitely.",
+     "basis": "documented"
+    },
+    {
+     "t": "Wesley Norris's account.",
+     "d": "Norris's 1866 testimony describes the whipping; Lee's defenders dispute it, but historian Elizabeth Brown Pryor called the facts verifiable.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Arlington was seized in the war and became Arlington National Cemetery. Many Lee statues and names were removed after 2017–2021, including Richmond's statue in 2021.",
+   "legacyDetail": [
+    {
+     "t": "Arlington House reinterpretation.",
+     "d": "The NPS reopened Arlington House in 2021 with the enslaved community at the centre.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "George Washington Parke Custis",
+     "relation": "father-in-law",
+     "years": "1781–1857",
+     "note": "Arlington's builder, whose will Lee executed.",
+     "id": "custis-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Mary Anna Randolph Custis Lee",
+     "relation": "spouse",
+     "years": "1808–1873",
+     "note": "Heir to Arlington.",
+     "id": "custis-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Wesley Norris",
+     "relation": "enslaved by the estate",
+     "years": "fl. 1859–1866",
+     "note": "Escaped in 1859; his testimony is a key source.",
+     "basis": "documented"
+    },
+    {
+     "name": "George Washington Custis Lee",
+     "relation": "son / heir",
+     "years": "1832–1913",
+     "note": "Won United States v. Lee (1882) and sold Arlington to the U.S. for $150,000 in 1883.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Arlington House is an NPS memorial that now tells the story of the people the Custis–Lee family enslaved. Lee's statues and names have been removed in many places since 2017. Living descendants are private and not named here.",
+   "sources": [
+    {
+     "label": "NPS — Robert E. Lee and Slavery",
+     "url": "https://www.nps.gov/arho/learn/historyculture/robert-e-lee-and-slavery.htm"
+    },
+    {
+     "label": "NPS — North Slave Quarters Museum Exhibit",
+     "url": "https://www.nps.gov/arho/learn/historyculture/north-slave-quarters-museum-exhibit.htm"
+    },
+    {
+     "label": "Crossroads of War — The Fugitive Slaves of Robert E. Lee",
+     "url": "https://www.crossroadsofwar.org/stories-in-focus/the-fugitive-slaves-of-robert-e-lee"
+    }
+   ],
+   "connections": [
+    {
+     "id": "custis-family",
+     "type": "family",
+     "label": "son-in-law; executor of the Custis estate"
+    },
+    {
+     "id": "george-washington",
+     "type": "family",
+     "label": "married Washington's step-great-granddaughter"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "parallel",
+     "label": "Upper South emancipation era"
+    }
+   ]
+  },
+  {
+   "id": "salvador-sama",
+   "name": "Salvador Samá, Marquis of Marianao",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "Cuba",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Grew rich partly from the slave trade; a U.S. consular dispatch of the 1860s named him, with Zulueta, among backers of an illegal landing. His own voyage count is undocumented.",
+   "start": 1820,
+   "end": 1866,
+   "lifespan": "1797–1866",
+   "base": "Havana, Cuba",
+   "geo": [
+    23.136,
+    -82.359
+   ],
+   "aliases": [
+    "Salvador Samá i Martí"
+   ],
+   "origins": "Born in Vilanova i la Geltrú (Catalonia); he went to Cuba in 1810 to join his uncles' family business. He became a banker, sugar planter and ship-repair owner.",
+   "role_summary": "Samá made a fortune in Havana partly by trafficking enslaved Africans. He served as mayor of Havana and as a Spanish senator, and Isabel II made him Marquis of Marianao in 1860. Julián de Zulueta married into his family.",
+   "roleDetail": [
+    {
+     "t": "Named in consular reports.",
+     "d": "U.S. Vice-Consul Thomas Savage reported that Zulueta, Samá and others were interested in a slave expedition that had landed its cargo.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Catalan networks.",
+     "d": "He was part of the Catalan merchant diaspora whose Cuban wealth flowed back to Barcelona and the coast.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Samá wealth built houses and civic works in Vilanova i la Geltrú and Calafell, where a street name has been debated since 2022. The Museu Marítim de Barcelona's exhibition on the 'infamous' trade features him.",
+   "legacyDetail": [
+    {
+     "t": "Catalan reckoning.",
+     "d": "Barcelona's maritime museum and local press have reassessed Catalan slave-trade fortunes.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Samá uncles",
+     "relation": "mentors",
+     "years": "1810s",
+     "note": "Their Havana business took him in as a boy.",
+     "basis": "documented"
+    },
+    {
+     "name": "Julián de Zulueta",
+     "relation": "in-law / associate",
+     "years": "1814–1878",
+     "note": "Married Francisca Samá y de la Mota in 1842.",
+     "id": "julian-de-zulueta",
+     "basis": "documented"
+    },
+    {
+     "name": "Marquessate of Marianao",
+     "relation": "title",
+     "years": "1860–",
+     "note": "Granted by Isabel II; passed to his heirs.",
+     "basis": "documented"
+    }
+   ],
+   "today": "Living descendants are private and not named here. Samá money is visible in Catalan buildings and place names, which local media have debated since 2022.",
+   "sources": [
+    {
+     "label": "Museu Marítim de Barcelona — La infàmia: The Great Colonial Business",
+     "url": "https://exposicionsvirtuals.mmb.cat/lainfamia/en/?p=24232"
+    },
+    {
+     "label": "Diari de Tarragona — El equilibrio del nombre de una calle en Calafell (2022)",
+     "url": "https://www.diaridetarragona.com/costa/El-equilibrio-del-nombre-de-una-calle-en-Calafell-20220212-0037.html"
+    },
+    {
+     "label": "OnCuba News — Salvador Samá",
+     "url": "https://oncubanews.com/?p=490159"
+    }
+   ],
+   "connections": [
+    {
+     "id": "julian-de-zulueta",
+     "type": "family",
+     "label": "Zulueta married into the Samá family"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "Havana merchant and banker"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "Marquis of Marianao 1860"
+    }
+   ]
+  },
+  {
+   "id": "charles-benedict-calvert",
+   "name": "Charles Benedict Calvert",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Enslaved 52 people in 1860 (up to 55 in 1850), many at Riversdale; UMD's 1856 Project calls him a slave trader.",
+   "start": 1830,
+   "end": 1864,
+   "lifespan": "1808–1864",
+   "base": "Riversdale, Riverdale Park, Maryland",
+   "geo": [
+    38.961,
+    -76.934
+   ],
+   "aliases": [],
+   "origins": "Son of George Calvert and Rosalie Stier Calvert of Riversdale, a descendant of the Lords Baltimore. He became a scientific farmer and agricultural reformer.",
+   "role_summary": "Calvert ran Riversdale with enslaved labour and sold the adjoining Rossborough Farm to found the Maryland Agricultural College (1856), now the University of Maryland. He served in Congress as a Unionist (1861–63).",
+   "roleDetail": [
+    {
+     "t": "University founder.",
+     "d": "The 1856 Project documents that the college was founded on land from an enslaver and slave trader.",
+     "basis": "documented"
+    },
+    {
+     "t": "Plummer family.",
+     "d": "Adam Francis Plummer, enslaved at Riversdale, kept a diary from 1841, a rare first-person record of an enslaved family before and after emancipation.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The University of Maryland's 1856 Project (report 2024) has reckoned with his role, and Riversdale interprets the people he enslaved.",
+   "legacyDetail": [
+    {
+     "t": "Riversdale today.",
+     "d": "M-NCPPC runs Riversdale House Museum and seeks descendants of its enslaved workforce.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "George Calvert and Rosalie Stier Calvert",
+     "relation": "parents",
+     "years": "1768–1838; 1778–1821",
+     "note": "Built Riversdale with Stier money and enslaved labour.",
+     "id": "calvert-family",
+     "basis": "documented"
+    },
+    {
+     "name": "Adam Francis Plummer",
+     "relation": "enslaved at Riversdale",
+     "years": "19th century",
+     "note": "Diarist whose record is a key source on Riversdale's enslaved families.",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants are named here. The University of Maryland and Riversdale House Museum now study the people he enslaved.",
+   "sources": [
+    {
+     "label": "Riversdale — The Workforce",
+     "url": "https://www.riversdale.org/the-workforce"
+    },
+    {
+     "label": "University of Maryland DRUM — The 1856 Project Inaugural Symposium",
+     "url": "https://drum.lib.umd.edu/items/9fbe17a5-9227-4d13-b527-5d9a5f316789"
+    },
+    {
+     "label": "Wikipedia — Charles Benedict Calvert",
+     "url": "https://en.wikipedia.org/wiki/Charles_Benedict_Calvert"
+    }
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "family",
+     "label": "Riversdale Calvert"
+    },
+    {
+     "id": "riversdale",
+     "type": "plantation",
+     "label": "Riversdale planter"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "political",
+     "label": "enslaver until Maryland's 1864 abolition"
+    }
+   ]
+  },
+  {
+   "id": "bernard-m-campbell",
+   "name": "Bernard M. Campbell and Walter L. Campbell",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Linked to about 9,000 departures from Baltimore to New Orleans; 339 people shipped between April 1851 and November 1852 alone.",
+   "start": 1848,
+   "end": 1864,
+   "lifespan": "c. 1810–1890 (Bernard); b. c. 1807 (Walter)",
+   "base": "Pratt Street, Baltimore, Maryland",
+   "geo": [
+    39.286,
+    -76.618
+   ],
+   "aliases": [],
+   "origins": "Brothers who became the 'tycoons' of the Upper South trade from Baltimore. Bernard ran the Baltimore end and Walter the New Orleans pen on Baronne Street.",
+   "role_summary": "In 1848 they took over Hope H. Slatter's Pratt Street business ('Slatter's old stand'). They shipped people to New Orleans and held some on a farm north of the city to 'acclimate' them before sale. In 1848 Bernard sold two people to Zachary Taylor.",
+   "roleDetail": [
+    {
+     "t": "End of the jail.",
+     "d": "A revolt broke out in the Baltimore jail in June 1862; the Army freed those held there on 27 July 1863, and the building was torn down in 1864.",
+     "basis": "documented"
+    },
+    {
+     "t": "Compensated emancipation.",
+     "d": "In 1862 Bernard appraised enslaved people for D.C.'s compensated emancipation.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The site is marked on Baltimore Heritage's slave-trade tour; Crossroads of War has traced Bernard's later life in Carroll County.",
+   "legacyDetail": [
+    {
+     "t": "Baltimore memory.",
+     "d": "Baltimore Heritage documents both the Slatter and Campbell pens.",
+     "basis": "documented"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Hope H. Slatter",
+     "relation": "predecessor",
+     "years": "1790–1853",
+     "note": "Sold them his Pratt Street business in 1848.",
+     "id": "hope-h-slatter",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented descendants have been traced. Bernard died in Virginia in 1890.",
+   "sources": [
+    {
+     "label": "Wikipedia — Bernard M. Campbell and Walter L. Campbell",
+     "url": "https://en.wikipedia.org/wiki/Bernard_M._Campbell_and_Walter_L._Campbell"
+    },
+    {
+     "label": "Baltimore Heritage — Site of Campbell Slave Pen",
+     "url": "https://explore.baltimoreheritage.org/items/show/711"
+    },
+    {
+     "label": "Crossroads of War — Bernard M. Campbell, Baltimore Slave Trader in Carroll County",
+     "url": "https://www.crossroadsofwar.org/stories-in-focus/bernard-m-campbell-baltimore-slave-trader-in-carroll-county"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hope-h-slatter",
+     "type": "legacy",
+     "label": "took over Slatter's stand 1848"
+    },
+    {
+     "id": "baltimore-pratt-street-slave-jails",
+     "type": "ownership",
+     "label": "Pratt Street jail"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Baltimore shipper"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "Baronne Street pen"
+    }
+   ]
+  },
+  {
+   "id": "gazaway-bugg-lamar",
+   "name": "Gazaway Bugg Lamar",
+   "category": "American Families",
+   "role": "Financier & Insurer",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "An enslaver and cotton-and-shipping magnate; he is not documented as an owner of the Wanderer, but his son ran his Georgia business.",
+   "start": 1820,
+   "end": 1865,
+   "lifespan": "1798–1874",
+   "base": "Savannah, Georgia; New York",
+   "geo": [
+    32.081,
+    -81.091
+   ],
+   "aliases": [],
+   "origins": "A Savannah cotton merchant and shipowner who moved to New York in 1846. In 1850 he founded the Bank of the Republic on Wall Street.",
+   "role_summary": "Lamar's fortune rested on cotton grown by enslaved people and on shipping. He put his son Charles in charge of his Georgia affairs, and Charles went on to organise the Wanderer's illegal 1858 slave voyage. Gazaway later backed the Confederacy.",
+   "roleDetail": [
+    {
+     "t": "Banker to cotton.",
+     "d": "His Bank of the Republic linked Wall Street to Southern cotton.",
+     "basis": "documented"
+    },
+    {
+     "t": "Father of the Wanderer's backer.",
+     "d": "Press at the time suspected Charles was the real money behind the Wanderer.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His papers and his son's letter book are key sources at the Georgia Historical Society.",
+   "legacyDetail": [
+    {
+     "t": "Northern money, Southern slavery.",
+     "d": "His career shows how Wall Street banking and slavery overlapped.",
+     "basis": "interpretive"
+    }
+   ],
+   "lineage": [
+    {
+     "name": "Charles A. L. Lamar",
+     "relation": "son",
+     "years": "1824–1865",
+     "note": "Wanderer conspirator.",
+     "id": "charles-lamar",
+     "basis": "documented"
+    }
+   ],
+   "today": "No publicly documented living descendants are named here.",
+   "sources": [
+    {
+     "label": "Wikipedia — Gazaway Bugg Lamar",
+     "url": "https://en.wikipedia.org/wiki/Gazaway_Bugg_Lamar"
+    },
+    {
+     "label": "Wikipedia — Wanderer (slave ship)",
+     "url": "https://en.wikipedia.org/wiki/Wanderer_(slave_ship)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "charles-lamar",
+     "type": "family",
+     "label": "father"
+    },
+    {
+     "id": "wanderer-ship",
+     "type": "parallel",
+     "label": "son's venture"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "parallel",
+     "label": "cotton economy"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1744,
+   "title": "Mark Anthony DeWolf marries Abigail Potter",
+   "text": "The Guadeloupe-born seaman marries Simeon Potter's sister, joining the Potter and DeWolf slaving networks in Bristol.",
+   "ids": [
+    "simeon-potter",
+    "dewolf-family"
+   ],
+   "source": {
+    "label": "Wikipedia — Mark Anthony DeWolf",
+    "url": "https://en.wikipedia.org/wiki/Mark_Anthony_DeWolf"
+   }
+  },
+  {
+   "year": 1772,
+   "title": "The Prince of Wales reaches Virginia",
+   "text": "John Wayles and Richard Randolph receive 280 captives for Bristol owners and sell 266, a debt later inherited by Jefferson.",
+   "ids": [
+    "john-wayles",
+    "thomas-jefferson"
+   ],
+   "source": {
+    "label": "Founders Online — John Wayles to Farell & Jones, 24 September 1772",
+    "url": "https://founders.archives.gov/documents/Jefferson/01-15-02-0620-0008"
+   }
+  },
+  {
+   "year": 1797,
+   "title": "John Brown tried under the 1794 Act",
+   "text": "The federal court orders the Hope forfeited; Brown is acquitted in the first prosecution under the Slave Trade Act, brought with his brother Moses's support.",
+   "ids": [
+    "john-brown-providence",
+    "moses-brown",
+    "brown-family-providence"
+   ],
+   "source": {
+    "label": "Wikipedia — Slave Trade Act of 1794",
+    "url": "https://en.wikipedia.org/wiki/Slave_Trade_Act_of_1794"
+   }
+  },
+  {
+   "year": 1825,
+   "title": "George DeWolf flees to Cuba",
+   "text": "After his businesses collapse, George DeWolf escapes to his Cuban plantation; creditors strip Linden Place, which James DeWolf buys in 1828.",
+   "ids": [
+    "george-dewolf",
+    "james-dewolf",
+    "dewolf-family"
+   ],
+   "source": {
+    "label": "Linden Place — Meet the Family",
+    "url": "https://www.lindenplace.org/meet-the-family"
+   }
+  },
+  {
+   "year": 1846,
+   "title": "Adelicia Franklin inherits a slave-trade fortune",
+   "text": "Isaac Franklin's death leaves his widow an estate of over $900,000, with seven Louisiana plantations and about 750 enslaved people.",
+   "ids": [
+    "adelicia-acklen",
+    "isaac-franklin"
+   ],
+   "source": {
+    "label": "Wikipedia — Adelicia Acklen",
+    "url": "https://en.wikipedia.org/wiki/Adelicia_Acklen"
+   }
+  },
+  {
+   "year": 1848,
+   "title": "The Campbells take over Slatter's stand",
+   "text": "Bernard and Walter Campbell buy Hope H. Slatter's Pratt Street business in Baltimore and run it until the Army frees the jail in 1863.",
+   "ids": [
+    "bernard-m-campbell",
+    "hope-h-slatter"
+   ],
+   "source": {
+    "label": "Baltimore Heritage — Site of Slatter/Campbell Slave Jail",
+    "url": "https://explore.baltimoreheritage.org/items/show/753"
+   }
+  },
+  {
+   "year": 1856,
+   "title": "Maryland Agricultural College founded",
+   "text": "Charles Benedict Calvert, who enslaved 52 people in 1860, founds the college that became the University of Maryland on Riversdale land.",
+   "ids": [
+    "charles-benedict-calvert",
+    "calvert-family"
+   ],
+   "source": {
+    "label": "University of Maryland DRUM — The 1856 Project Inaugural Symposium",
+    "url": "https://drum.lib.umd.edu/items/9fbe17a5-9227-4d13-b527-5d9a5f316789"
+   }
+  },
+  {
+   "year": 1862,
+   "title": "Lee frees the Custis enslaved people",
+   "text": "After keeping them working for five years as executor, Robert E. Lee signs the deed freeing those enslaved under G. W. P. Custis's will.",
+   "ids": [
+    "robert-e-lee",
+    "custis-family"
+   ],
+   "source": {
+    "label": "NPS — Robert E. Lee and Slavery",
+    "url": "https://www.nps.gov/arho/learn/historyculture/robert-e-lee-and-slavery.htm"
+   }
+  },
+  {
+   "year": 1988,
+   "title": "Linden Place becomes a museum",
+   "text": "After 177 years of DeWolf–Colt family occupation, the Friends of Linden Place take ownership of George DeWolf's Bristol mansion.",
+   "ids": [
+    "george-dewolf",
+    "dewolf-family"
+   ],
+   "source": {
+    "label": "Wikipedia — Linden Place",
+    "url": "https://en.wikipedia.org/wiki/Linden_Place"
+   }
+  }
+ ]
+}
