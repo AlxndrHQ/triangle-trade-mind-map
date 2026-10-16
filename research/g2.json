@@ -1,0 +1,3329 @@
+{
+ "records": [
+  {
+   "id": "john-hawkins",
+   "name": "John Hawkins",
+   "category": "Crowns & Explorers",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Led England's first known slaving voyages (1562–68); the first voyage alone took c. 300 Africans from the Sierra Leone coast for sale in Spanish Hispaniola, and he made three to four such voyages in all.",
+   "start": 1562,
+   "end": 1568,
+   "lifespan": "1532–1595",
+   "base": "Plymouth, England",
+   "geo": [
+    50.371,
+    -4.143
+   ],
+   "aliases": [
+    "Sir John Hawkins",
+    "John Hawkyns"
+   ],
+   "origins": "Son of William Hawkins, a Plymouth merchant who had traded with the Guinea coast and Brazil. He learned of the profits of selling captives to Spanish colonists through contacts in the Canary Islands.",
+   "role_summary": "Organised the first English slaving expeditions, seizing and buying Africans in Upper Guinea and selling them in the Spanish Caribbean in defiance of Spain's monopoly. His later voyages were backed by London investors and by Elizabeth I, who lent royal ships.",
+   "roleDetail": [
+    {
+     "t": "First English slaving voyage, 1562–63.",
+     "d": "Sailed with three ships (Salomon, Swallow, Jonas) to the Sierra Leone coast, took c. 300 captives and sold them in Hispaniola.",
+     "basis": "documented"
+    },
+    {
+     "t": "Royal backing.",
+     "d": "For the 1564 voyage Elizabeth I lent the 700-ton royal ship Jesus of Lübeck, making the Crown an investor in the trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Defeat at San Juan de Ulúa, 1568.",
+     "d": "His third voyage ended when a Spanish fleet attacked his ships in the Mexican harbour; most ships and many men were lost.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Hawkins became Treasurer of the Navy and a commander against the Spanish Armada in 1588, and was knighted. His coat of arms featured a bound African captive. His voyages are now remembered as the beginning of England's involvement in the transatlantic slave trade.",
+   "legacyDetail": [
+    {
+     "t": "Naval career rather than slaving.",
+     "d": "After 1568 England's slave trade lapsed for nearly a century; Hawkins's later fame rested on reforming the navy.",
+     "basis": "documented"
+    },
+    {
+     "t": "Contested commemoration.",
+     "d": "Since 2020 places named after Hawkins in Plymouth have faced calls for renaming or contextualisation.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "World History Encyclopedia — John Hawkins",
+     "url": "https://www.worldhistory.org/John_Hawkins/"
+    },
+    {
+     "label": "Encyclopedia.com — Hawkins, John",
+     "url": "https://www.encyclopedia.com/humanities/news-wires-white-papers-and-books/hawkins-john"
+    },
+    {
+     "label": "Royal Museums Greenwich — Sir John Hawkins, 1532-95",
+     "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-14229"
+    },
+    {
+     "label": "Wikipedia — John Hawkins (naval commander)",
+     "url": "https://en.wikipedia.org/wiki/John_Hawkins_(naval_commander)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "elizabeth-i",
+     "type": "charter",
+     "label": "royal backing & ships"
+    },
+    {
+     "id": "jesus-of-lubeck",
+     "type": "voyage",
+     "label": "commanded 1564 & 1567"
+    },
+    {
+     "id": "francis-drake",
+     "type": "family",
+     "label": "kinsman & subordinate"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "political",
+     "label": "broke Spanish monopoly"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "parallel",
+     "label": "illegal sales outside asiento"
+    },
+    {
+     "id": "port-london",
+     "type": "finance",
+     "label": "London investors"
+    }
+   ]
+  },
+  {
+   "id": "francis-drake",
+   "name": "Francis Drake",
+   "category": "Crowns & Explorers",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Took part in Hawkins's slaving voyages of the 1560s, captaining the 50-ton Judith on the 1567–68 expedition; he did not run slaving ventures of his own.",
+   "start": 1566,
+   "end": 1568,
+   "lifespan": "c. 1540–1596",
+   "base": "Plymouth, England",
+   "geo": [
+    50.371,
+    -4.143
+   ],
+   "aliases": [
+    "Sir Francis Drake"
+   ],
+   "origins": "A Devon-born relative of the Hawkins family, he went to sea young and joined the Hawkins family's Atlantic ventures in the 1560s.",
+   "role_summary": "Served on Hawkins's slaving voyages to West Africa and the Spanish Caribbean, commanding the Judith in 1567–68. He escaped the 1568 Spanish attack at San Juan de Ulúa, an event that shaped his later privateering against Spain.",
+   "roleDetail": [
+    {
+     "t": "Captain of the Judith.",
+     "d": "Commanded the smallest ship of Hawkins's third slaving fleet, which raided and traded for captives on the Upper Guinea coast.",
+     "basis": "documented"
+    },
+    {
+     "t": "San Juan de Ulúa, 1568.",
+     "d": "One of the few ships to escape the Spanish attack; the episode fuelled his raids on Spanish shipping.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Drake became famous for circumnavigating the globe (1577–80) and fighting the Armada. His early involvement in the slave trade is far less commemorated than his naval exploits, and his statues have been questioned since 2020.",
+   "legacyDetail": [
+    {
+     "t": "Selective memory.",
+     "d": "National narratives long presented Drake as a hero while omitting his slaving voyages.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "World History Encyclopedia — John Hawkins",
+     "url": "https://www.worldhistory.org/John_Hawkins/"
+    },
+    {
+     "label": "Encyclopedia.com — Hawkins, John",
+     "url": "https://www.encyclopedia.com/humanities/news-wires-white-papers-and-books/hawkins-john"
+    }
+   ],
+   "connections": [
+    {
+     "id": "john-hawkins",
+     "type": "voyage",
+     "label": "sailed under Hawkins"
+    },
+    {
+     "id": "jesus-of-lubeck",
+     "type": "voyage",
+     "label": "same 1567 fleet"
+    },
+    {
+     "id": "elizabeth-i",
+     "type": "charter",
+     "label": "later royal patron"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "political",
+     "label": "raided Spanish colonies"
+    }
+   ]
+  },
+  {
+   "id": "elizabeth-i",
+   "name": "Elizabeth I of England",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Invested in Hawkins's slaving voyages by lending royal ships, including the Jesus of Lübeck (1564, 1567); England's trade remained small until the 1660s.",
+   "start": 1564,
+   "end": 1568,
+   "lifespan": "1533–1603",
+   "base": "London, England",
+   "geo": [
+    51.501,
+    -0.142
+   ],
+   "aliases": [
+    "Queen Elizabeth I"
+   ],
+   "origins": "Queen of England from 1558. Her government sought ways to break into Iberian Atlantic commerce without open war with Spain.",
+   "role_summary": "Became a shareholder in John Hawkins's slaving expeditions by contributing royal ships. Although reported to have earlier called such trade 'detestable', she backed the voyages for their profits.",
+   "roleDetail": [
+    {
+     "t": "Royal investor.",
+     "d": "Lent the Jesus of Lübeck to Hawkins's second voyage (1564) and to the third (1567).",
+     "basis": "documented"
+    },
+    {
+     "t": "State–merchant partnership.",
+     "d": "Established a pattern of Crown backing for slaving later formalised in royal charters under the Stuarts.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Her backing made the English Crown a participant in the trade from its start. The Stuart monarchy later chartered the Royal Adventurers (1660) and the Royal African Company (1672).",
+   "legacyDetail": [
+    {
+     "t": "Precedent for royal charters.",
+     "d": "Later Stuart monarchs went further, granting monopolies and holding shares in slaving companies.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia.com — Hawkins, John",
+     "url": "https://www.encyclopedia.com/humanities/news-wires-white-papers-and-books/hawkins-john"
+    },
+    {
+     "label": "Wikipedia — Jesus of Lübeck",
+     "url": "https://en.wikipedia.org/wiki/Jesus_of_L%C3%BCbeck"
+    }
+   ],
+   "connections": [
+    {
+     "id": "john-hawkins",
+     "type": "finance",
+     "label": "invested in voyages"
+    },
+    {
+     "id": "jesus-of-lubeck",
+     "type": "ownership",
+     "label": "royal ship lent"
+    },
+    {
+     "id": "francis-drake",
+     "type": "charter",
+     "label": "patron"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "parallel",
+     "label": "later royal slave-trade investor"
+    }
+   ]
+  },
+  {
+   "id": "james-duke-of-york",
+   "name": "James, Duke of York (James II)",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Governor and largest shareholder of the Royal African Company, which shipped more Africans than any other single institution in the trade; many captives were branded 'DY' for him.",
+   "start": 1660,
+   "end": 1688,
+   "lifespan": "1633–1701",
+   "base": "London, England",
+   "geo": [
+    51.505,
+    -0.137
+   ],
+   "aliases": [
+    "James II",
+    "James VII of Scotland"
+   ],
+   "origins": "Younger brother of Charles II and Lord High Admiral after the 1660 Restoration. He led the royal circle that founded chartered companies to break Dutch dominance of West African trade.",
+   "role_summary": "Headed the Company of Royal Adventurers into Africa and then the Royal African Company as governor. Captives shipped by the company were branded with 'DY' (Duke of York) or 'RAC'.",
+   "roleDetail": [
+    {
+     "t": "Governor of the RAC.",
+     "d": "He was the company's governor and largest shareholder, keeping the post after becoming king in 1685.",
+     "basis": "documented"
+    },
+    {
+     "t": "Branding 'DY'.",
+     "d": "Smithsonian records note many enslaved people were branded with 'DY'; others were marked 'RAC'.",
+     "basis": "documented"
+    },
+    {
+     "t": "War with the Dutch.",
+     "d": "English attacks on Dutch Gold Coast forts in 1664 (including Cape Coast) were part of the Royal Adventurers' war for the trade.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Deposed in 1688, after which Parliament opened the trade (1698). New York is named after him. His role is central to recent debates about the British monarchy's historic links to slavery.",
+   "legacyDetail": [
+    {
+     "t": "Monarchy and slavery debate.",
+     "d": "His RAC role is regularly cited in calls for the Royal Family to acknowledge its historic links to slavery.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Smithsonian Transcription Center — Stock share certificate for the Royal African Company",
+     "url": "https://transcription.si.edu/project/29682"
+    },
+    {
+     "label": "Pepys Diary Encyclopedia — Royal African Company",
+     "url": "https://pepysdiary.com/encyclopedia/7105"
+    },
+    {
+     "label": "Wikipedia — Royal African Company",
+     "url": "https://en.wikipedia.org/wiki/Royal_African_Company"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "governor & largest shareholder"
+    },
+    {
+     "id": "company-of-royal-adventurers",
+     "type": "ownership",
+     "label": "leading patron"
+    },
+    {
+     "id": "edward-colston",
+     "type": "political",
+     "label": "RAC colleague"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "political",
+     "label": "seized from Dutch-allied control 1664"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "rival in Anglo-Dutch wars"
+    },
+    {
+     "id": "elizabeth-i",
+     "type": "parallel",
+     "label": "earlier royal investor"
+    }
+   ]
+  },
+  {
+   "id": "royal-african-company",
+   "name": "Royal African Company",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Dominant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per SlaveVoyages data cited by historian William Pettigrew, c. 187,700 Africans were carried on 653 company voyages (1672–1731), of whom c. 38,500 died at sea; Pettigrew argues it shipped more captives than any other single institution.",
+   "start": 1672,
+   "end": 1752,
+   "lifespan": "1672–1752",
+   "base": "African House, Leadenhall Street, London",
+   "geo": [
+    51.513,
+    -0.082
+   ],
+   "aliases": [
+    "RAC",
+    "Royal African Company of England"
+   ],
+   "origins": "Chartered in 1672 by Charles II as successor to the failed Company of Royal Adventurers into Africa, with a monopoly on English trade along the West African coast. Royal family members, courtiers and London merchants were its shareholders.",
+   "role_summary": "Bought captives from African rulers and merchants at forts such as Cape Coast Castle and shipped them to Barbados, Jamaica and other English colonies, branding many with 'DY' or 'RAC'. It also traded gold, ivory and other goods.",
+   "roleDetail": [
+    {
+     "t": "Monopoly charter.",
+     "d": "Held a legal monopoly of English trade to West Africa from 1672 until Parliament opened the trade in 1698 (with a 10% duty on private traders until 1712).",
+     "basis": "documented"
+    },
+    {
+     "t": "Fort network.",
+     "d": "Ran Cape Coast Castle as its Gold Coast headquarters and also held Bunce Island and James Island (Gambia).",
+     "basis": "documented"
+    },
+    {
+     "t": "Branding.",
+     "d": "Many captives were branded 'DY' for the Duke of York or 'RAC' on the chest.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Weakened by private competition after 1698, the company effectively stopped trading in the 1720s and was replaced in 1750–52 by the Company of Merchants Trading to Africa. Its records survive at The National Archives; its leaders' names, notably Colston's, remain contested in Bristol and London.",
+   "legacyDetail": [
+    {
+     "t": "Opening of the trade.",
+     "d": "The end of the monopoly let thousands of private merchants from London, Bristol and Liverpool enter the trade, greatly increasing British volumes.",
+     "basis": "documented"
+    },
+    {
+     "t": "Successor body.",
+     "d": "Its forts passed to the Company of Merchants Trading to Africa, which ran them until 1821.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Royal African Company",
+     "url": "https://en.wikipedia.org/wiki/Royal_African_Company"
+    },
+    {
+     "label": "Smithsonian Transcription Center — Stock share certificate for the Royal African Company",
+     "url": "https://transcription.si.edu/project/29682"
+    },
+    {
+     "label": "Schools History — Lifting of the Royal African Company monopoly",
+     "url": "https://schoolshistory.org.uk/topics/british-empire/economic-consequences-of-empire/lifting-of-the-royal-african-company-monopoly/"
+    },
+    {
+     "label": "PBS Africans in America — The Royal African Company",
+     "url": "https://www.pbs.org/wgbh/aia/part1/1p269.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "james-duke-of-york",
+     "type": "ownership",
+     "label": "governor"
+    },
+    {
+     "id": "edward-colston",
+     "type": "ownership",
+     "label": "member & deputy governor"
+    },
+    {
+     "id": "company-of-royal-adventurers",
+     "type": "legacy",
+     "label": "successor to"
+    },
+    {
+     "id": "company-of-merchants-trading-to-africa",
+     "type": "legacy",
+     "label": "replaced by (1752)"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "ownership",
+     "label": "Gold Coast headquarters"
+    },
+    {
+     "id": "bunce-island",
+     "type": "ownership",
+     "label": "earlier fort"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "based in London"
+    },
+    {
+     "id": "asante-empire",
+     "type": "trade",
+     "label": "Gold Coast trading partners"
+    }
+   ]
+  },
+  {
+   "id": "edward-colston",
+   "name": "Edward Colston",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "During his Royal African Company involvement (1680–92) the company is commonly estimated to have transported c. 80,000 Africans; the figure is an estimate and varies by source.",
+   "start": 1680,
+   "end": 1692,
+   "lifespan": "1636–1721",
+   "base": "Bristol / London, England",
+   "geo": [
+    51.454,
+    -2.597
+   ],
+   "aliases": [],
+   "origins": "Born in Bristol to a merchant family, he made his fortune as a London merchant trading to Spain, Portugal and the Mediterranean. He joined the Royal African Company in 1680.",
+   "role_summary": "Held shares in the Royal African Company and sat on its governing court, serving as deputy governor in 1689–90. His wealth funded schools, almshouses and churches in Bristol, which commemorated him for three centuries.",
+   "roleDetail": [
+    {
+     "t": "RAC official.",
+     "d": "Member of the RAC's Court of Assistants and its deputy governor (1689–90).",
+     "basis": "documented"
+    },
+    {
+     "t": "Philanthropist of slave-trade wealth.",
+     "d": "Endowed Bristol schools and almshouses; the 1895 statue presented him as a benefactor without mentioning slavery.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "On 7 June 2020 Black Lives Matter protesters toppled his statue and pushed it into Bristol Harbour; it is now displayed, graffitied, at the M Shed museum. Colston Hall was renamed Bristol Beacon in 2020, and other Bristol institutions dropped his name.",
+   "legacyDetail": [
+    {
+     "t": "Statue toppled, 2020.",
+     "d": "Four people charged with criminal damage were acquitted by a jury in January 2022.",
+     "basis": "documented"
+    },
+    {
+     "t": "Renaming.",
+     "d": "Colston Hall became Bristol Beacon (announced 23 September 2020) after a campaign begun in 2017.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Statue of Edward Colston",
+     "url": "https://en.wikipedia.org/wiki/Statue_of_Edward_Colston"
+    },
+    {
+     "label": "CBS News — Edward Colston statue thrown into Bristol harbor",
+     "url": "https://www.cbsnews.com/news/george-floyd-protest-edward-colston-statue-thrown-into-bristol-harbor-today-2020-06-07"
+    },
+    {
+     "label": "Al Jazeera — Four charged over toppling of UK slave trader statue in Bristol",
+     "url": "https://www.aljazeera.com/news/2020/12/9/four-charged-over-toppling-of-uk-slave-trader-statue-in-bristol"
+    },
+    {
+     "label": "DJ Mag — Colston Hall officially renamed Bristol Beacon",
+     "url": "https://djmag.com/news/bristol-venue-colston-hall-officially-renamed-bristol-beacon"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "deputy governor 1689–90"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "political",
+     "label": "RAC governor"
+    },
+    {
+     "id": "port-bristol",
+     "type": "legacy",
+     "label": "Bristol benefactor"
+    },
+    {
+     "id": "statue-of-edward-colston",
+     "type": "legacy",
+     "label": "statue toppled 2020"
+    },
+    {
+     "id": "church-of-england",
+     "type": "legacy",
+     "label": "benefactor of Queen Anne's Bounty"
+    }
+   ]
+  },
+  {
+   "id": "south-sea-company",
+   "name": "South Sea Company",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Held the 1713 asiento allowing 4,800 captives a year to Spanish America for 30 years; actual deliveries fell far short, and the Church Commissioners' 2023 report cites c. 34,000 people transported, while other estimates are higher.",
+   "start": 1713,
+   "end": 1750,
+   "lifespan": "1711–1853",
+   "base": "South Sea House, Threadneedle Street, London",
+   "geo": [
+    51.514,
+    -0.086
+   ],
+   "aliases": [
+    "The Governor and Company of the merchants of Great Britain, trading to the South Seas"
+   ],
+   "origins": "Founded in 1711 as a public–private scheme to consolidate British government debt in exchange for trading privileges in Spanish America.",
+   "role_summary": "Under the Treaty of Utrecht (1713) it received the asiento, the contract to supply enslaved Africans to Spanish colonies, plus one annual trading ship. It bought captives (often from the Royal African Company and in Jamaica) and shipped them to ports such as Cartagena, Portobelo, Veracruz and Buenos Aires.",
+   "roleDetail": [
+    {
+     "t": "The asiento.",
+     "d": "Contract for 4,800 enslaved people a year for 30 years, plus a 'navío de permiso' for general trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave trade or contraband cover?",
+     "d": "Historians disagree on whether the slave trade was profitable or mainly a cover for smuggling; disputes fed the 1739 War of Jenkins' Ear.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "The 1720 Bubble.",
+     "d": "Speculation in its shares produced the South Sea Bubble crash of 1720.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The asiento was surrendered in 1750 and the company wound up in 1853. Its shareholders included Queen Anne's Bounty (Church of England), whose stake was the main basis of the Church Commissioners' 2023 £100m commitment.",
+   "legacyDetail": [
+    {
+     "t": "Church investment.",
+     "d": "By 1777 Queen Anne's Bounty held £406,942 of South Sea stock, per the Church Commissioners' 2023 report.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — South Sea Company",
+     "url": "https://en.wikipedia.org/wiki/South_Sea_Company"
+    },
+    {
+     "label": "Britannica — Asiento de negros",
+     "url": "https://www.britannica.com/print/article/38687"
+    },
+    {
+     "label": "University of Southampton — South Sea Company and the asiento (working paper)",
+     "url": "https://www.southampton.ac.uk/assets/imported/transforms/content-block/UsefulDownloads_Download/326F907A8F434B05B2199578407AA4B6/0924.pdf"
+    },
+    {
+     "label": "Church Times — Church Commissioners to set aside £100 million",
+     "url": "https://www.churchtimes.co.uk/articles/2023/13-january/news/uk/church-commissioners-to-set-aside-100-million-to-compensate-for-slave-trade-links"
+    }
+   ],
+   "connections": [
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "held asiento 1713–50"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "Spanish Crown contract"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "bought captives from"
+    },
+    {
+     "id": "church-of-england",
+     "type": "finance",
+     "label": "Queen Anne's Bounty shareholder"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "London base"
+    },
+    {
+     "id": "bank-of-england",
+     "type": "political",
+     "label": "rival in public-debt finance"
+    }
+   ]
+  },
+  {
+   "id": "lascelles-family",
+   "name": "Lascelles family (Earls of Harewood)",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Edwin Lascelles at one point owned or managed 24 West Indian plantations with over 3,000 enslaved people (per Harewood House Trust); by 1787 the family held over 27,000 acres in Barbados, Jamaica, Grenada and Tobago (per University of York).",
+   "start": 1712,
+   "end": 1838,
+   "lifespan": "c. 1712–1975 (Caribbean holdings)",
+   "base": "Harewood House, Yorkshire / Barbados",
+   "geo": [
+    53.896,
+    -1.509
+   ],
+   "aliases": [
+    "Henry Lascelles",
+    "Edwin Lascelles",
+    "Earls of Harewood"
+   ],
+   "origins": "A Yorkshire gentry family; Henry Lascelles (1690–1753) went to Barbados, became Collector of Customs, and built a fortune as a merchant, slave trader, government contractor and lender to planters.",
+   "role_summary": "Combined slave trading, sugar shipping and plantation lending; foreclosures on indebted planters made them owners of many estates. Their profits built Harewood House (1759–71).",
+   "roleDetail": [
+    {
+     "t": "Merchant and lender.",
+     "d": "Henry Lascelles supplied enslaved Africans and credit to planters in Barbados; defaults brought plantations into the family.",
+     "basis": "documented"
+    },
+    {
+     "t": "Compensation claims.",
+     "d": "Henry, 2nd Earl of Harewood, was awarded compensation, e.g. £6,486 for 292 people on Belle estate, Barbados (per LBS claim records).",
+     "basis": "documented"
+    },
+    {
+     "t": "Resistance on their estates.",
+     "d": "Enslaved people on Lascelles plantations took part in Bussa's Rebellion in Barbados in 1816.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The family kept four Barbados plantations into the 20th century and sold its last Caribbean estate in 1975. Harewood House Trust now researches and presents this history, and David Lascelles co-founded the Heirs of Slavery group.",
+   "legacyDetail": [
+    {
+     "t": "Public acknowledgement.",
+     "d": "Harewood has acknowledged that the house was built with slavery profits and runs school sessions on the trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Heirs of Slavery.",
+     "d": "David Lascelles, 8th Earl, co-founded the group with Laura Trevelyan.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "University of York — Harewood and slavery project",
+     "url": "https://www.york.ac.uk/projects/harewoodslavery/"
+    },
+    {
+     "label": "Harewood House Trust — Lascelles, slavery and the West Indies",
+     "url": "https://harewood.org/?p=5855"
+    },
+    {
+     "label": "UCL LBS — Henry Lascelles, 2nd Earl of Harewood",
+     "url": "https://www.ucl.ac.uk/lbs/person/view/2146638743"
+    },
+    {
+     "label": "UCL LBS — Claim, Belle estate, Barbados",
+     "url": "https://www.ucl.ac.uk/lbs/claim/view/5922"
+    }
+   ],
+   "connections": [
+    {
+     "id": "harewood-house",
+     "type": "legacy",
+     "label": "built from slavery profits"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "compensation awards"
+    },
+    {
+     "id": "heirs-of-slavery",
+     "type": "legacy",
+     "label": "co-founded by David Lascelles"
+    },
+    {
+     "id": "trevelyan-family",
+     "type": "political",
+     "label": "Heirs of Slavery partners"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "documented in LBS"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "London sugar house"
+    }
+   ]
+  },
+  {
+   "id": "beckford-family",
+   "name": "Beckford family",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Among Jamaica's largest planter dynasties; William Thomas Beckford inherited (1770) about £1 million, Fonthill, and Jamaican plantations with about 3,000 enslaved people.",
+   "start": 1662,
+   "end": 1838,
+   "lifespan": "1662–1844",
+   "base": "Fonthill, Wiltshire / Jamaica",
+   "geo": [
+    51.085,
+    -2.115
+   ],
+   "aliases": [
+    "Peter Beckford",
+    "Alderman William Beckford",
+    "William Thomas Beckford"
+   ],
+   "origins": "Peter Beckford (c. 1643–1710) went to Jamaica in 1662, bought land and rose to acting governor. Later generations accumulated a large network of sugar estates.",
+   "role_summary": "Owned and profited from Jamaican sugar plantations worked by enslaved people, as absentee owners after the move to England. Alderman William Beckford (1709–70) was MP and twice Lord Mayor of London (1762, 1769) and a leader of the West India interest.",
+   "roleDetail": [
+    {
+     "t": "Political power.",
+     "d": "Alderman Beckford used City of London office and Parliament to defend planter interests.",
+     "basis": "documented"
+    },
+    {
+     "t": "Tacky's War, 1760.",
+     "d": "Enslaved people on his Esher estate in St Mary joined the 1760 uprising, which was crushed with mass executions.",
+     "basis": "documented"
+    },
+    {
+     "t": "Conspicuous consumption.",
+     "d": "His son spent the fortune on Fonthill Abbey and art collecting.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Fonthill Abbey's tower collapsed in 1825 after the fortune declined. A statue of Alderman Beckford still stands in London's Guildhall, and there have been calls to add context about the people he enslaved.",
+   "legacyDetail": [
+    {
+     "t": "Guildhall statue.",
+     "d": "Campaigners have argued that its inscription should acknowledge the 3,000 enslaved Africans behind the family's wealth.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — William Beckford (politician)",
+     "url": "https://en.wikipedia.org/wiki/William_Beckford_(politician)"
+    },
+    {
+     "label": "National Gallery — William Thomas Beckford",
+     "url": "https://www.nationalgallery.org.uk/people/william-thomas-beckford"
+    },
+    {
+     "label": "National Trust for Scotland — William Beckford (1760–1844), part one",
+     "url": "https://www.nts.org.uk/stories/william-beckford-1760-1844-part-one"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-london",
+     "type": "political",
+     "label": "Lord Mayor of London"
+    },
+    {
+     "id": "lascelles-family",
+     "type": "political",
+     "label": "fellow West India interest"
+    },
+    {
+     "id": "hibbert-family",
+     "type": "political",
+     "label": "West India lobby"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "parallel",
+     "label": "planter class compensated"
+    }
+   ]
+  },
+  {
+   "id": "hibbert-family",
+   "name": "Hibbert family",
+   "category": "European Families",
+   "role": "Broker & Agent",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Jamaica slave factors, planters and London West India merchants; one estimate puts family holdings at c. 900 enslaved people (figures vary by source).",
+   "start": 1734,
+   "end": 1838,
+   "lifespan": "c. 1734–1838",
+   "base": "London / Kingston, Jamaica",
+   "geo": [
+    51.506,
+    -0.022
+   ],
+   "aliases": [
+    "George Hibbert",
+    "Thomas Hibbert",
+    "Robert Hibbert"
+   ],
+   "origins": "A Manchester merchant family; Thomas Hibbert settled in Kingston, Jamaica in the 1730s and became a leading factor selling newly arrived African captives to planters.",
+   "role_summary": "Sold enslaved Africans in Jamaica, owned plantations, and ran the London house that shipped sugar and supplies. George Hibbert (1757–1837) led the London pro-slavery lobby and the West India Dock Company.",
+   "roleDetail": [
+    {
+     "t": "Slave factors in Kingston.",
+     "d": "Bought cargoes of captives from slave ships and resold them to planters.",
+     "basis": "documented"
+    },
+    {
+     "t": "Pro-slavery lobbyist.",
+     "d": "George Hibbert, MP and London alderman, spoke against abolition of the slave trade (per LBS).",
+     "basis": "documented"
+    },
+    {
+     "t": "Dock builder.",
+     "d": "A founding director and chairman of the West India Dock Company (docks opened 1802).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The West India Docks now house the Museum of London Docklands, whose 'London, Sugar & Slavery' gallery and 'Slavery, Culture and Collecting' display examine George Hibbert. A later Robert Hibbert founded the Hibbert Trust, a theological charity.",
+   "legacyDetail": [
+    {
+     "t": "Museum display.",
+     "d": "The Museum of London Docklands presents Hibbert as collector, philanthropist and enslaver.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UCL LBS — George Hibbert",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/16791"
+    },
+    {
+     "label": "London Museum — Portrait of George Hibbert",
+     "url": "https://www.londonmuseum.org.uk/collections/v/object-726143/portrait-of-george-hibbert/"
+    },
+    {
+     "label": "Museum of London Docklands — Slavery, Culture and Collecting",
+     "url": "https://www.museumoflondon.org.uk/museum-london-docklands/whats-on/exhibitions/slavery-culture-and-collecting"
+    }
+   ],
+   "connections": [
+    {
+     "id": "west-india-docks",
+     "type": "ownership",
+     "label": "chaired dock company"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "London West India house"
+    },
+    {
+     "id": "beckford-family",
+     "type": "political",
+     "label": "West India interest"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "political",
+     "label": "lobbied on compensation"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "documented in LBS"
+    }
+   ]
+  },
+  {
+   "id": "gladstone-family",
+   "name": "Gladstone family (Sir John Gladstone)",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Per LBS, Sir John Gladstone owned or held mortgages over 2,508 enslaved people in British Guiana and Jamaica and received c. £106,769 compensation, among the largest awards to any individual.",
+   "start": 1803,
+   "end": 1851,
+   "lifespan": "1764–1851 (Sir John)",
+   "base": "Liverpool, England / Demerara (Guyana)",
+   "geo": [
+    53.408,
+    -2.991
+   ],
+   "aliases": [
+    "Sir John Gladstone",
+    "John Gladstones"
+   ],
+   "origins": "Born in Leith, John Gladstone made a fortune in Liverpool trading Calcutta goods, Virginia tobacco and American grain. From 1803 he bought sugar estates in Demerara, including Vreedenhoop (1826, 430 enslaved people).",
+   "role_summary": "Absentee owner of plantations in British Guiana and Jamaica and a leading defender of slavery in Parliament and the press. After emancipation he pioneered shipping indentured labourers from India to his Guiana estates (1838).",
+   "roleDetail": [
+    {
+     "t": "Demerara 1823.",
+     "d": "The 1823 Demerara uprising began on his Success plantation; its violent suppression shaped the abolition debate.",
+     "basis": "documented"
+    },
+    {
+     "t": "Compensation.",
+     "d": "Received c. £106,769 in 1830s compensation (per LBS), including c. £15,052 for 806 people in Jamaica.",
+     "basis": "documented"
+    },
+    {
+     "t": "Indenture.",
+     "d": "Organised the first shipment of Indian indentured labourers to British Guiana.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His son William Ewart Gladstone became Liberal prime minister; family wealth endowed institutions such as Gladstone's Library. In August 2023 descendants apologised in Guyana and pledged c. £100,000 toward a University of Guyana institute; Guyanese critics called it insufficient.",
+   "legacyDetail": [
+    {
+     "t": "2023 apology.",
+     "d": "Charles Gladstone read the apology at the University of Guyana on 25 August 2023.",
+     "basis": "documented"
+    },
+    {
+     "t": "Reparations debate.",
+     "d": "President Irfaan Ali did not attend and called for state reparations.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UCL LBS — John Gladstone",
+     "url": "http://wwwdepts-live.ucl.ac.uk/lbs/person/view/8961"
+    },
+    {
+     "label": "AP via WSLS — Descendants of a British owner of slaves in Guyana apologize",
+     "url": "https://www.wsls.com/news/2023/08/25/descendants-of-a-british-owner-of-slaves-in-guyana-apologize-as-caribbean-nation-seeks-reparations/"
+    },
+    {
+     "label": "ITV News — William Gladstone's descendants to apologise",
+     "url": "https://www.itv.com/news/2023-08-19/william-gladstones-descendants-to-apologise-for-familys-part-in-slave-trade"
+    }
+   ],
+   "connections": [
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "c. £106,769 compensation"
+    },
+    {
+     "id": "slave-compensation-commission",
+     "type": "legacy",
+     "label": "claimant"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool merchant"
+    },
+    {
+     "id": "heirs-of-slavery",
+     "type": "legacy",
+     "label": "descendants joined apology movement"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "documented in LBS"
+    },
+    {
+     "id": "trevelyan-family",
+     "type": "parallel",
+     "label": "2023 family apology"
+    }
+   ]
+  },
+  {
+   "id": "codrington-family",
+   "name": "Codrington family",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Held Betty's Hope and other Antigua estates and leased Barbuda for generations; per LBS, Betty's Hope held 380 enslaved people in 1817 and Clare Hall's 1835 award was £4,442 for 296 people.",
+   "start": 1674,
+   "end": 1838,
+   "lifespan": "c. 1670s–1838",
+   "base": "Betty's Hope, Antigua",
+   "geo": [
+    17.105,
+    -61.763
+   ],
+   "aliases": [
+    "Christopher Codrington",
+    "Sir Christopher Bethell Codrington"
+   ],
+   "origins": "Christopher Codrington the elder moved from Barbados to Antigua and founded Betty's Hope in the 1670s. His son Christopher (1668–1710) was Governor of the Leeward Islands and a fellow of All Souls, Oxford.",
+   "role_summary": "Ran sugar plantations on Antigua and Barbados and leased Barbuda, enslaving thousands over two centuries. Christopher Codrington's 1710 will left two Barbados plantations, with their enslaved workers, to the Society for the Propagation of the Gospel, and £10,000 to All Souls for a library.",
+   "roleDetail": [
+    {
+     "t": "1710 bequest.",
+     "d": "Left the Barbados estates to the SPG (Church of England missionary society) and £10,000 to All Souls College.",
+     "basis": "documented"
+    },
+    {
+     "t": "West India politics.",
+     "d": "Christopher Bethell Codrington was a Tory MP for Tewkesbury (1797–1812) who opposed abolition of the slave trade (per LBS).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "In 2020 All Souls stopped calling its library the Codrington Library, added a memorial plaque, and pledged £100,000 to Codrington College, Barbados, but kept his statue. Barbuda's main town is still named Codrington.",
+   "legacyDetail": [
+    {
+     "t": "All Souls renaming, 2020.",
+     "d": "The college made 'plain its abhorrence of slavery' but critics say the statue should go.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UCL LBS — Claim, Clare Hall, Antigua",
+     "url": "https://www.ucl.ac.uk/lbs/claim/view/642"
+    },
+    {
+     "label": "All Souls College — All Souls College and the Codrington legacy",
+     "url": "https://www.asc.ox.ac.uk/node/3693"
+    },
+    {
+     "label": "Wikipedia — Codrington Plantations",
+     "url": "https://en.wikipedia.org/wiki/Codrington_Plantations"
+    }
+   ],
+   "connections": [
+    {
+     "id": "codrington-plantations-barbados",
+     "type": "ownership",
+     "label": "founded & bequeathed"
+    },
+    {
+     "id": "church-of-england",
+     "type": "legacy",
+     "label": "bequest to SPG"
+    },
+    {
+     "id": "all-souls-codrington-library",
+     "type": "legacy",
+     "label": "£10,000 library bequest"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "Antigua compensation"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "documented in LBS"
+    }
+   ]
+  },
+  {
+   "id": "trevelyan-family",
+   "name": "Trevelyan family",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Owned c. 1,000 enslaved people on six Grenada plantations and received c. £34,000 compensation in the 1830s (c. £3m today), per family statements and press reports.",
+   "start": 1763,
+   "end": 1838,
+   "lifespan": "c. 1760s–1838 (Grenada estates)",
+   "base": "England / Grenada",
+   "geo": [
+    12.116,
+    -61.679
+   ],
+   "aliases": [
+    "Trevelyan baronets"
+   ],
+   "origins": "An English gentry family of baronets and later public servants and historians. Grenada became British in 1763; the exact date the family acquired its estates is not confirmed here.",
+   "role_summary": "Absentee owners of sugar plantations in Grenada worked by enslaved Africans, compensated when slavery ended. They are now best known for their descendants' 2023 apology.",
+   "roleDetail": [
+    {
+     "t": "Grenada estates.",
+     "d": "Six plantations with c. 1,000 enslaved people.",
+     "basis": "documented"
+    },
+    {
+     "t": "Compensation.",
+     "d": "c. £34,000 awarded in the 1830s under the 1833 Act.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "On 27 February 2023 former BBC journalist Laura Trevelyan and relatives apologised in Grenada and gave £100,000 toward a community fund; the Grenada National Reparations Commission welcomed it. She co-founded Heirs of Slavery with David Lascelles.",
+   "legacyDetail": [
+    {
+     "t": "2023 apology.",
+     "d": "A letter signed by seven family members called slavery a crime against humanity.",
+     "basis": "documented"
+    },
+    {
+     "t": "Call for state reparations.",
+     "d": "Family member John Dower urged the UK government to negotiate with CARICOM.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "APPG on Afrikan Reparations — British slave owners' family issue public apology in Grenada",
+     "url": "https://www.appg-ar.org/news/british-slave-owners-family-issue-public-apology-and-reparations-in-grenada"
+    },
+    {
+     "label": "Inverness Courier (PA) — Family descended from slaveowners to apologise and pay £100,000 to Grenada",
+     "url": "https://www.inverness-courier.co.uk/news/national/family-descended-from-slaveowners-to-apologise-and-pay-100-000-to-grenada-69841/"
+    },
+    {
+     "label": "Antigua Observer — Trevelyan family's slavery apology seen as significant move",
+     "url": "https://antiguaobserver.com/?p=256311"
+    }
+   ],
+   "connections": [
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "c. £34,000 compensation"
+    },
+    {
+     "id": "heirs-of-slavery",
+     "type": "legacy",
+     "label": "co-founded group"
+    },
+    {
+     "id": "lascelles-family",
+     "type": "political",
+     "label": "Heirs of Slavery partner"
+    },
+    {
+     "id": "gladstone-family",
+     "type": "parallel",
+     "label": "2023 apology"
+    }
+   ]
+  },
+  {
+   "id": "richard-oswald",
+   "name": "Richard Oswald",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Lead partner of Grant, Oswald & Co., which ran Bunce Island, the largest British slave fort on the Upper Guinea 'Rice Coast'; it shipped thousands of captives, many to South Carolina rice planters.",
+   "start": 1748,
+   "end": 1784,
+   "lifespan": "1705–1784",
+   "base": "London, England",
+   "geo": [
+    51.511,
+    -0.085
+   ],
+   "aliases": [
+    "Grant, Oswald & Co."
+   ],
+   "origins": "A Scottish merchant from Caithness who trained in Glasgow and became a wealthy London merchant and army contractor during the Seven Years' War.",
+   "role_summary": "With Alexander Grant and partners he bought Bunce Island in 1748, rebuilt its fort, and made it a major slave-trading depot. Henry Laurens sold the firm's captives in Charleston on commission.",
+   "roleDetail": [
+    {
+     "t": "Bunce Island.",
+     "d": "The partners rebuilt the fort, added a shipyard and expanded its African workforce.",
+     "basis": "documented"
+    },
+    {
+     "t": "Charleston link.",
+     "d": "Laurens took 10% commission on sales of Bunce Island captives in South Carolina.",
+     "basis": "documented"
+    },
+    {
+     "t": "Peace negotiator.",
+     "d": "He was Britain's chief negotiator for the 1782–83 Treaty of Paris, facing his former agent Laurens.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Oswald's Ayrshire estate, Auchincruive, was bought with trade profits. Bunce Island passed to his nephews the Andersons, is now a protected Sierra Leone heritage site, and is a focus for Gullah Geechee descendants in the US.",
+   "legacyDetail": [
+    {
+     "t": "Scottish legacies.",
+     "d": "The University of Edinburgh's Managing Imperial Legacies project examines his career.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Richard Oswald (merchant)",
+     "url": "https://en.wikipedia.org/wiki/Richard_Oswald_(merchant)"
+    },
+    {
+     "label": "Yale Gilder Lehrman Center — Bunce Island history",
+     "url": "https://macmillan.yale.edu/glc/bunce-island-history"
+    },
+    {
+     "label": "University of Edinburgh — Richard Oswald and Bunce Island, Sierra Leone",
+     "url": "https://blogs.ed.ac.uk/managingimperiallegacies/2020/06/22/richard-oswald-and-bunce-island-sierra-leone/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "bunce-island",
+     "type": "ownership",
+     "label": "bought 1748"
+    },
+    {
+     "id": "henry-laurens",
+     "type": "trade",
+     "label": "Charleston sales agent"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "main market"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "London base"
+    },
+    {
+     "id": "caulker-family",
+     "type": "trade",
+     "label": "Sherbro-area trading partners"
+    }
+   ]
+  },
+  {
+   "id": "tarleton-family",
+   "name": "Tarleton family",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "One of Liverpool's largest merchant houses; the Tarleton brothers had 39 ships registered in Liverpool between 1786 and 1804, many of them in the slave trade.",
+   "start": 1750,
+   "end": 1807,
+   "lifespan": "c. 1740s–1807",
+   "base": "Liverpool, England",
+   "geo": [
+    53.405,
+    -2.992
+   ],
+   "aliases": [
+    "John Tarleton",
+    "Clayton Tarleton",
+    "Banastre Tarleton"
+   ],
+   "origins": "John Tarleton (1718–73) built a fortune in the Caribbean sugar trade and slaving voyages, continuing earlier family trade with the West Indies and Africa. His sons John, Clayton and Thomas ran the family firm.",
+   "role_summary": "Financed and dispatched slaving voyages from Liverpool and traded West India produce. The family dominated Liverpool politics in defence of the trade: Clayton was mayor (1792) and Banastre was MP for Liverpool (1790–1812).",
+   "roleDetail": [
+    {
+     "t": "Family shipping firm.",
+     "d": "39 Liverpool-registered ships 1786–1804.",
+     "basis": "documented"
+    },
+    {
+     "t": "Banastre in Parliament.",
+     "d": "The cavalry commander of the American war was a vocal Commons defender of the slave trade, though he never joined the family business.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Family papers (1678–1838) document their slave-trade dealings. Banastre's portraits and Liverpool memorials have been re-examined since 2020.",
+   "legacyDetail": [
+    {
+     "t": "Reassessment.",
+     "d": "The University of Liverpool's Victoria Gallery revisited Banastre Tarleton's reputation in 2020.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "University of Liverpool Victoria Gallery & Museum — Hero to Zero",
+     "url": "https://vgm.liverpool.ac.uk/blog/2020/hero-to-zero"
+    },
+    {
+     "label": "British Online Archives — Papers of the Tarleton family 1678–1838",
+     "url": "https://britishonlinearchives.com/collections/37/american-slave-trade-records-and-other-papers-of-the-tarleton-family-1678-1838"
+    },
+    {
+     "label": "Wikipedia — Banastre Tarleton",
+     "url": "https://en.wikipedia.org/wiki/Banastre_Tarleton"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool slaving house"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "political",
+     "label": "opposed abolition"
+    },
+    {
+     "id": "earle-family",
+     "type": "political",
+     "label": "fellow Liverpool traders"
+    },
+    {
+     "id": "thomas-leyland",
+     "type": "political",
+     "label": "Liverpool council allies"
+    }
+   ]
+  },
+  {
+   "id": "earle-family",
+   "name": "Earle family",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Multi-generational Liverpool slave traders whose archive is the Merseyside Maritime Museum's largest on the trade; voyage totals are not given here.",
+   "start": 1751,
+   "end": 1807,
+   "lifespan": "c. 1700s–1807 (slave trade)",
+   "base": "Liverpool, England",
+   "geo": [
+    53.406,
+    -2.99
+   ],
+   "aliases": [
+    "William Earle",
+    "Thomas Earle",
+    "T. & W. Earle & Co."
+   ],
+   "origins": "A Liverpool merchant family active from the early 18th century. Brothers William (1721–88) and Thomas Earle became prominent slave-ship owners and traders.",
+   "role_summary": "Sent slaving voyages to the Bight of Biafra (Old Calabar), the Gold Coast and elsewhere. Through Livorno they imported Italian glass beads used as trade goods, and they supplied William Davenport.",
+   "roleDetail": [
+    {
+     "t": "Calabar voyages.",
+     "d": "A 1751 letter of instruction for a slaving voyage to Calabar survives, along with a letter to an African trader about two relatives taken 'in error'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bead supply chain.",
+     "d": "The Earles brought many of Davenport's bead cargoes from Livorno.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Sir George Earle donated the family papers to Merseyside Maritime Museum in 1993. They underpin research at the International Slavery Museum.",
+   "legacyDetail": [
+    {
+     "t": "Archive donation.",
+     "d": "Seventeen boxes covering the 1700s to the 1930s.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "National Museums Liverpool — Family and business papers of the Earle family",
+     "url": "https://liverpoolmuseums.org.uk/artifact/family-and-business-papers-of-earle-family-liverpool-merchant-and-slave-traders"
+    },
+    {
+     "label": "UCL LBS — William Earle",
+     "url": "https://lbs.ucl.ac.uk/lbs/person/view/8728"
+    },
+    {
+     "label": "Historic Society of Lancashire and Cheshire — Littler, The Earle collection",
+     "url": "https://www.hslc.org.uk/wp-content/uploads/2017/05/146-5-Littler.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool slaving house"
+    },
+    {
+     "id": "william-davenport",
+     "type": "trade",
+     "label": "supplied beads, partner"
+    },
+    {
+     "id": "old-calabar-efik",
+     "type": "trade",
+     "label": "bought captives at Calabar"
+    },
+    {
+     "id": "international-slavery-museum",
+     "type": "legacy",
+     "label": "papers held"
+    }
+   ]
+  },
+  {
+   "id": "william-davenport",
+   "name": "William Davenport",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Invested in about 160 slaving voyages in about 70 vessels (per National Museums Liverpool), carrying almost 40,000 Africans; by ships disembarked, possibly Liverpool's most prolific slave trader.",
+   "start": 1748,
+   "end": 1797,
+   "lifespan": "1725–1797",
+   "base": "Liverpool, England",
+   "geo": [
+    53.405,
+    -2.99
+   ],
+   "aliases": [
+    "William Davenport & Co."
+   ],
+   "origins": "Born in London, he was apprenticed to the Liverpool slave trader William Whaley, with whom he invested in eight voyages in 1748–53.",
+   "role_summary": "Took shares in slaving voyages to the Cameroons, Old Calabar and elsewhere, and specialised in supplying trade goods, especially glass beads from Italy, Silesia and Bohemia, which made up a quarter to a half of some cargoes.",
+   "roleDetail": [
+    {
+     "t": "Bead merchant.",
+     "d": "In the 1770s beads made up 25–50% of the value of his cargoes to the Cameroons.",
+     "basis": "documented"
+    },
+    {
+     "t": "Diversified trader.",
+     "d": "Also dealt in ivory, sugar, coffee and tobacco.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His business archive at Merseyside Maritime Museum is one of the most complete records of an 18th-century slave-trading firm and a key source for historians such as David Richardson.",
+   "legacyDetail": [
+    {
+     "t": "Research archive.",
+     "d": "Davenport & Co. papers (1745–97) include bead and cowrie account books.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "National Museums Liverpool — Archives of William Davenport (1725–1797)",
+     "url": "https://liverpoolmuseums.org.uk/artifact/archives-of-william-davenport-1725-1797"
+    },
+    {
+     "label": "Gresham College — Liverpool and the slave trade",
+     "url": "https://www.gresham.ac.uk/node/11732"
+    },
+    {
+     "label": "Wikipedia — William Davenport (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/William_Davenport_(slave_trader)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool investor"
+    },
+    {
+     "id": "earle-family",
+     "type": "trade",
+     "label": "bead supply partners"
+    },
+    {
+     "id": "old-calabar-efik",
+     "type": "trade",
+     "label": "Calabar voyages"
+    },
+    {
+     "id": "international-slavery-museum",
+     "type": "legacy",
+     "label": "archive held"
+    }
+   ]
+  },
+  {
+   "id": "thomas-leyland",
+   "name": "Thomas Leyland",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Helped finance about 69–72 slaving voyages carrying c. 22,000 Africans (per HSBC History and voyage-database research); left c. £600,000 in 1827.",
+   "start": 1783,
+   "end": 1807,
+   "lifespan": "c. 1752–1827",
+   "base": "Liverpool, England",
+   "geo": [
+    53.407,
+    -2.989
+   ],
+   "aliases": [
+    "Leyland & Bullins"
+   ],
+   "origins": "A Liverpool merchant whose start-up capital reportedly came from a lottery win; he moved from general shipping into slaving voyages by 1783.",
+   "role_summary": "Merchant and ship-owner who financed dozens of slaving voyages, then a banker whose firm Leyland & Bullins lent to other traders. As three-time mayor (first 1798) he presided while the council petitioned against regulation of the trade.",
+   "roleDetail": [
+    {
+     "t": "Slave-trade financier.",
+     "d": "As merchant and ship-owner he helped finance 72 transatlantic voyages (per HSBC History).",
+     "basis": "documented"
+    },
+    {
+     "t": "Banker.",
+     "d": "Founded Leyland & Bullins (1807) with his nephew Richard Bullin.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Leyland & Bullins merged into what became Midland Bank and is now part of HSBC, which publishes its history. His letter books survive in the Liverpool Record Office.",
+   "legacyDetail": [
+    {
+     "t": "HSBC lineage.",
+     "d": "HSBC's own archive acknowledges Leyland's role in financing slave voyages.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "HSBC History — Leyland and Bullins",
+     "url": "https://history.hsbc.com/collections/global-archives/leyland-and-bullins"
+    },
+    {
+     "label": "Wikipedia — Thomas Leyland",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Leyland"
+    },
+    {
+     "label": "Myles Zhang — The Slave Trader Turned Banker (paper)",
+     "url": "https://www.myleszhang.org/files/2023/06/The-Slave-Trader-Turned-Banker.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "leyland-and-bullins",
+     "type": "ownership",
+     "label": "founded bank 1807"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "mayor & ship-owner"
+    },
+    {
+     "id": "tarleton-family",
+     "type": "political",
+     "label": "Liverpool trade lobby"
+    },
+    {
+     "id": "heywood-family",
+     "type": "parallel",
+     "label": "slave trader turned banker"
+    }
+   ]
+  },
+  {
+   "id": "heywood-family",
+   "name": "Heywood brothers (Arthur & Benjamin Heywood)",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Liverpool slave-ship owners: Arthur and Benjamin Heywood invested in 82 slaving voyages, and with Benjamin's sons 133 voyages carrying an estimated 42,000 captives (c. 6,000 of whom died), per a University of Manchester Rylands study drawing on SlaveVoyages; their profits founded Heywood's Bank (1773), an ancestor of Barclays.",
+   "start": 1750,
+   "end": 1807,
+   "lifespan": "c. 1750s–1883 (bank independent)",
+   "base": "Liverpool, England",
+   "geo": [
+    53.407,
+    -2.991
+   ],
+   "aliases": [
+    "Arthur Heywood, Sons & Co."
+   ],
+   "origins": "Merchant brothers Arthur and Benjamin Heywood traded from Liverpool, including as co-owners of slaving ships. Benjamin later moved to Manchester and with his sons founded a separate bank there (1788), Heywood Brothers & Co, later part of the NatWest group's history.",
+   "role_summary": "Owned and invested in slave ships, then used the capital to found a bank (c. 1773) that served Liverpool's Atlantic merchants.",
+   "roleDetail": [
+    {
+     "t": "Slave-ship owners.",
+     "d": "Arthur, Benjamin and Benjamin's sons Benjamin Arthur and Nathaniel all co-owned slaving voyages.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bank founders.",
+     "d": "Arthur Heywood's Liverpool bank was established by 1773.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Liverpool bank was absorbed by the Bank of Liverpool (1883), later Martins Bank, which Barclays bought in 1969. The Martins Bank Building on Water Street, Liverpool, survives as a listed building.",
+   "legacyDetail": [
+    {
+     "t": "Barclays lineage.",
+     "d": "Heywood's → Bank of Liverpool → Martins → Barclays.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Heywood's Bank",
+     "url": "https://en.wikipedia.org/wiki/Heywood%27s_Bank"
+    },
+    {
+     "label": "Wikipedia — Bank of Liverpool",
+     "url": "https://en.wikipedia.org/wiki/Bank_of_Liverpool"
+    },
+    {
+     "label": "Understanding Slavery Initiative — Liverpool case study",
+     "url": "https://understandingslavery.com/casestudy/liverpool/"
+    },
+    {
+     "label": "University of Manchester Rylands Blog — The Heywoods",
+     "url": "https://rylandscollections.com/2023/09/18/the-heywoods/"
+    },
+    {
+     "label": "NatWest Group Heritage Hub — Heywood Brothers & Co",
+     "url": "https://www.natwestgroup.com/heritage/companies/heywood-brothers-and-co.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "heywoods-bank-liverpool",
+     "type": "ownership",
+     "label": "founded bank"
+    },
+    {
+     "id": "barclays",
+     "type": "legacy",
+     "label": "bank merged into Barclays"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "slave-ship owners"
+    },
+    {
+     "id": "thomas-leyland",
+     "type": "parallel",
+     "label": "slave trader turned banker"
+    }
+   ]
+  },
+  {
+   "id": "john-bolton",
+   "name": "John Bolton",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Credited by the Transatlantic Slave Trade Database (via LBS) with 69 slaving voyages from 1788 to 1807, peaking at five or more ships a year from Liverpool in 1798–1805.",
+   "start": 1788,
+   "end": 1837,
+   "lifespan": "1756–1837",
+   "base": "Liverpool, England",
+   "geo": [
+    53.404,
+    -2.985
+   ],
+   "aliases": [
+    "Colonel John Bolton",
+    "Bolton & Littledale"
+   ],
+   "origins": "Apprenticed in St Vincent in 1773, he worked in the Caribbean before returning to Liverpool around 1782–83 with £10,000 to start a merchant firm.",
+   "role_summary": "One of the last great Liverpool slave traders, increasingly the sole owner of his ships. After 1807 he and Bolton & Littledale became leading cotton traders with British Guiana, where he also owned estates.",
+   "roleDetail": [
+    {
+     "t": "Late-era slaver.",
+     "d": "Operated right up to abolition of the trade in 1807.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave-owner.",
+     "d": "His will refers to property in Demerara, St Vincent and St Croix.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He died worth c. £180,000 and left Storrs Hall on Windermere to a clergyman. He is documented in the LBS database.",
+   "legacyDetail": [
+    {
+     "t": "Lake District estate.",
+     "d": "Storrs Hall, bought from slave-trade wealth, is now a hotel.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UCL LBS — John Bolton",
+     "url": "https://www.ucl.ac.uk/lbs/person/view/2146654877"
+    },
+    {
+     "label": "UCL LBS — John Bolton (British Guiana record)",
+     "url": "https://www.ucl.ac.uk/lbs/person/view/7019"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool slave trader"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "political",
+     "label": "trading until abolition"
+    },
+    {
+     "id": "john-tobin",
+     "type": "political",
+     "label": "Liverpool trade network"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "documented in LBS"
+    }
+   ]
+  },
+  {
+   "id": "john-tobin",
+   "name": "Sir John Tobin",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Captain on 6 slaving voyages (1793–1803) and owner in 10 (1794–1804), per LBS; later a leading palm-oil importer.",
+   "start": 1793,
+   "end": 1807,
+   "lifespan": "1762–1851",
+   "base": "Liverpool, England",
+   "geo": [
+    53.416,
+    -2.917
+   ],
+   "aliases": [],
+   "origins": "A Manx-born seaman who rose as a privateer and slave-ship captain before becoming a Liverpool merchant.",
+   "role_summary": "Commanded and then owned slaving ships. After 1807 he turned his West African trade networks to palm oil, a shift that shaped Liverpool's 19th-century Africa trade.",
+   "roleDetail": [
+    {
+     "t": "Captain to owner.",
+     "d": "Sailed as captain, then invested as owner in slaving voyages.",
+     "basis": "documented"
+    },
+    {
+     "t": "Palm-oil pioneer.",
+     "d": "LBS says he was instrumental in converting slave-trade links into the palm-oil trade.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Mayor of Liverpool in 1819–20 and knighted in 1820. His career shows continuity between the slave trade and later 'legitimate' commerce with West Africa.",
+   "legacyDetail": [
+    {
+     "t": "Continuity of networks.",
+     "d": "Delta and Calabar trading relationships carried over from slaves to palm oil.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UCL LBS — Sir John Tobin",
+     "url": "https://www.ucl.ac.uk/lbs/person/view/42424"
+    },
+    {
+     "label": "National Museums Liverpool — Sir John Tobin",
+     "url": "https://www.liverpoolmuseums.org.uk/artifact/sir-john-tobin"
+    },
+    {
+     "label": "Wikipedia — Sir John Tobin",
+     "url": "https://en.wikipedia.org/wiki/Sir_John_Tobin"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "mayor & merchant"
+    },
+    {
+     "id": "kingdom-of-bonny",
+     "type": "trade",
+     "label": "Niger Delta trade (palm oil)"
+    },
+    {
+     "id": "old-calabar-efik",
+     "type": "trade",
+     "label": "Calabar trade"
+    },
+    {
+     "id": "john-bolton",
+     "type": "family",
+     "label": "related by marriage network"
+    }
+   ]
+  },
+  {
+   "id": "pinney-family",
+   "name": "Pinney family (John Pretor Pinney)",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "903 men, women and children are known to have lived enslaved on Mountravers, Nevis, 1680/81–1834 (per Bristol University research by Eickelmann & Small); Pinney & Tobin became a leading Bristol sugar house.",
+   "start": 1762,
+   "end": 1838,
+   "lifespan": "1762–1838 (John Pretor Pinney 1740–1818)",
+   "base": "Bristol, England / Nevis",
+   "geo": [
+    51.454,
+    -2.604
+   ],
+   "aliases": [
+    "John Pretor Pinney",
+    "Pinney & Tobin"
+   ],
+   "origins": "John Pretor inherited the Nevis plantations in 1762 from a distant cousin on condition that he take the name Pinney. He lived on Nevis managing Mountravers until the 1780s.",
+   "role_summary": "Ran a sugar plantation on Nevis worked by enslaved people, then moved to Bristol as a West India merchant and lender to planters. He brought enslaved servants, including Pero Jones and Fanny Coker, to his Bristol house.",
+   "roleDetail": [
+    {
+     "t": "Plantation owner.",
+     "d": "Mountravers, also called Pinney's Estate, Nevis.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bristol merchant.",
+     "d": "Profits built the Great George Street house (c. 1790) and a sugar business.",
+     "basis": "documented"
+    },
+    {
+     "t": "Enslaved in Bristol.",
+     "d": "Pero Jones, bought as a child, lived and worked in the house; Pero's Bridge is named after him.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The house is now Bristol's Georgian House Museum, whose displays were revised in 2018 to list the 903 people enslaved on Mountravers. It is Grade II* listed partly for this connection.",
+   "legacyDetail": [
+    {
+     "t": "Museum reinterpretation.",
+     "d": "Long marketed as a 'West India merchant's house', it now centres the enslaved.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — John Pinney",
+     "url": "https://en.wikipedia.org/wiki/John_Pinney"
+    },
+    {
+     "label": "Discovering Bristol — The Georgian House",
+     "url": "https://discoveringbristol.org.uk/slavery/learning-journeys/georgian-house/general-details"
+    },
+    {
+     "label": "Historic England — List entry 1202244",
+     "url": "https://HistoricEngland.org.uk/listing/the-list/list-entry/1202244"
+    },
+    {
+     "label": "University of Bristol — Mountravers plantation community (introduction)",
+     "url": "https://seis.bristol.ac.uk/~emceee/mountravers~introduction.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "mountravers-plantation",
+     "type": "plantation",
+     "label": "owned Mountravers"
+    },
+    {
+     "id": "georgian-house-bristol",
+     "type": "legacy",
+     "label": "house now museum"
+    },
+    {
+     "id": "port-bristol",
+     "type": "trade",
+     "label": "Bristol sugar house"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "family compensation era"
+    }
+   ]
+  },
+  {
+   "id": "barclays",
+   "name": "Barclays",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Not a slave trader itself, but descends from banks founded with slave-trade capital (Heywood's, Liverpool) and its founding Barclay partners financed West India trade and plantation mortgages.",
+   "start": 1773,
+   "end": null,
+   "lifespan": "1690–present",
+   "base": "London, England",
+   "geo": [
+    51.505,
+    -0.014
+   ],
+   "aliases": [
+    "Barclays Bank",
+    "Martins Bank (predecessor)"
+   ],
+   "origins": "Grew from a Quaker goldsmith-banking partnership in Lombard Street, London (1690s). Through 20th-century mergers it absorbed many regional banks.",
+   "role_summary": "Predecessor banks lent to slave traders and planters: Heywood's Bank was founded by Liverpool slave-ship owners, and the Barclay family's business financed tobacco and West India trade. David Barclay acquired Unity Valley Pen in Jamaica through a debt and in 1795 freed and resettled 30 enslaved people in Philadelphia.",
+   "roleDetail": [
+    {
+     "t": "Heywood lineage.",
+     "d": "Heywood's → Bank of Liverpool (1883) → Martins → Barclays (1969).",
+     "basis": "documented"
+    },
+    {
+     "t": "Unity Valley.",
+     "d": "Barclays' archive highlights David Barclay's manumission; the LRB argues this framing is selective.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Barclays has said it may have benefited from the slave trade through acquired banks (2007) and in 2020 published archive material on Unity Valley; critics say it has not fully reckoned with its history.",
+   "legacyDetail": [
+    {
+     "t": "Contested acknowledgement.",
+     "d": "Historian Christopher L. Brown called the bank's statement 'selective, misleading'.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Barclays — From the archives: October's freedom from slavery",
+     "url": "https://home.barclays/news/2020/12/From-the-archives--October-s-freedom-from-slavery"
+    },
+    {
+     "label": "London Review of Books — Christopher L. Brown, Funhouse Mirror",
+     "url": "https://lrb.co.uk/the-paper/v45/n24/christopher-l.-brown/funhouse-mirror"
+    },
+    {
+     "label": "Wikipedia — Heywood's Bank",
+     "url": "https://en.wikipedia.org/wiki/Heywood%27s_Bank"
+    },
+    {
+     "label": "UCL LBS — Person freed from Unity Valley by David Barclay",
+     "url": "https://www.ucl.ac.uk/lbs/person/view/2146643793"
+    }
+   ],
+   "connections": [
+    {
+     "id": "heywoods-bank-liverpool",
+     "type": "legacy",
+     "label": "acquired via Martins 1969"
+    },
+    {
+     "id": "heywood-family",
+     "type": "legacy",
+     "label": "founders of predecessor"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "finance",
+     "label": "Liverpool predecessor banks"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "documented in LBS"
+    }
+   ]
+  },
+  {
+   "id": "lloyds-of-london",
+   "name": "Lloyd's of London",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Lloyd's says it was the global centre for insuring Britain's shipping industry, which carried an estimated 3.2 million enslaved Africans (1640–early 1800s).",
+   "start": 1688,
+   "end": null,
+   "lifespan": "1688–present",
+   "base": "Lime Street, London",
+   "geo": [
+    51.513,
+    -0.082
+   ],
+   "aliases": [
+    "Lloyd's Coffee House",
+    "New Lloyd's Coffee House"
+   ],
+   "origins": "Began in Edward Lloyd's coffee house (from 1688) where merchants and ship-owners met to arrange marine insurance; the 1771 subscribers formalised the market.",
+   "role_summary": "Underwriters in the Lloyd's market insured slave ships, their cargoes and the enslaved people aboard as property. Several founding subscribers were slave traders or slave-owners.",
+   "roleDetail": [
+    {
+     "t": "Marine insurance of slaving voyages.",
+     "d": "Policies covered ships and captives as cargo, with 'perils of the sea' and insurrection clauses.",
+     "basis": "documented"
+    },
+    {
+     "t": "Founders' links.",
+     "d": "Founding subscriber Simon Fraser held at least 162 enslaved people and received compensation for a Dominica plantation.",
+     "basis": "documented"
+    },
+    {
+     "t": "Angerstein.",
+     "d": "Lloyd's research found John Julius Angerstein was not a slave trader but benefited through marine insurance; it dropped calling him 'Father of Lloyd's'.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "In June 2020 Lloyd's apologised for its 'shameful' role and pledged funding for Black and ethnic-minority causes, and later published research on its 1771 founders with Lancaster University's William Pettigrew.",
+   "legacyDetail": [
+    {
+     "t": "2020 apology.",
+     "d": "Issued alongside Greene King after LBS database coverage.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Lloyd's — 1771 founders (Transatlantic slave trade research)",
+     "url": "https://www.lloyds.com/about-lloyds/history/the-trans-atlantic-slave-trade/1771-founders"
+    },
+    {
+     "label": "Lloyd's — John Julius Angerstein history report",
+     "url": "https://assets.lloyds.com/media/262917ee-14c2-4fea-812f-deb3d2bc8b7b/Lloyds_John-Julius-Angerstein_history-report_v5.pdf"
+    },
+    {
+     "label": "Insurance Business — Lloyd's of London apologises over founders' slavery links",
+     "url": "https://www.insurancebusinessmag.com/uk/news/breaking-news/lloyds-of-london-apologises-over-founders-slavery-links-225611.aspx"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-london",
+     "type": "finance",
+     "label": "insured London ships"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "finance",
+     "label": "insured Liverpool ships"
+    },
+    {
+     "id": "port-bristol",
+     "type": "finance",
+     "label": "insured Bristol ships"
+    },
+    {
+     "id": "greene-king",
+     "type": "parallel",
+     "label": "joint-day 2020 apologies"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "founders compensated"
+    }
+   ]
+  },
+  {
+   "id": "bank-of-england",
+   "name": "Bank of England",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Owned two Grenada plantations and 599 enslaved people in the late 1780s after a 1772 £160,000 loan defaulted; LBS-based press analyses in 2020 counted at least 11 former governors and 16 early directors (c. 25–27 people) with slavery links.",
+   "start": 1772,
+   "end": null,
+   "lifespan": "1694–present",
+   "base": "Threadneedle Street, London",
+   "geo": [
+    51.514,
+    -0.089
+   ],
+   "aliases": [
+    "The Old Lady of Threadneedle Street"
+   ],
+   "origins": "Founded in 1694 as banker to the English government. Its directors and governors came from the City merchant elite, including West India merchants and slave-owners.",
+   "role_summary": "Lent £160,000 in 1772 against the Bacolet and Chemin plantations in Grenada, took sole possession in the late 1780s with 599 enslaved people, and sold them in 1790. Former governors such as Jeremiah Harman and Benjamin Buck Greene had slavery-derived wealth.",
+   "roleDetail": [
+    {
+     "t": "Plantation owner by foreclosure.",
+     "d": "A 1788 inventory names the 599 enslaved women, men and children the Bank owned.",
+     "basis": "documented"
+    },
+    {
+     "t": "Governors' links.",
+     "d": "Estimates differ: at least 11 governors and 16 directors (Guardian/LBS, 2020), 25 governors and directors (City AM), up to 44 associated individuals (Positive Money).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "In June 2020 the Bank apologised for 'inexcusable' links of former governors and directors and removed their portraits. Its museum ran the 'Slavery & the Bank' exhibition (2022–24).",
+   "legacyDetail": [
+    {
+     "t": "Critique.",
+     "d": "Campaigners argue acknowledgement has not been matched by action.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Bank of England Museum — A Story of Archival Discovery: The Bank and the Grenada Plantations",
+     "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/a-story-of-archival-discovery"
+    },
+    {
+     "label": "Bank of England Museum — Beginning the exhibition: Slavery & the Bank",
+     "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/beginning-the-exhibition-slavery-and-the-bank"
+    },
+    {
+     "label": "CNN — Bank of England apologizes for slave trade links",
+     "url": "https://amp.cnn.com/cnn/2020/06/19/business/bank-of-england-slavery-apology"
+    },
+    {
+     "label": "Positive Money — Slavery & the Bank: acknowledgement is not action",
+     "url": "https://positivemoney.org/2022/06/slavery-the-bank-acknowledgement-is-not-action/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "bank-of-england-grenada-plantations",
+     "type": "plantation",
+     "label": "owned 1780s–1790"
+    },
+    {
+     "id": "greene-king",
+     "type": "family",
+     "label": "Benjamin Buck Greene governor 1873–75"
+    },
+    {
+     "id": "south-sea-company",
+     "type": "political",
+     "label": "public-debt rival"
+    },
+    {
+     "id": "compensation-loan-1835",
+     "type": "finance",
+     "label": "government finance context"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "LBS revealed directors' links"
+    }
+   ]
+  },
+  {
+   "id": "nm-rothschild",
+   "name": "N M Rothschild & Sons",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Britain",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Nathan Mayer Rothschild, with Moses Montefiore and a consortium, was contractor for the 1835 'West India loan', raised by selling government consols and annuities, which funded the greater part (c. £15m) of the £20 million paid to slave-owners; it was not a slave-trading firm.",
+   "start": 1835,
+   "end": null,
+   "lifespan": "c. 1809–present",
+   "base": "New Court, St Swithin's Lane, London",
+   "geo": [
+    51.512,
+    -0.089
+   ],
+   "aliases": [
+    "Nathan Mayer Rothschild",
+    "Rothschild & Co"
+   ],
+   "origins": "Founded in London by Nathan Mayer Rothschild (1777–1836) in the early 19th century; it became a leading arranger of British government loans.",
+   "role_summary": "Led the consortium that took up the 1835 'West India loan' the Treasury used to pay slave-owners compensation under the 1833 Act. The Rothschild Archive presents Nathan's role as supporting abolition by financing the compensation that made it possible.",
+   "roleDetail": [
+    {
+     "t": "Compensation loan, 1835.",
+     "d": "Arranged with Moses Montefiore; the remaining c. £5m came from other Treasury funds.",
+     "basis": "documented"
+    },
+    {
+     "t": "Collateral in enslaved people.",
+     "d": "2009 Financial Times research reported that Nathan Mayer Rothschild had taken enslaved people in Antigua as loan collateral; the firm said it 'greatly regrets' any link.",
+     "basis": "documented"
+    },
+    {
+     "t": "Framing.",
+     "d": "Whether the loan is seen as aiding abolition or rewarding slave-owners is a matter of interpretation; the money went to owners, not the enslaved.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The successor Rothschild & Co still operates. The 1835 borrowing was later folded into other government stock; a February 2018 HM Treasury tweet (later deleted) said it was finally paid off in 2015, though Full Fact notes that how much of the original debt was still outstanding by then is unknown.",
+   "legacyDetail": [
+    {
+     "t": "2009 statement of regret.",
+     "d": "Issued alongside law firm Freshfields after FT research.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "The Rothschild Archive — Guide to the Archive: The West India loan",
+     "url": "https://guide-to-the-archive.rothschildarchive.org/the-london-banking-house/depts/loans-business/the-west-india-loan"
+    },
+    {
+     "label": "Reuters via Investing.com — UK law firm and bank regret slave trade links",
+     "url": "https://investing.com/news/equities-news/uk-law-firm-and-bank-regret-slave-trade-links-68078"
+    },
+    {
+     "label": "Business & Human Rights Resource Centre — Businesses regret links with slavery",
+     "url": "https://www.business-humanrights.org/en/businesses-regret-links-with-slavery"
+    },
+    {
+     "label": "Full Fact — What we know about the government loan to pay slave owners compensation",
+     "url": "https://fullfact.org/economy/slavery-abolition-act-loan/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "compensation-loan-1835",
+     "type": "finance",
+     "label": "arranged £15m loan"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "finance",
+     "label": "financed compensation"
+    },
+    {
+     "id": "slave-compensation-commission",
+     "type": "finance",
+     "label": "funded awards"
+    },
+    {
+     "id": "bank-of-england",
+     "type": "finance",
+     "label": "City government finance"
+    }
+   ]
+  },
+  {
+   "id": "greene-king",
+   "name": "Greene King (Benjamin Greene)",
+   "category": "Companies & Banks",
+   "role": "Planter & Enslaver",
+   "nation": "Britain",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Founder Benjamin Greene (1780–1860) owned estates in St Kitts and Montserrat and was awarded £4,033 15s 7d compensation for 231 enslaved people (per LBS; the Telegraph put it at c. £500,000 today).",
+   "start": 1829,
+   "end": null,
+   "lifespan": "1799–present",
+   "base": "Bury St Edmunds, Suffolk",
+   "geo": [
+    52.243,
+    0.716
+   ],
+   "aliases": [
+    "Benjamin Greene",
+    "Benjamin Buck Greene",
+    "Blyth & Greene"
+   ],
+   "origins": "Benjamin Greene, a former Whitbread apprentice, founded the Bury St Edmunds brewery in 1799 and acquired West India estates, which his son Benjamin Buck Greene managed from 1829.",
+   "role_summary": "Greene owned plantations worked by enslaved people, used his newspaper to oppose abolition, and claimed compensation in the 1830s. The family firm Blyth & Greene later became a major colonial shipping house.",
+   "roleDetail": [
+    {
+     "t": "Pro-slavery publisher.",
+     "d": "Greene King's 2020 statement called his profiting from slavery and opposition to abolition 'inexcusable'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bank of England link.",
+     "d": "Son Benjamin Buck Greene was Bank of England governor 1873–75 (per LBS).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Greene King, now one of Britain's largest pub and brewing groups, apologised in June 2020 and pledged investment in BAME communities. The brewery was run by another son, Edward Greene.",
+   "legacyDetail": [
+    {
+     "t": "2020 apology.",
+     "d": "Made the same day as Lloyd's of London, prompted by the LBS database.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "ITV News — Greene King and Lloyd's of London apologise for slavery links",
+     "url": "https://itv.com/news/2020-06-18/lloyds-of-london-and-greene-king-to-pay-over-slave-links"
+    },
+    {
+     "label": "UCL News — Opinion: The slavery business contributed to the building of modern Britain",
+     "url": "https://www.ucl.ac.uk/news/2020/jun/opinion-slavery-business-contributed-building-modern-britain-can-we-make-amends"
+    },
+    {
+     "label": "UCL LBS — Benjamin Buck Greene",
+     "url": "https://www.ucl.ac.uk/lbs/person/view/1265637725"
+    },
+    {
+     "label": "UCL LBS — Benjamin Greene (1780–1860)",
+     "url": "https://www.ucl.ac.uk/lbs/person/view/25002"
+    }
+   ],
+   "connections": [
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "founder compensated"
+    },
+    {
+     "id": "bank-of-england",
+     "type": "family",
+     "label": "son became governor"
+    },
+    {
+     "id": "lloyds-of-london",
+     "type": "parallel",
+     "label": "same-day 2020 apologies"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "documented in LBS"
+    }
+   ]
+  },
+  {
+   "id": "slavery-abolition-act-1833",
+   "name": "Slavery Abolition Act 1833 & £20m compensation",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Act ending slavery in most British colonies from 1 August 1834, replaced by 'apprenticeship' until 1838. Parliament voted £20 million (c. 40% of annual government spending) to compensate slave-owners; the enslaved received nothing. Payments went to some 40,000+ claimants listed in the LBS database.",
+   "start": 1833,
+   "geo": [
+    51.499,
+    -0.125
+   ],
+   "connections": [
+    {
+     "id": "slave-compensation-commission",
+     "type": "legacy",
+     "label": "administered compensation"
+    },
+    {
+     "id": "compensation-loan-1835",
+     "type": "finance",
+     "label": "funded by loan"
+    },
+    {
+     "id": "gladstone-family",
+     "type": "legacy",
+     "label": "awardee"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "claims database"
+    },
+    {
+     "id": "slave-trade-act-1807",
+     "type": "political",
+     "label": "followed trade ban"
+    }
+   ]
+  },
+  {
+   "id": "slave-compensation-commission",
+   "name": "Slave Compensation Commission",
+   "type": "entity",
+   "kind": "Institution",
+   "description": "Body that met from October 1833 to adjudicate and distribute the £20 million, using colonial slave registers; payments were made by the National Debt Office (1835–43). Its records (T 71, NDO 4) at The National Archives underpin the UCL LBS database.",
+   "start": 1833,
+   "geo": [
+    51.481,
+    -0.28
+   ],
+   "connections": [
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "charter",
+     "label": "created under Act"
+    },
+    {
+     "id": "nm-rothschild",
+     "type": "finance",
+     "label": "loan funded awards"
+    },
+    {
+     "id": "ucl-legacies-of-british-slavery",
+     "type": "legacy",
+     "label": "records digitised"
+    }
+   ]
+  },
+  {
+   "id": "compensation-loan-1835",
+   "name": "1835 £15m compensation loan",
+   "type": "entity",
+   "kind": "Loan / public debt",
+   "description": "£15 million raised in 1835 by a syndicate led by Nathan Mayer Rothschild and Moses Montefiore (the 'West India loan'), funding most of the £20 million compensation to slave-owners; the other £5 million was paid directly in government stock. The debt was later merged into other gilts and finally redeemed in 2015 during government debt restructuring, as a since-deleted February 2018 HM Treasury tweet publicised; Full Fact notes that how much of the original sum remained outstanding by 2015 is unknown.",
+   "start": 1835,
+   "connections": [
+    {
+     "id": "nm-rothschild",
+     "type": "finance",
+     "label": "arranged by"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "finance",
+     "label": "funded compensation"
+    },
+    {
+     "id": "bank-of-england",
+     "type": "finance",
+     "label": "government debt management"
+    }
+   ]
+  },
+  {
+   "id": "port-liverpool",
+   "name": "Port of Liverpool",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Overtook London and Bristol by the 1740s and by 1750 sent more slaving voyages than both combined; in 1793–1807 it accounted for roughly 80–85% of British slaving voyages. Liverpool ships carried an estimated well over 1 million Africans before 1807.",
+   "start": 1699,
+   "geo": [
+    53.401,
+    -2.995
+   ],
+   "connections": [
+    {
+     "id": "william-davenport",
+     "type": "trade",
+     "label": "home port"
+    },
+    {
+     "id": "tarleton-family",
+     "type": "trade",
+     "label": "home port"
+    },
+    {
+     "id": "international-slavery-museum",
+     "type": "legacy",
+     "label": "museum at Albert Dock"
+    },
+    {
+     "id": "kingdom-of-bonny",
+     "type": "trade",
+     "label": "main Biafran partner"
+    }
+   ]
+  },
+  {
+   "id": "port-bristol",
+   "name": "Port of Bristol",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Britain's leading slaving port in the 1730s–40s (c. 38% of British voyages in 1739–48), with an estimated 2,000+ slaving voyages overall carrying around half a million Africans. Its sugar and tobacco trade funded much of Georgian Bristol.",
+   "start": 1698,
+   "geo": [
+    51.449,
+    -2.598
+   ],
+   "connections": [
+    {
+     "id": "edward-colston",
+     "type": "legacy",
+     "label": "city benefactor"
+    },
+    {
+     "id": "pinney-family",
+     "type": "trade",
+     "label": "sugar merchants"
+    },
+    {
+     "id": "statue-of-edward-colston",
+     "type": "legacy",
+     "label": "statue toppled 2020"
+    },
+    {
+     "id": "georgian-house-bristol",
+     "type": "legacy",
+     "label": "museum"
+    }
+   ]
+  },
+  {
+   "id": "port-london",
+   "name": "Port of London",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Base of the Royal African and South Sea companies and England's leading slaving port until the 1720s; it remained the financial, insurance and sugar-importing centre of the slavery economy. Robert Milligan's statue at West India Quay was removed in June 2020.",
+   "start": 1562,
+   "geo": [
+    51.507,
+    -0.075
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "company base"
+    },
+    {
+     "id": "west-india-docks",
+     "type": "legacy",
+     "label": "sugar docks 1802"
+    },
+    {
+     "id": "lloyds-of-london",
+     "type": "finance",
+     "label": "insurance market"
+    },
+    {
+     "id": "south-sea-company",
+     "type": "trade",
+     "label": "company base"
+    }
+   ]
+  },
+  {
+   "id": "bunce-island",
+   "name": "Bunce Island",
+   "type": "entity",
+   "kind": "Fort / trading castle",
+   "description": "Island fort in the Sierra Leone River, used by the RAC and from 1748 by Grant, Oswald & Co., which made it the largest British slave castle on the Rice Coast. Many captives went to South Carolina and Georgia rice plantations via Henry Laurens; it later passed to Oswald's nephews, the Andersons.",
+   "start": 1670,
+   "geo": [
+    8.57,
+    -13.04
+   ],
+   "connections": [
+    {
+     "id": "richard-oswald",
+     "type": "ownership",
+     "label": "Grant, Oswald & Co."
+    },
+    {
+     "id": "henry-laurens",
+     "type": "trade",
+     "label": "Charleston agent"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "earlier RAC fort"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "main destination"
+    }
+   ]
+  },
+  {
+   "id": "cape-coast-castle",
+   "name": "Cape Coast Castle",
+   "type": "entity",
+   "kind": "Fort / trading castle",
+   "description": "Built as a Swedish lodge (c. 1653) on the Gold Coast, captured by the English in 1664, and expanded by the RAC as its West African headquarters. Captives were held in windowless dungeons before passing the 'Door of No Return'; it was the seat of British Gold Coast administration until 1877 and became a UNESCO World Heritage Site in 1979.",
+   "start": 1664,
+   "geo": [
+    5.103,
+    -1.242
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "RAC headquarters"
+    },
+    {
+     "id": "company-of-merchants-trading-to-africa",
+     "type": "ownership",
+     "label": "run 1752–1821"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "parallel",
+     "label": "nearby Dutch rival"
+    },
+    {
+     "id": "asante-empire",
+     "type": "trade",
+     "label": "inland trade partner"
+    }
+   ]
+  },
+  {
+   "id": "church-of-england",
+   "name": "Church of England (SPG & Queen Anne's Bounty)",
+   "type": "entity",
+   "kind": "University / church",
+   "description": "Through the Society for the Propagation of the Gospel the Church owned the Codrington plantations in Barbados from 1710, and Queen Anne's Bounty (est. 1704) invested heavily in the South Sea Company. Its 2023 report led the Church Commissioners to pledge £100m; Archbishop Justin Welby said he was 'deeply sorry'.",
+   "start": 1710,
+   "geo": [
+    51.497,
+    -0.128
+   ],
+   "connections": [
+    {
+     "id": "codrington-plantations-barbados",
+     "type": "plantation",
+     "label": "SPG-owned estates"
+    },
+    {
+     "id": "south-sea-company",
+     "type": "finance",
+     "label": "Queen Anne's Bounty investment"
+    },
+    {
+     "id": "church-commissioners-fund-2023",
+     "type": "legacy",
+     "label": "£100m fund"
+    },
+    {
+     "id": "codrington-family",
+     "type": "legacy",
+     "label": "received bequest"
+    }
+   ]
+  },
+  {
+   "id": "codrington-plantations-barbados",
+   "name": "Codrington Plantations, Barbados",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Two sugar estates left to the SPG by Christopher Codrington in 1710, worked by enslaved people whom the Society owned; for a period they were branded with the word 'Society'. USPG ended its stewardship in 1983 and has apologised; Codrington College still stands on the land.",
+   "start": 1710,
+   "geo": [
+    13.17,
+    -59.475
+   ],
+   "connections": [
+    {
+     "id": "church-of-england",
+     "type": "ownership",
+     "label": "SPG owner"
+    },
+    {
+     "id": "codrington-family",
+     "type": "legacy",
+     "label": "bequeathed by"
+    }
+   ]
+  },
+  {
+   "id": "company-of-royal-adventurers",
+   "name": "Company of Royal Adventurers into Africa",
+   "type": "entity",
+   "kind": "Chartered company",
+   "description": "Chartered December 1660 under the Duke of York and Prince Rupert, first for gold; its 1663 charter explicitly added the slave trade. War with the Dutch and losses ruined it by 1667, and it was replaced by the Royal African Company in 1672.",
+   "start": 1660,
+   "geo": [
+    51.513,
+    -0.082
+   ],
+   "connections": [
+    {
+     "id": "james-duke-of-york",
+     "type": "ownership",
+     "label": "patron/leader"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "legacy",
+     "label": "succeeded by"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "war rival"
+    }
+   ]
+  },
+  {
+   "id": "company-of-merchants-trading-to-africa",
+   "name": "Company of Merchants Trading to Africa",
+   "type": "entity",
+   "kind": "Chartered company",
+   "description": "Regulated company created by Parliament in 1750 to take over the RAC's forts from 1752, funded by annual parliamentary grants; any British merchant could join. It ran Cape Coast Castle and other forts until abolished in 1821, when the Crown took over.",
+   "start": 1752,
+   "geo": [
+    5.103,
+    -1.242
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "legacy",
+     "label": "successor to"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "ownership",
+     "label": "ran forts"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "served private traders"
+    }
+   ]
+  },
+  {
+   "id": "jesus-of-lubeck",
+   "name": "Jesus of Lübeck",
+   "type": "entity",
+   "kind": "Ship / voyage",
+   "description": "A 700-ton Hanseatic-built warship bought by Henry VIII and lent by Elizabeth I to John Hawkins for his 1564 and 1567 slaving voyages. It was abandoned to the Spanish at San Juan de Ulúa in 1568.",
+   "start": 1564,
+   "connections": [
+    {
+     "id": "elizabeth-i",
+     "type": "ownership",
+     "label": "royal ship"
+    },
+    {
+     "id": "john-hawkins",
+     "type": "voyage",
+     "label": "flagship"
+    }
+   ]
+  },
+  {
+   "id": "heywoods-bank-liverpool",
+   "name": "Heywood's Bank (Liverpool)",
+   "type": "entity",
+   "kind": "Bank / insurer",
+   "description": "Bank founded in Liverpool by slave-trading merchant Arthur Heywood and his brother, established by 1773. Bought by the Bank of Liverpool in 1883, which became Martins Bank, acquired by Barclays in 1969.",
+   "start": 1773,
+   "geo": [
+    53.407,
+    -2.991
+   ],
+   "connections": [
+    {
+     "id": "heywood-family",
+     "type": "ownership",
+     "label": "founded by"
+    },
+    {
+     "id": "barclays",
+     "type": "legacy",
+     "label": "merged into"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "finance",
+     "label": "financed merchants"
+    }
+   ]
+  },
+  {
+   "id": "leyland-and-bullins",
+   "name": "Leyland & Bullins",
+   "type": "entity",
+   "kind": "Bank / insurer",
+   "description": "Liverpool bank opened in 1807 by slave trader Thomas Leyland and his nephew Richard Bullin, which lent to other slave traders. It later passed by amalgamation into Midland Bank, now HSBC.",
+   "start": 1807,
+   "geo": [
+    53.407,
+    -2.989
+   ],
+   "connections": [
+    {
+     "id": "thomas-leyland",
+     "type": "ownership",
+     "label": "founded by"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "finance",
+     "label": "Liverpool lender"
+    }
+   ]
+  },
+  {
+   "id": "west-india-docks",
+   "name": "West India Docks, London",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Secure docks on the Isle of Dogs, opened 1802 and promoted by West India merchants such as George Hibbert and Robert Milligan, to handle slave-grown sugar, rum and coffee. Its surviving warehouse houses the Museum of London Docklands and its 'London, Sugar & Slavery' gallery.",
+   "start": 1802,
+   "geo": [
+    51.506,
+    -0.022
+   ],
+   "connections": [
+    {
+     "id": "hibbert-family",
+     "type": "ownership",
+     "label": "George Hibbert chairman"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "part of port"
+    }
+   ]
+  },
+  {
+   "id": "harewood-house",
+   "name": "Harewood House",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Country house near Leeds built 1759–71 by Edwin Lascelles with wealth from Caribbean sugar and slavery. The Harewood House Trust now researches and openly presents the estate's slavery history.",
+   "start": 1759,
+   "geo": [
+    53.896,
+    -1.509
+   ],
+   "connections": [
+    {
+     "id": "lascelles-family",
+     "type": "ownership",
+     "label": "family seat"
+    }
+   ]
+  },
+  {
+   "id": "georgian-house-bristol",
+   "name": "Georgian House Museum, Bristol",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "John Pinney's c. 1790 town house on Great George Street, a museum since 1939. Displays revised in 2018 tell the story of the Nevis plantation and the enslaved servant Pero Jones.",
+   "start": 1790,
+   "geo": [
+    51.454,
+    -2.604
+   ],
+   "connections": [
+    {
+     "id": "pinney-family",
+     "type": "ownership",
+     "label": "built by Pinney"
+    },
+    {
+     "id": "port-bristol",
+     "type": "legacy",
+     "label": "Bristol museum"
+    }
+   ]
+  },
+  {
+   "id": "mountravers-plantation",
+   "name": "Mountravers plantation, Nevis",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Pinney family sugar plantation on Nevis; research has identified 903 enslaved men, women and children who lived there between 1680/81 and 1834.",
+   "start": 1680,
+   "geo": [
+    17.17,
+    -62.62
+   ],
+   "connections": [
+    {
+     "id": "pinney-family",
+     "type": "plantation",
+     "label": "owned by"
+    }
+   ]
+  },
+  {
+   "id": "statue-of-edward-colston",
+   "name": "Statue of Edward Colston (Bristol)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Bronze statue erected in 1895, toppled by protesters on 7 June 2020 and rolled into Bristol Harbour. Recovered by the council, it is now shown lying down and graffitied in the M Shed museum.",
+   "start": 1895,
+   "geo": [
+    51.453,
+    -2.597
+   ],
+   "connections": [
+    {
+     "id": "edward-colston",
+     "type": "legacy",
+     "label": "commemorated"
+    },
+    {
+     "id": "port-bristol",
+     "type": "legacy",
+     "label": "city centre"
+    }
+   ]
+  },
+  {
+   "id": "bank-of-england-grenada-plantations",
+   "name": "Bacolet & Chemin plantations, Grenada",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Two Grenada sugar estates mortgaged to the Bank of England for £160,000 in 1772; after default the Bank took sole possession in the late 1780s with 599 named enslaved people, then sold them to James Baillie for £100,000 in 1790.",
+   "start": 1772,
+   "connections": [
+    {
+     "id": "bank-of-england",
+     "type": "ownership",
+     "label": "Bank-owned"
+    }
+   ]
+  },
+  {
+   "id": "church-commissioners-fund-2023",
+   "name": "Church Commissioners' £100m fund (2023)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "In January 2023 the Church Commissioners committed £100m over nine years to impact investment, research and grants after finding Queen Anne's Bounty's slavery links; the Church avoids the word 'reparations' because no individuals are paid.",
+   "start": 2023,
+   "connections": [
+    {
+     "id": "church-of-england",
+     "type": "legacy",
+     "label": "Church response"
+    },
+    {
+     "id": "south-sea-company",
+     "type": "legacy",
+     "label": "addresses past investment"
+    }
+   ]
+  },
+  {
+   "id": "ucl-legacies-of-british-slavery",
+   "name": "UCL Legacies of British Slavery database",
+   "type": "entity",
+   "kind": "University / church",
+   "description": "University College London project (begun 2009) that put online the identities of all 40,000+ slave-owners in the British Caribbean, Mauritius and the Cape at abolition, from compensation records. Its findings prompted the 2020 apologies by Lloyd's, Greene King and the Bank of England.",
+   "start": 2009,
+   "geo": [
+    51.525,
+    -0.134
+   ],
+   "connections": [
+    {
+     "id": "slave-compensation-commission",
+     "type": "legacy",
+     "label": "built from its records"
+    },
+    {
+     "id": "lloyds-of-london",
+     "type": "legacy",
+     "label": "prompted apology"
+    },
+    {
+     "id": "bank-of-england",
+     "type": "legacy",
+     "label": "prompted apology"
+    },
+    {
+     "id": "gladstone-family",
+     "type": "legacy",
+     "label": "documents"
+    }
+   ]
+  },
+  {
+   "id": "all-souls-codrington-library",
+   "name": "All Souls College Library (formerly 'Codrington Library')",
+   "type": "entity",
+   "kind": "University / church",
+   "description": "Oxford library built 1716–20 with Christopher Codrington's £10,000 bequest. In 2020 the college stopped using his name, added a memorial plaque to the enslaved and pledged £100,000 to Codrington College, Barbados, but kept his statue.",
+   "start": 1710,
+   "geo": [
+    51.753,
+    -1.253
+   ],
+   "connections": [
+    {
+     "id": "codrington-family",
+     "type": "legacy",
+     "label": "funded by bequest"
+    }
+   ]
+  },
+  {
+   "id": "heirs-of-slavery",
+   "name": "Heirs of Slavery",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Group of descendants of British slave-owners, co-founded by Laura Trevelyan and David Lascelles, that encourages apology and reparative justice and supports CARICOM's reparations call.",
+   "start": 2023,
+   "connections": [
+    {
+     "id": "trevelyan-family",
+     "type": "legacy",
+     "label": "co-founder"
+    },
+    {
+     "id": "lascelles-family",
+     "type": "legacy",
+     "label": "co-founder"
+    },
+    {
+     "id": "gladstone-family",
+     "type": "legacy",
+     "label": "member descendants"
+    }
+   ]
+  },
+  {
+   "id": "slave-trade-act-1807",
+   "name": "Slave Trade Act 1807",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Act of Parliament banning British subjects from the Atlantic slave trade from 1 May 1807 (slavery itself continued until 1834–38). Liverpool's merchants and MPs such as Banastre Tarleton had fought it.",
+   "start": 1807,
+   "geo": [
+    51.499,
+    -0.125
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "political",
+     "label": "ended Liverpool trade"
+    },
+    {
+     "id": "tarleton-family",
+     "type": "political",
+     "label": "opposed"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "political",
+     "label": "followed by"
+    }
+   ]
+  },
+  {
+   "id": "international-slavery-museum",
+   "name": "International Slavery Museum, Liverpool",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "National Museums Liverpool museum at the Albert Dock, opened in 2007 for the bicentenary of the 1807 Act. With the Merseyside Maritime Museum archive it holds the Earle and Davenport papers.",
+   "start": 2007,
+   "geo": [
+    53.4,
+    -2.993
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "legacy",
+     "label": "Liverpool museum"
+    },
+    {
+     "id": "earle-family",
+     "type": "legacy",
+     "label": "holds papers"
+    },
+    {
+     "id": "william-davenport",
+     "type": "legacy",
+     "label": "holds archive"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1562,
+   "title": "Hawkins's first English slaving voyage",
+   "text": "John Hawkins took c. 300 Africans from the Sierra Leone coast and sold them in Spanish Hispaniola, beginning England's transatlantic slave trade.",
+   "ids": [
+    "john-hawkins",
+    "crown-of-castile"
+   ],
+   "source": {
+    "label": "World History Encyclopedia — John Hawkins",
+    "url": "https://www.worldhistory.org/John_Hawkins/"
+   }
+  },
+  {
+   "year": 1564,
+   "title": "Elizabeth I invests in slaving",
+   "text": "The Queen lent the royal ship Jesus of Lübeck to Hawkins's second slaving voyage.",
+   "ids": [
+    "elizabeth-i",
+    "jesus-of-lubeck",
+    "john-hawkins"
+   ],
+   "source": {
+    "label": "Encyclopedia.com — Hawkins, John",
+    "url": "https://www.encyclopedia.com/humanities/news-wires-white-papers-and-books/hawkins-john"
+   }
+  },
+  {
+   "year": 1568,
+   "title": "Defeat at San Juan de Ulúa",
+   "text": "A Spanish fleet attacked Hawkins's third slaving expedition in Mexico; Hawkins and Drake escaped but most ships were lost.",
+   "ids": [
+    "john-hawkins",
+    "francis-drake",
+    "jesus-of-lubeck"
+   ],
+   "source": {
+    "label": "World History Encyclopedia — John Hawkins",
+    "url": "https://www.worldhistory.org/John_Hawkins/"
+   }
+  },
+  {
+   "year": 1660,
+   "title": "Company of Royal Adventurers chartered",
+   "text": "Charles II chartered the company under the Duke of York; its 1663 charter explicitly included the slave trade.",
+   "ids": [
+    "company-of-royal-adventurers",
+    "james-duke-of-york"
+   ],
+   "source": {
+    "label": "Wikipedia — Royal African Company",
+    "url": "https://en.wikipedia.org/wiki/Royal_African_Company"
+   }
+  },
+  {
+   "year": 1672,
+   "title": "Royal African Company founded",
+   "text": "The RAC received a monopoly of English trade to West Africa and became the largest single shipper of enslaved Africans in the trade's history.",
+   "ids": [
+    "royal-african-company",
+    "james-duke-of-york",
+    "edward-colston",
+    "cape-coast-castle"
+   ],
+   "source": {
+    "label": "PBS Africans in America — The Royal African Company",
+    "url": "https://www.pbs.org/wgbh/aia/part1/1p269.html"
+   }
+  },
+  {
+   "year": 1698,
+   "title": "Slave trade opened to all English merchants",
+   "text": "Parliament ended the RAC monopoly, letting private traders from Bristol and later Liverpool expand the trade.",
+   "ids": [
+    "royal-african-company",
+    "port-bristol",
+    "port-liverpool"
+   ],
+   "source": {
+    "label": "Schools History — Lifting of the Royal African Company monopoly",
+    "url": "https://schoolshistory.org.uk/topics/british-empire/economic-consequences-of-empire/lifting-of-the-royal-african-company-monopoly/"
+   }
+  },
+  {
+   "year": 1710,
+   "title": "Codrington bequest to the Church",
+   "text": "Christopher Codrington left two Barbados plantations and their enslaved workers to the SPG, and £10,000 to All Souls College.",
+   "ids": [
+    "codrington-family",
+    "church-of-england",
+    "codrington-plantations-barbados",
+    "all-souls-codrington-library"
+   ],
+   "source": {
+    "label": "All Souls College — The Codrington legacy",
+    "url": "https://www.asc.ox.ac.uk/node/3693"
+   }
+  },
+  {
+   "year": 1713,
+   "title": "Britain wins the asiento",
+   "text": "Under the Treaty of Utrecht, the South Sea Company gained the contract to supply 4,800 enslaved Africans a year to Spanish America for 30 years.",
+   "ids": [
+    "south-sea-company",
+    "spanish-asiento",
+    "crown-of-castile"
+   ],
+   "source": {
+    "label": "Britannica — Asiento de negros",
+    "url": "https://www.britannica.com/print/article/38687"
+   }
+  },
+  {
+   "year": 1748,
+   "title": "Grant, Oswald & Co. buys Bunce Island",
+   "text": "Richard Oswald's London firm took over the Sierra Leone fort, shipping captives to Charleston via Henry Laurens.",
+   "ids": [
+    "richard-oswald",
+    "bunce-island",
+    "henry-laurens"
+   ],
+   "source": {
+    "label": "Yale Gilder Lehrman Center — Bunce Island history",
+    "url": "https://macmillan.yale.edu/glc/bunce-island-history"
+   }
+  },
+  {
+   "year": 1772,
+   "title": "Bank of England's Grenada loan",
+   "text": "The Bank lent £160,000 on two Grenada plantations; after default it came to own 599 enslaved people, selling them in 1790.",
+   "ids": [
+    "bank-of-england",
+    "bank-of-england-grenada-plantations"
+   ],
+   "source": {
+    "label": "Bank of England Museum — A Story of Archival Discovery",
+    "url": "https://www.bankofengland.co.uk/museum/online-collections/blog/a-story-of-archival-discovery"
+   }
+  },
+  {
+   "year": 1823,
+   "title": "Demerara uprising begins on Gladstone estate",
+   "text": "The large 1823 rebellion of enslaved people in Demerara began on John Gladstone's Success plantation and was violently suppressed.",
+   "ids": [
+    "gladstone-family"
+   ],
+   "source": {
+    "label": "AP via WSLS — Descendants of a British owner of slaves in Guyana apologize",
+    "url": "https://www.wsls.com/news/2023/08/25/descendants-of-a-british-owner-of-slaves-in-guyana-apologize-as-caribbean-nation-seeks-reparations/"
+   }
+  },
+  {
+   "year": 1833,
+   "title": "Abolition Act and £20m compensation",
+   "text": "Parliament abolished colonial slavery from 1834 and voted £20 million to slave-owners, distributed by the Slave Compensation Commission; the 1835 £15m loan arranged by N M Rothschild and Moses Montefiore funded most of it.",
+   "ids": [
+    "slavery-abolition-act-1833",
+    "slave-compensation-commission",
+    "compensation-loan-1835",
+    "nm-rothschild",
+    "gladstone-family"
+   ],
+   "source": {
+    "label": "The National Archives — Office of Registry of Colonial Slaves and Slave Compensation Commission records",
+    "url": "https://discovery.nationalarchives.gov.uk/details/r/C13808"
+   }
+  },
+  {
+   "year": 2015,
+   "title": "Compensation borrowing finally repaid",
+   "text": "The last gilts into which the 1835 compensation borrowing had been consolidated were redeemed in 2015; a February 2018 HM Treasury tweet presenting this as a 'fact' drew criticism and was deleted. How much of the original debt was still outstanding is unknown (Full Fact).",
+   "ids": [
+    "compensation-loan-1835",
+    "slavery-abolition-act-1833"
+   ],
+   "source": {
+    "label": "Full Fact — What we know about the government loan to pay slave owners compensation",
+    "url": "https://fullfact.org/economy/slavery-abolition-act-loan/"
+   }
+  },
+  {
+   "year": 2020,
+   "title": "Colston statue toppled; corporate apologies",
+   "text": "Protesters toppled Edward Colston's statue in Bristol on 7 June; within days Lloyd's of London, Greene King and the Bank of England apologised for historic slavery links.",
+   "ids": [
+    "edward-colston",
+    "statue-of-edward-colston",
+    "lloyds-of-london",
+    "greene-king",
+    "bank-of-england",
+    "ucl-legacies-of-british-slavery"
+   ],
+   "source": {
+    "label": "Wikipedia — Statue of Edward Colston",
+    "url": "https://en.wikipedia.org/wiki/Statue_of_Edward_Colston"
+   }
+  },
+  {
+   "year": 2023,
+   "title": "Church fund and family apologies",
+   "text": "The Church Commissioners pledged £100m (January); the Trevelyan family apologised in Grenada (February) and the Gladstone family in Guyana (August).",
+   "ids": [
+    "church-commissioners-fund-2023",
+    "church-of-england",
+    "trevelyan-family",
+    "gladstone-family",
+    "heirs-of-slavery"
+   ],
+   "source": {
+    "label": "Civil Society — Church Commissioners pledges £100m to atone for links to chattel slavery",
+    "url": "https://www.civilsociety.co.uk/news/church-commissioners-pledges-100m-to-atone-for-links-to-chattel-slavery.html"
+   }
+  }
+ ]
+}

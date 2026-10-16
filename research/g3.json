@@ -1,0 +1,2967 @@
+{
+ "records": [
+  {
+   "id": "dutch-west-india-company",
+   "name": "Dutch West India Company (WIC)",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Netherlands",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Dutch-flagged ships carried c. 550,000 captives across the Atlantic (per SlaveVoyages via the African Studies Centre Leiden), and the WIC held the Dutch monopoly on that trade until 1730.",
+   "start": 1621,
+   "end": 1791,
+   "lifespan": "1621–1791 (first WIC 1621–1674; second WIC 1674–1791)",
+   "base": "Amsterdam (West-Indisch Huis), Netherlands",
+   "geo": [
+    52.381,
+    4.889
+   ],
+   "aliases": [
+    "Geoctroyeerde West-Indische Compagnie",
+    "GWC",
+    "WIC"
+   ],
+   "origins": "Chartered by the States General in 1621 as a joint-stock company with a monopoly on Dutch trade and war in the Atlantic, organised in regional chambers (Amsterdam, Zeeland, Maas and others). Its first aims were privateering against Spain and Portugal and seizing Portuguese sugar lands in Brazil; it entered the slave trade to supply Dutch Brazil.",
+   "role_summary": "Between 1637 and 1641 the WIC seized Portuguese slaving posts at Elmina, São Tomé and Luanda, making the Republic a leading slave-trading power. After losing Brazil in 1654 it turned Curaçao into a slave entrepôt supplying Spanish America under asiento sub-contracts, and it shipped captives to Suriname, New Netherland and other colonies.",
+   "roleDetail": [
+    {
+     "t": "Captured Elmina in 1637.",
+     "d": "WIC forces took São Jorge da Mina from the Portuguese in August 1637; it became the WIC's West African headquarters for gold and slave trading into the 19th century.",
+     "basis": "documented"
+    },
+    {
+     "t": "Briefly held Luanda (1641–1648).",
+     "d": "Taking Luanda gave the WIC direct access to the Angolan slave supply for Brazil, and it allied with Queen Nzinga of Ndongo-Matamba against Portugal until Portuguese-Brazilian forces retook the city in 1648.",
+     "basis": "documented"
+    },
+    {
+     "t": "Made Curaçao a regional slave market.",
+     "d": "Curaçao was the dominant Dutch distribution centre for captives sold on to Spanish colonies before the mid-18th century, later overtaken by Sint Eustatius (per SlaveVoyages notes on the intra-American trade).",
+     "basis": "documented"
+    },
+    {
+     "t": "Enslaved people in New Amsterdam.",
+     "d": "The company owned most of the enslaved Africans in New Amsterdam from c. 1626, using them on public works; in 1644 eleven men won 'half-freedom' after nearly two decades of forced labour.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The WIC lost its slave-trade monopoly in 1730 and was dissolved in 1791, when its possessions passed to the Dutch state. Its history underlies the Dutch state's 2022 apology, King Willem-Alexander's 2023 apology, and the 2022 programme marking 400 years since its founding.",
+   "legacyDetail": [
+    {
+     "t": "State apology, 2022.",
+     "d": "PM Mark Rutte apologised on 19 December 2022 for the Dutch state's role in slavery and announced a €200 million awareness fund, rejecting individual reparations.",
+     "basis": "documented"
+    },
+    {
+     "t": "Archives open to research.",
+     "d": "WIC records in the Nationaal Archief in The Hague underpin modern voyage databases, including Curaçao slave trade records for 1700–1730.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "African Studies Centre Leiden — Dutch involvement in the transatlantic slave trade",
+     "url": "https://ascleiden.nl/content/webdossiers/dutch-involvement-transatlantic-slave-trade"
+    },
+    {
+     "label": "Project MANIFEST — The United Provinces and the Transatlantic Slave Trade",
+     "url": "https://www.projectmanifest.eu/the-united-provinces-and-the-transatlantic-slave-trade-en-fr/"
+    },
+    {
+     "label": "Canon van Nederland — Slavernij",
+     "url": "https://www.canonvannederland.nl/en/slavernij"
+    },
+    {
+     "label": "NBC News — Dutch leader apologizes for Netherlands' role in slave trade (2022)",
+     "url": "https://www.nbcnews.com/news/world/dutch-leader-apologizes-netherlands-role-slave-trade-establishes-fund-rcna62423"
+    }
+   ],
+   "connections": [
+    {
+     "id": "elmina-castle",
+     "type": "ownership",
+     "label": "seized Elmina from Portugal, 1637"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "war over Brazil, Elmina and Luanda"
+    },
+    {
+     "id": "port-luanda",
+     "type": "ownership",
+     "label": "occupied Luanda 1641–1648"
+    },
+    {
+     "id": "queen-nzinga",
+     "type": "political",
+     "label": "alliance against Portugal, 1640s"
+    },
+    {
+     "id": "curacao",
+     "type": "ownership",
+     "label": "slave entrepôt for Spanish America"
+    },
+    {
+     "id": "new-amsterdam",
+     "type": "ownership",
+     "label": "owned enslaved Africans in New Amsterdam"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "sub-contracted asiento supplies"
+    },
+    {
+     "id": "house-of-orange",
+     "type": "ownership",
+     "label": "stadholders as chief directors"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "ownership",
+     "label": "one-third shareholder, 1683"
+    }
+   ]
+  },
+  {
+   "id": "middelburgsche-commercie-compagnie",
+   "name": "Middelburgsche Commercie Compagnie (MCC)",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "The largest Dutch slave trader after 1730: it bought 31,095 enslaved Africans between 1732 and 1803 for sale in the Caribbean and Suriname (per Zeeuws Archief/MCC records).",
+   "start": 1732,
+   "end": 1803,
+   "lifespan": "1720–1889",
+   "base": "Middelburg, Zeeland, Netherlands",
+   "geo": [
+    51.499,
+    3.611
+   ],
+   "aliases": [
+    "MCC",
+    "Middelburg Commercial Company"
+   ],
+   "origins": "Founded in Middelburg in 1720 as a general trading company. When the WIC lost its monopoly on the Dutch Atlantic slave trade in 1730, the MCC moved into 'free' slave trading and by the 1740s was the leading Dutch slaver.",
+   "role_summary": "The MCC sent triangular voyages from Zeeland to the West African coast (Gold Coast, Loango and elsewhere) and on to Suriname, Curaçao and Sint Eustatius, selling captives for plantation produce. Between 1756 and 1807 it sent out 92 triangular voyages and 22 other voyages.",
+   "roleDetail": [
+    {
+     "t": "31,095 captives purchased.",
+     "d": "Company records count 31,095 enslaved Africans bought from 1732 to 1803, carried on ships such as the Eenigheid (Unity, 1761–1763).",
+     "basis": "documented"
+    },
+    {
+     "t": "An unusually complete archive.",
+     "d": "Logbooks, surgeons' journals, ledgers and letters survive in the Zeeuws Archief and are on UNESCO's Memory of the World Register. They record trade in detail, but the captives themselves are mostly anonymous.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The MCC stopped slave trading after the British and Dutch bans of the early 19th century and was dissolved in 1889. Its papers passed to the Zeeland archives; online projects such as 'Slavenhandel MCC' now reconstruct individual voyages for the public.",
+   "legacyDetail": [
+    {
+     "t": "UNESCO Memory of the World.",
+     "d": "The MCC archive was inscribed for its detail and condition, making it one of the best-documented slave-trading archives anywhere.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Zeeuwse Ankers — The slave trade",
+     "url": "https://www.zeeuwseankers.nl/en/story/the-slave-trade"
+    },
+    {
+     "label": "Slavenhandel MCC — Middelburgse Commercie Compagnie",
+     "url": "https://eenigheid.slavenhandelmcc.nl/middelburgse-commercie-compagnie-en/?lang=en"
+    },
+    {
+     "label": "Wikipedia — Middelburgsche Commercie Compagnie",
+     "url": "https://en.wikipedia.org/wiki/Middelburgsche_Commercie_Compagnie"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "charter",
+     "label": "traded after WIC monopoly ended, 1730"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "trade",
+     "label": "sold captives in Suriname"
+    },
+    {
+     "id": "curacao",
+     "type": "trade",
+     "label": "sold captives at Curaçao"
+    },
+    {
+     "id": "sint-eustatius",
+     "type": "trade",
+     "label": "sold captives at Sint Eustatius"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "trade",
+     "label": "bought captives on the Gold Coast"
+    }
+   ]
+  },
+  {
+   "id": "house-of-orange",
+   "name": "House of Orange-Nassau (stadholders and monarchs)",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A 2023 government-commissioned study ('Staat en Slavernij') estimated stadholders Willem III–V drew c. €545 million (today's value) from colonial roles and VOC/WIC payments in 1675–1770; the royal-commissioned Leiden study presented on 2 October 2026 estimated c. €576 million in colonial income over 1600–present, mostly from the Dutch East Indies, and 'almost nothing' from the slave trade itself.",
+   "start": 1621,
+   "end": null,
+   "lifespan": "1544–present (stadholders to 1795; monarchy from 1815)",
+   "base": "The Hague, Netherlands",
+   "geo": [
+    52.081,
+    4.306
+   ],
+   "aliases": [
+    "Oranje-Nassau",
+    "Dutch royal family"
+   ],
+   "origins": "The princes of Orange led the Dutch Revolt against Spain and served as stadholders of the Republic. Their political leadership made them patrons and beneficiaries of the VOC and WIC.",
+   "role_summary": "Stadholders received payments from the WIC and VOC, and from 1748/49 held the title of chief director of both companies. As kings after 1815 they presided over a state that kept slavery in Suriname and the Antilles until 1863.",
+   "roleDetail": [
+    {
+     "t": "Paid by the chartered companies.",
+     "d": "Per the 2023 'Staat en Slavernij' research by Raymund Schütz, shareholders arranged to pay the Oranges as if they held c. 3% of shares; Willem III's VOC share alone was c. 1.09 million guilders.",
+     "basis": "documented"
+    },
+    {
+     "t": "Contested weight in the Atlantic trade.",
+     "d": "The royal-commissioned Leiden study (led by Gert Oostindie, presented 2 Oct 2026) found the family earned almost nothing directly from the slave trade, but supported colonialism, including slavery, 'wholeheartedly' and shares responsibility for its survival; only William I (r. 1813–40) had a direct hand in colonial slavery. The 2023 and 2026 studies use different periods and methods.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "On 1 July 2023 (Keti Koti, 160 years after the 1863 abolition), King Willem-Alexander apologised in Amsterdam for the Netherlands' role in slavery and said the monarchs of the House of Orange 'took no steps against it'. He commissioned independent research into the family's colonial income, published in 2026.",
+   "legacyDetail": [
+    {
+     "t": "Royal apology, 2023.",
+     "d": "The king called slavery a crime against humanity and asked forgiveness for his ancestors' part in it; the government still ruled out reparations.",
+     "basis": "documented"
+    },
+    {
+     "t": "Royal-commissioned study, 2026.",
+     "d": "Leiden researchers (presented 2 October 2026) estimated c. €576 million in colonial earnings from 1600 to the present, mostly from the Dutch East Indies; the king called the findings 'heartbreaking and confronting'.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "DutchNews — Dutch royals earned €545 million from slavery and colonialism (2023)",
+     "url": "https://dutchnews.nl/2023/06/dutch-royals-earned-e545-million-from-slavery-and-colonialism"
+    },
+    {
+     "label": "Al Jazeera — Dutch royal house helped slave trade to survive, study finds (2026)",
+     "url": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds"
+    },
+    {
+     "label": "IamExpat — Keti Koti 2023: Why did the Dutch king apologise for slavery?",
+     "url": "https://www.iamexpat.nl/expat-info/dutch-expat-news/keti-koti-2023-why-did-dutch-king-apologise-slavery"
+    },
+    {
+     "label": "DutchReview — King Willem-Alexander apologises for the Netherlands' role in slavery",
+     "url": "https://dutchreview.com/featured/king-willem-alexander-apologises-netherlands-slavery"
+    },
+    {
+     "label": "DutchNews — Dutch royal house earned nearly half a billion from slavery (2026)",
+     "url": "https://www.dutchnews.nl/2026/10/dutch-royal-house-earned-nearly-half-a-billion-from-slavery/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "chief directors / company payments"
+    },
+    {
+     "id": "de-nederlandsche-bank",
+     "type": "charter",
+     "label": "Willem I founded DNB, 1814"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "political",
+     "label": "presided over slaveholding colonies"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "legacy",
+     "label": "king's 2023 apology in Amsterdam"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "political",
+     "label": "Anglo-Dutch rivalry; Willem III later king of England"
+    }
+   ]
+  },
+  {
+   "id": "de-nederlandsche-bank",
+   "name": "De Nederlandsche Bank (DNB)",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Netherlands",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Leiden University research found part of DNB's start-up capital came from slavery-linked investors and that board members held enslaved people; DNB also handled 1863 compensation payments to enslavers.",
+   "start": 1814,
+   "end": null,
+   "lifespan": "1814–present",
+   "base": "Amsterdam, Netherlands",
+   "geo": [
+    52.358,
+    4.899
+   ],
+   "aliases": [
+    "DNB",
+    "Dutch central bank"
+   ],
+   "origins": "Founded in 1814 by King Willem I as a private note-issuing bank to rebuild Dutch finance after French rule. Its founding shareholders and directors included merchants with plantation and slave-economy interests.",
+   "role_summary": "DNB acknowledged involvement in slavery between 1814 and 1863. It financed trade linked to slave-produced goods, had directors who were enslavers, and was involved in paying compensation to plantation owners when slavery was abolished in 1863.",
+   "roleDetail": [
+    {
+     "t": "Slavery-linked capital and directors.",
+     "d": "An independent Leiden University study (2022) found several board members were personally involved in slavery.",
+     "basis": "documented"
+    },
+    {
+     "t": "Compensation to enslavers.",
+     "d": "At abolition in 1863 the Dutch state paid enslavers per person freed, not the freed people, and DNB was involved in those payments, including to its own board members.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "President Klaas Knot apologised on 1 July 2022 (Keti Koti). DNB set up a €5 million fund with the Cultuurfonds for initiatives led by descendants of enslaved people, plus €5 million for education and heritage projects.",
+   "legacyDetail": [
+    {
+     "t": "Apology and funds, 2022.",
+     "d": "DNB apologised publicly, created two €5 million funds and pledged support to the national research centre on slavery history.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "DNB — DNB apologises for its historical links to slavery (2022)",
+     "url": "https://www.dnb.nl/en/general-news/2022/dnb-apologises-for-its-historical-links-to-slavery"
+    },
+    {
+     "label": "DNB — Apologies and measures",
+     "url": "https://dnb.nl/en/about-us/dnb-s-links-to-slavery/apologies-and-measures"
+    },
+    {
+     "label": "Al Jazeera — Dutch central bank apologises for historic links to slave trade",
+     "url": "https://www.aljazeera.com/news/2022/7/1/dutch-central-bank-apologises-for-historic-links-to-slave"
+    }
+   ],
+   "connections": [
+    {
+     "id": "house-of-orange",
+     "type": "charter",
+     "label": "founded by King Willem I"
+    },
+    {
+     "id": "abn-amro",
+     "type": "parallel",
+     "label": "Dutch bank apologies, 2022"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "finance",
+     "label": "paid 1863 compensation to Suriname enslavers"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "finance",
+     "label": "Amsterdam merchant capital"
+    }
+   ]
+  },
+  {
+   "id": "abn-amro",
+   "name": "ABN AMRO (predecessors Hope & Co. and R. Mees & Zoonen)",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "IISH research found c. 25–33% of predecessor Hope & Co.'s revenue in sample years (1770, 1790) came from slavery, and that it was financially involved in at least 73 Caribbean plantations; Mees & Zoonen arranged at least 16 insurance policies on slave ships.",
+   "start": 1762,
+   "end": null,
+   "lifespan": "1720s–present (via predecessors)",
+   "base": "Amsterdam, Netherlands",
+   "geo": [
+    52.338,
+    4.873
+   ],
+   "aliases": [
+    "Hope & Co.",
+    "R. Mees & Zoonen",
+    "MeesPierson"
+   ],
+   "origins": "ABN AMRO is the product of many mergers. Its legal predecessors include the Amsterdam merchant bank Hope & Co. (a major 18th-century international house) and the Rotterdam firm R. Mees & Zoonen.",
+   "role_summary": "Hope & Co. lent to plantation owners in Dutch, British and Danish colonies with enslaved people as security, traded slave-produced goods and sometimes pushed plantation managers to buy or sell enslaved people. Mees & Zoonen insured captives aboard slave ships.",
+   "roleDetail": [
+    {
+     "t": "Plantation lender.",
+     "d": "Hope & Co. financed at least 73 Caribbean plantations and was involved in their day-to-day management (IISH, 2022).",
+     "basis": "documented"
+    },
+    {
+     "t": "Insurer of slave voyages.",
+     "d": "R. Mees & Zoonen arranged insurance on enslaved people carried on ships, and partners invested in Rotterdam funds for Suriname plantations.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "After commissioning research from the International Institute of Social History, ABN AMRO apologised in April 2022 for its predecessors' role, while declining to pay reparations.",
+   "legacyDetail": [
+    {
+     "t": "Apology, April 2022.",
+     "d": "CEO Robert Swaak apologised for 'the pain and suffering' caused; the bank said it would fund awareness projects, not reparations.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "ABN AMRO — ABN AMRO apologizes for historic involvement in slavery",
+     "url": "https://abnamro.com/en/news/abn-amro-apologizes-for-historic-involvement-in-slavery"
+    },
+    {
+     "label": "IISH — Research shows large-scale involvement in slavery of ABN AMRO predecessors",
+     "url": "https://iisg.amsterdam/en/blog/research-iish-shows-large-scale-involvement-slavery-predecessors-abn-amro"
+    },
+    {
+     "label": "IISH — Conclusions report (PDF)",
+     "url": "https://iisg.amsterdam/files/2022-04/IISG-Conclusions-ABN-AMRO-ENG.pdf"
+    },
+    {
+     "label": "Al Jazeera — Dutch bank ABN Amro apologises for role in slave trade",
+     "url": "https://www.aljazeera.com/news/2022/4/13/dutch-bank-abn-amro-apologises-for-role-in-slave-trade"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hope-and-co",
+     "type": "legacy",
+     "label": "legal predecessor"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "finance",
+     "label": "plantation loans in Suriname"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "finance",
+     "label": "loans to Danish colony plantations"
+    },
+    {
+     "id": "de-nederlandsche-bank",
+     "type": "parallel",
+     "label": "Dutch bank apologies, 2022"
+    }
+   ]
+  },
+  {
+   "id": "coymans-family",
+   "name": "Coymans family (Balthasar Coymans)",
+   "category": "European Families",
+   "role": "Broker & Agent",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Balthasar Coymans's 1685 asiento obliged him to deliver more than 22,000 enslaved people to Spanish America within 4.5 years (per Ramona Negrón's research); the contract largely failed.",
+   "start": 1685,
+   "end": 1689,
+   "lifespan": "c. 1580–1700 (family firm); Balthasar Coymans 1652–1686",
+   "base": "Amsterdam / Cádiz",
+   "geo": [
+    52.373,
+    4.893
+   ],
+   "aliases": [
+    "Coymans asiento",
+    "Baltazar Coymans"
+   ],
+   "origins": "A Flemish-Dutch merchant dynasty with branches in Amsterdam, Haarlem and Cádiz that traded silver, spices and textiles with the Spanish Americas.",
+   "role_summary": "In 1685 Balthasar Coymans obtained the Spanish asiento de negros, the licence to supply enslaved Africans to Spanish America. He relied on the WIC to buy captives and on Curaçao as the depot, sending agents across the Caribbean.",
+   "roleDetail": [
+    {
+     "t": "Dutch control of the asiento.",
+     "d": "The contract put the Spanish slave supply in Dutch hands; evidence for it survives in archives in the Netherlands, Spain, Curaçao, Jamaica, Colombia, Cuba, Mexico and Panama.",
+     "basis": "documented"
+    },
+    {
+     "t": "Collapse after his death.",
+     "d": "Coymans died in 1686 and the contract ended in disputes with Spain; one effect was that captives held on Curaçao 'piled up' unsold.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The family's role is the subject of new scholarship (Negrón's Leiden dissertation and a Routledge book) on Dutch entrepreneurs who worked inside other empires' slave systems.",
+   "legacyDetail": [
+    {
+     "t": "Recovered by recent research.",
+     "d": "Historians now use the Coymans case to show how Dutch capital served the Spanish slave trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Leiden University Scholarly Publications — Negrón, Coymans and the asiento",
+     "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A4210669/view"
+    },
+    {
+     "label": "American Historical Association 2025 — The Transimperial Slave Trade: Dutch Entrepreneurs in Other Empires",
+     "url": "https://aha.confex.com/aha/2025/webprogram/Paper39227.html"
+    },
+    {
+     "label": "Routledge — Silver, Spices and the Slave Trade: The Coymans Family",
+     "url": "https://www.routledge.com/Silver-Spices-and-the-Slave-Trade-The-Coymans-Family-and-Dutch-Entrepreneurship-in-the-Spanish-Americas-1580-1700/Negron/p/book/9781041199960"
+    }
+   ],
+   "connections": [
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "held the asiento, 1685"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "contract with the Spanish Crown"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "trade",
+     "label": "bought captives from the WIC"
+    },
+    {
+     "id": "curacao",
+     "type": "trade",
+     "label": "used Curaçao as depot"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "agents in Cuba"
+    }
+   ]
+  },
+  {
+   "id": "van-aerssen-van-sommelsdijck-family",
+   "name": "Van Aerssen van Sommelsdijck family",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "One-third owners of the Society of Suriname (1683–1770); by 1713 the colony had c. 200 plantations worked by c. 13,000 enslaved Africans.",
+   "start": 1683,
+   "end": 1770,
+   "lifespan": "1683–1770 (Suriname stake)",
+   "base": "Sommelsdijk / The Hague, Netherlands",
+   "geo": [
+    51.756,
+    4.15
+   ],
+   "aliases": [
+    "Cornelis van Aerssen van Sommelsdijck"
+   ],
+   "origins": "A Dutch noble family. Cornelis van Aerssen van Sommelsdijck bought a one-third share of the new Society of Suriname in 1683, alongside the city of Amsterdam and the WIC.",
+   "role_summary": "Cornelis became the colony's first governor under the Society and expanded plantations and repression of Maroon communities; he was killed by mutinous soldiers in 1688. The family kept its third share until selling it in 1770.",
+   "roleDetail": [
+    {
+     "t": "Governor of Suriname, 1683–1688.",
+     "d": "He ran a colony whose sugar, coffee and cocoa were produced by enslaved Africans and shipped to Amsterdam.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sold out in 1770.",
+     "d": "The family sold its share for c. 700,000 guilders.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Fort Sommelsdijk in Suriname bears the family's name. Their stake shows how noble families shared directly in colonial plantation profits alongside cities and companies.",
+   "legacyDetail": [
+    {
+     "t": "Name on the landscape.",
+     "d": "Fort Sommelsdijk, at the meeting of the Commewijne and Cottica rivers, was built under Cornelis's governorship.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Society of Suriname",
+     "url": "https://en.wikipedia.org/wiki/Society_of_Suriname"
+    },
+    {
+     "label": "Wikipedia — Cornelis van Aerssen van Sommelsdijck",
+     "url": "https://en.wikipedia.org/wiki/Cornelis_van_Aerssen_van_Sommelsdijck"
+    }
+   ],
+   "connections": [
+    {
+     "id": "society-of-suriname",
+     "type": "ownership",
+     "label": "one-third shareholder"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "ownership",
+     "label": "co-owner with the city of Amsterdam"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "co-owner with the WIC"
+    }
+   ]
+  },
+  {
+   "id": "compagnie-des-indes",
+   "name": "Compagnie des Indes (French Indies Company)",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "France",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Held the French slave-trade monopoly for Senegal from 1718 and for Guinea in the 1720s; it carried the first captives to Louisiana (1719), where 23 voyages landed c. 6,235 Africans by 1769 (per SlaveVoyages), but sent only c. 16% of French slave ships in 1720–1749.",
+   "start": 1718,
+   "end": 1769,
+   "lifespan": "1664–1794 (successive companies)",
+   "base": "Lorient (Port-Louis) and Paris, France",
+   "geo": [
+    47.748,
+    -3.367
+   ],
+   "aliases": [
+    "Compagnie d'Occident",
+    "Mississippi Company",
+    "John Law's Company",
+    "Compagnie perpétuelle des Indes"
+   ],
+   "origins": "Formed from John Law's Compagnie d'Occident (1717), which absorbed the earlier Senegal and Guinea companies and the East India Company to become the Compagnie des Indes in 1719. It was tied to Law's bank and the 'Mississippi bubble'.",
+   "role_summary": "The company held legal monopolies on French slave trading in West Africa and on Louisiana's trade, running forts at Saint-Louis, Gorée and Ouidah. In practice private shipowners from Nantes and other ports did most French slave trading under licence.",
+   "roleDetail": [
+    {
+     "t": "First captives to Louisiana.",
+     "d": "The company ship Duc du Maine landed the first African captives in Louisiana on 6 June 1719, from Senegambia.",
+     "basis": "documented"
+    },
+    {
+     "t": "Lorient as a slave port.",
+     "d": "Between 1723 and 1725 Lorient was among the first slave ports of France, per the French Service historique de la Défense.",
+     "basis": "documented"
+    },
+    {
+     "t": "Formal monopoly, small share.",
+     "d": "A study of the Ouidah trade finds the company sent only 16.1% of French slave ships in 1720–1749, so its legal monopoly overstated its actual role.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Louisiana returned to the Crown in 1731 and the company lost its monopoly in 1769; it was finally wound up in the Revolution. Lorient, the city it founded, keeps its history in the Musée de la Compagnie des Indes in Port-Louis.",
+   "legacyDetail": [
+    {
+     "t": "A city built by the company.",
+     "d": "Lorient takes its name from the company's port (L'Orient) and the Port-Louis citadel houses a museum of the company.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — John Law's Company",
+     "url": "https://en.wikipedia.org/wiki/John_Law%27s_Company"
+    },
+    {
+     "label": "BnF France–Amériques — Commercial companies",
+     "url": "https://heritage.bnf.fr/france-ameriques/en/commercial-companies"
+    },
+    {
+     "label": "Service historique de la Défense — La Compagnie des Indes (PDF)",
+     "url": "https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-12/la_compagnie_des_Indes.pdf"
+    },
+    {
+     "label": "Wikipedia — Duc du Maine (slave ship)",
+     "url": "https://en.wikipedia.org/wiki/Duc_du_Maine_(slave_ship)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "crown-of-france",
+     "type": "charter",
+     "label": "royal monopoly"
+    },
+    {
+     "id": "compagnie-du-senegal",
+     "type": "legacy",
+     "label": "absorbed Senegal company, 1718"
+    },
+    {
+     "id": "compagnie-de-guinee",
+     "type": "legacy",
+     "label": "absorbed Guinea company"
+    },
+    {
+     "id": "goree-island",
+     "type": "ownership",
+     "label": "held Gorée"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "French fort at Ouidah"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "trade",
+     "label": "bought captives via Ouidah"
+    },
+    {
+     "id": "port-nantes",
+     "type": "charter",
+     "label": "licensed Nantes shipowners"
+    }
+   ]
+  },
+  {
+   "id": "montaudoin-family",
+   "name": "Montaudoin family (Montaudouin)",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "France",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Among Nantes's leading slave-trading houses for much of the 18th century; one secondary source credits the family with 357 ships, though voyage counts vary between sources.",
+   "start": 1698,
+   "end": 1789,
+   "lifespan": "1698–1789",
+   "base": "Nantes, France",
+   "geo": [
+    47.213,
+    -1.554
+   ],
+   "aliases": [
+    "René Montaudoin et consors",
+    "Montaudoüin de La Touche"
+   ],
+   "origins": "A Nantes merchant family whose outfitting firm, René Montaudouin et consors, operated from 1698 to 1730. Two branches were ennobled in 1750 by buying offices of royal secretary.",
+   "role_summary": "The Montaudoins outfitted slave ships to West Africa and sold captives in the French Caribbean, especially Saint-Domingue and Martinique. René Montaudoin owned La Concorde, which made slaving voyages in 1713–14, 1715–16 and 1717 before pirates seized it and it became Blackbeard's Queen Anne's Revenge.",
+   "roleDetail": [
+    {
+     "t": "Owner of La Concorde.",
+     "d": "On its third voyage La Concorde embarked 516 captives at Ouidah (Juda); 61 died in the crossing, and it was seized by Blackbeard's pirates on 28 November 1717 near Martinique with 455 captives aboard. Renamed Queen Anne's Revenge, it ran aground off Beaufort, North Carolina, in June 1718; the wreck is being excavated.",
+     "basis": "documented"
+    },
+    {
+     "t": "Kept trading to the Revolution.",
+     "d": "The family continued large-scale outfitting until the eve of the Revolution; Jean-Gabriel Montaudoüin de La Touche corresponded with Benjamin Franklin.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Their mansions stand in Nantes's Feydeau district, built on slave-trade profits. Nantes, once France's leading slave port, opened the Mémorial de l'abolition de l'esclavage in 2012.",
+   "legacyDetail": [
+    {
+     "t": "Built heritage.",
+     "d": "The Feydeau quarter's 18th-century merchant houses, including Montaudoin homes, are now part of Nantes's slavery-memory trails.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Nantes slave trade",
+     "url": "https://en.wikipedia.org/wiki/Nantes_slave_trade"
+    },
+    {
+     "label": "Queen Anne's Revenge Project — Researching La Concorde in Nantes",
+     "url": "https://qaronline.org/blog/2020-03-24/research-in-nantes"
+    },
+    {
+     "label": "Papers of Benjamin Franklin — Montaudoüin de La Touche, Jean-Gabriel",
+     "url": "https://franklinpapers.org/bio?id=312"
+    },
+    {
+     "label": "Queen Anne's Revenge Project — Who was on La Concorde?",
+     "url": "https://qaronline.org/blog/2019-07-27/who-was-on-la-concorde"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-nantes",
+     "type": "voyage",
+     "label": "Nantes outfitters"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "sold captives in the French Caribbean"
+    },
+    {
+     "id": "nantes-memorial",
+     "type": "legacy",
+     "label": "remembered in Nantes's memorial"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "charter",
+     "label": "traded under company licences"
+    }
+   ]
+  },
+  {
+   "id": "gradis-family",
+   "name": "Gradis family (David & Abraham Gradis)",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "France",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A leading Bordeaux colonial house; it set up on Gorée in 1748 and took part in the slave trade to the Americas, though its voyage count was smaller than the great Nantes houses.",
+   "start": 1748,
+   "end": 1791,
+   "lifespan": "1685–20th century (firm); David Gradis 1665–1751",
+   "base": "Bordeaux, France",
+   "geo": [
+    44.838,
+    -0.579
+   ],
+   "aliases": [
+    "David Gradis et fils",
+    "Maison Gradis"
+   ],
+   "origins": "A family of Portuguese-Jewish origin settled in Bordeaux. David Gradis built the trading house from 1685 into a major colonial import-export firm, renamed David Gradis et fils in 1728.",
+   "role_summary": "Gradis ships left Bordeaux with goods, bought captives at Gorée and sold them in the Caribbean. Abraham Gradis supplied the Crown in Canada and West Africa; in the 1760s his West African contracts were paid partly in enslaved people, who were sold in Saint-Domingue for sugar.",
+   "roleDetail": [
+    {
+     "t": "Presence on Gorée, 1748.",
+     "d": "The house set up on Gorée to buy captives for the Americas.",
+     "basis": "documented"
+    },
+    {
+     "t": "Supplier to the Crown.",
+     "d": "Abraham Gradis was a major supplier to French colonial forces, linking the firm closely to royal policy.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The firm continued into the 20th century as the Société française pour le commerce avec l'Outre-mer. Bordeaux has added explanatory plaques to streets named after slave-trading shipowners, including rue David Gradis.",
+   "legacyDetail": [
+    {
+     "t": "Street plaques.",
+     "d": "Bordeaux put explanatory plaques on five streets named for slave-trading shipowners; guided tours start at rue Gradis.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia.com — Gradis",
+     "url": "https://encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/gradis"
+    },
+    {
+     "label": "Wikipedia — Société française pour le commerce avec l'Outre-mer",
+     "url": "https://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_fran%C3%A7aise_pour_le_commerce_avec_l%27Outre-mer"
+    },
+    {
+     "label": "Europe 1 — À Bordeaux, pédagogie mémorielle concernant la traite",
+     "url": "https://www.europe1.fr/societe/a-bordeaux-on-veut-faire-de-la-pedagogie-memorielle-concernant-la-traite-desclaves-3974364"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-bordeaux",
+     "type": "voyage",
+     "label": "Bordeaux shipowners"
+    },
+    {
+     "id": "goree-island",
+     "type": "trade",
+     "label": "bought captives at Gorée"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "sold captives for sugar"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "trade",
+     "label": "royal supplier"
+    },
+    {
+     "id": "nairac-family",
+     "type": "parallel",
+     "label": "fellow Bordeaux house"
+    }
+   ]
+  },
+  {
+   "id": "nairac-family",
+   "name": "Nairac family",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "France",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Bordeaux and La Rochelle shipowners and sugar refiners; SlaveVoyages lists several Nairac-owned slaving voyages from both ports, and they are often counted among Bordeaux's leading slave-trading houses, though a precise voyage total is not established here (see Saugera, Bordeaux, port négrier, for the Bordeaux record).",
+   "start": 1764,
+   "end": 1792,
+   "lifespan": "c. 1760s–1792",
+   "base": "Bordeaux, France",
+   "geo": [
+    44.841,
+    -0.57
+   ],
+   "aliases": [
+    "Paul Nairac",
+    "Jean-Baptiste Nairac"
+   ],
+   "origins": "A Protestant merchant family of Bordeaux, with Jean-Baptiste Nairac (1738–1817) active as a shipowner in La Rochelle. They owned sugar refineries in Bordeaux's Sainte-Croix district.",
+   "role_summary": "The Nairacs sent slave ships to the Bight of Benin and other coasts and sold captives in Saint-Domingue, while refining the sugar enslaved people produced.",
+   "roleDetail": [
+    {
+     "t": "Two-port operation.",
+     "d": "SlaveVoyages records a Nairac ship sailing from La Rochelle in 1771 to the Bight of Benin and Saint-Domingue, and Paul Nairac voyages from Bordeaux.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave trade plus refining.",
+     "d": "Combining slaving voyages with sugar refining let the family profit at both ends of the triangle.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Their Bordeaux mansions and refinery sites are part of the city's colonial-heritage tours; the Musée d'Aquitaine covers Bordeaux's slave trade in rooms opened in 2009.",
+   "legacyDetail": [
+    {
+     "t": "Bordeaux memory work.",
+     "d": "The family is among the Bordeaux houses named in the city's remembrance of the slave trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "SlaveVoyages — Voyage 32273 (Nairac)",
+     "url": "https://slavevoyages.org/voyage/32273/variables"
+    },
+    {
+     "label": "SlaveVoyages — Voyage 31639",
+     "url": "https://slavevoyages.org/voyage/31639/variables"
+    },
+    {
+     "label": "Wikipedia — Musée d'Aquitaine",
+     "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27Aquitaine"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-bordeaux",
+     "type": "voyage",
+     "label": "Bordeaux shipowners"
+    },
+    {
+     "id": "port-la-rochelle",
+     "type": "voyage",
+     "label": "La Rochelle voyages"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "sold captives in Saint-Domingue"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "Bight of Benin purchases"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-france",
+   "name": "Crown of France (Bourbon monarchy)",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "France",
+   "scale": "Dominant",
+   "scaleBasis": "estimated",
+   "scaleNote": "French-flagged ships embarked c. 1.38 million captives (SlaveVoyages estimates, 1501–1866: 1,381,404, c. 11% of the Atlantic total), all under royal charters, licences and law; by 1789 Saint-Domingue alone held c. 465,000 enslaved people.",
+   "start": 1664,
+   "end": 1848,
+   "lifespan": "1664–1848 (colonial slavery under the Crown and successor regimes)",
+   "base": "Versailles / Paris, France",
+   "geo": [
+    48.805,
+    2.12
+   ],
+   "aliases": [
+    "Louis XIV",
+    "Colbert",
+    "Charles X"
+   ],
+   "origins": "Under Louis XIV and his minister Colbert, the Crown built a colonial system in the Caribbean and chartered companies to supply it with enslaved Africans.",
+   "role_summary": "The Crown chartered the Senegal, Guinea and Indies companies, issued the Code Noir (1685) and in 1701 won the Spanish asiento for the Compagnie de Guinée. In 1825 Charles X forced Haiti to pay a 150 million franc indemnity for France's recognition.",
+   "roleDetail": [
+    {
+     "t": "Wrote slavery into law.",
+     "d": "The 1685 Code Noir, issued at Versailles, regulated slavery in French colonies and stayed largely in force until 1848.",
+     "basis": "documented"
+    },
+    {
+     "t": "Imposed the Haitian indemnity.",
+     "d": "Charles X's 1825 ordinance, backed by warships, made recognition of Haiti conditional on 150 million francs to compensate former colonists, including for enslaved 'property'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Reimposed slavery once.",
+     "d": "After the Republic abolished slavery in 1794, Napoleon restored it in 1802; it was finally abolished on 27 April 1848.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The 2001 Taubira Law declared the slave trade and slavery a crime against humanity. In April 2025 President Macron set up a joint Franco-Haitian commission of historians on the 1825 debt, without accepting reparations.",
+   "legacyDetail": [
+    {
+     "t": "1848 compensation went to enslavers.",
+     "d": "A law of 30 April 1849 paid former owners 126 million francs over 20 years; freed people received nothing.",
+     "basis": "documented"
+    },
+    {
+     "t": "Haiti's demands for restitution.",
+     "d": "Haitian governments and campaigners continue to seek restitution of the indemnity; France has not agreed to repay it.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "BnF France–Amériques — « Code Noir » (The Black Code)",
+     "url": "https://heritage.bnf.fr/france-ameriques/en/code-noir-black-code"
+    },
+    {
+     "label": "Wikipedia — Haitian independence debt",
+     "url": "https://en.wikipedia.org/wiki/Haitian_independence_debt"
+    },
+    {
+     "label": "Wikipedia — Decree of the Abolition of Slavery of April 27, 1848",
+     "url": "https://en.wikipedia.org/wiki/Decree_of_the_Abolition_of_Slavery_of_April_27,_1848"
+    },
+    {
+     "label": "Fondation pour la mémoire de l'esclavage",
+     "url": "https://memoire-esclavage.org/tcpdf/410"
+    },
+    {
+     "label": "SlaveVoyages — Trans-Atlantic Slave Trade Estimates",
+     "url": "https://www.slavevoyages.org/assessment/estimates"
+    }
+   ],
+   "connections": [
+    {
+     "id": "code-noir",
+     "type": "charter",
+     "label": "issued the Code Noir, 1685"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "charter",
+     "label": "chartered the Indies company"
+    },
+    {
+     "id": "compagnie-de-guinee",
+     "type": "charter",
+     "label": "asiento company, 1701"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "ownership",
+     "label": "colonial sovereign"
+    },
+    {
+     "id": "haiti-independence-debt",
+     "type": "political",
+     "label": "imposed 1825 indemnity"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "won the asiento, 1701"
+    },
+    {
+     "id": "taubira-law",
+     "type": "legacy",
+     "label": "French Republic's 2001 recognition"
+    }
+   ]
+  },
+  {
+   "id": "danish-west-india-guinea-company",
+   "name": "Danish West India-Guinea Company",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Denmark-Norway",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ran Denmark-Norway's Gold Coast forts and Caribbean colonies from 1674 to 1755; ships under the Danish/Baltic flag embarked c. 111,000 captives in all, of whom c. 92,000 survived to disembark (SlaveVoyages estimates, 1501–1866).",
+   "start": 1671,
+   "end": 1755,
+   "lifespan": "1671–1755 (successor companies to 1778)",
+   "base": "Copenhagen, Denmark",
+   "geo": [
+    55.676,
+    12.568
+   ],
+   "aliases": [
+    "Vestindisk-guineisk Kompagni",
+    "Danish West India Company"
+   ],
+   "origins": "Chartered by King Christian V in 1671 to colonise St Thomas; it took over the Guinea trade and became the West India-Guinea Company. Its Gold Coast base was Christiansborg at Osu (Accra), taken from the Swedes in the late 1650s.",
+   "role_summary": "The company bought captives at Christiansborg and other Gold Coast posts and shipped them to St Thomas, St John (from 1718) and St Croix (bought from France in 1733), where enslaved people worked sugar plantations. It also leased part of St Thomas to the Brandenburg company.",
+   "roleDetail": [
+    {
+     "t": "Gold Coast to Danish Caribbean.",
+     "d": "From 1674 to 1755 the company administered the Danish settlements in Guinea and supplied the Danish West Indies with captives.",
+     "basis": "documented"
+    },
+    {
+     "t": "St John revolt, 1733.",
+     "d": "Enslaved Akwamu people on St John rose against company rule in 1733 and held the island for months before French troops suppressed them.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Crown took over the colonies in 1754–55. Denmark sold its Gold Coast forts to Britain in 1850 and the Danish West Indies to the United States in 1917; the 2017 centenary set off Denmark's largest public reckoning with its colonial past.",
+   "legacyDetail": [
+    {
+     "t": "2017 centenary.",
+     "d": "Nearly 30 exhibitions marked 100 years since the sale of the islands; PM Lars Løkke Rasmussen called the era 'shameful' but no formal apology followed.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Danish Gold Coast",
+     "url": "https://en.wikipedia.org/wiki/Danish_Gold_Coast"
+    },
+    {
+     "label": "Danish National Archives — Timeline on the Danish slave trade",
+     "url": "https://tiki-toki.com/timeline/entry/493514/THE-DANISH-NATIONAL-ARCHIVES-Timeline-on-the-Danish-slave-trade"
+    },
+    {
+     "label": "The Local DK — Denmark struggles to come to grips with its slave past (2017)",
+     "url": "https://www.thelocal.dk/20170105/denmark-struggles-to-come-to-grips-with-its-slave-past"
+    },
+    {
+     "label": "SlaveVoyages — Trans-Atlantic Slave Trade Estimates",
+     "url": "https://www.slavevoyages.org/assessment/estimates"
+    }
+   ],
+   "connections": [
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "charter",
+     "label": "royal charter, 1671"
+    },
+    {
+     "id": "christiansborg-castle",
+     "type": "ownership",
+     "label": "Gold Coast headquarters"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "ownership",
+     "label": "ran St Thomas, St John, St Croix"
+    },
+    {
+     "id": "brandenburg-african-company",
+     "type": "trade",
+     "label": "leased land on St Thomas, 1685"
+    },
+    {
+     "id": "akwamu-kingdom",
+     "type": "trade",
+     "label": "bought captives from Akwamu"
+    },
+    {
+     "id": "hendrik-carloff",
+     "type": "ownership",
+     "label": "Carloff led Danish Africa venture"
+    }
+   ]
+  },
+  {
+   "id": "schimmelmann-family",
+   "name": "Schimmelmann family (Heinrich Carl & Ernst von Schimmelmann)",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Denmark-Norway",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Heinrich Carl von Schimmelmann was the largest Danish slave owner and trader, with over 1,000 enslaved people on four plantations in the Danish West Indies.",
+   "start": 1763,
+   "end": 1848,
+   "lifespan": "Heinrich Carl 1724–1782; Ernst Heinrich 1747–1831",
+   "base": "Copenhagen, Denmark / Wandsbek (Hamburg)",
+   "geo": [
+    55.683,
+    12.591
+   ],
+   "aliases": [
+    "Heinrich Carl von Schimmelmann",
+    "Ernst Heinrich von Schimmelmann"
+   ],
+   "origins": "Heinrich Carl, a Prussian-born merchant and war profiteer, entered Danish service as treasurer and was made a count. In 1763 he bought the king's four West Indian plantations on favourable terms, along with a Copenhagen sugar refinery and slave ships.",
+   "role_summary": "Schimmelmann linked guns and textiles from his factories, slaving voyages from the Gold Coast, Caribbean sugar plantations and his Copenhagen refinery into one circuit. His son Ernst, as finance minister, chaired the commission behind the 1792 Danish slave-trade ban while the family kept its plantations.",
+   "roleDetail": [
+    {
+     "t": "Atlantic business circuit.",
+     "d": "He tied his estates and factories into a closed loop between Western Europe, West Africa and the Caribbean.",
+     "basis": "documented"
+    },
+    {
+     "t": "Son drafted the 1792 ban.",
+     "d": "Ernst Schimmelmann chaired the 1791 Slave Trade Commission; the ten-year delay he backed let planters build up their enslaved workforce first.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The fortune was locked in an entail for the family. A bust of Heinrich Carl erected in Hamburg-Wandsbek in 2006 was paint-attacked and removed in 2008 after two years of protest, though streets there still bear his name.",
+   "legacyDetail": [
+    {
+     "t": "Contested memorial.",
+     "d": "The Wandsbek bust became a test case in Germany's debate over honouring slave traders.",
+     "basis": "documented"
+    },
+    {
+     "t": "Hans Jonathan.",
+     "d": "Hans Jonathan, born enslaved in 1784 on St Croix and brought to Copenhagen by the family, lost a 1802 freedom suit and fled to Iceland.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Heinrich Carl von Schimmelmann",
+     "url": "https://en.wikipedia.org/wiki/Heinrich_Carl_von_Schimmelmann"
+    },
+    {
+     "label": "Goethe-Institut — Vestiges of Colonialism: Honouring a Slave Trader",
+     "url": "https://goethe.de/prj/zei/en/art/22805137.html"
+    },
+    {
+     "label": "Wikipedia — Ernst Heinrich von Schimmelmann",
+     "url": "https://en.wikipedia.org/wiki/Ernst_Heinrich_von_Schimmelmann"
+    },
+    {
+     "label": "London Review of Books — Under the Staircase (Hans Jonathan)",
+     "url": "https://lrb.co.uk/v39/n20/karl-whitney/under-the-staircase"
+    }
+   ],
+   "connections": [
+    {
+     "id": "danish-west-indies",
+     "type": "plantation",
+     "label": "four plantations, 1,000+ enslaved"
+    },
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "political",
+     "label": "treasurer; bought crown plantations"
+    },
+    {
+     "id": "danish-1792-decree",
+     "type": "political",
+     "label": "Ernst chaired commission"
+    },
+    {
+     "id": "christiansborg-castle",
+     "type": "trade",
+     "label": "Gold Coast slave purchases"
+    }
+   ]
+  },
+  {
+   "id": "crown-of-denmark-norway",
+   "name": "Crown of Denmark-Norway",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Denmark-Norway",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Sovereign over Gold Coast forts and the Danish West Indies; ran the colonies directly from 1755 and issued the 1792 ban that took effect only in 1803.",
+   "start": 1658,
+   "end": 1848,
+   "lifespan": "1658–1848 (slavery under the Crown); colonies sold 1850 and 1917",
+   "base": "Copenhagen, Denmark",
+   "geo": [
+    55.676,
+    12.58
+   ],
+   "aliases": [
+    "Christian V",
+    "Christian VII",
+    "Danish state"
+   ],
+   "origins": "Denmark-Norway entered the Gold Coast trade in the 1650s with the help of ex-Swedish agent Hendrik Carloff and chartered a West India company in 1671.",
+   "role_summary": "The Crown chartered the companies, bought St Croix from France in 1733, ran the colonies directly from 1755 and sold royal plantations to Schimmelmann in 1763. King Christian VII signed the decree of 16 March 1792 banning the trade, effective 1803.",
+   "roleDetail": [
+    {
+     "t": "Early ban, slow effect.",
+     "d": "The 1792 decree was among the first national bans on the Atlantic slave trade, but its ten-year delay increased imports in the meantime.",
+     "basis": "documented"
+    },
+    {
+     "t": "Emancipation forced from below.",
+     "d": "On 3 July 1848 enslaved people on St Croix led by 'General Buddhoe' rose up; Governor-General Peter von Scholten then proclaimed emancipation.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Denmark sold the islands to the US in 1917 for $25 million. During the 2017 centenary the Danish government acknowledged the 'shameful' past but did not formally apologise; Ghana and USVI groups continue to press for reparations.",
+   "legacyDetail": [
+    {
+     "t": "Myth of the benevolent governor.",
+     "d": "Denmark's National Museum notes that Danes credit von Scholten with emancipation, while Virgin Islanders credit the enslaved themselves.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Cambridge — Itinerario: The Danish ban on the Atlantic slave trade (1787–1807)",
+     "url": "https://www.cambridge.org/core/journals/itinerario/article/abs/danish-ban-on-the-atlantic-slave-trade-and-denmarks-african-colonial-ambitions-17871807/C940EE47F9E130847768DE9740DC8910"
+    },
+    {
+     "label": "National Museum of Denmark — The abolition of slavery",
+     "url": "https://en.natmus.dk/historical-knowledge/historical-themes/danish-colonies/the-danish-west-indies/the-abolition-of-slavery/"
+    },
+    {
+     "label": "ScienceNordic — Denmark cannot apologise for slave trade",
+     "url": "https://sciencenordic.com/criminality-denmark-ethics/denmark-cannot-apologise-for-slave-trade/1375831"
+    }
+   ],
+   "connections": [
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "charter",
+     "label": "chartered, 1671"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "ownership",
+     "label": "crown colony from 1755"
+    },
+    {
+     "id": "danish-1792-decree",
+     "type": "charter",
+     "label": "Christian VII signed the ban"
+    },
+    {
+     "id": "schimmelmann-family",
+     "type": "plantation",
+     "label": "sold crown plantations, 1763"
+    },
+    {
+     "id": "christiansborg-castle",
+     "type": "ownership",
+     "label": "Gold Coast forts, sold 1850"
+    },
+    {
+     "id": "hendrik-carloff",
+     "type": "charter",
+     "label": "employed Carloff"
+    }
+   ]
+  },
+  {
+   "id": "brandenburg-african-company",
+   "name": "Brandenburg African Company",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Brandenburg-Prussia",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "The University of Potsdam estimates c. 30,000 people were deported through Brandenburg's trade from the West African coast; the company was never profitable for long.",
+   "start": 1682,
+   "end": 1717,
+   "lifespan": "1682–1711 (renamed Brandenburg-African-American Company 1692); forts sold 1717",
+   "base": "Emden (East Frisia) and Berlin",
+   "geo": [
+    53.367,
+    7.206
+   ],
+   "aliases": [
+    "Brandenburgisch-Africanische Compagnie",
+    "BAC",
+    "Brandenburg-African-American Company"
+   ],
+   "origins": "Founded in 1682 by Elector Frederick William on the advice of his Dutch naval director Benjamin Raule, as a joint-stock venture promising investors a share of profits. Its seat moved to Emden in 1683.",
+   "role_summary": "Gold proved scarce, so the company's Gold Coast forts, led by Groß Friedrichsburg, came to focus on buying captives. From 1685 it leased land on Danish St Thomas to sell them in the Caribbean, and it also held Arguin off Mauritania.",
+   "roleDetail": [
+    {
+     "t": "St Thomas lease, 1685.",
+     "d": "Raule agreed with the Danish company to use land on St Thomas for trade, mainly in enslaved people; the Danes seized the Brandenburg section in 1693.",
+     "basis": "documented"
+    },
+    {
+     "t": "Traded with interlopers.",
+     "d": "From c. 1698 its forts traded more with Dutch and English interlopers than with company ships.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "King Frederick William I agreed in 1717 to sell the forts to the Dutch WIC for 7,200 ducats and 12 enslaved Africans (handover c. 1720–21; the Dutch only took Groß Friedrichsburg in 1724–25 after resistance by John Conny). Germany now debates this history, including in Potsdam and Berlin, where 'Mohrenstraße' was officially renamed Anton-Wilhelm-Amo-Straße on 23 August 2025.",
+   "legacyDetail": [
+    {
+     "t": "Sold to the Dutch.",
+     "d": "Groß Friedrichsburg passed to the WIC, which renamed it Fort Hollandia.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Brandenburger Gold Coast",
+     "url": "https://en.wikipedia.org/wiki/Brandenburger_Gold_Coast"
+    },
+    {
+     "label": "University of Potsdam — Pre-colonial trade of enslaved people",
+     "url": "https://uni-potsdam.de/en/botanischer-garten/unser-garten/kolonialismus/vorkoloniale-versklavung"
+    },
+    {
+     "label": "Cambridge — History in Africa: Archival materials on the Brandenburg African Company",
+     "url": "https://www.cambridge.org/core/journals/history-in-africa/article/abs/archival-materials-on-the-brandenburg-african-company-16821721/B2891A2EF5C8537DF58FF475D5E12D35"
+    },
+    {
+     "label": "ZDFheute — Berlin: Mohrenstraße in Anton-Wilhelm-Amo-Straße umbenannt (2025)",
+     "url": "https://www.zdfheute.de/politik/deutschland/mohrenstrasse-berlin-umbenannt-anton-wilhelm-amo-100.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "frederick-william-brandenburg",
+     "type": "charter",
+     "label": "founded by the Great Elector"
+    },
+    {
+     "id": "benjamin-raule",
+     "type": "ownership",
+     "label": "directed by Raule"
+    },
+    {
+     "id": "gross-friedrichsburg",
+     "type": "ownership",
+     "label": "Gold Coast fort"
+    },
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "trade",
+     "label": "St Thomas lease"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "trade",
+     "label": "forts sold to WIC, 1717"
+    }
+   ]
+  },
+  {
+   "id": "frederick-william-brandenburg",
+   "name": "Frederick William, the Great Elector of Brandenburg",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Brandenburg-Prussia",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Founder of Brandenburg's short-lived slaving venture, which took c. 30,000 Africans (University of Potsdam estimate).",
+   "start": 1680,
+   "end": 1688,
+   "lifespan": "1620–1688",
+   "base": "Berlin / Potsdam, Brandenburg",
+   "geo": [
+    52.517,
+    13.402
+   ],
+   "aliases": [
+    "Friedrich Wilhelm",
+    "Der Große Kurfürst"
+   ],
+   "origins": "Elector of Brandenburg from 1640, raised partly in the Dutch Republic, he admired Dutch commerce and sought overseas trade to strengthen his state.",
+   "role_summary": "He backed Raule's Guinea expedition of 1680–81, chartered the Brandenburg African Company in 1682 and invested his own capital. Africans brought to his court as servants and soldiers appear in Potsdam's history.",
+   "roleDetail": [
+    {
+     "t": "State founder of the venture.",
+     "d": "The company was a project of the Elector and his court, not of a merchant class.",
+     "basis": "documented"
+    },
+    {
+     "t": "African servants at court.",
+     "d": "Potsdam researchers document Africans, many enslaved or bought as children, at the Brandenburg-Prussian court.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Prussian nationalists and later the Nazi-era colonial lobby celebrated Groß Friedrichsburg as Germany's first colony. Postcolonial initiatives in Potsdam now reinterpret this heritage.",
+   "legacyDetail": [
+    {
+     "t": "Contested heritage.",
+     "d": "Groups such as Postcolonial Potsdam trace the Elector's slaving links in city monuments.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Postcolonial Potsdam — The Rotary of the Oranges: Brandenburg-Prussia and the enslavement of Africans",
+     "url": "https://postcolonialpotsdam.org/en/2020/03/22/the-rotary-of-the-oranges-brandenburg-prussia-and-the-enslavement-of-africans/"
+    },
+    {
+     "label": "University of Potsdam — Pre-colonial trade of enslaved people",
+     "url": "https://uni-potsdam.de/en/botanischer-garten/unser-garten/kolonialismus/vorkoloniale-versklavung"
+    }
+   ],
+   "connections": [
+    {
+     "id": "brandenburg-african-company",
+     "type": "charter",
+     "label": "chartered, 1682"
+    },
+    {
+     "id": "benjamin-raule",
+     "type": "charter",
+     "label": "appointed naval director"
+    },
+    {
+     "id": "gross-friedrichsburg",
+     "type": "ownership",
+     "label": "fort named after him"
+    },
+    {
+     "id": "house-of-orange",
+     "type": "family",
+     "label": "married Louise Henriette of Orange-Nassau"
+    }
+   ]
+  },
+  {
+   "id": "benjamin-raule",
+   "name": "Benjamin Raule",
+   "category": "European Families",
+   "role": "Broker & Agent",
+   "nation": "Brandenburg-Prussia",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Organised Brandenburg's Guinea and Caribbean slave trade, which deported c. 30,000 people in total.",
+   "start": 1680,
+   "end": 1698,
+   "lifespan": "1634–1707",
+   "base": "Emden / Berlin",
+   "geo": [
+    53.367,
+    7.206
+   ],
+   "aliases": [
+    "Benjamin Raule (Zeeland shipowner)"
+   ],
+   "origins": "A Zeeland (Dutch) shipowner and privateer who entered Brandenburg's service, becoming director-general of the Elector's navy.",
+   "role_summary": "Raule organised the expedition that founded Groß Friedrichsburg, ran the Brandenburg African Company and negotiated the 1685 St Thomas lease with Denmark for selling captives. He was dismissed and imprisoned after the Elector's death in 1688 on corruption charges.",
+   "roleDetail": [
+    {
+     "t": "Dutch know-how for a German state.",
+     "d": "Raule brought Dutch shipping and slave-trading expertise to Brandenburg.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Negotiated St Thomas lease.",
+     "d": "He signed the November 1685 agreement with the Danish company.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Raule is remembered in German naval history as founder of the Brandenburg navy; his role in the slave trade is now part of colonial-memory debates.",
+   "legacyDetail": [
+    {
+     "t": "Naval namesake.",
+     "d": "He is often celebrated in German naval tradition with little attention to the slave trade.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Saint Thomas (Brandenburg colony)",
+     "url": "https://en.wikipedia.org/wiki/Saint_Thomas_(Brandenburg_colony)"
+    },
+    {
+     "label": "Wikipedia — Brandenburger Gold Coast",
+     "url": "https://en.wikipedia.org/wiki/Brandenburger_Gold_Coast"
+    }
+   ],
+   "connections": [
+    {
+     "id": "brandenburg-african-company",
+     "type": "ownership",
+     "label": "director"
+    },
+    {
+     "id": "frederick-william-brandenburg",
+     "type": "charter",
+     "label": "appointed by the Elector"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "trade",
+     "label": "St Thomas lease"
+    },
+    {
+     "id": "gross-friedrichsburg",
+     "type": "voyage",
+     "label": "organised founding expedition"
+    }
+   ]
+  },
+  {
+   "id": "swedish-africa-company",
+   "name": "Swedish Africa Company",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Sweden",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "A short-lived company (1649–1663) whose Gold Coast posts traded mainly gold and ivory, with limited slave trading; it was soon displaced by Denmark and the Dutch.",
+   "start": 1649,
+   "end": 1663,
+   "lifespan": "1649–1663",
+   "base": "Stockholm, Sweden",
+   "geo": [
+    59.329,
+    18.069
+   ],
+   "aliases": [
+    "Afrikanska kompaniet",
+    "Swedish Gold Coast"
+   ],
+   "origins": "Founded in 1649 under a charter from Queen Christina by Louis De Geer and his son Laurens, with ex-WIC official Hendrik Carloff as its African expert.",
+   "role_summary": "Carloff's 1650 expedition built Carolusborg at Cabo Corso (Cape Coast) with the permission of the king of Fetu. The company traded on the Gold Coast until the Danes took Carolusborg in 1658 and the Dutch the remaining posts in 1663.",
+   "roleDetail": [
+    {
+     "t": "Founded Carolusborg.",
+     "d": "The fort became Cape Coast Castle, later Britain's West African headquarters.",
+     "basis": "documented"
+    },
+    {
+     "t": "Limited slaving.",
+     "d": "Sweden's direct role in the Atlantic slave trade through this company was small; its scale is debated.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Sweden later held Saint-Barthélemy (1784–1878) and used it as a free port, including for trade in enslaved people, before abolishing slavery there in 1847. Swedish museums now cover this history.",
+   "legacyDetail": [
+    {
+     "t": "Saint-Barthélemy.",
+     "d": "Sweden's Caribbean colony held enslaved people until 1847.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Swedish Africa Company",
+     "url": "https://en.wikipedia.org/wiki/Swedish_Africa_Company"
+    },
+    {
+     "label": "Wikipedia — Swedish Gold Coast",
+     "url": "https://en.wikipedia.org/wiki/Swedish_Gold_Coast"
+    },
+    {
+     "label": "Statens museer för världskultur — Afrikanska kulturer: Ghana (PDF)",
+     "url": "https://production.varldskulturmuseerna.se/siteassets/pdf/afrikanska-kulturer/afrikanska-kulturer-fall-5-ghana.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "de-geer-family",
+     "type": "ownership",
+     "label": "founded by the De Geers"
+    },
+    {
+     "id": "hendrik-carloff",
+     "type": "voyage",
+     "label": "led 1650 expedition"
+    },
+    {
+     "id": "carolusborg",
+     "type": "ownership",
+     "label": "built Carolusborg"
+    },
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "political",
+     "label": "lost forts to Denmark"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "rival; took posts 1663"
+    }
+   ]
+  },
+  {
+   "id": "de-geer-family",
+   "name": "De Geer family (Louis & Laurens De Geer)",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Sweden",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Financed and founded the Swedish Africa Company (1649), a small player in the Gold Coast trade.",
+   "start": 1649,
+   "end": 1663,
+   "lifespan": "Louis De Geer 1587–1652",
+   "base": "Amsterdam / Finspång, Sweden",
+   "geo": [
+    58.706,
+    15.769
+   ],
+   "aliases": [
+    "Louis De Geer"
+   ],
+   "origins": "Louis De Geer, a Liège-born Calvinist merchant in Amsterdam, became Sweden's leading industrialist in iron and armaments. His sister Maria married the Amsterdam arms merchant Elias Trip, linking the De Geers to the Trip family.",
+   "role_summary": "With his son Laurens, Louis De Geer founded the Swedish Africa Company in 1649 and financed its Gold Coast expedition. The family's Swedish iron and guns were key goods in Atlantic trade.",
+   "roleDetail": [
+    {
+     "t": "Dutch capital under a Swedish flag.",
+     "d": "De Geer used Swedish charters to enter a trade the Dutch WIC monopolised at home.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Trip family ties.",
+     "d": "The Trip–De Geer arms network supplied guns and metals traded across the Atlantic world; no direct Trip slave-trading has been confirmed here.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The De Geers remain a prominent Swedish noble family. The Trippenhuis in Amsterdam, built by Trip relatives in 1662, now houses the Royal Netherlands Academy of Arts and Sciences.",
+   "legacyDetail": [
+    {
+     "t": "Industrial legacy.",
+     "d": "Finspång and other De Geer works remain landmarks of Swedish industry.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Louis De Geer (1587–1652)",
+     "url": "https://en.wikipedia.org/wiki/Louis_De_Geer_(1587%E2%80%931652)"
+    },
+    {
+     "label": "Wikipedia — Swedish Africa Company",
+     "url": "https://en.wikipedia.org/wiki/Swedish_Africa_Company"
+    },
+    {
+     "label": "Cambridge — The Dutch Republic in the Seventeenth Century: Riches (Trip and De Geer)",
+     "url": "https://www.cambridge.org/core/books/dutch-republic-in-the-seventeenth-century/riches/5273C1CF985CE41D3AC73BADA7013258"
+    }
+   ],
+   "connections": [
+    {
+     "id": "swedish-africa-company",
+     "type": "ownership",
+     "label": "founders, 1649"
+    },
+    {
+     "id": "hendrik-carloff",
+     "type": "ownership",
+     "label": "employed Carloff"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "finance",
+     "label": "Amsterdam capital"
+    }
+   ]
+  },
+  {
+   "id": "hendrik-carloff",
+   "name": "Hendrik Carloff",
+   "category": "European Families",
+   "role": "Broker & Agent",
+   "nation": "Sweden",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "A company agent who served the Dutch, Swedish and Danish Gold Coast ventures in turn; important for founding forts rather than for the number of captives he shipped.",
+   "start": 1640,
+   "end": 1662,
+   "lifespan": "c. 1621–after 1677",
+   "base": "Cape Coast (Cabo Corso), Gold Coast",
+   "geo": [
+    5.103,
+    -1.241
+   ],
+   "aliases": [
+    "Henrik Carloff",
+    "Caerloff"
+   ],
+   "origins": "A Rostock-born merchant who served the Dutch WIC on the Gold Coast before offering his knowledge to the Swedish De Geer venture.",
+   "role_summary": "Carloff led the Swedish expedition of 1650 and built Carolusborg. After leaving Swedish service he became director of the Danish Africa Company (1657–1662) and in 1658 seized the Swedish posts for Denmark.",
+   "roleDetail": [
+    {
+     "t": "Changed sides.",
+     "d": "His capture of Carolusborg for Denmark in January 1658 showed how agents moved between rival companies.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Carloff's career shows how small states entered the Gold Coast trade through Dutch-trained agents.",
+   "legacyDetail": [
+    {
+     "t": "Scholarly interest.",
+     "d": "Leiden researchers have studied Carloff as a transimperial broker.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Hendrik Carloff",
+     "url": "https://en.wikipedia.org/wiki/Hendrik_Carloff"
+    },
+    {
+     "label": "Wikipedia — Capture of Carolusborg (1658)",
+     "url": "https://en.wikipedia.org/wiki/Capture_of_Carolusborg_(1658)"
+    },
+    {
+     "label": "Leiden University Scholarly Publications — study of Carloff",
+     "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2975214/view"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "former WIC official"
+    },
+    {
+     "id": "swedish-africa-company",
+     "type": "voyage",
+     "label": "led 1650 expedition"
+    },
+    {
+     "id": "carolusborg",
+     "type": "ownership",
+     "label": "built, then seized it"
+    },
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "ownership",
+     "label": "director of Danish venture"
+    }
+   ]
+  },
+  {
+   "id": "jacob-kettler-courland",
+   "name": "Duke Jacob Kettler and the Duchy of Courland",
+   "category": "Crowns & Explorers",
+   "role": "Explorer & Crown",
+   "nation": "Courland (Baltic duchy)",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Courland held St Andrew's Island in the Gambia (1651–1661) and Tobago intermittently; its role in the slave trade was small and is poorly documented.",
+   "start": 1651,
+   "end": 1690,
+   "lifespan": "1610–1682 (Duke 1642–1682)",
+   "base": "Mitau (Jelgava), Courland",
+   "geo": [
+    56.651,
+    23.721
+   ],
+   "aliases": [
+    "Jakob Kettler",
+    "Curonian colonies"
+   ],
+   "origins": "Ruler of a small Baltic duchy under Polish-Lithuanian overlordship, Jacob built a large merchant fleet and sought colonies after Dutch and English models.",
+   "role_summary": "He leased St Andrew's Island in the Gambia from the Kingdom of Niumi in 1651 and built Fort Jacob, and planted 'New Courland' on Tobago from 1654. The Gambia fort traded in gold, ivory and some captives; most were taken by the Dutch and English while Jacob was a Swedish prisoner (1658–1660).",
+   "roleDetail": [
+    {
+     "t": "Gambia outpost.",
+     "d": "St Andrew's Island, later James Island, became an English slave-trading fort after 1661.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slaving role debated.",
+     "d": "How many captives Courland itself shipped is unclear; sources mostly emphasise trade goods.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "St Andrew's/James Island is now Kunta Kinteh Island, a UNESCO World Heritage site. In Latvia the colonies are often a point of national pride, which historians are starting to question.",
+   "legacyDetail": [
+    {
+     "t": "Kunta Kinteh Island.",
+     "d": "The Gambian island Courland first fortified was renamed in 2011 after the character in Roots.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Jacob Kettler",
+     "url": "https://en.wikipedia.org/wiki/Jacob_Kettler"
+    },
+    {
+     "label": "Rundāle Palace Museum — Duke Jacob (1610–1681)",
+     "url": "https://rundale.net/en/vault/duke-jacob-1610-1681/"
+    },
+    {
+     "label": "Wikipedia — Curonian colonisation",
+     "url": "https://en.wikipedia.org/wiki/Curonian_colonisation"
+    }
+   ],
+   "connections": [
+    {
+     "id": "courland-colonies",
+     "type": "ownership",
+     "label": "Gambia and Tobago colonies"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "Dutch seized posts, 1659"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "legacy",
+     "label": "Gambia fort passed to English traders"
+    }
+   ]
+  },
+  {
+   "id": "cic-bank",
+   "name": "Crédit Industriel et Commercial (CIC)",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "France",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Not a slave trader, but the bank that profited most from Haiti's 1875 loan, taken to keep paying the 1825 'independence debt' (per the New York Times 'Ransom' investigation, 2022).",
+   "start": 1875,
+   "end": 1922,
+   "lifespan": "1859–present",
+   "base": "Paris, France",
+   "geo": [
+    48.873,
+    2.336
+   ],
+   "aliases": [
+    "CIC",
+    "Crédit Mutuel Alliance Fédérale (parent)"
+   ],
+   "origins": "A Paris bank founded in 1859, now part of Crédit Mutuel Alliance Fédérale.",
+   "role_summary": "In 1875 CIC arranged a loan to Haiti whose fees and interest drained the Haitian treasury; it also helped found Haiti's national bank, which was controlled from Paris.",
+   "roleDetail": [
+    {
+     "t": "Haiti's 'double debt'.",
+     "d": "The 1825 indemnity plus loans to pay it cost Haiti c. 112 million francs, about $560 million today, and an estimated $21–115 billion in lost growth (NYT).",
+     "basis": "documented"
+    },
+    {
+     "t": "Paris-controlled national bank.",
+     "d": "CIC helped set up the Banque Nationale d'Haïti, which was run from Paris and drew profits from Haiti's treasury (NYT, 2022).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The NYT series renewed calls for France to return the indemnity. In 2025, the bicentenary of the debt, France set up a joint commission of historians.",
+   "legacyDetail": [
+    {
+     "t": "Bicentenary, 2025.",
+     "d": "The Collège de France held a symposium 'Haiti 1825: from independence to debt'.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Hillman Foundation — The Ransom: The Root of Haiti's Misery",
+     "url": "https://hillmanfoundation.org/node/3726"
+    },
+    {
+     "label": "Equal Justice Initiative — Haiti's forced payments to enslavers cost economy $21 billion",
+     "url": "https://eji.org/?p=23646"
+    },
+    {
+     "label": "Collège de France — Haiti 1825: from independence to debt",
+     "url": "https://college-de-france.fr/en/agenda/symposium/haiti-1825-from-independence-to-debt"
+    }
+   ],
+   "connections": [
+    {
+     "id": "haiti-independence-debt",
+     "type": "finance",
+     "label": "1875 loan to pay the indemnity"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "legacy",
+     "label": "profited from France's indemnity"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "legacy",
+     "label": "debt for colonists' losses"
+    }
+   ]
+  },
+  {
+   "id": "port-nantes",
+   "name": "Nantes",
+   "type": "entity",
+   "kind": "Port",
+   "description": "France's leading slave-trading port: Nantes outfitted c. 1,744 slaving expeditions, about 41% of the French total, and its ships deported more than 500,000 Africans in the 18th century (per Wikipedia summarising Nantes-based research). Merchant houses such as the Montaudoins built the Feydeau and Île Gloriette mansions on these profits.",
+   "start": 1707,
+   "geo": [
+    47.213,
+    -1.556
+   ],
+   "connections": [
+    {
+     "id": "montaudoin-family",
+     "type": "voyage",
+     "label": "home of Montaudoin voyages"
+    },
+    {
+     "id": "nantes-memorial",
+     "type": "legacy",
+     "label": "Mémorial de l'abolition, 2012"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "main market for captives"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "charter",
+     "label": "traded under company licences"
+    }
+   ]
+  },
+  {
+   "id": "port-bordeaux",
+   "name": "Bordeaux",
+   "type": "entity",
+   "kind": "Port",
+   "description": "France's second slave port by many measures, with c. 508 slave-trading expeditions deporting an estimated 120,000–150,000 Africans between 1672 and 1837, and France's main port for colonial sugar and coffee. The Musée d'Aquitaine opened permanent rooms on the slave trade in 2009, and street plaques now explain names such as rue Gradis.",
+   "start": 1672,
+   "geo": [
+    44.841,
+    -0.57
+   ],
+   "connections": [
+    {
+     "id": "gradis-family",
+     "type": "voyage",
+     "label": "Gradis house"
+    },
+    {
+     "id": "nairac-family",
+     "type": "voyage",
+     "label": "Nairac house"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "sugar and coffee trade"
+    }
+   ]
+  },
+  {
+   "id": "port-la-rochelle",
+   "name": "La Rochelle",
+   "type": "entity",
+   "kind": "Port",
+   "description": "A leading French slave port (often ranked second or third), with an estimated c. 130,000 Africans deported on its ships, mainly to the French Antilles and Saint-Domingue, where many of its shipowners also held plantations. The Musée du Nouveau Monde occupies the Hôtel Fleuriau, built for a planter-merchant family.",
+   "start": 1643,
+   "geo": [
+    46.159,
+    -1.152
+   ],
+   "connections": [
+    {
+     "id": "nairac-family",
+     "type": "voyage",
+     "label": "Jean-Baptiste Nairac's voyages"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "plantation",
+     "label": "shipowners' plantations"
+    }
+   ]
+  },
+  {
+   "id": "port-le-havre",
+   "name": "Le Havre",
+   "type": "entity",
+   "kind": "Port",
+   "description": "A major Normandy slave port in the 18th century and a centre of illegal French slaving after 1815, as in the 1819 voyage of Le Rôdeur to Guadeloupe. A plaque near the port remembers the c. 90,000 Africans trafficked on Le Havre ships, and the Maison de l'Armateur and Hôtel Dubocage de Bléville hold exhibitions on the trade.",
+   "start": 1700,
+   "geo": [
+    49.494,
+    0.107
+   ],
+   "connections": [
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "Caribbean markets"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "charter",
+     "label": "under French law"
+    }
+   ]
+  },
+  {
+   "id": "port-amsterdam",
+   "name": "Amsterdam",
+   "type": "entity",
+   "kind": "Port",
+   "description": "The financial heart of the Dutch Atlantic: seat of the WIC's main chamber, one-third owner of the Society of Suriname (1683–1795), and home of banks such as Hope & Co. that lent to slave plantations. On 1 July 2021 Mayor Femke Halsema apologised for the city government's 'active involvement' in colonial slavery.",
+   "start": 1621,
+   "geo": [
+    52.377,
+    4.9
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "WIC Amsterdam chamber"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "ownership",
+     "label": "one-third owner of Suriname"
+    },
+    {
+     "id": "hope-and-co",
+     "type": "finance",
+     "label": "plantation finance"
+    },
+    {
+     "id": "house-of-orange",
+     "type": "legacy",
+     "label": "king's 2023 apology in Oosterpark"
+    }
+   ]
+  },
+  {
+   "id": "saint-domingue",
+   "name": "Saint-Domingue (colonial Haiti)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "France's richest colony and the world's largest sugar and coffee producer by the 1780s, with c. 465,000 enslaved people in 1789, about two-thirds of them born in Africa. The revolution that began in August 1791 ended slavery and created independent Haiti on 1 January 1804, the first state founded by formerly enslaved people.",
+   "start": 1697,
+   "geo": [
+    19.759,
+    -72.198
+   ],
+   "connections": [
+    {
+     "id": "crown-of-france",
+     "type": "ownership",
+     "label": "French colony from 1697"
+    },
+    {
+     "id": "code-noir",
+     "type": "charter",
+     "label": "Code Noir extended here, 1687"
+    },
+    {
+     "id": "haiti-independence-debt",
+     "type": "legacy",
+     "label": "France demanded indemnity, 1825"
+    },
+    {
+     "id": "port-nantes",
+     "type": "trade",
+     "label": "main destination of Nantes ships"
+    },
+    {
+     "id": "port-bordeaux",
+     "type": "trade",
+     "label": "Bordeaux colonial trade"
+    }
+   ]
+  },
+  {
+   "id": "code-noir",
+   "name": "Code Noir (1685)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Edict of Louis XIV issued at Versailles in March 1685, in 60 articles, regulating slavery in the French colonies: it imposed Catholicism, expelled Jews, defined enslaved people as movable property and set punishments, while nominally limiting masters' power. It was extended to Saint-Domingue and later Louisiana and stayed largely in force until 1848.",
+   "start": 1685,
+   "connections": [
+    {
+     "id": "crown-of-france",
+     "type": "charter",
+     "label": "issued by Louis XIV"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "charter",
+     "label": "applied in Saint-Domingue"
+    },
+    {
+     "id": "taubira-law",
+     "type": "legacy",
+     "label": "repudiated in 2001"
+    }
+   ]
+  },
+  {
+   "id": "goree-island",
+   "name": "Gorée Island",
+   "type": "entity",
+   "kind": "Port",
+   "description": "A small island off Dakar held in turn by the Portuguese, Dutch, English and French, and a French slave-trading base under the Senegal companies. It became a UNESCO World Heritage Site in 1978; the claim that millions passed through its 'House of Slaves' is disputed by historians such as Philip Curtin, who estimate far smaller numbers (some cite c. 26,000 recorded), but it is widely accepted as a memorial site.",
+   "start": 1588,
+   "geo": [
+    14.667,
+    -17.398
+   ],
+   "connections": [
+    {
+     "id": "compagnie-du-senegal",
+     "type": "ownership",
+     "label": "French company base"
+    },
+    {
+     "id": "gradis-family",
+     "type": "trade",
+     "label": "Gradis post from 1748"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "ownership",
+     "label": "held by the Indies company"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "ownership",
+     "label": "early Portuguese use"
+    }
+   ]
+  },
+  {
+   "id": "curacao",
+   "name": "Curaçao",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Taken from Spain by the WIC in 1634, Curaçao became the main Dutch depot for selling captives on to Spanish America, especially under asiento contracts from 1662 and illegally thereafter; it may have delivered c. 100,000 people to Spanish colonies. Willemstad's Kura Hulanda museum and the 1795 Tula revolt are central to its memory today.",
+   "start": 1634,
+   "geo": [
+    12.108,
+    -68.935
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "WIC colony"
+    },
+    {
+     "id": "coymans-family",
+     "type": "trade",
+     "label": "asiento depot"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "trade",
+     "label": "supplied Spanish asientos"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "resold captives to Spanish colonies"
+    }
+   ]
+  },
+  {
+   "id": "sint-eustatius",
+   "name": "Sint Eustatius",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "A small Dutch island that became a free port and, after the mid-18th century, the main Dutch transit point for captives sold on to neighbouring colonies, overtaking Curaçao (per SlaveVoyages). A slave depot stood within the Waterfort.",
+   "start": 1636,
+   "geo": [
+    17.483,
+    -62.983
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "WIC transit depot"
+    },
+    {
+     "id": "middelburgsche-commercie-compagnie",
+     "type": "trade",
+     "label": "MCC sales"
+    }
+   ]
+  },
+  {
+   "id": "new-amsterdam",
+   "name": "New Amsterdam (New Netherland)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "The WIC's settlement on Manhattan, where enslaved Africans arrived from c. 1626 and built Fort Amsterdam. In 1644 eleven company-owned men won 'half-freedom' and land north of the town. The English took the colony in 1664 and renamed it New York.",
+   "start": 1626,
+   "geo": [
+    40.704,
+    -74.013
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "WIC colony"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "political",
+     "label": "seized by the English, 1664"
+    }
+   ]
+  },
+  {
+   "id": "society-of-suriname",
+   "name": "Society of Suriname",
+   "type": "entity",
+   "kind": "Chartered company",
+   "description": "Founded in 1683 and owned in equal thirds by the city of Amsterdam, the Van Aerssen van Sommelsdijck family and the WIC to run Suriname. By 1713 c. 13,000 enslaved Africans worked c. 200 plantations producing sugar, coffee and cocoa for Amsterdam; Suriname received about 40% of all captives landed by the Dutch. Dissolved in 1795.",
+   "start": 1683,
+   "geo": [
+    5.852,
+    -55.204
+   ],
+   "connections": [
+    {
+     "id": "port-amsterdam",
+     "type": "ownership",
+     "label": "one-third owner"
+    },
+    {
+     "id": "van-aerssen-van-sommelsdijck-family",
+     "type": "ownership",
+     "label": "one-third owner"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "one-third owner"
+    },
+    {
+     "id": "hope-and-co",
+     "type": "finance",
+     "label": "plantation loans"
+    }
+   ]
+  },
+  {
+   "id": "christiansborg-castle",
+   "name": "Christiansborg Castle (Osu Castle), Accra",
+   "type": "entity",
+   "kind": "Fort / trading castle",
+   "description": "Denmark-Norway's main Gold Coast fort at Osu, taken over in the late 1650s and the base for Danish slave purchases. Akwamu forces captured it in 1693 and held it for a year. Sold to Britain in 1850, it later served as Ghana's seat of government.",
+   "start": 1661,
+   "geo": [
+    5.548,
+    -0.18
+   ],
+   "connections": [
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "ownership",
+     "label": "Danish headquarters"
+    },
+    {
+     "id": "akwamu-kingdom",
+     "type": "political",
+     "label": "seized by Akwamu, 1693"
+    },
+    {
+     "id": "asante-empire",
+     "type": "trade",
+     "label": "Gold Coast trade"
+    },
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "ownership",
+     "label": "sold to Britain, 1850"
+    }
+   ]
+  },
+  {
+   "id": "fredensborg-ship",
+   "name": "Fredensborg (slave ship, 1768)",
+   "type": "entity",
+   "kind": "Ship / voyage",
+   "description": "A Danish-Norwegian slave ship that embarked c. 265 captives on the Gold Coast and landed 235 on St Croix in 1768, then sank off Tromøy near Arendal, Norway, on its return. Found in 1974, it is one of the very few excavated slave ships; its finds are held by the Aust-Agder museum.",
+   "start": 1768,
+   "geo": [
+    58.438,
+    8.89
+   ],
+   "connections": [
+    {
+     "id": "danish-west-indies",
+     "type": "voyage",
+     "label": "landed captives on St Croix"
+    },
+    {
+     "id": "christiansborg-castle",
+     "type": "voyage",
+     "label": "Gold Coast purchases"
+    },
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "voyage",
+     "label": "Danish-Norwegian flag"
+    }
+   ]
+  },
+  {
+   "id": "gross-friedrichsburg",
+   "name": "Groß Friedrichsburg",
+   "type": "entity",
+   "kind": "Fort / trading castle",
+   "description": "Brandenburg's fort at Princes Town, Ghana, begun on 1 January 1683 and the base of its slave trading. Sold to the Dutch WIC by an agreement of 1717; local ally John Conny held it until 1724, after which the Dutch renamed it Fort Hollandia.",
+   "start": 1683,
+   "geo": [
+    4.793,
+    -2.135
+   ],
+   "connections": [
+    {
+     "id": "brandenburg-african-company",
+     "type": "ownership",
+     "label": "company fort"
+    },
+    {
+     "id": "frederick-william-brandenburg",
+     "type": "ownership",
+     "label": "named after the Elector"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "bought 1717"
+    }
+   ]
+  },
+  {
+   "id": "carolusborg",
+   "name": "Carolusborg (Cape Coast)",
+   "type": "entity",
+   "kind": "Fort / trading castle",
+   "description": "Fort founded by the Swedish Africa Company at Cabo Corso in 1650–53 with the king of Fetu's consent. Captured by the Danes in 1658 and the Dutch in 1663, it was taken by the English in 1664 and rebuilt as Cape Coast Castle.",
+   "start": 1650,
+   "geo": [
+    5.103,
+    -1.241
+   ],
+   "connections": [
+    {
+     "id": "swedish-africa-company",
+     "type": "ownership",
+     "label": "Swedish fort"
+    },
+    {
+     "id": "hendrik-carloff",
+     "type": "ownership",
+     "label": "built and seized by Carloff"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "legacy",
+     "label": "became Cape Coast Castle"
+    }
+   ]
+  },
+  {
+   "id": "danish-west-indies",
+   "name": "Danish West Indies (St Thomas, St John, St Croix)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Denmark-Norway's Caribbean sugar colonies: St Thomas from 1672, St John from 1718 and St Croix, bought from France in 1733. Enslaved people revolted on St John in 1733 and forced emancipation on St Croix on 3 July 1848. Sold to the US in 1917; now the US Virgin Islands.",
+   "start": 1672,
+   "geo": [
+    17.746,
+    -64.703
+   ],
+   "connections": [
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "ownership",
+     "label": "company colony"
+    },
+    {
+     "id": "schimmelmann-family",
+     "type": "plantation",
+     "label": "Schimmelmann plantations"
+    },
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "ownership",
+     "label": "crown colony from 1755"
+    },
+    {
+     "id": "brandenburg-african-company",
+     "type": "trade",
+     "label": "Brandenburg lease on St Thomas"
+    }
+   ]
+  },
+  {
+   "id": "haiti-independence-debt",
+   "name": "Haiti's 'independence debt' (1825 indemnity)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Under naval threat, Charles X's 1825 ordinance made France's recognition of Haiti conditional on 150 million francs to compensate former colonists, including for enslaved 'property'; it was reduced in 1838. Haiti borrowed from French banks to pay. The NYT (2022) found Haiti paid c. 112 million francs (c. $560 million today) through 1947, at an estimated cost of $21–115 billion in lost growth.",
+   "start": 1825,
+   "geo": [
+    18.594,
+    -72.307
+   ],
+   "connections": [
+    {
+     "id": "crown-of-france",
+     "type": "political",
+     "label": "imposed by Charles X"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "legacy",
+     "label": "compensation for lost colony"
+    },
+    {
+     "id": "cic-bank",
+     "type": "finance",
+     "label": "1875 loan"
+    }
+   ]
+  },
+  {
+   "id": "taubira-law",
+   "name": "Taubira Law (2001)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "French Law no. 2001-434 of 21 May 2001, drafted by Christiane Taubira, deputy for French Guiana, recognised the Atlantic and Indian Ocean slave trades and slavery as crimes against humanity. It required them to be taught in schools and led to a national remembrance day (10 May).",
+   "start": 2001,
+   "geo": [
+    48.862,
+    2.318
+   ],
+   "connections": [
+    {
+     "id": "crown-of-france",
+     "type": "legacy",
+     "label": "French state's recognition"
+    },
+    {
+     "id": "code-noir",
+     "type": "legacy",
+     "label": "repudiates colonial slave law"
+    },
+    {
+     "id": "nantes-memorial",
+     "type": "legacy",
+     "label": "memorial culture"
+    }
+   ]
+  },
+  {
+   "id": "danish-1792-decree",
+   "name": "Danish slave-trade decree (1792)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Signed by Christian VII on 16 March 1792 after a commission chaired by Ernst Schimmelmann, it banned the import of captives into the Danish West Indies and their export from Danish forts in Guinea, but only from 1803. It did not end slavery, which lasted until 1848.",
+   "start": 1792,
+   "geo": [
+    55.676,
+    12.58
+   ],
+   "connections": [
+    {
+     "id": "crown-of-denmark-norway",
+     "type": "charter",
+     "label": "royal decree"
+    },
+    {
+     "id": "schimmelmann-family",
+     "type": "political",
+     "label": "Ernst Schimmelmann's commission"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "charter",
+     "label": "applied to the colonies"
+    }
+   ]
+  },
+  {
+   "id": "nantes-memorial",
+   "name": "Mémorial de l'abolition de l'esclavage, Nantes",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Opened on 25 March 2012 on the Quai de la Fosse, the memorial has c. 2,000 glass inserts, about 1,710 of them naming Nantes slave-ship expeditions and their dates. It is one of Europe's largest memorials to the slave trade.",
+   "start": 2012,
+   "geo": [
+    47.208,
+    -1.561
+   ],
+   "connections": [
+    {
+     "id": "port-nantes",
+     "type": "legacy",
+     "label": "Nantes remembers"
+    },
+    {
+     "id": "montaudoin-family",
+     "type": "legacy",
+     "label": "names Nantes voyages"
+    },
+    {
+     "id": "taubira-law",
+     "type": "legacy",
+     "label": "French memorial policy"
+    }
+   ]
+  },
+  {
+   "id": "compagnie-de-guinee",
+   "name": "Compagnie de Guinée (Asiento company)",
+   "type": "entity",
+   "kind": "Chartered company",
+   "description": "French chartered company with the monopoly on the slave trade from Sierra Leone to the Cape of Good Hope. In 1701 Philip V of Spain gave it the asiento to supply captives to Spanish America, which passed to Britain's South Sea Company at the 1713 Treaty of Utrecht.",
+   "start": 1685,
+   "geo": [
+    48.857,
+    2.352
+   ],
+   "connections": [
+    {
+     "id": "crown-of-france",
+     "type": "charter",
+     "label": "royal charter"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "held the asiento 1701–1713"
+    },
+    {
+     "id": "south-sea-company",
+     "type": "legacy",
+     "label": "asiento passed to Britain, 1713"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "legacy",
+     "label": "absorbed into the Indies company"
+    }
+   ]
+  },
+  {
+   "id": "compagnie-du-senegal",
+   "name": "Compagnie du Sénégal",
+   "type": "entity",
+   "kind": "Chartered company",
+   "description": "Successive French chartered companies (from 1673) that ran Saint-Louis and Gorée with a monopoly from Cap Blanc to the Sierra Leone river, trading gum, gold and captives. The monopoly passed to the Compagnie des Indes in December 1718.",
+   "start": 1673,
+   "geo": [
+    16.026,
+    -16.504
+   ],
+   "connections": [
+    {
+     "id": "goree-island",
+     "type": "ownership",
+     "label": "ran Gorée"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "charter",
+     "label": "royal charter"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "legacy",
+     "label": "absorbed 1718"
+    }
+   ]
+  },
+  {
+   "id": "hope-and-co",
+   "name": "Hope & Co.",
+   "type": "entity",
+   "kind": "Bank / insurer",
+   "description": "An Amsterdam merchant bank founded by the Hope family, one of Europe's leading houses in the 18th century. IISH research (2022) found it lent to at least 73 Caribbean plantations with enslaved people as security, and drew c. 25–33% of revenue from slavery in sample years. It is a legal predecessor of ABN AMRO.",
+   "start": 1762,
+   "geo": [
+    52.37,
+    4.887
+   ],
+   "connections": [
+    {
+     "id": "abn-amro",
+     "type": "legacy",
+     "label": "predecessor of ABN AMRO"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "finance",
+     "label": "Suriname plantation loans"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "finance",
+     "label": "Danish colony loans"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "finance",
+     "label": "Amsterdam bank"
+    }
+   ]
+  },
+  {
+   "id": "courland-colonies",
+   "name": "Courland colonies: St Andrew's Island (Gambia) and New Courland (Tobago)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "The Duchy of Courland leased St Andrew's Island in the Gambia River from the Kingdom of Niumi in 1651 and built Fort Jacob, and planted 'New Courland' on Tobago from 1654. The Gambia fort fell to the Dutch and then the English (1661), becoming James Island, today Kunta Kinteh Island.",
+   "start": 1651,
+   "geo": [
+    13.317,
+    -16.361
+   ],
+   "connections": [
+    {
+     "id": "jacob-kettler-courland",
+     "type": "ownership",
+     "label": "Duke Jacob's colonies"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "legacy",
+     "label": "became English James Fort"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "seized 1659"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1621,
+   "title": "Dutch West India Company chartered",
+   "text": "The States General gave the WIC a monopoly on Dutch Atlantic trade and war, the vehicle for the Dutch slave trade.",
+   "ids": [
+    "dutch-west-india-company"
+   ],
+   "source": {
+    "label": "Canon van Nederland — Slavernij",
+    "url": "https://www.canonvannederland.nl/en/slavernij"
+   }
+  },
+  {
+   "year": 1637,
+   "title": "WIC seizes Elmina",
+   "text": "Dutch forces took Elmina from Portugal; between 1637 and 1641 they also took São Tomé and Luanda.",
+   "ids": [
+    "dutch-west-india-company",
+    "elmina-castle",
+    "crown-of-portugal"
+   ],
+   "source": {
+    "label": "Project MANIFEST — The United Provinces and the Transatlantic Slave Trade",
+    "url": "https://www.projectmanifest.eu/the-united-provinces-and-the-transatlantic-slave-trade-en-fr/"
+   }
+  },
+  {
+   "year": 1650,
+   "title": "Swedes build Carolusborg at Cape Coast",
+   "text": "Hendrik Carloff, for the Swedish Africa Company, built the fort that later became Cape Coast Castle.",
+   "ids": [
+    "swedish-africa-company",
+    "hendrik-carloff",
+    "carolusborg",
+    "cape-coast-castle"
+   ],
+   "source": {
+    "label": "Wikipedia — Swedish Gold Coast",
+    "url": "https://en.wikipedia.org/wiki/Swedish_Gold_Coast"
+   }
+  },
+  {
+   "year": 1683,
+   "title": "Groß Friedrichsburg founded",
+   "text": "Brandenburg built its Gold Coast fort; gold proved scarce and the trade turned to captives.",
+   "ids": [
+    "brandenburg-african-company",
+    "gross-friedrichsburg",
+    "frederick-william-brandenburg",
+    "benjamin-raule"
+   ],
+   "source": {
+    "label": "Wikipedia — Brandenburger Gold Coast",
+    "url": "https://en.wikipedia.org/wiki/Brandenburger_Gold_Coast"
+   }
+  },
+  {
+   "year": 1685,
+   "title": "Code Noir and the Coymans asiento",
+   "text": "Louis XIV issued the Code Noir governing slavery in French colonies; the same year Dutchman Balthasar Coymans won the Spanish asiento.",
+   "ids": [
+    "code-noir",
+    "crown-of-france",
+    "coymans-family",
+    "spanish-asiento"
+   ],
+   "source": {
+    "label": "BnF — « Code Noir » (The Black Code)",
+    "url": "https://heritage.bnf.fr/france-ameriques/en/code-noir-black-code"
+   }
+  },
+  {
+   "year": 1701,
+   "title": "French Guinea Company wins the asiento",
+   "text": "Philip V of Spain granted the Compagnie royale de Guinée the asiento to supply captives to Spanish America.",
+   "ids": [
+    "compagnie-de-guinee",
+    "crown-of-france",
+    "spanish-asiento"
+   ],
+   "source": {
+    "label": "AHA — Trans-Imperial Bondage: The French Slave Trade in the Spanish Caribbean",
+    "url": "https://aha.confex.com/aha/2015/webprogram/Paper15525.html"
+   }
+  },
+  {
+   "year": 1768,
+   "title": "Slave ship Fredensborg wrecked in Norway",
+   "text": "After landing 235 captives on St Croix, the Danish-Norwegian ship sank off Tromøy; its wreck, found in 1974, is one of very few excavated slave ships.",
+   "ids": [
+    "fredensborg-ship",
+    "danish-west-indies",
+    "crown-of-denmark-norway"
+   ],
+   "source": {
+    "label": "Cambridge — History in Africa: The slave ship Fredensborg",
+    "url": "https://www.cambridge.org/core/journals/history-in-africa/article/slave-ship-fredensborg-history-shipwreck-and-find/312D4B37E3E6FD5AB492C4677517193E"
+   }
+  },
+  {
+   "year": 1791,
+   "title": "Revolution in Saint-Domingue",
+   "text": "Enslaved people rose up in August 1791 in France's richest colony, which became independent Haiti on 1 January 1804.",
+   "ids": [
+    "saint-domingue",
+    "crown-of-france"
+   ],
+   "source": {
+    "label": "John Carter Brown Library — Saint-Domingue Before the Revolution",
+    "url": "https://www.brown.edu/Facilities/John_Carter_Brown_Library/exhibitions/haitian/pages/part1.html"
+   }
+  },
+  {
+   "year": 1792,
+   "title": "Danish slave-trade ban decreed",
+   "text": "Christian VII signed the decree of 16 March 1792 banning the trade from 1803; imports grew during the delay.",
+   "ids": [
+    "danish-1792-decree",
+    "crown-of-denmark-norway",
+    "schimmelmann-family"
+   ],
+   "source": {
+    "label": "EBSCO Research Starters — Denmark Abolishes the Slave Trade",
+    "url": "https://ebsco.com/research-starters/history/denmark-abolishes-slave-trade"
+   }
+  },
+  {
+   "year": 1825,
+   "title": "Haiti forced to pay 'independence debt'",
+   "text": "Charles X's ordinance demanded 150 million francs from Haiti, under naval threat, in return for recognition.",
+   "ids": [
+    "haiti-independence-debt",
+    "crown-of-france",
+    "cic-bank"
+   ],
+   "source": {
+    "label": "Wikipedia — Haitian independence debt",
+    "url": "https://en.wikipedia.org/wiki/Haitian_independence_debt"
+   }
+  },
+  {
+   "year": 1848,
+   "title": "Emancipation in French and Danish colonies",
+   "text": "France abolished slavery on 27 April 1848, freeing c. 250,000 people; on 3 July enslaved people on St Croix forced emancipation in the Danish West Indies.",
+   "ids": [
+    "crown-of-france",
+    "danish-west-indies",
+    "crown-of-denmark-norway"
+   ],
+   "source": {
+    "label": "Wikipedia — Decree of the Abolition of Slavery of April 27, 1848",
+    "url": "https://en.wikipedia.org/wiki/Decree_of_the_Abolition_of_Slavery_of_April_27,_1848"
+   }
+  },
+  {
+   "year": 1863,
+   "title": "Dutch abolition (Keti Koti)",
+   "text": "The Netherlands abolished slavery in Suriname and the Antilles on 1 July 1863, compensating enslavers; forced 'state supervision' labour lasted to 1873.",
+   "ids": [
+    "society-of-suriname",
+    "de-nederlandsche-bank",
+    "house-of-orange"
+   ],
+   "source": {
+    "label": "DNB — DNB apologises for its historical links to slavery",
+    "url": "https://www.dnb.nl/en/general-news/2022/dnb-apologises-for-its-historical-links-to-slavery"
+   }
+  },
+  {
+   "year": 2001,
+   "title": "France's Taubira Law",
+   "text": "France recognised the slave trade and slavery as crimes against humanity, the first such national law.",
+   "ids": [
+    "taubira-law",
+    "crown-of-france"
+   ],
+   "source": {
+    "label": "University of Edinburgh MMOE — Loi Taubira (2001)",
+    "url": "https://www.mmoe.llc.ed.ac.uk/fr/general-keywords/taubira-law-2001"
+   }
+  },
+  {
+   "year": 2021,
+   "title": "Amsterdam apologises",
+   "text": "Mayor Femke Halsema apologised on 1 July 2021 for the city government's active involvement in colonial slavery.",
+   "ids": [
+    "port-amsterdam",
+    "society-of-suriname"
+   ],
+   "source": {
+    "label": "DutchNews — Amsterdam mayor apologises for slavery past",
+    "url": "https://dutchnews.nl/2021/07/amsterdam-mayor-apologises-for-slavery-past-as-advisory-group-calls-for-action"
+   }
+  },
+  {
+   "year": 2023,
+   "title": "Dutch king apologises",
+   "text": "After 2022 apologies by ABN AMRO, DNB and PM Rutte, King Willem-Alexander apologised on 1 July 2023 for slavery and his ancestors' part in it.",
+   "ids": [
+    "house-of-orange",
+    "abn-amro",
+    "de-nederlandsche-bank",
+    "dutch-west-india-company"
+   ],
+   "source": {
+    "label": "DutchReview — King Willem-Alexander apologises for the Netherlands' role in slavery",
+    "url": "https://dutchreview.com/featured/king-willem-alexander-apologises-netherlands-slavery"
+   }
+  }
+ ]
+}

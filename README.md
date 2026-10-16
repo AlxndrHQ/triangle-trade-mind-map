@@ -30,4 +30,12 @@ Entities (ports, forts, ships, charters, institutions) use `{id, name, type:"ent
 
 The records draw on mainstream scholarship and archives: the [SlaveVoyages](https://www.slavevoyages.org) databases, UCL's [Legacies of British Slavery](https://www.ucl.ac.uk/lbs/), national and corporate archives, university reports (Brown, Georgetown, Harvard) and museum sites. Each dossier lists its own sources. Scale ratings are relative judgements, marked "est." where estimated. Including a modern institution reflects its documented historical ties or its own acknowledgement, not present-day wrongdoing.
 
+## Rebuilding
+
+`research/g1.json … g9.json` are the source files, one per research group: Iberia & explorers, Britain, continental Europe, African states, the Americas, African trading families, US planter families, Dutch/Portuguese/German/Swiss families, and financiers & legacy today. `research/SCHEMA.md` is the record format. To merge them, check links, and regenerate `data.json` plus the embedded copy in `index.html`, run:
+
+```sh
+python3 tools/build.py research .
+```
+
 Corrections and additions are welcome. Open an issue with a source.

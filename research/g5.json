@@ -1,0 +1,2837 @@
+{
+ "records": [
+  {
+   "id": "dewolf-family",
+   "name": "DeWolf family of Bristol, Rhode Island",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Per the Tracing Center and Brown-affiliated research, the extended family financed or commanded voyages carrying c. 10,000–12,000 enslaved Africans across the Atlantic between 1769 and 1820, making it the largest slave-trading family in US history.",
+   "start": 1769,
+   "end": 1820,
+   "lifespan": "1769–1820 (trade); Cuban plantations held into the 1840s",
+   "base": "Bristol, Rhode Island",
+   "geo": [
+    41.677,
+    -71.266
+   ],
+   "aliases": [
+    "D'Wolf family",
+    "Mark Anthony DeWolf and sons"
+   ],
+   "origins": "Mark Anthony DeWolf, a sailor from Guadeloupe, settled in Bristol and captained slaving voyages for the Newport merchant Simeon Potter in the 1760s. His sons, including James, John, William, Charles and later grandson George, built a family business around ships, rum distilleries, insurance and banking in Bristol.",
+   "role_summary": "The DeWolfs ran a closed triangle: Bristol rum went to West Africa, captives were carried to Havana, Charleston and other markets, and Cuban sugar and molasses returned to the family distilleries. They kept trading after Rhode Island's 1787 ban and the federal ban of 1808, using Cuban plantations and the family's own bank and insurance company.",
+   "roleDetail": [
+    {
+     "t": "Largest US slave-trading family.",
+     "d": "Estimates of c. 10,000–12,000 Africans carried on family-financed voyages (1769–1820) come from the Tracing Center and the 'Traces of the Trade' research.",
+     "basis": "documented"
+    },
+    {
+     "t": "Vertically integrated business.",
+     "d": "The family owned ships, distilleries, the Bank of Bristol and the Mount Hope Insurance Company, and plantations in Cuba that received captives and supplied sugar.",
+     "basis": "documented"
+    },
+    {
+     "t": "Trading through bans.",
+     "d": "Rhode Island outlawed the trade in 1787 and Congress in 1808, yet the DeWolfs continued to finance voyages, relying on Cuban ports and weak federal enforcement.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The family's wealth built Bristol's Federal-era mansions, including Linden Place (1810), now a house museum. In 2008 descendant Katrina Browne released the documentary 'Traces of the Trade: A Story from the Deep North', and the Tracing Center continues education on Northern complicity.",
+   "legacyDetail": [
+    {
+     "t": "Traces of the Trade (2008).",
+     "d": "Ten descendants retraced the triangle to Bristol, Ghana and Cuba in the Emmy-nominated PBS documentary; Thomas Norman DeWolf's book 'Inheriting the Trade' accompanies it.",
+     "basis": "documented"
+    },
+    {
+     "t": "Linden Place.",
+     "d": "Built for George DeWolf in 1810, later bought by James DeWolf; today a museum that interprets the family's slave-trade wealth.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Tracing Center — James DeWolf",
+     "url": "https://www.tracingcenter.org/resources/background/james-dewolf/"
+    },
+    {
+     "label": "Providence Journal / USA Today Network — Living Off the Trade: Bristol and the DeWolfs",
+     "url": "https://stories.usatodaynetwork.com/slaveryinrhodeisland/living-off-the-trade-bristol-and-the-dewolfs/"
+    },
+    {
+     "label": "Linden Place — Meet the Family",
+     "url": "https://www.lindenplace.org/meet-the-family"
+    },
+    {
+     "label": "Christian Science Monitor — Family confronts the North's slave-trading past",
+     "url": "https://www.csmonitor.com/2008/0131/p13s02-lire.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "james-dewolf",
+     "type": "family",
+     "label": "leading family member"
+    },
+    {
+     "id": "port-bristol-rhode-island",
+     "type": "ownership",
+     "label": "home port, ships and distilleries"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "sold captives at Havana"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "sold captives at Charleston, 1804–07"
+    },
+    {
+     "id": "port-newport",
+     "type": "voyage",
+     "label": "Mark Anthony DeWolf sailed for Newport merchants"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "continued trading after the 1808 ban"
+    }
+   ]
+  },
+  {
+   "id": "james-dewolf",
+   "name": "James DeWolf",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Organised or financed dozens of slaving voyages from Bristol over c. 50 years; often described (Tracing Center) as the most prominent slave trader in US history.",
+   "start": 1787,
+   "end": 1820,
+   "lifespan": "1764–1837",
+   "base": "Bristol, Rhode Island",
+   "geo": [
+    41.677,
+    -71.266
+   ],
+   "aliases": [
+    "Captain Jim DeWolf"
+   ],
+   "origins": "A son of Mark Anthony DeWolf, James went to sea young and commanded slaving voyages in the 1780s. He married into the Bradford family and invested his profits in ships, distilling, Cuban plantations and later textile mills.",
+   "role_summary": "As captain of the Polly in 1789–90 he ordered an enslaved woman sick with smallpox thrown overboard; he was indicted but never convicted. As a shipowner he went on to finance numerous voyages into the 1810s, while serving as a Rhode Island legislator and, from 1821 to 1825, a US senator.",
+   "roleDetail": [
+    {
+     "t": "The Polly killing.",
+     "d": "In 1791 a federal grand jury indicted him for murdering a woman with smallpox aboard the Polly; he left the state, and a later St. Thomas inquiry cleared him.",
+     "basis": "documented"
+    },
+    {
+     "t": "Financier-politician.",
+     "d": "He served in the US Senate 1821–25 and was among the richest men in the country at his death in 1837.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His fortune moved into Cuban plantations and New England textile mills. His descendants include Katrina Browne, whose 2008 film 'Traces of the Trade' examined his record.",
+   "legacyDetail": [
+    {
+     "t": "Senator and slave trader.",
+     "d": "His career shows how slave-trade wealth carried into national political office in the early republic.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Tracing Center — James DeWolf",
+     "url": "https://www.tracingcenter.org/resources/background/james-dewolf/"
+    },
+    {
+     "label": "Wikipedia — James DeWolf",
+     "url": "https://en.wikipedia.org/wiki/James_DeWolf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dewolf-family",
+     "type": "family",
+     "label": "son of Mark Anthony DeWolf"
+    },
+    {
+     "id": "port-bristol-rhode-island",
+     "type": "ownership",
+     "label": "shipowner and distiller"
+    },
+    {
+     "id": "port-havana",
+     "type": "plantation",
+     "label": "Cuban sugar and coffee plantations"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "evaded federal bans"
+    }
+   ]
+  },
+  {
+   "id": "brown-family-providence",
+   "name": "Brown family of Providence",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per Brown University's 2006 report, the family firm and individual brothers backed a handful of slaving voyages (most notoriously the Sally, 1764–65) among Rhode Island's c. 1,000; their broader fortune rested on rum, candles, iron and Caribbean trade.",
+   "start": 1736,
+   "end": 1797,
+   "lifespan": "1730s–1800s",
+   "base": "Providence, Rhode Island",
+   "geo": [
+    41.824,
+    -71.413
+   ],
+   "aliases": [
+    "Nicholas Brown and Company",
+    "Nicholas, John, Joseph and Moses Brown"
+   ],
+   "origins": "The Browns were Providence merchants; James and Obadiah Brown sent an early slaving voyage in 1736. The four brothers Nicholas, Joseph, John and Moses ran Nicholas Brown and Company, trading in rum, spermaceti candles, iron and West Indian goods.",
+   "role_summary": "The firm sent the brigantine Sally to West Africa in 1764; of 196 Africans bought, at least 109 died. The family later split: Moses Brown became a Quaker abolitionist, while John Brown kept trading and in 1797 became the first American tried under the federal Slave Trade Act of 1794.",
+   "roleDetail": [
+    {
+     "t": "The Sally voyage (1764–65).",
+     "d": "Captain Esek Hopkins bought 196 Africans; at least 109 died from revolt, suicide, starvation and disease before survivors were sold in Antigua.",
+     "basis": "documented"
+    },
+    {
+     "t": "Brother against brother.",
+     "d": "Moses Brown freed the people he enslaved in 1773 and helped found the Providence Abolition Society; it pursued his brother John, whose ship Hope was forfeited after an 1797 federal case.",
+     "basis": "documented"
+    },
+    {
+     "t": "University founders.",
+     "d": "The family was the main benefactor of the College in the English Colony of Rhode Island, renamed Brown University in 1804 after Nicholas Brown Jr.'s gift.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Brown University carries the family name. In 2006 its Steering Committee on Slavery and Justice published a report on the family's and university's ties to slavery, which led to a memorial on campus (2014) and new research and education commitments.",
+   "legacyDetail": [
+    {
+     "t": "Slavery and Justice report (2006).",
+     "d": "Commissioned by President Ruth Simmons, it documented the Sally voyage and recommended memorials and education programs.",
+     "basis": "documented"
+    },
+    {
+     "t": "John Brown House.",
+     "d": "The house of the Sally co-owner now hosts the Rhode Island Historical Society and has displayed the 'Sally' exhibit.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Brown University — Slavery and Justice report (2006, PDF)",
+     "url": "https://slaveryandjustice.brown.edu/sites/default/files/reports/SlaveryAndJustice2006.pdf"
+    },
+    {
+     "label": "Brown University Library — Voyage of the Slave Ship Sally, 1764–1765",
+     "url": "https://cds.lib.brown.edu/cds-project/voyage-slave-ship-sally-1764-1765"
+    },
+    {
+     "label": "Providence Journal / USA Today Network — Brown vs. Brown: Brothers go head to head",
+     "url": "https://stories.usatodaynetwork.com/slaveryinrhodeisland/?p=131"
+    },
+    {
+     "label": "Rhode Island Historical Society — John Brown papers, historical note",
+     "url": "https://www.rihs.org/mssinv/Mss312.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sally-1764",
+     "type": "ownership",
+     "label": "owned the Sally"
+    },
+    {
+     "id": "esek-hopkins",
+     "type": "voyage",
+     "label": "hired Hopkins as master of the Sally"
+    },
+    {
+     "id": "brown-university",
+     "type": "legacy",
+     "label": "main benefactors; name of university"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "John Brown's Hope voyage to Havana"
+    },
+    {
+     "id": "aaron-lopez",
+     "type": "trade",
+     "label": "fellow Rhode Island merchant; candle-trade associate"
+    },
+    {
+     "id": "port-newport",
+     "type": "trade",
+     "label": "Rhode Island slaving network"
+    }
+   ]
+  },
+  {
+   "id": "esek-hopkins",
+   "name": "Esek Hopkins",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Master of the Brown family's Sally (1764–65), on which at least 109 of 196 Africans died (per Brown University).",
+   "start": 1764,
+   "end": 1765,
+   "lifespan": "1718–1802",
+   "base": "Providence, Rhode Island",
+   "geo": [
+    41.824,
+    -71.413
+   ],
+   "aliases": [],
+   "origins": "A Rhode Island sea captain and privateer and brother of Governor Stephen Hopkins. The Browns hired him in 1764 for their slaving venture despite his lack of experience in the African trade.",
+   "role_summary": "Hopkins spent about nine months on the Upper Guinea coast buying 196 Africans. During the crossing captives revolted; Hopkins's crew shot or wounded several, and others died of disease, starvation and suicide. Survivors were sold in Antigua.",
+   "roleDetail": [
+    {
+     "t": "Deadly voyage.",
+     "d": "At least 109 of the 196 people bought died, one of the deadliest Rhode Island voyages documented.",
+     "basis": "documented"
+    },
+    {
+     "t": "Later naval career.",
+     "d": "In 1775 the Continental Congress appointed him the first commander-in-chief of the Continental Navy.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Hopkins is commemorated in Providence (a statue and a park), while Brown University's research has made the Sally voyage the best-known case study of Rhode Island's slave trade.",
+   "legacyDetail": [
+    {
+     "t": "Contested commemoration.",
+     "d": "His naval role is honoured locally, which sits uneasily with his record on the Sally.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Brown University Library — Voyage of the Slave Ship Sally, 1764–1765",
+     "url": "https://cds.lib.brown.edu/cds-project/voyage-slave-ship-sally-1764-1765"
+    },
+    {
+     "label": "Wikipedia — Sally (1764 ship)",
+     "url": "https://en.wikipedia.org/wiki/Sally_(1764_ship)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "sally-1764",
+     "type": "voyage",
+     "label": "master of the Sally"
+    },
+    {
+     "id": "brown-family-providence",
+     "type": "voyage",
+     "label": "sailed for Nicholas Brown and Company"
+    },
+    {
+     "id": "brown-university",
+     "type": "legacy",
+     "label": "Sally voyage central to Brown's 2006 report"
+    }
+   ]
+  },
+  {
+   "id": "aaron-lopez",
+   "name": "Aaron Lopez",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Took part in roughly a dozen or more slaving voyages (c. 14 by one count) between 1761 and 1774, including the Cleopatra's voyages carrying 400+ Africans to Barbados and Jamaica; slaving was a small share of his business and of Rhode Island's c. 1,000 voyages.",
+   "start": 1761,
+   "end": 1774,
+   "lifespan": "1731–1782",
+   "base": "Newport, Rhode Island",
+   "geo": [
+    41.49,
+    -71.313
+   ],
+   "aliases": [
+    "Duarte Lopez"
+   ],
+   "origins": "Born Duarte Lopez into a converso family in Portugal, he emigrated to Newport in 1752, openly returned to Judaism and took the name Aaron. He became Newport's wealthiest merchant, trading in spermaceti candles, whaling, rum and Caribbean goods with his father-in-law Jacob Rodriguez Rivera.",
+   "role_summary": "Lopez and Rivera co-owned or invested in slaving voyages to West Africa, with captives sold mainly in the British Caribbean. Historians, beginning with Virginia Platt (1975), document the voyages while noting they were a minor and often unprofitable part of his trade.",
+   "roleDetail": [
+    {
+     "t": "Documented voyages.",
+     "d": "The Cleopatra, co-owned with Rivera, made at least three voyages (1770–74) carrying over 400 Africans to Barbados and Jamaica.",
+     "basis": "documented"
+    },
+    {
+     "t": "Context, not tropes.",
+     "d": "Jewish merchants were a small minority of Rhode Island and Atlantic slave traders; the great majority of Newport and Bristol voyages were sent by Christian merchants such as the DeWolfs and Browns.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Lopez fled Newport during the Revolution and drowned in 1782. He was a founding member of Touro Synagogue's congregation, and Newport historians now include his slaving voyages in accounts of the city's past.",
+   "legacyDetail": [
+    {
+     "t": "Historiography.",
+     "d": "Antisemitic tracts have exaggerated Lopez's role; mainstream scholarship (Platt; Coughtry) places him as one of many Newport traders.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "RI Historical Society bibliography — 'And Don't Forget the Guinea Voyage': The Slave Trade of Aaron Lopez of Newport (Platt, WMQ 1975)",
+     "url": "https://navigator.rihs.org/rhode-island-a-bibliography-of-its-history/and-dont-forget-the-guinea-voyage-the-slave-trade-of-aaron-lopez-of-newport/"
+    },
+    {
+     "label": "The Public's Radio — The irony of Aaron Lopez, the merchant prince of Newport",
+     "url": "https://explore.thepublicsradio.org/stories/the-irony-of-aaron-lopez-the-merchant-prince-of-newport/"
+    },
+    {
+     "label": "Wikipedia — Cleopatra (slave ship)",
+     "url": "https://en.wikipedia.org/wiki/Cleopatra_(slave_ship)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-newport",
+     "type": "ownership",
+     "label": "Newport merchant house"
+    },
+    {
+     "id": "brown-family-providence",
+     "type": "trade",
+     "label": "candle-trade associates"
+    },
+    {
+     "id": "dewolf-family",
+     "type": "parallel",
+     "label": "Rhode Island slaving merchants"
+    }
+   ]
+  },
+  {
+   "id": "peter-faneuil",
+   "name": "Peter Faneuil",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Boston merchant who traded with the slave-based Caribbean and invested in at least one slaving venture; he enslaved at least five people in his household, valued at £620 in his estate.",
+   "start": 1738,
+   "end": 1743,
+   "lifespan": "1700–1743",
+   "base": "Boston, Massachusetts",
+   "geo": [
+    42.36,
+    -71.056
+   ],
+   "aliases": [],
+   "origins": "Born to a Huguenot family that fled La Rochelle for New York and Boston, Faneuil inherited the fortune of his uncle Andrew Faneuil in 1738. The family traded fish, timber and provisions to the West Indies and imported sugar and molasses.",
+   "role_summary": "Faneuil's trade supplied Caribbean slave plantations and he took part in the triangle trade, including at least one slaving voyage. In 1740 he offered Boston a market hall; Faneuil Hall opened in 1742, built in part with profits tied to slavery.",
+   "roleDetail": [
+    {
+     "t": "Household slavery.",
+     "d": "His estate inventory listed five enslaved people; a 1738 letter refers to buying an enslaved boy.",
+     "basis": "documented"
+    },
+    {
+     "t": "Funding the 'Cradle of Liberty'.",
+     "d": "The National Park Service acknowledges that part of the money for Faneuil Hall came from the slave trade; how central slavery was to his wealth is debated.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Faneuil Hall became the 'Cradle of Liberty', where colonists protested British rule. Since 2017 activists have called for renaming it; Boston has declined but considered an auction-block memorial by artist Steven Locke.",
+   "legacyDetail": [
+    {
+     "t": "Renaming debate.",
+     "d": "The New Democracy Coalition proposed renaming the hall (e.g. after Crispus Attucks); Mayor Marty Walsh rejected the idea in 2017.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "History of Massachusetts — Was Faneuil Hall Built with Slave Money?",
+     "url": "https://historyofmassachusetts.org/?p=62"
+    },
+    {
+     "label": "GBH — Proposed memorial at Faneuil Hall would recognize the victims of the slave trade",
+     "url": "https://wgbh.org/culture/2018-07-13/proposed-memorial-at-faneuil-hall-would-recognize-the-victims-of-the-slave-trade"
+    },
+    {
+     "label": "Wikipedia — Peter Faneuil",
+     "url": "https://en.wikipedia.org/wiki/Peter_Faneuil"
+    }
+   ],
+   "connections": [
+    {
+     "id": "faneuil-hall",
+     "type": "ownership",
+     "label": "funded and donated the hall"
+    },
+    {
+     "id": "royall-family",
+     "type": "parallel",
+     "label": "fellow Boston-area elite with Caribbean slavery wealth"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "parallel",
+     "label": "Huguenot merchant networks linking French and British Caribbean"
+    }
+   ]
+  },
+  {
+   "id": "royall-family",
+   "name": "Royall family (Antigua and Medford)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Among the largest slaveholding families in colonial Massachusetts; they brought 27 enslaved people from Antigua in 1737, and more than 60 people were held on the Medford estate over four decades (per the Royall House and Slave Quarters).",
+   "start": 1700,
+   "end": 1775,
+   "lifespan": "c. 1700–1781",
+   "base": "Medford, Massachusetts",
+   "geo": [
+    42.414,
+    -71.11
+   ],
+   "aliases": [
+    "Isaac Royall Sr.",
+    "Isaac Royall Jr."
+   ],
+   "origins": "Isaac Royall Sr. (c. 1677–1739) grew rich in Antigua as a sugar planter, rum distiller and slave trader. In 1732 he bought a 504-acre Medford estate and moved there in 1737 with his family and 27 enslaved Africans.",
+   "role_summary": "The Royalls ran an Antigua sugar plantation and traded enslaved people while holding dozens in bondage at Medford. Isaac Royall Jr., a Loyalist, fled in 1775; his bequest funded Harvard's first professorship of law.",
+   "roleDetail": [
+    {
+     "t": "Caribbean to New England.",
+     "d": "The family's Antigua sugar wealth paid for the Medford mansion and its surviving slave quarters.",
+     "basis": "documented"
+    },
+    {
+     "t": "Belinda Sutton's petition.",
+     "d": "In 1783 Belinda, a woman the Royalls had enslaved, successfully petitioned the Massachusetts legislature for a pension from the Royall estate.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Royall House and Slave Quarters in Medford is a museum interpreting the family's enslavement of Africans. Harvard Law School's shield, based on the Royall coat of arms, was retired by the Harvard Corporation in March 2016 after student protests ('Royall Must Fall').",
+   "legacyDetail": [
+    {
+     "t": "Harvard Law shield retired (2016).",
+     "d": "The Harvard Corporation voted unanimously to retire the 80-year-old emblem.",
+     "basis": "documented"
+    },
+    {
+     "t": "Only surviving freestanding slave quarters in New England.",
+     "d": "The 1730s building is a rare physical record of Northern slavery.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Royall House and Slave Quarters — The Royalls",
+     "url": "https://www.royallhouse.org/the-royalls/"
+    },
+    {
+     "label": "Bloomberg Law — At Harvard Law School, Battle for Inclusion Continues (2016)",
+     "url": "https://news.bgov.com/before-the-bar/at-harvard-law-school-battle-for-inclusion-continues"
+    },
+    {
+     "label": "Wikipedia — Royall House and Slave Quarters",
+     "url": "https://en.wikipedia.org/wiki/Royall_House_and_Slave_Quarters"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royall-house-medford",
+     "type": "plantation",
+     "label": "Medford estate and slave quarters"
+    },
+    {
+     "id": "peter-faneuil",
+     "type": "parallel",
+     "label": "Boston-area merchant elite"
+    },
+    {
+     "id": "codrington-family",
+     "type": "parallel",
+     "label": "fellow Antigua sugar planters"
+    }
+   ]
+  },
+  {
+   "id": "henry-laurens",
+   "name": "Henry Laurens",
+   "category": "American Families",
+   "role": "Broker & Agent",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "His firm Austin & Laurens handled the sale of c. 8,000–10,000 Africans at Charleston between 1749 and 1762, one of the largest slave-trading houses in North America; he held c. 300 enslaved people at his death.",
+   "start": 1749,
+   "end": 1792,
+   "lifespan": "1724–1792",
+   "base": "Charleston, South Carolina",
+   "geo": [
+    32.777,
+    -79.931
+   ],
+   "aliases": [
+    "Austin & Laurens",
+    "Austin, Laurens & Appleby"
+   ],
+   "origins": "The son of a Huguenot saddler in Charleston, Laurens trained in a London counting house. In 1748 he formed a partnership with merchant George Austin to export rice and import goods.",
+   "role_summary": "Austin & Laurens received slave ships on commission (10%, double the rate for other goods), advertised and auctioned captives in Charleston, and acted as agents for British firms including Richard Oswald's, which ran Bunce Island in Sierra Leone. Laurens left the direct trade around 1763 but remained a large planter.",
+   "roleDetail": [
+    {
+     "t": "Commission merchant.",
+     "d": "The firm marketed thousands of captives arriving from Senegambia, Sierra Leone and elsewhere, earning commissions per sale.",
+     "basis": "documented"
+    },
+    {
+     "t": "Revolutionary leader.",
+     "d": "He was President of the Continental Congress (1777–78), was held in the Tower of London (1780–81), and helped negotiate the 1783 peace with Richard Oswald, his former trade partner.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His Mepkin plantation is now Mepkin Abbey, a Trappist monastery. Charleston's role as a principal US landing port is now interpreted at the International African American Museum (opened 2023).",
+   "legacyDetail": [
+    {
+     "t": "Austin & Laurens records.",
+     "d": "The 'Papers of Henry Laurens' are a key source for the Charleston slave market.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "World History Encyclopedia — Henry Laurens",
+     "url": "https://www.worldhistory.org/Henry_Laurens/"
+    },
+    {
+     "label": "Encyclopedia.com — Laurens, Henry (1724–1792)",
+     "url": "https://encyclopedia.com/people/history/us-history-biographies/henry-laurens"
+    },
+    {
+     "label": "Wikipedia — Henry Laurens",
+     "url": "https://en.wikipedia.org/wiki/Henry_Laurens"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "auctioned captives at Charleston"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "agent for Oswald's Bunce Island captives"
+    },
+    {
+     "id": "port-london",
+     "type": "political",
+     "label": "held in the Tower of London, 1780–81"
+    },
+    {
+     "id": "international-african-american-museum",
+     "type": "legacy",
+     "label": "Charleston landing history interpreted"
+    }
+   ]
+  },
+  {
+   "id": "franklin-and-armfield",
+   "name": "Franklin & Armfield",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "The largest domestic slave-trading firm in the US, 1828–1836 (Encyclopedia Virginia); it shipped c. 1,000 people a year in the 1830s, and the City of Alexandria counts over 3,750 people exported.",
+   "start": 1828,
+   "end": 1836,
+   "lifespan": "1828–1836",
+   "base": "Alexandria, Virginia",
+   "geo": [
+    38.804,
+    -77.056
+   ],
+   "aliases": [],
+   "origins": "Isaac Franklin had traded enslaved people from the Chesapeake to Natchez since 1808; he met John Armfield in 1824 and they formed a partnership in 1828. They leased a building at 1315 Duke Street, Alexandria, and turned it into a holding pen.",
+   "role_summary": "Armfield bought people in Maryland and Virginia, held them in Alexandria and sent them south by coastal ship or on foot in chained coffles. Franklin sold them in Natchez and New Orleans to cotton and sugar planters, profiting from the post-1808 domestic trade.",
+   "roleDetail": [
+    {
+     "t": "Coastal shipping line.",
+     "d": "The firm ran its own vessels from Alexandria to New Orleans, as well as overland coffles to Natchez.",
+     "basis": "documented"
+    },
+    {
+     "t": "Second Middle Passage.",
+     "d": "The firm was a major channel of the forced migration of c. 1 million people from the Upper South to the Deep South.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The partners retired rich in 1836. The Alexandria pen is now the Freedom House Museum, run by the City of Alexandria; historian Joshua Rothman's 'The Ledger and the Chain' (2021) reconstructs the firm's history.",
+   "legacyDetail": [
+    {
+     "t": "Freedom House Museum.",
+     "d": "The 1315 Duke Street building is a National Historic Landmark interpreting the domestic slave trade.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia Virginia — Franklin and Armfield",
+     "url": "https://encyclopediavirginia.org/entries/franklin-and-armfield/"
+    },
+    {
+     "label": "New York Review of Books — Partners in Brutality (on the domestic slave trade)",
+     "url": "https://www.nybooks.com/articles/2021/11/18/partners-in-brutality-domestic-slave-trade/"
+    },
+    {
+     "label": "City of Alexandria — Freedom House Museum",
+     "url": "https://www.alexandriava.gov/go/1760"
+    }
+   ],
+   "connections": [
+    {
+     "id": "isaac-franklin",
+     "type": "ownership",
+     "label": "co-founder; ran New Orleans and Natchez"
+    },
+    {
+     "id": "freedom-house-alexandria",
+     "type": "ownership",
+     "label": "Alexandria slave pen"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "sold people at New Orleans"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "domestic trade boomed after 1808 import ban"
+    }
+   ]
+  },
+  {
+   "id": "isaac-franklin",
+   "name": "Isaac Franklin",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Co-head of the largest US domestic slave-trading firm; held 636 people in slavery at his death in 1846 (per Wikipedia, citing estate records).",
+   "start": 1808,
+   "end": 1846,
+   "lifespan": "1789–1846",
+   "base": "Gallatin, Tennessee (Fairvue)",
+   "geo": [
+    36.388,
+    -86.447
+   ],
+   "aliases": [],
+   "origins": "Born in Sumner County, Tennessee, Franklin began buying people in Baltimore and Alexandria with his brothers in 1808 and taking them down the Mississippi to Natchez and New Orleans.",
+   "role_summary": "As partner in Franklin & Armfield he ran the selling end of the business in Natchez and New Orleans. He invested his profits in Fairvue plantation in Tennessee and several cotton plantations in West Feliciana Parish, Louisiana, including Angola.",
+   "roleDetail": [
+    {
+     "t": "Plantation empire.",
+     "d": "Estate records list several hundred enslaved people on his Louisiana plantations and over 100 at Fairvue.",
+     "basis": "documented"
+    },
+    {
+     "t": "From Angola plantation to prison.",
+     "d": "His Angola lands later became the Louisiana State Penitentiary, where convict labour continued on the former plantation.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His widow Adelicia (later Acklen) used the estate to build Belmont Mansion in Nashville, now part of Belmont University. Angola remains the largest maximum-security prison in the US.",
+   "legacyDetail": [
+    {
+     "t": "Belmont Mansion.",
+     "d": "The museum now researches and names the enslaved people of the Franklin estate.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Isaac Franklin",
+     "url": "https://en.wikipedia.org/wiki/Isaac_Franklin"
+    },
+    {
+     "label": "Belmont Mansion — Isaac Franklin",
+     "url": "https://belmontmansion.com/family-2/isaac-franklin"
+    },
+    {
+     "label": "City of Alexandria — Biography of Isaac Franklin (PDF)",
+     "url": "https://media.alexandriava.gov/docs-archives/historic/info/freedomhouse/web=boxes/biographyisaacfranklin.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "franklin-and-armfield",
+     "type": "ownership",
+     "label": "co-founder"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "sold people in New Orleans"
+    },
+    {
+     "id": "freedom-house-alexandria",
+     "type": "ownership",
+     "label": "firm's Alexandria pen"
+    }
+   ]
+  },
+  {
+   "id": "lehman-brothers",
+   "name": "Lehman Brothers",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "A Montgomery cotton-factoring house whose business depended on slave-grown cotton; the 1860 census lists Mayer Lehman as enslaving seven people.",
+   "start": 1850,
+   "end": 1865,
+   "lifespan": "1850–2008",
+   "base": "Montgomery, Alabama (later New York)",
+   "geo": [
+    32.377,
+    -86.3
+   ],
+   "aliases": [
+    "H. Lehman & Bro.",
+    "Lehman Durr & Co."
+   ],
+   "origins": "Bavarian-born Henry Lehman opened a dry-goods store in Montgomery in 1844; his brothers Emanuel and Mayer joined, and by 1850 the firm was Lehman Brothers. They accepted raw cotton as payment and became cotton factors.",
+   "role_summary": "As cotton factors the Lehmans extended credit to planters, took cotton in payment and sold it to Northern and British mills, binding the firm to plantation slavery. Mayer Lehman enslaved people in his household, and during the Civil War the firm supported the Confederacy.",
+   "roleDetail": [
+    {
+     "t": "Cotton factoring.",
+     "d": "Credit to planters secured on future crops linked the firm's profits directly to enslaved labour.",
+     "basis": "documented"
+    },
+    {
+     "t": "Confederate ties.",
+     "d": "The firm ran blockades and supported Confederate finance; Emanuel and Mayer received pardons after the war.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The firm moved to New York, helped found the New York Cotton Exchange (1870), and became a major investment bank until its 2008 bankruptcy. Under Chicago's 2002 slavery-era disclosure ordinance it acknowledged its ties to slavery; its history is now taught by Harvard Business School's Baker Library.",
+   "legacyDetail": [
+    {
+     "t": "Chicago disclosure.",
+     "d": "Lehman was among the first city contractors to disclose slavery-era ties under the ordinance.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Harvard Business School Baker Library — Lehman Brothers: General Merchants to Commodities Brokers",
+     "url": "https://www.library.hbs.edu/special-collections-and-archives/exhibits/lehman/general-merchants-to-commodities-brokers"
+    },
+    {
+     "label": "New York Review of Books — The Lehman Trilogy and Wall Street's Debt to Slavery",
+     "url": "https://www.nybooks.com/daily/2019/06/11/the-lehman-trilogy-and-wall-streets-debt-to-slavery/"
+    },
+    {
+     "label": "Business Alabama — The Alabama Origin of Lehman Bros.",
+     "url": "https://businessalabama.com/the-alabama-origin-of-lehman-bros/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "chicago-slavery-era-ordinance",
+     "type": "legacy",
+     "label": "disclosed slavery ties"
+    },
+    {
+     "id": "brown-brothers-harriman",
+     "type": "parallel",
+     "label": "fellow cotton financiers"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "cotton sold to British markets"
+    }
+   ]
+  },
+  {
+   "id": "jpmorgan-chase",
+   "name": "JPMorgan Chase",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per its 2005 disclosure, predecessor banks Citizens Bank and Canal Bank of Louisiana accepted c. 13,000 enslaved people as loan collateral (1831–1865) and came to own c. 1,250 of them through defaults.",
+   "start": 1831,
+   "end": null,
+   "lifespan": "1831–present (via predecessors)",
+   "base": "New York (predecessors in New Orleans)",
+   "geo": [
+    40.756,
+    -73.975
+   ],
+   "aliases": [
+    "Bank One (predecessor)",
+    "Citizens Bank of Louisiana",
+    "Canal Bank"
+   ],
+   "origins": "JPMorgan Chase absorbed Bank One in 2004, whose lineage included two antebellum New Orleans banks: Citizens Bank and Canal Bank. Louisiana's property banks raised capital and lent to planters against mortgages on land and enslaved people.",
+   "role_summary": "The predecessor banks took enslaved men, women and children as collateral and seized many when borrowers defaulted, turning human beings into secured assets of the banking system.",
+   "roleDetail": [
+    {
+     "t": "Human collateral.",
+     "d": "c. 13,000 people pledged as collateral; c. 1,250 owned after defaults (2005 company statement to the City of Chicago).",
+     "basis": "documented"
+    },
+    {
+     "t": "Link to the Georgetown sale.",
+     "d": "Reporting on the 1838 Jesuit sale notes that people sold to Louisiana were mortgaged to Citizens Bank.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "In January 2005 CEO William Harrison and President Jamie Dimon apologised and created a $5 million scholarship programme for Black students in Louisiana. Reparations advocates called it a first step.",
+   "legacyDetail": [
+    {
+     "t": "2005 apology.",
+     "d": "Prompted by Chicago's slavery-era disclosure ordinance.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NBC News — JPMorgan: Predecessors linked to slavery",
+     "url": "https://www.nbcnews.com/news/amp/wbna6851727"
+    },
+    {
+     "label": "Diverse Issues in Higher Education — JPMorgan Apologizes for Predecessor Banks' Acceptance of Slaves as Collateral",
+     "url": "https://diverseeducation.com/article/4323/"
+    },
+    {
+     "label": "New York Sun — From J.P. Morgan Chase, an Apology and $5 Million in Slavery Reparations",
+     "url": "https://nysun.com/article/business-from-jp-morgan-chase-an-apology-and-5-million"
+    }
+   ],
+   "connections": [
+    {
+     "id": "citizens-bank-louisiana",
+     "type": "legacy",
+     "label": "successor of Citizens and Canal banks"
+    },
+    {
+     "id": "chicago-slavery-era-ordinance",
+     "type": "legacy",
+     "label": "2005 disclosure and apology"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "finance",
+     "label": "planter lending in New Orleans"
+    },
+    {
+     "id": "wells-fargo-wachovia",
+     "type": "parallel",
+     "label": "2005 bank apologies"
+    }
+   ]
+  },
+  {
+   "id": "wells-fargo-wachovia",
+   "name": "Wachovia / Wells Fargo",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per Wachovia's 2005 report, predecessor Georgia Railroad and Banking Co. owned at least 162 enslaved people and the Bank of Charleston accepted at least 529 as loan collateral.",
+   "start": 1833,
+   "end": null,
+   "lifespan": "1833–present (via predecessors)",
+   "base": "Charlotte, North Carolina",
+   "geo": [
+    35.227,
+    -80.843
+   ],
+   "aliases": [
+    "Georgia Railroad and Banking Company",
+    "Bank of Charleston"
+   ],
+   "origins": "Wachovia acquired descendants of the Bank of Charleston (1991) and, via its 2001 merger with First Union, the Georgia Railroad and Banking Company. Wells Fargo bought Wachovia in 2008.",
+   "role_summary": "The Georgia railroad bank owned enslaved people who were forced to build and work the railroad; the Bank of Charleston lent on mortgages secured by enslaved people and acquired some when borrowers defaulted.",
+   "roleDetail": [
+    {
+     "t": "Owner and lender.",
+     "d": "At least 162 people owned by the Georgia bank; at least 529 pledged to the Bank of Charleston (Wachovia 2005).",
+     "basis": "documented"
+    },
+    {
+     "t": "Incomplete records.",
+     "d": "The bank said gaps in the records make the true numbers unknowable.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "CEO Ken Thompson apologised in June 2005 after research required by Chicago's ordinance; Chicago officials criticised the bank for first filing an affidavit denying any ties.",
+   "legacyDetail": [
+    {
+     "t": "2005 apology.",
+     "d": "Wachovia also pledged support for African American history education.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "CNN Money — Wachovia apologizes for slavery ties (2005)",
+     "url": "https://money.cnn.com/2005/06/02/news/fortune500/wachovia_slavery/"
+    },
+    {
+     "label": "NBC News — Wachovia apologizes to black Americans",
+     "url": "https://www.nbcnews.com/id/wbna8076165"
+    },
+    {
+     "label": "JURIST — Fourth-largest US bank apologizes for slavery ties",
+     "url": "https://www.jurist.org/news/2005/06/fourth-largest-us-bank-apologizes-for"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-charleston",
+     "type": "finance",
+     "label": "Bank of Charleston loans on enslaved people"
+    },
+    {
+     "id": "chicago-slavery-era-ordinance",
+     "type": "legacy",
+     "label": "2005 disclosure and apology"
+    },
+    {
+     "id": "jpmorgan-chase",
+     "type": "parallel",
+     "label": "2005 bank apologies"
+    }
+   ]
+  },
+  {
+   "id": "aetna",
+   "name": "Aetna",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Aetna said in 2000 that it wrote no more than about a dozen policies in the 1850s insuring enslaved people's lives for their enslavers.",
+   "start": 1853,
+   "end": 1860,
+   "lifespan": "1853–present",
+   "base": "Hartford, Connecticut",
+   "geo": [
+    41.764,
+    -72.685
+   ],
+   "aliases": [
+    "Aetna Life Insurance Company"
+   ],
+   "origins": "Aetna Life Insurance Company was founded in Hartford in 1853. Like several Northern insurers, it sold policies to Southern enslavers.",
+   "role_summary": "The policies compensated enslavers financially when an insured enslaved person died, treating people as insurable property.",
+   "roleDetail": [
+    {
+     "t": "Slave-life policies.",
+     "d": "Discovered after researcher Deadria Farmer-Paellmann asked the company about its records in 1999–2000.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "In March 2000 Aetna apologised but said no reparations were due. Farmer-Paellmann's work fed California's 2000 Slavery Era Insurance Registry law and later corporate reparations lawsuits.",
+   "legacyDetail": [
+    {
+     "t": "2000 apology.",
+     "d": "Among the first US corporate apologies for slavery.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Las Vegas Sun (AP) — Apology made for slave policies (2000)",
+     "url": "https://lasvegassun.com/news/2000/mar/09/apology-made-for-slave-policies/"
+    },
+    {
+     "label": "Insurance Journal — Slavery & Insurance (2000)",
+     "url": "https://www.insurancejournal.com/magazines/mag-legalbeat/2000/05/15/21120.htm"
+    },
+    {
+     "label": "Democracy Now! — Aetna acknowledges issuing slave policies",
+     "url": "https://www.democracynow.org/2000/3/14/aetna_acknowledges_issuing_slave_policies_during"
+    }
+   ],
+   "connections": [
+    {
+     "id": "new-york-life",
+     "type": "parallel",
+     "label": "insurers of enslaved lives"
+    },
+    {
+     "id": "chicago-slavery-era-ordinance",
+     "type": "legacy",
+     "label": "insurance disclosures inspired city ordinances"
+    },
+    {
+     "id": "lloyds-of-london",
+     "type": "parallel",
+     "label": "insuring human 'property'"
+    }
+   ]
+  },
+  {
+   "id": "new-york-life",
+   "name": "New York Life (Nautilus Insurance Company)",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Per its 2002 letter to California regulators, predecessor Nautilus sold slaveholder policies for about two years (1846–48); 339 of its first 1,000 policies insured enslaved people.",
+   "start": 1845,
+   "end": 1848,
+   "lifespan": "1845–present",
+   "base": "New York, New York",
+   "geo": [
+    40.742,
+    -73.986
+   ],
+   "aliases": [
+    "Nautilus Insurance Company"
+   ],
+   "origins": "Nautilus Insurance Company was chartered in New York in 1841 and began selling life policies in 1845; it renamed itself New York Life in 1849.",
+   "role_summary": "Nautilus sold one-year policies (usually under $500) to enslavers, mostly in Virginia and Kentucky, on enslaved boatmen, carpenters, miners and labourers, paying the enslaver on death. Trustees voted to stop in April 1848.",
+   "roleDetail": [
+    {
+     "t": "Policy registers.",
+     "d": "The ledgers, now partly at the New York Public Library, name insured enslaved people — a genealogical source today.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "New York Life has expressed 'profound regret' and funds scholarships and research; it disclosed its records under California's Slavery Era Insurance Registry.",
+   "legacyDetail": [
+    {
+     "t": "Disclosure.",
+     "d": "The company reported 15 death claims under slave policies totalling c. $7,474.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "California Department of Insurance — New York Life letter (2002, PDF)",
+     "url": "https://www.insurance.ca.gov/01-consumers/150-other-prog/10-seir/upload/ny-life-letter.pdf"
+    },
+    {
+     "label": "New York Public Library Archives — Nautilus/New York Life slave policy records",
+     "url": "https://archives.nypl.org/scm/24140"
+    }
+   ],
+   "connections": [
+    {
+     "id": "aetna",
+     "type": "parallel",
+     "label": "insurers of enslaved lives"
+    },
+    {
+     "id": "lloyds-of-london",
+     "type": "parallel",
+     "label": "insuring human 'property'"
+    },
+    {
+     "id": "chicago-slavery-era-ordinance",
+     "type": "legacy",
+     "label": "slavery-era insurance disclosure"
+    }
+   ]
+  },
+  {
+   "id": "brown-brothers-harriman",
+   "name": "Brown Brothers Harriman",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Predecessor Brown Brothers & Co. was a leading financier of the antebellum cotton trade; its own history says borrowers pledged land and enslaved people to collateralise cotton finance.",
+   "start": 1810,
+   "end": 1865,
+   "lifespan": "1800–present",
+   "base": "New York (origins in Baltimore and Liverpool)",
+   "geo": [
+    40.707,
+    -74.011
+   ],
+   "aliases": [
+    "Alexander Brown & Sons",
+    "Brown Brothers & Co.",
+    "William & James Brown & Co. (Liverpool)"
+   ],
+   "origins": "Irish-born Alexander Brown founded a linen business in Baltimore in 1800; his sons opened houses in Liverpool, Philadelphia and New York (1825). The firm became one of the leading Anglo-American merchant banks.",
+   "role_summary": "The Browns financed and shipped Southern cotton to Liverpool, advanced credit to planters and factors, and in some cases took over mortgaged plantations. A reparations lawsuit alleged the firm held Louisiana plantations with 346 enslaved people; that claim is unadjudicated.",
+   "roleDetail": [
+    {
+     "t": "Cotton finance network.",
+     "d": "The firm linked Southern plantations with factors, brokers, shippers and insurers on both sides of the Atlantic (per BBH's own history).",
+     "basis": "documented"
+    },
+    {
+     "t": "Foreclosed plantations.",
+     "d": "Allegations from the 2002 slavery reparations litigation; not established in court.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Brown Brothers merged into Brown Brothers Harriman in 1931 and remains a private bank. It now states that it regrets its predecessor's role in a cotton trade that 'relied on the abhorrent practice of slavery'.",
+   "legacyDetail": [
+    {
+     "t": "Corporate acknowledgment.",
+     "d": "BBH's '200 Years of Partnership' history addresses its cotton-trade past.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Brown Brothers Harriman — The Cotton Trade",
+     "url": "https://www.bbh.com/us/en/bbh-who-we-are/our-story/200-years-of-partnership/the-cotton-trade.html"
+    },
+    {
+     "label": "Kirkus Reviews — Inside Money by Zachary Karabell",
+     "url": "https://kirkusreviews.com/book-reviews/zachary-karabell/inside-money/print"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool cotton house"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "finance",
+     "label": "planter credit via New Orleans"
+    },
+    {
+     "id": "lehman-brothers",
+     "type": "parallel",
+     "label": "fellow cotton financiers"
+    },
+    {
+     "id": "jpmorgan-chase",
+     "type": "parallel",
+     "label": "plantation credit secured on enslaved people"
+    }
+   ]
+  },
+  {
+   "id": "clotilda-meaher",
+   "name": "Timothy Meaher and the Clotilda",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Organised the last documented slave voyage to the US (1860), which brought 110 captives from Ouidah to Mobile.",
+   "start": 1860,
+   "end": 1860,
+   "lifespan": "1812–1892",
+   "base": "Mobile, Alabama",
+   "geo": [
+    30.695,
+    -88.04
+   ],
+   "aliases": [
+    "Clotilda",
+    "Clotilde"
+   ],
+   "origins": "Maine-born Timothy Meaher became a Mobile shipbuilder, steamboat owner and planter. He reportedly bet that he could bring Africans into the US despite the 1808 ban.",
+   "role_summary": "Meaher financed the schooner Clotilda, captained by William Foster, which bought 110 people at Ouidah from the Kingdom of Dahomey's trade. After landing in July 1860, the ship was burned and scuttled to hide the evidence, and the captives were divided among Meaher, his brothers and Foster. No one was convicted.",
+   "roleDetail": [
+    {
+     "t": "An illegal voyage.",
+     "d": "Federal charges were brought, but the case was dropped in 1861.",
+     "basis": "documented"
+    },
+    {
+     "t": "Africatown.",
+     "d": "After emancipation, survivors including Cudjo Lewis (Oluale Kossola) founded Africatown near Mobile.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The wreck was identified in May 2019 by the Alabama Historical Commission. Meaher descendants still own much land around Africatown; in 2022 some called their ancestor's actions 'evil and unforgivable', and Clotilda descendants pursue reconciliation and community revival.",
+   "legacyDetail": [
+    {
+     "t": "Wreck found (2019).",
+     "d": "Listed on the National Register of Historic Places in 2021.",
+     "basis": "documented"
+    },
+    {
+     "t": "'Descendant' (2022).",
+     "d": "A documentary film follows Africatown's Clotilda descendants and their fight over land, pollution and memory.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Encyclopedia of Alabama — Africatown",
+     "url": "https://encyclopediaofalabama.org/article/africatown/"
+    },
+    {
+     "label": "NBC News — America's last slave ship could offer a case for reparations",
+     "url": "https://www.nbcnews.com/news/nbcblk/america-s-last-slave-ship-could-offer-case-reparations-n1062981"
+    },
+    {
+     "label": "CBS News / 60 Minutes — Descendants of Alabama slave owner say they're 'figuring out next steps'",
+     "url": "https://www.cbsnews.com/amp/news/clotilda-meaher-descendants-talk-reconciliation-africatown-60-minutes"
+    },
+    {
+     "label": "Wikipedia — Clotilda (slave ship)",
+     "url": "https://en.wikipedia.org/wiki/Clotilda_(slave_ship)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "captives bought at Ouidah, 1860"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "trade",
+     "label": "Dahomey supplied the captives"
+    },
+    {
+     "id": "africatown",
+     "type": "legacy",
+     "label": "survivors founded Africatown"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "voyage violated federal ban"
+    },
+    {
+     "id": "charles-lamar",
+     "type": "parallel",
+     "label": "late illegal US slave voyages"
+    }
+   ]
+  },
+  {
+   "id": "charles-lamar",
+   "name": "Charles Lamar",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Organised the Wanderer voyage, which landed c. 400 Africans on Jekyll Island in 1858 (estimates 409–490 per Georgia Encyclopedia and others).",
+   "start": 1857,
+   "end": 1860,
+   "lifespan": "1824–1865",
+   "base": "Savannah, Georgia",
+   "geo": [
+    32.081,
+    -81.091
+   ],
+   "aliases": [
+    "Charles Augustus Lafayette Lamar"
+   ],
+   "origins": "From a wealthy Savannah family, Lamar was a businessman and outspoken campaigner for reopening the African slave trade.",
+   "role_summary": "With William Corrie of Charleston he refitted the yacht Wanderer as a slaver; it embarked captives at the Congo River and landed them at Jekyll Island in November 1858. Federal prosecutions failed, and many captives were sold across the South.",
+   "roleDetail": [
+    {
+     "t": "Defying the ban.",
+     "d": "The voyage was meant to provoke and test enforcement of the 1808 ban; Southern juries declined to convict.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Lamar was killed in April 1865 at Columbus, Georgia, often called the last Confederate officer killed in action. A Wanderer memorial stands on Jekyll Island.",
+   "legacyDetail": [
+    {
+     "t": "Jekyll Island memorial.",
+     "d": "Jekyll Island interprets the landing and the survivors' lives.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "New Georgia Encyclopedia — Wanderer",
+     "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/wanderer/"
+    },
+    {
+     "label": "Massachusetts Historical Society — The Wanderer, the last American slave ship?",
+     "url": "https://masshist.org/beehiveblog/2016/02/the-wanderer-the-last-american-slave-ship"
+    }
+   ],
+   "connections": [
+    {
+     "id": "wanderer-ship",
+     "type": "ownership",
+     "label": "organised the Wanderer voyage"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "violated federal ban"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "trade",
+     "label": "captives embarked at the Congo River"
+    },
+    {
+     "id": "clotilda-meaher",
+     "type": "parallel",
+     "label": "late illegal US slave voyages"
+    }
+   ]
+  },
+  {
+   "id": "nathaniel-gordon",
+   "name": "Nathaniel Gordon",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Captain of the Erie, seized in 1860 with 897 Africans aboard; the only American executed for slave trading.",
+   "start": 1851,
+   "end": 1860,
+   "lifespan": "1826–1862",
+   "base": "Portland, Maine",
+   "geo": [
+    43.661,
+    -70.255
+   ],
+   "aliases": [],
+   "origins": "A Maine-born sea captain, Gordon made several voyages in the illegal trade in the 1850s.",
+   "role_summary": "In August 1860 the USS Mohican captured his ship Erie near the Congo River with 897 captives, many of them children. He was convicted under the 1820 law that made slave trading piracy, and Lincoln refused clemency.",
+   "roleDetail": [
+    {
+     "t": "Hanged in 1862.",
+     "d": "Executed in New York City on 21 February 1862.",
+     "basis": "documented"
+    },
+    {
+     "t": "Lincoln's message.",
+     "d": "Signalled federal resolve against the trade during the Civil War.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Gordon's case remains the only US execution for slave trading in more than 40 years of the piracy law.",
+   "legacyDetail": [
+    {
+     "t": "Unique precedent.",
+     "d": "Earlier traders, including the DeWolfs and Lamar, went unpunished.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Nathaniel Gordon",
+     "url": "https://en.wikipedia.org/wiki/Nathaniel_Gordon"
+    },
+    {
+     "label": "HarpWeek — Execution of Gordon the Slave-Trader (1862)",
+     "url": "https://blackhistory.harpweek.com/7Illustrations/Slavery/ExecutionOfSlavetrader.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "erie-ship",
+     "type": "voyage",
+     "label": "captain of the Erie"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "trade",
+     "label": "captives embarked at the Congo River"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "prosecuted under federal anti-trade laws"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "illegal trade aimed at Cuban markets"
+    }
+   ]
+  },
+  {
+   "id": "julian-de-zulueta",
+   "name": "Julián de Zulueta, Marquis of Álava",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "Cuba",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Historian Hugh Thomas calls him 'the last great slave trader of Cuba'; his ships carried 500–600 captives per voyage from Cabinda and later steamships over 1,000, during the illegal trade.",
+   "start": 1832,
+   "end": 1867,
+   "lifespan": "1814–1878",
+   "base": "Havana, Cuba",
+   "geo": [
+    23.136,
+    -82.359
+   ],
+   "aliases": [
+    "Julián de Zulueta y Amondo",
+    "Marqués de Álava"
+   ],
+   "origins": "Born in Álava (Basque Country), he arrived in Havana in 1832, worked for slave-trading relatives and married into the family of trafficker Salvador Samá.",
+   "role_summary": "Zulueta organised illegal slaving expeditions to West Central Africa long after Spain's 1817/1820 treaty with Britain, and used the captives on his own sugar estates in Matanzas, among the most modern in Cuba. He also imported Chinese indentured labourers.",
+   "roleDetail": [
+    {
+     "t": "Illegal trade at scale.",
+     "d": "He financed voyages into the 1860s, when Cuba was the main remaining market for the Atlantic trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Political power.",
+     "d": "He was mayor of Havana, a senator for life and a pillar of the pro-slavery Spanish lobby; he was made Marquis of Álava in 1875.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "A Havana street is still popularly called 'Zulueta', and his fortune helped build palaces in Vitoria-Gasteiz. Basque and Cuban researchers have recently reassessed his record.",
+   "legacyDetail": [
+    {
+     "t": "Street name.",
+     "d": "Calle Zulueta (officially Agramonte since 1909) still bears his name in practice.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "About Basque Country — The Havana street that still bears the name of a Basque slave trader",
+     "url": "https://aboutbasquecountry.eus/en/2020/11/23/the-havana-street-that-still-in-practice-bears-the-name-of-a-basque-slave-trader"
+    },
+    {
+     "label": "Wikipedia — Julián de Zulueta, 1st Marquis of Álava",
+     "url": "https://en.wikipedia.org/wiki/Juli%C3%A1n_de_Zulueta,_1st_Marquis_of_%C3%81lava"
+    },
+    {
+     "label": "Simon & Schuster — Hugh Thomas, The Slave Trade",
+     "url": "https://www.simonandschuster.net/books/The-Slave-Trade/Hugh-Thomas/9780684835655"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-havana",
+     "type": "ownership",
+     "label": "Havana base; mayor of Havana"
+    },
+    {
+     "id": "pedro-blanco",
+     "type": "trade",
+     "label": "relatives' London firm Zulueta & Co. supplied Blanco"
+    },
+    {
+     "id": "antonio-lopez-comillas",
+     "type": "political",
+     "label": "fellow pro-slavery Spanish-Cuban magnate"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "made Marquis of Álava, 1875"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "trade",
+     "label": "captives from West Central Africa (Cabinda)"
+    }
+   ]
+  },
+  {
+   "id": "pedro-blanco",
+   "name": "Pedro Blanco",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "Cuba",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ran slave factories at Lomboko on the Gallinas River c. 1822–1839; around 2,000 people a year were shipped from the Gallinas by the late 1830s.",
+   "start": 1822,
+   "end": 1839,
+   "lifespan": "1795–1854",
+   "base": "Lomboko, Gallinas River (Sierra Leone) and Havana",
+   "geo": [
+    6.95,
+    -11.52
+   ],
+   "aliases": [
+    "Mongo Blanco"
+   ],
+   "origins": "Born in Málaga, Blanco sailed as a slave-ship mate and captain before setting up a trading post on the Gallinas River, allied with the Vai ruler King Siaka.",
+   "role_summary": "From fortified barracoons at Lomboko he bought captives from African suppliers and sold them to Spanish and Portuguese ships bound for Cuba and Puerto Rico. His Havana partner was Lino Carballo, with agents in Puerto Rico and elsewhere. The Amistad captives (1839) passed through Lomboko.",
+   "roleDetail": [
+    {
+     "t": "Amistad link.",
+     "d": "The Africans who later revolted aboard the Amistad were held at Lomboko before shipment to Havana in 1839.",
+     "basis": "documented"
+    },
+    {
+     "t": "Myth and record.",
+     "d": "Tales of his royal wealth are partly legend; historian María del Carmen Barcia (2018) separates myth from documents.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Blanco left Africa around 1839; the British Royal Navy destroyed the Gallinas factories in 1849. He has become a figure of fiction, such as Carlos Bardem's novel 'Mongo Blanco'.",
+   "legacyDetail": [
+    {
+     "t": "British naval raids.",
+     "d": "The 1849 destruction of the Gallinas barracoons was part of the West Africa Squadron's campaign.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Pedro Blanco (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/Pedro_Blanco_(slave_trader)"
+    },
+    {
+     "label": "Havana Times — Cuba/Africa: An Old Slave Trading Place",
+     "url": "https://havanatimes.org/?p=93447"
+    }
+   ],
+   "connections": [
+    {
+     "id": "gallinas-lomboko",
+     "type": "ownership",
+     "label": "built the Lomboko factories"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "sold captives to Havana"
+    },
+    {
+     "id": "julian-de-zulueta",
+     "type": "trade",
+     "label": "Zulueta & Co. supplied his factories"
+    }
+   ]
+  },
+  {
+   "id": "joaquim-pereira-marinho",
+   "name": "Joaquim Pereira Marinho",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "Brazil",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Described by Brazilian historians as one of the largest traffickers of enslaved Africans into Salvador during the illegal trade (1830–1850); he died with an estate of c. 8,000 contos de réis.",
+   "start": 1830,
+   "end": 1851,
+   "lifespan": "1816–1887",
+   "base": "Salvador, Bahia",
+   "geo": [
+    -12.974,
+    -38.512
+   ],
+   "aliases": [
+    "Conde de Pereira Marinho"
+   ],
+   "origins": "Born in Portugal, he came to Salvador as a young man and rose through trade in tobacco and goods for the African trade.",
+   "role_summary": "He financed and shipped illegal slaving voyages from Bahia to the Bight of Benin after Brazil's 1831 ban, then invested his profits in shipping, railways, real estate and loans to sugar planters.",
+   "roleDetail": [
+    {
+     "t": "Illegal trafficker.",
+     "d": "Brazilian historians name him among Bahia's chief smugglers of Africans in 1830–1850.",
+     "basis": "documented"
+    },
+    {
+     "t": "From trafficking to infrastructure.",
+     "d": "He led the Companhia Baiana de Navegação and invested in railways.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He was made a count and was a benefactor of the Santa Casa de Misericórdia; a statue of him stands at Salvador's Santa Izabel Hospital, debated since 2020.",
+   "legacyDetail": [
+    {
+     "t": "Statue controversy.",
+     "d": "After the 2020 toppling of Colston in Bristol, Bahian journalists and activists questioned the statue.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Correio (Salvador) — Estátua em Salvador homenageia traficante de escravos",
+     "url": "https://www.correio24horas.com.br/noticia/nid/estatua-em-salvador-homenageia-traficante-de-escravos-entenda/"
+    },
+    {
+     "label": "ANPUH — Simpósio paper on Joaquim Pereira Marinho and the illegal trade to Bahia (PDF)",
+     "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772188_b81327e6e521965d1cc867e1ab0d215a.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-salvador",
+     "type": "ownership",
+     "label": "Salvador trading house"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "Bahia–Bight of Benin route"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "parallel",
+     "label": "Bahia–Ouidah trafficking network"
+    },
+    {
+     "id": "eusebio-de-queiros-law-1850",
+     "type": "political",
+     "label": "trade ended by the 1850 law"
+    },
+    {
+     "id": "edward-colston",
+     "type": "parallel",
+     "label": "statue debate after Colston's toppling"
+    }
+   ]
+  },
+  {
+   "id": "elias-antonio-lopes",
+   "name": "Elias Antônio Lopes",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "Brazil",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Historian Manolo Florentino ranks him as the third-largest slave trader in the Rio de Janeiro market around 1800; he owned at least four slave ships.",
+   "start": 1790,
+   "end": 1815,
+   "lifespan": "c. 1770–1815",
+   "base": "Rio de Janeiro",
+   "geo": [
+    -22.906,
+    -43.173
+   ],
+   "aliases": [
+    "Elie Antun Lubbus (reported)"
+   ],
+   "origins": "A Portuguese merchant (some accounts say of Lebanese descent) who emigrated to Rio de Janeiro, he became one of the city's richest men through trade, royal contracts and the slave trade.",
+   "role_summary": "He financed slaving voyages to Africa, mainly to Angola and West Central Africa, which supplied Rio's market. In 1808 he gave his estate at Quinta da Boa Vista to the exiled Portuguese Prince Regent João, winning titles and favour.",
+   "roleDetail": [
+    {
+     "t": "Royal patron.",
+     "d": "His manor became the Paço de São Cristóvão, home of the Brazilian imperial family.",
+     "basis": "documented"
+    },
+    {
+     "t": "Ships.",
+     "d": "His vessels included the Europa, Paquete Infante, São João Americano and Deligente.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The palace later housed Brazil's National Museum, gutted by fire in 2018; its foundation in slave-trade wealth is now discussed by historians.",
+   "legacyDetail": [
+    {
+     "t": "National Museum.",
+     "d": "Rebuilding is under way after the 2018 fire.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Jornal do Brasil — Gênese da corrupção no Brasil (2019)",
+     "url": "https://www.jb.com.br/rio/2019/02/979831-genese-da-corrupcao-no-brasil.html"
+    },
+    {
+     "label": "Wikipedia — Paço de São Cristóvão",
+     "url": "https://en.wikipedia.org/wiki/Pa%C3%A7o_de_S%C3%A3o_Crist%C3%B3v%C3%A3o"
+    }
+   ],
+   "connections": [
+    {
+     "id": "paco-sao-cristovao",
+     "type": "legacy",
+     "label": "donated estate to the crown, 1808"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "patron of Prince Regent João"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "Rio de Janeiro slave market"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "Rio–Angola trade route"
+    }
+   ]
+  },
+  {
+   "id": "jose-bernardino-de-sa",
+   "name": "José Bernardino de Sá",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "Brazil",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Historians attribute to him the trafficking of at least 19,000 Africans into south-eastern Brazil between 1825 and 1851, mostly illegally after 1831.",
+   "start": 1825,
+   "end": 1851,
+   "lifespan": "c. 1802–1855",
+   "base": "Rio de Janeiro",
+   "geo": [
+    -22.906,
+    -43.173
+   ],
+   "aliases": [
+    "Viscount of Vila Nova do Minho"
+   ],
+   "origins": "Portuguese-born, he worked as a clerk in a Rio trading house when he organised his first known slave shipment in 1825.",
+   "role_summary": "With Manoel Pinto da Fonseca he dominated the illegal slave trade into south-east Brazil after 1831, landing captives on secluded beaches. He invested the profits in real estate, ships and finance, becoming the largest individual shareholder of the Banco do Brasil.",
+   "roleDetail": [
+    {
+     "t": "Illegal trade baron.",
+     "d": "Trafficked c. 19,000+ people despite the 1831 ban.",
+     "basis": "documented"
+    },
+    {
+     "t": "Banking.",
+     "d": "Major shareholder in the Banco do Brasil after its 1853 re-founding.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "In September 2023 federal prosecutors opened an inquiry into the Banco do Brasil's links to slavery after historians traced Sá's investments; the bank apologised publicly on 18 November 2023.",
+   "legacyDetail": [
+    {
+     "t": "Reparations debate.",
+     "d": "Prosecutors called the bank's proposed measures insufficient.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "JusticeInfo.net — Brazil bank's ties to slavery reopen wounds, reparations debate",
+     "url": "https://www.justiceinfo.net/en?p=125376"
+    },
+    {
+     "label": "ArtCultura (UFU) — article on José Bernardino de Sá and the São Pedro theatre",
+     "url": "https://seer.ufu.br/index.php/artcultura/article/view/40081"
+    }
+   ],
+   "connections": [
+    {
+     "id": "banco-do-brasil",
+     "type": "finance",
+     "label": "largest individual shareholder"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "Rio slave trade"
+    },
+    {
+     "id": "eusebio-de-queiros-law-1850",
+     "type": "political",
+     "label": "trade ended by the 1850 law"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "titled Viscount of Vila Nova do Minho"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "port-newport",
+   "name": "Newport, Rhode Island",
+   "kind": "Port",
+   "start": 1709,
+   "geo": [
+    41.49,
+    -71.313
+   ],
+   "description": "Colonial Newport was the leading slaving port of British North America; Rhode Island launched c. 60% of North American slaving voyages (c. 1,000 voyages, 1700s–1807), most from Newport before the Revolution. Rum distilled from Caribbean molasses was the main trade good on the African coast.",
+   "connections": [
+    {
+     "id": "aaron-lopez",
+     "type": "trade",
+     "label": "Lopez's merchant house"
+    },
+    {
+     "id": "dewolf-family",
+     "type": "voyage",
+     "label": "Mark Anthony DeWolf sailed from Newport"
+    },
+    {
+     "id": "port-bristol-rhode-island",
+     "type": "trade",
+     "label": "Bristol overtook Newport after 1783"
+    },
+    {
+     "id": "brown-family-providence",
+     "type": "trade",
+     "label": "Rhode Island slaving network"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "port-bristol-rhode-island",
+   "name": "Bristol, Rhode Island",
+   "kind": "Port",
+   "start": 1769,
+   "geo": [
+    41.677,
+    -71.266
+   ],
+   "description": "After the Revolution Bristol became Rhode Island's main slaving port, dominated by the DeWolf family. Local craftsmen made chains, sails and rope for slave ships, and distilleries turned Cuban molasses into rum for the African trade.",
+   "connections": [
+    {
+     "id": "dewolf-family",
+     "type": "ownership",
+     "label": "DeWolf home port"
+    },
+    {
+     "id": "port-newport",
+     "type": "trade",
+     "label": "successor to Newport as chief slaving port"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "Bristol–Havana route"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "port-charleston",
+   "name": "Charleston, South Carolina (incl. Sullivan's Island and Gadsden's Wharf)",
+   "kind": "Port",
+   "start": 1670,
+   "geo": [
+    32.79,
+    -79.925
+   ],
+   "description": "Charleston was the principal US landing port for African captives; scholars estimate c. 40% of enslaved Africans brought to mainland North America arrived there. Arrivals were quarantined in 'pest houses' on Sullivan's Island, and in 1806 the city required slave ships to dock at Gadsden's Wharf, where c. 100,000 people were landed, many in the 1803–07 rush before the federal ban.",
+   "connections": [
+    {
+     "id": "henry-laurens",
+     "type": "trade",
+     "label": "Austin & Laurens auctions"
+    },
+    {
+     "id": "dewolf-family",
+     "type": "trade",
+     "label": "DeWolf ships sold captives here, 1804–07"
+    },
+    {
+     "id": "international-african-american-museum",
+     "type": "legacy",
+     "label": "museum built on Gadsden's Wharf"
+    },
+    {
+     "id": "wells-fargo-wachovia",
+     "type": "finance",
+     "label": "Bank of Charleston"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "Sierra Leone–Charleston route"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "international-african-american-museum",
+   "name": "International African American Museum (Charleston)",
+   "kind": "Legacy / apology",
+   "start": 2023,
+   "geo": [
+    32.79,
+    -79.925
+   ],
+   "description": "Opened in June 2023 on the site of Gadsden's Wharf, the museum interprets the forced arrival of Africans in Charleston and includes a centre for African American genealogy. Nearby, the Toni Morrison Society placed a 'Bench by the Road' on Sullivan's Island in 2008.",
+   "connections": [
+    {
+     "id": "port-charleston",
+     "type": "legacy",
+     "label": "built on Gadsden's Wharf"
+    },
+    {
+     "id": "henry-laurens",
+     "type": "legacy",
+     "label": "interprets Charleston's slave market"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "port-new-orleans",
+   "name": "New Orleans",
+   "kind": "Port",
+   "start": 1719,
+   "geo": [
+    29.951,
+    -90.072
+   ],
+   "description": "New Orleans became the largest slave market in the US during the domestic trade, receiving people shipped and marched from the Upper South to Deep South cotton and sugar plantations. Its banks lent to planters against mortgages on enslaved people.",
+   "connections": [
+    {
+     "id": "franklin-and-armfield",
+     "type": "trade",
+     "label": "firm's chief market"
+    },
+    {
+     "id": "citizens-bank-louisiana",
+     "type": "finance",
+     "label": "property banks"
+    },
+    {
+     "id": "brown-brothers-harriman",
+     "type": "finance",
+     "label": "cotton credit"
+    },
+    {
+     "id": "georgetown-university",
+     "type": "trade",
+     "label": "1838 sale shipped people via New Orleans"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "port-havana",
+   "name": "Havana",
+   "kind": "Port",
+   "start": 1526,
+   "geo": [
+    23.141,
+    -82.352
+   ],
+   "description": "Havana was the hub of Cuba's slave trade, which grew enormously after 1790 with the sugar boom. More than half of the almost one million Africans taken to Cuba arrived illegally after the 1820 Anglo-Spanish ban; the last known slave ship landed c. 1867, and slavery ended in 1886.",
+   "connections": [
+    {
+     "id": "julian-de-zulueta",
+     "type": "ownership",
+     "label": "Zulueta's base"
+    },
+    {
+     "id": "pedro-blanco",
+     "type": "trade",
+     "label": "Blanco's Havana partners"
+    },
+    {
+     "id": "dewolf-family",
+     "type": "trade",
+     "label": "DeWolf sales and plantations"
+    },
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "earlier licensed imports"
+    },
+    {
+     "id": "antonio-lopez-comillas",
+     "type": "trade",
+     "label": "Cuban base of Comillas fortune"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "gallinas-lomboko",
+   "name": "Lomboko and the Gallinas barracoons",
+   "kind": "Fort / trading post",
+   "start": 1822,
+   "geo": [
+    6.95,
+    -11.52
+   ],
+   "description": "Pedro Blanco's fortified slave factories on islands at the mouth of the Gallinas River (today Sierra Leone/Liberia border). The Amistad captives were held here in 1839. The Royal Navy destroyed the barracoons in 1849.",
+   "connections": [
+    {
+     "id": "pedro-blanco",
+     "type": "ownership",
+     "label": "Blanco's factories"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "captives shipped to Havana"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "port-rio-valongo",
+   "name": "Valongo Wharf, Rio de Janeiro",
+   "kind": "Port",
+   "start": 1811,
+   "geo": [
+    -22.897,
+    -43.186
+   ],
+   "description": "Built from 1811 to land enslaved Africans, Valongo was the main point of arrival in the Americas, receiving up to c. 900,000 people (per UNESCO) before it was paved over in 1843. Rediscovered in 2011, it was inscribed as a UNESCO World Heritage Site on 9 July 2017.",
+   "connections": [
+    {
+     "id": "elias-antonio-lopes",
+     "type": "trade",
+     "label": "Rio slave market"
+    },
+    {
+     "id": "jose-bernardino-de-sa",
+     "type": "trade",
+     "label": "Rio slave trade"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "main supply from Angola"
+    },
+    {
+     "id": "lei-aurea-1888",
+     "type": "legacy",
+     "label": "abolition 1888"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "port-salvador",
+   "name": "Salvador da Bahia",
+   "kind": "Port",
+   "start": 1550,
+   "geo": [
+    -12.974,
+    -38.512
+   ],
+   "description": "Colonial Brazil's capital and one of the largest slave ports in history: per SlaveVoyages, c. 1.2 million Africans disembarked in Bahia between the 1550s and 1850s, many from the Bight of Benin. The 1835 Malê revolt of enslaved Muslim Africans took place here.",
+   "connections": [
+    {
+     "id": "joaquim-pereira-marinho",
+     "type": "ownership",
+     "label": "Pereira Marinho's base"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "Bahia–Ouidah tobacco-for-captives route"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "trade",
+     "label": "De Souza traded with Bahia"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "colonial capital until 1763"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "paco-sao-cristovao",
+   "name": "Paço de São Cristóvão (Quinta da Boa Vista)",
+   "kind": "Legacy / institution",
+   "start": 1808,
+   "geo": [
+    -22.906,
+    -43.224
+   ],
+   "description": "Manor built c. 1803 by slave trader Elias Antônio Lopes and given to Prince Regent João in 1808; it became the residence of Brazil's imperial family and later the National Museum, which burned in 2018.",
+   "connections": [
+    {
+     "id": "elias-antonio-lopes",
+     "type": "legacy",
+     "label": "built and donated by Lopes"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "ownership",
+     "label": "royal residence"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "banco-do-brasil",
+   "name": "Banco do Brasil",
+   "kind": "Bank / insurer",
+   "start": 1808,
+   "geo": [
+    -22.903,
+    -43.176
+   ],
+   "description": "Brazil's state-controlled bank, re-founded in 1853 with slave trafficker José Bernardino de Sá among its largest shareholders. After federal prosecutors (MPF) opened an inquiry in September 2023, drawing on a study by 14 historians, bank president Tarciana Medeiros issued a public apology on 18 November 2023; prosecutors said an apology alone was insufficient and pressed for reparations.",
+   "connections": [
+    {
+     "id": "jose-bernardino-de-sa",
+     "type": "finance",
+     "label": "major shareholder"
+    },
+    {
+     "id": "jpmorgan-chase",
+     "type": "parallel",
+     "label": "bank apologies for slavery"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "eusebio-de-queiros-law-1850",
+   "name": "Eusébio de Queirós Law (1850)",
+   "kind": "Charter / law / treaty",
+   "start": 1850,
+   "description": "Brazilian Law No. 581 of 4 September 1850 effectively ended the transatlantic slave trade to Brazil, enforcing the unenforced 1831 ban under heavy British naval pressure after the 1845 Aberdeen Act. Landings largely ceased by 1856, though slavery continued.",
+   "connections": [
+    {
+     "id": "jose-bernardino-de-sa",
+     "type": "political",
+     "label": "ended his trafficking"
+    },
+    {
+     "id": "joaquim-pereira-marinho",
+     "type": "political",
+     "label": "ended Bahian trafficking"
+    },
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "political",
+     "label": "British abolitionist pressure"
+    },
+    {
+     "id": "lei-aurea-1888",
+     "type": "legacy",
+     "label": "step towards abolition"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "lei-aurea-1888",
+   "name": "Lei Áurea (Golden Law), 1888",
+   "kind": "Charter / law / treaty",
+   "start": 1888,
+   "description": "Law No. 3,353 of 13 May 1888, signed by Princess Isabel as regent, abolished slavery in Brazil without compensation to enslavers, freeing c. 700,000 people. Brazil was the last country in the Americas to abolish slavery; freed people received no state support.",
+   "connections": [
+    {
+     "id": "crown-of-portugal",
+     "type": "family",
+     "label": "signed by Braganza princess regent"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "legacy",
+     "label": "end of slavery in Brazil"
+    },
+    {
+     "id": "port-salvador",
+     "type": "legacy",
+     "label": "end of slavery in Brazil"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "us-slave-trade-act-1807",
+   "name": "Act Prohibiting Importation of Slaves (1807)",
+   "kind": "Charter / law / treaty",
+   "start": 1808,
+   "description": "Signed by Thomas Jefferson on 2 March 1807 and effective 1 January 1808, the earliest date the Constitution allowed, it banned the import of enslaved people into the US. Enforcement was weak; an 1820 law made slave trading piracy punishable by death. Domestic slavery and the internal trade continued.",
+   "connections": [
+    {
+     "id": "dewolf-family",
+     "type": "political",
+     "label": "evaded by DeWolfs"
+    },
+    {
+     "id": "nathaniel-gordon",
+     "type": "political",
+     "label": "Gordon executed under 1820 piracy law"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "political",
+     "label": "spurred the domestic trade"
+    },
+    {
+     "id": "clotilda-meaher",
+     "type": "political",
+     "label": "violated in 1860"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "sally-1764",
+   "name": "The Sally (1764–1765)",
+   "kind": "Ship / voyage",
+   "start": 1764,
+   "geo": [
+    41.824,
+    -71.413
+   ],
+   "description": "Brigantine owned by Nicholas Brown and Company, sailed by Esek Hopkins from Providence to the Windward Coast. Of 196 Africans bought, at least 109 died through a failed revolt, suicide, starvation and disease; survivors were sold in Antigua.",
+   "connections": [
+    {
+     "id": "brown-family-providence",
+     "type": "ownership",
+     "label": "owned by the Browns"
+    },
+    {
+     "id": "esek-hopkins",
+     "type": "voyage",
+     "label": "master"
+    },
+    {
+     "id": "brown-university",
+     "type": "legacy",
+     "label": "central to the 2006 report"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "wanderer-ship",
+   "name": "The Wanderer (1858)",
+   "kind": "Ship / voyage",
+   "start": 1858,
+   "geo": [
+    31.071,
+    -81.416
+   ],
+   "description": "A luxury racing yacht refitted as a slaver by Charles Lamar and William Corrie; it landed c. 400 Africans on Jekyll Island, Georgia, on 28 November 1858, roughly 50 years after the ban. The owners escaped conviction.",
+   "connections": [
+    {
+     "id": "charles-lamar",
+     "type": "ownership",
+     "label": "Lamar's venture"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "violated federal ban"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "erie-ship",
+   "name": "The Erie (1860)",
+   "kind": "Ship / voyage",
+   "start": 1860,
+   "description": "Slave ship captained by Nathaniel Gordon, seized by USS Mohican off the Congo River in August 1860 with 897 captives aboard, many of them children. The captives were taken to Liberia.",
+   "connections": [
+    {
+     "id": "nathaniel-gordon",
+     "type": "voyage",
+     "label": "Gordon's ship"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "trade",
+     "label": "Congo River embarkation"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "africatown",
+   "name": "Africatown, Mobile",
+   "kind": "Colony / community",
+   "start": 1866,
+   "geo": [
+    30.733,
+    -88.055
+   ],
+   "description": "Community near Mobile, Alabama founded after the Civil War by survivors of the Clotilda, including Cudjo Lewis (Oluale Kossola). Descendants still live there, and the community has worked on preservation, environmental justice and a heritage house since the 2019 wreck identification.",
+   "connections": [
+    {
+     "id": "clotilda-meaher",
+     "type": "legacy",
+     "label": "founded by Clotilda survivors"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "captives embarked at Ouidah"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "royall-house-medford",
+   "name": "Royall House and Slave Quarters",
+   "kind": "Colony / plantation",
+   "start": 1732,
+   "geo": [
+    42.414,
+    -71.11
+   ],
+   "description": "Medford estate of the Royall family, with the only known surviving freestanding slave quarters in New England. A museum since 1910, it interprets the lives of the people the Royalls enslaved, including Belinda Sutton. Isaac Royall Jr.'s bequest funded Harvard Law's first professorship; the Royall-arms law school shield was retired in 2016.",
+   "connections": [
+    {
+     "id": "royall-family",
+     "type": "plantation",
+     "label": "Royall estate"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "faneuil-hall",
+   "name": "Faneuil Hall, Boston",
+   "kind": "Legacy / institution",
+   "start": 1742,
+   "geo": [
+    42.36,
+    -71.056
+   ],
+   "description": "Market hall and meeting place given to Boston by Peter Faneuil and opened in 1742, known as the 'Cradle of Liberty'. Part of its funding came from Faneuil's slavery-linked trade, which has led to calls since 2017 to rename it and to plans for a memorial.",
+   "connections": [
+    {
+     "id": "peter-faneuil",
+     "type": "ownership",
+     "label": "funded by Faneuil"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "freedom-house-alexandria",
+   "name": "Freedom House Museum (1315 Duke Street)",
+   "kind": "Legacy / institution",
+   "start": 1828,
+   "geo": [
+    38.804,
+    -77.056
+   ],
+   "description": "The Alexandria headquarters and slave pen of Franklin & Armfield, and later of other traders, through which thousands of people were sold south. It is now a National Historic Landmark and museum run by the City of Alexandria.",
+   "connections": [
+    {
+     "id": "franklin-and-armfield",
+     "type": "ownership",
+     "label": "firm's pen"
+    },
+    {
+     "id": "isaac-franklin",
+     "type": "ownership",
+     "label": "Franklin's firm"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "citizens-bank-louisiana",
+   "name": "Citizens Bank and Canal Bank of Louisiana",
+   "kind": "Bank / insurer",
+   "start": 1831,
+   "geo": [
+    29.951,
+    -90.072
+   ],
+   "description": "Antebellum New Orleans banks that accepted c. 13,000 enslaved people as loan collateral between 1831 and 1865 and came to own c. 1,250 through defaults, per JPMorgan Chase's 2005 disclosure. They are predecessors of JPMorgan Chase via Bank One.",
+   "connections": [
+    {
+     "id": "jpmorgan-chase",
+     "type": "legacy",
+     "label": "predecessors of JPMorgan Chase"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "finance",
+     "label": "planter loans"
+    },
+    {
+     "id": "georgetown-university",
+     "type": "finance",
+     "label": "1838 sale: people mortgaged to Citizens Bank"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "chicago-slavery-era-ordinance",
+   "name": "Chicago Slavery Era Disclosure Ordinance (2002)",
+   "kind": "Charter / law / treaty",
+   "start": 2002,
+   "geo": [
+    41.878,
+    -87.63
+   ],
+   "description": "City ordinance requiring companies with city contracts to research and disclose any profits from slavery or slaveholder insurance, modelled on California's 2000 Slavery Era Insurance Registry law. It led to disclosures and apologies by JPMorgan Chase, Wachovia and Lehman Brothers.",
+   "connections": [
+    {
+     "id": "jpmorgan-chase",
+     "type": "legacy",
+     "label": "2005 disclosure"
+    },
+    {
+     "id": "wells-fargo-wachovia",
+     "type": "legacy",
+     "label": "2005 disclosure"
+    },
+    {
+     "id": "lehman-brothers",
+     "type": "legacy",
+     "label": "disclosure"
+    },
+    {
+     "id": "aetna",
+     "type": "legacy",
+     "label": "insurer disclosures"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "brown-university",
+   "name": "Brown University",
+   "kind": "University / church",
+   "start": 1764,
+   "geo": [
+    41.826,
+    -71.403
+   ],
+   "description": "Founded in 1764 with the Brown family as main benefactors and renamed for Nicholas Brown Jr. in 1804. Its 2006 Slavery and Justice report, commissioned by President Ruth Simmons, documented ties to the slave trade and led to a campus memorial (2014) and the Center for the Study of Slavery and Justice.",
+   "connections": [
+    {
+     "id": "brown-family-providence",
+     "type": "legacy",
+     "label": "named for the Browns"
+    },
+    {
+     "id": "sally-1764",
+     "type": "legacy",
+     "label": "Sally voyage research"
+    },
+    {
+     "id": "georgetown-university",
+     "type": "parallel",
+     "label": "university reckonings"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "georgetown-university",
+   "name": "Georgetown University and the 1838 sale",
+   "kind": "University / church",
+   "start": 1838,
+   "geo": [
+    38.908,
+    -77.073
+   ],
+   "description": "In 1838 the Maryland Jesuits, led by Georgetown president Thomas Mulledy, sold 272 enslaved people to Louisiana planters Henry Johnson and Jesse Batey for $115,000, partly to pay Georgetown's debts. Georgetown apologised in 2017, renamed buildings and offers admissions preference to descendants; in 2021 the Jesuits pledged $100 million towards the Descendants Truth and Reconciliation Foundation.",
+   "connections": [
+    {
+     "id": "descendants-truth-reconciliation-foundation",
+     "type": "legacy",
+     "label": "Jesuit-descendant foundation"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "people shipped to Louisiana"
+    },
+    {
+     "id": "citizens-bank-louisiana",
+     "type": "finance",
+     "label": "people mortgaged to Citizens Bank"
+    },
+    {
+     "id": "brown-university",
+     "type": "parallel",
+     "label": "university reckonings"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "descendants-truth-reconciliation-foundation",
+   "name": "Descendants Truth & Reconciliation Foundation",
+   "kind": "Legacy / apology",
+   "start": 2021,
+   "description": "Partnership between the GU272 Descendants Association and the Jesuit Conference of Canada and the US, launched in 2021 with a $100 million Jesuit pledge towards a $1 billion goal. It funds descendants' education, racial-justice programmes and support for elderly descendants; some descendants have criticised the pace of funding.",
+   "connections": [
+    {
+     "id": "georgetown-university",
+     "type": "legacy",
+     "label": "reparations for the 1838 sale"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "caricom-reparations-commission",
+   "name": "CARICOM Reparations Commission and Ten Point Plan",
+   "kind": "Legacy / apology",
+   "start": 2013,
+   "geo": [
+    13.132,
+    -59.546
+   ],
+   "description": "Set up by CARICOM heads of government in 2013 and chaired by Sir Hilary Beckles of the University of the West Indies, it prepares the Caribbean case for reparatory justice from former colonial powers. Its Ten Point Action Plan (2014) calls for: a full formal apology; repatriation; an Indigenous peoples development programme; cultural institutions; action on the public health crisis; illiteracy eradication; an African knowledge programme; psychological rehabilitation; technology transfer; and debt cancellation.",
+   "connections": [
+    {
+     "id": "slavery-abolition-act-1833",
+     "type": "legacy",
+     "label": "rejects compensation paid to enslavers"
+    },
+    {
+     "id": "gladstone-family",
+     "type": "legacy",
+     "label": "reparations claims on enslaver families"
+    },
+    {
+     "id": "church-of-england",
+     "type": "legacy",
+     "label": "reparatory justice demands"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "legacy",
+     "label": "claims on former colonial powers"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1764,
+   "title": "The Sally sails from Providence",
+   "text": "Nicholas Brown and Company's brigantine leaves for West Africa the year Brown University is founded; at least 109 of 196 captives die.",
+   "ids": [
+    "sally-1764",
+    "brown-family-providence",
+    "esek-hopkins",
+    "brown-university"
+   ],
+   "source": {
+    "label": "Brown University Library — Voyage of the Slave Ship Sally",
+    "url": "https://cds.lib.brown.edu/cds-project/voyage-slave-ship-sally-1764-1765"
+   }
+  },
+  {
+   "year": 1797,
+   "title": "John Brown tried under federal Slave Trade Act",
+   "text": "John Brown of Providence becomes the first American tried under the 1794 Slave Trade Act; his ship Hope is forfeited after his brother Moses's abolition society pursues the case.",
+   "ids": [
+    "brown-family-providence"
+   ],
+   "source": {
+    "label": "Rhode Island Historical Society — John Brown papers",
+    "url": "https://www.rihs.org/mssinv/Mss312.htm"
+   }
+  },
+  {
+   "year": 1808,
+   "title": "US ban on importing enslaved people takes effect",
+   "text": "The 1807 Act takes effect on 1 January 1808 after a rush of arrivals at Charleston; smuggling and the domestic trade continue.",
+   "ids": [
+    "us-slave-trade-act-1807",
+    "port-charleston",
+    "dewolf-family"
+   ],
+   "source": {
+    "label": "Wikipedia — Act Prohibiting Importation of Slaves",
+    "url": "https://en.wikipedia.org/wiki/Act_Prohibiting_Importation_of_Slaves"
+   }
+  },
+  {
+   "year": 1828,
+   "title": "Franklin & Armfield founded",
+   "text": "Isaac Franklin and John Armfield form what becomes the largest US domestic slave-trading firm, based in Alexandria.",
+   "ids": [
+    "franklin-and-armfield",
+    "isaac-franklin",
+    "freedom-house-alexandria"
+   ],
+   "source": {
+    "label": "Encyclopedia Virginia — Franklin and Armfield",
+    "url": "https://encyclopediavirginia.org/entries/franklin-and-armfield/"
+   }
+  },
+  {
+   "year": 1838,
+   "title": "Maryland Jesuits sell 272 people",
+   "text": "Georgetown's Jesuit leaders sell 272 enslaved people to Louisiana planters to relieve the college's debts.",
+   "ids": [
+    "georgetown-university",
+    "citizens-bank-louisiana",
+    "port-new-orleans"
+   ],
+   "source": {
+    "label": "Georgetown Slavery Archive — Sale of Maryland Jesuit enslaved community, 1838",
+    "url": "https://slaveryarchive.georgetown.edu/collections/show/1"
+   }
+  },
+  {
+   "year": 1850,
+   "title": "Brazil's Eusébio de Queirós Law",
+   "text": "Under British naval pressure Brazil enforces its ban on the African trade; landings largely end by 1856.",
+   "ids": [
+    "eusebio-de-queiros-law-1850",
+    "jose-bernardino-de-sa",
+    "joaquim-pereira-marinho"
+   ],
+   "source": {
+    "label": "Wikipedia — Eusébio de Queirós Law",
+    "url": "https://en.wikipedia.org/wiki/Eus%C3%A9bio_de_Queir%C3%B3s_Law"
+   }
+  },
+  {
+   "year": 1858,
+   "title": "The Wanderer lands on Jekyll Island",
+   "text": "Charles Lamar's yacht lands c. 400 Africans in Georgia, 50 years after the ban; no one is convicted.",
+   "ids": [
+    "wanderer-ship",
+    "charles-lamar"
+   ],
+   "source": {
+    "label": "New Georgia Encyclopedia — Wanderer",
+    "url": "https://www.georgiaencyclopedia.org/articles/history-archaeology/wanderer/"
+   }
+  },
+  {
+   "year": 1860,
+   "title": "The Clotilda arrives in Mobile",
+   "text": "Timothy Meaher's schooner brings 110 captives from Ouidah, the last documented slave voyage to the US; the ship is burned to hide the crime.",
+   "ids": [
+    "clotilda-meaher",
+    "port-ouidah",
+    "africatown"
+   ],
+   "source": {
+    "label": "Encyclopedia of Alabama — Africatown",
+    "url": "https://encyclopediaofalabama.org/article/africatown/"
+   }
+  },
+  {
+   "year": 1862,
+   "title": "Nathaniel Gordon hanged",
+   "text": "The captain of the Erie becomes the only American executed for slave trading after Lincoln refuses clemency.",
+   "ids": [
+    "nathaniel-gordon",
+    "erie-ship"
+   ],
+   "source": {
+    "label": "HarpWeek — Execution of Gordon the Slave-Trader",
+    "url": "https://blackhistory.harpweek.com/7Illustrations/Slavery/ExecutionOfSlavetrader.htm"
+   }
+  },
+  {
+   "year": 1886,
+   "title": "Cuba abolishes slavery",
+   "text": "Spain ends the patronato system, completing gradual emancipation in Cuba begun by the 1870 Moret Law.",
+   "ids": [
+    "port-havana",
+    "julian-de-zulueta"
+   ],
+   "source": {
+    "label": "Hispanic American Historical Review — Rebecca Scott, Gradual Abolition and the Dynamics of Slave Emancipation in Cuba, 1868–86",
+    "url": "https://dup.silverchair.com/hahr/article/63/3/449/148684/Gradual-Abolition-and-the-Dynamics-of-Slave"
+   }
+  },
+  {
+   "year": 1888,
+   "title": "Lei Áurea abolishes slavery in Brazil",
+   "text": "Princess Isabel signs the Golden Law on 13 May, freeing c. 700,000 people without compensation or support.",
+   "ids": [
+    "lei-aurea-1888",
+    "port-rio-valongo",
+    "port-salvador"
+   ],
+   "source": {
+    "label": "Wikipedia — Lei Áurea",
+    "url": "https://en.wikipedia.org/wiki/Lei_%C3%81urea"
+   }
+  },
+  {
+   "year": 2005,
+   "title": "JPMorgan Chase and Wachovia apologise",
+   "text": "Disclosures under Chicago's ordinance reveal predecessor banks held or took enslaved people as collateral; both banks apologise.",
+   "ids": [
+    "jpmorgan-chase",
+    "wells-fargo-wachovia",
+    "chicago-slavery-era-ordinance",
+    "citizens-bank-louisiana"
+   ],
+   "source": {
+    "label": "CNN Money — Wachovia apologizes for slavery ties",
+    "url": "https://money.cnn.com/2005/06/02/news/fortune500/wachovia_slavery/"
+   }
+  },
+  {
+   "year": 2006,
+   "title": "Brown University's Slavery and Justice report",
+   "text": "Brown publishes its examination of the university's and Brown family's ties to slavery and the slave trade.",
+   "ids": [
+    "brown-university",
+    "brown-family-providence"
+   ],
+   "source": {
+    "label": "Brown University — Slavery and Justice report (2006)",
+    "url": "https://slaveryandjustice.brown.edu/sites/default/files/reports/SlaveryAndJustice2006.pdf"
+   }
+  },
+  {
+   "year": 2017,
+   "title": "Valongo Wharf becomes a World Heritage Site",
+   "text": "UNESCO inscribes Rio's slave-landing wharf as the most important physical trace of African arrival in the Americas.",
+   "ids": [
+    "port-rio-valongo"
+   ],
+   "source": {
+    "label": "UNESCO — Valongo Wharf Archaeological Site",
+    "url": "https://whc.unesco.org/document/218047"
+   }
+  },
+  {
+   "year": 2019,
+   "title": "Clotilda wreck identified",
+   "text": "The Alabama Historical Commission confirms the wreck of the Clotilda in the Mobile River.",
+   "ids": [
+    "clotilda-meaher",
+    "africatown"
+   ],
+   "source": {
+    "label": "NBC News — America's last slave ship could offer a case for reparations",
+    "url": "https://www.nbcnews.com/news/nbcblk/america-s-last-slave-ship-could-offer-case-reparations-n1062981"
+   }
+  }
+ ]
+}

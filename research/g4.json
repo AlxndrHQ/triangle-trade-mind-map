@@ -1,0 +1,3029 @@
+{
+ "records": [
+  {
+   "id": "kingdom-of-dahomey",
+   "name": "Kingdom of Dahomey (Danxomè)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Dahomey",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Controlled Ouidah, the leading Slave Coast port and second only to Luanda among African embarkation points: more than a million captives were shipped from it (Robin Law, Ouidah, 2004); Dahomey was the principal supplier there 1727–c.1863.",
+   "start": 1724,
+   "end": 1863,
+   "lifespan": "c.1600–1894 (monarchy survives ceremonially today)",
+   "base": "Abomey, Benin",
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "aliases": [
+    "Danhome",
+    "Fon kingdom",
+    "Abomey kingdom"
+   ],
+   "origins": "A Fon kingdom centred on the Abomey plateau, founded in the early 17th century. It was inland and initially cut off from the coast, where the kingdoms of Allada and Whydah (Hueda) brokered trade with Europeans.",
+   "role_summary": "From the 1720s Dahomey conquered the coastal slaving states and made the sale of war captives a royal enterprise, with a viceroy (yovogan) at Ouidah regulating European traders. Annual military campaigns supplied captives; the crown taxed and monopolised much of the trade until the Atlantic market closed in the 1860s.",
+   "roleDetail": [
+    {
+     "t": "Conquest of the coast.",
+     "d": "King Agaja took Allada (1724) and Whydah (1727), giving Dahomey direct access to European buyers; historians debate whether this was to seize or to control the trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "A tributary of Oyo.",
+     "d": "Dahomey paid tribute to the Oyo Empire from the 1720s/1740s for roughly a century, and much of the trade passed under Oyo pressure and competition.",
+     "basis": "documented"
+    },
+    {
+     "t": "War as a supply system.",
+     "d": "Captives came principally from annual campaigns against neighbours (e.g. Mahi, Yoruba communities); European demand for captives shaped Dahomey's military economy.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Resisting abolition.",
+     "d": "Kings Ghezo and Glele defended the trade to British envoys; the last trans-Atlantic shipment from Dahomey is dated to 1863, while palm oil grew in parallel.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "France conquered Dahomey in 1892–94 and exiled King Béhanzin; the territory became the French colony of Dahomey and, in 1975, the Republic of Benin. The royal palaces of Abomey are a UNESCO World Heritage Site, and Benin has made public apologies and memorials for its part in the trade.",
+   "legacyDetail": [
+    {
+     "t": "Apology and memory.",
+     "d": "President Mathieu Kérékou's 1999 apologies and the Cotonou reconciliation conference addressed Dahomey's role; Ouidah's Route des Esclaves commemorates the victims.",
+     "basis": "documented"
+    },
+    {
+     "t": "Contested memory.",
+     "d": "Dahomey is remembered in Benin both as a symbol of African statehood and resistance to France and as a slave-raiding state, a tension visible in museums and tourism.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — History of the Kingdom of Dahomey",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Kingdom_of_Dahomey"
+    },
+    {
+     "label": "Britannica (Students) — Dahomey, historical kingdom",
+     "url": "https://kids.britannica.com/students/article/Dahomey/28540"
+    },
+    {
+     "label": "Fontes Historiae Africanae — Dahomey and the Ending of the Trans-Atlantic Slave Trade (Law, ed.)",
+     "url": "https://www.fonteshistoriaeafricanae.co.uk/wp-content/uploads/2024/02/Dahomey-and-the-Ending-of-the-Trans-Atlantic-Slave-Trade.pdf"
+    },
+    {
+     "label": "African History Extra — The kingdom of Dahomey and the Atlantic world",
+     "url": "https://www.africanhistoryextra.com/p/the-kingdom-of-dahomey-and-the-atlantic"
+    },
+    {
+     "label": "Boydell & Brewer — Robin Law, Ouidah: The Social History of a West African Slaving Port 1727–1892",
+     "url": "https://boydellandbrewer.com/book/ouidah-9780852554975/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-ouidah",
+     "type": "ownership",
+     "label": "conquered and ruled Ouidah from 1727"
+    },
+    {
+     "id": "agaja-of-dahomey",
+     "type": "ownership",
+     "label": "king 1718–1740"
+    },
+    {
+     "id": "ghezo-of-dahomey",
+     "type": "ownership",
+     "label": "king 1818–1858"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "political",
+     "label": "tributary of Oyo"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "trade",
+     "label": "appointed Chachá of Ouidah"
+    },
+    {
+     "id": "benin-1999-apology",
+     "type": "legacy",
+     "label": "successor state apologised 1999"
+    },
+    {
+     "id": "abomey-royal-palaces",
+     "type": "ownership",
+     "label": "royal seat"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "trade",
+     "label": "sold captives to French traders"
+    }
+   ]
+  },
+  {
+   "id": "agaja-of-dahomey",
+   "name": "Agaja, King of Dahomey",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Dahomey",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "His conquests of Allada (1724) and Whydah (1727) put the main Bight of Benin slave market under Dahomean control.",
+   "start": 1724,
+   "end": 1740,
+   "lifespan": "c.1673–1740 (reigned 1718–1740)",
+   "base": "Abomey, Benin",
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "aliases": [
+    "Dosu"
+   ],
+   "origins": "Son of King Houegbadja, Agaja inherited an inland kingdom with no direct access to European traders. Sources differ on whether his reign began in 1708 or 1718.",
+   "role_summary": "Agaja's armies conquered the coastal slave-trading kingdoms of Allada and Whydah, making Dahomey a direct seller to European buyers. His reign also brought Oyo invasions that forced Dahomey into tributary status.",
+   "roleDetail": [
+    {
+     "t": "Coastal conquest.",
+     "d": "Took Allada in 1724 and Whydah (Ouidah) in 1727, briefly disrupting and then redirecting the trade through Dahomean hands.",
+     "basis": "documented"
+    },
+    {
+     "t": "Debated motives.",
+     "d": "Some historians (notably I. A. Akinjogbin) argued Agaja wanted to curb the slave trade; most, following Robin Law, see the conquests as aimed at controlling it.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Agaja's conquests created the Dahomey–Ouidah system that lasted until the 1860s. He is remembered in Benin as one of the great kings of Abomey.",
+   "legacyDetail": [
+    {
+     "t": "Historians' debate.",
+     "d": "The 'Agaja abolitionist' thesis is a classic historiographical controversy and is now a minority view.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Agaja",
+     "url": "https://en.wikipedia.org/wiki/Agaja"
+    },
+    {
+     "label": "Wikipedia — History of the Kingdom of Dahomey",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Kingdom_of_Dahomey"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "king"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "political",
+     "label": "conquered Whydah 1727"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "political",
+     "label": "invaded by Oyo"
+    },
+    {
+     "id": "tegbesu-of-dahomey",
+     "type": "family",
+     "label": "succeeded by son Tegbesu"
+    }
+   ]
+  },
+  {
+   "id": "tegbesu-of-dahomey",
+   "name": "Tegbesu, King of Dahomey",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Dahomey",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "The slave trade grew significantly in his reign and became the king's largest source of income; annual revenue figures that circulate online cannot be traced to a scholarly source and are omitted here.",
+   "start": 1740,
+   "end": 1774,
+   "lifespan": "d.1774 (reigned 1740–1774; Britannica gives 1732–74)",
+   "base": "Abomey, Benin",
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "aliases": [
+    "Tegbessou"
+   ],
+   "origins": "A son of Agaja, Tegbesu won a succession struggle against a brother after Agaja's death.",
+   "role_summary": "Tegbesu consolidated royal control of the Ouidah trade, making the sale of captives the kingdom's main revenue. Late in his reign Oyo restricted trade through Dahomey, and he sold his own enslaved people to keep shipments going.",
+   "roleDetail": [
+    {
+     "t": "Royal revenue.",
+     "d": "Under Tegbesu the slave trade provided the largest part of the king's income (per Wikipedia's summary of the scholarship).",
+     "basis": "documented"
+    },
+    {
+     "t": "Pressure from Oyo.",
+     "d": "Oyo, Dahomey's overlord, diverted trade to Porto-Novo, squeezing Dahomey's supply.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His son Kpengla (r. 1774–1789) inherited a kingdom whose politics revolved around competition for slave-trade profits.",
+   "legacyDetail": [
+    {
+     "t": "Kpengla.",
+     "d": "Kpengla's attempts to control the trade largely failed; he died of smallpox in 1789.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Tegbesu",
+     "url": "https://en.wikipedia.org/wiki/Tegbesu"
+    },
+    {
+     "label": "Britannica (Students) — Dahomey, historical kingdom",
+     "url": "https://kids.britannica.com/students/article/Dahomey/28540"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "king"
+    },
+    {
+     "id": "agaja-of-dahomey",
+     "type": "family",
+     "label": "son of Agaja"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "royal trade at Ouidah"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "political",
+     "label": "tributary to Oyo"
+    }
+   ]
+  },
+  {
+   "id": "ghezo-of-dahomey",
+   "name": "Ghezo, King of Dahomey",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Dahomey",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ran the illegal trade through Ouidah with de Souza for four decades after British abolition; refused British demands to end it in 1850.",
+   "start": 1818,
+   "end": 1858,
+   "lifespan": "d.1858 (reigned 1818–1858)",
+   "base": "Abomey, Benin",
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "aliases": [
+    "Gezo",
+    "Gankpe"
+   ],
+   "origins": "A royal prince who seized the throne from his brother Adandozan in 1818 with the help of the Brazilian trader Francisco Félix de Souza. He inherited political turmoil and debts.",
+   "role_summary": "Ghezo ended Dahomey's tribute to Oyo and relied on the slave trade, run through his ally de Souza at Ouidah, to finance the state. In 1849–50 he told British envoy Frederick Forbes that the trade was integral to his kingdom and offered only a phased end if palm oil trade expanded.",
+   "roleDetail": [
+    {
+     "t": "Coup with a slave trader.",
+     "d": "De Souza helped Ghezo overthrow Adandozan in 1818 and was rewarded with the post of Chachá, controlling trade with Europeans at Ouidah.",
+     "basis": "documented"
+    },
+    {
+     "t": "The 1850 Forbes meeting.",
+     "d": "Forbes failed to persuade Ghezo to abolish the trade; Ghezo gave him a captive girl, later Sarah Forbes Bonetta. Britain blockaded Dahomey's ports from 1851.",
+     "basis": "documented"
+    },
+    {
+     "t": "Shift to palm oil.",
+     "d": "Ghezo promoted palm oil production alongside, not instead of, the trade in captives.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Ghezo signed an anti-slave-trade treaty in 1852 under blockade but the trade continued into Glele's reign. Forbes's book 'Dahomey and the Dahomans' (1851) became abolitionist propaganda and a key European source on the kingdom.",
+   "legacyDetail": [
+    {
+     "t": "Sarah Forbes Bonetta.",
+     "d": "The girl given to Forbes became a goddaughter of Queen Victoria, a story now widely retold by English Heritage and others.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Royal Collection Trust — Dahomey and the Dahomans, vol. 2, by Frederick E. Forbes",
+     "url": "https://col.rct.uk/collection/1072072/dahomey-and-the-dahomans-v-2-by-frederick-e-forbes"
+    },
+    {
+     "label": "English Heritage — Sarah Forbes Bonetta",
+     "url": "https://www.english-heritage.org.uk/visit/places/osborne/history-and-stories/sarah-forbes-bonetta/"
+    },
+    {
+     "label": "Wikipedia — History of the Kingdom of Dahomey",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Kingdom_of_Dahomey"
+    },
+    {
+     "label": "Fontes Historiae Africanae — Dahomey and the Ending of the Trans-Atlantic Slave Trade (Law, ed.)",
+     "url": "https://www.fonteshistoriaeafricanae.co.uk/wp-content/uploads/2024/02/Dahomey-and-the-Ending-of-the-Trans-Atlantic-Slave-Trade.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "king"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "political",
+     "label": "1818 coup ally; appointed him Chachá"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "exported captives via Ouidah"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "political",
+     "label": "ended tribute to Oyo"
+    },
+    {
+     "id": "glele-of-dahomey",
+     "type": "family",
+     "label": "succeeded by son Glele"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "trade",
+     "label": "sold to Portuguese/Brazilian buyers"
+    }
+   ]
+  },
+  {
+   "id": "glele-of-dahomey",
+   "name": "Glele, King of Dahomey",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Dahomey",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Presided over the final illegal shipments from Dahomey (last trans-Atlantic shipment dated 1863), including the 1860 Clotilda captives sold at Ouidah.",
+   "start": 1858,
+   "end": 1863,
+   "lifespan": "d.1889 (reigned 1858–1889)",
+   "base": "Abomey, Benin",
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "aliases": [
+    "Glélé",
+    "Badohun"
+   ],
+   "origins": "Son and successor of Ghezo, he came to the throne as British naval pressure and the collapse of the Atlantic market threatened Dahomey's revenue.",
+   "role_summary": "Glele continued war campaigns that produced captives and sold them to the remaining illegal traders until the trade closed in the 1860s. Captives taken by Dahomey were among the 110 people carried to Alabama aboard the Clotilda in 1860.",
+   "roleDetail": [
+    {
+     "t": "Last shipments.",
+     "d": "The final trans-Atlantic shipment from Dahomey is dated to 1863 (per the Fontes Historiae Africanae collection on Dahomey and the ending of the trade).",
+     "basis": "documented"
+    },
+    {
+     "t": "Economic decline.",
+     "d": "Palm oil was far less lucrative than captives, and Britannica describes his reign as one of economic decline.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "French expansion at Porto-Novo and Cotonou eroded Ouidah's commerce; his son Béhanzin was defeated by France in 1892–94.",
+   "legacyDetail": [
+    {
+     "t": "Clotilda descendants.",
+     "d": "Descendants of Clotilda survivors in Africatown, Alabama, have visited Ouidah and engaged with Benin about this history.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Glele",
+     "url": "https://en.wikipedia.org/wiki/Glele"
+    },
+    {
+     "label": "Fontes Historiae Africanae — Dahomey and the Ending of the Trans-Atlantic Slave Trade (Law, ed.)",
+     "url": "https://www.fonteshistoriaeafricanae.co.uk/wp-content/uploads/2024/02/Dahomey-and-the-Ending-of-the-Trans-Atlantic-Slave-Trade.pdf"
+    },
+    {
+     "label": "Britannica (Students) — Dahomey, historical kingdom",
+     "url": "https://kids.britannica.com/students/article/Dahomey/28540"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "king"
+    },
+    {
+     "id": "ghezo-of-dahomey",
+     "type": "family",
+     "label": "son of Ghezo"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "last shipments via Ouidah"
+    },
+    {
+     "id": "clotilda-meaher",
+     "type": "trade",
+     "label": "Clotilda captives bought at Ouidah, 1860"
+    }
+   ]
+  },
+  {
+   "id": "francisco-felix-de-souza",
+   "name": "Francisco Félix de Souza (\"Chachá\")",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Dominant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Widely described as the largest slave trader on the Bight of Benin c.1820–1849, holding exclusive rights over Dahomey's sales at Ouidah; precise numbers are not documented.",
+   "start": 1788,
+   "end": 1849,
+   "lifespan": "1771?–1849",
+   "base": "Ouidah, Benin",
+   "geo": [
+    6.363,
+    2.085
+   ],
+   "aliases": [
+    "Chachá I",
+    "Francisco Félix de Sousa",
+    "Xaxá"
+   ],
+   "origins": "Born in Salvador, Bahia (Brazil), probably in 1771, of mixed Portuguese and possibly African/Amerindian descent. He arrived on the coast in the 1790s, worked at the Portuguese fort at Ouidah, and traded at Little Popo (Aného) after quarrels and imprisonment under King Adandozan.",
+   "role_summary": "He helped Ghezo seize the Dahomean throne in 1818 and was made Chachá — the king's chief agent for the European trade at Ouidah. For three decades after British abolition he supplied captives to Brazilian, Cuban and Portuguese buyers, mostly by barter on credit.",
+   "roleDetail": [
+    {
+     "t": "Kingmaker.",
+     "d": "Conspired with Prince Gakpe (Ghezo) to depose Adandozan in 1818; Ghezo granted him a privileged position over the slave trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Illegal-era trader.",
+     "d": "His clients were mainly Brazilian and European merchants, and his business continued long after Britain (1807) and Brazil (1831) banned the trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Afro-Brazilian community.",
+     "d": "He anchored a community of returned Afro-Brazilians and traders in Ouidah, many themselves formerly enslaved.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "He died in Ouidah in 1849 heavily indebted. The de Souza family remains prominent in Benin; the title 'Chachá' still passes to a family patriarch, and the family has contested his portrayal as a slave merchant in Ouidah museums.",
+   "legacyDetail": [
+    {
+     "t": "Living lineage.",
+     "d": "A 'Chachá' is still installed every few decades; Moïse de Souza was listed as family head.",
+     "basis": "documented"
+    },
+    {
+     "t": "Literature.",
+     "d": "His life inspired Bruce Chatwin's 'The Viceroy of Ouidah' (1980) and Werner Herzog's film 'Cobra Verde' (1987).",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Francisco Félix de Souza",
+     "url": "https://en.wikipedia.org/wiki/Francisco_F%C3%A9lix_de_Souza"
+    },
+    {
+     "label": "University of Bayreuth, Africa Multiple — Black Atlantic Revisited, Station 1 (de Souza)",
+     "url": "https://www.africamultiple.uni-bayreuth.de/en/1_2-Research/Research-Projects/Arts-and-Aesthetics/Black-Atlantic-revisited/May-Exhibition/Station-1/index.html"
+    },
+    {
+     "label": "InfoEscola — Francisco Félix de Sousa (Chachá)",
+     "url": "https://www.infoescola.com/biografias/francisco-felix-de-sousa-chacha"
+    },
+    {
+     "label": "SEPHIS / Elisée Soumonni — Daomé e o mundo atlântico (2001)",
+     "url": "https://sephis.org/wp-content/uploads/tainacan-items/4273/4351/LT6_Soumonni_2001_Daome_PT.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ghezo-of-dahomey",
+     "type": "political",
+     "label": "helped Ghezo seize power 1818"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "charter",
+     "label": "appointed Chachá by the king"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "dominated Ouidah trade"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "sold to Bahian buyers"
+    },
+    {
+     "id": "de-souza-family",
+     "type": "family",
+     "label": "founder"
+    },
+    {
+     "id": "fort-sao-joao-baptista-ajuda",
+     "type": "ownership",
+     "label": "served at the Portuguese fort"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "supplied Cuban buyers"
+    }
+   ]
+  },
+  {
+   "id": "de-souza-family",
+   "name": "De Souza family of Ouidah",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Sons of Francisco Félix continued trading after 1849 in the declining illegal trade; the family's importance today is social and political rather than commercial.",
+   "start": 1849,
+   "end": 1863,
+   "lifespan": "1820s–present",
+   "base": "Ouidah, Benin",
+   "geo": [
+    6.363,
+    2.085
+   ],
+   "aliases": [
+    "Chachá lineage"
+   ],
+   "origins": "Descendants of Francisco Félix de Souza and his many wives, forming one of Benin's best-known Afro-Brazilian lineages in the Brazil Quarter of Ouidah.",
+   "role_summary": "After 1849 the title of Chachá passed to his sons, who remained agents of the Dahomean crown and traders at Ouidah as the slave trade gave way to palm oil. The lineage later produced civil servants, politicians and businesspeople in colonial and independent Benin.",
+   "roleDetail": [
+    {
+     "t": "Inherited office.",
+     "d": "Successive Chachás served the kings of Dahomey as intermediaries with European and Brazilian traders.",
+     "basis": "documented"
+    },
+    {
+     "t": "Transition to palm oil.",
+     "d": "Like other Afro-Brazilian families on the coast, they shifted toward 'legitimate' trade as the Atlantic market closed.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The family maintains a memorial at Singbomey in Ouidah and performs a family panegyric on the founder's birthday. Family leaders have acknowledged the history but objected to his labelling as a 'slave merchant' in the Ouidah museum.",
+   "legacyDetail": [
+    {
+     "t": "Memory dispute.",
+     "d": "The family's resistance to critical portrayals is a frequently cited example of the politics of slave-trade memory in Benin.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — De Souza family",
+     "url": "https://en.wikipedia.org/wiki/De_Souza_family"
+    },
+    {
+     "label": "University of Bayreuth, Africa Multiple — Black Atlantic Revisited, Station 1 (de Souza)",
+     "url": "https://www.africamultiple.uni-bayreuth.de/en/1_2-Research/Research-Projects/Arts-and-Aesthetics/Black-Atlantic-revisited/May-Exhibition/Station-1/index.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "family",
+     "label": "descendants"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "legacy",
+     "label": "family seat in Ouidah"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "political",
+     "label": "agents of the crown"
+    },
+    {
+     "id": "ouidah-route-des-esclaves",
+     "type": "legacy",
+     "label": "contested memorialisation"
+    }
+   ]
+  },
+  {
+   "id": "oyo-empire",
+   "name": "Oyo Empire",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Oyo",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Dominant Yoruba state of the 18th century whose captives fed Porto-Novo and Ouidah; its 1820s–30s collapse produced vast numbers of Yoruba captives shipped to Brazil and Cuba.",
+   "start": 1700,
+   "end": 1836,
+   "lifespan": "c.1400s–1836 (Alaafin survives at New Oyo)",
+   "base": "Oyo-Ile (Old Oyo), Nigeria",
+   "geo": [
+    8.95,
+    4.383
+   ],
+   "aliases": [
+    "Old Oyo",
+    "Alaafin's empire"
+   ],
+   "origins": "A Yoruba kingdom of the savanna whose cavalry made it the leading power between the Volta and the Niger. Its ruler, the Alaafin, sat at Oyo-Ile.",
+   "role_summary": "Oyo subjugated Dahomey (1724–30, 1738–48) and traded with Europeans through Ajase (Porto-Novo), acting as a key conduit moving captives from the interior to the coast. Alaafin Abiodun (c.1770–89) built policy on the coastal trade.",
+   "roleDetail": [
+    {
+     "t": "Overlord of Dahomey.",
+     "d": "Oyo forced Dahomey to pay tribute for about a century and shaped which ports captives passed through.",
+     "basis": "documented"
+    },
+    {
+     "t": "Porto-Novo route.",
+     "d": "Oyo channelled its trade through Ajase/Porto-Novo, competing with Dahomean Ouidah.",
+     "basis": "documented"
+    },
+    {
+     "t": "Collapse produced captives.",
+     "d": "The Ilorin revolt and Sokoto jihad wars that destroyed Oyo (c.1817–1836) made Yoruba-speakers a large share of 19th-century arrivals in Bahia and Cuba.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Old Oyo was abandoned c.1836; a new Oyo was founded further south and the Alaafin remains a traditional ruler. Yoruba religion and culture carried by captives shaped Candomblé in Brazil and Santería in Cuba.",
+   "legacyDetail": [
+    {
+     "t": "Diaspora culture.",
+     "d": "The large Yoruba presence among late-era captives underlies Yoruba-derived traditions across Brazil and Cuba.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Oyo empire",
+     "url": "https://www.britannica.com/place/Oyo-empire"
+    },
+    {
+     "label": "World History Encyclopedia — Oyo Empire",
+     "url": "https://www.worldhistory.org/Oyo_Empire/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "political",
+     "label": "overlord of Dahomey"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "captives via Ouidah/Porto-Novo"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "Yoruba captives to Bahia"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "Yoruba captives to Cuba"
+    },
+    {
+     "id": "kosoko-of-lagos",
+     "type": "parallel",
+     "label": "Lagos traded Oyo-war captives"
+    }
+   ]
+  },
+  {
+   "id": "asante-empire",
+   "name": "Asante Empire",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Asante",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "The main source of captives sold at Gold Coast castles in the 18th century; the Gold Coast exported c.1.2 million people overall (SlaveVoyages estimates).",
+   "start": 1701,
+   "end": 1807,
+   "lifespan": "c.1670–1902 (Asantehene today)",
+   "base": "Kumasi, Ghana",
+   "geo": [
+    6.688,
+    -1.624
+   ],
+   "aliases": [
+    "Ashanti",
+    "Asanteman"
+   ],
+   "origins": "An Akan confederation forged by Osei Tutu and the priest Okomfo Anokye around the Golden Stool. It defeated its former overlord Denkyira in 1701.",
+   "role_summary": "From the early 1700s Asante supplied war captives and tribute captives to British and Dutch traders on the coast in exchange for firearms that fuelled further expansion. Rulers such as Opoku Ware (r. c.1720–1750) extended the empire and its slave supply.",
+   "roleDetail": [
+    {
+     "t": "Guns for captives.",
+     "d": "Britannica: from the start of the 18th century Asante supplied enslaved people to British and Dutch traders and received firearms to enforce expansion.",
+     "basis": "documented"
+    },
+    {
+     "t": "Gold and captives.",
+     "d": "Asante's economy also rested on gold and kola; enslaved labour was widely used inside the state.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Questioning abolition.",
+     "d": "In 1820 Asantehene Osei Bonsu asked British envoy Joseph Dupuis why Britain had suddenly stopped buying captives and doubted it was for humanity alone.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Asante fought a series of wars with Britain and was annexed in 1902; the Asantehene remains a powerful traditional ruler in Ghana. Ghana's castle heritage and the 2019 Year of Return have brought renewed attention to Akan participation in the trade.",
+   "legacyDetail": [
+    {
+     "t": "Ongoing monarchy.",
+     "d": "The Golden Stool and the Asantehene remain at the heart of Asante identity in modern Ghana.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Asante empire",
+     "url": "https://www.britannica.com/place/Asante-empire"
+    },
+    {
+     "label": "Britannica — Osei Tutu",
+     "url": "https://www.britannica.com/biography/Osei-Tutu"
+    },
+    {
+     "label": "Wikipedia — Asante Empire",
+     "url": "https://en.wikipedia.org/wiki/Asante_Empire"
+    }
+   ],
+   "connections": [
+    {
+     "id": "osei-bonsu-of-asante",
+     "type": "ownership",
+     "label": "Asantehene 1804–1824"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "sold captives to British traders"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "trade",
+     "label": "sold captives at Elmina"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "trade",
+     "label": "captives sold at Elmina"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "captives sold at Cape Coast"
+    },
+    {
+     "id": "akwamu-kingdom",
+     "type": "political",
+     "label": "Akan rival states"
+    },
+    {
+     "id": "fante-confederacy",
+     "type": "political",
+     "label": "longstanding wars with Fante"
+    }
+   ]
+  },
+  {
+   "id": "osei-bonsu-of-asante",
+   "name": "Osei Bonsu, Asantehene",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Asante",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ruled Asante as Britain abolished the trade; his 1820 remarks to Joseph Dupuis are a key African source on reactions to abolition.",
+   "start": 1804,
+   "end": 1824,
+   "lifespan": "c.1779–1824 (reigned 1804–1824)",
+   "base": "Kumasi, Ghana",
+   "geo": [
+    6.688,
+    -1.624
+   ],
+   "aliases": [
+    "Osei Tutu Kwame"
+   ],
+   "origins": "Asantehene at the height of Asante power, he led campaigns against the Fante on the coast in 1807 and after.",
+   "role_summary": "He presided over an economy in which war and tribute captives had been sold to the coast; when Britain stopped buying in 1807, he challenged British motives in talks with envoy Joseph Dupuis in 1820.",
+   "roleDetail": [
+    {
+     "t": "The Dupuis exchange.",
+     "d": "Recorded in Dupuis's 'Journal of a Residence in Ashantee' (1824), Osei Bonsu asked why the British had changed policy and doubted it came from humanity alone.",
+     "basis": "documented"
+    },
+    {
+     "t": "Coastal wars.",
+     "d": "His campaigns against the Fante (1807, 1811, 1814–16) brought Asante into direct conflict with British coastal interests.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His successor's war with Britain (1824) began a century of Anglo-Asante conflict. His words are widely taught as an African perspective on abolition.",
+   "legacyDetail": [
+    {
+     "t": "Classroom source.",
+     "d": "Excerpts appear in standard world-history source readers such as McKay's.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Osei Bonsu",
+     "url": "https://en.wikipedia.org/wiki/Osei_Bonsu"
+    },
+    {
+     "label": "Bedford/St Martin's (McKay, Sources) — Osei Bonsu, An Asante King Questions British Motives (1820)",
+     "url": "https://digfir-published.macmillanusa.com/mckaysources/mckaysources_ch20_3.html"
+    },
+    {
+     "label": "EAUMF — 28 Feb 1820: British envoy Joseph Dupuis arrives in Kumasi",
+     "url": "https://www.eaumf.org/ejm-blog/2018/2/28/february-28-1820-british-envoy-joseph-dupuis-arrives-in-kumasi"
+    }
+   ],
+   "connections": [
+    {
+     "id": "asante-empire",
+     "type": "ownership",
+     "label": "Asantehene"
+    },
+    {
+     "id": "fante-confederacy",
+     "type": "political",
+     "label": "wars against Fante"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "political",
+     "label": "negotiated with British at Cape Coast"
+    }
+   ]
+  },
+  {
+   "id": "akwamu-kingdom",
+   "name": "Akwamu Kingdom",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Gold Coast",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Dominated the coastal plain around Accra c.1680–1730 and the trade with Danish, Dutch and English forts there; seized Danish Christiansborg in 1693.",
+   "start": 1680,
+   "end": 1730,
+   "lifespan": "c.1600–present (Akwamufie paramountcy)",
+   "base": "Nyanaoase / Akwamufie, Ghana",
+   "geo": [
+    5.833,
+    -0.333
+   ],
+   "aliases": [
+    "Akwamu Empire"
+   ],
+   "origins": "An Akan state that rose in the 17th century in the hinterland of Accra and conquered the Ga coast by the 1680s.",
+   "role_summary": "Akwamu controlled commerce between the interior and the Accra forts, selling captives, gold and ivory for guns, cloth and metal. In 1693 Akwamu's Asameni seized Danish Christiansborg Castle and traded from it for about a year.",
+   "roleDetail": [
+    {
+     "t": "Seizure of Christiansborg.",
+     "d": "In June 1693 Asameni and some 80 men posing as traders took the castle, kept its goods, and invited English and Dutch captains to trade, before selling it back to the Danes.",
+     "basis": "documented"
+    },
+    {
+     "t": "Not anti-slavery.",
+     "d": "Historians stress Akwamu objected to how Europeans conducted trade, not to the trade itself.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Diaspora echo.",
+     "d": "Akwamu captives sold after Akwamu's 1730 defeat by Akyem are linked to the 1733 St John (Danish West Indies) revolt.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Akwamu was defeated by Akyem in 1730–31 and moved east to the Volta, where its paramount chief still rules at Akwamufie. The Christiansborg episode is retold as a story of both resistance and collaboration.",
+   "legacyDetail": [
+    {
+     "t": "Osu Castle.",
+     "d": "Christiansborg (Osu Castle) later became the seat of Ghana's government.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Akwamu Empire",
+     "url": "https://en.wikipedia.org/wiki/Akwamu_Empire"
+    },
+    {
+     "label": "The Conversation — Resistance and collaboration: Asameni and the keys to Christiansborg Castle",
+     "url": "https://theconversation.com/resistance-and-collaboration-asameni-and-the-keys-to-christiansborg-castle-in-accra-120006"
+    },
+    {
+     "label": "Wikipedia — Timeline of Accra",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Accra"
+    }
+   ],
+   "connections": [
+    {
+     "id": "christiansborg-castle",
+     "type": "political",
+     "label": "seized 1693"
+    },
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "trade",
+     "label": "sold captives to the Danes"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "trade",
+     "label": "traded with Dutch forts"
+    },
+    {
+     "id": "asante-empire",
+     "type": "political",
+     "label": "Akan rival"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "traded with English at Accra"
+    }
+   ]
+  },
+  {
+   "id": "kingdom-of-kongo",
+   "name": "Kingdom of Kongo",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Kongo",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Kongo was an early and major supply zone for the Portuguese trade via São Tomé and Mpinda in the 16th century; West Central Africa as a whole supplied c.5.7 million people, nearly half of all Atlantic captives (SlaveVoyages estimates).",
+   "start": 1500,
+   "end": 1860,
+   "lifespan": "c.1390–1914",
+   "base": "Mbanza Kongo (São Salvador), Angola",
+   "geo": [
+    -6.267,
+    14.25
+   ],
+   "aliases": [
+    "Kongo dya Ntotila",
+    "Wene wa Kongo"
+   ],
+   "origins": "The most powerful state in West Central Africa, centred on Mbanza Kongo, emerging in the 14th century. Portuguese navigators arrived in 1483 and the ruling house converted to Christianity.",
+   "role_summary": "Kongo's kings exchanged captives — mostly war captives from neighbouring peoples — for European goods and Christian prestige, and Portuguese traders from São Tomé pushed the trade beyond royal control. Disputes over the trade led Portugal to turn to Ndongo and later to found Luanda (1576).",
+   "roleDetail": [
+    {
+     "t": "Early partnership.",
+     "d": "Under Afonso I Kongo accepted Portuguese advisers and missionaries and supplied enslaved people to Portuguese traders.",
+     "basis": "documented"
+    },
+    {
+     "t": "Loss of control.",
+     "d": "Afonso's 1526 letters complained that traders were seizing free Kongolese, including nobles.",
+     "basis": "documented"
+    },
+    {
+     "t": "Regulated under Kongo law.",
+     "d": "Some historians (e.g. John Thornton) argue the trade remained largely regulated under African law and that Kongo later withdrew from large-scale export.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Civil wars.",
+     "d": "After the 1665 Battle of Mbwila against Portugal, Kongo's civil wars generated many captives sold to the coast.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Kongo became a Portuguese vassal and was absorbed into Angola by 1914. Mbanza Kongo was inscribed as a UNESCO World Heritage Site in 2017; Kongo Christianity and culture strongly shaped the diaspora, notably in the Stono Rebellion and Haitian Revolution.",
+   "legacyDetail": [
+    {
+     "t": "Diaspora influence.",
+     "d": "Kongolese captives, some Catholic, are linked by historians to the 1739 Stono Rebellion and to Haitian Revolution fighters.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "South African History Online — Kingdom of Kongo 1390–1914",
+     "url": "https://sahistory.org.za/article/kingdom-kongo-1390-1914"
+    },
+    {
+     "label": "Britannica — History of Angola",
+     "url": "https://www.britannica.com/place/Angola/History"
+    },
+    {
+     "label": "EBSCO Research Starters — Kongo (historical kingdom)",
+     "url": "https://www.ebsco.com/research-starters/history/kongo-historical-kingdom"
+    },
+    {
+     "label": "African History Extra — The kingdom of Kongo and the Portuguese (1483–1670)",
+     "url": "https://www.africanhistoryextra.com/p/the-kingdom-of-kongo-and-the-portuguese"
+    }
+   ],
+   "connections": [
+    {
+     "id": "afonso-i-of-kongo",
+     "type": "ownership",
+     "label": "king 1509–1542"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "alliance and vassalage"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "captives shipped via Luanda"
+    },
+    {
+     "id": "queen-nzinga",
+     "type": "political",
+     "label": "neighbouring Ndongo/Matamba"
+    },
+    {
+     "id": "mbanza-kongo",
+     "type": "ownership",
+     "label": "capital"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "allied vs Portugal in 1640s"
+    }
+   ]
+  },
+  {
+   "id": "afonso-i-of-kongo",
+   "name": "Afonso I (Nzinga Mbemba) of Kongo",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Kongo",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Ruled during the first large-scale Portuguese slave exports from Central Africa; his 1526 letters to João III are the earliest African protest against abuses of the trade.",
+   "start": 1509,
+   "end": 1542,
+   "lifespan": "c.1456–1542/43 (reigned 1509–1542)",
+   "base": "Mbanza Kongo, Angola",
+   "geo": [
+    -6.267,
+    14.25
+   ],
+   "aliases": [
+    "Nzinga Mbemba",
+    "Mvemba a Nzinga"
+   ],
+   "origins": "Son of King Nzinga a Nkuwu, he was baptised in 1491 and won the throne in 1509 with Christian, Portuguese-backed support.",
+   "role_summary": "Afonso made Kongo a Catholic kingdom, sent nobles to Lisbon, and sold enslaved war captives to the Portuguese. In 1526 he wrote to João III that Portuguese traders were seizing free people and even nobles, and asked for the trade to be curbed — but he set up inspectors to regulate it rather than abolish it.",
+   "roleDetail": [
+    {
+     "t": "The 1526 letters.",
+     "d": "He wrote that 'many of our people, out of great desire for the wares... seize many of our people, free and exempt men', and asked Portugal to stop sending traders.",
+     "basis": "documented"
+    },
+    {
+     "t": "Regulation, not abolition.",
+     "d": "Afonso established a royal board to verify that people sold were lawfully enslaved; most exports were foreign war captives.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "No Portuguese action.",
+     "d": "João III replied but did little to curb the trade.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Afonso is remembered as Kongo's great Christian king; his correspondence, preserved in Portuguese archives, is widely taught. The complexity of his position — protesting abuses while trading captives — is central to how historians teach African involvement.",
+   "legacyDetail": [
+    {
+     "t": "Teaching the complexity.",
+     "d": "Educators use his letters to show that his objection was about who could be enslaved, not to slavery itself.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "World History Commons — Afonso I letters to the King of Portugal (primary source)",
+     "url": "https://worldhistorycommons.org/node/2382"
+    },
+    {
+     "label": "Religion and Slavery project — Afonso I to Portugal (primary source)",
+     "url": "https://religionandslavery.org/ps%3A-afonso-i-to-portugal"
+    },
+    {
+     "label": "Regensburg Forum — Christian Kongo and Slavery (2025)",
+     "url": "https://regensburgforum.com/2025/02/01/christian-kongo-and-slavery/"
+    },
+    {
+     "label": "South African History Online — Kingdom of Kongo 1390–1914",
+     "url": "https://sahistory.org.za/article/kingdom-kongo-1390-1914"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-kongo",
+     "type": "ownership",
+     "label": "king"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "letters to João III, 1526"
+    },
+    {
+     "id": "port-lisbon",
+     "type": "political",
+     "label": "sent nobles to Lisbon"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "Central African trade route"
+    }
+   ]
+  },
+  {
+   "id": "queen-nzinga",
+   "name": "Queen Njinga (Nzinga) of Ndongo and Matamba",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Ndongo/Angola",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Both resisted Portuguese conquest and traded captives to the Dutch and later Portuguese; quoted figures of hundreds of thousands sold are unverified.",
+   "start": 1622,
+   "end": 1663,
+   "lifespan": "c.1583–1663",
+   "base": "Kabasa / Matamba, Angola",
+   "geo": [
+    -9.0,
+    16.0
+   ],
+   "aliases": [
+    "Njinga Mbande",
+    "Ana de Sousa Nzinga"
+   ],
+   "origins": "Daughter of King Mbande a Ngola of Ndongo. She negotiated with the Portuguese governor in Luanda in 1622, accepting baptism as Ana de Sousa.",
+   "role_summary": "Ruling Ndongo from 1624 and Matamba from 1631, Njinga fought Portuguese wars of conquest for decades, allied with Imbangala bands and with the Dutch West India Company (1641–48), and sold war captives to whoever controlled the coast. After 1656 peace she traded with the Portuguese.",
+   "roleDetail": [
+    {
+     "t": "Diplomat and war leader.",
+     "d": "Her 1622 embassy to Luanda and long war against Portugal made her a symbol of resistance.",
+     "basis": "documented"
+    },
+    {
+     "t": "Participant in the trade.",
+     "d": "Matamba became a slave-trading state, and Njinga supplied captives to Dutch and later Portuguese buyers.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Contested legacy.",
+     "d": "Portuguese and missionary historians stressed her conversion and trading; Angolan nationalists stress her anti-colonial struggle.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Njinga is a national heroine in Angola, with statues and a 'Queen Nzinga' banknote and avenue names. Historians such as Linda Heywood present her as both a resistance leader and a slave-trading ruler.",
+   "legacyDetail": [
+    {
+     "t": "National symbol.",
+     "d": "She is celebrated in Angola and in the diaspora as an anti-colonial heroine.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Nzinga of Ndongo and Matamba",
+     "url": "https://en.wikipedia.org/wiki/Nzinga_of_Ndongo_and_Matamba"
+    },
+    {
+     "label": "UNC Global Women's Online — Njinga of Angola: Africa's Warrior Queen",
+     "url": "https://gwonline.unc.edu/node/7631"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "allied with the Dutch 1641–48"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "war and treaties with Portugal"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "captives sold via Luanda"
+    },
+    {
+     "id": "imbangala-kasanje",
+     "type": "political",
+     "label": "allied with Imbangala bands"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "political",
+     "label": "neighbouring kingdom"
+    }
+   ]
+  },
+  {
+   "id": "imbangala-kasanje",
+   "name": "Imbangala & Kingdom of Kasanje",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Ndongo/Angola",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Imbangala war bands and the Kasanje market were among the main sources of captives for Portuguese Luanda from the 17th to 19th centuries.",
+   "start": 1610,
+   "end": 1850,
+   "lifespan": "c.1610–1911",
+   "base": "Kasanje (Cassange), Angola",
+   "geo": [
+    -9.4,
+    17.6
+   ],
+   "aliases": [
+    "Mbangala",
+    "Jagas"
+   ],
+   "origins": "Militarised warrior bands of disputed origin (possibly Lunda or the central Angolan highlands) who appeared in Angola around 1600 and recruited captured adolescents into their ranks.",
+   "role_summary": "The Portuguese hired Imbangala as mercenaries in wars against Ndongo; their raids supplied captives to Luanda. Around 1620–30 they founded Kasanje on the Kwango, where a Portuguese feira (market) channelled captives from Lunda and the deep interior to the coast.",
+   "roleDetail": [
+    {
+     "t": "Mercenary slavers.",
+     "d": "Imbangala bands served both the Portuguese and their enemies, including Njinga, and their raids produced captives for sale.",
+     "basis": "documented"
+    },
+    {
+     "t": "Kasanje market.",
+     "d": "Captives from Lunda and beyond passed through Imbangala middlemen to Portuguese-employed pombeiros at Kasanje.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Kasanje resisted Portugal into the 19th century and was conquered c.1911. The Imbangala's reputation for ferocity in Portuguese sources is treated with caution by historians.",
+   "legacyDetail": [
+    {
+     "t": "Source bias.",
+     "d": "European descriptions of Imbangala cannibalism and ritual are considered exaggerated or unverifiable.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Imbangala",
+     "url": "https://en.wikipedia.org/wiki/Imbangala"
+    },
+    {
+     "label": "Britannica — Kasanje",
+     "url": "https://www.britannica.com/place/Kasanje"
+    },
+    {
+     "label": "Library of Congress Country Studies (Angola) — Matamba and Kasanje Kingdoms",
+     "url": "https://countrystudies.us/angola/8.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "supplied captives to Luanda"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "political",
+     "label": "mercenaries for Portugal"
+    },
+    {
+     "id": "queen-nzinga",
+     "type": "political",
+     "label": "allied with Njinga"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "political",
+     "label": "raided Kongo region"
+    }
+   ]
+  },
+  {
+   "id": "aro-confederacy",
+   "name": "Aro Confederacy",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "The main inland trading network supplying the Bight of Biafra ports (Bonny, Calabar), which exported c.1.6 million people (SlaveVoyages estimates).",
+   "start": 1690,
+   "end": 1840,
+   "lifespan": "c.1690–1902",
+   "base": "Arochukwu, Nigeria",
+   "geo": [
+    5.388,
+    7.912
+   ],
+   "aliases": [
+    "Aro",
+    "Arochukwu"
+   ],
+   "origins": "An Igbo-Ibibio-Akpa trading people centred on Arochukwu who emerged in the late 17th century, with the oracle Ibini Ukpabi ('Long Juju') as their spiritual centre.",
+   "role_summary": "The Aro built a network of trading settlements across Igboland, using the oracle's prestige, alliances with mercenary communities and judicial verdicts to acquire captives. Many people judged by the oracle were sold, not killed as believed, and passed to Bonny and Calabar for sale to European ships.",
+   "roleDetail": [
+    {
+     "t": "The oracle as a recruiter.",
+     "d": "UNESCO's tentative-list entry describes Ibini Ukpabi as the major recruiter of captives sent to Bonny.",
+     "basis": "documented"
+    },
+    {
+     "t": "Commercial diaspora.",
+     "d": "Aro traders founded settlements and slave-holding quarters across Igboland, running markets and caravans.",
+     "basis": "documented"
+    },
+    {
+     "t": "Judicial enslavement.",
+     "d": "Accusations that priests manipulated verdicts to obtain captives are reported but poorly documented.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Britain destroyed the confederacy in the Anglo-Aro War (1901–02), reportedly blowing up the shrine. The Arochukwu Long Juju slave route is on Nigeria's UNESCO tentative list, and the Eze Aro remains a traditional ruler.",
+   "legacyDetail": [
+    {
+     "t": "Heritage site.",
+     "d": "The Long Juju shrine is now visited as a slave-route heritage site.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Aro Confederacy",
+     "url": "https://en.wikipedia.org/wiki/Aro_Confederacy"
+    },
+    {
+     "label": "Wikipedia — Ibini Ukpabi",
+     "url": "https://en.wikipedia.org/wiki/Ibini_Ukpabi"
+    },
+    {
+     "label": "World Heritage Site — Arochukwu Long Juju Slave Route (Tentative List)",
+     "url": "https://dev.worldheritagesite.org/whsorg/tentative/arochkwu-long-juju-slave-route"
+    },
+    {
+     "label": "Wikipedia — Anglo-Aro War",
+     "url": "https://en.wikipedia.org/wiki/Anglo-Aro_War"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-bonny",
+     "type": "trade",
+     "label": "supplied captives to Bonny"
+    },
+    {
+     "id": "old-calabar-efik",
+     "type": "trade",
+     "label": "supplied captives to Calabar"
+    },
+    {
+     "id": "arochukwu-long-juju",
+     "type": "ownership",
+     "label": "oracle shrine"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "captives sold to Liverpool ships"
+    }
+   ]
+  },
+  {
+   "id": "kingdom-of-bonny",
+   "name": "Kingdom of Bonny (Pepple dynasty)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "One of West Africa's largest slave-exporting ports by the late 18th century: about 20,000 people were shipped from Bonny in 1790 alone (per Britannica), mostly to Liverpool ships.",
+   "start": 1700,
+   "end": 1839,
+   "lifespan": "c.1500s–present (Amanyanabo of Bonny)",
+   "base": "Bonny, Rivers State, Nigeria",
+   "geo": [
+    4.451,
+    7.17
+   ],
+   "aliases": [
+    "Ibani",
+    "Grand Bonny"
+   ],
+   "origins": "An Ijaw city-state in the eastern Niger Delta, ruled by the Pepple dynasty, whose wealth came from brokering trade between inland producers and European ships.",
+   "role_summary": "Bonny's kings and trading 'houses' bought captives from the Aro and other inland suppliers and sold them to European (overwhelmingly Liverpool) captains, levying comey (customs). Rulers such as Opubo and William Dappa Pepple resisted British abolition until the 1839 treaty and later deals.",
+   "roleDetail": [
+    {
+     "t": "Liverpool partner.",
+     "d": "Bonny was a principal destination for Liverpool slave ships in the late 18th century.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Treaty for compensation.",
+     "d": "An 1839 agreement with Captain Tucker promised goods worth 10,000 dollars a year for five years to end the trade; British suspicions of continued trade persisted.",
+     "basis": "documented"
+    },
+    {
+     "t": "House system.",
+     "d": "Trade was organised in canoe houses that absorbed enslaved people as rowers and traders; some, like Jaja, rose to lead houses.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "By the 1850s Bonny was a major palm oil exporter; Britain deposed and exiled William Dappa Pepple in 1854. The Pepple dynasty still provides the Amanyanabo of Bonny, today a centre of Nigeria's oil and gas industry.",
+   "legacyDetail": [
+    {
+     "t": "From slaves to palm oil to petroleum.",
+     "d": "Bonny Island today hosts Nigeria LNG.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Kingdom of Bonny",
+     "url": "https://www.britannica.com/topic/kingdom-of-Bonny"
+    },
+    {
+     "label": "Wikipedia — Kingdom of Bonny",
+     "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bonny"
+    },
+    {
+     "label": "Victorian Web — King William Dappa Pepple of Bonny (Willasey-Wilsey)",
+     "url": "https://www.victorianweb.org/history/antislavery/pepple.html"
+    },
+    {
+     "label": "Wikipedia — Fubara Manilla Pepple",
+     "url": "https://en.wikipedia.org/wiki/Fubara_Manilla_Pepple"
+    },
+    {
+     "label": "Britannica — Bonny (Nigeria)",
+     "url": "https://www.britannica.com/place/Bonny"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "main buyer of captives"
+    },
+    {
+     "id": "aro-confederacy",
+     "type": "trade",
+     "label": "bought captives from Aro"
+    },
+    {
+     "id": "jaja-of-opobo",
+     "type": "political",
+     "label": "Jaja broke away from Bonny 1869"
+    },
+    {
+     "id": "port-bonny",
+     "type": "ownership",
+     "label": "port"
+    }
+   ]
+  },
+  {
+   "id": "old-calabar-efik",
+   "name": "Old Calabar (Efik city-states)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "A leading Bight of Biafra port, closely tied to Bristol and Liverpool; Efik houses sold tens of thousands of captives in the 18th century.",
+   "start": 1650,
+   "end": 1841,
+   "lifespan": "c.1600s–present (Obong of Calabar)",
+   "base": "Calabar, Nigeria",
+   "geo": [
+    4.958,
+    8.322
+   ],
+   "aliases": [
+    "Duke Town",
+    "Creek Town",
+    "Old Town",
+    "Akwa Akpa"
+   ],
+   "origins": "Efik trading towns on the Calabar River — Duke Town, Creek Town and Old Town — governed through rival houses and the Ekpe (leopard) society.",
+   "role_summary": "Efik merchants bought captives inland and sold them on credit ('trust') to British ships; the Ekpe society enforced debts and contracts. Rivalry between Old Town (Robin John) and Duke Town led to the 1767 massacre, in which English captains helped Duke Ephraim's faction kill and enslave Old Town traders.",
+   "roleDetail": [
+    {
+     "t": "The 1767 massacre.",
+     "d": "English captains lured Old Town's leaders aboard ships; c.300 were killed and others, including two Robin John princes, were sold.",
+     "basis": "documented"
+    },
+    {
+     "t": "Antera Duke's diary.",
+     "d": "An Efik trader's diary (1785–88), the only surviving eyewitness account of the trade by an African merchant, records daily dealings.",
+     "basis": "documented"
+    },
+    {
+     "t": "Ending the trade.",
+     "d": "Eyamba V and Eyo Honesty II signed an 1841 treaty to end the slave trade and shifted to palm oil.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Calabar became a Presbyterian mission centre (1846) and the first capital of the Niger Coast Protectorate. The Obong of Calabar remains the paramount ruler; Ekpe survives as a cultural institution and in Cuba as Abakuá.",
+   "legacyDetail": [
+    {
+     "t": "Abakuá in Cuba.",
+     "d": "Captives from the Cross River region recreated Ekpe as the Abakuá society in Cuba.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Britannica — Calabar",
+     "url": "https://www.britannica.com/place/Calabar"
+    },
+    {
+     "label": "Wikipedia — Little Ephraim Robin John and Ancona Robin John",
+     "url": "https://en.wikipedia.org/wiki/Little_Ephraim_Robin_John_and_Ancona_Robin_John"
+    },
+    {
+     "label": "Wikipedia — Timeline of Old Calabar history",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Old_Calabar_history"
+    },
+    {
+     "label": "Smithsonian Transcription Center — Autograph note to William Turner by Eyamba V",
+     "url": "https://transcription.si.edu/project/38352"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-bristol",
+     "type": "trade",
+     "label": "sold captives to Bristol ships"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "sold captives to Liverpool ships"
+    },
+    {
+     "id": "aro-confederacy",
+     "type": "trade",
+     "label": "bought captives from Aro"
+    },
+    {
+     "id": "antera-duke-diary",
+     "type": "legacy",
+     "label": "diary of an Efik trader"
+    },
+    {
+     "id": "duke-ephraim",
+     "type": "ownership",
+     "label": "Duke Town leader"
+    }
+   ]
+  },
+  {
+   "id": "duke-ephraim",
+   "name": "Duke Ephraim (Efik rulers of Duke Town)",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Title of successive heads of Duke Town; the 1767 holder allied with English captains in the massacre, and 'Great Duke Ephraim' (d.1834) dominated Calabar's trade.",
+   "start": 1767,
+   "end": 1834,
+   "lifespan": "18th century–1834 (Great Duke Ephraim d. 14 Oct 1834)",
+   "base": "Duke Town, Calabar, Nigeria",
+   "geo": [
+    4.958,
+    8.322
+   ],
+   "aliases": [
+    "Efiom Edem",
+    "Great Duke Ephraim"
+   ],
+   "origins": "Leaders of the Duke house of the Efik, rivals of the Robin John family of Old Town for control of trade with European ships.",
+   "role_summary": "In 1767 Duke Ephraim's faction allied with English captains to ambush Old Town traders, securing Duke Town's dominance. Great Duke Ephraim (d. 1834) later monopolised Calabar's dealings in captives and palm oil.",
+   "roleDetail": [
+    {
+     "t": "1767 alliance.",
+     "d": "Breakdown of talks between Grandy King George (Old Town) and Duke Ephraim preceded the massacre.",
+     "basis": "documented"
+    },
+    {
+     "t": "Monopoly.",
+     "d": "Historian David Richardson argues the displacement of one clan by another sustained Calabar's slave trade for generations.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Duke Town became the dominant Efik settlement and core of modern Calabar.",
+   "legacyDetail": [
+    {
+     "t": "Succession.",
+     "d": "Eyamba V succeeded as Obong in 1834 and signed the 1841 anti-slave-trade treaty.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Timeline of Old Calabar history",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Old_Calabar_history"
+    },
+    {
+     "label": "Wikipedia — Little Ephraim Robin John and Ancona Robin John",
+     "url": "https://en.wikipedia.org/wiki/Little_Ephraim_Robin_John_and_Ancona_Robin_John"
+    },
+    {
+     "label": "Times Higher Education — review of Sparks, The Two Princes of Calabar",
+     "url": "https://www.timeshighereducation.com/books/enslaved-slavers-turn-on-dirty-trade-when-free/193646.article"
+    }
+   ],
+   "connections": [
+    {
+     "id": "old-calabar-efik",
+     "type": "ownership",
+     "label": "head of Duke Town"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "traded with Liverpool captains"
+    },
+    {
+     "id": "port-bristol",
+     "type": "trade",
+     "label": "traded with Bristol captains"
+    }
+   ]
+  },
+  {
+   "id": "jaja-of-opobo",
+   "name": "Jaja of Opobo",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A formerly enslaved man who became the leading palm oil merchant of the eastern Delta; his significance is for the post-abolition 'legitimate' trade rather than captives.",
+   "start": 1863,
+   "end": 1887,
+   "lifespan": "c.1821–1891",
+   "base": "Opobo, Rivers State, Nigeria",
+   "geo": [
+    4.513,
+    7.548
+   ],
+   "aliases": [
+    "Jubo Jubogha",
+    "King Jaja"
+   ],
+   "origins": "Born in Igboland, he was enslaved and sold as a child to Bonny, where he rose through the Anna Pepple canoe house to lead it in 1863.",
+   "role_summary": "After civil war in Bonny, Jaja founded Opobo in 1869 and controlled the inland palm oil markets, dealing directly with Britain. His story illustrates both the house system that absorbed enslaved people and the British drive to break African middlemen after abolition.",
+   "roleDetail": [
+    {
+     "t": "From enslaved to king.",
+     "d": "Jaja's rise within a Bonny trading house shows how enslaved people could gain status in Delta 'houses'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Palm oil monopoly.",
+     "d": "He controlled the interior oil trade and shipped oil to Britain directly, angering British firms.",
+     "basis": "documented"
+    },
+    {
+     "t": "Deported.",
+     "d": "In 1887 Vice-Consul Harry Johnston lured him aboard a ship; he was tried in Accra and exiled to the West Indies.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Jaja died in 1891 on his way home from exile in Barbados/Grenada. He is honoured in Nigeria as an anti-colonial hero; the Jaja dynasty still rules Opobo.",
+   "legacyDetail": [
+    {
+     "t": "Statue and dynasty.",
+     "d": "Opobo maintains his memory and royal line.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "ADF Magazine — King Jaja of Opobo",
+     "url": "https://adf-magazine.com/2016/07/king-jaja-of-opobo/"
+    },
+    {
+     "label": "NOW Grenada — This day in history: 8 June 1888 (Jaja arrives in Grenada)",
+     "url": "https://nowgrenada.com/2022/06/this-day-in-history-8-june-1888-2/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-bonny",
+     "type": "political",
+     "label": "rose in and broke from Bonny"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "palm oil trade with Liverpool firms"
+    },
+    {
+     "id": "aro-confederacy",
+     "type": "parallel",
+     "label": "inland Igbo trade networks"
+    }
+   ]
+  },
+  {
+   "id": "kosoko-of-lagos",
+   "name": "Kosoko, Oba of Lagos",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ruled Lagos when it was a leading illegal slave port of the 1840s; deposed by British bombardment in December 1851.",
+   "start": 1845,
+   "end": 1851,
+   "lifespan": "d.1872 (Oba 1845–1851)",
+   "base": "Lagos, Nigeria",
+   "geo": [
+    6.455,
+    3.394
+   ],
+   "aliases": [
+    "Kosoko"
+   ],
+   "origins": "A member of the Lagos royal house who fought his uncle Akitoye for the throne and took power in 1845.",
+   "role_summary": "Kosoko allied with Brazilian and Portuguese slave traders who used Lagos to ship Yoruba captives to Bahia and Cuba. Britain backed Akitoye and, from 26–28 December 1851, bombarded Lagos, driving Kosoko into exile at Epe.",
+   "roleDetail": [
+    {
+     "t": "Illegal-era port.",
+     "d": "Lagos under Kosoko was a major outlet for captives from the Yoruba wars after Oyo's collapse.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "1851 bombardment.",
+     "d": "HMS Bloodhound, Teazer and boats attacked the palace; Kosoko fled and Akitoye signed the 1 January 1852 anti-slave-trade treaty.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The bombardment opened the way to British annexation of Lagos in 1861. Kosoko later returned to Lagos in 1862 under British pension.",
+   "legacyDetail": [
+    {
+     "t": "Prelude to colonialism.",
+     "d": "Historians see the anti-slave-trade intervention as the start of British colonial rule in Nigeria.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Kosoko",
+     "url": "https://en.wikipedia.org/wiki/Kosoko"
+    },
+    {
+     "label": "Wikipedia — Akitoye",
+     "url": "https://en.wikipedia.org/wiki/Akitoye"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-lagos",
+     "type": "ownership",
+     "label": "Oba of Lagos"
+    },
+    {
+     "id": "madam-tinubu",
+     "type": "political",
+     "label": "rival of Tinubu's patron Akitoye"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "sold to Bahian traders"
+    },
+    {
+     "id": "lagos-treaty-1852",
+     "type": "political",
+     "label": "deposed before treaty"
+    },
+    {
+     "id": "oyo-empire",
+     "type": "trade",
+     "label": "sold captives from Yoruba wars"
+    }
+   ]
+  },
+  {
+   "id": "madam-tinubu",
+   "name": "Madam Efunroye Tinubu",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "A wealthy merchant whose trade included enslaved people and arms in Badagry, Lagos and Abeokuta; volumes are undocumented.",
+   "start": 1830,
+   "end": 1856,
+   "lifespan": "c.1805/1810–1887",
+   "base": "Lagos / Abeokuta, Nigeria",
+   "geo": [
+    6.455,
+    3.394
+   ],
+   "aliases": [
+    "Iyalode of Egba"
+   ],
+   "origins": "An Egba Yoruba woman from Abeokuta, she built a trading business in Badagry and Lagos through her marriage connections, including to Oba Adele.",
+   "role_summary": "Tinubu traded salt and tobacco from Europeans for enslaved people from the interior, along with arms and palm oil. A supporter of Akitoye, she was accused of continuing to sell captives to Brazilian traders after the 1852 treaty and was expelled from Lagos in 1856.",
+   "roleDetail": [
+    {
+     "t": "Merchant of captives and arms.",
+     "d": "Sources describe her trade in enslaved people, tobacco, salt and firearms with European merchants.",
+     "basis": "documented"
+    },
+    {
+     "t": "Post-treaty trading.",
+     "d": "British consul Benjamin Campbell opposed her, and claims of covert slave trading after 1852 rest on limited sources.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "In Abeokuta she supplied arms against Dahomey and was made Iyalode of the Egba. Tinubu Square in Lagos is named after her, and recent films and articles debate whether she should be celebrated given her slave trading.",
+   "legacyDetail": [
+    {
+     "t": "Contested heroine.",
+     "d": "Nigerian media debate the 'glorification of a slave master' in popular portrayals.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Efunroye Tinubu",
+     "url": "https://en.wikipedia.org/wiki/Efunroye_Tinubu"
+    },
+    {
+     "label": "BlackPast — Madam Efunroye Tinubu (ca. 1805–1887)",
+     "url": "https://blackpast.org/gah/tinubu-madam-efunroye-ca-1805-1887"
+    },
+    {
+     "label": "The Guardian (Nigeria) — Efunroye Tinubu film: glorification of a slave master?",
+     "url": "https://guardian.ng/life/film/fathia-baloguns-efunroye-tinubu-glorification-of-a-slave-master-or-promotion-of-art-culture/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kosoko-of-lagos",
+     "type": "political",
+     "label": "opponent"
+    },
+    {
+     "id": "port-lagos",
+     "type": "trade",
+     "label": "traded in Lagos"
+    },
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "political",
+     "label": "armed Abeokuta against Dahomey"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "alleged sales to Brazilian traders"
+    }
+   ]
+  },
+  {
+   "id": "nana-olomu",
+   "name": "Nana Olomu of the Itsekiri",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "A dominant palm oil middleman on the Benin River whose wealth rested on enslaved labour; deposed by Britain in 1894.",
+   "start": 1883,
+   "end": 1894,
+   "lifespan": "1852–1916",
+   "base": "Ebrohimi, Benin River, Nigeria",
+   "geo": [
+    5.8,
+    5.36
+   ],
+   "aliases": [
+    "Nanna Olomu",
+    "Governor of the Benin River"
+   ],
+   "origins": "Son of the Itsekiri trader Olomu, he inherited a trading house and was appointed 'Governor of the Benin River' by the British in 1884.",
+   "role_summary": "Nana controlled the Benin River palm oil trade with a large retinue of enslaved workers and armed canoes. After he rejected new British trade terms, a British naval expedition destroyed his fortified town Ebrohimi in 1894.",
+   "roleDetail": [
+    {
+     "t": "Slave-based house.",
+     "d": "Like other Delta merchants, Nana's trading house relied on large numbers of enslaved people as paddlers, traders and soldiers.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Fall of Ebrohimi.",
+     "d": "After an attack on HMS Alecto's cutter, British forces captured Ebrohimi (September 1894); Nana surrendered in Lagos and was deported to the Gold Coast.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Allowed home in 1906, he lived at Koko until his death in 1916. His flags and photographs are held at Royal Museums Greenwich, and he is remembered as a resister of colonial rule.",
+   "legacyDetail": [
+    {
+     "t": "Museum objects.",
+     "d": "Royal Museums Greenwich holds his personal flags seized in 1894.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Nana Olomu",
+     "url": "https://en.wikipedia.org/wiki/Nana_Olomu"
+    },
+    {
+     "label": "Royal Museums Greenwich — Personal flag of Itsekiri chief Nana Olomu",
+     "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-556"
+    }
+   ],
+   "connections": [
+    {
+     "id": "jaja-of-opobo",
+     "type": "parallel",
+     "label": "fellow Delta merchant deposed by Britain"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "palm oil to British firms"
+    },
+    {
+     "id": "kingdom-of-bonny",
+     "type": "parallel",
+     "label": "Delta house system"
+    }
+   ]
+  },
+  {
+   "id": "caulker-family",
+   "name": "Caulker family (Sherbro)",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A leading Afro-European slave-trading lineage of the Sherbro coast in the 18th and early 19th centuries; volumes undocumented.",
+   "start": 1684,
+   "end": 1853,
+   "lifespan": "1684–present",
+   "base": "Shenge / Plantain Island, Sierra Leone",
+   "geo": [
+    7.906,
+    -12.952
+   ],
+   "aliases": [
+    "Corker family"
+   ],
+   "origins": "Descended from Thomas Corker, a Royal African Company agent who arrived in 1684 and married a Sherbro royal woman, gaining land and chiefly rights through her lineage.",
+   "role_summary": "The Caulkers became chiefs of the Bumpe and Shenge areas and brokered captives, ivory and camwood to British and other ships, becoming one of the region's wealthiest families. In 1853 Richard Canreba Caulker and other Sherbro chiefs agreed with the Sierra Leone governor to end the trade.",
+   "roleDetail": [
+    {
+     "t": "Company origins.",
+     "d": "Thomas Corker served the Royal African Company at Sherbro before founding the lineage.",
+     "basis": "documented"
+    },
+    {
+     "t": "Chiefs and traders.",
+     "d": "Matrilineal marriage gave the family chiefly status; they used it to control trade with European ships.",
+     "basis": "documented"
+    },
+    {
+     "t": "1853 renunciation.",
+     "d": "Richard Canreba Caulker helped finalise an 1853 agreement ending the Sherbro slave trade, enacted in British law two years later.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Caulkers remain a prominent Sierra Leonean family, producing paramount chiefs, politicians and academics. Family members have engaged publicly with the history, including visits to US slavery museums.",
+   "legacyDetail": [
+    {
+     "t": "Present-day chiefs.",
+     "d": "Caulkers still hold paramount chieftaincies in the Sherbro region.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Thomas Caulker",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Caulker"
+    },
+    {
+     "label": "Wikipedia — Thomas Corker",
+     "url": "https://en.wikipedia.org/wiki/Thomas_Corker"
+    },
+    {
+     "label": "Wikipedia — Richard Canreba Caulker",
+     "url": "https://en.wikipedia.org/wiki/Richard_Canreba_Caulker"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "founder was RAC agent"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "regional trade with Bunce Island"
+    },
+    {
+     "id": "tucker-and-rogers-families",
+     "type": "political",
+     "label": "rival Afro-European Sherbro clans"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "sold to British ships"
+    }
+   ]
+  },
+  {
+   "id": "tucker-and-rogers-families",
+   "name": "Tucker, Rogers and Cleveland families (Sherbro)",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Afro-British trading lineages on the Sherbro and Upper Guinea coast from the 17th–19th centuries; numbers undocumented.",
+   "start": 1665,
+   "end": 1850,
+   "lifespan": "1665–present",
+   "base": "Sherbro Island, Sierra Leone",
+   "geo": [
+    7.526,
+    -12.505
+   ],
+   "aliases": [
+    "Sherbro Tuckers",
+    "Rogers clan",
+    "Clevelands of the Banana Islands"
+   ],
+   "origins": "Zachary Rogers and John Tucker arrived in Sherbro in 1665 as English company traders and married daughters of local chiefs to gain trading rights; James Cleveland settled in the region in the mid-18th century.",
+   "role_summary": "Their mixed-heritage descendants became chiefs and middlemen, accumulating wealth by supplying captives and goods to European ships. The Clevelands of the Banana Islands were notable slave traders of the late 18th century.",
+   "roleDetail": [
+    {
+     "t": "Marriage alliances.",
+     "d": "European traders married into chiefly families, as customary for gaining trading rights.",
+     "basis": "documented"
+    },
+    {
+     "t": "Merchant class.",
+     "d": "Sources describe the Rogers, Caulkers and Tuckers as middlemen forming an emergent merchant class.",
+     "basis": "documented"
+    },
+    {
+     "t": "Oral and written roots.",
+     "d": "A History in Africa study examines how written and oral testimony differ on the 'first Mr. Rogers'.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Tucker and Rogers descendants still hold chieftaincies in southern Sierra Leone. Their histories illustrate how Afro-European elites mediated the Upper Guinea trade.",
+   "legacyDetail": [
+    {
+     "t": "Ongoing lineages.",
+     "d": "The Sherbro Tuckers remain a recognised chiefly family.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Sherbro Tuckers",
+     "url": "https://en.wikipedia.org/wiki/Sherbro_Tuckers"
+    },
+    {
+     "label": "Cambridge, History in Africa — White Roots: Written and Oral Testimony on the 'First Mr. Rogers'",
+     "url": "https://resolve.cambridge.org/core/journals/history-in-africa/article/white-roots-written-and-oral-testimony-on-the-first-mr-rogers/373DC9CAB8BEB149A6DB58E9DDB5EDED"
+    },
+    {
+     "label": "Wikipedia — John Tucker (merchant trader)",
+     "url": "https://en.wikipedia.org/wiki/John_Tucker_(merchant_trader)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "caulker-family",
+     "type": "political",
+     "label": "rival Sherbro clan"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "traded with English company"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "regional trade"
+    }
+   ]
+  },
+  {
+   "id": "signares-of-senegambia",
+   "name": "Signares of Gorée and Saint-Louis",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Senegambia",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Women merchants who held enslaved people (often 30–40 each) and ships, renting enslaved labour to the French companies.",
+   "start": 1700,
+   "end": 1848,
+   "lifespan": "17th–19th centuries",
+   "base": "Gorée / Saint-Louis, Senegal",
+   "geo": [
+    16.026,
+    -16.489
+   ],
+   "aliases": [
+    "Signare",
+    "Nhara (Portuguese Guinea)"
+   ],
+   "origins": "African and Eurafrican women who entered long-term 'country marriages' with French and other European officials and traders at Saint-Louis and Gorée.",
+   "role_summary": "Signares owned houses, ships and enslaved people, traded in gum, hides and captives, and rented enslaved workers to the French companies. They held real power within the hierarchies of the slave economy.",
+   "roleDetail": [
+    {
+     "t": "Enslavers and merchants.",
+     "d": "Many signares owned thirty to forty enslaved people whom they hired out to the company.",
+     "basis": "documented"
+    },
+    {
+     "t": "Commercial agency.",
+     "d": "Historians argue they are remembered for beauty more than business skill, obscuring their role as traders.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "French abolition in 1848 ended their slaveholding; signare culture remains a powerful image in Senegalese heritage on Gorée and in Saint-Louis.",
+   "legacyDetail": [
+    {
+     "t": "Heritage tourism.",
+     "d": "Gorée's 'signare houses' are central to its heritage presentation.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Signare",
+     "url": "https://en.wikipedia.org/wiki/Signare"
+    },
+    {
+     "label": "American Historical Association 2012 — paper on the signares of Senegambia",
+     "url": "https://aha.confex.com/aha/2012/webprogram/Paper8039.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "goree-island",
+     "type": "plantation",
+     "label": "held enslaved people on Gorée"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "trade",
+     "label": "hired enslaved labour to the company"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "one signare traded property in Saint-Domingue"
+    },
+    {
+     "id": "port-nantes",
+     "type": "trade",
+     "label": "linked to French traders"
+    }
+   ]
+  },
+  {
+   "id": "futa-jallon-imamate",
+   "name": "Imamate of Futa Jallon",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Its jihad wars and raids supplied captives to Rio Pongo, Rio Nunez and Sierra Leone markets in the 18th–19th centuries.",
+   "start": 1725,
+   "end": 1850,
+   "lifespan": "1725–1896",
+   "base": "Timbo, Guinea",
+   "geo": [
+    10.633,
+    -11.833
+   ],
+   "aliases": [
+    "Fouta Djallon"
+   ],
+   "origins": "A Fulbe (Fula) Muslim theocracy founded after a jihad in 1725 in the highlands of present-day Guinea, with its capital at Timbo.",
+   "role_summary": "Futa Jallon's power rested heavily on raiding non-Muslim neighbours and selling captives, sending many to coastal markets in exchange for cloth, guns and salt, while also using enslaved labour in farming villages (runde).",
+   "roleDetail": [
+    {
+     "t": "Jihad and enslavement.",
+     "d": "Raids on Jalonke, Baga, Susu and other non-Muslim peoples produced captives for sale and labour.",
+     "basis": "documented"
+    },
+    {
+     "t": "Coastal supply.",
+     "d": "Fula traders kept Sierra Leone markets supplied with captives, linking to coastal Afro-European traders.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "France conquered Futa Jallon in 1896. Descendants of enslaved people (often called 'rimaibe' or 'maccube') still face status discrimination in parts of the region.",
+   "legacyDetail": [
+    {
+     "t": "Lingering hierarchy.",
+     "d": "Slave-descent status remains socially significant in Fuuta Jaloo communities.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Imamate of Futa Jallon",
+     "url": "https://en.wikipedia.org/wiki/Imamate_of_Futa_Jallon"
+    },
+    {
+     "label": "Appalachian State Univ. — Upper Gambian Archaeology: Upper Gambia history",
+     "url": "https://digitalcollections.library.appstate.edu/s/Upper-Gambian-Archaeology/page/upper-gambia-history"
+    },
+    {
+     "label": "Cambridge, Social Science History — The Impact of the Atlantic Slave Trade on the Societies of the Western Sudan",
+     "url": "https://resolve.cambridge.org/core/journals/social-science-history/article/impact-of-the-atlantic-slave-trade-on-the-societies-of-the-western-sudan/7CDA2AC76F07C42FCC9704E234B6450E"
+    }
+   ],
+   "connections": [
+    {
+     "id": "tucker-and-rogers-families",
+     "type": "trade",
+     "label": "supplied coastal traders"
+    },
+    {
+     "id": "caulker-family",
+     "type": "trade",
+     "label": "supplied Sierra Leone markets"
+    },
+    {
+     "id": "bamana-empire-segou",
+     "type": "parallel",
+     "label": "Western Sudan supply states"
+    }
+   ]
+  },
+  {
+   "id": "port-ouidah",
+   "name": "Ouidah (Whydah)",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Inland town and roadstead in present-day Benin, the second-largest embarkation point in Africa after Luanda, from which an estimated 1 million+ captives left. English (1650s/1680s), French (1704) and Portuguese (1721) forts stood there; Dahomey conquered it in 1727 and it remained active until the 1860s. In 1860 it sent the last recorded slave shipment to the United States (the Clotilda).",
+   "start": 1650,
+   "geo": [
+    6.363,
+    2.085
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "ruled by Dahomey from 1727"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "trade",
+     "label": "Chachá's base"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "English fort"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "ownership",
+     "label": "French fort 1704"
+    },
+    {
+     "id": "fort-sao-joao-baptista-ajuda",
+     "type": "ownership",
+     "label": "Portuguese fort"
+    },
+    {
+     "id": "clotilda-meaher",
+     "type": "trade",
+     "label": "Clotilda captives bought here 1860"
+    }
+   ]
+  },
+  {
+   "id": "fort-sao-joao-baptista-ajuda",
+   "name": "Fort of São João Baptista de Ajudá",
+   "type": "entity",
+   "kind": "Fort / trading castle",
+   "description": "Portuguese fort built at Ouidah in 1721 to serve the Bahian tobacco-for-captives trade. It remained Portuguese until Dahomey (Benin) seized it in 1961 and now houses Ouidah's history museum.",
+   "start": 1721,
+   "geo": [
+    6.358,
+    2.087
+   ],
+   "connections": [
+    {
+     "id": "port-ouidah",
+     "type": "ownership",
+     "label": "fort at Ouidah"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "ownership",
+     "label": "Portuguese crown fort"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "Bahian trade link"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "ownership",
+     "label": "de Souza served here"
+    }
+   ]
+  },
+  {
+   "id": "door-of-no-return-ouidah",
+   "name": "Door of No Return, Ouidah",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Concrete and bronze memorial arch on Ouidah beach, inaugurated in the mid-1990s as part of the UNESCO Slave Route project, marking where captives were taken to ships. Its friezes show lines of chained people.",
+   "start": 1995,
+   "geo": [
+    6.326,
+    2.09
+   ],
+   "connections": [
+    {
+     "id": "port-ouidah",
+     "type": "legacy",
+     "label": "memorial at Ouidah beach"
+    },
+    {
+     "id": "ouidah-route-des-esclaves",
+     "type": "legacy",
+     "label": "final stop of the route"
+    }
+   ]
+  },
+  {
+   "id": "ouidah-route-des-esclaves",
+   "name": "Route des Esclaves, Ouidah",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "A c.4 km memorial route from Ouidah's slave market square to the beach, with statues and sites including the Tree of Forgetting. Benin placed 'Sites marquants de la Route de l'Esclave' on its UNESCO tentative list in 1996.",
+   "start": 1992,
+   "geo": [
+    6.36,
+    2.086
+   ],
+   "connections": [
+    {
+     "id": "port-ouidah",
+     "type": "legacy",
+     "label": "memorialises Ouidah trade"
+    },
+    {
+     "id": "door-of-no-return-ouidah",
+     "type": "legacy",
+     "label": "ends at the Door"
+    },
+    {
+     "id": "de-souza-family",
+     "type": "legacy",
+     "label": "passes de Souza sites"
+    },
+    {
+     "id": "benin-1999-apology",
+     "type": "legacy",
+     "label": "part of Benin's memory policy"
+    }
+   ]
+  },
+  {
+   "id": "abomey-royal-palaces",
+   "name": "Royal Palaces of Abomey",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Palace complex of the Dahomean kings, whose bas-reliefs depict warfare and royal history; inscribed as a UNESCO World Heritage Site in 1985. Treasures looted by France in 1892 were partly returned to Benin in 2021.",
+   "start": 1625,
+   "geo": [
+    7.183,
+    1.991
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "ownership",
+     "label": "royal seat"
+    },
+    {
+     "id": "ghezo-of-dahomey",
+     "type": "ownership",
+     "label": "Ghezo's palace"
+    },
+    {
+     "id": "glele-of-dahomey",
+     "type": "ownership",
+     "label": "Glele's palace"
+    }
+   ]
+  },
+  {
+   "id": "christiansborg-castle",
+   "name": "Christiansborg Castle (Osu Castle), Accra",
+   "type": "entity",
+   "kind": "Fort / trading castle",
+   "description": "Danish fort at Osu, Accra, centre of Danish slave trading; the Danes carried some 100,000–126,000 Africans to the Danish West Indies 1660–1806. Akwamu forces seized it in 1693; it later became the seat of Ghana's government.",
+   "start": 1661,
+   "geo": [
+    5.547,
+    -0.189
+   ],
+   "connections": [
+    {
+     "id": "danish-west-india-guinea-company",
+     "type": "ownership",
+     "label": "Danish company fort"
+    },
+    {
+     "id": "akwamu-kingdom",
+     "type": "political",
+     "label": "seized by Akwamu 1693"
+    }
+   ]
+  },
+  {
+   "id": "fante-confederacy",
+   "name": "Fante states and Fante Confederacy",
+   "type": "entity",
+   "kind": "State / confederation",
+   "description": "Fante coastal states (e.g. Anomabo) were major brokers of the 18th-century Gold Coast slave trade, mediating between Asante and the European castles. In 1868 Fante chiefs formed the Fante Confederacy at Mankessim, with a written constitution in 1871, before Britain dissolved it in 1873–74.",
+   "start": 1700,
+   "geo": [
+    5.274,
+    -1.016
+   ],
+   "connections": [
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "brokered trade at Cape Coast"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "traded with English forts"
+    },
+    {
+     "id": "asante-empire",
+     "type": "political",
+     "label": "wars with Asante"
+    },
+    {
+     "id": "osei-bonsu-of-asante",
+     "type": "political",
+     "label": "invaded by Asante"
+    }
+   ]
+  },
+  {
+   "id": "mbanza-kongo",
+   "name": "Mbanza Kongo (São Salvador)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Capital of the Kingdom of Kongo in northern Angola, renamed São Salvador after Christian conversion. Inscribed as a UNESCO World Heritage Site in 2017 as a testimony to Kongo's encounter with Portugal.",
+   "start": 1390,
+   "geo": [
+    -6.267,
+    14.25
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-kongo",
+     "type": "ownership",
+     "label": "capital"
+    },
+    {
+     "id": "afonso-i-of-kongo",
+     "type": "ownership",
+     "label": "Afonso's seat"
+    }
+   ]
+  },
+  {
+   "id": "antera-duke-diary",
+   "name": "Diary of Antera Duke (1785–1788)",
+   "type": "entity",
+   "kind": "Document",
+   "description": "Diary of an Efik trader of Old Calabar, written in trade English, the only surviving eyewitness account of the slave trade by an African merchant. The original was apparently destroyed in WWII bombing; extracts survive and were published by Forde (1956) and in a 2010 OUP edition.",
+   "start": 1785,
+   "geo": [
+    4.958,
+    8.322
+   ],
+   "connections": [
+    {
+     "id": "old-calabar-efik",
+     "type": "legacy",
+     "label": "records Calabar trade"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "records dealings with British captains"
+    }
+   ]
+  },
+  {
+   "id": "arochukwu-long-juju",
+   "name": "Ibini Ukpabi (Long Juju) of Arochukwu",
+   "type": "entity",
+   "kind": "Oracle / shrine",
+   "description": "Oracle shrine at Arochukwu whose verdicts, consulted across Igboland, often resulted in people being sold rather than killed as believed. British forces reportedly destroyed it in the Anglo-Aro War (1901–02); the Long Juju slave route is on Nigeria's UNESCO tentative list.",
+   "start": 1690,
+   "geo": [
+    5.388,
+    7.912
+   ],
+   "connections": [
+    {
+     "id": "aro-confederacy",
+     "type": "ownership",
+     "label": "Aro oracle"
+    },
+    {
+     "id": "kingdom-of-bonny",
+     "type": "trade",
+     "label": "captives sent to Bonny"
+    }
+   ]
+  },
+  {
+   "id": "port-bonny",
+   "name": "Bonny (port)",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Eastern Niger Delta port that became one of the largest slave-exporting ports in Africa in the late 18th century, dominated by Liverpool ships, then a palm oil port after the 1830s.",
+   "start": 1600,
+   "geo": [
+    4.451,
+    7.17
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-bonny",
+     "type": "ownership",
+     "label": "port of Bonny kingdom"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool slave ships"
+    }
+   ]
+  },
+  {
+   "id": "port-lagos",
+   "name": "Lagos (port)",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Yoruba lagoon port that became a major outlet for the illegal slave trade to Brazil and Cuba in the 1830s–40s. British bombardment in 1851 deposed Kosoko; Britain annexed Lagos in 1861.",
+   "start": 1760,
+   "geo": [
+    6.455,
+    3.394
+   ],
+   "connections": [
+    {
+     "id": "kosoko-of-lagos",
+     "type": "ownership",
+     "label": "Oba of Lagos"
+    },
+    {
+     "id": "madam-tinubu",
+     "type": "trade",
+     "label": "Tinubu's trading base"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "Bahia link"
+    },
+    {
+     "id": "lagos-treaty-1852",
+     "type": "charter",
+     "label": "1852 treaty"
+    }
+   ]
+  },
+  {
+   "id": "lagos-treaty-1852",
+   "name": "Anglo-Lagos Treaty of 1852",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Treaty signed on 1 January 1852 by Oba Akitoye, installed by British force, abolishing the slave trade at Lagos and granting British traders privileges. It paved the way to annexation in 1861.",
+   "start": 1852,
+   "geo": [
+    6.455,
+    3.394
+   ],
+   "connections": [
+    {
+     "id": "port-lagos",
+     "type": "charter",
+     "label": "abolished trade at Lagos"
+    },
+    {
+     "id": "kosoko-of-lagos",
+     "type": "political",
+     "label": "followed his overthrow"
+    },
+    {
+     "id": "madam-tinubu",
+     "type": "political",
+     "label": "Tinubu accused of breaching it"
+    }
+   ]
+  },
+  {
+   "id": "bamana-empire-segou",
+   "name": "Bamana Empire of Ségou",
+   "type": "entity",
+   "kind": "State / empire",
+   "description": "Bambara state founded c.1712 by Biton Kulibali at Ségou on the Niger, whose armies (tonjon) were composed largely of captives. Its wars supplied captives to Senegambian and Upper Guinea markets and European posts; it fell to Umar Tall in 1861.",
+   "start": 1712,
+   "geo": [
+    13.431,
+    -6.266
+   ],
+   "connections": [
+    {
+     "id": "signares-of-senegambia",
+     "type": "trade",
+     "label": "captives reached Senegal River posts"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "parallel",
+     "label": "Western Sudan supply state"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "trade",
+     "label": "captives sold to French posts"
+    }
+   ]
+  },
+  {
+   "id": "benin-1999-apology",
+   "name": "Benin's 1999 apology and Cotonou reconciliation conference",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "In 1999 President Mathieu Kérékou apologised for Africans' role in the slave trade, including kneeling in a Baltimore church, and convened a Leaders' Reconciliation conference in Cotonou with delegates from the diaspora, Europe and the US. Benin followed in 2024–25 with a law offering citizenship to descendants of enslaved Africans.",
+   "start": 1999,
+   "geo": [
+    6.367,
+    2.433
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-dahomey",
+     "type": "legacy",
+     "label": "apology for Dahomey's role"
+    },
+    {
+     "id": "ouidah-route-des-esclaves",
+     "type": "legacy",
+     "label": "memory policy"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "legacy",
+     "label": "Liverpool delegates attended"
+    }
+   ]
+  },
+  {
+   "id": "crc-nigeria-2009-letter",
+   "name": "Civil Rights Congress of Nigeria letter (2009)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "In November 2009 the Lagos-based Civil Rights Congress, led by Shehu Sani, wrote to Nigeria's traditional rulers urging them to apologise for their forebears' role in raiding and selling people. A spokesman for the chiefs rejected the idea of inherited guilt.",
+   "start": 2009,
+   "geo": [
+    6.455,
+    3.394
+   ],
+   "connections": [
+    {
+     "id": "aro-confederacy",
+     "type": "legacy",
+     "label": "addressed Nigerian ruling houses"
+    },
+    {
+     "id": "kingdom-of-bonny",
+     "type": "legacy",
+     "label": "addressed traditional rulers"
+    },
+    {
+     "id": "old-calabar-efik",
+     "type": "legacy",
+     "label": "addressed traditional rulers"
+    }
+   ]
+  },
+  {
+   "id": "ghana-year-of-return-2019",
+   "name": "Ghana's Year of Return (2019)",
+   "type": "entity",
+   "kind": "Legacy / apology",
+   "description": "Campaign launched by President Nana Akufo-Addo in 2018 marking 400 years since enslaved Africans reached Virginia in 1619, inviting the diaspora to visit and settle; Ghana granted citizenship to around 200 diaspora members. Critics noted it focused on European castles more than on African participation.",
+   "start": 2019,
+   "geo": [
+    5.56,
+    -0.205
+   ],
+   "connections": [
+    {
+     "id": "cape-coast-castle",
+     "type": "legacy",
+     "label": "pilgrimage site"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "legacy",
+     "label": "pilgrimage site"
+    },
+    {
+     "id": "asante-empire",
+     "type": "legacy",
+     "label": "Ghana's heritage politics"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1483,
+   "title": "Portuguese reach Kongo",
+   "text": "Diogo Cão's fleet reached the Congo estuary, opening diplomatic and commercial relations that soon included trade in captives.",
+   "ids": [
+    "kingdom-of-kongo",
+    "crown-of-portugal"
+   ],
+   "source": {
+    "label": "Britannica — History of Angola",
+    "url": "https://www.britannica.com/place/Angola/History"
+   }
+  },
+  {
+   "year": 1526,
+   "title": "Afonso I protests to João III",
+   "text": "Afonso I of Kongo wrote to the king of Portugal that traders were seizing free Kongolese and nobles, asking him to curb the trade; he regulated rather than ended it.",
+   "ids": [
+    "afonso-i-of-kongo",
+    "kingdom-of-kongo",
+    "crown-of-portugal"
+   ],
+   "source": {
+    "label": "World History Commons — Afonso I letters to the King of Portugal (primary source)",
+    "url": "https://worldhistorycommons.org/node/2382"
+   }
+  },
+  {
+   "year": 1622,
+   "title": "Njinga's embassy to Luanda",
+   "text": "Njinga negotiated peace with the Portuguese governor in Luanda on behalf of Ndongo and was baptised Ana de Sousa.",
+   "ids": [
+    "queen-nzinga",
+    "port-luanda",
+    "crown-of-portugal"
+   ],
+   "source": {
+    "label": "Wikipedia — Nzinga of Ndongo and Matamba",
+    "url": "https://en.wikipedia.org/wiki/Nzinga_of_Ndongo_and_Matamba"
+   }
+  },
+  {
+   "year": 1693,
+   "title": "Akwamu seizes Christiansborg",
+   "text": "Asameni of Akwamu and some 80 men posing as traders captured the Danish castle at Accra and traded from it for about a year.",
+   "ids": [
+    "akwamu-kingdom",
+    "christiansborg-castle",
+    "danish-west-india-guinea-company"
+   ],
+   "source": {
+    "label": "The Conversation — Resistance and collaboration: Asameni and the keys to Christiansborg Castle",
+    "url": "https://theconversation.com/resistance-and-collaboration-asameni-and-the-keys-to-christiansborg-castle-in-accra-120006"
+   }
+  },
+  {
+   "year": 1727,
+   "title": "Dahomey conquers Whydah",
+   "text": "King Agaja's army took the coastal kingdom of Whydah, giving Dahomey control of the Ouidah slave market.",
+   "ids": [
+    "agaja-of-dahomey",
+    "kingdom-of-dahomey",
+    "port-ouidah"
+   ],
+   "source": {
+    "label": "Wikipedia — Agaja",
+    "url": "https://en.wikipedia.org/wiki/Agaja"
+   }
+  },
+  {
+   "year": 1767,
+   "title": "Old Calabar massacre",
+   "text": "English captains allied with Duke Town to ambush Old Town traders; some 300 were killed and others, including two Robin John princes, were enslaved.",
+   "ids": [
+    "old-calabar-efik",
+    "duke-ephraim",
+    "port-liverpool",
+    "port-bristol"
+   ],
+   "source": {
+    "label": "Wikipedia — Little Ephraim Robin John and Ancona Robin John",
+    "url": "https://en.wikipedia.org/wiki/Little_Ephraim_Robin_John_and_Ancona_Robin_John"
+   }
+  },
+  {
+   "year": 1818,
+   "title": "Ghezo's coup with de Souza",
+   "text": "Ghezo overthrew Adandozan with the help of Francisco Félix de Souza, who became Chachá and chief agent of the Ouidah trade.",
+   "ids": [
+    "ghezo-of-dahomey",
+    "francisco-felix-de-souza",
+    "kingdom-of-dahomey"
+   ],
+   "source": {
+    "label": "Wikipedia — Francisco Félix de Souza",
+    "url": "https://en.wikipedia.org/wiki/Francisco_F%C3%A9lix_de_Souza"
+   }
+  },
+  {
+   "year": 1820,
+   "title": "Osei Bonsu questions abolition",
+   "text": "Asantehene Osei Bonsu asked British envoy Joseph Dupuis why Britain had stopped buying captives and doubted its humanitarian motives.",
+   "ids": [
+    "osei-bonsu-of-asante",
+    "asante-empire"
+   ],
+   "source": {
+    "label": "Bedford/St Martin's (McKay, Sources) — Osei Bonsu, An Asante King Questions British Motives (1820)",
+    "url": "https://digfir-published.macmillanusa.com/mckaysources/mckaysources_ch20_3.html"
+   }
+  },
+  {
+   "year": 1850,
+   "title": "Forbes fails to persuade Ghezo",
+   "text": "Royal Navy Captain Frederick Forbes's mission failed to persuade Ghezo to abolish the trade; Ghezo gave him a captive girl, later Sarah Forbes Bonetta. A blockade followed in 1851.",
+   "ids": [
+    "ghezo-of-dahomey",
+    "kingdom-of-dahomey"
+   ],
+   "source": {
+    "label": "Royal Collection Trust — Dahomey and the Dahomans, vol. 2, by Frederick E. Forbes",
+    "url": "https://col.rct.uk/collection/1072072/dahomey-and-the-dahomans-v-2-by-frederick-e-forbes"
+   }
+  },
+  {
+   "year": 1851,
+   "title": "British bombardment of Lagos",
+   "text": "British warships attacked Lagos on 26–28 December, deposing Kosoko and installing Akitoye, who signed an anti-slave-trade treaty on 1 January 1852.",
+   "ids": [
+    "kosoko-of-lagos",
+    "port-lagos",
+    "lagos-treaty-1852",
+    "madam-tinubu"
+   ],
+   "source": {
+    "label": "Wikipedia — Akitoye",
+    "url": "https://en.wikipedia.org/wiki/Akitoye"
+   }
+  },
+  {
+   "year": 1887,
+   "title": "Jaja of Opobo deported",
+   "text": "Vice-Consul Harry Johnston lured Jaja aboard a British ship; tried in Accra, he was exiled to the West Indies.",
+   "ids": [
+    "jaja-of-opobo"
+   ],
+   "source": {
+    "label": "NOW Grenada — This day in history: 8 June 1888 (Jaja arrives in Grenada)",
+    "url": "https://nowgrenada.com/2022/06/this-day-in-history-8-june-1888-2/"
+   }
+  },
+  {
+   "year": 1901,
+   "title": "Anglo-Aro War",
+   "text": "British forces captured Arochukwu on 28 December 1901, reportedly destroying the Long Juju shrine and ending the Aro Confederacy.",
+   "ids": [
+    "aro-confederacy",
+    "arochukwu-long-juju"
+   ],
+   "source": {
+    "label": "Wikipedia — Anglo-Aro War",
+    "url": "https://en.wikipedia.org/wiki/Anglo-Aro_War"
+   }
+  },
+  {
+   "year": 1999,
+   "title": "Benin's apology and Cotonou conference",
+   "text": "President Mathieu Kérékou apologised for Africans' role in the slave trade and hosted a reconciliation conference in Cotonou with diaspora and European delegates.",
+   "ids": [
+    "benin-1999-apology",
+    "kingdom-of-dahomey"
+   ],
+   "source": {
+    "label": "PBS — Noble Desire: A Time for Healing (Benin reconciliation conference)",
+    "url": "https://www.pbs.org/video/noble-desire-a-time-for-healing-fexkfb"
+   }
+  },
+  {
+   "year": 2009,
+   "title": "Nigerian chiefs urged to apologise",
+   "text": "The Civil Rights Congress of Nigeria asked traditional rulers to apologise for their ancestors' role in the slave trade; the chiefs declined.",
+   "ids": [
+    "crc-nigeria-2009-letter",
+    "aro-confederacy",
+    "kingdom-of-bonny"
+   ],
+   "source": {
+    "label": "Irish Times — Say sorry for slavery, Africans told (2009)",
+    "url": "https://irishtimes.com/news/say-sorry-for-slavery-africans-told-1.774431"
+   }
+  },
+  {
+   "year": 2019,
+   "title": "Ghana's Year of Return",
+   "text": "Ghana marked 400 years since 1619 with a diaspora homecoming campaign centred on the coastal castles.",
+   "ids": [
+    "ghana-year-of-return-2019",
+    "cape-coast-castle",
+    "elmina-castle"
+   ],
+   "source": {
+    "label": "Oxford Business Group — Homeward bound: Year of Return campaign (Ghana 2020 report)",
+    "url": "https://oxfordbusinessgroup.com/reports/ghana/2020-report/economy/homeward-bound-year-of-return-campaign-encourages-members-of-the-african-diaspora-to-engage-with-ghanas-history-and-culture"
+   }
+  }
+ ]
+}

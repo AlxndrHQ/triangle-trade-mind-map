@@ -1,0 +1,2078 @@
+{
+ "records": [
+  {
+   "id": "tinubu-family",
+   "name": "Tinubu family (Lagos)",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "The family as a lineage was not a slave-trading house; its link to the trade runs through Madam Efunroye Tinubu (c.1805–1887), who traded captives for guns with Brazilian and Portuguese merchants and reportedly held over 360 enslaved people herself (per her biographers as summarised by Wikipedia and UFRGS).",
+   "start": 1830,
+   "end": 1887,
+   "lifespan": "c.1830s–present (name)",
+   "base": "Lagos Island, Nigeria",
+   "geo": [
+    6.455,
+    3.394
+   ],
+   "aliases": [
+    "Iyalode Tinubu lineage",
+    "Tinubu family of Lagos"
+   ],
+   "origins": "The name comes from Madam Efunroye Tinubu, an Egba-born trader who moved to Lagos in the 1830s and married into elite circles, including the exiled Oba Adele and later the Islamic scholar Momodu (Muhammad) Bukar/Bugara. Her biographer Oladipo Yemitan records that she had two sons by her first (Owu) husband but her later marriages produced no children.",
+   "role_summary": "Madam Tinubu dealt in salt, tobacco, guns and enslaved people from the Abeokuta hinterland, and kept trading captives with Brazilian merchants such as Domingo José Martínez after the 1852 Anglo-Lagos treaty banned the trade. The wider 'Tinubu family' is a name-group, not a single bloodline: per Yemitan, the name is borne by Bugara's children by other wives, by her Egba relatives from Abeokuta, and by descendants of people she had enslaved.",
+   "roleDetail": [
+    {
+     "t": "Madam Tinubu traded captives after the 1852 ban.",
+     "d": "Accounts based on Yemitan and British records describe her secretly exchanging enslaved people for guns with Brazilian/Portuguese merchants and a reported 1853 dispute with Domingo Martínez over the price of 20 captives.",
+     "basis": "documented"
+    },
+    {
+     "t": "Three lines bear the Tinubu name.",
+     "d": "Yemitan (quoted by Prof. Siyan Oyeweso and summarised by Farooq Kperogi) says the name passed to Bugara's children by other wives (no blood tie to her), to her Abeokuta relatives, and to 'scions of her former slaves'.",
+     "basis": "documented"
+    },
+    {
+     "t": "The name, not wealth from slaving, is the main inheritance.",
+     "d": "The lineage's later prominence rests on her civic fame (Iyalode of Egba, Tinubu Square) and on family land in Lagos, e.g. c.9 acres in Surulere the 'Iyalode Tinubu' family won in court (ThisDay, 2021).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Madam Tinubu is commemorated as a nationalist heroine at Tinubu Square, Lagos, and the family estate still litigates over her lands. Claims that Nigeria's President Bola Ahmed Tinubu descends from her are widely repeated but unproven: no published genealogy links him to her line; in 2025 the estate's administrator called him a 'direct descendant' without giving evidence, while columnist Farooq Kperogi (citing Lagos historians) argues he belongs to none of the Tinubu branches. Descendants or bearers of the name carry no guilt for 19th-century acts.",
+   "legacyDetail": [
+    {
+     "t": "Descent of President Bola Tinubu: unproven.",
+     "d": "Asserted by estate administrator Chief Akindele Adamakin (Leadership, 2025) and disputed by Kperogi (2022); neither side has published documentary genealogy, and Madam Tinubu's own children are not known to have left a traceable line.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "No inherited guilt.",
+     "d": "Whatever the genealogy, moral responsibility for slave trading lies with those who did it; living people who share the name or descent are not culpable.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Family estate active today.",
+     "d": "In 2021 the Iyalode Tinubu family, headed by Garuba Bakare, took possession of c.8.99 acres with 50+ houses in Surulere after a Lagos High Court judgment.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Farooq Kperogi — Kanuri origins of the Tinubu family in Lagos (2022)",
+     "url": "https://farooqkperogi.com/2022/01/kanuri-origins-of-tinubu-family-in-lagos.html"
+    },
+    {
+     "label": "Leadership (Nigeria) — Tinubu estate administrator decries trespass, calls for family reunification",
+     "url": "https://leadership.ng/tinubu-estate-administrator-decries-trespass-calls-for-family-reunification/"
+    },
+    {
+     "label": "ThisDay — Tinubu family takes possession of land with 50 houses in Surulere (2021)",
+     "url": "https://www.thisdaylive.com/2021/07/18/tinubu-family-takes-possession-of-land-with-50-houses-in-surulere/"
+    },
+    {
+     "label": "UFRGS Africanas — Tinubu, Efunroye (1805–1887)",
+     "url": "https://www.ufrgs.br/africanas/tinubu-efunroye-1805-1887/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "madam-tinubu",
+     "type": "family",
+     "label": "name and lineage derive from her"
+    },
+    {
+     "id": "domingo-jose-martinez",
+     "type": "trade",
+     "label": "Madam Tinubu sold captives to him (1850s)"
+    },
+    {
+     "id": "kosoko-of-lagos",
+     "type": "political",
+     "label": "Lagos dynastic politics of the 1840s–50s"
+    },
+    {
+     "id": "port-lagos",
+     "type": "trade",
+     "label": "based on Lagos Island"
+    },
+    {
+     "id": "lagos-treaty-1852",
+     "type": "political",
+     "label": "trading continued after the 1852 ban"
+    },
+    {
+     "id": "tinubu-square",
+     "type": "legacy",
+     "label": "commemorated at Tinubu Square"
+    }
+   ]
+  },
+  {
+   "id": "elizabeth-frazer-skelton",
+   "name": "Elizabeth Frazer Skelton (\"Mammy Skelton\")",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "After her husband's death she was reportedly responsible for about half of the Rio Nunez region's exports for a time (per the Dictionary of African Biography as summarised by Wikipedia); no voyage count is documented.",
+   "start": 1825,
+   "end": 1855,
+   "lifespan": "1800–1855",
+   "base": "Fort Victoria, Rio Nunez (Guinea)",
+   "geo": [
+    10.6,
+    -14.6
+   ],
+   "aliases": [
+    "Mammy Skelton",
+    "Elizabeth Frazer"
+   ],
+   "origins": "Daughter of the Scottish slave trader John Frazer (1769–1813) and Phenda, an African woman who ran a slave-trading business at Bangalan on the Rio Pongo. She was schooled at the Bashia mission and in Liverpool.",
+   "role_summary": "With her Anglo-African husband William Skelton Jr. she founded the slave fort Victoria on the Rio Nunez in 1825/26, from which captives were moved by canoe or overland to Portuguese Bissau. After his death she ran the business herself, later moving into slave-worked groundnut farming under British pressure c.1840.",
+   "roleDetail": [
+    {
+     "t": "Co-founded a slave fort.",
+     "d": "Fort Victoria on the Rio Nunez (1825/26), managed jointly with William Skelton Jr.",
+     "basis": "documented"
+    },
+    {
+     "t": "Heir to a transatlantic slaving fortune.",
+     "d": "Her father shipped captives to Charleston and, after 1807, to Spanish East Florida, where he held slave plantations; she won the inheritance in 1851 after decades of litigation.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bridge between generations of Rio Pongo houses.",
+     "d": "Her daughter Mary Ann married Joseph Richmond Lightburn in 1846, tying the Frazer–Skelton house to the Lightbourn family.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Her case is a leading example of the Eurafrican 'big women' traders of the Upper Guinea coast studied by Bruce Mouser and others. Her fortune passed into the intermarried Skelton, Lightburn and related houses of the Rios Nunez and Pongo.",
+   "legacyDetail": [
+    {
+     "t": "Studied as a woman trader.",
+     "d": "She features in scholarship on 'women traders and big-men' of Guinea-Conakry and in the Enslaved.org biographical database.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Enslaved.org — Elizabeth Frazer Skelton (biography)",
+     "url": "https://enslaved.org/fullStory/16-23-106178/"
+    },
+    {
+     "label": "Wikipedia — Elizabeth Frazer Skelton (citing Dictionary of African Biography)",
+     "url": "https://en.wikipedia.org/wiki/Elizabeth_Frazer_Skelton"
+    },
+    {
+     "label": "Mouser — Trade, Coasters, and Conflict in the Rio Pongo, 1790–1808 (J. African History)",
+     "url": "https://library.au.int/fr/trade-coasters-and-conflict-rio-pongo-1790-1808-2"
+    }
+   ],
+   "connections": [
+    {
+     "id": "lightbourn-family",
+     "type": "family",
+     "label": "daughter married Joseph R. Lightburn (1846)"
+    },
+    {
+     "id": "rio-pongo",
+     "type": "family",
+     "label": "raised at Bangalan, Rio Pongo"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "father shipped captives to Charleston"
+    },
+    {
+     "id": "cacheu-company",
+     "type": "parallel",
+     "label": "captives routed to Portuguese Bissau/Guinea"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "trade",
+     "label": "inland supply routes from Futa Jallon"
+    }
+   ]
+  },
+  {
+   "id": "lightbourn-family",
+   "name": "Lightbourn family & Niara Bely (Farenya, Rio Pongo)",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "One of the dominant Creole slave-trading houses of the Rio Pongo c.1809–1850s (per Mouser); British naval and commission records name 'Mrs Lightbourn', but no aggregate captive count is documented.",
+   "start": 1809,
+   "end": 1855,
+   "lifespan": "1809–1879 (Niara Bely c.1790–1879)",
+   "base": "Farenya, Rio Pongo (Guinea)",
+   "geo": [
+    10.15,
+    -14.05
+   ],
+   "aliases": [
+    "Lightburn",
+    "Elizabeth Bailey Gomez",
+    "Mrs Lightbourn"
+   ],
+   "origins": "Stiles Edward Lightbourn, a slave trader from South Carolina, married Niara Bely (Elizabeth Bailey Gomez), daughter of Emmanuel Gomez, ruler of Bakia, in 1809. They first lived at Bangalan, then founded the trading settlement of Farenya.",
+   "role_summary": "While Lightbourn sailed the Atlantic (he was lost at sea in 1833), Niara Bely ran Farenya, a terminus for caravan routes from Futa Jallon, as a slave-trading and storage post. She became a chief with her son Stiles Jr. in 1835 and allied with Mary Faber in regional wars.",
+   "roleDetail": [
+    {
+     "t": "Farenya as a slaving entrepôt.",
+     "d": "Founded 1809; archaeology (Kenneth Kelly) suggests the village grew up around her outpost.",
+     "basis": "documented"
+    },
+    {
+     "t": "Military alliances.",
+     "d": "In 1842 she and Mary Faber helped Fula forces plunder the Susu capital Thia; after the 1852 slave-trade ban they fought the Susu until defeat in 1855.",
+     "basis": "documented"
+    },
+    {
+     "t": "Concealment under 'legitimate' trade.",
+     "d": "British agent Benjamin Campbell admitted dealing with 'Mrs Lightbourn' in 1841 but claimed only legitimate goods.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Niara Bely was baptised Anglican in 1878 and died in 1879; her remains were re-interred in a cement grave at Farenya in 1966, now a site of archaeological and memorial interest. Her son's line and the Lightburn name persisted in the Rio Pongo.",
+   "legacyDetail": [
+    {
+     "t": "Archaeology and memory.",
+     "d": "Excavations at Farenya and the 'Queen's graveyard' have been studied by archaeologists and visited by memorial trips (Guinéenews, 2025).",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Niara Bely (citing Mouser 1980, 2013)",
+     "url": "https://en.wikipedia.org/wiki/Niara_Bely"
+    },
+    {
+     "label": "BlackPast — Mouser, The curious history of the Rio Pongo",
+     "url": "https://new.blackpast.org/africans-african-americans-great-britain-and-united-states-curious-history-rio-pongo-ea"
+    },
+    {
+     "label": "Wikipedia — Farenya",
+     "url": "https://en.wikipedia.org/wiki/Farenya"
+    }
+   ],
+   "connections": [
+    {
+     "id": "farenya",
+     "type": "ownership",
+     "label": "founded Farenya (1809)"
+    },
+    {
+     "id": "rio-pongo",
+     "type": "trade",
+     "label": "Rio Pongo slaving house"
+    },
+    {
+     "id": "faber-family",
+     "type": "political",
+     "label": "allied with Mary Faber (1842–55)"
+    },
+    {
+     "id": "elizabeth-frazer-skelton",
+     "type": "family",
+     "label": "intermarried with Skelton house"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "trade",
+     "label": "caravan routes from Futa Jallon"
+    },
+    {
+     "id": "port-charleston",
+     "type": "family",
+     "label": "Stiles Lightbourn from South Carolina"
+    }
+   ]
+  },
+  {
+   "id": "ormond-family",
+   "name": "Ormond family of Bangalan (John \"Mongo John\" Ormond)",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Bangalan was a leading Rio Pongo slave factory from the 1790s into the 1840s (per Mouser and Canot's memoir); no reliable captive totals exist.",
+   "start": 1790,
+   "end": 1840,
+   "lifespan": "c.1790–1840",
+   "base": "Bangalan, Rio Pongo (Guinea)",
+   "geo": [
+    10.2,
+    -14.0
+   ],
+   "aliases": [
+    "Jack Ormond",
+    "Mongo John",
+    "William Ormond"
+   ],
+   "origins": "An English trader, John Ormond, ran a factory on the Rio Pongo by the early 1790s (employing Anglo-African agents such as Bootle, killed in 1792). His Eurafrican son John Ormond Jr. inherited the Bangalan business.",
+   "role_summary": "John Ormond Jr., called 'Mongo' ('king of the river'), bought captives from Fula and Susu caravans and sold them to visiting Spanish, Portuguese and American slavers; Théophile Conneau ('Captain Canot') described working for him in the late 1820s. A later William Ormond fought Mary Faber for control of Bangalan in 1838–40.",
+   "roleDetail": [
+    {
+     "t": "Bangalan slave factory.",
+     "d": "Canot's narrative depicts 'Jack Ormond' inspecting a captive for purchase at Bangalang (engraving, 1854).",
+     "basis": "documented"
+    },
+    {
+     "t": "Memoir-based details are uncertain.",
+     "d": "Personal details of 'Mongo John' (his reported death c.1828, harem, wealth) come largely from Canot's sensational 1854 memoir and could not be confirmed in independent records; treat them with caution.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Rivalry with the Fabers.",
+     "d": "In 1838–40 Mary Faber waged war on her rival William Ormond at Bangalan; he was allied with Freetown interests.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Ormond story entered popular culture through Canot's memoir and novels such as 'Anthony Adverse'. The family's Bangalan base was absorbed into the Lightbourn–Faber sphere by the 1840s.",
+   "legacyDetail": [
+    {
+     "t": "Literary afterlife.",
+     "d": "The Rio Pongo slave factories, including Ormond's, inspired Hervey Allen's 1933 novel Anthony Adverse.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Library Company of Philadelphia (UMBRA) — engraving of 'Jack Ormond' inspecting a slave, from Captain Canot (1854)",
+     "url": "https://lib-umbra-prd-app-01.oit.umn.edu/catalog/fa842a4bbd666b011e2dcae83974ecb20acb61c1"
+    },
+    {
+     "label": "Mouser — Trade, Coasters, and Conflict in the Rio Pongo, 1790–1808",
+     "url": "https://library.au.int/fr/trade-coasters-and-conflict-rio-pongo-1790-1808-2"
+    },
+    {
+     "label": "Wikipedia — Pongo River (Guinea)",
+     "url": "https://en.wikipedia.org/wiki/Pongo_River_(Guinea)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "rio-pongo",
+     "type": "ownership",
+     "label": "ran the Bangalan factory"
+    },
+    {
+     "id": "faber-family",
+     "type": "political",
+     "label": "war with Mary Faber (1838–40)"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "sold to Cuban-bound slavers"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "trade",
+     "label": "bought captives from Fula caravans"
+    },
+    {
+     "id": "lightbourn-family",
+     "type": "parallel",
+     "label": "neighbouring Bangalan/Farenya houses"
+    }
+   ]
+  },
+  {
+   "id": "faber-family",
+   "name": "Faber family (Paul & Mary Faber, Sangha, Rio Pongo)",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "There were 'reportedly 6,000' enslaved people on the Faber property in 1827 (Mouser 1980, as summarised by Wikipedia); the figure is second-hand, unverified and probably inflated.",
+   "start": 1809,
+   "end": 1860,
+   "lifespan": "1809–c.1860",
+   "base": "Sangha, Rio Pongo (Guinea)",
+   "geo": [
+    10.12,
+    -14.08
+   ],
+   "aliases": [
+    "Mary Faber de Sanger",
+    "Paul Faber",
+    "William Faber"
+   ],
+   "origins": "Paul Faber, an American shipowner, set up as a slave trader in the Conakry region by 1809. In 1816 he married Mary (c.1798–after 1857), born in Freetown to Nova Scotian settler parents.",
+   "role_summary": "Paul's ship carried captives to Cuba while Mary ran the fortified 'slave factory' at Sangha with her own private army, disguising it as a plantation to evade the Royal Navy. In 1852 she passed the business to her son William, who traded until at least 1860.",
+   "roleDetail": [
+    {
+     "t": "Woman-run slave fort.",
+     "d": "Mary Faber held most of the power at Sangha while Paul was absent; captives were described to naval patrols as 'domestics'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Wars over the trade.",
+     "d": "Fought William Ormond (1838–40), joined the 1842 Fula raid on Thia, and fought the Susu after the 1852 ban until defeat in 1855.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slaving continued past 1850.",
+     "d": "A Royal Navy inquiry of 1850 still reported 'Paul Faber' active in the Pongos.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Fabers are studied as an example of how descendants of freed Nova Scotian settlers in Freetown also became slave traders. The family fort was burned in 1855 and rebuilt.",
+   "legacyDetail": [
+    {
+     "t": "Freetown paradox.",
+     "d": "A daughter of Black Loyalist settlers became a leading slaver, complicating narratives of Sierra Leone as purely a refuge.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Mary Faber de Sanger (citing Mouser 1980; Foster 2010)",
+     "url": "https://en.wikipedia.org/wiki/Mary_Faber_de_Sanger"
+    },
+    {
+     "label": "Pdavis / O'Byrne — HMS Adelaide inquiry into Paul Faber (1850)",
+     "url": "https://freepages.rootsweb.com/~pbtyc/genealogy/18-1900/A/00061.html"
+    },
+    {
+     "label": "Wikipedia — Pongo River (Guinea) (citing Mouser and BlackPast)",
+     "url": "https://en.wikipedia.org/wiki/Pongo_River_(Guinea)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "rio-pongo",
+     "type": "ownership",
+     "label": "slave factory at Sangha"
+    },
+    {
+     "id": "lightbourn-family",
+     "type": "political",
+     "label": "allied with Niara Bely"
+    },
+    {
+     "id": "ormond-family",
+     "type": "political",
+     "label": "war with William Ormond"
+    },
+    {
+     "id": "port-havana",
+     "type": "voyage",
+     "label": "Paul Faber's ship carried captives to Cuba"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "political",
+     "label": "allied with Fula forces (1842)"
+    }
+   ]
+  },
+  {
+   "id": "king-siaka-gallinas",
+   "name": "King Siaka of the Gallinas (Vai)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Sierra Leone & Upper Guinea",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Ruled the Gallinas when it was one of West Africa's busiest illegal slave markets; an 1850 missionary editorial claimed c.10,000 captives a year left the Gallinas (a contemporary estimate, not verified).",
+   "start": 1820,
+   "end": 1840,
+   "lifespan": "fl. c.1820s–1840s",
+   "base": "Gallinas River, Sierra Leone",
+   "geo": [
+    6.97,
+    -11.58
+   ],
+   "aliases": [
+    "Siacca",
+    "Seaeca",
+    "Mansa Siaka"
+   ],
+   "origins": "Siaka was the Vai ruler of the Gallinas coast between the Waanji and Mano rivers in the early 19th century. His power rested on control of the river mouths where Spanish-Cuban traders set up barracoons.",
+   "role_summary": "Siaka partnered with Pedro Blanco, allowing him to build the Lomboko barracoon complex and to post agents along the coast; the Gallinas supplied captives to Cuba, Brazil and the US. In November 1840 his son Prince Manna, acting for the ailing king, signed Joseph Denman's treaty abolishing the trade.",
+   "roleDetail": [
+    {
+     "t": "Partner of Pedro Blanco.",
+     "d": "The alliance underpinned Blanco's Lomboko operation (1822–1838).",
+     "basis": "documented"
+    },
+    {
+     "t": "Signed away the trade under duress.",
+     "d": "After Denman's raid freed 841 people and burned eight factories, Prince Manna signed the 21 Nov 1840 treaty for Siaka.",
+     "basis": "documented"
+    },
+    {
+     "t": "The title 'Mansa' is uncertain.",
+     "d": "English sources call him 'King Siaka'; the Mande title 'Mansa' appears in some later accounts but is not confirmed in primary sources found.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Gallinas trade revived after 1840 and the slavers sued Denman personally in the case Buron v. Denman. Gallinas royal lineages (later the Massaquoi family) remained prominent in Sierra Leone and Liberia.",
+   "legacyDetail": [
+    {
+     "t": "Massaquoi royal family.",
+     "d": "King Momulu Massaquoi's descendants form the contemporary Gallinas royal family (a later, separate ruling line).",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Gallinas people",
+     "url": "https://en.wikipedia.org/wiki/Gallinas_people"
+    },
+    {
+     "label": "P. Davis — Denman's action at the Gallinas River (1840 official correspondence)",
+     "url": "https://pdavis.nl/Gallinas.htm"
+    },
+    {
+     "label": "Report of the Mixed Courts at Sierra Leone for 1840",
+     "url": "https://pdavis.nl/SL1840.htm"
+    },
+    {
+     "label": "Wikipedia — Pedro Blanco (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/Pedro_Blanco_(slave_trader)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "pedro-blanco",
+     "type": "trade",
+     "label": "partner and host of Pedro Blanco"
+    },
+    {
+     "id": "gallinas-lomboko",
+     "type": "ownership",
+     "label": "ruled the Gallinas where Lomboko stood"
+    },
+    {
+     "id": "denman-gallinas-treaty-1840",
+     "type": "political",
+     "label": "his son signed the 1840 treaty"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "captives shipped to Cuba"
+    },
+    {
+     "id": "caulker-family",
+     "type": "parallel",
+     "label": "neighbouring Sherbro coast broker lineage"
+    }
+   ]
+  },
+  {
+   "id": "john-kabes",
+   "name": "John Kabes of Komenda",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Gold Coast",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Principal African merchant to the Royal African Company at Komenda for nearly 40 years (c.1680s–1722) and a supplier of thousands of captives (per Henige 1977 and Daaku 1970); no exact count.",
+   "start": 1680,
+   "end": 1722,
+   "lifespan": "c.1640s–1722",
+   "base": "Komenda, Gold Coast (Ghana)",
+   "geo": [
+    5.05,
+    -1.49
+   ],
+   "aliases": [
+    "John Cabess",
+    "John Cabes"
+   ],
+   "origins": "Probably the son of John Cabessa, an English-employed official at Fort Amsterdam, he moved to Komenda in the Eguafo kingdom in the 1670s. By 1686 he had replaced Captain Bracon as the main African merchant to the English.",
+   "role_summary": "Kabes supplied the Royal African Company with captives, canoe-men, food, shells and labour for building forts, and controlled who could trade at Komenda. He fought the Dutch WIC in the Komenda Wars (1694–1700) and turned his commercial power into a stool (chieftaincy) independent of Eguafo.",
+   "roleDetail": [
+    {
+     "t": "Gatekeeper of the English trade.",
+     "d": "An English trader wrote that nothing could be done at Komenda without him; he had RAC agents removed in 1687, 1698 and 1714.",
+     "basis": "documented"
+    },
+    {
+     "t": "Komenda Wars.",
+     "d": "After being panyarred (seized) by the Dutch in 1688 he attacked Dutch miners in 1694 and the Dutch fort in 1694–95.",
+     "basis": "documented"
+    },
+    {
+     "t": "Merchant into ruler.",
+     "d": "Henige shows how he founded the 'paramount stool of Komenda' — a model for trade-based states in the Niger Delta.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "On his death in 1722 he was buried at the English fort; his son Ahenaqua inherited the trade and Komenda was governed on 'the stool of the late John Cabess' until Cape Coast eclipsed it. Historian Kwame Daaku named him one of the Gold Coast's 'merchant princes'.",
+   "legacyDetail": [
+    {
+     "t": "A stool that outlived him.",
+     "d": "His stool passed to descendants and remained a political institution in Komenda.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Henige — John Kabes of Komenda: an early African entrepreneur and state builder (J. African History 18, 1977)",
+     "url": "https://www.cambridge.org/core/journals/journal-of-african-history/article/john-kabes-of-komenda-an-early-african-entrepreneur-and-state-builder/7C83F96F2AF4F6A288E8F5F85006C268"
+    },
+    {
+     "label": "Wikipedia — John Cabess",
+     "url": "https://en.wikipedia.org/wiki/John_Cabess"
+    },
+    {
+     "label": "Wikipedia — Komenda Wars",
+     "url": "https://en.wikipedia.org/wiki/Komenda_Wars"
+    }
+   ],
+   "connections": [
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "chief African supplier at Komenda"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "fought the WIC in the Komenda Wars"
+    },
+    {
+     "id": "komenda-forts",
+     "type": "trade",
+     "label": "supplied labour for the English fort"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "dealt with RAC HQ at Cape Coast"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "political",
+     "label": "rival Dutch HQ"
+    },
+    {
+     "id": "fante-confederacy",
+     "type": "parallel",
+     "label": "Akan coastal brokerage"
+    }
+   ]
+  },
+  {
+   "id": "john-conny",
+   "name": "John Conny (Ahanta, Brandenburg broker)",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Gold Coast",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Considered one of three or four major African wholesalers dealing with Europeans on the western Gold Coast c.1700–1724, diverting trade from Dutch forts at Axim, Butre and Sekondi; no captive count documented.",
+   "start": 1700,
+   "end": 1725,
+   "lifespan": "fl. c.1690s–c.1725",
+   "base": "Pokesu / Princes Town (Groß Friedrichsburg), Ghana",
+   "geo": [
+    4.79,
+    -2.13
+   ],
+   "aliases": [
+    "Jan Conny",
+    "January Conny",
+    "John Canoe",
+    "Konny"
+   ],
+   "origins": "An Akan warrior-merchant from Axim who became a chief of the Ahanta; his African name is unknown (possibly 'Kenu'). He rose as the main African broker of the Brandenburg African Company.",
+   "role_summary": "Conny channelled gold and captives to the Brandenburgers at Groß Friedrichsburg and, after they abandoned it and sold their holdings to the Dutch in 1717 without telling him, held the fort with a large armed following, repelling Dutch attacks. The Dutch finally took it in 1724 and renamed it Fort Hollandia.",
+   "roleDetail": [
+    {
+     "t": "Brandenburg's broker.",
+     "d": "His dealings hurt Dutch revenues at Axim, Butre and Sekondi.",
+     "basis": "documented"
+    },
+    {
+     "t": "Held a European fort for himself.",
+     "d": "From c.1717 to 1724 he defended Groß Friedrichsburg against the WIC, reportedly with thousands of armed men.",
+     "basis": "documented"
+    },
+    {
+     "t": "Fate unknown.",
+     "d": "He was defeated c.1724–25 and may have fled to Kumasi.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Edward Long's History of Jamaica (1774) claimed Jamaica's 'John Canoe' masquerade was begun by Akan captives who had fought for Conny; later writers connect this to the Junkanoo festival still held each December. This is one of several proposed origins (others are linguistic) and rests on a planter-historian's assertion, so it should be treated as tradition, not established fact.",
+   "legacyDetail": [
+    {
+     "t": "Junkanoo connection unproven.",
+     "d": "The derivation of 'John Canoe'/'Junkanoo' from John Conny is a popular tradition traced to Edward Long; it is not established by scholarship and competing etymologies exist.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — John Canoe (citing Daaku 1970; van der Heyden 2001)",
+     "url": "https://en.wikipedia.org/wiki/John_Canoe"
+    },
+    {
+     "label": "Ghana Museums and Monuments Board — Fort Gross Frederiksburg, Princestown",
+     "url": "https://gmmb.gov.gh/?p=1216"
+    },
+    {
+     "label": "Wikipedia — Brandenburger Gold Coast",
+     "url": "https://en.wikipedia.org/wiki/Brandenburger_Gold_Coast"
+    }
+   ],
+   "connections": [
+    {
+     "id": "brandenburg-african-company",
+     "type": "trade",
+     "label": "chief African broker"
+    },
+    {
+     "id": "gross-friedrichsburg",
+     "type": "ownership",
+     "label": "held the fort 1717–1724"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "fought the Dutch takeover"
+    },
+    {
+     "id": "asante-empire",
+     "type": "political",
+     "label": "Asante warriors in his forces; possible refuge"
+    },
+    {
+     "id": "frederick-william-brandenburg",
+     "type": "parallel",
+     "label": "Elector who founded the colony"
+    }
+   ]
+  },
+  {
+   "id": "brew-family",
+   "name": "Brew family (Anomabu & Cape Coast)",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Gold Coast",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Richard Brew (d.1776) was among the largest private English slave traders at Anomabu in the 1750s–70s and governor of its fort; Priestley (1969) traces his debts and dealings, but no voyage total is documented.",
+   "start": 1745,
+   "end": 1807,
+   "lifespan": "c.1745–present",
+   "base": "Anomabu, Gold Coast (Ghana)",
+   "geo": [
+    5.17,
+    -1.12
+   ],
+   "aliases": [
+    "Richard Brew",
+    "Castle Brew",
+    "James Hutton Brew"
+   ],
+   "origins": "Richard Brew, an Irishman, came to the Gold Coast in the 1740s and served as governor of the English fort at Anomabu (1750s–1764), continuing its construction. He had a Fante partner, and the family thereafter combined Fante matrilineal identity with an Irish surname.",
+   "role_summary": "Brew traded captives privately on a large scale from Anomabu, the busiest English slaving beach of the period, and was reprimanded in 1763 for selling to the Dutch. He built his own fortified residence, Castle Brew (1763–64), and died bankrupt in 1776.",
+   "roleDetail": [
+    {
+     "t": "Private trader and fort governor.",
+     "d": "Combined Company office at Anomabu with his own slave trading for British and American ships.",
+     "basis": "documented"
+    },
+    {
+     "t": "Founded an Afro-European lineage.",
+     "d": "Margaret Priestley's 'West African Trade and Coast Society' (OUP, 1969) follows the Brews from him to the 20th century.",
+     "basis": "documented"
+    },
+    {
+     "t": "Descendants turned to law and politics.",
+     "d": "James Hutton Brew (1844–1915) became one of the Gold Coast's first African lawyers, drafted the 1871 Fante Confederacy constitution and founded the Gold Coast Times (1874).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Brews are a well-known Ghanaian family today, prominent in law, journalism and public life; their history is one of the classic studies of coastal Afro-European society. Descendants carry no responsibility for Richard Brew's trading.",
+   "legacyDetail": [
+    {
+     "t": "Castle Brew ruins.",
+     "d": "Castle Brew at Anomabu survives as a ruin/house later known as Blankson House.",
+     "basis": "documented"
+    },
+    {
+     "t": "Archive of family research.",
+     "d": "The Bodleian Library holds Margaret Bax (Priestley)'s research papers on the Brew family, c.1961–69.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Cambridge (BSOAS review) — Priestley, West African Trade and Coast Society: A Family Study (1969)",
+     "url": "https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies/article/priestleymargaret-west-african-trade-and-coast-society-a-family-study-west-aftican-history-series-xv-210-pp-4-plates-london-etc-oxford-university-press-1969-55s/9B0001803570E7AD20BE67D5C02EF832"
+    },
+    {
+     "label": "Bodleian Archives — Margaret Bax's research papers on the Brew family",
+     "url": "https://archives.bodleian.ox.ac.uk/repositories/2/archival_objects/802720"
+    },
+    {
+     "label": "Jeffrey Green — James Hutton Brew (1844–1915) of Ghana and London",
+     "url": "https://jeffreygreen.co.uk/6339-2/"
+    },
+    {
+     "label": "Wikipedia — Anomabu",
+     "url": "https://en.wikipedia.org/wiki/Anomabu"
+    }
+   ],
+   "connections": [
+    {
+     "id": "company-of-merchants-trading-to-africa",
+     "type": "ownership",
+     "label": "governor of its Anomabu fort"
+    },
+    {
+     "id": "castle-brew",
+     "type": "ownership",
+     "label": "built Castle Brew (1763–64)"
+    },
+    {
+     "id": "fante-confederacy",
+     "type": "political",
+     "label": "J. H. Brew drafted its 1871 constitution"
+    },
+    {
+     "id": "cape-coast-castle",
+     "type": "trade",
+     "label": "English HQ on the coast"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "sold to Liverpool and other British ships"
+    },
+    {
+     "id": "trading-family-descendants-today",
+     "type": "legacy",
+     "label": "prominent Ghanaian family today"
+    }
+   ]
+  },
+  {
+   "id": "ana-joaquina-dos-santos-e-silva",
+   "name": "Ana Joaquina dos Santos e Silva (\"Dona Ana Joaquina\")",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Ndongo/Angola",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "One of the wealthiest Luanda slave traders of the 1820s–50s, with her own small fleet to Bahia, Recife and Rio (per Wheeler and Oliveira); voyage totals are not documented.",
+   "start": 1820,
+   "end": 1859,
+   "lifespan": "c.1800–1859",
+   "base": "Luanda, Angola",
+   "geo": [
+    -8.815,
+    13.23
+   ],
+   "aliases": [
+    "Ná Andêmbo",
+    "Queen of Bengo"
+   ],
+   "origins": "Born in Luanda to a Portuguese father and mestiça mother, part of the Afro-Portuguese creole elite. She married two Portuguese merchants in succession and inherited their businesses.",
+   "role_summary": "By the 1820s she held an extensive slave-trading portfolio, shipping captives to Bahia, Pernambuco and Rio de Janeiro in exchange for aguardente, sugar and flour, and was widely believed to keep exporting illegally after Portugal's 1836 ban. She also lent money to inland traders, financing Joaquim Rodrigues Graça's 1843 expedition to the Lunda.",
+   "roleDetail": [
+    {
+     "t": "Shipowner and exporter.",
+     "d": "Her vessels linked Luanda with Brazilian ports, Lisbon and Montevideo.",
+     "basis": "documented"
+    },
+    {
+     "t": "Illegal trade after 1836.",
+     "d": "She was widely believed to continue exporting captives through Luanda after the ban.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Plantations worked by enslaved people.",
+     "d": "Owned sugar estates at Ícolo e Bengo and Golungo Alto and farms at Moçâmedes.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "She died at sea in 1859 travelling to Lisbon with eight enslaved attendants, leaving her fortune to grandchildren. Her Luanda mansion, the Palácio de Dona Ana Joaquina, was demolished in 1999 and rebuilt as a replica.",
+   "legacyDetail": [
+    {
+     "t": "Historians reject a romantic image.",
+     "d": "Vanessa Oliveira stresses that the Luanda donas were not abolitionists but profited from the sale of human beings.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Ana Joaquina dos Santos e Silva (citing Wheeler; Oliveira 2021)",
+     "url": "https://en.wikipedia.org/wiki/Ana_Joaquina_dos_Santos_e_Silva"
+    },
+    {
+     "label": "Oliveira — Slave Trade and Abolition: Gender, Commerce and Economic Transition in Luanda (JSTOR)",
+     "url": "https://www.jstor.org/stable/j.ctv1dgmm0p"
+    },
+    {
+     "label": "UFRGS Africanas — Ana Joaquina dos Santos Silva",
+     "url": "https://www.ufrgs.br/africanas/?p=4683"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "Luanda-based exporter"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "shipped captives to Bahia"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "shipped captives to Rio"
+    },
+    {
+     "id": "portugal-abolition-1836-1869",
+     "type": "political",
+     "label": "trade continued after 1836 ban"
+    },
+    {
+     "id": "pombeiros",
+     "type": "finance",
+     "label": "financed inland caravans"
+    },
+    {
+     "id": "palacio-ana-joaquina",
+     "type": "ownership",
+     "label": "her Luanda mansion"
+    }
+   ]
+  },
+  {
+   "id": "domingo-jose-martinez",
+   "name": "Domingo José Martínez",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "By the late 1840s he was 'as influential in Dahomey as Francisco Félix de Souza had been a decade earlier' (Ross 1965); total captives shipped are not documented.",
+   "start": 1833,
+   "end": 1864,
+   "lifespan": "?–1864",
+   "base": "Porto-Novo / Ouidah (Benin)",
+   "geo": [
+    6.497,
+    2.605
+   ],
+   "aliases": [
+    "Domingos José Martins"
+   ],
+   "origins": "A Brazilian-born merchant (often described as of mixed descent) who came to the Bight of Benin in the 1830s, starting under the Chachá de Souza at Ouidah and rising at Lagos.",
+   "role_summary": "Martínez shipped captives from Lagos, Badagry, Ouidah and Porto-Novo to Brazil and Cuba, settling at Porto-Novo by 1846 where King Ghezo granted him privileges. After his slave cargoes were seized (1854) he switched to palm oil, still using enslaved labour, until his influence collapsed shortly before his death in 1864.",
+   "roleDetail": [
+    {
+     "t": "Successor to de Souza.",
+     "d": "Ross (1965) shows his political influence rose and fell with his commercial fortune.",
+     "basis": "documented"
+    },
+    {
+     "t": "Buyer from Lagos traders.",
+     "d": "Lagos sources describe him buying captives from Madam Tinubu and the Kosoko faction.",
+     "basis": "documented"
+    },
+    {
+     "t": "From slaves to palm oil.",
+     "d": "He told missionaries he would stop buying slaves only if rivals did; he moved into palm oil in the 1850s.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He was buried at Ouidah; families claiming descent from him remain part of the Agudá (Afro-Brazilian) community of Benin. His career is a standard case study of the 'illegal' trade's transition to palm oil.",
+   "legacyDetail": [
+    {
+     "t": "Recent scholarship.",
+     "d": "A 2024 French biography by Vitoekpon Sèwanou Olivier traces his career from Ouidah to Lagos.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Ross — The career of Domingo Martinez in the Bight of Benin, 1833–64 (J. African History 6, 1965)",
+     "url": "https://library.au.int/fr/career-domingo-martinez-bight-benin-1833-64-3"
+    },
+    {
+     "label": "Acervo Aguda — interview (Porto-Novo descendants)",
+     "url": "https://acervoaguda.com.br/pt/entrevistas/download/125/88"
+    },
+    {
+     "label": "Cambridge — Law, Ouidah: The Social History of a West African Slaving 'Port' (introduction)",
+     "url": "https://www.cambridge.org/core/books/ouidah/introduction/ABC0BE5666E0D4A723419DC95299A792"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ghezo-of-dahomey",
+     "type": "charter",
+     "label": "granted privileges by Ghezo"
+    },
+    {
+     "id": "francisco-felix-de-souza",
+     "type": "trade",
+     "label": "began under the Chachá"
+    },
+    {
+     "id": "madam-tinubu",
+     "type": "trade",
+     "label": "bought captives from her"
+    },
+    {
+     "id": "kosoko-of-lagos",
+     "type": "trade",
+     "label": "partner of Kosoko's Lagos"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "shipped captives from Ouidah"
+    },
+    {
+     "id": "port-lagos",
+     "type": "trade",
+     "label": "shipped captives from Lagos"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "Bahia market"
+    }
+   ]
+  },
+  {
+   "id": "joaquim-dalmeida",
+   "name": "Joaquim d'Almeida (Zoki Azata)",
+   "category": "African States & Families",
+   "role": "Trader & Shipper",
+   "nation": "Bight of Benin (Lagos/Ouidah)",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Named in an 1840 British consular report on illegal slave-trading agents in Bahia; after 1849 briefly Ouidah's richest resident (per Enslaved.org). No voyage totals documented.",
+   "start": 1835,
+   "end": 1857,
+   "lifespan": "?–1857",
+   "base": "Agoué (Benin)",
+   "geo": [
+    6.25,
+    1.69
+   ],
+   "aliases": [
+    "Zoki Azata"
+   ],
+   "origins": "Born Zoki Azata in Hoko, north of Dahomey, he was enslaved as a child, shipped to Brazil, and bought and freed by the slave-ship captain Manuel Joaquim d'Almeida, whose name he took.",
+   "role_summary": "A freed African turned slave trader, he worked between Salvador da Bahia and the Bight of Benin (1835–45), then settled at Agoué. He was the first trader outside the de Souza family to gain King Ghezo's approval and was made customs officer between Agoué and Little Popo.",
+   "roleDetail": [
+    {
+     "t": "Formerly enslaved, then enslaver.",
+     "d": "Typical of returnee leaders who, per Cambridge 'History in Africa', were deeply involved in the Atlantic trade.",
+     "basis": "documented"
+    },
+    {
+     "t": "Broke the de Souza monopoly.",
+     "d": "Gained Ghezo's licence; after 1849 the most influential man at Ouidah until British actions pushed him back to Agoué (1850).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He built Agoué's first Catholic chapel; his descendants credit him with bringing Catholicism, and Ouidah's Zokikomé quarter bears his name. The d'Almeida family remains a prominent Agudá lineage in Benin and Togo.",
+   "legacyDetail": [
+    {
+     "t": "Commemorated despite slaving.",
+     "d": "Enslaved.org notes he is remembered as a distinguished figure in Benin's history.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Enslaved.org — Joaquim d'Almeida (Kostiw, Dictionary of Caribbean and Afro-Latin American Biography)",
+     "url": "https://enslaved.org/fullStory/16-23-106172/"
+    },
+    {
+     "label": "Cambridge, History in Africa — Afro-Catholic baptism and the articulation of a merchant community, Agoué 1840–1860",
+     "url": "https://www.cambridge.org/core/journals/history-in-africa/article/afrocatholic-baptism-and-the-articulation-of-a-merchant-community-agoue-18401860/8E1DC98AE3B9ECA4576DF58DDDCE98EF"
+    }
+   ],
+   "connections": [
+    {
+     "id": "ghezo-of-dahomey",
+     "type": "charter",
+     "label": "licensed and made customs officer by Ghezo"
+    },
+    {
+     "id": "de-souza-family",
+     "type": "trade",
+     "label": "broke the de Souza monopoly"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "based in Bahia 1835–45"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "Ouidah's leading trader after 1849"
+    },
+    {
+     "id": "aguda-merchant-community",
+     "type": "family",
+     "label": "founder of an Agudá lineage"
+    }
+   ]
+  },
+  {
+   "id": "amachree-dynasty",
+   "name": "Amachree dynasty of New Calabar (Kalabari)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Niger Delta & Biafra",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "SlaveVoyages notes New Calabar was the Bight of Biafra's most important slaving and ivory site in the 1600s before Bonny overtook it by the 1730s; Kalabari remained a major entrepôt for captives bought from Igboland.",
+   "start": 1650,
+   "end": 1840,
+   "lifespan": "17th century–present",
+   "base": "Elem Kalabari (New Calabar); later Buguma",
+   "geo": [
+    4.73,
+    6.86
+   ],
+   "aliases": [
+    "Kalabari Kingdom",
+    "Amanyanabo of Kalabari",
+    "Princewill family"
+   ],
+   "origins": "Amachree I (dates disputed: Alagoa gives a reign of 1669–1757, other accounts a death c.1800) is remembered as founder of the modern Kalabari kingdom of Ijo traders on the New Calabar River. Most of the great trading 'houses' grew under him.",
+   "role_summary": "Kalabari kings and house heads bought captives from the Igbo hinterland (partly via the Aro network) and sold them to European ships at the river mouth, exchanging them for cloth, metalware, guns and gunpowder. They competed with Bonny, Okrika and Nembe for the trade.",
+   "roleDetail": [
+    {
+     "t": "Middleman state.",
+     "d": "Kalabari became an entrepôt mainly selling people purchased from Igboland.",
+     "basis": "documented"
+    },
+    {
+     "t": "House system.",
+     "d": "Canoe houses, absorbing purchased people as members, organised trade and war.",
+     "basis": "documented"
+    },
+    {
+     "t": "Exact numbers unclear.",
+     "d": "European records often confuse 'Calabar' (Efik) and 'New Calabar' (Kalabari) captives.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "After a civil war (1882–84) the Amachree faction moved to Abonnema and Buguma, now the kingdom's capital. The Amachree line, today headed by the Princewill family, still holds the traditional throne; writer Victoria Princewill has discussed this ancestry in Granta (2021).",
+   "legacyDetail": [
+    {
+     "t": "Living traditional monarchy.",
+     "d": "The Amanyanabo of Kalabari remains a recognised traditional ruler in Rivers State, Nigeria.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "SlaveVoyages — Places images (New Calabar note)",
+     "url": "https://slavevoyages.org/resources/images/category/Places/6"
+    },
+    {
+     "label": "Wikipedia — Kalabari Kingdom (citing Alagoa 1966)",
+     "url": "https://en.wikipedia.org/wiki/Kalabari_Kingdom"
+    },
+    {
+     "label": "Wikipedia — Buguma",
+     "url": "https://en.wikipedia.org/wiki/Buguma"
+    }
+   ],
+   "connections": [
+    {
+     "id": "kingdom-of-bonny",
+     "type": "political",
+     "label": "rival delta trading state"
+    },
+    {
+     "id": "aro-confederacy",
+     "type": "trade",
+     "label": "supplied by Aro networks"
+    },
+    {
+     "id": "old-calabar-efik",
+     "type": "parallel",
+     "label": "often confused 'Calabar' captives"
+    },
+    {
+     "id": "port-bonny",
+     "type": "trade",
+     "label": "neighbouring port"
+    },
+    {
+     "id": "port-liverpool",
+     "type": "trade",
+     "label": "Liverpool ships traded at New Calabar"
+    },
+    {
+     "id": "trading-family-descendants-today",
+     "type": "legacy",
+     "label": "Princewill/Amachree line today"
+    }
+   ]
+  },
+  {
+   "id": "damels-of-cayor",
+   "name": "Damels of Cayor (Kajoor)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Senegambia",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Cayor, the largest Wolof state, was heavily involved in the slave and horse trades for both Atlantic and Saharan markets (Seshat; Barry 1998); precise captive numbers are not documented.",
+   "start": 1549,
+   "end": 1850,
+   "lifespan": "1549–1886",
+   "base": "Mboul, Cayor (Senegal)",
+   "geo": [
+    15.15,
+    -16.29
+   ],
+   "aliases": [
+    "Kajoor",
+    "Kayor",
+    "damel"
+   ],
+   "origins": "Cayor broke from the Jolof Empire at the battle of Danki (1549) under Amary Ngone Sobel Fall. Its rulers, the damel, came from the Fall lineage and controlled the coast near Cape Verde where Portuguese, Dutch and French traders first dealt with the Wolof.",
+   "role_summary": "The damels and their tyeddo (ceddo) slave-soldiers raided neighbours and their own subjects for captives, selling them to the French at Saint-Louis and Gorée for guns, horses and cloth (Boubacar Barry). After a failed marabout revolt in 1776 many clerics were sold into slavery.",
+   "roleDetail": [
+    {
+     "t": "Warfare fed by the trade.",
+     "d": "Barry argues the Atlantic trade militarised Senegambian states, with ceddo raiding for captives.",
+     "basis": "documented"
+    },
+    {
+     "t": "Rebels sold into slavery.",
+     "d": "After the 1776 clerical revolt was crushed, many marabouts were sold (Colvin 1974).",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave-soldiers held power.",
+     "d": "Crown slaves (tyeddo) formed the damel's army and exercised political power.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Lat Dior, the most famous damel, resisted French railway building and died fighting in 1886; he is a national hero in Senegal. The slave-trading phase of the monarchy is less commemorated.",
+   "legacyDetail": [
+    {
+     "t": "Heroic memory vs. slaving past.",
+     "d": "National memory centres on anti-colonial resistance rather than the earlier sale of captives.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Cambridge — Barry, Senegambia and the Atlantic Slave Trade (1998)",
+     "url": "https://resolve.cambridge.org/core/books/senegambia-and-the-atlantic-slave-trade/7ECE5F51680CB6FDD913164626AD07B8?pageNum=1"
+    },
+    {
+     "label": "Seshat Global History Databank — Cayor",
+     "url": "https://seshat-db.com/core/polity/674"
+    },
+    {
+     "label": "Wikipedia — Cayor",
+     "url": "https://en.wikipedia.org/wiki/Cayor"
+    }
+   ],
+   "connections": [
+    {
+     "id": "goree-island",
+     "type": "trade",
+     "label": "sold captives to French at Gorée"
+    },
+    {
+     "id": "compagnie-du-senegal",
+     "type": "trade",
+     "label": "French company trading partner"
+    },
+    {
+     "id": "signares-of-senegambia",
+     "type": "trade",
+     "label": "coastal brokers at Saint-Louis/Gorée"
+    },
+    {
+     "id": "buurs-of-saalum",
+     "type": "political",
+     "label": "neighbouring Wolof/Serer state"
+    },
+    {
+     "id": "crown-of-france",
+     "type": "political",
+     "label": "later conquered by France"
+    }
+   ]
+  },
+  {
+   "id": "buurs-of-saalum",
+   "name": "Kings of Saalum (Maad / Buur Saalum)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Senegambia",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "At its height Saalum controlled four Gambia River trading ports (Barra, Iambor, Kaur, Kassang) used by European slavers; no captive totals documented.",
+   "start": 1566,
+   "end": 1850,
+   "lifespan": "c.1494–1969 (monarchy); restored 2017",
+   "base": "Kahone, Saalum (Senegal)",
+   "geo": [
+    14.14,
+    -16.03
+   ],
+   "aliases": [
+    "Saloum",
+    "Maad Saloum",
+    "Bur Saloum",
+    "Borçalo"
+   ],
+   "origins": "A Serer kingdom founded c.1494 with its capital at Kahone. Under Maad Saloum Lat Ciloor Bajaan (by 1566) it extended its power to the north bank of the Gambia.",
+   "role_summary": "Saalum's rulers taxed and supplied the Atlantic trade on the Gambia and Saloum rivers, where captives and salt were exchanged with Portuguese, English and French traders. When the Atlantic slave trade ended, foreign trade shrank to foodstuffs and later groundnuts.",
+   "roleDetail": [
+    {
+     "t": "Gambia River ports.",
+     "d": "Barra (Niumi), Iambor (Baddibu), Kaur (Saalum) and Kassang (Niani) lay in its zone of influence.",
+     "basis": "documented"
+    },
+    {
+     "t": "Ceddo predation.",
+     "d": "After the slave trade's end the ceddo warrior class turned to preying on subjects (per Klein 1968).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Annexed by France in the 1860s and abolished as a monarchy in 1969, the kingship was restored in 2017 as a non-sovereign traditional title crowned at Kahone.",
+   "legacyDetail": [
+    {
+     "t": "Restored monarchy.",
+     "d": "Thierno Coumba Daga Ndao was crowned at Kahone on 21 May 2017.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Saloum (citing Klein 1968; Barry 1998)",
+     "url": "https://en.wikipedia.org/wiki/Saloum"
+    },
+    {
+     "label": "Cambridge — Barry, Senegambia and the Atlantic Slave Trade (1998)",
+     "url": "https://resolve.cambridge.org/core/books/senegambia-and-the-atlantic-slave-trade/7ECE5F51680CB6FDD913164626AD07B8?pageNum=1"
+    }
+   ],
+   "connections": [
+    {
+     "id": "damels-of-cayor",
+     "type": "political",
+     "label": "neighbouring state"
+    },
+    {
+     "id": "kingdom-of-kaabu",
+     "type": "political",
+     "label": "Gambia River neighbour"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "trade",
+     "label": "English traders on the Gambia"
+    },
+    {
+     "id": "courland-colonies",
+     "type": "trade",
+     "label": "Gambia River European posts"
+    },
+    {
+     "id": "goree-island",
+     "type": "trade",
+     "label": "French Senegambian trade"
+    }
+   ]
+  },
+  {
+   "id": "kingdom-of-kaabu",
+   "name": "Kingdom of Kaabu (Mansaba & Nyancho)",
+   "category": "African States & Families",
+   "role": "Ruler & Supplier",
+   "nation": "Senegambia",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Kaabu's wars produced a large share of the captives exported from Upper Guinea in the 17th–18th centuries; some summaries claim 'up to half', which is unverified.",
+   "start": 1537,
+   "end": 1867,
+   "lifespan": "1537–1867",
+   "base": "Kansala (near Gabú, Guinea-Bissau)",
+   "geo": [
+    12.283,
+    -14.222
+   ],
+   "aliases": [
+    "Gabu",
+    "N'Gabu"
+   ],
+   "origins": "A Mandinka federation that grew out of a Mali Empire province and became independent as Mali declined (traditionally 1537). Its warrior nobility, the Nyancho, elected the mansaba at Kansala.",
+   "role_summary": "Nyancho warriors raided for captives and sold them through Portuguese and Luso-African traders at Cacheu, Geba and Farim and through Gambia River markets, receiving cloth, beads, metalware and firearms. The slave trade dominated Kaabu's economy and enriched its war elite.",
+   "roleDetail": [
+    {
+     "t": "Captives as a war economy.",
+     "d": "Wealth came from war captives and the kabunko cloth tax (Barry 1998; Green 2020).",
+     "basis": "documented"
+    },
+    {
+     "t": "Control of Portuguese outlets.",
+     "d": "By the 1640s Kaabu's province of Ganadu dominated Geba, and in 1644 the Portuguese moved merchants to Cacheu and Farim.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Kaabu fell when Futa Jallon forces besieged Kansala in 1867 and the mansaba blew up the gunpowder stores. It remains central to Mandinka oral tradition and griot epic across Guinea-Bissau, Gambia and Senegal.",
+   "legacyDetail": [
+    {
+     "t": "Epic memory.",
+     "d": "Kansala's fall is a major theme of Mandinka griot narrative.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Kaabu (citing Barry 1998; Green 2020; Lobban 1979)",
+     "url": "https://en.wikipedia.org/wiki/Kaabu"
+    },
+    {
+     "label": "Wikipedia — Geba, Guinea-Bissau",
+     "url": "https://en.wikipedia.org/wiki/Geba,_Guinea-Bissau"
+    },
+    {
+     "label": "Durham University — Cacheu Archaeological Project",
+     "url": "https://dur.ac.uk/departments/academic/archaeology/research/archaeology-research-projects/cacheu-archaeological-project/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "cacheu-company",
+     "type": "trade",
+     "label": "captives sold via Cacheu"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "trade",
+     "label": "Portuguese Guinea trade"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "political",
+     "label": "destroyed by Futa Jallon (1867)"
+    },
+    {
+     "id": "sao-tome",
+     "type": "trade",
+     "label": "Upper Guinea captives to Cape Verde"
+    },
+    {
+     "id": "buurs-of-saalum",
+     "type": "political",
+     "label": "Gambia River neighbour"
+    }
+   ]
+  },
+  {
+   "id": "pombeiros",
+   "name": "Pombeiros (Angolan caravan agents)",
+   "category": "African States & Families",
+   "role": "Broker & Agent",
+   "nation": "Ndongo/Angola",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "An account from c.1700 describes single pombeiro expeditions lasting a year and returning 400–600 captives (per Oliver & Atmore); collectively they fed Luanda and Benguela, the largest embarkation region of the trade.",
+   "start": 1580,
+   "end": 1860,
+   "lifespan": "c.1580–1860s",
+   "base": "Luanda and the interior feiras (Angola)",
+   "geo": [
+    -8.815,
+    13.23
+   ],
+   "aliases": [
+    "pumbeiros"
+   ],
+   "origins": "The term derives from Pumbo, a market near Malebo Pool. Pombeiros were African, sometimes mixed-race, agents—often themselves enslaved or freed dependants—of Portuguese officials and Luanda merchants.",
+   "role_summary": "Because Lisbon preferred Portuguese merchants to stay on the coast, pombeiros led caravans inland on credit, buying captives ('peças') from sobas, the Imbangala and Kasanje at fortified fairs (feiras) for cloth, wine and spirits. They seldom went beyond Kasanje, which sold them captives from the Lunda.",
+   "roleDetail": [
+    {
+     "t": "Credit chain.",
+     "d": "Joseph Miller's 'Way of Death' traces debt from Brazilian and British financiers through Luanda merchants to pombeiros and inland rulers.",
+     "basis": "documented"
+    },
+    {
+     "t": "Feiras.",
+     "d": "Fortified marketplaces; Kasanje, founded by the Imbangala c.1620, was the furthest.",
+     "basis": "documented"
+    },
+    {
+     "t": "Explorers too.",
+     "d": "In 1806 pombeiros Pedro João Baptista and Amaro José crossed from Angola to Tete in Mozambique and back.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "In the 19th century pombeiros became caravan foremen recruiting and disciplining porters for the rubber and ivory trades. They exemplify how the Angolan trade depended on African intermediaries.",
+   "legacyDetail": [
+    {
+     "t": "Labour bosses after abolition.",
+     "d": "A 2024 study describes 19th-century pombeiros commanding sections of Portuguese caravans.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Pombeiros (citing Oliver & Atmore 2005)",
+     "url": "https://en.wikipedia.org/wiki/Pombeiros"
+    },
+    {
+     "label": "Library of Congress Country Studies — Angola: The slave trade",
+     "url": "https://countrystudies.us/angola/12.htm"
+    },
+    {
+     "label": "UNC — Miller, Way of Death: Merchant Capitalism and the Angolan Slave Trade, 1730–1830",
+     "url": "https://gwonline.unc.edu/node/7656"
+    },
+    {
+     "label": "Esboços (UFSC) — The 'Incorrigibles': pombeiros in the caravans of Central Angola, 19th century",
+     "url": "https://periodicos.ufsc.br/index.php/esbocos/article/view/102702"
+    }
+   ],
+   "connections": [
+    {
+     "id": "imbangala-kasanje",
+     "type": "trade",
+     "label": "bought captives at the Kasanje feira"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "supplied Luanda's exporters"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "agents of crown and merchants"
+    },
+    {
+     "id": "queen-nzinga",
+     "type": "political",
+     "label": "Ndongo/Matamba trade frontier"
+    },
+    {
+     "id": "ana-joaquina-dos-santos-e-silva",
+     "type": "finance",
+     "label": "financed by Luanda merchants like her"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "tinubu-square",
+   "name": "Tinubu Square, Lagos",
+   "kind": "Legacy / memorial",
+   "description": "Public square on Lagos Island named after Madam Efunroye Tinubu, with a statue of her; formerly known as Independence Square. It commemorates her as a political figure and Iyalode, not her slave trading.",
+   "start": 1887,
+   "geo": [
+    6.454,
+    3.392
+   ],
+   "connections": [
+    {
+     "id": "madam-tinubu",
+     "type": "legacy",
+     "label": "named after her"
+    },
+    {
+     "id": "tinubu-family",
+     "type": "legacy",
+     "label": "family namesake"
+    },
+    {
+     "id": "port-lagos",
+     "type": "legacy",
+     "label": "Lagos Island"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "rio-pongo",
+   "name": "Rio Pongo slave factories (Bangalan, Sangha, Farenya)",
+   "kind": "Port / trading river",
+   "description": "An estuary in present-day Guinea draining from Futa Jallon, a hub of the slave trade from the early 1700s. By c.1800 Eurafrican Creole houses (Ormond, Lightbourn, Faber, Frazer) dominated it, and it remained a centre of the illegal trade to Cuba until a regional ban in 1852 (per Mouser).",
+   "start": 1700,
+   "geo": [
+    10.1,
+    -14.05
+   ],
+   "connections": [
+    {
+     "id": "ormond-family",
+     "type": "ownership",
+     "label": "Bangalan factory"
+    },
+    {
+     "id": "faber-family",
+     "type": "ownership",
+     "label": "Sangha factory"
+    },
+    {
+     "id": "lightbourn-family",
+     "type": "ownership",
+     "label": "Farenya"
+    },
+    {
+     "id": "futa-jallon-imamate",
+     "type": "trade",
+     "label": "caravan supply"
+    },
+    {
+     "id": "port-havana",
+     "type": "trade",
+     "label": "illegal trade to Cuba"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "farenya",
+   "name": "Farenya (Niara Bely's settlement)",
+   "kind": "Trading post / barracoon",
+   "description": "Trading settlement on the Rio Pongo founded in 1809 by Stiles Lightbourn and Niara Bely, a terminus for Futa Jallon caravans. Niara Bely lived there in a two-storey 'palace'; archaeologists have excavated the site and its early Anglican church.",
+   "start": 1809,
+   "geo": [
+    10.15,
+    -14.05
+   ],
+   "connections": [
+    {
+     "id": "lightbourn-family",
+     "type": "ownership",
+     "label": "founded by Lightbourn & Niara Bely"
+    },
+    {
+     "id": "rio-pongo",
+     "type": "trade",
+     "label": "Rio Pongo"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "komenda-forts",
+   "name": "English and Dutch forts at Komenda",
+   "kind": "Fort / trading post",
+   "description": "Rival English (Royal African Company) and Dutch (WIC, Fort Vredenburg) posts at Komenda on the Gold Coast, contested during the Komenda Wars of 1694–1700. John Kabes supplied labour and materials for the English fort and was buried there in 1722.",
+   "start": 1687,
+   "geo": [
+    5.05,
+    -1.49
+   ],
+   "connections": [
+    {
+     "id": "john-kabes",
+     "type": "trade",
+     "label": "Kabes's base"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "ownership",
+     "label": "English fort"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "ownership",
+     "label": "Fort Vredenburg"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "castle-brew",
+   "name": "Castle Brew, Anomabu",
+   "kind": "Fortified residence",
+   "description": "Private fortified house built by the Irish slave trader Richard Brew at Anomabu in 1763–64, near the English fort he had governed. It was seized for his debts after his bankruptcy; the ruin was later known as Blankson House.",
+   "start": 1763,
+   "geo": [
+    5.171,
+    -1.116
+   ],
+   "connections": [
+    {
+     "id": "brew-family",
+     "type": "ownership",
+     "label": "built by Richard Brew"
+    },
+    {
+     "id": "company-of-merchants-trading-to-africa",
+     "type": "trade",
+     "label": "beside the Company fort at Anomabu"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "palacio-ana-joaquina",
+   "name": "Palácio de Dona Ana Joaquina, Luanda",
+   "kind": "Legacy / building",
+   "description": "Three-storey mansion in Luanda's Bungo district that was the residence of the slave trader Ana Joaquina dos Santos e Silva. It was demolished in 1999 and replaced by a 'more or less faithful' replica.",
+   "start": 1830,
+   "geo": [
+    -8.81,
+    13.234
+   ],
+   "connections": [
+    {
+     "id": "ana-joaquina-dos-santos-e-silva",
+     "type": "ownership",
+     "label": "her residence"
+    },
+    {
+     "id": "port-luanda",
+     "type": "legacy",
+     "label": "Luanda"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "denman-gallinas-treaty-1840",
+   "name": "Denman's Gallinas raid and treaty (1840)",
+   "kind": "Charter / law / treaty",
+   "description": "In November 1840 Royal Navy commander Joseph Denman, sent to free Fry Norman, burned eight slave factories on the Gallinas River and freed 841 captives. On 21 November Prince Manna, for the ailing King Siaka, signed a treaty abolishing the trade; the Spanish traders later sued Denman personally (Buron v. Denman).",
+   "start": 1840,
+   "geo": [
+    6.97,
+    -11.58
+   ],
+   "connections": [
+    {
+     "id": "king-siaka-gallinas",
+     "type": "political",
+     "label": "signed for Siaka"
+    },
+    {
+     "id": "gallinas-lomboko",
+     "type": "political",
+     "label": "barracoons destroyed"
+    },
+    {
+     "id": "pedro-blanco",
+     "type": "political",
+     "label": "ended Blanco-era trade (temporarily)"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "aguda-merchant-community",
+   "name": "Agudá (Afro-Brazilian) merchant families of Ouidah, Agoué and Lagos",
+   "kind": "Community / lineages",
+   "description": "Brazilian slave traders and formerly enslaved Africans who returned from Bahia, settling at Ouidah, Agoué, Porto-Novo and Lagos from the late 18th century. Many leaders, though once enslaved, were active in the Atlantic slave trade; lineages such as de Souza, d'Almeida, Martins and de Medeiros (founded by Francisco José de Medeiros, mid-19th century) remain prominent in Benin, Togo and Nigeria.",
+   "start": 1790,
+   "geo": [
+    6.36,
+    2.09
+   ],
+   "connections": [
+    {
+     "id": "de-souza-family",
+     "type": "family",
+     "label": "founding Agudá lineage"
+    },
+    {
+     "id": "joaquim-dalmeida",
+     "type": "family",
+     "label": "d'Almeida lineage"
+    },
+    {
+     "id": "domingo-jose-martinez",
+     "type": "family",
+     "label": "Martins/Martínez lineage"
+    },
+    {
+     "id": "port-salvador",
+     "type": "trade",
+     "label": "Bahia connection"
+    },
+    {
+     "id": "port-ouidah",
+     "type": "trade",
+     "label": "Ouidah"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "bance-island-grumetes",
+   "name": "Grumetes (African workers and agents) of Bance Island",
+   "kind": "Workforce / brokers",
+   "description": "Free and enslaved African employees—called grumetes or grumettas—who lived outside the walls of the British slave fort on Bance (Bunce) Island, crewing boats, trading upriver and guarding captives. Grant, Sargent & Oswald expanded this African workforce after c.1750 alongside a shipyard and fleet of small vessels that supplied Charleston and other markets.",
+   "start": 1750,
+   "geo": [
+    8.57,
+    -13.04
+   ],
+   "connections": [
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "worked at Bance Island"
+    },
+    {
+     "id": "richard-oswald",
+     "type": "ownership",
+     "label": "employed by Oswald's firm"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "captives sent to Charleston"
+    },
+    {
+     "id": "caulker-family",
+     "type": "parallel",
+     "label": "local broker lineages"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "trading-family-descendants-today",
+   "name": "Descendants of broker families today",
+   "kind": "Legacy / descendants",
+   "description": "Several lineages founded by African and Afro-European brokers remain prominent: the de Souza family still installs a 'Chachá' at Ouidah, the Caulkers have held Sherbro paramount chieftaincies, the Brews are a well-known Ghanaian family, and the Amachree line (Princewill family) holds the Kalabari throne. Descent confers no guilt; how families remember the trade varies.",
+   "start": 1800,
+   "connections": [
+    {
+     "id": "de-souza-family",
+     "type": "legacy",
+     "label": "Chachá title at Ouidah"
+    },
+    {
+     "id": "caulker-family",
+     "type": "legacy",
+     "label": "Sherbro chieftaincies"
+    },
+    {
+     "id": "brew-family",
+     "type": "legacy",
+     "label": "Ghanaian family"
+    },
+    {
+     "id": "amachree-dynasty",
+     "type": "legacy",
+     "label": "Kalabari throne"
+    },
+    {
+     "id": "aguda-merchant-community",
+     "type": "legacy",
+     "label": "Agudá families"
+    },
+    {
+     "id": "tinubu-family",
+     "type": "legacy",
+     "label": "Tinubu name-group"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1644,
+   "title": "Portuguese move Geba merchants to Cacheu",
+   "text": "With Geba dominated by Kaabu's province of Ganadu, Portuguese authorities forced its traders to relocate to Cacheu and Farim.",
+   "ids": [
+    "kingdom-of-kaabu",
+    "cacheu-company"
+   ],
+   "source": {
+    "label": "Wikipedia — Geba, Guinea-Bissau",
+    "url": "https://en.wikipedia.org/wiki/Geba,_Guinea-Bissau"
+   }
+  },
+  {
+   "year": 1694,
+   "title": "Komenda Wars begin",
+   "text": "John Kabes attacks Dutch miners at Komenda, opening six years of war between English- and Dutch-backed factions.",
+   "ids": [
+    "john-kabes",
+    "royal-african-company",
+    "dutch-west-india-company",
+    "komenda-forts"
+   ],
+   "source": {
+    "label": "Wikipedia — Komenda Wars",
+    "url": "https://en.wikipedia.org/wiki/Komenda_Wars"
+   }
+  },
+  {
+   "year": 1724,
+   "title": "Dutch expel John Conny from Groß Friedrichsburg",
+   "text": "After years of resistance following Brandenburg's 1717 sale to the Dutch, Conny loses the fort, renamed Fort Hollandia.",
+   "ids": [
+    "john-conny",
+    "gross-friedrichsburg",
+    "dutch-west-india-company",
+    "brandenburg-african-company"
+   ],
+   "source": {
+    "label": "Ghana Museums and Monuments Board — Fort Gross Frederiksburg",
+    "url": "https://gmmb.gov.gh/?p=1216"
+   }
+  },
+  {
+   "year": 1763,
+   "title": "Richard Brew builds Castle Brew",
+   "text": "The Anomabu slave trader builds a private fortified house (1763–64), the year he is reprimanded for selling captives to the Dutch.",
+   "ids": [
+    "brew-family",
+    "castle-brew"
+   ],
+   "source": {
+    "label": "Wikipedia — Anomabu",
+    "url": "https://en.wikipedia.org/wiki/Anomabu"
+   }
+  },
+  {
+   "year": 1809,
+   "title": "Lightbourn and Niara Bely found Farenya",
+   "text": "The South Carolina trader and his Luso-African wife establish a slaving settlement on the Rio Pongo.",
+   "ids": [
+    "lightbourn-family",
+    "farenya",
+    "rio-pongo"
+   ],
+   "source": {
+    "label": "Wikipedia — Niara Bely",
+    "url": "https://en.wikipedia.org/wiki/Niara_Bely"
+   }
+  },
+  {
+   "year": 1825,
+   "title": "Skeltons found Fort Victoria on the Rio Nunez",
+   "text": "Elizabeth Frazer Skelton and William Skelton Jr. found a slave fort (1825/26) supplying captives to Portuguese Bissau.",
+   "ids": [
+    "elizabeth-frazer-skelton"
+   ],
+   "source": {
+    "label": "Enslaved.org — Elizabeth Frazer Skelton",
+    "url": "https://enslaved.org/fullStory/16-23-106178/"
+   }
+  },
+  {
+   "year": 1840,
+   "title": "Denman destroys the Gallinas barracoons",
+   "text": "Royal Navy forces burn eight factories and free 841 captives; Prince Manna signs an anti-slave-trade treaty for King Siaka.",
+   "ids": [
+    "denman-gallinas-treaty-1840",
+    "king-siaka-gallinas",
+    "gallinas-lomboko",
+    "pedro-blanco"
+   ],
+   "source": {
+    "label": "Report of the Mixed Courts at Sierra Leone for 1840",
+    "url": "https://pdavis.nl/SL1840.htm"
+   }
+  },
+  {
+   "year": 1846,
+   "title": "Domingo Martínez settles at Porto-Novo",
+   "text": "The Brazilian trader establishes himself at Porto-Novo with privileges from King Ghezo, becoming Dahomey's leading foreign merchant.",
+   "ids": [
+    "domingo-jose-martinez",
+    "ghezo-of-dahomey"
+   ],
+   "source": {
+    "label": "Ross, J. African History (1965)",
+    "url": "https://library.au.int/fr/career-domingo-martinez-bight-benin-1833-64-3"
+   }
+  },
+  {
+   "year": 1849,
+   "title": "Joaquim d'Almeida becomes Ouidah's leading trader",
+   "text": "After Francisco Félix de Souza's death, the freed African merchant becomes Ouidah's richest resident before retreating to Agoué in 1850.",
+   "ids": [
+    "joaquim-dalmeida",
+    "de-souza-family",
+    "aguda-merchant-community"
+   ],
+   "source": {
+    "label": "Enslaved.org — Joaquim d'Almeida",
+    "url": "https://enslaved.org/fullStory/16-23-106172/"
+   }
+  },
+  {
+   "year": 1859,
+   "title": "Dona Ana Joaquina dies at sea",
+   "text": "Luanda's best-known woman slave trader dies en route to Lisbon, accompanied by eight enslaved attendants.",
+   "ids": [
+    "ana-joaquina-dos-santos-e-silva",
+    "port-luanda"
+   ],
+   "source": {
+    "label": "Wikipedia — Ana Joaquina dos Santos e Silva",
+    "url": "https://en.wikipedia.org/wiki/Ana_Joaquina_dos_Santos_e_Silva"
+   }
+  },
+  {
+   "year": 1867,
+   "title": "Fall of Kansala",
+   "text": "Futa Jallon forces besiege Kaabu's capital; the mansaba fires the powder stores, ending Mandinka hegemony.",
+   "ids": [
+    "kingdom-of-kaabu",
+    "futa-jallon-imamate"
+   ],
+   "source": {
+    "label": "Wikipedia — Kaabu",
+    "url": "https://en.wikipedia.org/wiki/Kaabu"
+   }
+  },
+  {
+   "year": 1884,
+   "title": "Amachree faction moves to Buguma",
+   "text": "After the 1882–84 Kalabari civil war the Amachree line resettles at Abonnema and Buguma, today's capital.",
+   "ids": [
+    "amachree-dynasty"
+   ],
+   "source": {
+    "label": "Wikipedia — Kalabari Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Kalabari_Kingdom"
+   }
+  },
+  {
+   "year": 2025,
+   "title": "Tinubu estate administrator claims presidential descent",
+   "text": "The administrator of Madam Tinubu's estate publicly calls President Bola Tinubu a direct descendant; no genealogical evidence has been published and the claim is disputed.",
+   "ids": [
+    "tinubu-family",
+    "madam-tinubu"
+   ],
+   "source": {
+    "label": "Leadership (Nigeria)",
+    "url": "https://leadership.ng/tinubu-estate-administrator-decries-trespass-calls-for-family-reunification/"
+   }
+  }
+ ]
+}

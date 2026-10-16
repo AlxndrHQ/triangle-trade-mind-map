@@ -1,0 +1,1873 @@
+{
+ "records": [
+  {
+   "id": "philipse-family",
+   "name": "Philipse family (Frederick & Adolph Philipse)",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per Historic Hudson Valley, Philipse ships made at least five Madagascar voyages in 1693–1699 buying 1,100+ captives, and carried 809 captives to Barbados in 1720–1725; 23 enslaved people were listed at Philipsburg Manor in 1750.",
+   "start": 1680,
+   "end": 1750,
+   "lifespan": "1680–1779",
+   "base": "New York (Manhattan) and Philipsburg Manor, Westchester",
+   "geo": [
+    40.713,
+    -74.006
+   ],
+   "aliases": [
+    "Vredrick Flypsen",
+    "Philipsburg Manor family"
+   ],
+   "origins": "Frederick Philipse (1626–1702) arrived in New Amsterdam from Friesland as a carpenter for the Dutch West India Company and became the colony's richest merchant through marriage, trade and land. He kept his fortune through the English takeover of 1664 and assembled the vast Philipsburg manor on the Hudson.",
+   "role_summary": "Frederick and his son Adolph (1664–1750) ran a merchant fleet to Europe, the Caribbean and Africa that carried African captives from c.1680. In the 1690s they bought captives from pirate brokers on Madagascar to evade the Royal African Company monopoly, and they held enslaved people on their Westchester and Manhattan properties.",
+   "roleDetail": [
+    {
+     "t": "Madagascar slaving via pirates.",
+     "d": "Per Historic Hudson Valley, at least five Philipse voyages (1693–1699) bought more than 1,100 captives off Madagascar, partly from the pirate broker Adam Baldridge on Île Sainte-Marie.",
+     "basis": "documented"
+    },
+    {
+     "t": "'It is by negroes that I finde my cheivest Proffitt.'",
+     "d": "Frederick Philipse's own 1695 statement, quoted by Historic Hudson Valley, describes captives as his main source of profit.",
+     "basis": "documented"
+    },
+    {
+     "t": "Caribbean shipments continued under Adolph.",
+     "d": "Per Historic Hudson Valley, 809 captives were carried to Barbados on Philipse ships between 1720 and 1725.",
+     "basis": "documented"
+    },
+    {
+     "t": "Enslaved community at the Upper Mills.",
+     "d": "Adolph's 1750 probate inventory lists 23 enslaved men, women and children by name at Philipsburg Manor, placed first among his assets; several were sold after his death.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The family's Loyalist heirs lost the manor when New York confiscated it after the Revolution. Today Historic Hudson Valley runs Philipsburg Manor in Sleepy Hollow as a site interpreting northern colonial slavery, built around the named enslaved people of the 1750 inventory.",
+   "legacyDetail": [
+    {
+     "t": "Museum reinterpreted as a heritage site of slavery.",
+     "d": "Historic Hudson Valley's 'People Not Property' project and the Philipsburg Manor interpretation centre the enslaved millers and farmworkers rather than the Philipse family.",
+     "basis": "documented"
+    },
+    {
+     "t": "Exposes northern colonial slavery.",
+     "d": "The Philipse records are widely used to show that slavery and slave trading were central to the economy of colonial New York, not only to the plantation South.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historic Hudson Valley — The Philipse Family and the Slave Trade",
+     "url": "https://peoplenotproperty.hudsonvalley.org/the-philipse-family-and-the-slave-trade.php"
+    },
+    {
+     "label": "Historic Hudson Valley — The Philipsburg Manor Inventory",
+     "url": "https://peoplenotproperty.hudsonvalley.org/the-philipsburg-manor-inventory.php"
+    },
+    {
+     "label": "SlaveVoyages — Voyage 36998 (Philipse-owned voyage)",
+     "url": "https://slavevoyages.org/voyage/36998/variables"
+    }
+   ],
+   "connections": [
+    {
+     "id": "new-amsterdam",
+     "type": "ownership",
+     "label": "rose as WIC-era merchant in New Amsterdam"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "trade",
+     "label": "began as WIC carpenter/merchant"
+    },
+    {
+     "id": "royal-african-company",
+     "type": "political",
+     "label": "evaded RAC monopoly via Madagascar"
+    },
+    {
+     "id": "philipsburg-manor",
+     "type": "plantation",
+     "label": "held 23 enslaved people (1750)"
+    },
+    {
+     "id": "van-cortlandt-family",
+     "type": "family",
+     "label": "Frederick married Catharina Van Cortlandt (1692)"
+    },
+    {
+     "id": "peter-stuyvesant",
+     "type": "political",
+     "label": "prospered under Stuyvesant's New Amsterdam"
+    }
+   ]
+  },
+  {
+   "id": "peter-stuyvesant",
+   "name": "Peter Stuyvesant",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "As WIC director in Curaçao and director-general of New Netherland (1647–1664) he expanded slave imports; per the Museum of the City of New York, the WIC ship Witte Paert brought almost 300 captives in 1655 and c.700 enslaved Africans lived in New Netherland by the mid-1660s.",
+   "start": 1642,
+   "end": 1672,
+   "lifespan": "c.1610–1672",
+   "base": "New Amsterdam (Manhattan)",
+   "geo": [
+    40.704,
+    -74.013
+   ],
+   "aliases": [
+    "Petrus Stuyvesant"
+   ],
+   "origins": "A Frisian minister's son, Stuyvesant entered Dutch West India Company service in Brazil and then Curaçao, where he became director and lost a leg attacking Spanish St Martin in 1644. The WIC appointed him director-general of New Netherland in 1645; he arrived in 1647.",
+   "role_summary": "Stuyvesant worked with the WIC to turn New Amsterdam into a port for the Atlantic trade in enslaved Africans and to link it to the Curaçao slave depot. He personally held enslaved people on his Manhattan bouwerij (farm).",
+   "roleDetail": [
+    {
+     "t": "Sharply increased slave imports.",
+     "d": "Per MCNY, in the late 1650s he worked with the WIC to raise annual imports of captives; in 1655 the Witte Paert anchored in the East River with almost 300 Africans for sale.",
+     "basis": "documented"
+    },
+    {
+     "t": "Curaçao–New Netherland link.",
+     "d": "He sought to make New Netherland a supplier of Curaçao, which would return salt, horses and enslaved people; the scheme had limited success because merchants preferred other markets.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slaveholder at the Bowery.",
+     "d": "Some forty enslaved Africans are recorded as working his bouwerij, the site of today's St Mark's Church and his statue.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His name survives across New York (Stuyvesant High School, Bedford-Stuyvesant, Stuyvesant Square) and his 1941 statue by Gertrude Vanderbilt Whitney stands near his old farm. Calls to remove his memorials—over antisemitism in 2017 and over slaveholding in a 2023 City Council hearing—remain unresolved.",
+   "legacyDetail": [
+    {
+     "t": "Contested monuments.",
+     "d": "A 2023 NYC Council Cultural Affairs hearing considered removing statues of figures including Stuyvesant, citing his slaveholding; critics called it 'cancel culture'.",
+     "basis": "documented"
+    },
+    {
+     "t": "Erased bondspeople.",
+     "d": "Historians at the Gotham Center argue the statue site should also tell the story of the enslaved Africans who worked the bouwerij for over a century.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Museum of the City of New York — Petrus Stuyvesant",
+     "url": "https://www.mcny.org/node/7008"
+    },
+    {
+     "label": "Gotham Center — Monuments of Colonial New York: Stuyvesant and Hudson",
+     "url": "https://www.gothamcenter.org/blog/monuments-roundtable-stuyvesant-and-hudson"
+    },
+    {
+     "label": "amNY — New York and Curaçao: the Dutch connection",
+     "url": "https://www.amny.com/news/new-york-and-curaao-the-dutch-connection"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "charter",
+     "label": "WIC director, appointed director-general"
+    },
+    {
+     "id": "curacao",
+     "type": "ownership",
+     "label": "WIC director of Curaçao (1640s)"
+    },
+    {
+     "id": "new-amsterdam",
+     "type": "ownership",
+     "label": "director-general 1647–1664"
+    },
+    {
+     "id": "james-duke-of-york",
+     "type": "political",
+     "label": "surrendered colony to Duke of York's fleet 1664"
+    },
+    {
+     "id": "philipse-family",
+     "type": "political",
+     "label": "governed Philipse's early career"
+    }
+   ]
+  },
+  {
+   "id": "van-cortlandt-family",
+   "name": "Van Cortlandt family",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Netherlands",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Merchants and manor lords of Dutch origin who held enslaved people across several generations and traded captives on consignment; per NESRI/CUNY Stephanus traded illegally with Madagascar and Frederick owned a slave ship.",
+   "start": 1680,
+   "end": 1821,
+   "lifespan": "1638–1821",
+   "base": "New York City and Westchester (Van Cortlandt Manor, Croton)",
+   "geo": [
+    40.891,
+    -73.896
+   ],
+   "aliases": [
+    "Van Cortlandt Manor family"
+   ],
+   "origins": "Oloff Stevense Van Cortlandt came to New Amsterdam as a WIC soldier in 1638 and became a brewer and burgomaster. His sons Stephanus and Jacobus became leading merchants, Stephanus receiving the royal patent for Van Cortlandt Manor in 1697.",
+   "role_summary": "Stephanus was a business partner of the slave trader Robert Livingston and was involved in illegal Madagascar trade; Jacobus sold enslaved people on consignment in New York. The family's Bronx plantation and Westchester manor ran on enslaved labour into the early 19th century.",
+   "roleDetail": [
+    {
+     "t": "Slave trading as merchants.",
+     "d": "Per the Van Cortlandt House Museum, Jacobus and Frederick both took part in slave trading; NESRI/CUNY research records Frederick owning a slave ship.",
+     "basis": "documented"
+    },
+    {
+     "t": "Enslaved builders and workers.",
+     "d": "Enslaved people likely helped build the Van Cortlandt House (1748–49) in today's Bronx and farmed wheat and ran mills there.",
+     "basis": "documented"
+    },
+    {
+     "t": "Manor labour on the Hudson.",
+     "d": "Historic Hudson Valley names enslaved people such as Titus and Bridget held by Pierre Van Cortlandt at Croton.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Van Cortlandt Park and two museum houses keep the name; both now interpret enslavement. The Van Cortlandt House Museum runs an enslaved-Africans tour, and Historic Hudson Valley's Van Cortlandt Manor presents the named people held there.",
+   "legacyDetail": [
+    {
+     "t": "Museum reckoning.",
+     "d": "The Van Cortlandt House Museum documents enslaved household servants from 1748 to at least 1821, when Augustus Van Cortlandt freed a woman named Dinah.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Van Cortlandt House Museum — Enslaved Africans tour",
+     "url": "https://vancortlandt.org/tour_enslavedafrican/van-cortlandt-house"
+    },
+    {
+     "label": "Historic Hudson Valley — Van Cortlandt Manor",
+     "url": "https://peoplenotproperty.hudsonvalley.org/van-cortlandt-manor.php"
+    },
+    {
+     "label": "NESRI/CUNY — Stephanus Van Cortlandt",
+     "url": "https://nesri.commons.gc.cuny.edu/stephanus-van-cortlandt-11th-18th"
+    }
+   ],
+   "connections": [
+    {
+     "id": "new-amsterdam",
+     "type": "ownership",
+     "label": "family rose in New Amsterdam"
+    },
+    {
+     "id": "philipse-family",
+     "type": "family",
+     "label": "Catharina Van Cortlandt married Frederick Philipse"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "trade",
+     "label": "founder arrived as WIC soldier"
+    }
+   ]
+  },
+  {
+   "id": "willem-gideon-deutz",
+   "name": "Willem Gideon Deutz",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Netherlands",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Per the Amsterdam Museum he held a financial stake in more than a hundred plantations; his 'negotiatie' model spawned at least 240 plantation funds (per Itinerario/Cambridge).",
+   "start": 1751,
+   "end": 1757,
+   "lifespan": "1697–1757",
+   "base": "Amsterdam (Herengracht, later Huis Willet-Holthuysen)",
+   "geo": [
+    52.364,
+    4.898
+   ],
+   "aliases": [
+    "Willem Deutz",
+    "Deutz & Co."
+   ],
+   "origins": "An Amsterdam merchant-banker from a regent family, Deutz traded in plantation produce from Suriname. Governor Jan Jacob Mauricius is thought to have encouraged him, around 1751, to extend credit to Surinamese planters.",
+   "role_summary": "From his 'Surinam office' on the Herengracht, Deutz pioneered the plantation 'negotiatie': a fund pooling money from many Dutch investors and lending it to planters against mortgages on plantations—and thus on the enslaved people who were counted as plantation property.",
+   "roleDetail": [
+    {
+     "t": "Invented mass plantation credit.",
+     "d": "The negotiatie bundled capital from a broad range of investors as credit for plantations, with land and enslaved people as collateral (Amsterdam Museum; Leiden research).",
+     "basis": "documented"
+    },
+    {
+     "t": "Over a hundred plantations financed.",
+     "d": "Per the Amsterdam Museum, Deutz held a financial stake in more than a hundred plantations.",
+     "basis": "documented"
+    },
+    {
+     "t": "Fed a credit boom and crash.",
+     "d": "The model was copied in dozens of funds; easy credit drove expansion and speculation in Suriname, followed by mass defaults after the 1773 Amsterdam crisis.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His former house, Huis Willet-Holthuysen (Amsterdam Museum), hosts the 2026–27 exhibition 'Plantation along the Canal' on how canal-house wealth financed Surinamese plantations. Amsterdam's 2021 apology explicitly covered the city's regent elite of which Deutz was part.",
+   "legacyDetail": [
+    {
+     "t": "'Plantage aan de gracht' (16 Oct 2026 – 4 Apr 2027).",
+     "d": "The Amsterdam Museum exhibition examines Deutz and Fredrik Berewout (owner of Jagtlust) alongside the named enslaved people of Jagtlust.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Amsterdam Museum — Plantage aan de gracht (Plantation along the Canal)",
+     "url": "https://www.amsterdammuseum.nl/en/exhibition/plantage-aan-de-gracht/268300"
+    },
+    {
+     "label": "Cultureel Persbureau — Exhibition at Huis Willet-Holthuysen exposes financing of Surinamese plantations",
+     "url": "https://cultureelpersbureau.nl/en/2026/08/nieuwe-tentoonstelling-huis-willet-holthuysen-legt-financiering-van-surinaamse-plantages-bloot/"
+    },
+    {
+     "label": "Itinerario (Cambridge) — Debunking Debts: Suriname at the end of the 18th century",
+     "url": "https://www.cambridge.org/core/journals/itinerario/article/abs/debunking-debts-image-and-reality-of-a-colonial-crisis-suriname-at-the-end-of-the-18th-century/4C5D6D783AF2290200E6CDB08187BA58"
+    }
+   ],
+   "connections": [
+    {
+     "id": "plantation-negotiaties",
+     "type": "ownership",
+     "label": "pioneered the negotiatie fund"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "finance",
+     "label": "lent to Surinamese planters"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "ownership",
+     "label": "Herengracht 'Surinam office'"
+    },
+    {
+     "id": "amsterdam-apology-2021",
+     "type": "legacy",
+     "label": "city regents covered by 2021 apology"
+    },
+    {
+     "id": "hope-and-co",
+     "type": "parallel",
+     "label": "fellow Amsterdam colonial financiers"
+    }
+   ]
+  },
+  {
+   "id": "coopstad-and-rochussen",
+   "name": "Coopstad & Rochussen (Rotterdam)",
+   "category": "Companies & Banks",
+   "role": "Trader & Shipper",
+   "nation": "Netherlands",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "More than 80% of the 68 slave ships that left Rotterdam in 1750–1780 were fitted out by the firm (c. 55+ voyages, per the Rotterdam research as reviewed by Kardux, 2022); SlaveVoyages lists individual voyages (e.g. Maas, Publicola, Nicolaas Theodorus, Willemina Aletta). It was Rotterdam's leading slaving house in the later 18th century.",
+   "start": 1760,
+   "end": 1795,
+   "lifespan": "c.1760–1795",
+   "base": "Rotterdam",
+   "geo": [
+    51.922,
+    4.479
+   ],
+   "aliases": [
+    "Herman Coopstad & Isaac Jacobus Rochussen"
+   ],
+   "origins": "A Rotterdam merchant partnership of Herman Coopstad and Isaac Jacobus Rochussen. After the WIC lost its monopoly (1730), private Dutch firms could fit out slaving voyages on payment of fees to the company.",
+   "role_summary": "The firm owned and outfitted ships that bought captives on the Windward, Ivory and Gold Coasts (including at Elmina), Accra and Gabon, and sold them in Suriname and other Dutch colonies. Its archive survives in the Rotterdam City Archives and underpins much Dutch slave-trade data.",
+   "roleDetail": [
+    {
+     "t": "Multiple West African coasts.",
+     "d": "Per SlaveVoyages, its ships bought captives at Cape Lahou, Elmina, Accra and Gabon; one Nicolaas Theodorus voyage recorded about 35% children.",
+     "basis": "documented"
+    },
+    {
+     "t": "Supplied Suriname.",
+     "d": "Willemina Aletta voyage 11152 landed captives in Suriname, per SlaveVoyages.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The firm's archive is a key source for Johannes Postma's Dutch slave-trade research. Rotterdam's KITLV-led study of city involvement led Mayor Ahmed Aboutaleb to apologise in December 2021.",
+   "legacyDetail": [
+    {
+     "t": "Rotterdam apology.",
+     "d": "Research commissioned in 2017 found city councillors invested in the WIC and later in private slave trading and plantations; the mayor apologised on 10 December 2021.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "SlaveVoyages — Voyage 10805 (Maas, owners Coopstad & Rochussen)",
+     "url": "https://slavevoyages.org/voyage/10805/variables"
+    },
+    {
+     "label": "SlaveVoyages — Voyage 11152 (Willemina Aletta)",
+     "url": "https://slavevoyages.org/voyage/11152/variables"
+    },
+    {
+     "label": "Erasmus University Rotterdam — Rotterdam research at the basis of apology",
+     "url": "https://www.eur.nl/en/news/rotterdam-research-basis-apology-citys-slavery-past"
+    },
+    {
+     "label": "New West Indian Guide — Kardux, 'Dutch cities in global slavery' (2022)",
+     "url": "https://doi.org/10.1163/22134360-09603002"
+    }
+   ],
+   "connections": [
+    {
+     "id": "elmina-castle",
+     "type": "trade",
+     "label": "bought captives at Elmina"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "trade",
+     "label": "sold captives in Suriname"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "charter",
+     "label": "private trade under WIC fee regime"
+    },
+    {
+     "id": "middelburgsche-commercie-compagnie",
+     "type": "parallel",
+     "label": "Zeeland counterpart"
+    },
+    {
+     "id": "rotterdam-apology-2021",
+     "type": "legacy",
+     "label": "city reckoning 2021"
+    }
+   ]
+  },
+  {
+   "id": "manuel-pinto-da-fonseca",
+   "name": "Manuel Pinto da Fonseca",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Portugal",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Called 'the most notorious slave dealer in all Brazil'; a British report based on his own declaration put his 1844 profits at c.£150,000.",
+   "start": 1837,
+   "end": 1851,
+   "lifespan": "1804–1855",
+   "base": "Rio de Janeiro, Brazil",
+   "geo": [
+    -22.906,
+    -43.173
+   ],
+   "aliases": [
+    "Manoel Pinto da Fonseca"
+   ],
+   "origins": "Born near Porto in 1804, he emigrated to Rio and rose from subordinate commercial posts after 1831, when Brazil's first anti-trafficking law made the trade illegal. With his brothers he entered slaving around 1837.",
+   "role_summary": "He ran a mercantile house operating on four continents that trafficked captives from Angola and the Congo coast to Rio during the illegal era, using US-flagged ships and American crews to dodge British patrols. He was a principal rival of José Bernardino de Sá.",
+   "roleDetail": [
+    {
+     "t": "Dominated Rio's illegal trade.",
+     "d": "Mesquita (Anais do Museu Histórico Nacional, 2020) shows how he and Bernardino de Sá took control of the slave trade into Southeast Brazil after 1831.",
+     "basis": "documented"
+    },
+    {
+     "t": "American ships and flags.",
+     "d": "He bought the brig Uncas (1844–45) and used ships such as Porpoise and Kentucky, exploiting US flags against British searches.",
+     "basis": "documented"
+    },
+    {
+     "t": "Close to the Imperial state.",
+     "d": "Recent Brazilian scholarship (ANPUH 2024) examines his ties to the Court and the Imperial government between 1837 and 1850.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "After the 1850 Eusébio de Queirós Law he was expelled to Portugal (1851 per most English accounts; a UFF study groups him with Bernardino de Sá and Tomás da Costa Ramos among traffickers expelled in 1852) and died in Paris in 1855. His case is now central to Brazilian research on the 'contraband era', when c.750,000 Africans were landed illegally.",
+   "legacyDetail": [
+    {
+     "t": "Expelled, not prosecuted.",
+     "d": "He, Bernardino de Sá and Tomás da Costa Ramos were expelled rather than tried, a sign of how protected the major traffickers were.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Manuel Pinto da Fonseca (slave trader)",
+     "url": "https://en.wikipedia.org/wiki/Manuel_Pinto_da_Fonseca_(slave_trader)"
+    },
+    {
+     "label": "Anais do Museu Histórico Nacional — Mesquita, Portugueses no tráfico ilegal (2020)",
+     "url": "https://anaismhn.museus.gov.br/amhn/article/download/180/116/782"
+    },
+    {
+     "label": "ANPUH — Pinto da Fonseca and the Imperial state, 1837–1850 (2024)",
+     "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2024-05/1716969600_65410434fc10dadc286e68f598f1383c.pdf"
+    },
+    {
+     "label": "UFF Polis — texto 19A, expulsions of slave traffickers after 1850",
+     "url": "https://www.historia.uff.br/polis/files/texto_19A.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "jose-bernardino-de-sa",
+     "type": "trade",
+     "label": "chief rival in Rio's illegal trade"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "landed captives at Rio"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "bought captives in Angola"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "trade",
+     "label": "Congo-coast purchases"
+    },
+    {
+     "id": "eusebio-de-queiros-law-1850",
+     "type": "political",
+     "label": "expelled after 1850 law"
+    }
+   ]
+  },
+  {
+   "id": "joaquim-ferreira-dos-santos",
+   "name": "Joaquim Ferreira dos Santos, Count of Ferreira",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Portugal",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Per the EU MANIFEST project, he traded an estimated 10,000+ captives from Luanda and Cabinda to Brazil.",
+   "start": 1810,
+   "end": 1832,
+   "lifespan": "1782–1866",
+   "base": "Rio de Janeiro, Brazil (later Porto, Portugal)",
+   "geo": [
+    -22.906,
+    -43.173
+   ],
+   "aliases": [
+    "Conde de Ferreira"
+   ],
+   "origins": "Born in Porto in 1782, he left for Brazil in 1800 and built a consignment business in Rio de Janeiro. His network linked Rio, Lisbon and Angola.",
+   "role_summary": "He headed a triangular network sending goods to Luanda and Cabinda, where his ships embarked captives for Brazil. He returned to Portugal in 1832 and was made Count of Ferreira in 1850.",
+   "roleDetail": [
+    {
+     "t": "Rio–Angola slaving network.",
+     "d": "Per MANIFEST, his ships loaded captives at Luanda and Cabinda to supply Brazil, trading an estimated 10,000+ people.",
+     "basis": "documented"
+    },
+    {
+     "t": "Honoured by two crowns.",
+     "d": "He received the Order of Christ from João VI and titles from Pedro I; Portugal made him Count in 1850.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Childless, he left his fortune to found Porto's Hospital Conde de Ferreira (a psychiatric hospital still operating) and 120 primary schools, about 70 of which survive. In 2023 the hospital shut part of an art installation asking 'How many enslaved people is a psychiatric hospital worth?'",
+   "legacyDetail": [
+    {
+     "t": "Philanthropy over slavery.",
+     "d": "Scholars note his bequests built an image of benefactor that obscured the source of his wealth.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "2023 Porto Photography Biennial censorship row.",
+     "d": "The hospital closed a room of Dori Nigro and Paulo Pinto's 'Vento (A)mar' on its opening day (20 May 2023).",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "MANIFEST (EU) — Joaquim Ferreira dos Santos, a Portuguese trader of enslaved African peoples",
+     "url": "https://www.projectmanifest.eu/joaquim-ferreira-dos-santos-a-portuguese-trader-of-enslaved-african-peoples-en-fr/"
+    },
+    {
+     "label": "Hyperallergic — Portugal hospital removes artwork about its slavery ties",
+     "url": "https://hyperallergic.com/portugal-hospital-removes-artwork-about-its-slavery-ties"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "embarked captives at Luanda"
+    },
+    {
+     "id": "port-rio-valongo",
+     "type": "trade",
+     "label": "Rio-based slaving house"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "made Count of Ferreira 1850"
+    },
+    {
+     "id": "hospital-conde-de-ferreira",
+     "type": "legacy",
+     "label": "bequest founded hospital"
+    },
+    {
+     "id": "portugal-reparations-2024",
+     "type": "parallel",
+     "label": "Portuguese reckoning debates"
+    }
+   ]
+  },
+  {
+   "id": "joao-fernandes-vieira",
+   "name": "João Fernandes Vieira",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Brazil",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Brazilian scholarship (ANPUH papers citing Acioli, 1997) credits him with c.16 sugar mills in Pernambuco and Paraíba and c.2,000 enslaved people — a secondary estimate, not a documented count; he governed Angola 1658–1661.",
+   "start": 1640,
+   "end": 1681,
+   "lifespan": "c.1613–1681",
+   "base": "Recife, Pernambuco",
+   "geo": [
+    -8.054,
+    -34.881
+   ],
+   "aliases": [],
+   "origins": "Born in Madeira, he rose in Dutch-ruled Pernambuco as a merchant and agent for Dutch interests, becoming the richest colonist of his era. He then led the Pernambucan Insurrection (1645–1654) that expelled the Dutch West India Company.",
+   "role_summary": "As one of Brazil's greatest sugar planters he depended on enslaved Africans; as governor of Angola (1658–1661) he used the post to restore and expand the Luanda–Recife slave route serving his own Pernambuco interests.",
+   "roleDetail": [
+    {
+     "t": "Planter on a massive scale.",
+     "d": "About sixteen engenhos and a reported c.2,000 enslaved people (Acioli, as cited in Brazilian conference papers); the figure is an estimate.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Governor of Angola for Pernambuco's benefit.",
+     "d": "Souza (Sankofa, 2017) shows his Angola rule was tied to his sugar and slave-trade interests and revived Luanda–Recife traffic.",
+     "basis": "documented"
+    },
+    {
+     "t": "Conflict with Kongo.",
+     "d": "Vieira and André Vidal de Negreiros pursued interests against the Kingdom of Kongo while governing Angola.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He is celebrated in Brazil as a hero of the Restoration of Pernambuco, and the Brazilian Army dates its origin to the Battles of Guararapes he helped lead. His slaving governorship is far less remembered.",
+   "legacyDetail": [
+    {
+     "t": "Heroic memory vs slaving record.",
+     "d": "Popular biographies stress the insurrection; academic work stresses his Angola slave-trade interests.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Sankofa (USP) — Souza, Conflicts and Atlantic interests in Angola: the government of João Fernandes Vieira, 1658–1661",
+     "url": "https://revistas.usp.br/sankofa/article/view/137200"
+    },
+    {
+     "label": "ANPUH — João Fernandes Vieira and the Luanda–Recife trade",
+     "url": "https://www.anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772004_90bce40b914479e80f3c02a518ecde97.pdf"
+    },
+    {
+     "label": "Canoa do Tempo (UFAM) — Vieira and Vidal de Negreiros against Congo",
+     "url": "https://periodicos.ufam.edu.br/index.php/Canoa_do_Tempo/article/view/8868"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-luanda",
+     "type": "ownership",
+     "label": "governor of Angola 1658–1661"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "appointed governor"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "political",
+     "label": "led revolt that expelled WIC"
+    },
+    {
+     "id": "kingdom-of-kongo",
+     "type": "political",
+     "label": "pursued interests against Kongo"
+    }
+   ]
+  },
+  {
+   "id": "antonio-fernandes-de-elvas",
+   "name": "António Fernandes de Elvas",
+   "category": "European Families",
+   "role": "Broker & Agent",
+   "nation": "Portugal",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Held the Spanish asiento 1615–1623 and the Angola, Cape Verde and Guinea contracts; 11,328 Africans were brought to Cartagena in 1619–1624 alone (per Alencastro).",
+   "start": 1615,
+   "end": 1623,
+   "lifespan": "d.1623",
+   "base": "Lisbon",
+   "geo": [
+    38.712,
+    -9.139
+   ],
+   "aliases": [
+    "Antonio Fernández de Elvas"
+   ],
+   "origins": "A Portuguese New Christian (converso) merchant in the pepper trade from India, he belonged to the Lisbon networks that financed the Habsburg crown during the Iberian Union (1580–1640).",
+   "role_summary": "He bought the asiento to supply enslaved Africans to Spanish America and simultaneously the Portuguese crown contracts (contratos) for Angola, Cape Verde and Guinea, integrating supply and delivery. His son Jorge acted for him in Cartagena.",
+   "roleDetail": [
+    {
+     "t": "Asiento plus African contracts.",
+     "d": "Asiento 27 Sept 1615 – 1 Apr 1623 and contratador for Angola, Cape Verde and Guinea 1615–1623.",
+     "basis": "documented"
+    },
+    {
+     "t": "Cartagena and Veracruz.",
+     "d": "Main destinations of his ships, with his son Jorge Fernandes de Elvas based in Cartagena.",
+     "basis": "documented"
+    },
+    {
+     "t": "New Christian networks under Inquisition pressure.",
+     "d": "A USP thesis uses his family network to study tensions between New Christians, the Inquisition and the Spanish Crown; 'New Christian' labels were often accusations.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His tenure marked the peak of Portuguese New Christian control of the asiento, which fed the large Luanda–Cartagena flows of the 1610s–1620s. No modern institutional successor exists.",
+   "legacyDetail": [
+    {
+     "t": "Model for later asentistas.",
+     "d": "He was succeeded by Manuel Rodrigues Lamego, continuing the converso hold on the contract until the 1640 Portuguese revolt.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — António Fernandes de Elvas",
+     "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Fernandes_de_Elvas"
+    },
+    {
+     "label": "Universidade de São Paulo — doctoral thesis on Elvas family New Christian network",
+     "url": "https://teses.usp.br/teses/disponiveis/8/8137/tde-12062015-111953/en.php"
+    }
+   ],
+   "connections": [
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "asiento holder 1615–1623"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "contract with Habsburg crown"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "Angola/Cape Verde/Guinea contratos"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "captives from Luanda"
+    },
+    {
+     "id": "sao-tome",
+     "type": "trade",
+     "label": "Cape Verde contract"
+    },
+    {
+     "id": "manuel-rodrigues-lamego",
+     "type": "parallel",
+     "label": "succeeded by Lamego"
+    }
+   ]
+  },
+  {
+   "id": "manuel-rodrigues-lamego",
+   "name": "Manuel Rodrigues Lamego",
+   "category": "European Families",
+   "role": "Broker & Agent",
+   "nation": "Portugal",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Asiento 1623–1631: 59 ships licensed for Africa and c.8,000 captives bought, mostly at Luanda (per Wikipedia summary of the scholarship); the contract envisaged c.4,250 per year.",
+   "start": 1623,
+   "end": 1631,
+   "lifespan": "c.1590–?",
+   "base": "Lisbon",
+   "geo": [
+    38.712,
+    -9.139
+   ],
+   "aliases": [
+    "Manuel Rodríguez Lamego"
+   ],
+   "origins": "From a Sephardic converso family of Lamego, linked by marriage to the banker Juan Núñez Saravia and to merchants in Rouen and Amsterdam.",
+   "role_summary": "He held the asiento for supplying enslaved Africans to Spanish America and, in 1623–1624, the Angola contract. Old Christian merchants in Seville lobbied the Inquisition against him, and his brother António was tried for 'Judaising'.",
+   "roleDetail": [
+    {
+     "t": "Luanda-centred supply.",
+     "d": "Most of the c.8,000 people bought under his contract came from Luanda.",
+     "basis": "documented"
+    },
+    {
+     "t": "Contract terms disputed in sources.",
+     "d": "Wikipedia gives 1 April 1623 – 25 Sept 1631; a Jesuit archive record dates the contract from 1 May 1622 for eight years.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His family network spread to Rouen and Amsterdam's Sephardic community. His case is studied as an example of Inquisition pressure on converso financiers of the slave trade.",
+   "legacyDetail": [
+    {
+     "t": "Asiento passes to other conversos.",
+     "d": "It went to Melchor Gómez Angel and Cristóvão Mendes de Sousa.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Manuel Rodrigues Lamego",
+     "url": "https://en.wikipedia.org/wiki/Manuel_Rodrigues_Lamego"
+    },
+    {
+     "label": "Archivo Jesuitas — Asiento with Manuel Rodríguez Lamego (from 1622)",
+     "url": "https://archivo.jesuitas.es/index.php/asiento-y-capitulaci-n-que-se-tom-con-manuel-rodr-guez-lamego-sobre-la-renta-y-provisi-n-general-de-esclavos-que-se-navegan-a-las-indias-por-tiempo-de-ocho-a-os-a-contar-desde-uno-de-mayo-de-1622"
+    }
+   ],
+   "connections": [
+    {
+     "id": "spanish-asiento",
+     "type": "charter",
+     "label": "asiento holder 1623–1631"
+    },
+    {
+     "id": "crown-of-castile",
+     "type": "charter",
+     "label": "contract with Philip IV"
+    },
+    {
+     "id": "port-luanda",
+     "type": "trade",
+     "label": "most captives from Luanda"
+    },
+    {
+     "id": "port-seville",
+     "type": "political",
+     "label": "opposed by Seville merchants"
+    },
+    {
+     "id": "antonio-fernandes-de-elvas",
+     "type": "parallel",
+     "label": "predecessor"
+    }
+   ]
+  },
+  {
+   "id": "joachim-nettelbeck",
+   "name": "Joachim Nettelbeck",
+   "category": "European Families",
+   "role": "Trader & Shipper",
+   "nation": "Brandenburg-Prussia",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A crewman then first mate on Dutch slave ships (c.1749–50 and 1771, the Vrouwe Elisabeth of Rotterdam), who later lobbied Prussian kings for slave-worked colonies; captive numbers for his voyages are not documented in the sources used.",
+   "start": 1749,
+   "end": 1814,
+   "lifespan": "1738–1824",
+   "base": "Kolberg (Kołobrzeg), Pomerania",
+   "geo": [
+    54.176,
+    15.583
+   ],
+   "aliases": [],
+   "origins": "A Kolberg sailor who at eleven stowed away on a Dutch slave ship from Amsterdam. He later sailed to Suriname and Sint Eustatius.",
+   "role_summary": "In 1771 he was first mate on a Dutch slaving voyage Europe–Guinea–Suriname, commanding the longboat that bought captives along the coast for guns, powder, tobacco, spirits and textiles. He then proposed Prussian slave-plantation colonies to Frederick the Great (c.1775), Frederick William II (1786) and Gneisenau (1814).",
+   "roleDetail": [
+    {
+     "t": "First mate on the Vrouwe Elisabeth.",
+     "d": "Van Oostrum (Dutch Crossing, 2025) identifies the Rotterdam ship and notes Nettelbeck narrates the voyage in his memoirs.",
+     "basis": "documented"
+    },
+    {
+     "t": "Colonial lobbying.",
+     "d": "He cited Brandenburg's old Groß Friedrichsburg when proposing a West African slave-supply settlement in 1786; all proposals were rejected.",
+     "basis": "documented"
+    },
+    {
+     "t": "Candid memoir.",
+     "d": "His 1821 autobiography is a rare first-person crew account of the Dutch slave trade.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Hero-worshipped for the 1807 defence of Kolberg against Napoleon, he was used in Nazi propaganda (film 'Kolberg', 1945). German cities are now renaming his streets: Berlin's Nettelbeckplatz became Martha-Ndumbe-Platz (decided 2021, completed 2025) and Dortmund's Nettelbeckstraße became May-Ayim-Straße (2024).",
+   "legacyDetail": [
+    {
+     "t": "German street renamings.",
+     "d": "Part of a wider German reckoning with colonial-era street names.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Leiden University — den Heijer inaugural lecture (Nettelbeck on Dutch slave ships)",
+     "url": "https://scholarlypublications.universiteitleiden.nl/access/item%3A2878413/view"
+    },
+    {
+     "label": "Wikipedia (de) — Joachim Nettelbeck (Seemann)",
+     "url": "https://de.wikipedia.org/wiki/Joachim_Nettelbeck_(Seemann)"
+    },
+    {
+     "label": "Projekt Gutenberg — Des Seefahrers Nettelbeck Lebensgeschichte",
+     "url": "https://projekt-gutenberg.org/authors/joachim-nettelbeck/books/des-seefahrers-nettelbeck-lebensgeschichte"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-amsterdam",
+     "type": "voyage",
+     "label": "sailed on Amsterdam slaver c.1749"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "voyage",
+     "label": "1771 voyage to Suriname"
+    },
+    {
+     "id": "sint-eustatius",
+     "type": "voyage",
+     "label": "sailed to Statia"
+    },
+    {
+     "id": "gross-friedrichsburg",
+     "type": "political",
+     "label": "cited as precedent in 1786 proposal"
+    },
+    {
+     "id": "brandenburg-african-company",
+     "type": "parallel",
+     "label": "sought to revive Prussian Africa trade"
+    }
+   ]
+  },
+  {
+   "id": "david-de-pury",
+   "name": "David de Pury",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Switzerland",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A Lisbon banker-merchant who worked for the South Sea Company from 1730 and held large shares in the slave-trading Pernambuco company; he left c.2.25 million livres to Neuchâtel (≈ CHF 600m in 2020).",
+   "start": 1730,
+   "end": 1786,
+   "lifespan": "1709–1786",
+   "base": "Lisbon (born Neuchâtel)",
+   "geo": [
+    38.712,
+    -9.139
+   ],
+   "aliases": [
+    "Pury, Mellish & Devisme"
+   ],
+   "origins": "Born in Neuchâtel (then a Prussian principality), he trained in commerce and worked in London for the South Sea Company before settling in Lisbon by 1735 as a banker and merchant.",
+   "role_summary": "His firm Pury, Mellish & Devisme held Portuguese crown monopolies on Brazilian diamonds (1757) and Brazil-wood (from 1766), commodities produced with enslaved labour. He was a large shareholder in the Companhia Geral de Pernambuco e Paraíba, which shipped enslaved Africans to northeastern Brazil.",
+   "roleDetail": [
+    {
+     "t": "Shareholder in a slaving company.",
+     "d": "Held large shares in the Pernambuco company (Wikipedia; HLS describes him as active in colonial and slave trade).",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave-produced commodities.",
+     "d": "Diamonds and Brazil-wood monopolies drew on enslaved mining and logging labour in Brazil.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Extent contested.",
+     "d": "Historians still debate how directly Pury, Mellish & Devisme traded captives between Africa and Brazil.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "His bequest built Neuchâtel's town hall, hospital and schools; a bronze statue by David d'Angers stands on Place Pury. After two petitions and a red-paint attack on the night of 12–13 July 2020, the city kept the statue but added an explanatory plaque and held an art competition (jury chaired by Pap Ndiaye); Mathias Pfund's inverted miniature 'Great in the Concrete' was installed in 2022 and stolen in August 2025.",
+   "legacyDetail": [
+    {
+     "t": "Statue contextualised, not removed.",
+     "d": "Two petitions sought removal or reckoning; in 2021 the city chose a plaque and an artistic contest instead.",
+     "basis": "documented"
+    },
+    {
+     "t": "Descendant engagement.",
+     "d": "Family member and Green politician Nicolas de Pury proposed a plaque and further research.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — David de Pury",
+     "url": "https://en.wikipedia.org/wiki/David_de_Pury"
+    },
+    {
+     "label": "Swissinfo — Switzerland joins debate about removing controversial memorials",
+     "url": "https://www.swissinfo.ch/eng/society/switzerland-joins-debate-about-removing-controversial-memorials/45828950"
+    },
+    {
+     "label": "Historical Dictionary of Switzerland — David de Pury",
+     "url": "https://hls-dhs-dss.ch/fr/articles/028614/"
+    },
+    {
+     "label": "Le Temps — Neuchâtel: an artwork and explanatory plaque installed facing the David de Pury statue",
+     "url": "https://www.letemps.ch/suisse/neuchatel/neuchatel-une-oeuvre-dart-une-plaque-explicative-ont-installees-face-statue-david"
+    }
+   ],
+   "connections": [
+    {
+     "id": "south-sea-company",
+     "type": "trade",
+     "label": "worked for SSC from 1730"
+    },
+    {
+     "id": "pernambuco-paraiba-company",
+     "type": "ownership",
+     "label": "large shareholder"
+    },
+    {
+     "id": "crown-of-portugal",
+     "type": "charter",
+     "label": "diamond & Brazil-wood monopolies"
+    },
+    {
+     "id": "port-lisbon",
+     "type": "ownership",
+     "label": "Lisbon banking house"
+    },
+    {
+     "id": "de-pury-statue-neuchatel",
+     "type": "legacy",
+     "label": "statue on Place Pury"
+    },
+    {
+     "id": "pourtales-family",
+     "type": "parallel",
+     "label": "fellow Neuchâtel colonial fortune"
+    }
+   ]
+  },
+  {
+   "id": "burckhardt-family-basel",
+   "name": "Burckhardt family (Christoph Burckhardt & Co., Basel)",
+   "category": "European Families",
+   "role": "Financier & Insurer",
+   "nation": "Switzerland",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per the Historical Dictionary of Switzerland, family firms invested in 21 slave ships between 1783 and 1815; a Basel student map estimates c.7,350 captives shipped and at least 1,100 deaths.",
+   "start": 1783,
+   "end": 1815,
+   "lifespan": "1783–1815",
+   "base": "Basel (Segerhof) and Nantes",
+   "geo": [
+    47.56,
+    7.588
+   ],
+   "aliases": [
+    "Christoph Burckhardt-Merian",
+    "Bourcard Fils & Cie"
+   ],
+   "origins": "Christoph Burckhardt (1740–1812), son of a Basel merchant of the same name, ran a worldwide wholesale trade in printed cottons (indiennes) and colonial goods. He entered the slave trade through Basel-linked houses in La Rochelle (Weis) and Nantes (Benoît Bourcard).",
+   "role_summary": "Three generations took part in slaving expeditions as investors; his son Christophe Bourcard founded Bourcard, Legrand & Cie in Nantes (1790), which fitted out slave ships such as the Intrépide and Cultivateur. For Burckhardt the trade was a sideline opening West African markets for printed cotton.",
+   "roleDetail": [
+    {
+     "t": "21 slaving ventures.",
+     "d": "Per HLS, between 1783 and 1815, with co-investors including the Merian brothers and Paris banks Pourtalès, Perregaux, Hottinguer and Rougemont.",
+     "basis": "documented"
+    },
+    {
+     "t": "Cotton for captives.",
+     "d": "Indiennes were the main trade goods exchanged for people on the African coast.",
+     "basis": "documented"
+    },
+    {
+     "t": "Not very profitable.",
+     "d": "HLS judges the slave trade earned him little; smuggling during the Continental Blockade paid far more.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Segerhof archive, public since the 1970s, is a core source on Swiss involvement in slavery (Stettler, Haenger & Labhardt, 'Baumwolle, Sklaven und Kredite', 2004). The site features in University of Basel-linked 'Colonial Entanglements in Basel' tours.",
+   "legacyDetail": [
+    {
+     "t": "Swiss complicity made visible.",
+     "d": "The Burckhardt case is central to dismantling the idea that landlocked Switzerland had no role in the slave trade.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Merian link contested.",
+     "d": "SRF found that direct Merian participation (founders of the Christoph Merian Stiftung) cannot be proven, though a Merian banker financed the Nantes start-up.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historical Dictionary of Switzerland — Christoph Burckhardt",
+     "url": "https://hls-dhs-dss.ch/articles/029857"
+    },
+    {
+     "label": "Visionscarto / Univ. Basel seminar — Haus Segerhof",
+     "url": "https://www.visionscarto.net/maps/basel/Tour%201_colonial%20traces/03_Segerhof.htm"
+    },
+    {
+     "label": "SRF — Wie auch Schweizer mit Sklaven Geld verdienten",
+     "url": "https://www.srf.ch/kultur/gesellschaft-religion/wie-auch-schweizer-mit-sklaven-geld-verdienten"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-nantes",
+     "type": "ownership",
+     "label": "Bourcard Fils & Cie, Nantes"
+    },
+    {
+     "id": "port-la-rochelle",
+     "type": "finance",
+     "label": "invested via Weis of La Rochelle"
+    },
+    {
+     "id": "pourtales-family",
+     "type": "finance",
+     "label": "Pourtalès co-invested in expeditions"
+    },
+    {
+     "id": "segerhof-basel",
+     "type": "ownership",
+     "label": "firm headquarters"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "trade",
+     "label": "French Caribbean markets"
+    }
+   ]
+  },
+  {
+   "id": "pourtales-family",
+   "name": "Pourtalès family (Jacques-Louis de Pourtalès)",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Switzerland",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Per HLS, Jacques-Louis de Pourtalès co-owned Grenada plantations worked by c.350 enslaved people (1770–1797) and was a partner in the slave-trading firm Romberg, Bapst & Cie.",
+   "start": 1753,
+   "end": 1801,
+   "lifespan": "1722–1814",
+   "base": "Neuchâtel",
+   "geo": [
+    46.992,
+    6.931
+   ],
+   "aliases": [
+    "Pourtalès & Cie",
+    "'King of merchants'"
+   ],
+   "origins": "Born in Geneva to a Huguenot family, Jacques-Louis de Pourtalès grew up in Neuchâtel and in 1753 founded Pourtalès & Cie, trading printed calicoes across Europe, India and the Antilles.",
+   "role_summary": "In 1770 he bought sugar, coffee, cocoa and cotton plantations on Grenada with Basel merchant Johann Jakob Thurneysen; his son Louis went there in 1792 to run them and bought enslaved people. He also profited from slave trading through Romberg, Bapst & Cie and textile supply to slaving firms.",
+   "roleDetail": [
+    {
+     "t": "Plantation owner on Grenada.",
+     "d": "About 350 enslaved people; the plantations were sold in 1797.",
+     "basis": "documented"
+    },
+    {
+     "t": "Textiles for the slave trade.",
+     "d": "HLS notes that c.60% of goods exchanged for captives were printed textiles, the core of Pourtalès's business.",
+     "basis": "documented"
+    },
+    {
+     "t": "Family letters survive.",
+     "d": "Louis de Pourtalès's Grenada letters in the Neuchâtel archives document plantation management including smallpox vaccination of enslaved workers.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The fortune founded Neuchâtel's Hôpital Pourtalès (1808), which still bears the name, and the family later became prominent bankers and diplomats in Paris and Prussia. Neuchâtel's 'Colonial Footprints' trail now addresses these fortunes.",
+   "legacyDetail": [
+    {
+     "t": "Hospital still named for him.",
+     "d": "Hôpital Pourtalès, founded 1808 as a hospital for the poor.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historical Dictionary of Switzerland — Jacques-Louis de Pourtalès",
+     "url": "https://hls-dhs-dss.ch/articles/041303"
+    },
+    {
+     "label": "Wikipedia — Jacques-Louis de Pourtalès",
+     "url": "https://en.wikipedia.org/wiki/Jacques-Louis_de_Pourtal%C3%A8s"
+    }
+   ],
+   "connections": [
+    {
+     "id": "burckhardt-family-basel",
+     "type": "finance",
+     "label": "co-invested in Nantes expeditions"
+    },
+    {
+     "id": "port-bordeaux",
+     "type": "finance",
+     "label": "partner in Romberg, Bapst & Cie"
+    },
+    {
+     "id": "david-de-pury",
+     "type": "parallel",
+     "label": "Neuchâtel colonial fortune"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "parallel",
+     "label": "Indian calico trade"
+    }
+   ]
+  },
+  {
+   "id": "isaak-faesch",
+   "name": "Isaak Faesch",
+   "category": "European Families",
+   "role": "Planter & Enslaver",
+   "nation": "Switzerland",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "WIC governor of Curaçao, the company's slave-trade hub, 1740–1758; held enslaved people at Hato and ordered 47 executions after the 1750 revolt (per HLS).",
+   "start": 1737,
+   "end": 1758,
+   "lifespan": "1687–1758",
+   "base": "Willemstad, Curaçao",
+   "geo": [
+    12.108,
+    -68.934
+   ],
+   "aliases": [
+    "Isaac Faesch"
+   ],
+   "origins": "Born in Basel, he served as a mercenary officer in the War of the Spanish Succession, then joined his brother's Amsterdam West India trading house, which collapsed in the 1720 bubble.",
+   "role_summary": "He became WIC governor of Sint Eustatius (1737) and Curaçao (1740), repeatedly requesting more enslaved people from Amsterdam for the island. He held enslaved people on the Hato plantation and crushed the 1750 uprising of captives newly arrived from Elmina.",
+   "roleDetail": [
+    {
+     "t": "Ran the WIC slave hub.",
+     "d": "Curaçao was the WIC's depot for slave trading and smuggling to Spanish America.",
+     "basis": "documented"
+    },
+    {
+     "t": "1750 Hato revolt repression.",
+     "d": "On his order 47 enslaved people were executed, 30 of them from his own holdings.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "He left an estate of 121,000 guilders, shared in part by his Basel relatives. He is a key example in Swiss research on citizens serving Dutch colonial slavery.",
+   "legacyDetail": [
+    {
+     "t": "Swiss colonial service.",
+     "d": "His case appears in the Historical Dictionary of Switzerland's coverage of Swiss involvement in slavery.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Historical Dictionary of Switzerland — Isaak Faesch",
+     "url": "https://hls-dhs-dss.ch/articles/062098"
+    },
+    {
+     "label": "Wikipedia — Isaak Faesch",
+     "url": "https://en.wikipedia.org/wiki/Isaak_Faesch"
+    }
+   ],
+   "connections": [
+    {
+     "id": "dutch-west-india-company",
+     "type": "charter",
+     "label": "WIC governor"
+    },
+    {
+     "id": "curacao",
+     "type": "ownership",
+     "label": "governor 1740–1758"
+    },
+    {
+     "id": "sint-eustatius",
+     "type": "ownership",
+     "label": "governor 1737–1740"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "trade",
+     "label": "received captives from Elmina"
+    },
+    {
+     "id": "hato-revolt-1750",
+     "type": "plantation",
+     "label": "suppressed revolt"
+    },
+    {
+     "id": "south-sea-company",
+     "type": "parallel",
+     "label": "his firm collapsed in 1720 bubble"
+    }
+   ]
+  },
+  {
+   "id": "leu-and-co-zurich",
+   "name": "Leu & Co. (Zinskommission, Zurich)",
+   "category": "Companies & Banks",
+   "role": "Financier & Insurer",
+   "nation": "Switzerland",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Per the 2020 University of Zurich study, Zurich's investments (via Leu & Co.) in the South Sea Company, Compagnie des Indes and Danish bonds are linked to 36,494 deported Africans during its South Sea shareholding.",
+   "start": 1727,
+   "end": 1798,
+   "lifespan": "1755–2007",
+   "base": "Zurich",
+   "geo": [
+    47.37,
+    8.541
+   ],
+   "aliases": [
+    "Bank Leu",
+    "Zinskommission Leu & Co."
+   ],
+   "origins": "A semi-state Zurich investment commission set up in 1755 (named after Johann Jakob Leu) to place public and private funds abroad; the city had bought South Sea Company shares from 1727.",
+   "role_summary": "It invested Zurich's state and private money in the South Sea Company (asiento slave trade), the French Compagnie des Indes and Danish government bonds tied to the Danish West Indies.",
+   "roleDetail": [
+    {
+     "t": "South Sea shares held to 1798.",
+     "d": "During Zurich's holding the SSC carried 8,636 Africans across the Atlantic and 27,858 people from British islands to Spanish colonies.",
+     "basis": "documented"
+    },
+    {
+     "t": "Compagnie des Indes stake.",
+     "d": "The study links Zurich's French holdings to the company's 1720–1750 slaving, c.42,467 people.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Bank Leu, the successor of the Zinskommission, was privatised in 1798, became a Credit Suisse subsidiary in 1990, merged into Clariden Leu in 2007 and was absorbed into Credit Suisse in 2012; Credit Suisse was taken over by UBS in 2023. The 2020 study prompted Zurich to review its monuments and the canton to answer reparations questions.",
+   "legacyDetail": [
+    {
+     "t": "2020 Zurich study.",
+     "d": "By Brengard, Schubert and Zürcher, commissioned by the city.",
+     "basis": "documented"
+    },
+    {
+     "t": "Corporate chain.",
+     "d": "Leu & Co. (1755) → Bank Leu → Credit Suisse group (1990) → Clariden Leu (2007) → Credit Suisse (2012) → UBS (2023), per the Historical Dictionary of Switzerland and company histories.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "UZH News — Zurich's involvement in slavery (2020)",
+     "url": "https://news.uzh.ch/en/articles/2020/Slavery.html"
+    },
+    {
+     "label": "Swissinfo — Zurich's historical ties to slave trade exposed",
+     "url": "https://swissinfo.ch/eng/zurich-s-historical-ties-to-slave-trade-are-exposed/46065840"
+    },
+    {
+     "label": "Swiss Finance Museum — The Transatlantic Slave Trade, Part 3",
+     "url": "https://www.finanzmuseum.ch/en/home/blog/transatlantic-slavetrade-part3.html"
+    },
+    {
+     "label": "Historical Dictionary of Switzerland — Leu (Bank)",
+     "url": "https://hls-dhs-dss.ch/de/articles/041661/"
+    },
+    {
+     "label": "Wikipedia — Bank Leu",
+     "url": "https://en.wikipedia.org/wiki/Bank_Leu"
+    }
+   ],
+   "connections": [
+    {
+     "id": "south-sea-company",
+     "type": "finance",
+     "label": "shareholder 1727–1798"
+    },
+    {
+     "id": "compagnie-des-indes",
+     "type": "finance",
+     "label": "shareholder"
+    },
+    {
+     "id": "danish-west-indies",
+     "type": "finance",
+     "label": "Danish bonds"
+    },
+    {
+     "id": "zurich-slavery-study-2020",
+     "type": "legacy",
+     "label": "examined in 2020 study"
+    },
+    {
+     "id": "bern-south-sea-shares",
+     "type": "parallel",
+     "label": "Bern's similar stake"
+    }
+   ]
+  },
+  {
+   "id": "bern-south-sea-shares",
+   "name": "Bern's South Sea Company shares (1719–1734)",
+   "type": "entity",
+   "kind": "Bank / insurer",
+   "description": "The city-state of Bern bought c.1,300 South Sea Company shares in 1719 and held them to 1734, profiting despite the 1720 crash. The canton officially acknowledged in 2003 that the SSC ran the slave-trading asiento.",
+   "start": 1719,
+   "geo": [
+    46.948,
+    7.447
+   ],
+   "connections": [
+    {
+     "id": "south-sea-company",
+     "type": "finance",
+     "label": "public shareholder"
+    },
+    {
+     "id": "leu-and-co-zurich",
+     "type": "parallel",
+     "label": "Zurich's similar stake"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "philipsburg-manor",
+   "name": "Philipsburg Manor (Upper Mills), Sleepy Hollow",
+   "kind": "Colony / plantation",
+   "description": "The Philipse family's milling and farming complex on the Pocantico River, worked by enslaved Africans; Adolph Philipse's 1750 inventory lists 23 enslaved men, women and children by name. Historic Hudson Valley now interprets it as a heritage site of northern colonial slavery.",
+   "start": 1693,
+   "geo": [
+    41.087,
+    -73.864
+   ],
+   "connections": [
+    {
+     "id": "philipse-family",
+     "type": "ownership",
+     "label": "Philipse estate"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "plantation-negotiaties",
+   "name": "Plantation 'negotiaties' (Dutch plantation loan funds)",
+   "kind": "Bank / insurer",
+   "description": "Investment funds, pioneered by Willem Gideon Deutz in the 1750s, that pooled Dutch investors' money and lent it to Caribbean and Guianese planters against mortgages on plantations and the enslaved people on them. At least 240 such funds were founded; widespread defaults followed the 1773 Amsterdam credit crisis.",
+   "start": 1753,
+   "geo": [
+    52.37,
+    4.895
+   ],
+   "connections": [
+    {
+     "id": "willem-gideon-deutz",
+     "type": "ownership",
+     "label": "pioneered by Deutz"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "finance",
+     "label": "financed Surinamese plantations"
+    },
+    {
+     "id": "hope-and-co",
+     "type": "parallel",
+     "label": "Amsterdam colonial finance"
+    },
+    {
+     "id": "port-amsterdam",
+     "type": "finance",
+     "label": "Amsterdam capital market"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "segerhof-basel",
+   "name": "Segerhof, Basel",
+   "kind": "Legacy / archive",
+   "description": "House and office of Christoph Burckhardt & Co., built 1788–1791 on Basel's Blumenrain. Its surviving business archive, public since the early 1970s, documents the family's investment in 21 slaving voyages, and the site features in University of Basel-linked colonial walking tours.",
+   "start": 1788,
+   "geo": [
+    47.559,
+    7.586
+   ],
+   "connections": [
+    {
+     "id": "burckhardt-family-basel",
+     "type": "ownership",
+     "label": "Burckhardt headquarters"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "de-pury-statue-neuchatel",
+   "name": "Statue of David de Pury, Neuchâtel",
+   "kind": "Legacy / apology",
+   "description": "Bronze statue by David d'Angers on Place Pury, inaugurated in 1855. Splashed with red paint on the night of 12–13 July 2020 after removal petitions; the city instead added a plaque and commissioned a counter-artwork, Mathias Pfund's 'Great in the Concrete' (2022), which was stolen in August 2025.",
+   "start": 1855,
+   "geo": [
+    46.991,
+    6.93
+   ],
+   "connections": [
+    {
+     "id": "david-de-pury",
+     "type": "legacy",
+     "label": "commemorates de Pury"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "hospital-conde-de-ferreira",
+   "name": "Hospital Conde de Ferreira, Porto",
+   "kind": "Legacy / apology",
+   "description": "Psychiatric hospital in Porto funded by the will of slave trader Joaquim Ferreira dos Santos and run by the Santa Casa da Misericórdia. In May 2023 it closed part of a Porto Photography Biennial installation questioning its founder's slaving wealth. Sources give its opening as 1883 or 1893.",
+   "start": 1883,
+   "geo": [
+    41.162,
+    -8.594
+   ],
+   "connections": [
+    {
+     "id": "joaquim-ferreira-dos-santos",
+     "type": "legacy",
+     "label": "founded by bequest"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "hato-revolt-1750",
+   "name": "Hato plantation revolt, Curaçao (1750)",
+   "kind": "Revolt",
+   "description": "Uprising by enslaved people newly arrived from Elmina on the Hato plantation in Curaçao. Governor Isaak Faesch had it suppressed by militia and ordered 47 executions, 30 of them people he held himself.",
+   "start": 1750,
+   "geo": [
+    12.188,
+    -68.96
+   ],
+   "connections": [
+    {
+     "id": "isaak-faesch",
+     "type": "plantation",
+     "label": "Faesch's holding"
+    },
+    {
+     "id": "curacao",
+     "type": "plantation",
+     "label": "Curaçao"
+    },
+    {
+     "id": "elmina-castle",
+     "type": "trade",
+     "label": "rebels shipped from Elmina"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "zurich-slavery-study-2020",
+   "name": "University of Zurich study on Zurich and slavery (2020)",
+   "kind": "Legacy / apology",
+   "description": "City-commissioned report by Marcel Brengard, Frank Schubert and Lukas Zürcher (September 2020) showing Zurich invested in the South Sea Company, Compagnie des Indes and Danish bonds, and that Zurich citizens owned plantations and enslaved people. It led the city to review monuments.",
+   "start": 2020,
+   "geo": [
+    47.374,
+    8.551
+   ],
+   "connections": [
+    {
+     "id": "leu-and-co-zurich",
+     "type": "legacy",
+     "label": "examined Leu & Co."
+    },
+    {
+     "id": "south-sea-company",
+     "type": "legacy",
+     "label": "documented SSC stake"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "amsterdam-apology-2021",
+   "name": "Amsterdam's apology for slavery (1 July 2021)",
+   "kind": "Legacy / apology",
+   "description": "At the Keti Koti commemoration, Mayor Femke Halsema apologised for the active involvement of Amsterdam's governors in colonial slavery, based on research commissioned in 2019 that called the city's involvement 'direct, worldwide, large-scale, multifaceted and protracted'. It preceded the Dutch state's apology of December 2022.",
+   "start": 2021,
+   "geo": [
+    52.373,
+    4.892
+   ],
+   "connections": [
+    {
+     "id": "port-amsterdam",
+     "type": "legacy",
+     "label": "city apology"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "legacy",
+     "label": "city regents ran WIC"
+    },
+    {
+     "id": "willem-gideon-deutz",
+     "type": "legacy",
+     "label": "regent financiers"
+    },
+    {
+     "id": "society-of-suriname",
+     "type": "legacy",
+     "label": "Amsterdam co-owned Suriname"
+    }
+   ]
+  },
+  {
+   "type": "entity",
+   "id": "rotterdam-apology-2021",
+   "name": "Rotterdam's apology for slavery (10 December 2021)",
+   "kind": "Legacy / apology",
+   "description": "Mayor Ahmed Aboutaleb apologised for city officials' role in slavery after a KITLV-led study (commissioned 2017, three volumes) found most local VOC/WIC directors sat on the city council and that the council invested in the private slave trade and plantations.",
+   "start": 2021,
+   "geo": [
+    51.922,
+    4.48
+   ],
+   "connections": [
+    {
+     "id": "coopstad-and-rochussen",
+     "type": "legacy",
+     "label": "Rotterdam slaving firms"
+    },
+    {
+     "id": "dutch-west-india-company",
+     "type": "legacy",
+     "label": "Rotterdam WIC chamber"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1615,
+   "title": "Elvas takes the asiento",
+   "text": "Portuguese New Christian António Fernandes de Elvas takes the Spanish slave-supply asiento and the Angola, Cape Verde and Guinea contracts.",
+   "ids": [
+    "antonio-fernandes-de-elvas",
+    "spanish-asiento",
+    "port-luanda"
+   ],
+   "source": {
+    "label": "Wikipedia — António Fernandes de Elvas",
+    "url": "https://en.wikipedia.org/wiki/Ant%C3%B3nio_Fernandes_de_Elvas"
+   }
+  },
+  {
+   "year": 1623,
+   "title": "Lamego succeeds to the asiento",
+   "text": "Manuel Rodrigues Lamego holds the asiento to 1631; c.8,000 captives are bought, mostly at Luanda.",
+   "ids": [
+    "manuel-rodrigues-lamego",
+    "spanish-asiento"
+   ],
+   "source": {
+    "label": "Wikipedia — Manuel Rodrigues Lamego",
+    "url": "https://en.wikipedia.org/wiki/Manuel_Rodrigues_Lamego"
+   }
+  },
+  {
+   "year": 1655,
+   "title": "Witte Paert lands captives at New Amsterdam",
+   "text": "Under Stuyvesant, the WIC ship Witte Paert arrives with almost 300 enslaved Africans for sale to colonists.",
+   "ids": [
+    "peter-stuyvesant",
+    "new-amsterdam",
+    "dutch-west-india-company"
+   ],
+   "source": {
+    "label": "Museum of the City of New York — Petrus Stuyvesant",
+    "url": "https://www.mcny.org/node/7008"
+   }
+  },
+  {
+   "year": 1658,
+   "title": "Fernandes Vieira governs Angola",
+   "text": "Pernambuco planter João Fernandes Vieira becomes governor of Angola (1658–1661) and revives the Luanda–Recife slave route.",
+   "ids": [
+    "joao-fernandes-vieira",
+    "port-luanda"
+   ],
+   "source": {
+    "label": "Sankofa (USP) — Souza 2017",
+    "url": "https://revistas.usp.br/sankofa/article/view/137200"
+   }
+  },
+  {
+   "year": 1693,
+   "title": "Philipse Madagascar voyages begin",
+   "text": "Philipse ships make at least five voyages to Madagascar (1693–1699), buying 1,100+ captives from pirate brokers to evade the RAC monopoly.",
+   "ids": [
+    "philipse-family",
+    "royal-african-company"
+   ],
+   "source": {
+    "label": "Historic Hudson Valley — Philipse Family and the Slave Trade",
+    "url": "https://peoplenotproperty.hudsonvalley.org/the-philipse-family-and-the-slave-trade.php"
+   }
+  },
+  {
+   "year": 1719,
+   "title": "Bern buys South Sea shares",
+   "text": "The city-state of Bern buys c.1,300 South Sea Company shares, holding them until 1734; Zurich follows from 1727.",
+   "ids": [
+    "bern-south-sea-shares",
+    "south-sea-company",
+    "leu-and-co-zurich"
+   ],
+   "source": {
+    "label": "Swiss Finance Museum — Transatlantic Slave Trade Part 2",
+    "url": "https://www.finanzmuseum.ch/en/home/blog/transatlantic-slavetrade-part2.html"
+   }
+  },
+  {
+   "year": 1750,
+   "title": "Hato revolt crushed in Curaçao",
+   "text": "Governor Isaak Faesch orders 47 executions after captives from Elmina rise on the Hato plantation.",
+   "ids": [
+    "hato-revolt-1750",
+    "isaak-faesch",
+    "curacao"
+   ],
+   "source": {
+    "label": "Historical Dictionary of Switzerland — Isaak Faesch",
+    "url": "https://hls-dhs-dss.ch/articles/062098"
+   }
+  },
+  {
+   "year": 1770,
+   "title": "Pourtalès buys Grenada plantations",
+   "text": "Neuchâtel's Jacques-Louis de Pourtalès and Basel's J.J. Thurneysen buy Grenada plantations worked by c.350 enslaved people.",
+   "ids": [
+    "pourtales-family"
+   ],
+   "source": {
+    "label": "Historical Dictionary of Switzerland — Jacques-Louis de Pourtalès",
+    "url": "https://hls-dhs-dss.ch/articles/041303"
+   }
+  },
+  {
+   "year": 1790,
+   "title": "Burckhardt's Nantes slaving house",
+   "text": "Christophe Bourcard, son of Basel's Christoph Burckhardt, founds Bourcard, Legrand & Cie in Nantes; family firms back 21 slave ships (1783–1815).",
+   "ids": [
+    "burckhardt-family-basel",
+    "port-nantes",
+    "segerhof-basel"
+   ],
+   "source": {
+    "label": "Historical Dictionary of Switzerland — Christoph Burckhardt",
+    "url": "https://hls-dhs-dss.ch/articles/029857"
+   }
+  },
+  {
+   "year": 1851,
+   "title": "Pinto da Fonseca expelled from Brazil",
+   "text": "After the 1850 Eusébio de Queirós Law, Rio's leading trafficker is deported to Portugal (some sources say 1852).",
+   "ids": [
+    "manuel-pinto-da-fonseca",
+    "jose-bernardino-de-sa",
+    "eusebio-de-queiros-law-1850"
+   ],
+   "source": {
+    "label": "Wikipedia — Manuel Pinto da Fonseca",
+    "url": "https://en.wikipedia.org/wiki/Manuel_Pinto_da_Fonseca_(slave_trader)"
+   }
+  },
+  {
+   "year": 2020,
+   "title": "De Pury statue painted red; Zurich study",
+   "text": "Neuchâtel's de Pury statue is vandalised after a removal petition (July), and a UZH study exposes Zurich's slavery investments (September).",
+   "ids": [
+    "de-pury-statue-neuchatel",
+    "david-de-pury",
+    "zurich-slavery-study-2020"
+   ],
+   "source": {
+    "label": "Swissinfo — Switzerland joins debate about removing controversial memorials",
+    "url": "https://www.swissinfo.ch/eng/society/switzerland-joins-debate-about-removing-controversial-memorials/45828950"
+   }
+  },
+  {
+   "year": 2021,
+   "title": "Amsterdam and Rotterdam apologise",
+   "text": "Amsterdam's mayor apologises on 1 July and Rotterdam's on 10 December for their city governments' roles in slavery.",
+   "ids": [
+    "amsterdam-apology-2021",
+    "rotterdam-apology-2021"
+   ],
+   "source": {
+    "label": "Amsterdam Open Research — Amsterdam city council apologizes",
+    "url": "https://openresearch.amsterdam/en/page/75891/amsterdam-city-council-apologizes"
+   }
+  },
+  {
+   "year": 2023,
+   "title": "Porto hospital censors slavery artwork",
+   "text": "The Hospital Conde de Ferreira closes part of an installation asking how many enslaved people a psychiatric hospital is worth.",
+   "ids": [
+    "hospital-conde-de-ferreira",
+    "joaquim-ferreira-dos-santos"
+   ],
+   "source": {
+    "label": "Hyperallergic — Portugal hospital removes artwork about its slavery ties",
+    "url": "https://hyperallergic.com/portugal-hospital-removes-artwork-about-its-slavery-ties"
+   }
+  },
+  {
+   "year": 2025,
+   "title": "Berlin's Nettelbeckplatz renamed",
+   "text": "The Wedding square named for slave-ship mate Joachim Nettelbeck becomes Martha-Ndumbe-Platz, after Dortmund's 2024 renaming.",
+   "ids": [
+    "joachim-nettelbeck"
+   ],
+   "source": {
+    "label": "Wikipedia (de) — Joachim Nettelbeck (Seemann)",
+    "url": "https://de.wikipedia.org/wiki/Joachim_Nettelbeck_(Seemann)"
+   }
+  }
+ ]
+}

@@ -1,0 +1,2246 @@
+{
+ "records": [
+  {
+   "id": "calvert-family",
+   "name": "Calvert family (Lords Baltimore; Calverts of Mount Airy and Riversdale)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "As Maryland's proprietors they presided over the 1664 law making slavery lifelong and hereditary; their Riversdale descendants enslaved c. 15–32 people (1800–1806 tax lists) and Charles Benedict Calvert held 52 people in 1860, per UMD's 1856 Project.",
+   "start": 1664,
+   "end": 1864,
+   "lifespan": "1632–present",
+   "base": "St. Mary's City and Riversdale (Riverdale Park), Maryland",
+   "geo": [
+    38.962,
+    -76.931
+   ],
+   "aliases": [
+    "Barons Baltimore",
+    "Lords Baltimore",
+    "Calverts of Riversdale"
+   ],
+   "origins": "George Calvert, 1st Baron Baltimore, sought a colonial charter; it was granted in 1632 to his son Cecil Calvert, 2nd Lord Baltimore, and Maryland was settled from 1634 as a proprietary colony. The family held proprietary power (with interruptions) until the Revolution, and an American branch descended from Benedict Swingate Calvert, son of the 5th Lord Baltimore, settled at Mount Airy (Prince George's County).",
+   "role_summary": "Under the proprietorship, Maryland's assembly in 1664 — with Charles Calvert (later 3rd Lord Baltimore) as governor — enacted that enslaved Africans would serve 'durante vita' (for life), a foundation of Maryland's tobacco slave economy. Later Calverts were themselves planters: George Calvert (1768–1838) and Rosalie Stier Calvert ran Riversdale with enslaved labor, and their son Charles Benedict Calvert enslaved 52 people in 1860.",
+   "roleDetail": [
+    {
+     "t": "Proprietors of a slave colony.",
+     "d": "The 1664 Maryland act, passed under the proprietary government, made the status of enslaved Africans lifelong and extended it to their children, per the Maryland State Archives.",
+     "basis": "documented"
+    },
+    {
+     "t": "Riversdale plantation.",
+     "d": "Tax assessments record c. 15 enslaved people at Riversdale in 1800 and 32 in 1806; diarist Adam Francis Plummer was enslaved there by George Calvert and then Charles Benedict Calvert.",
+     "basis": "documented"
+    },
+    {
+     "t": "Founding a university with plantation wealth.",
+     "d": "Charles Benedict Calvert donated land from Riversdale for the Maryland Agricultural College (1856), now the University of Maryland, College Park; he held 52 people in slavery in 1860, per the 1856 Project.",
+     "basis": "documented"
+    },
+    {
+     "t": "Family ties across the Chesapeake gentry.",
+     "d": "Eleanor Calvert, George Calvert's sister, married John Parke Custis (Martha Washington's son) in 1774, linking the Calverts to Mount Vernon.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Calvert County and the city of Baltimore carry the family's name and title. Riversdale is now a house museum run by M-NCPPC that interprets its enslaved workforce and seeks descendants of the people enslaved there; the University of Maryland's 1856 Project (2024 report) documents Calvert's role in its founding.",
+   "legacyDetail": [
+    {
+     "t": "Riversdale House Museum.",
+     "d": "The museum researches and presents the enslaved community at Riversdale and is actively seeking their descendants.",
+     "basis": "documented"
+    },
+    {
+     "t": "UMD's 1856 Project.",
+     "d": "The university's 2024 report 'Reconstructing the Truth' estimates more than 500 enslaved people lived on land that became the college.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Maryland State Archives — Blacks Before the Law in Colonial Maryland",
+     "url": "https://msa.maryland.gov/msa/speccol/sc5300/sc5348/html/chap3.html"
+    },
+    {
+     "label": "Riversdale House Museum — The Workforce",
+     "url": "https://www.riversdale.org/the-workforce"
+    },
+    {
+     "label": "UMD Libraries — The 1856 Project releases inaugural research report",
+     "url": "https://www.lib.umd.edu/node/1350"
+    },
+    {
+     "label": "Humanities DC — Adam Francis Plummer",
+     "url": "https://dcwritershomes.humanitiesdc.org/adam-francis-plummer"
+    }
+   ],
+   "connections": [
+    {
+     "id": "maryland-slave-law-1664",
+     "type": "charter",
+     "label": "proprietary government enacted lifelong slavery"
+    },
+    {
+     "id": "riversdale",
+     "type": "plantation",
+     "label": "Riversdale plantation"
+    },
+    {
+     "id": "custis-family",
+     "type": "family",
+     "label": "Eleanor Calvert m. John Parke Custis (1774)"
+    },
+    {
+     "id": "carroll-family",
+     "type": "political",
+     "label": "Carrolls served the proprietors"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "legacy",
+     "label": "city named for the title"
+    }
+   ]
+  },
+  {
+   "id": "macon-family",
+   "name": "Macon family (Gideon Macon of Virginia; Nathaniel Macon of North Carolina)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "Nathaniel Macon's father left 3,000 acres and 25–30 enslaved people in 1761; Nathaniel held dozens at Buck Spring (c. 70 by some accounts). The family's weight lies in politics: Nathaniel was Speaker of the U.S. House 1801–1807 and a leading defender of slavery.",
+   "start": 1680,
+   "end": 1837,
+   "lifespan": "c. 1680–1837",
+   "base": "Buck Spring, Warren County, North Carolina",
+   "geo": [
+    36.488,
+    -78.08
+   ],
+   "aliases": [
+    "Nathaniel Macon",
+    "Gideon Macon"
+   ],
+   "origins": "Gideon Macon (d. 1702), a New Kent County, Virginia planter and member of the House of Burgesses (1696), founded the Virginia line; through his daughter Martha he was great-grandfather of Martha Dandridge Custis Washington. A branch moved to North Carolina, where Maj. Gideon Macon left his son Nathaniel (1757/58–1837) three enslaved people, George, Robb and Lucy, in 1761.",
+   "role_summary": "Nathaniel Macon farmed tobacco and grain at Buck Spring with enslaved labor while serving 37 years in Congress (Speaker 1801–1807, then Senator). NCpedia describes him as a staunch advocate of states' rights and of slavery; he opposed congressional restriction of slavery in the Missouri debates of 1819–1821.",
+   "roleDetail": [
+    {
+     "t": "Inherited enslaved people.",
+     "d": "His father's 1761 estate included 3,000 acres and 25–30 enslaved people; three were bequeathed to Nathaniel.",
+     "basis": "documented"
+    },
+    {
+     "t": "Speaker during the 1807 Act.",
+     "d": "Macon was Speaker of the House (1801–1807) when Congress passed the 1807 Act Prohibiting Importation of Slaves — a ban that left the domestic trade intact.",
+     "basis": "documented"
+    },
+    {
+     "t": "Political defender of slavery.",
+     "d": "He opposed the Missouri Compromise as conceding too much power to Congress over slavery, per NCpedia and Encyclopedia.com.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Macon, Georgia; Fort Macon; Macon County (NC and elsewhere); and Randolph-Macon College (chartered 1830, named for Macon and John Randolph) honor him. Buck Spring is on the National Register of Historic Places (1970); its interpretation of the enslaved community has been limited.",
+   "legacyDetail": [
+    {
+     "t": "Place names.",
+     "d": "A city, a fort, several counties and a Virginia college bear the Macon name.",
+     "basis": "documented"
+    },
+    {
+     "t": "Kinship with the Washingtons.",
+     "d": "Nathaniel Macon was a second cousin of Martha Washington through the Virginia Macons.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NCpedia — Nathaniel Macon",
+     "url": "https://ncpedia.org/node/13563"
+    },
+    {
+     "label": "Randolph-Macon College — History",
+     "url": "https://handbook.rmc.edu/student/about-rmc/randolph-macon-college-history/"
+    },
+    {
+     "label": "Wikipedia — Buck Spring Plantation",
+     "url": "https://en.wikipedia.org/wiki/Buck_Spring_Plantation"
+    },
+    {
+     "label": "Wikipedia — Nathaniel Macon",
+     "url": "https://en.wikipedia.org/wiki/Nathaniel_Macon"
+    }
+   ],
+   "connections": [
+    {
+     "id": "custis-family",
+     "type": "family",
+     "label": "Gideon Macon was Martha Washington's great-grandfather"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "Speaker when 1807 Act passed"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "Jeffersonian Republican ally"
+    },
+    {
+     "id": "andrew-jackson",
+     "type": "political",
+     "label": "states'-rights contemporary"
+    }
+   ]
+  },
+  {
+   "id": "contee-family",
+   "name": "Contee family of Prince George's County",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "A Prince George's/Anne Arundel tobacco-planting and mercantile family. Formerly enslaved Dennis Simms (b. 1841) recalled more than 100 enslaved people on the Contee plantation of Richard and Charles Contee (WPA interview, 1937), and Prince George's Slave Statistics (1868–69) record people declared by the administrator of John Contee's estate (per Maryland State Archives). No full count of family holdings has been published.",
+   "start": 1700,
+   "end": 1864,
+   "lifespan": "c. 1700–1864 (as enslavers)",
+   "base": "Nottingham and 'Contee', Prince George's County, Maryland",
+   "geo": [
+    38.705,
+    -76.704
+   ],
+   "aliases": [
+    "Contee of Brookefield",
+    "Java Farm"
+   ],
+   "origins": "Col. Thomas Contee lived at 'Brookefield' (now 'The Valley') near Nottingham on the Patuxent; his son Benjamin Contee (1755–1815), a Revolutionary officer, sat in the Confederation Congress and the first U.S. House (1789–1791), and with his brother Alexander ran stores at Nottingham, Queen Anne and Upper Marlboro. Through marriage, Capt. John Contee acquired the Snowden plantation Oaklands near Laurel.",
+   "role_summary": "The Contees were part of southern Maryland's tobacco gentry, whose wealth rested on enslaved labor. Dennis Simms, interviewed by the Federal Writers' Project in 1937, described being enslaved on a Contee tobacco plantation (identified by the Smithsonian as Java Farm, next to Woodlawn), with frequent whippings, bans on reading and church, and secret gatherings for spirituals.",
+   "roleDetail": [
+    {
+     "t": "Tobacco planting with enslaved labor.",
+     "d": "Simms's testimony describes over 100 enslaved workers on the Contee estate in the 1840s–1850s; it is a single late recollection and should be read as testimony.",
+     "basis": "documented"
+    },
+    {
+     "t": "Archival trace.",
+     "d": "Maryland State Archives' index to Prince George's freedom records lists people (e.g. Annetta Contee, 25; Walter Contee, 2) declared in the 1868–69 Slave Statistics by Daniel Clarke, administrator of John Contee's estate.",
+     "basis": "documented"
+    },
+    {
+     "t": "Merchant-planters.",
+     "d": "The Contee brothers' Patuxent stores linked them to the tobacco export economy that ran through Chesapeake river ports.",
+     "basis": "documented"
+    },
+    {
+     "t": "Oaklands.",
+     "d": "Oaklands (also called 'Contee'), a Snowden slave plantation that passed to Capt. John Contee by marriage, had overseers remembered as especially cruel in the mid-1800s.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Prince George's County locality of Contee (near Laurel) and Contee Road preserve the name. Descendants of people enslaved on Contee land appear in Maryland's freedom records and 1867–68 slave statistics, and the Smithsonian's Woodlawn History Center (opened 2022) interprets Simms's testimony with local descendants.",
+   "legacyDetail": [
+    {
+     "t": "Woodlawn History Center.",
+     "d": "Smithsonian Environmental Research Center exhibits draw on Simms's oral history of Java Farm.",
+     "basis": "documented"
+    },
+    {
+     "t": "Shared surname.",
+     "d": "Many free and enslaved people recorded as 'Contee' appear in county records; the surname alone does not establish who enslaved them.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Project Gutenberg — Slave Narratives Vol. VIII, Maryland (incl. Dennis Simms)",
+     "url": "https://gutenberg.org/files/11552/11552-h/11552-h.htm"
+    },
+    {
+     "label": "Maryland State Archives — Prince George's Freedom Records index (Contee, Annetta; estate of John Contee)",
+     "url": "https://msa.maryland.gov/megafile/msa/stagser/s1400/s1411/000003/html/s141103-1307.html"
+    },
+    {
+     "label": "Smithsonian SERC — Stories from the Woodlawn History Center",
+     "url": "https://sercblog.si.edu/stories-from-the-woodlawn-history-center"
+    },
+    {
+     "label": "Wikipedia — Benjamin Contee",
+     "url": "https://en.wikipedia.org/wiki/Benjamin_Contee"
+    },
+    {
+     "label": "Wikipedia — Oaklands (Laurel, Maryland)",
+     "url": "https://en.wikipedia.org/wiki/Oaklands_(Laurel,_Maryland)"
+    }
+   ],
+   "connections": [
+    {
+     "id": "maryland-slave-law-1664",
+     "type": "charter",
+     "label": "operated under Maryland slave law"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Chesapeake tobacco economy"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "Benjamin Contee backed Potomac capital site"
+    },
+    {
+     "id": "calvert-family",
+     "type": "parallel",
+     "label": "fellow Prince George's planter families"
+    }
+   ]
+  },
+  {
+   "id": "george-washington",
+   "name": "George Washington",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Mount Vernon's June 1799 census lists 317 enslaved people on five farms: 123 owned by Washington, 153 Custis 'dower' people, and c. 40 rented from a neighbor, per Mount Vernon.",
+   "start": 1743,
+   "end": 1799,
+   "lifespan": "1732–1799",
+   "base": "Mount Vernon, Fairfax County, Virginia",
+   "geo": [
+    38.708,
+    -77.086
+   ],
+   "aliases": [
+    "Washington family"
+   ],
+   "origins": "Washington inherited ten enslaved people at age eleven on his father's death in 1743, and later Mount Vernon from his half-brother Lawrence's estate. His 1759 marriage to the widow Martha Dandridge Custis brought control of the Custis 'dower' enslaved people.",
+   "role_summary": "Washington built Mount Vernon (8,000 acres) into a tobacco, then wheat, milling, fishing and distilling enterprise worked by enslaved people. He bought and occasionally sold people — in 1766 he shipped Tom, a foreman he called a 'Rogue & Runaway', to St. Kitts in exchange for rum, molasses and other goods — and as president signed the 1793 Fugitive Slave Act.",
+   "roleDetail": [
+    {
+     "t": "317 people in 1799.",
+     "d": "Washington's own census recorded every enslaved person at Mount Vernon by farm, family and task.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sale to the Caribbean.",
+     "d": "Washington sold Tom to the West Indies in 1766 and at least two other people to the Caribbean as punishment, per Mount Vernon.",
+     "basis": "documented"
+    },
+    {
+     "t": "Will and manumission.",
+     "d": "His will freed the 123 people he owned after Martha's death (they were freed 1 January 1801); William Lee was freed outright. The 153 dower people could not be freed by him and passed to Custis heirs, splitting families.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Mount Vernon, owned by the Mount Vernon Ladies' Association since 1858, now interprets slavery extensively, with a Slave Memorial (1983, designed by Howard University students) and archaeology of the enslaved burial ground. The capital, a state, and countless institutions bear his name.",
+   "legacyDetail": [
+    {
+     "t": "Slave Memorial and burial ground.",
+     "d": "Archaeology since 2014 has mapped graves at Mount Vernon's enslaved cemetery.",
+     "basis": "documented"
+    },
+    {
+     "t": "Named enslaved people.",
+     "d": "Mount Vernon's digital encyclopedia profiles individuals such as William Lee, Ona Judge and Tom, drawing on Washington's own records.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Mount Vernon — Census of the Enslaved Population at Mount Vernon, 1786 and 1799",
+     "url": "https://mountvernon.org/library/digitalhistory/digital-encyclopedia/article/census-of-the-enslaved-population-at-mount-vernon-1786-and-1799"
+    },
+    {
+     "label": "Mount Vernon — Tom (digital encyclopedia)",
+     "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/tom"
+    },
+    {
+     "label": "Mount Vernon — The Slave Memorial at Mount Vernon",
+     "url": "https://www.mountvernon.org/george-washington/slavery/the-slave-memorial-at-mount-vernon"
+    },
+    {
+     "label": "Founders Online — Washington to Joseph Thompson, 2 July 1766",
+     "url": "https://founders.archives.gov/documents/Washington/02-07-02-0300"
+    }
+   ],
+   "connections": [
+    {
+     "id": "mount-vernon",
+     "type": "plantation",
+     "label": "317 enslaved people (1799)"
+    },
+    {
+     "id": "custis-family",
+     "type": "family",
+     "label": "married Martha Custis; managed dower people"
+    },
+    {
+     "id": "macon-family",
+     "type": "family",
+     "label": "Martha's Macon ancestry"
+    },
+    {
+     "id": "thomas-jefferson",
+     "type": "political",
+     "label": "Secretary of State under Washington"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "tobacco consigned to London merchants"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "parallel",
+     "label": "Chesapeake tobacco/grain economy"
+    }
+   ]
+  },
+  {
+   "id": "custis-family",
+   "name": "Custis family (Martha Washington's Custis estate; Arlington)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "153 Custis 'dower' people lived at Mount Vernon in 1799; George Washington Parke Custis later owned nearly 200 people, as many as 63 at Arlington, per NPS.",
+   "start": 1700,
+   "end": 1862,
+   "lifespan": "c. 1700–1862",
+   "base": "Arlington House, Arlington, Virginia (also White House and Romancoke on the Pamunkey)",
+   "geo": [
+    38.882,
+    -77.073
+   ],
+   "aliases": [
+    "Parke Custis",
+    "Daniel Parke Custis estate",
+    "Custis-Lee"
+   ],
+   "origins": "Daniel Parke Custis, a wealthy Tidewater planter, died in 1757 leaving a large estate of land and enslaved people; his widow Martha's dower share went with her into her marriage to George Washington. Their grandson George Washington Parke Custis (1781–1857) inherited Custis people and built Arlington House from 1802.",
+   "role_summary": "The Custis estate supplied much of Mount Vernon's enslaved workforce; on Martha Washington's death (1802) the dower people were divided among her grandchildren. G.W.P. Custis brought enslaved people, most born at Mount Vernon, to Arlington in 1802; his 1857 will required their freedom within five years, and his son-in-law Robert E. Lee kept them working to settle debts until filing a deed of manumission in late 1862.",
+   "roleDetail": [
+    {
+     "t": "Dower people divided.",
+     "d": "Because dower people belonged to the Custis estate, Washington could not free them; in 1802 they were split among Custis heirs.",
+     "basis": "documented"
+    },
+    {
+     "t": "Arlington plantation.",
+     "d": "Custis owned nearly 200 people across Arlington, White House and Romancoke; NPS interprets the Syphax, Burke, Parks and Gray families.",
+     "basis": "documented"
+    },
+    {
+     "t": "Marriage ties.",
+     "d": "John Parke Custis married Eleanor Calvert (1774), and Mary Custis married Robert E. Lee (1831).",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Arlington House (NPS) now sits within Arlington National Cemetery, and the park has expanded its interpretation of the enslaved community, including restoring the slave quarters. Descendants of the Syphax family, enslaved by Custis, became prominent in Washington, D.C.",
+   "legacyDetail": [
+    {
+     "t": "Arlington House reinterpreted.",
+     "d": "NPS presents enslaved residents' stories and has sought to change the memorial's naming so it does not center Lee.",
+     "basis": "documented"
+    },
+    {
+     "t": "Freedman's Village.",
+     "d": "After federal seizure, Arlington land hosted Freedman's Village (1863) for formerly enslaved people.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Slavery at Arlington",
+     "url": "https://www.nps.gov/arho/learn/historyculture/slavery.htm"
+    },
+    {
+     "label": "NPS — The Slave Quarters (Arlington House)",
+     "url": "https://www.nps.gov/arho/learn/historyculture/slave-quarters.htm"
+    },
+    {
+     "label": "Mount Vernon — The Growth of Mount Vernon's Enslaved Community",
+     "url": "https://www.mountvernon.org/george-washington/slavery/the-growth-of-mount-vernons-enslaved-community/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "family",
+     "label": "Martha Custis m. Washington (1759)"
+    },
+    {
+     "id": "mount-vernon",
+     "type": "plantation",
+     "label": "153 dower people (1799)"
+    },
+    {
+     "id": "calvert-family",
+     "type": "family",
+     "label": "John Parke Custis m. Eleanor Calvert"
+    },
+    {
+     "id": "macon-family",
+     "type": "family",
+     "label": "Martha descended from Gideon Macon"
+    }
+   ]
+  },
+  {
+   "id": "andrew-jackson",
+   "name": "Andrew Jackson",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "The Jackson family owned more than 300 people over the decades and about 150 at his death in 1845, per The Hermitage; he bought and sold people from 1788 to 1844, much of it in the Natchez and New Orleans markets.",
+   "start": 1788,
+   "end": 1845,
+   "lifespan": "1767–1845",
+   "base": "The Hermitage, Nashville, Tennessee",
+   "geo": [
+    36.215,
+    -86.613
+   ],
+   "aliases": [
+    "Old Hickory"
+   ],
+   "origins": "A lawyer and land speculator on the Tennessee frontier, Jackson bought his first enslaved person in 1788. In 1804 he moved to the Hermitage tract with nine enslaved people, and cotton planting there became the base of his wealth.",
+   "role_summary": "Jackson was both a cotton planter and an active slave trader: he marketed coffles of enslaved people in the Natchez District, the Felicianas and New Orleans, writing in 1812 that his costs for 'Negroes sent to markett' rarely exceeded fifteen dollars a head. In 1811 he confronted federal Indian agent Silas Dinsmoor, who demanded passes for a coffle Jackson was driving south.",
+   "roleDetail": [
+    {
+     "t": "Planter at the Hermitage.",
+     "d": "Cotton grown by enslaved people at the Hermitage made Jackson rich; roughly 150 people were enslaved there by 1845.",
+     "basis": "documented"
+    },
+    {
+     "t": "Slave trader.",
+     "d": "Historians document his buying and selling of people from 1788 to 1844, including speculative coffles sent down the Natchez Trace.",
+     "basis": "documented"
+    },
+    {
+     "t": "Presidential policy.",
+     "d": "As president he backed suppression of abolitionist mailings (1835) and his Indian Removal policy opened Native lands to cotton slavery.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Hermitage (Andrew Jackson Foundation) now presents the stories of the enslaved community and in December 2024 announced it had located the enslaved cemetery, with at least 28 burials; an advisory committee includes descendants. Jackson's place on the $20 bill and statues remain debated.",
+   "legacyDetail": [
+    {
+     "t": "Cemetery found (2024).",
+     "d": "Ground-penetrating radar and limited excavation confirmed the burial ground about 1,000 feet from the mansion.",
+     "basis": "documented"
+    },
+    {
+     "t": "Descendant advisory committee.",
+     "d": "The Hermitage is including descendants of the enslaved in planning interpretation of the site.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "The Hermitage — Enslaved Community",
+     "url": "https://thehermitage.com/enslaved-stories"
+    },
+    {
+     "label": "Wikipedia — Andrew Jackson and the slave trade in the United States",
+     "url": "https://en.wikipedia.org/wiki/Andrew_Jackson_and_the_slave_trade_in_the_United_States"
+    },
+    {
+     "label": "AP (via News4Jax) — The burial site of the people Andrew Jackson enslaved was lost. The Hermitage says it is found",
+     "url": "https://www.news4jax.com/news/national/2024/12/11/the-burial-site-of-the-people-andrew-jackson-enslaved-was-lost-the-hermitage-says-it-is-found/"
+    },
+    {
+     "label": "Scalawag — Ending the myth of the historic Natchez Trace",
+     "url": "https://scalawagmagazine.org/2020/05/natchez-trace-tourism-history/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "the-hermitage",
+     "type": "plantation",
+     "label": "c. 150 enslaved at death"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "sold people in New Orleans and Natchez markets"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "parallel",
+     "label": "Tennessee-linked interstate trade (Isaac Franklin)"
+    },
+    {
+     "id": "isaac-franklin",
+     "type": "parallel",
+     "label": "fellow Sumner County/Nashville-area trader"
+    },
+    {
+     "id": "andrew-johnson",
+     "type": "political",
+     "label": "Tennessee Democratic successor"
+    },
+    {
+     "id": "hampton-family",
+     "type": "parallel",
+     "label": "Deep South cotton expansion"
+    }
+   ]
+  },
+  {
+   "id": "johnson-family-catoctin",
+   "name": "Johnson brothers of Maryland (Gov. Thomas Johnson; Catoctin Furnace)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "Baker Johnson's 1809 will lists more than 80 enslaved people, many skilled ironworkers, at Catoctin Furnace, per Maryland DNR.",
+   "start": 1774,
+   "end": 1850,
+   "lifespan": "1774–c. 1850 (enslaved labor at the furnace)",
+   "base": "Catoctin Furnace, Frederick County, Maryland",
+   "geo": [
+    39.584,
+    -77.434
+   ],
+   "aliases": [
+    "Thomas Johnson",
+    "Baker Johnson",
+    "James Johnson",
+    "Roger Johnson"
+   ],
+   "origins": "Thomas Johnson (1732–1819), born in Calvert County, was a Frederick lawyer, Continental Congress delegate, Maryland's first elected governor (1777–1779) and briefly a U.S. Supreme Court justice (1791–1793). With his brothers James, Baker and Roger he founded the Catoctin ironworks in the 1770s.",
+   "role_summary": "The Johnsons built Catoctin Furnace on the labor of enslaved African Americans, who worked as colliers, founders, forgemen, blacksmiths, farmhands and domestic servants; the furnace supplied iron during the Revolution. By mid-century hired immigrant labor replaced enslaved workers, and some enslaved workers may have been sold south.",
+   "roleDetail": [
+    {
+     "t": "Industrial slavery.",
+     "d": "Enslaved craftsmen held skilled posts at the furnace; named individuals in Baker Johnson's will include Collier Sam and the waggoners Henry and Harvey.",
+     "basis": "documented"
+    },
+    {
+     "t": "Founders-era statesman.",
+     "d": "Thomas Johnson nominated Washington as commander-in-chief in 1775 and governed Maryland during the war while his family's furnace relied on enslaved labor.",
+     "basis": "documented"
+    },
+    {
+     "t": "Possible sales south.",
+     "d": "As immigrant labor became cheaper, some enslaved Catoctin workers may have been sold to the Deep South.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "The Catoctin Furnace African American Cemetery is thought to be the most complete Black cemetery tied to early American industry. A 2023 Science study (Smithsonian, Harvard, 23andMe, Catoctin Furnace Historical Society) sequenced 27 people buried there and linked nearly 42,000 living people to them; facial reconstructions were unveiled in 2021.",
+   "legacyDetail": [
+    {
+     "t": "DNA reconnects descendants.",
+     "d": "The 2023 study identified five families among those buried and found the closest living relatives concentrated in Maryland.",
+     "basis": "documented"
+    },
+    {
+     "t": "Public site.",
+     "d": "The furnace stack and village lie in Cunningham Falls State Park, interpreted by the Historical Society.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Maryland DNR — Catoctin Furnace (Cunningham Falls State Park)",
+     "url": "https://dnr.maryland.gov/publiclands/pages/western/cunninghamfalls/catoctin-furnace.aspx"
+    },
+    {
+     "label": "Smithsonian — Analysis Reveals Ancestry, Possible Descendants of Enslaved and Free African Americans",
+     "url": "https://dashboard.si.edu/es/newsdesk/releases/analysis-reveals-ancestry-possible-descendants-enslaved-and-free-african-americans"
+    },
+    {
+     "label": "Maryland State Archives — Thomas Johnson (1732–1819)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc3500/sc3520/000700/000743/html/743bio.html"
+    },
+    {
+     "label": "Maryland DNR News — Historic African American cemetery of enslaved Catoctin Furnace workers becomes part of Cunningham Falls State Park (2026)",
+     "url": "https://news.maryland.gov/dnr/2026/02/28/historic-african-american-cemetery-of-enslaved-catoctin-furnace-workers-becomes-part-of-cunningham-falls-state-park/"
+    },
+    {
+     "label": "Science (Harvard Reich Lab PDF) — Catoctin Furnace ancient DNA study (2023)",
+     "url": "https://reich.hms.harvard.edu/sites/reich.hms.harvard.edu/files/inline-files/Catoctin_main_Science_0.pdf"
+    }
+   ],
+   "connections": [
+    {
+     "id": "catoctin-furnace",
+     "type": "ownership",
+     "label": "founded the furnace"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "nominated Washington commander (1775)"
+    },
+    {
+     "id": "ridgely-family",
+     "type": "parallel",
+     "label": "Maryland ironworks run with enslaved labor"
+    },
+    {
+     "id": "carroll-family",
+     "type": "political",
+     "label": "fellow Maryland Revolutionary leaders"
+    }
+   ]
+  },
+  {
+   "id": "andrew-johnson",
+   "name": "Andrew Johnson",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "documented",
+   "scaleNote": "A household enslaver, not a planter: bills of sale show he bought Sam (c. 13) for $541 in 1842 and Dolly (c. 19) for $500 in 1843; NPS says he owned at least ten people at most.",
+   "start": 1842,
+   "end": 1863,
+   "lifespan": "1808–1875",
+   "base": "Greeneville, Tennessee",
+   "geo": [
+    36.163,
+    -82.831
+   ],
+   "aliases": [],
+   "origins": "A tailor from a poor North Carolina family, Johnson rose through Tennessee politics. As his fortunes grew he bought enslaved people for his Greeneville household.",
+   "role_summary": "Johnson owned a small number of people — Dolly, her half-brother Sam, Dolly's children and others — and, per family tradition, freed them on 8 August 1863. As military governor of Tennessee he sought the state's exemption from the Emancipation Proclamation, and as president (1865–1869) he opposed Reconstruction measures protecting freedpeople.",
+   "roleDetail": [
+    {
+     "t": "Documented purchases.",
+     "d": "NPS holds bills of sale for Sam (1842) and Dolly (1843).",
+     "basis": "documented"
+    },
+    {
+     "t": "Emancipation Day.",
+     "d": "8 August became Emancipation Day in East Tennessee; in 1871 Sam Johnson served as 'Officer of the Day' at Greeneville's celebration.",
+     "basis": "documented"
+    },
+    {
+     "t": "Reconstruction record.",
+     "d": "He vetoed the Freedmen's Bureau and Civil Rights bills of 1866; Congress overrode the latter.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The Andrew Johnson National Historic Site (NPS) in Greeneville interprets the people he enslaved, including Sam Johnson, who in 1867 obtained land from Johnson for a school for Black children. The question of Johnson's paternity of Dolly's children is unresolved.",
+   "legacyDetail": [
+    {
+     "t": "NPS interpretation.",
+     "d": "The park's 'Slaves of Andrew Johnson' history page names the enslaved household and its descendants.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Slaves of Andrew Johnson",
+     "url": "https://www.nps.gov/anjo/learn/historyculture/slaves.htm"
+    },
+    {
+     "label": "NPS — August 8th",
+     "url": "https://www.nps.gov/anjo/learn/historyculture/august-8th.htm"
+    },
+    {
+     "label": "American Battlefield Trust — Andrew Johnson National Historic Site",
+     "url": "https://www.battlefields.org/visit/heritage-sites/andrew-johnson-national-historic-site-0"
+    }
+   ],
+   "connections": [
+    {
+     "id": "andrew-jackson",
+     "type": "political",
+     "label": "Jacksonian Democrat from Tennessee"
+    },
+    {
+     "id": "hampton-family",
+     "type": "political",
+     "label": "lenient Reconstruction aided ex-Confederate planters"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "parallel",
+     "label": "border-state wartime emancipation"
+    }
+   ]
+  },
+  {
+   "id": "carroll-family",
+   "name": "Carroll family (Charles Carroll of Carrollton; Doughoregan Manor)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "A December 1773 inventory lists 330 enslaved people at Doughoregan Manor alone (Maryland Center for History and Culture); Carroll was among the largest enslavers in Maryland, with further people at Homewood and other estates.",
+   "start": 1688,
+   "end": 1864,
+   "lifespan": "1688–1864 (as enslavers)",
+   "base": "Doughoregan Manor, Howard County, Maryland",
+   "geo": [
+    39.278,
+    -76.88
+   ],
+   "aliases": [
+    "Carroll of Carrollton",
+    "Charles Carroll the Settler"
+   ],
+   "origins": "Charles Carroll 'the Settler' arrived in 1688 as attorney general for the Catholic proprietor Lord Baltimore and amassed land, lending and an ironworks interest. His grandson Charles Carroll of Carrollton (1737–1832) was the only Catholic signer of the Declaration and reputedly the richest man in the colonies.",
+   "role_summary": "The Carrolls' fortune — tobacco and grain plantations, the Baltimore Iron Works, money-lending and land — rested on hundreds of enslaved people. Carroll of Carrollton wrote in favor of gradual abolition yet held some 300+ people at Doughoregan and others at Homewood (Baltimore), where enslaved gardener Izadod Conner is credited with shaping the grounds.",
+   "roleDetail": [
+    {
+     "t": "1773 inventory.",
+     "d": "The family-by-family list of 330 enslaved people at Doughoregan is one of Maryland's most detailed plantation records.",
+     "basis": "documented"
+    },
+    {
+     "t": "Homewood.",
+     "d": "At least 36 enslaved people lived and worked at Homewood, built for Carroll's son from 1801.",
+     "basis": "documented"
+    },
+    {
+     "t": "Catholic and Georgetown links.",
+     "d": "Carroll's cousin Archbishop John Carroll founded Georgetown (1789), whose Jesuit sponsors also held enslaved people on Maryland plantations.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Carroll County and many Maryland institutions bear the name; Carroll helped launch the B&O Railroad (1828). Homewood Museum at Johns Hopkins and the Maryland Center for History and Culture now research the enslaved families of Doughoregan and Homewood (e.g., the Conner family).",
+   "legacyDetail": [
+    {
+     "t": "Homewood Museum.",
+     "d": "Johns Hopkins' Homewood Museum has projects honoring people enslaved on the estate.",
+     "basis": "documented"
+    },
+    {
+     "t": "New scholarship.",
+     "d": "A 2022 Maryland Historical Magazine article examines Carroll and the enslaved families of Doughoregan.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Maryland Center for History and Culture — List of negroes on Doohoregan Manor, 1773",
+     "url": "https://www.mdhistory.org/digital-resource/9572"
+    },
+    {
+     "label": "The Cultural Landscape Foundation — Izadod Conner",
+     "url": "https://www.tclf.org/pioneer/izadod-conner"
+    },
+    {
+     "label": "WYPR — Shining a light on enslavers in Congress (Homewood)",
+     "url": "https://www.wypr.org/show/on-the-record/2022-01-26/shining-light-on-enslavers-in-congress-and-honoring-those-held-in-bondage"
+    }
+   ],
+   "connections": [
+    {
+     "id": "doughoregan-manor",
+     "type": "plantation",
+     "label": "330 enslaved (1773)"
+    },
+    {
+     "id": "calvert-family",
+     "type": "charter",
+     "label": "Settler was Lord Baltimore's attorney general"
+    },
+    {
+     "id": "georgetown-university",
+     "type": "family",
+     "label": "cousin John Carroll founded Georgetown"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Baltimore Iron Works & B&O"
+    },
+    {
+     "id": "howard-family",
+     "type": "political",
+     "label": "fellow Baltimore Federalist elite"
+    },
+    {
+     "id": "port-london",
+     "type": "trade",
+     "label": "tobacco and credit via London"
+    }
+   ]
+  },
+  {
+   "id": "lloyd-family",
+   "name": "Lloyd family of Wye House",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Edward Lloyd IV held 305 enslaved people in 1790 and Edward Lloyd V c. 420 in 1810 (Maryland State Archives); across generations the estate enslaved more than 1,000 people on up to 42,000 acres.",
+   "start": 1658,
+   "end": 1864,
+   "lifespan": "1650s–present",
+   "base": "Wye House, Talbot County, Maryland",
+   "geo": [
+    38.866,
+    -76.155
+   ],
+   "aliases": [
+    "Edward Lloyd IV",
+    "Edward Lloyd V (Governor)"
+   ],
+   "origins": "Edward Lloyd, a Welsh Puritan, settled on the Wye River in the 1650s. Successive Edward Lloyds became one of Maryland's wealthiest landholding and enslaving dynasties; Edward Lloyd V was governor (1809–1811) and U.S. Senator (1819–1826).",
+   "role_summary": "Wye House was the hub of a dozen outlying farms, each worked by 18–47 enslaved people under overseers, producing grain and tobacco. Frederick Douglass spent part of his childhood there in 1824 (owned by overseer Aaron Anthony) and described its brutality in his 1845 Narrative; later Lloyds moved enslaved people to new cotton plantations in the Deep South.",
+   "roleDetail": [
+    {
+     "t": "Plantation complex.",
+     "d": "In 1824 c. 181 enslaved people lived at the Wye House home plantation itself, per the Frederick Douglass Papers.",
+     "basis": "documented"
+    },
+    {
+     "t": "Frederick Douglass.",
+     "d": "Douglass's Narrative made 'Colonel Lloyd's' plantation emblematic of Chesapeake slavery.",
+     "basis": "documented"
+    },
+    {
+     "t": "Forced migration west.",
+     "d": "Edward Lloyd VI acquired cotton land in Mississippi, Arkansas and Louisiana and transferred enslaved people there.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Wye House remains privately owned by Lloyd descendants (11th–12th generation), who have allowed University of Maryland archaeologists (from 2005) to excavate the 'Long Green' quarters and greenhouse, where African-derived protective objects were found. Exhibits and a database of hundreds of enslaved people's names have resulted.",
+   "legacyDetail": [
+    {
+     "t": "Archaeology in Annapolis at Wye.",
+     "d": "UMD's project, conducted with the family's permission and with descendant communities, has documented quarters, greenhouse and named individuals.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Maryland State Archives — Aaron Anthony biography (Lloyd holdings, Douglass)",
+     "url": "https://msa.maryland.gov/megafile/msa/speccol/sc5400/sc5496/051800/051876/html/51876bio.html"
+    },
+    {
+     "label": "NPR — Plantation Dig Reveals Md. Town's Painful Past",
+     "url": "https://www.npr.org/2007/10/20/15383164/plantation-dig-reveals-md-towns-painful-past"
+    },
+    {
+     "label": "Wikipedia — Wye House",
+     "url": "https://en.wikipedia.org/wiki/Wye_House"
+    }
+   ],
+   "connections": [
+    {
+     "id": "wye-house",
+     "type": "plantation",
+     "label": "family seat since 1650s"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Chesapeake grain/tobacco"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "moved enslaved people to Deep South"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "political",
+     "label": "Eastern Shore opposed 1864 abolition"
+    },
+    {
+     "id": "ridgely-family",
+     "type": "parallel",
+     "label": "peer Maryland dynasty"
+    }
+   ]
+  },
+  {
+   "id": "ridgely-family",
+   "name": "Ridgely family of Hampton (Towson)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "The Ridgelys enslaved over 500 people from the colonial era to 1864: c. 130 in 1783, more than 300 by 1790, nearly 350 in 1829, 61 in 1860, per NPS.",
+   "start": 1745,
+   "end": 1864,
+   "lifespan": "1745–1948",
+   "base": "Hampton, Towson, Baltimore County, Maryland",
+   "geo": [
+    39.416,
+    -76.586
+   ],
+   "aliases": [
+    "Charles Ridgely",
+    "Charles Carnan Ridgely"
+   ],
+   "origins": "Charles Ridgely bought 1,500 acres in northern Baltimore County in 1745 and opened the Northampton Ironworks in 1761. His son Captain Charles Ridgely expanded holdings to c. 24,000 acres, partly from confiscated Loyalist land, and built the Hampton mansion (completed 1790).",
+   "role_summary": "Enslaved people — alongside convict and indentured servants — worked the ironworks, quarries, fields and mansion. Governor Charles Carnan Ridgely's 1829 will codicil freed people within set age bands, one of Maryland's largest manumissions, but it split families; his son John bought c. 60 more people and slavery continued at Hampton until Maryland abolished it in 1864.",
+   "roleDetail": [
+    {
+     "t": "Ironworks and plantation.",
+     "d": "Northampton Ironworks supplied iron, including during the Revolution, using enslaved and bound labor.",
+     "basis": "documented"
+    },
+    {
+     "t": "1829 manumission.",
+     "d": "Women 25–45 and men 28–45 were freed; younger people waited, and those over 45 were bequeathed to heirs under Maryland law.",
+     "basis": "documented"
+    },
+    {
+     "t": "Families divided.",
+     "d": "Daniel Harris was freed but his three-year-old daughter Mary was not; he bought her freedom in 1831.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Hampton passed to the federal government in 1948 as Hampton National Historic Site. NPS's 2020 study 'Tracing the Lives of the Enslaved' identified hundreds of living descendants of those freed in 1829, and the site interprets its quarters and enslaved community.",
+   "legacyDetail": [
+    {
+     "t": "Descendant research.",
+     "d": "The NPS Ethnographic Overview traces families freed in 1829 through generations to today.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Chattel Slavery at Hampton",
+     "url": "https://home.nps.gov/hamp/learn/historyculture/slavery-at-hampton.htm"
+    },
+    {
+     "label": "NPS — Tracing the Lives of the Enslaved study",
+     "url": "https://home.nps.gov/hamp/learn/tracing-lives-of-the-enslaved-study.htm"
+    },
+    {
+     "label": "NPS — Daniel and Mary Harris",
+     "url": "https://www.nps.gov/hamp/learn/historyculture/daniel-and-mary-harris.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "hampton-estate",
+     "type": "plantation",
+     "label": "Hampton plantation & ironworks"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "iron and grain via Baltimore"
+    },
+    {
+     "id": "johnson-family-catoctin",
+     "type": "parallel",
+     "label": "Maryland ironworks with enslaved labor"
+    },
+    {
+     "id": "howard-family",
+     "type": "family",
+     "label": "intermarried Baltimore gentry"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "legacy",
+     "label": "remaining people freed 1864"
+    }
+   ]
+  },
+  {
+   "id": "howard-family",
+   "name": "Howard family (John Eager Howard; Belvidere)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Minor",
+   "scaleBasis": "estimated",
+   "scaleNote": "No full count published; Howard's papers record buying, selling and manumitting enslaved people, his 1827 estate sale at Belvidere included enslaved persons, and the 1846 inventory of his son George Howard's estate at Waverly listed 25 enslaved men, women and children.",
+   "start": 1770,
+   "end": 1864,
+   "lifespan": "1752–1864 (as enslavers)",
+   "base": "Belvidere, Baltimore, Maryland",
+   "geo": [
+    39.302,
+    -76.615
+   ],
+   "aliases": [
+    "John Eager Howard",
+    "George Howard"
+   ],
+   "origins": "John Eager Howard (1752–1827) inherited Baltimore County land, won fame at the Battle of Cowpens (1781), and served as governor of Maryland (1788–1791) and U.S. Senator. He became one of Baltimore's largest landowners as the city expanded over his estates.",
+   "role_summary": "Howard's wealth was chiefly urban land, but he enslaved people on his Belvidere estate and other properties. His correspondence discusses the purchase and sale of enslaved people and deeds of manumission; his son George Howard, governor 1831–1833, enslaved people at Waverly (Marriottsville).",
+   "roleDetail": [
+    {
+     "t": "Documented transactions.",
+     "d": "Letters to Virgil Maxcy (NYPL) discuss buying and selling enslaved people and signing manumission deeds.",
+     "basis": "documented"
+    },
+    {
+     "t": "Estate sale, 1827.",
+     "d": "A sale at 'Belvidere House' after Howard's death included enslaved people, per Maryland Center for History and Culture holdings.",
+     "basis": "documented"
+    },
+    {
+     "t": "Waverly.",
+     "d": "After George Howard's death in August 1846, his estate inventory listed 25 enslaved people at Waverly.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Howard County, Howard and Eager Streets, and a 1904 equestrian statue in Mount Vernon Place honor him; he donated the land for Baltimore's Washington Monument. Public reckoning with his slaveholding has so far been limited.",
+   "legacyDetail": [
+    {
+     "t": "Commemorative landscape.",
+     "d": "Mount Vernon Place was laid out on land Howard gave, with his statue in the north garden.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NYPL Archives — John Eager Howard letters to Virgil Maxcy",
+     "url": "https://archives.nypl.org/mss/4457"
+    },
+    {
+     "label": "Wikipedia — Waverly (Marriottsville, Maryland)",
+     "url": "https://en.wikipedia.org/wiki/Waverly_(Marriottsville,_Maryland)"
+    },
+    {
+     "label": "Wikipedia — John Eager Howard",
+     "url": "https://en.wikipedia.org/wiki/John_Eager_Howard"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-baltimore",
+     "type": "ownership",
+     "label": "major Baltimore landowner"
+    },
+    {
+     "id": "carroll-family",
+     "type": "political",
+     "label": "Baltimore Federalist elite"
+    },
+    {
+     "id": "ridgely-family",
+     "type": "family",
+     "label": "Baltimore County gentry kin"
+    },
+    {
+     "id": "george-washington",
+     "type": "legacy",
+     "label": "gave land for Washington Monument"
+    }
+   ]
+  },
+  {
+   "id": "thomas-jefferson",
+   "name": "Thomas Jefferson",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Jefferson enslaved more than 600 (over 610) people in his lifetime, per Monticello's Getting Word project; c. 130 people were advertised for sale after his death to pay $107,000 of debt.",
+   "start": 1764,
+   "end": 1826,
+   "lifespan": "1743–1826",
+   "base": "Monticello, Albemarle County, Virginia",
+   "geo": [
+    38.011,
+    -78.453
+   ],
+   "aliases": [
+    "Jefferson family",
+    "Hemings family (enslaved)"
+   ],
+   "origins": "Jefferson inherited land and enslaved people from his father Peter Jefferson and, through his wife Martha Wayles Skelton, from John Wayles — an inheritance that included Elizabeth Hemings and her children. Wayles had acted as an agent in slave-ship sales in Virginia.",
+   "role_summary": "Author of the Declaration's 'all men are created equal', Jefferson ran Monticello and Poplar Forest with enslaved labor (tobacco, then wheat, a nailery and household work), bought and sold people, and freed only a handful. Most historians accept that he fathered Sally Hemings's children; as president he signed the 1807 Act ending legal imports.",
+   "roleDetail": [
+    {
+     "t": "Over 600 people.",
+     "d": "Monticello's records identify more than 610 people Jefferson enslaved over his life.",
+     "basis": "documented"
+    },
+    {
+     "t": "1827 dispersal sale.",
+     "d": "After his death, nearly 100 people were sold over five days at Monticello and at least 33 more in 1829, scattering families.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sally Hemings.",
+     "d": "Monticello and most scholars conclude Jefferson fathered six children with Hemings, whom he enslaved.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Signed the 1807 Act.",
+     "d": "He urged and signed the ban on importing captives effective 1 January 1808.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Monticello (Thomas Jefferson Foundation) now centers slavery in its interpretation, including the 2018 'Life of Sally Hemings' exhibit, and its Getting Word Oral History Project (since 1993) has recorded over 200 interviews with descendants. The University of Virginia, which Jefferson founded, has built a Memorial to Enslaved Laborers.",
+   "legacyDetail": [
+    {
+     "t": "Getting Word.",
+     "d": "The project documents hundreds of descendants of Monticello's enslaved families.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Monticello — Getting Word: About",
+     "url": "https://gettingword.monticello.org/about"
+    },
+    {
+     "label": "Monticello — The 1827 dispersal sale",
+     "url": "https://monticello.org/slaveauction"
+    },
+    {
+     "label": "Monticello — Sale of Monticello",
+     "url": "https://www.monticello.org/encyclopedia/sale-monticello/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "monticello",
+     "type": "plantation",
+     "label": "Monticello plantation"
+    },
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "signed the 1807 Act"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "served in Washington's cabinet"
+    },
+    {
+     "id": "macon-family",
+     "type": "political",
+     "label": "Republican ally Nathaniel Macon"
+    },
+    {
+     "id": "saint-domingue",
+     "type": "political",
+     "label": "refused to recognize Haiti"
+    }
+   ]
+  },
+  {
+   "id": "austin-woolfolk",
+   "name": "Austin Woolfolk",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "Baltimore's leading slave trader of the 1820s–30s, making tens of thousands of dollars a year; part of a Baltimore–New Orleans coastal trade that carried an estimated 15,000–20,000 people 1818–1860.",
+   "start": 1816,
+   "end": 1842,
+   "lifespan": "c. 1796–1847",
+   "base": "Pratt and Cove Streets, Baltimore, Maryland",
+   "geo": [
+    39.286,
+    -76.63
+   ],
+   "aliases": [
+    "Woolfolk family"
+   ],
+   "origins": "Woolfolk began trading in Baltimore around 1816, aged about 19, buying people in taverns and hotels; his uncle sold people he sent overland to Georgia. He belonged to a family network of traders.",
+   "role_summary": "Woolfolk professionalised the Baltimore trade with a fixed residence and private jail on West Pratt Street, 'CASH FOR NEGROES' advertising and a network of rural agents. He marched coffles south and shipped captives from Fells Point and the Inner Harbor to New Orleans; Frederick Douglass recalled his chained gangs passing at night.",
+   "roleDetail": [
+    {
+     "t": "Model of the slave jail.",
+     "d": "His fixed pen model was later copied by Franklin & Armfield, per Baltimore Heritage.",
+     "basis": "documented"
+    },
+    {
+     "t": "Violence against critics.",
+     "d": "On 9 January 1827 he beat abolitionist editor Benjamin Lundy, who had called him a 'monster in human shape'; he pleaded guilty and Judge Nicholas Brice fined him one dollar plus costs, remarking that the trade was beneficial.",
+     "basis": "documented"
+    },
+    {
+     "t": "Sea route.",
+     "d": "Coastwise ships carried his captives to New Orleans; one, the Decatur (1826), saw a revolt by those aboard.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "His Pratt Street site now lies under a divided highway near MLK Boulevard; Baltimore Heritage and city historical markers document it. He retired wealthy in 1842; Joseph Donovan took over the site.",
+   "legacyDetail": [
+    {
+     "t": "Marked site.",
+     "d": "Baltimore Heritage's 'Slave Trade in Baltimore' tour marks Woolfolk's jail.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Baltimore Heritage — Site of Austin Woolfolk's Slave Jail",
+     "url": "https://explore.baltimoreheritage.org/items/show/755"
+    },
+    {
+     "label": "TIME — Baltimore's slavery history",
+     "url": "https://time.com/3901537/baltimore-slavery-history/"
+    },
+    {
+     "label": "AHA 2018 — Baltimore to New Orleans coastal slave trade (paper abstract)",
+     "url": "https://aha.confex.com/aha/2018/webprogram/Paper22500.html"
+    },
+    {
+     "label": "Wikipedia — Austin Woolfolk",
+     "url": "https://en.wikipedia.org/wiki/Austin_Woolfolk"
+    }
+   ],
+   "connections": [
+    {
+     "id": "baltimore-pratt-street-slave-jails",
+     "type": "ownership",
+     "label": "ran Pratt & Cove St jail"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "shipped from Fells Point"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "voyage",
+     "label": "coastwise shipments"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "parallel",
+     "label": "pen model copied"
+    },
+    {
+     "id": "hope-h-slatter",
+     "type": "parallel",
+     "label": "successor Baltimore trader"
+    },
+    {
+     "id": "lloyd-family",
+     "type": "parallel",
+     "label": "Eastern Shore market Douglass described"
+    }
+   ]
+  },
+  {
+   "id": "hope-h-slatter",
+   "name": "Hope H. Slatter",
+   "category": "American Families",
+   "role": "Trader & Shipper",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "estimated",
+   "scaleNote": "A leading Baltimore trader 1835–late 1840s, shipping captives to New Orleans and holding others in his jail at 25 cents a day; no reliable total is published.",
+   "start": 1835,
+   "end": 1848,
+   "lifespan": "1790–1853",
+   "base": "Pratt Street (between Sharp and Howard), Baltimore, Maryland",
+   "geo": [
+    39.286,
+    -76.619
+   ],
+   "aliases": [
+    "Hope Hull Slatter"
+   ],
+   "origins": "Born in Georgia, Slatter worked with his brother Shadrack in New Orleans before moving to Baltimore in 1835. His son Henry joined the business.",
+   "role_summary": "From 1838 Slatter ran a private jail on Pratt Street — his house at one end, a two-storey brick prison at the other — buying Chesapeake people under 'Cash for Negroes' adverts, boarding others' captives, and shipping people south by sea. He sold the business to the Campbell brothers in the late 1840s and retired to Mobile.",
+   "roleDetail": [
+    {
+     "t": "Pratt Street jail.",
+     "d": "Baltimore Heritage dates the jail at 224 W. Pratt Street to 1838.",
+     "basis": "documented"
+    },
+    {
+     "t": "Boarding fees.",
+     "d": "1843 Baltimore Sun ads offered to hold people for 25 cents a day.",
+     "basis": "documented"
+    },
+    {
+     "t": "Successors.",
+     "d": "B. M. and W. L. Campbell continued the trade from the site.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "The site, near today's Camden Yards area of Pratt Street, is marked in Baltimore Heritage's slave-trade tour. Slatter died of yellow fever in Mobile in 1853.",
+   "legacyDetail": [
+    {
+     "t": "Heritage marking.",
+     "d": "Baltimore Heritage documents the 'Slatter/Campbell Slave Jail'.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Baltimore Heritage — Site of Slatter/Campbell Slave Jail",
+     "url": "https://explore.baltimoreheritage.org/items/show/753"
+    },
+    {
+     "label": "Wikipedia — Hope H. Slatter",
+     "url": "https://en.wikipedia.org/wiki/Hope_H._Slatter"
+    },
+    {
+     "label": "Afrolumens Project — Hope H. Slatter, 1843 advertisement",
+     "url": "https://afrolumens.com/violent/TraderSlatter18430715.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "baltimore-pratt-street-slave-jails",
+     "type": "ownership",
+     "label": "ran Pratt St jail"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "Baltimore market"
+    },
+    {
+     "id": "port-new-orleans",
+     "type": "voyage",
+     "label": "shipped captives south"
+    },
+    {
+     "id": "austin-woolfolk",
+     "type": "parallel",
+     "label": "predecessor trader"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "parallel",
+     "label": "rival Chesapeake firm"
+    }
+   ]
+  },
+  {
+   "id": "ball-family",
+   "name": "Ball family of South Carolina",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "Between 1698 and 1865 six generations owned more than twenty Cooper River rice plantations and enslaved nearly 4,000 people, per the Ball Family Slaveholder Index; Isaac Ball alone held 571.",
+   "start": 1698,
+   "end": 1865,
+   "lifespan": "1698–1865",
+   "base": "Comingtee, Cooper River, near Charleston, South Carolina",
+   "geo": [
+    33.06,
+    -79.93
+   ],
+   "aliases": [
+    "Elias Ball",
+    "Comingtee"
+   ],
+   "origins": "Elias Ball arrived from England in 1698 to claim a share of the Comingtee plantation inherited from his uncle John Coming. The family expanded across the Cooper River's tidal rice lands.",
+   "role_summary": "The Balls bought captives directly off transatlantic ships in Charleston — in 1756 Elias Ball bought five children from the Hare, sold by Henry Laurens's firm, including a ten-year-old girl from Sierra Leone he named Priscilla. Enslaved West Africans' rice-growing knowledge and labor made the Lowcountry estates profitable.",
+   "roleDetail": [
+    {
+     "t": "Buying from slave ships.",
+     "d": "Laurens's account book records the sale of five children from the Hare to Elias Ball on 30 June 1756.",
+     "basis": "documented"
+    },
+    {
+     "t": "Rice empire.",
+     "d": "Over twenty plantations, with surviving records for twenty-eight Ball properties.",
+     "basis": "documented"
+    },
+    {
+     "t": "Bunce Island question.",
+     "d": "Edward Ball linked the Hare to Bunce Island; newer research suggests most captives were bought along the Sierra Leone–Guinea coast.",
+     "basis": "interpretive"
+    }
+   ],
+   "legacy": "Descendant Edward Ball's 'Slaves in the Family' (1998, National Book Award) traced both the family and descendants of the people it enslaved. Research by Ball and Joseph Opala connected Thomalind Martin Polite, Priscilla's descendant, to Sierra Leone (homecoming 2005), a story now in the International African American Museum.",
+   "legacyDetail": [
+    {
+     "t": "Slaves in the Family.",
+     "d": "Ball's book began after a family reunion where no one mentioned the 4,000 people the family had enslaved.",
+     "basis": "documented"
+    },
+    {
+     "t": "Priscilla's homecoming.",
+     "d": "Yale's Gilder Lehrman Center documented Polite's 2005 visit to Sierra Leone.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Lowcountry Africana — Ball Family Slaveholder Index",
+     "url": "https://lowcountryafricana.com/ball-family-slaveholder-index/"
+    },
+    {
+     "label": "Yale Macmillan Center — Priscilla's Story",
+     "url": "https://macmillan.yale.edu/priscillas-story"
+    },
+    {
+     "label": "Edward Ball — Slaves in the Family",
+     "url": "https://www.edwardball.com/slaves-in-the-family"
+    },
+    {
+     "label": "Charleston City Paper — Polite: My family's link to West Africa is told in IAAM exhibit",
+     "url": "https://charlestoncitypaper.com/2024/01/22/polite-my-familys-link-to-west-africa-is-told-in-iaam-exhibit/"
+    }
+   ],
+   "connections": [
+    {
+     "id": "henry-laurens",
+     "type": "trade",
+     "label": "bought captives from Laurens's firm (1756)"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "Charleston slave market"
+    },
+    {
+     "id": "bunce-island",
+     "type": "trade",
+     "label": "Hare voyage linked to Sierra Leone"
+    },
+    {
+     "id": "international-african-american-museum",
+     "type": "legacy",
+     "label": "Priscilla exhibit"
+    },
+    {
+     "id": "middleton-family",
+     "type": "parallel",
+     "label": "Lowcountry rice dynasty"
+    }
+   ]
+  },
+  {
+   "id": "hampton-family",
+   "name": "Hampton family (Wade Hampton I, II, III)",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "estimated",
+   "scaleNote": "Wade Hampton I 'may have owned as many as 900' enslaved people by 1820 (South Carolina Encyclopedia), and at his 1835 death was said to hold c. 3,000 (a contemporary claim, unverified). In 1860 the Hamptons' Issaquena County, Mississippi, plantations held 335 people per the slave schedules, while Digital History credits Wade Hampton III with c. 900 in the Delta — counts vary by source and date.",
+   "start": 1780,
+   "end": 1865,
+   "lifespan": "1752–1902",
+   "base": "Columbia, South Carolina (Millwood); The Houmas, Louisiana; Mississippi",
+   "geo": [
+    34.0,
+    -81.035
+   ],
+   "aliases": [
+    "Wade Hampton I",
+    "Wade Hampton II",
+    "Wade Hampton III"
+   ],
+   "origins": "Wade Hampton I (1752–1835), a Revolutionary officer and land speculator, became a cotton planter in the South Carolina midlands and in 1811 bought Louisiana land (The Houmas) that he made the state's largest sugar operation, selling c. $100,000 a year by 1827.",
+   "role_summary": "Three generations built one of the antebellum South's largest slaveholding fortunes in cotton and sugar across South Carolina, Louisiana and Mississippi. Wade Hampton III, a Confederate general, became governor in 1876 after a campaign marked by Red Shirt violence that ended Reconstruction in South Carolina.",
+   "roleDetail": [
+    {
+     "t": "Sugar in Louisiana.",
+     "d": "The Houmas, worked by enslaved people, made Hampton I Louisiana's largest sugar producer by 1827.",
+     "basis": "documented"
+    },
+    {
+     "t": "Cotton empire.",
+     "d": "Hampton II and III held plantations in South Carolina and the Mississippi Delta (Hampton II's own Walnut Ridge tract was 2,529 acres).",
+     "basis": "documented"
+    },
+    {
+     "t": "Redemption.",
+     "d": "Hampton III's 1876 election, backed by armed Red Shirts, restored white minority rule.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "A Wade Hampton III equestrian statue stands on the South Carolina State House grounds, and his name remains on schools and places, some renamed after 2020 debates. Houmas House is a Louisiana museum; Millwood's ruins survive near Columbia.",
+   "legacyDetail": [
+    {
+     "t": "Contested memorials.",
+     "d": "Hampton monuments and names have been debated as part of Confederate memorial reviews.",
+     "basis": "interpretive"
+    }
+   ],
+   "sources": [
+    {
+     "label": "South Carolina Encyclopedia — Hampton, Wade I",
+     "url": "https://www.scencyclopedia.org/sce/entries/hampton-wade-i/"
+    },
+    {
+     "label": "South Carolina Encyclopedia — Hampton, Wade II",
+     "url": "https://scencyclopedia.org/sce/?p=3223"
+    },
+    {
+     "label": "Wikipedia — Wade Hampton III",
+     "url": "https://en.wikipedia.org/wiki/Wade_Hampton_III"
+    },
+    {
+     "label": "Digital History (University of Houston) — Biographical sidebar: Wade Hampton",
+     "url": "https://www.digitalhistory.uh.edu/exhibits/reconstruction/section5/section5_hampton.html"
+    }
+   ],
+   "connections": [
+    {
+     "id": "port-new-orleans",
+     "type": "trade",
+     "label": "Louisiana sugar market"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "South Carolina cotton"
+    },
+    {
+     "id": "andrew-jackson",
+     "type": "political",
+     "label": "War of 1812 era (Hampton I a U.S. general)"
+    },
+    {
+     "id": "middleton-family",
+     "type": "political",
+     "label": "South Carolina planter elite"
+    },
+    {
+     "id": "andrew-johnson",
+     "type": "political",
+     "label": "benefited from lenient Reconstruction"
+    }
+   ]
+  },
+  {
+   "id": "middleton-family",
+   "name": "Middleton family of South Carolina",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Major",
+   "scaleBasis": "documented",
+   "scaleNote": "The Middleton Place Foundation identifies some 2,800 people enslaved by the Middleton family between 1738 and 1865 across their rice plantations.",
+   "start": 1738,
+   "end": 1865,
+   "lifespan": "1678–present",
+   "base": "Middleton Place, Ashley River, South Carolina",
+   "geo": [
+    32.9,
+    -80.138
+   ],
+   "aliases": [
+    "Henry Middleton",
+    "Arthur Middleton",
+    "Williams Middleton"
+   ],
+   "origins": "The Middletons arrived in Carolina from Barbados in the late 1600s. Henry Middleton acquired the Ashley River estate by marriage in 1741 and later presided over the First Continental Congress; his son Arthur signed the Declaration of Independence.",
+   "role_summary": "Enslaved Africans and their descendants built and worked the Middletons' rice fields, terraced gardens and house; the family's wealth and political leadership — from Congress to the 1860 Ordinance of Secession, which Williams Middleton signed — rested on their labor.",
+   "roleDetail": [
+    {
+     "t": "Rice plantations.",
+     "d": "The Ashley River rice fields were likely built by enslaved people brought from West Africa.",
+     "basis": "interpretive"
+    },
+    {
+     "t": "Secession.",
+     "d": "Williams Middleton signed South Carolina's Ordinance of Secession (1860); Union troops burned the house in 1865.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Middleton Place (Foundation-owned, a National Historic Landmark) runs the 'Beyond the Fields' exhibit and tours on its enslaved people, and since 2006 has hosted joint reunions of Black and white Middleton descendants (c. 300 attended in 2016), which led to a tuition assistance program.",
+   "legacyDetail": [
+    {
+     "t": "Joint descendant reunions.",
+     "d": "Begun in 2006 at the suggestion of an African American descendant.",
+     "basis": "documented"
+    },
+    {
+     "t": "Eliza's House.",
+     "d": "A freedmen's dwelling on site interprets enslaved and post-emancipation lives.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "Wikipedia — Middleton Place",
+     "url": "https://en.wikipedia.org/wiki/Middleton_Place"
+    },
+    {
+     "label": "Suffolk University — Reinterpreting Life on a Southern Plantation",
+     "url": "https://suffolk.edu/news-features/news/2019/09/03/15/24/reinterpreting-life-on-a-southern-plantation"
+    },
+    {
+     "label": "The Cultural Landscape Foundation — Middleton Place",
+     "url": "https://www.tclf.org/middleton-place"
+    }
+   ],
+   "connections": [
+    {
+     "id": "international-african-american-museum",
+     "type": "parallel",
+     "label": "Lowcountry descendant history"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "Charleston rice/slave market"
+    },
+    {
+     "id": "henry-laurens",
+     "type": "political",
+     "label": "Continental Congress presidents"
+    },
+    {
+     "id": "pinckney-family",
+     "type": "family",
+     "label": "intermarried Lowcountry elite"
+    },
+    {
+     "id": "ball-family",
+     "type": "parallel",
+     "label": "Lowcountry rice dynasty"
+    }
+   ]
+  },
+  {
+   "id": "pinckney-family",
+   "name": "Pinckney family of South Carolina",
+   "category": "American Families",
+   "role": "Planter & Enslaver",
+   "nation": "United States",
+   "scale": "Significant",
+   "scaleBasis": "documented",
+   "scaleNote": "Charles Cotesworth Pinckney enslaved c. 250 people, per NPS; Charles Pinckney's Snee Farm (715 acres) and other estates were worked by enslaved people producing rice and indigo.",
+   "start": 1739,
+   "end": 1865,
+   "lifespan": "1739–1865",
+   "base": "Charleston and Snee Farm, Mount Pleasant, South Carolina",
+   "geo": [
+    32.846,
+    -79.825
+   ],
+   "aliases": [
+    "Charles Cotesworth Pinckney",
+    "Charles Pinckney",
+    "Eliza Lucas Pinckney",
+    "Thomas Pinckney"
+   ],
+   "origins": "Eliza Lucas Pinckney developed indigo as a South Carolina export crop in the 1740s using enslaved labor and expertise. Her sons Charles Cotesworth and Thomas Pinckney and their cousin Charles Pinckney became leading Federalist-era statesmen.",
+   "role_summary": "At the 1787 Constitutional Convention C. C. Pinckney and Charles Pinckney insisted South Carolina would reject a Constitution that empowered Congress to ban the Atlantic slave trade, helping secure the clause protecting imports until 1808.",
+   "roleDetail": [
+    {
+     "t": "Defending the trade in 1787.",
+     "d": "NPS's convention chronicle records C. C. Pinckney's 22 August 1787 argument for protecting slave imports.",
+     "basis": "documented"
+    },
+    {
+     "t": "Snee Farm.",
+     "d": "Charles Pinckney inherited Snee Farm in 1782 and grew rice and indigo with enslaved workers; a 1787 inventory lists them by name.",
+     "basis": "documented"
+    }
+   ],
+   "legacy": "Charles Pinckney National Historic Site (est. 1988) preserves 28 acres of Snee Farm and uses archaeology to interpret the enslaved community there.",
+   "legacyDetail": [
+    {
+     "t": "NPS interpretation.",
+     "d": "The park's 'Enslaved Community of Snee Farm' presents archaeology of quarters and daily life.",
+     "basis": "documented"
+    }
+   ],
+   "sources": [
+    {
+     "label": "NPS — Enslaved Community of Snee Farm",
+     "url": "https://home.nps.gov/articles/000/enslaved-community-of-snee-farm.htm"
+    },
+    {
+     "label": "NPS — Constitutional Convention, August 22",
+     "url": "https://nps.gov/articles/000/constitutionalconvention-august22.htm"
+    },
+    {
+     "label": "NPS — Charles Pinckney",
+     "url": "https://www.nps.gov/chpi/learn/historyculture/charles-pinckney.htm"
+    }
+   ],
+   "connections": [
+    {
+     "id": "us-slave-trade-act-1807",
+     "type": "political",
+     "label": "secured 20-year protection of imports"
+    },
+    {
+     "id": "port-charleston",
+     "type": "trade",
+     "label": "Charleston planter-merchants"
+    },
+    {
+     "id": "middleton-family",
+     "type": "family",
+     "label": "Lowcountry kin network"
+    },
+    {
+     "id": "henry-laurens",
+     "type": "political",
+     "label": "fellow SC Revolutionary leaders"
+    },
+    {
+     "id": "george-washington",
+     "type": "political",
+     "label": "C. C. Pinckney served in Washington administration"
+    }
+   ]
+  },
+  {
+   "id": "port-baltimore",
+   "name": "Port of Baltimore (Fells Point and Inner Harbor)",
+   "type": "entity",
+   "kind": "Port",
+   "description": "Baltimore grew as an export port for Chesapeake tobacco and grain produced largely by enslaved people, and became a hub of the domestic slave trade: slave jails clustered between the Inner Harbor and Fells Point, and an estimated 15,000–20,000 people were shipped by sea to New Orleans between 1818 and 1860 (AHA 2018 paper; NARA M1895 manifests). Baltimore also had the largest free Black population of any U.S. city by 1860.",
+   "start": 1729,
+   "geo": [
+    39.283,
+    -76.593
+   ],
+   "connections": [
+    {
+     "id": "port-new-orleans",
+     "type": "voyage",
+     "label": "coastwise slave shipments"
+    },
+    {
+     "id": "baltimore-pratt-street-slave-jails",
+     "type": "trade",
+     "label": "slave jails"
+    },
+    {
+     "id": "franklin-and-armfield",
+     "type": "trade",
+     "label": "Chesapeake buying territory"
+    },
+    {
+     "id": "calvert-family",
+     "type": "legacy",
+     "label": "named for Lord Baltimore"
+    }
+   ]
+  },
+  {
+   "id": "baltimore-pratt-street-slave-jails",
+   "name": "Pratt Street slave jails, Baltimore",
+   "type": "entity",
+   "kind": "Slave pen / jail",
+   "description": "Private jails on West Pratt Street held people bought in the Chesapeake before sale south: Austin Woolfolk's at Pratt and Cove (by 1821), Hope H. Slatter's at 224 W. Pratt (1838, later the Campbells'), and Joseph Donovan's. Sites are marked by Baltimore Heritage; most lie under modern roads near Camden Yards and MLK Boulevard.",
+   "start": 1821,
+   "geo": [
+    39.286,
+    -76.625
+   ],
+   "connections": [
+    {
+     "id": "austin-woolfolk",
+     "type": "ownership",
+     "label": "Woolfolk jail"
+    },
+    {
+     "id": "hope-h-slatter",
+     "type": "ownership",
+     "label": "Slatter/Campbell jail"
+    },
+    {
+     "id": "port-baltimore",
+     "type": "trade",
+     "label": "shipped via harbor"
+    },
+    {
+     "id": "freedom-house-alexandria",
+     "type": "parallel",
+     "label": "comparable Alexandria pen"
+    }
+   ]
+  },
+  {
+   "id": "mount-vernon",
+   "name": "Mount Vernon",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "George Washington's 8,000-acre, five-farm plantation on the Potomac, where 317 enslaved people lived in 1799. Owned since 1858 by the Mount Vernon Ladies' Association, it now interprets slavery extensively, including the 1983 Slave Memorial and ongoing burial-ground archaeology.",
+   "start": 1754,
+   "geo": [
+    38.708,
+    -77.086
+   ],
+   "connections": [
+    {
+     "id": "george-washington",
+     "type": "ownership",
+     "label": "Washington's estate"
+    },
+    {
+     "id": "custis-family",
+     "type": "plantation",
+     "label": "dower enslaved people"
+    }
+   ]
+  },
+  {
+   "id": "monticello",
+   "name": "Monticello",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Thomas Jefferson's Albemarle County plantation, where hundreds of enslaved people worked fields, a nailery and the household. Most of the enslaved community was sold in 1827 to pay his debts; today the Thomas Jefferson Foundation interprets Mulberry Row, Sally Hemings's life and descendant histories through Getting Word.",
+   "start": 1768,
+   "geo": [
+    38.011,
+    -78.453
+   ],
+   "connections": [
+    {
+     "id": "thomas-jefferson",
+     "type": "ownership",
+     "label": "Jefferson's home"
+    }
+   ]
+  },
+  {
+   "id": "the-hermitage",
+   "name": "The Hermitage (Nashville)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Andrew Jackson's cotton plantation, where about 150 people were enslaved at his death in 1845. The Andrew Jackson Foundation located its enslaved cemetery (at least 28 burials) in 2024 and is forming a descendant advisory committee.",
+   "start": 1804,
+   "geo": [
+    36.215,
+    -86.613
+   ],
+   "connections": [
+    {
+     "id": "andrew-jackson",
+     "type": "ownership",
+     "label": "Jackson's plantation"
+    }
+   ]
+  },
+  {
+   "id": "riversdale",
+   "name": "Riversdale (Riverdale Park, Maryland)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Plantation house completed by Rosalie Stier Calvert and George Calvert in the early 1800s, worked by enslaved people including diarist Adam Francis Plummer; part of its land became the University of Maryland campus. Now a National Historic Landmark house museum run by M-NCPPC that interprets its enslaved workforce.",
+   "start": 1801,
+   "geo": [
+    38.962,
+    -76.931
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "ownership",
+     "label": "Calvert plantation"
+    }
+   ]
+  },
+  {
+   "id": "wye-house",
+   "name": "Wye House",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "Seat of the Lloyd family on Maryland's Eastern Shore since the 1650s, hub of farms that enslaved hundreds; Frederick Douglass lived there as an enslaved child in 1824. Still privately owned by Lloyd descendants; UMD archaeology since 2005 has uncovered quarters and African-derived ritual objects.",
+   "start": 1658,
+   "geo": [
+    38.866,
+    -76.155
+   ],
+   "connections": [
+    {
+     "id": "lloyd-family",
+     "type": "ownership",
+     "label": "Lloyd family seat"
+    }
+   ]
+  },
+  {
+   "id": "hampton-estate",
+   "name": "Hampton National Historic Site (Towson)",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "The Ridgely family's Baltimore County plantation and ironworks estate, with a mansion completed in 1790 and surviving stone slave quarters; nearly 350 people were enslaved there in 1829. NPS has operated it since 1948 and researches descendants of the enslaved.",
+   "start": 1745,
+   "geo": [
+    39.416,
+    -76.586
+   ],
+   "connections": [
+    {
+     "id": "ridgely-family",
+     "type": "ownership",
+     "label": "Ridgely estate"
+    }
+   ]
+  },
+  {
+   "id": "doughoregan-manor",
+   "name": "Doughoregan Manor",
+   "type": "entity",
+   "kind": "Colony / plantation",
+   "description": "The Carroll family's c. 10,000-acre Howard County estate, where a 1773 inventory listed 330 enslaved people by family. It remained in Carroll family hands long after Charles Carroll of Carrollton's death in 1832 and is a National Historic Landmark.",
+   "start": 1702,
+   "geo": [
+    39.278,
+    -76.88
+   ],
+   "connections": [
+    {
+     "id": "carroll-family",
+     "type": "ownership",
+     "label": "Carroll seat"
+    }
+   ]
+  },
+  {
+   "id": "catoctin-furnace",
+   "name": "Catoctin Furnace",
+   "type": "entity",
+   "kind": "Ironworks",
+   "description": "Iron furnace founded in 1776 by Thomas Johnson and three of his brothers in Frederick County and worked by enslaved African American ironworkers; it made iron for the Continental Army. Its African American cemetery (c. 100 graves; donated to Cunningham Falls State Park in 2026) is the subject of a 2023 Science ancient-DNA study linking nearly 42,000 living people to 27 individuals buried there.",
+   "start": 1774,
+   "geo": [
+    39.584,
+    -77.434
+   ],
+   "connections": [
+    {
+     "id": "johnson-family-catoctin",
+     "type": "ownership",
+     "label": "Johnson brothers' furnace"
+    }
+   ]
+  },
+  {
+   "id": "maryland-slave-law-1664",
+   "name": "Maryland Act of 1664 (lifelong slavery)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Act of the Maryland assembly, under the Calverts' proprietary government, declaring that enslaved Africans in the province and those imported later would serve 'durante vita' (for life), with their children enslaved as well. It gave legislative sanction to slavery practiced since the 1640s and anchored the Chesapeake tobacco economy.",
+   "start": 1664,
+   "geo": [
+    38.187,
+    -76.434
+   ],
+   "connections": [
+    {
+     "id": "calvert-family",
+     "type": "charter",
+     "label": "enacted under proprietors"
+    },
+    {
+     "id": "code-noir",
+     "type": "parallel",
+     "label": "colonial slave codes"
+    },
+    {
+     "id": "maryland-abolition-1864",
+     "type": "legacy",
+     "label": "repealed in effect 1864"
+    }
+   ]
+  },
+  {
+   "id": "maryland-abolition-1864",
+   "name": "Maryland Constitution of 1864 (abolition)",
+   "type": "entity",
+   "kind": "Charter / law / treaty",
+   "description": "Maryland's third constitution, ratified narrowly by referendum on 12–13 October 1864 (soldiers' votes provided the margin) and effective 1 November 1864, abolished slavery in the state a year before the 13th Amendment. 1 November is now marked as Maryland Emancipation Day.",
+   "start": 1864,
+   "geo": [
+    38.978,
+    -76.492
+   ],
+   "connections": [
+    {
+     "id": "maryland-slave-law-1664",
+     "type": "legacy",
+     "label": "ended Maryland slavery"
+    },
+    {
+     "id": "ridgely-family",
+     "type": "legacy",
+     "label": "freed remaining Hampton people"
+    },
+    {
+     "id": "lloyd-family",
+     "type": "legacy",
+     "label": "freed Wye House people"
+    }
+   ]
+  }
+ ],
+ "events": [
+  {
+   "year": 1664,
+   "title": "Maryland makes slavery lifelong",
+   "text": "Under the Calvert proprietorship, Maryland's assembly declared that enslaved Africans would serve 'durante vita' and their children would be enslaved.",
+   "ids": [
+    "maryland-slave-law-1664",
+    "calvert-family"
+   ],
+   "source": {
+    "label": "Maryland State Archives — Blacks Before the Law in Colonial Maryland",
+    "url": "https://msa.maryland.gov/msa/speccol/sc5300/sc5348/html/chap3.html"
+   }
+  },
+  {
+   "year": 1756,
+   "title": "Elias Ball buys 'Priscilla' off the Hare",
+   "text": "Henry Laurens's firm sold five children from the Sierra Leone voyage of the Hare to Elias Ball, including a ten-year-old girl he named Priscilla.",
+   "ids": [
+    "ball-family",
+    "henry-laurens",
+    "port-charleston"
+   ],
+   "source": {
+    "label": "Yale Macmillan Center — Priscilla's Story",
+    "url": "https://macmillan.yale.edu/priscillas-story"
+   }
+  },
+  {
+   "year": 1766,
+   "title": "Washington sells Tom to St. Kitts",
+   "text": "George Washington shipped Tom, a Mount Vernon foreman, to the Caribbean for sale, receiving rum, sweetmeats and coin in return.",
+   "ids": [
+    "george-washington",
+    "mount-vernon"
+   ],
+   "source": {
+    "label": "Mount Vernon — Tom",
+    "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/tom"
+   }
+  },
+  {
+   "year": 1799,
+   "title": "Mount Vernon census: 317 people",
+   "text": "Washington's census listed 317 enslaved people — 123 his own, 153 Custis dower people and c. 40 rented; his will freed his own after Martha's death (1801).",
+   "ids": [
+    "george-washington",
+    "custis-family",
+    "mount-vernon"
+   ],
+   "source": {
+    "label": "Mount Vernon — Census of the Enslaved Population",
+    "url": "https://mountvernon.org/library/digitalhistory/digital-encyclopedia/article/census-of-the-enslaved-population-at-mount-vernon-1786-and-1799"
+   }
+  },
+  {
+   "year": 1807,
+   "title": "Import ban leaves domestic trade open",
+   "text": "Jefferson signed, and Speaker Nathaniel Macon's House passed, the ban on importing captives from 1808 — after which Chesapeake enslavers increasingly sold people south.",
+   "ids": [
+    "us-slave-trade-act-1807",
+    "thomas-jefferson",
+    "macon-family",
+    "port-baltimore"
+   ],
+   "source": {
+    "label": "NCpedia — Nathaniel Macon",
+    "url": "https://ncpedia.org/node/13563"
+   }
+  },
+  {
+   "year": 1811,
+   "title": "Jackson drives a coffle on the Natchez Trace",
+   "text": "Andrew Jackson confronted federal agent Silas Dinsmoor, who demanded passes for the enslaved people Jackson was taking south to market.",
+   "ids": [
+    "andrew-jackson"
+   ],
+   "source": {
+    "label": "Scalawag — Ending the myth of the historic Natchez Trace",
+    "url": "https://scalawagmagazine.org/2020/05/natchez-trace-tourism-history/"
+   }
+  },
+  {
+   "year": 1827,
+   "title": "Monticello dispersal sale",
+   "text": "To pay Jefferson's debts, nearly 100 enslaved people were auctioned at Monticello over five days in January, splitting families.",
+   "ids": [
+    "thomas-jefferson",
+    "monticello"
+   ],
+   "source": {
+    "label": "Monticello — 1827 dispersal sale",
+    "url": "https://monticello.org/slaveauction"
+   }
+  },
+  {
+   "year": 1829,
+   "title": "Ridgely will frees Hampton people by age",
+   "text": "Gov. Charles Carnan Ridgely's codicil manumitted adults in set age bands — one of Maryland's largest manumissions — while leaving others enslaved.",
+   "ids": [
+    "ridgely-family",
+    "hampton-estate"
+   ],
+   "source": {
+    "label": "NPS — Chattel Slavery at Hampton",
+    "url": "https://home.nps.gov/hamp/learn/historyculture/slavery-at-hampton.htm"
+   }
+  },
+  {
+   "year": 1838,
+   "title": "Maryland Jesuits sell 272+ people",
+   "text": "Jesuits sold at least 272 people from southern Maryland plantations to Louisiana for $115,000 to relieve Georgetown College's debts.",
+   "ids": [
+    "georgetown-university",
+    "carroll-family",
+    "port-new-orleans"
+   ],
+   "source": {
+    "label": "Georgetown Slavery Archive — Sale of Maryland Jesuit enslaved community, 1838",
+    "url": "https://slaveryarchive.georgetown.edu/collections/show/1"
+   }
+  },
+  {
+   "year": 1864,
+   "title": "Maryland abolishes slavery",
+   "text": "Maryland's new constitution, narrowly ratified by referendum, ended slavery in the state on 1 November 1864.",
+   "ids": [
+    "maryland-abolition-1864",
+    "ridgely-family",
+    "lloyd-family"
+   ],
+   "source": {
+    "label": "Maryland State Archives — Constitutional Convention of 1864",
+    "url": "https://msa.maryland.gov/msa/speccol/sc2600/sc2685/html/conv1864.html"
+   }
+  },
+  {
+   "year": 1998,
+   "title": "'Slaves in the Family' wins National Book Award",
+   "text": "Edward Ball's history of his family's rice plantations and the c. 4,000 people they enslaved won the National Book Award for nonfiction.",
+   "ids": [
+    "ball-family"
+   ],
+   "source": {
+    "label": "Edward Ball — Slaves in the Family",
+    "url": "https://www.edwardball.com/slaves-in-the-family"
+   }
+  },
+  {
+   "year": 2024,
+   "title": "Hermitage locates enslaved cemetery; UMD reports on Calvert",
+   "text": "The Hermitage announced it had found the burial ground of people Jackson enslaved, and UMD's 1856 Project documented Charles B. Calvert's enslavement of 52 people.",
+   "ids": [
+    "andrew-jackson",
+    "the-hermitage",
+    "calvert-family",
+    "riversdale"
+   ],
+   "source": {
+    "label": "AP (via News4Jax) — Hermitage burial site found",
+    "url": "https://www.news4jax.com/news/national/2024/12/11/the-burial-site-of-the-people-andrew-jackson-enslaved-was-lost-the-hermitage-says-it-is-found/"
+   }
+  }
+ ]
+}
